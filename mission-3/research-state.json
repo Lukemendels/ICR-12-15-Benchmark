@@ -18,9 +18,10 @@
     "Batch 02: 19 frozen credentialing activity rows normalized; new foreign-carrier statement evidence indexed with original line locators (not yet adjudicated)",
     "Fresh public retrieval complete for all 90 recent ICR packages; all expose a Supporting Statement A. Batch 03 indexed all recent security-program versions. Immediate prior-package retrieval started from explicit lineage links.",
     "Batch04: all 26 recent credentialing/redress/vetting statement versions indexed; section-boundary exceptions corrected. Batch03 explicit headers yielded 80 scalar activity rows; unmapped tables retained separately.",
-    "Batch05: cyber/surface assessment versions indexed; all ten frozen TSA models now reused. 44 immediate prior packages retrieved; one no-statement administrative package requires its predecessor."
+    "Batch05: cyber/surface assessment versions indexed; all ten frozen TSA models now reused. 44 immediate prior packages retrieved; one no-statement administrative package requires its predecessor.",
+    "Batch06: independently recovered 26 credentialing documents / 186 OOXML tables with explicit merged-cell origins and no geometry violations; normalized 45 scalar activity/cohort rows in 11 tables. Remaining table semantics explicitly queued."
   ],
-  "next": "Preserve merged table geometry for cohort normalization; operational and other family batches; inspect extracted evidence and method novelty",
+  "next": "Review formula-header credential cohorts (TWIC/PreCheck), retaining partition/transition relationships; then operational and other families.",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,
@@ -42,5 +43,6 @@
     "active_icr_packages": 42,
     "pending_icr_packages": 7,
     "excluded_opm_common_form_requests": 2
-  }
+  },
+  "continuation_base_commit": "23074f3d4927c42b15f552f79368496aa8772f48"
 }

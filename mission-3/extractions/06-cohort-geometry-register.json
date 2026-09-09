@@ -1,0 +1,210 @@
+[
+  {
+    "ref": "202111-1652-002",
+    "document_id": "e844216bd19388f7",
+    "path": "mission-3/geometry/202111-1652-002/e844216bd19388f7.json",
+    "tables": 3,
+    "rows": 24,
+    "issues": []
+  },
+  {
+    "ref": "202402-1652-001",
+    "document_id": "063a47f93f61f15f",
+    "path": "mission-3/geometry/202402-1652-001/063a47f93f61f15f.json",
+    "tables": 5,
+    "rows": 12,
+    "issues": []
+  },
+  {
+    "ref": "202405-1652-001",
+    "document_id": "ec74603e0223618a",
+    "path": "mission-3/geometry/202405-1652-001/ec74603e0223618a.json",
+    "tables": 3,
+    "rows": 20,
+    "issues": []
+  },
+  {
+    "ref": "202112-1652-003",
+    "document_id": "580e2b158a892268",
+    "path": "mission-3/geometry/202112-1652-003/580e2b158a892268.json",
+    "tables": 15,
+    "rows": 142,
+    "issues": []
+  },
+  {
+    "ref": "202502-1652-005",
+    "document_id": "f0d95b1c8890ec97",
+    "path": "mission-3/geometry/202502-1652-005/f0d95b1c8890ec97.json",
+    "tables": 15,
+    "rows": 142,
+    "issues": []
+  },
+  {
+    "ref": "202606-1652-002",
+    "document_id": "00a9c8c3eeb406bf",
+    "path": "mission-3/geometry/202606-1652-002/00a9c8c3eeb406bf.json",
+    "tables": 14,
+    "rows": 133,
+    "issues": []
+  },
+  {
+    "ref": "202112-1652-002",
+    "document_id": "358386eb0116ab14",
+    "path": "mission-3/geometry/202112-1652-002/358386eb0116ab14.json",
+    "tables": 4,
+    "rows": 31,
+    "issues": []
+  },
+  {
+    "ref": "202501-1652-002",
+    "document_id": "8af37d2513d06399",
+    "path": "mission-3/geometry/202501-1652-002/8af37d2513d06399.json",
+    "tables": 4,
+    "rows": 31,
+    "issues": []
+  },
+  {
+    "ref": "202205-1652-002",
+    "document_id": "fa0da99226dd3cd2",
+    "path": "mission-3/geometry/202205-1652-002/fa0da99226dd3cd2.json",
+    "tables": 7,
+    "rows": 33,
+    "issues": []
+  },
+  {
+    "ref": "202503-1652-002",
+    "document_id": "c4aa0bc913517a15",
+    "path": "mission-3/geometry/202503-1652-002/c4aa0bc913517a15.json",
+    "tables": 7,
+    "rows": 34,
+    "issues": []
+  },
+  {
+    "ref": "202411-1652-008",
+    "document_id": "cd40aa0f0f51e80e",
+    "path": "mission-3/geometry/202411-1652-008/cd40aa0f0f51e80e.json",
+    "tables": 1,
+    "rows": 12,
+    "issues": []
+  },
+  {
+    "ref": "202109-1652-002",
+    "document_id": "16cc5c748b6eb4b7",
+    "path": "mission-3/geometry/202109-1652-002/16cc5c748b6eb4b7.json",
+    "tables": 5,
+    "rows": 25,
+    "issues": []
+  },
+  {
+    "ref": "202502-1652-003",
+    "document_id": "2efbc1473ae7c01a",
+    "path": "mission-3/geometry/202502-1652-003/2efbc1473ae7c01a.json",
+    "tables": 5,
+    "rows": 25,
+    "issues": []
+  },
+  {
+    "ref": "202511-1652-001",
+    "document_id": "6294f56ee7c9fc3c",
+    "path": "mission-3/geometry/202511-1652-001/6294f56ee7c9fc3c.json",
+    "tables": 5,
+    "rows": 24,
+    "issues": []
+  },
+  {
+    "ref": "202502-1652-004",
+    "document_id": "4639c859f157e253",
+    "path": "mission-3/geometry/202502-1652-004/4639c859f157e253.json",
+    "tables": 19,
+    "rows": 161,
+    "issues": []
+  },
+  {
+    "ref": "202504-1652-008",
+    "document_id": "ec91651842d62d7c",
+    "path": "mission-3/geometry/202504-1652-008/ec91651842d62d7c.json",
+    "tables": 19,
+    "rows": 158,
+    "issues": []
+  },
+  {
+    "ref": "202407-1652-001",
+    "document_id": "d34f137d5c9271f3",
+    "path": "mission-3/geometry/202407-1652-001/d34f137d5c9271f3.json",
+    "tables": 20,
+    "rows": 109,
+    "issues": []
+  },
+  {
+    "ref": "202605-1652-002",
+    "document_id": "645a4293a181a0d6",
+    "path": "mission-3/geometry/202605-1652-002/645a4293a181a0d6.json",
+    "tables": 22,
+    "rows": 128,
+    "issues": []
+  },
+  {
+    "ref": "202503-1652-001",
+    "document_id": "26928dbfe8aec669",
+    "path": "mission-3/geometry/202503-1652-001/26928dbfe8aec669.json",
+    "tables": 0,
+    "rows": 0,
+    "issues": []
+  },
+  {
+    "ref": "202203-1652-006",
+    "document_id": "25c6c152728ad171",
+    "path": "mission-3/geometry/202203-1652-006/25c6c152728ad171.json",
+    "tables": 2,
+    "rows": 14,
+    "issues": []
+  },
+  {
+    "ref": "202507-1652-001",
+    "document_id": "858bb1d7e5db0f50",
+    "path": "mission-3/geometry/202507-1652-001/858bb1d7e5db0f50.json",
+    "tables": 2,
+    "rows": 14,
+    "issues": []
+  },
+  {
+    "ref": "202206-1652-001",
+    "document_id": "7874f8a5e3aab5f2",
+    "path": "mission-3/geometry/202206-1652-001/7874f8a5e3aab5f2.json",
+    "tables": 2,
+    "rows": 8,
+    "issues": []
+  },
+  {
+    "ref": "202509-1652-001",
+    "document_id": "93787579c5ece659",
+    "path": "mission-3/geometry/202509-1652-001/93787579c5ece659.json",
+    "tables": 2,
+    "rows": 8,
+    "issues": []
+  },
+  {
+    "ref": "202302-1652-001",
+    "document_id": "8e73d8108017fe72",
+    "path": "mission-3/geometry/202302-1652-001/8e73d8108017fe72.json",
+    "tables": 3,
+    "rows": 76,
+    "issues": []
+  },
+  {
+    "ref": "202410-1652-003",
+    "document_id": "3d2299ea56cbc8a0",
+    "path": "mission-3/geometry/202410-1652-003/3d2299ea56cbc8a0.json",
+    "tables": 1,
+    "rows": 8,
+    "issues": []
+  },
+  {
+    "ref": "202410-1652-004",
+    "document_id": "b5fa062192cb9f44",
+    "path": "mission-3/geometry/202410-1652-004/b5fa062192cb9f44.json",
+    "tables": 1,
+    "rows": 8,
+    "issues": []
+  }
+]
