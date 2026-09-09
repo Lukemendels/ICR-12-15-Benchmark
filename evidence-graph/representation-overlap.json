@@ -1,0 +1,220 @@
+[
+  {
+    "locator": "mission-3/sources/202202-1652-001/6da19e778d42372d.txt:L63",
+    "node_ids": [
+      "OTHER-89b26c9a2b6e681577",
+      "OTHER-0a43281c1274a1c5da"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202202-1652-003/e48c42fcfe84ce6d.txt:L77",
+    "node_ids": [
+      "OPA-6ba79236a5c8c1b983",
+      "OPA-42915650890a346d51"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202203-1652-006/25c6c152728ad171.txt:L67",
+    "node_ids": [
+      "PTASK-6bb0f455e6a65a420f",
+      "PTASK-683b894d3de211938b"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202301-1652-003/fd52e752050b550e.txt:L79",
+    "node_ids": [
+      "OPA-84c882b275668d9b5c",
+      "OPA-0f99b255753d9079e0"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202301-1652-003/fd52e752050b550e.txt:L94",
+    "node_ids": [
+      "OPA-f7e4b2e51c9facf6ca",
+      "OPA-3a602bafcd616f7d3c"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202302-1652-001/8e73d8108017fe72.txt:L120",
+    "node_ids": [
+      "PTASK-74709683b501b799de",
+      "PTASK-8633002ff42aae1455"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202304-1652-001/12699519f3c180ae.txt:L136",
+    "node_ids": [
+      "OTHER-f5dfc9db578804acf9",
+      "OTHER-ec9a00402204ec7d55"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202305-1652-001/49e0156db068b82e.txt:L55",
+    "node_ids": [
+      "OTHER-794f6950600f553d2f",
+      "OTHER-1cb6d19fa8a4bdc3e6"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202409-1652-003/d981aa6f238df6f1.txt:L118",
+    "node_ids": [
+      "OTHER-577eb854f1b284f0e0",
+      "OTHER-e255e689100fff796a"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202410-1652-003/3d2299ea56cbc8a0.txt:L138",
+    "node_ids": [
+      "PTASK-53295573df3f20108a",
+      "PTASK-d004289124a5ed8e9a"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202410-1652-004/b5fa062192cb9f44.txt:L118",
+    "node_ids": [
+      "PTASK-ce0e60ffc92b0a5983",
+      "PTASK-72acc5d90c002b054b"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202411-1652-002/6715e9b9016dbbb6.txt:L55",
+    "node_ids": [
+      "OPA-7483c90bb24327f089",
+      "OPA-0e3bb364a1ff73fd77"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202411-1652-005/7562b94fc9e5213d.txt:L68",
+    "node_ids": [
+      "OPA-28c326bbf952b3a924",
+      "OPA-e41e82085205c03956"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202411-1652-007/324a50c2081f81eb.txt:L74",
+    "node_ids": [
+      "OTHER-4731720ce8b7ec6d73",
+      "OTHER-daf1d369a6ff590c79",
+      "OTHER-6beb6252b2c2dd0163"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202411-1652-008/cd40aa0f0f51e80e.txt:L71",
+    "node_ids": [
+      "PTASK-12ff5e0a2f4d82a3bf",
+      "PTASK-b8bcdfefe103b140d7"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202412-1652-002/dcd646aba0eae9ba.txt:L68",
+    "node_ids": [
+      "OPA-5b59c6a06de442b16b",
+      "OPA-8a734f9225591c843d"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202502-1652-004/4639c859f157e253.txt:L110",
+    "node_ids": [
+      "PTASK-346b316bab023d74bc",
+      "PTASK-ae4d70ed0984d3d1f1"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202505-1652-002/9de229df06f30230.txt:L89",
+    "node_ids": [
+      "OPA-a259b2842662190110",
+      "OPA-51b00d8e3215b8f4c4"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202507-1652-001/858bb1d7e5db0f50.txt:L71",
+    "node_ids": [
+      "PTASK-fbcb705e5e3837e405",
+      "PTASK-281beb1723715112f2"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202508-1652-001/64500383ca91f536.txt:L106",
+    "node_ids": [
+      "OPA-119dc6d75f54aa801c",
+      "OPA-6f92daa9ceb541f8b5"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202508-1652-001/64500383ca91f536.txt:L76",
+    "node_ids": [
+      "OPA-c0ab4d8227748213c6",
+      "OPA-c1a181ff9f057900d0"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202508-1652-001/64500383ca91f536.txt:L91",
+    "node_ids": [
+      "OPA-39ffe5834fb507c011",
+      "OPA-58a8caf1594be47456"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202511-1652-001/6294f56ee7c9fc3c.txt:L100",
+    "node_ids": [
+      "PTASK-79b82309b1734206b2",
+      "PTASK-2161b16cd32eb6954d"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202601-1652-004/bdc1aca1363f9259.txt:L67",
+    "node_ids": [
+      "PTASK-8fa2457ecb54bf3fee",
+      "PTASK-7a06d847bc0f387cf5"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202605-1652-001/af0654b8aa99fbd8.txt:L73",
+    "node_ids": [
+      "OTHER-11a424e3cce6c75209",
+      "OTHER-72c897c1f8a7add657",
+      "OTHER-81b6e1060e1c147dda"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202606-1652-003/7e92d50279d4ee1d.txt:L64",
+    "node_ids": [
+      "OTHER-a1aba045b59817ab21",
+      "OTHER-03060c5ed0a00522c6"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  },
+  {
+    "locator": "mission-3/sources/202606-1652-003/7e92d50279d4ee1d.txt:L66",
+    "node_ids": [
+      "OTHER-77b37756efaa56bd0b",
+      "OTHER-67afe97cef8a056229"
+    ],
+    "explanation": "Separate source-normalization representations or distinct tasks within one paragraph. Preserve identities; no additive or equivalent-task inference."
+  }
+]

@@ -32,9 +32,10 @@
     "Final analysis A: inherited 18 comparisons made inspectable with explicit component values, units, similarity, confidence and practitioner significance.",
     "Final analysis B: 10 additional family comparisons; source-defined lifecycle, annual/per-event, legal-review and verification boundaries adjudicated.",
     "Final analysis C: all inherited equations replayed, 41 M1 TSA checks preserved, activity-row QA consolidated, precision correction documented.",
-    "Final analysis D: eight within-ICR findings completed with explicit observations; seven major candidates challenged using prior statements; negative and unresolved outcomes retained."
+    "Final analysis D: eight within-ICR findings completed with explicit observations; seven major candidates challenged using prior statements; negative and unresolved outcomes retained.",
+    "Final analysis E: deterministic graph and consistency matrix built from468 activity representations,162 assumption observations,36 adjudications and341 checks."
   ],
-  "next": "Populate deterministic evidence graph, validate all provenance and demonstrate bounded queries.",
+  "next": "Validate source locators, graph endpoints and epistemic labels; complete query catalog and two stable analytical review batches.",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,

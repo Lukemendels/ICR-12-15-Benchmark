@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "nodes": 2528,
+  "edges": 3989,
+  "unique_node_ids": 2528,
+  "unique_edge_ids": 3989,
+  "source_text_hashes_verified": 134,
+  "representation_overlap_groups": 27,
+  "errors": [],
+  "epistemic_status_counts": {
+    "NORMALIZED": 1063,
+    "CALCULATED": 1039,
+    "INFERRED": 96,
+    "PUBLISHED": 330
+  },
+  "limitations": [
+    "Exact source/locator validation does not validate empirical assumptions.",
+    "Absence of an occupation or assumption-to-activity edge means the relationship is not resolved, not inapplicable.",
+    "Alternative semantic representations are preserved with explicit nonaggregation rules."
+  ]
+}
