@@ -111,6 +111,8 @@
     "evidence-graph/edges/0037.jsonl",
     "evidence-graph/edges/0038.jsonl",
     "evidence-graph/edges/0039.jsonl",
-    "evidence-graph/edges/0040.jsonl"
+    "evidence-graph/edges/0040.jsonl",
+    "data/sources.jsonl",
+    "mission-3/validation/stability-reconciliation.json"
   ]
 }

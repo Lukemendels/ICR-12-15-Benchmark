@@ -1,5 +1,5 @@
 {
-  "MISSION_STATUS": "FINAL_FREEZE_VALIDATION",
+  "MISSION_STATUS": "EVIDENCE_GRAPH_FROZEN",
   "evidence_version": "M3-1.0.0",
   "graph_version": "1.0.0",
   "base_commit": "d041cde75fe33b0bf9dec29c7cc6ae7309ca8a69",
@@ -36,9 +36,10 @@
     "Final analysis E: deterministic graph and consistency matrix built from468 activity representations,162 assumption observations,36 adjudications and341 checks.",
     "Final completion provenance: content-level replay passed; blank/header challenge locators repaired from archived evidence; comparison value/period distinctions clarified.",
     "Final analysis F: two held-out application comparisons adjudicated; source paragraph checks preserve DASSP field-scope caveat. First stable final analytical batch.",
-    "Final analysis G: held-out identity-transmission and application comparisons stable; two successive analytical batches complete without major finding or framework change."
+    "Final analysis G: held-out identity-transmission and application comparisons stable; two successive analytical batches complete without major finding or framework change.",
+    "Final freeze: all ten gates reconciled to committed evidence; nine bounded query contracts and Mission 4 handoff completed; graph/canonical provenance, IDs, labels, protected files and stability reconciliation pass. M3-1.0.0 / graph 1.0.0 frozen."
   ],
-  "next": "Run bounded final closure validation; freeze only on PASS.",
+  "next": "Mission 4 may begin from mission-3/handoff.md and mission-3/handoff-inputs.json; consume frozen M3-1.0.0 without reopening broad research.",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": true,
@@ -68,5 +69,7 @@
   "closure_base_commit": "621fc14353a0537611edf1dbfc874bd432a499d2",
   "freeze_gate_record": "mission-3/freeze-gates.json",
   "final_validation": "mission-3/validation/final-validation.json",
-  "release_counts": "mission-3/release-counts.json"
+  "release_counts": "mission-3/release-counts.json",
+  "frozen_date": "2026-09-09",
+  "closure_checkpoint_commit": "a10b38af802d2cb1f7dcda4785fc59a57a4a8068"
 }

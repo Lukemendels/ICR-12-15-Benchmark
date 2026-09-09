@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "historical_major_findings_blob": "365fd63f0bb05d118a337b9d8c079fdf26f50c73",
+  "final_major_findings_blob": "42ef7ac800f8259c7ae6ba758ce13f360d598483",
+  "historical_blob_retrieved_by_github_sha": true,
+  "semantic_sha256_excluding_provenance": "da14f5b5d89513c0f94c8b1faed23679ea6bebef20fa45a656ddb0d11c35e237",
+  "record_count": 8,
+  "changed_records": [
+    "FIND-HME",
+    "FIND-PRECHECK"
+  ],
+  "changed_fields": [
+    "provenance",
+    "adversarial_challenge.provenance"
+  ],
+  "all_nonprovenance_fields_identical": true,
+  "classification_changes": 0,
+  "method_or_finding_changes": 0,
+  "repair_record": "mission-3/validation/provenance-repairs.json",
+  "conclusion": "F and G reference the same pre-repair historical blob; final checkpoint changes only provenance. The stable finding conclusions and all non-provenance fields are unchanged."
+}

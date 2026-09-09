@@ -1,0 +1,94 @@
+{
+  "status": "PASS",
+  "base_commit": "621fc14353a0537611edf1dbfc874bd432a499d2",
+  "evidence_version": "M3-1.0.0",
+  "graph_version": "1.0.0",
+  "command": "python mission-3/scripts/validate_freeze.py",
+  "scope": "Bounded archived-source and release-contract validation; no new retrieval or graph rebuild.",
+  "graph_validation": "PASS",
+  "provenance_validation": "PASS",
+  "canonical_unique_provenance_records": 508,
+  "canonical_epistemic_fields_checked": 532,
+  "source_locators_resolve": true,
+  "graph_endpoints_resolve": true,
+  "ids_unique": true,
+  "classifications_valid": true,
+  "epistemic_labels_valid": true,
+  "all_major_findings_have_provenance_and_challenge": true,
+  "stable_batches_durable_at": "621fc14353a0537611edf1dbfc874bd432a499d2",
+  "adversarial_challenge_durable_at": "621fc14353a0537611edf1dbfc874bd432a499d2",
+  "query_contract_matches": {
+    "Q01": 10,
+    "Q02": 47,
+    "Q03": 27,
+    "Q04": 5,
+    "Q05": 64,
+    "Q06": 38,
+    "Q07": 1,
+    "Q08": 8,
+    "Q09": 19
+  },
+  "handoff_exists": true,
+  "protection": {
+    "all_protected": {
+      "file_count": 891,
+      "sha256_path_blob_manifest": "e3b0fea2797ce00ad7445fabdbeb44ac9407799608dffabf683eb0ec8d0b7ac5",
+      "unchanged": true
+    },
+    "mission_1_evidence": {
+      "file_count": 12,
+      "sha256_path_blob_manifest": "440e075a048f744644ba61b3023838bf93afea501ddd21e6418fea3a38a75fb4",
+      "unchanged": true
+    },
+    "technical_and_leadership_reports": {
+      "file_count": 58,
+      "sha256_path_blob_manifest": "d7aa5aaf2e53d3d9d89ea6f3dd121075b5b4c378484787cf81c1041c5cec5fa2",
+      "unchanged": true
+    },
+    "leadership_brief": {
+      "file_count": 16,
+      "sha256_path_blob_manifest": "52a0c341fa6b0a105752ddf04966909c98092c91c49b14862347970f90e04526",
+      "unchanged": true
+    }
+  },
+  "counts": {
+    "tsa_recent_packages": 90,
+    "tsa_control_histories": 48,
+    "unassigned_control_packages": 5,
+    "represented_versions_including_lineage": 135,
+    "archived_statement_versions": 134,
+    "activity_representations": 468,
+    "graph_activity_nodes": 493,
+    "assumption_context_activity_nodes": 25,
+    "assumption_observations": 162,
+    "reviewed_scalar_categorical_assumptions": 69,
+    "formula_header_observations": 93,
+    "task_method_comparisons": 32,
+    "within_icr_findings": 8,
+    "adjudicated_records": 40,
+    "comparison_classifications": {
+      "CONSISTENT": 15,
+      "UNRESOLVED": 6,
+      "DIFFERENT_EXPLAINED": 8,
+      "NOT_COMPARABLE": 3
+    },
+    "within_icr_classifications": {
+      "POTENTIALLY_INCONSISTENT": 7,
+      "UNRESOLVED": 1
+    },
+    "combined_classifications": {
+      "CONSISTENT": 15,
+      "UNRESOLVED": 7,
+      "DIFFERENT_EXPLAINED": 8,
+      "NOT_COMPARABLE": 3,
+      "POTENTIALLY_INCONSISTENT": 7
+    },
+    "quantitative_checks": 341,
+    "versions_with_quantitative_checks": 40
+  },
+  "errors": [],
+  "limitations": [
+    "Source locators resolve to frozen archived content; live remote availability is not re-researched.",
+    "Schema/locator validation does not resolve the bounded empirical questions documented in limitations and open questions."
+  ]
+}

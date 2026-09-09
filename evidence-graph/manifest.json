@@ -2,7 +2,7 @@
   "graph_version": "1.0.0",
   "evidence_version": "M3-1.0.0",
   "schema_version": "0.1.0",
-  "status": "VALIDATION_PENDING",
+  "status": "EVIDENCE_GRAPH_FROZEN",
   "node_files": [
     "evidence-graph/nodes/0000.jsonl",
     "evidence-graph/nodes/0001.jsonl",
@@ -121,5 +121,7 @@
   "archived_statement_versions": 134,
   "matrix_rows": 97,
   "duplicate_representation_groups": 27,
-  "scope": "Material normalized evidence, reviewed comparisons, QA and lineage. Discovery indexes remain separate and are not treated as reviewed assumptions."
+  "scope": "Material normalized evidence, reviewed comparisons, QA and lineage. Discovery indexes remain separate and are not treated as reviewed assumptions.",
+  "final_validation": "mission-3/validation/final-validation.json",
+  "query_catalog": "evidence-graph/query-catalog.json"
 }

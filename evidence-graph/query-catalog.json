@@ -46,7 +46,7 @@
   ],
   "provenance_contract": [
     "Return source_id, document_id, locator, original, extraction_method, transformation, status from each selected record and traversed supporting edge.",
-    "Resolve source_id to SOURCE.data.url for Mission 3; for Mission 1 use report/leadership/source/citation-registry.json, report/source/citation-registry.json. Retain raw/text hashes where present.",
+    "Resolve source_id to SOURCE.data.url for Mission 3; for Mission 1 use data/sources.jsonl joined on source_id. Retain raw/text hashes where present.",
     "Return version record URL, source download URL, archived locator, and canonical ledger path/record ID; no invented page numbers.",
     "Include classification rationale, limitations and adversarial-challenge result with each finding."
   ],
@@ -273,8 +273,8 @@
       "output_fields": [
         "prior_ref",
         "current_ref",
-        "prior_hours",
-        "current_hours",
+        "baseline",
+        "current",
         "component_deltas",
         "net_change",
         "unit",

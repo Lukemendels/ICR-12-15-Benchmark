@@ -176,3 +176,5 @@ Start with the following files; full source-corpus rereading is unnecessary. Can
 - `icrs/202411-1651-004/extraction.json`
 
 For graph-driven visuals, consume exactly the node_files and edge_files arrays in `evidence-graph/manifest.json`; the machine-readable handoff input list below expands every shard path. Do not glob stale/unlisted shards or run corpus-building scripts during report writing.
+
+Additional exact inputs: `data/sources.jsonl` (frozen Mission 1 source-ID/URL mapping) and `mission-3/validation/stability-reconciliation.json` (historical stable-batch blob versus final provenance-repaired findings). All non-provenance fields in the eight major findings are identical across those blobs.

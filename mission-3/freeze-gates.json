@@ -2,7 +2,7 @@
   "evidence_version": "M3-1.0.0",
   "graph_version": "1.0.0",
   "reviewed_base_commit": "621fc14353a0537611edf1dbfc874bd432a499d2",
-  "decision": "SATISFIED_SUBJECT_TO_FINAL_VALIDATION_PASS",
+  "decision": "ALL_GATES_SATISFIED",
   "gates": {
     "portfolio": {
       "satisfied": true,
@@ -59,10 +59,11 @@
     },
     "two_stable_batches": {
       "satisfied": true,
-      "evidence": "Committed batches F (CMP-29/30) and G (CMP-31/32) are successive STABLE reviews with no material framework or major-finding change and identical major-findings blob.",
+      "evidence": "Committed batches F (CMP-29/30) and G (CMP-31/32) are successive STABLE reviews with no material framework or major-finding change and identical major-findings blob. Historical and final findings blobs differ only in two records’ provenance; all non-provenance fields match exactly.",
       "files": [
         "mission-3/stability-batches.json",
-        "analysis/adjudicated-comparisons.jsonl"
+        "analysis/adjudicated-comparisons.jsonl",
+        "mission-3/validation/stability-reconciliation.json"
       ],
       "public_data_boundary": "See mission-3/limitations.md; bounded public gaps do not block the stated release scope."
     },
@@ -106,5 +107,6 @@
       ],
       "public_data_boundary": "See mission-3/limitations.md; bounded public gaps do not block the stated release scope."
     }
-  }
+  },
+  "final_validation_status": "PASS"
 }
