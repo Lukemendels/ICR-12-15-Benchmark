@@ -1,0 +1,47 @@
+{
+  "status": "PDF_BLOCKED_NOT_CIRCULATION_READY",
+  "authoritative_parent": "34d94576f95b3a780ea3ec869b7c9c4fb653baa6",
+  "reason": "Execution environment disconnected; repeated exec_command calls returned environment_offline. PDF not created or visually inspected.",
+  "evidence_compression": {
+    "status": "DRAFT_TEXT_REVIEWED_FINAL_PDF_PENDING",
+    "checks": [
+      "Corpus 90 / 48 / 468 / 162 / 341 preserved; normalization is not full model validation",
+      "Task/method register 15 / 8 / 0 / 3 / 6 = 32, including lineage and selected within-package components",
+      "Within-ICR register 7 / 1 = 8 kept separate; no prevalence estimate",
+      "Six unresolved method questions framed as missing context, not errors",
+      "Pipeline 347824 versus 290825.84; official-correction and spending caveats retained",
+      "TWIC 430317 + 80154 = 510471, zero residual; component bridge only",
+      "HME pending status, earlier HME/TWIC partitions, LEO annual narrative and PreCheck scope retained",
+      "Explained differences remain explained",
+      "CONTROL strongest recommendation; structures before numeric defaults; small pilot"
+    ]
+  },
+  "institutional_tone": {
+    "status": "DRAFT_TEXT_REVIEWED_FINAL_PDF_PENDING",
+    "checks": [
+      "Systems and controls, not individuals",
+      "Observed facts distinguished from proposed architecture",
+      "EAB builds on coherent existing components",
+      "No undocumented internal cause inferred"
+    ]
+  },
+  "causal_boundary": {
+    "status": "DRAFT_TEXT_REVIEWED_FINAL_PDF_PENDING",
+    "checks": [
+      "No official correction or actual spending inference",
+      "No measured savings or staffing reduction",
+      "No agency-wide prevalence or ranking",
+      "No equivalence between recurrence and empirical validity",
+      "No inference of approved workload from pending package"
+    ]
+  },
+  "pdf_visual_audit": {
+    "status": "NOT_RUN",
+    "page_count": null,
+    "pdf_sha256": null
+  },
+  "protected_paths": {
+    "status": "COMMIT_TREE_CONSTRUCTION_RESTRICTED_TO_NEW_LEADERSHIP_PATHS",
+    "verification": "Use authoritative parent tree as base; only new leadership paths added. Final repository diff verification follows commit."
+  }
+}
