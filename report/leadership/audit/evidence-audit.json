@@ -1,0 +1,112 @@
+[
+  {
+    "claim": "73 ICRs; 38 component labels; 10 TSA collections",
+    "basis": [
+      "research/mission-2-handoff.md",
+      "research/research-summary.md",
+      "report/final-metadata.json"
+    ],
+    "status": "verified"
+  },
+  {
+    "claim": "Flight Training Item 12 composite 52 of 60, observed maximum 53",
+    "basis": [
+      "data/scores.csv"
+    ],
+    "check": "sum reproducibility, provenance, segmentation, labor for each of 73 rows",
+    "status": "verified"
+  },
+  {
+    "claim": "Cargo displayed components 6049 vs subtotal 4451; residual1598",
+    "basis": [
+      "SRC-0040, Item 12 Table7",
+      "data/calculation-checks.csv",
+      "report/source/report.md section9"
+    ],
+    "check": "4800+783+1+400+60+5=6049;6049-4451=1598",
+    "classification": "confirmed displayed arithmetic discrepancy",
+    "status": "verified; intended correction unresolved"
+  },
+  {
+    "claim": "Aircraft narrative54658 vs table20165327",
+    "basis": [
+      "SRC-0038 Item12 first-flight checklist and Table2"
+    ],
+    "classification": "displayed-value conflict",
+    "status": "verified; no editing-history inference"
+  },
+  {
+    "claim": "Airport applied34.48 vs footnote50.19",
+    "basis": [
+      "SRC-0176 Item12 applicant wage footnote"
+    ],
+    "check": "34.51*50.31/34.59=50.1936426713",
+    "classification": "rate/version ambiguity",
+    "status": "verified; neither value certified as intended"
+  },
+  {
+    "claim": "Surface Federal1149 vs881",
+    "basis": [
+      "SRC-0022 Item14 Table8"
+    ],
+    "check": "408+536+5+200=1149",
+    "classification": "displayed arithmetic discrepancy",
+    "status": "verified"
+  },
+  {
+    "claim": "Surface monthly separation/annual mobility mismatch; pending package",
+    "basis": [
+      "SRC-0022 Item12 source footnotes",
+      "research/limitations.md"
+    ],
+    "classification": "source transformation and scope problem",
+    "status": "verified; causal mapping unresolved"
+  },
+  {
+    "claim": "USCG removed980 two-minute addendum responses, about33hours",
+    "basis": [
+      "SRC-0174 Item15"
+    ],
+    "check": "980*2/60=32.6667",
+    "status": "verified"
+  },
+  {
+    "claim": "BLS separates existing and new recording obligation",
+    "basis": [
+      "SRC-0008 Items4 and12"
+    ],
+    "status": "verified against archived primary text"
+  },
+  {
+    "claim": "OSHA make-or-buy partition",
+    "basis": [
+      "SRC-0060 Items12-13"
+    ],
+    "status": "verified against archived primary text"
+  },
+  {
+    "claim": "Census measurement scopes and statistics differ",
+    "basis": [
+      "SRC-0099 printedp19",
+      "report/source/report.md section5"
+    ],
+    "status": "verified"
+  },
+  {
+    "claim": "TSA task, role and cohort strengths",
+    "basis": [
+      "SRC-0038 Items12/14",
+      "SRC-0176 Item12",
+      "SRC-0036 Item12"
+    ],
+    "status": "verified"
+  },
+  {
+    "claim": "Architecture, controls, pilot and evidence graph",
+    "basis": [
+      "report/source/report.md sections10,14-16",
+      "methodology/tool-requirements.md"
+    ],
+    "status": "recommendations; effectiveness and efficiency not measured"
+  }
+]

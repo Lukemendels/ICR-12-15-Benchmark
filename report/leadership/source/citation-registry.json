@@ -1,0 +1,186 @@
+[
+  {
+    "footnote": 1,
+    "page": 1,
+    "source_id": "TECH",
+    "locator": "Executive summary; sections 2, 9-10",
+    "first_use": true,
+    "url": ""
+  },
+  {
+    "footnote": 2,
+    "page": 2,
+    "source_id": "SRC-0001",
+    "locator": "Items 12-15, pp. 2-3",
+    "first_use": true,
+    "url": "https://pra.digital.gov/uploads/supporting-statement-a-instructions.pdf"
+  },
+  {
+    "footnote": 3,
+    "page": 2,
+    "source_id": "TECH",
+    "locator": "Sections 1-3; Appendix E",
+    "first_use": false,
+    "url": ""
+  },
+  {
+    "footnote": 4,
+    "page": 3,
+    "source_id": "SRC-0008",
+    "locator": "Item 12, recording burden and Table 9",
+    "first_use": true,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143710604"
+  },
+  {
+    "footnote": 5,
+    "page": 3,
+    "source_id": "SRC-0036",
+    "locator": "Item 12, wage-selection footnotes",
+    "first_use": true,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=142748301"
+  },
+  {
+    "footnote": 6,
+    "page": 3,
+    "source_id": "SRC-0060",
+    "locator": "Items 12-13",
+    "first_use": true,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143525202"
+  },
+  {
+    "footnote": 7,
+    "page": 3,
+    "source_id": "SRC-0038",
+    "locator": "Item 14",
+    "first_use": true,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143967301"
+  },
+  {
+    "footnote": 8,
+    "page": 3,
+    "source_id": "SRC-0174",
+    "locator": "Item 15, removal of CG-6025A",
+    "first_use": true,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=145780303"
+  },
+  {
+    "footnote": 9,
+    "page": 4,
+    "source_id": "SRC-0008",
+    "locator": "Item 12, recording burden and Table 9",
+    "first_use": false,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143710604"
+  },
+  {
+    "footnote": 10,
+    "page": 4,
+    "source_id": "SRC-0099",
+    "locator": "Printed p. 19, burden measurement comparison",
+    "first_use": true,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=139566701"
+  },
+  {
+    "footnote": 11,
+    "page": 4,
+    "source_id": "SRC-0174",
+    "locator": "Items 12 and 15, removal of CG-6025A",
+    "first_use": false,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=145780303"
+  },
+  {
+    "footnote": 12,
+    "page": 4,
+    "source_id": "TECH",
+    "locator": "Sections 8, 10 and 14",
+    "first_use": false,
+    "url": ""
+  },
+  {
+    "footnote": 13,
+    "page": 5,
+    "source_id": "SRC-0038",
+    "locator": "Items 12 and 14",
+    "first_use": false,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143967301"
+  },
+  {
+    "footnote": 14,
+    "page": 5,
+    "source_id": "SRC-0176",
+    "locator": "Item 12, STA applicant and airport data-entry activities",
+    "first_use": true,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150317001"
+  },
+  {
+    "footnote": 15,
+    "page": 5,
+    "source_id": "SRC-0036",
+    "locator": "Item 12, cohort tables and wage-selection footnotes",
+    "first_use": false,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=142748301"
+  },
+  {
+    "footnote": 16,
+    "page": 5,
+    "source_id": "TECH",
+    "locator": "Sections 3, 5 and 9",
+    "first_use": false,
+    "url": ""
+  },
+  {
+    "footnote": 17,
+    "page": 6,
+    "source_id": "SRC-0040",
+    "locator": "Item 12, Table 7",
+    "first_use": true,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=145598901"
+  },
+  {
+    "footnote": 18,
+    "page": 6,
+    "source_id": "SRC-0038",
+    "locator": "Item 12, first-flight checklist, foreign-airport employees and Table 2",
+    "first_use": false,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143967301"
+  },
+  {
+    "footnote": 19,
+    "page": 7,
+    "source_id": "SRC-0176",
+    "locator": "Item 12, applicant wage footnote and CHRC/STA calculations",
+    "first_use": false,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150317001"
+  },
+  {
+    "footnote": 20,
+    "page": 7,
+    "source_id": "SRC-0022",
+    "locator": "Item 14, Table 8; Item 12, coordinator updates and source footnotes",
+    "first_use": true,
+    "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=169398300"
+  },
+  {
+    "footnote": 21,
+    "page": 8,
+    "source_id": "TECH",
+    "locator": "Section 10; sections 13-15",
+    "first_use": false,
+    "url": ""
+  },
+  {
+    "footnote": 22,
+    "page": 9,
+    "source_id": "TECH",
+    "locator": "Sections 14-15",
+    "first_use": false,
+    "url": ""
+  },
+  {
+    "footnote": 23,
+    "page": 10,
+    "source_id": "TECH",
+    "locator": "Sections 10 and 14-16",
+    "first_use": false,
+    "url": ""
+  }
+]
