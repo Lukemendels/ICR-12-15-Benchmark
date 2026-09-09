@@ -1,0 +1,1 @@
+{"$id":"urn:icr-evidence:schema:1.0.0:assumption-method","$schema":"https://json-schema.org/draft/2020-12/schema","additionalProperties":true,"properties":{"assumption_id":{"type":"string"},"example_icrs":{"type":"string"},"type":{"type":"string"}},"required":["assumption_id","type","observed_methods","appropriate_context","example_icrs"],"type":"object"}

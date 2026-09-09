@@ -1,0 +1,1 @@
+{"$id":"urn:icr-evidence:schema:1.0.0:model","$schema":"https://json-schema.org/draft/2020-12/schema","additionalProperties":true,"properties":{"checks":{"type":"array"},"icr_id":{"type":"string"},"model":{"type":"object"},"source_ids":{"items":{"type":"string"},"type":"array"}},"required":["icr_id","model","source_ids","checks","reconstruction_issues"],"type":"object"}

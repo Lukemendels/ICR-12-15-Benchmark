@@ -1,0 +1,1 @@
+{"$id":"urn:icr-evidence:schema:1.0.0:benchmark","$schema":"https://json-schema.org/draft/2020-12/schema","additionalProperties":true,"properties":{"icr_id":{"type":"string"},"source_ids":{"type":"string"}},"required":["icr_id","omb_control_number","agency","title","source_ids"],"type":"object"}
