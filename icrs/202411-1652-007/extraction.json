@@ -1,0 +1,165 @@
+{
+  "icr_id": "202411-1652-007",
+  "omb_control_number": "1652-0039",
+  "agency": "DHS/TSA",
+  "title": "TSA Claims Application",
+  "submission_date": "12/17/2024",
+  "archetype": "individual compensation claim",
+  "complexity": "low",
+  "tsa_relevance": "adjacent",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 1,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0018",
+    "SRC-0017"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 10,
+    "segmentation": 13,
+    "labor": 6,
+    "item13": 8,
+    "item14": 6,
+    "item15": 4,
+    "validation": 2,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "Two main burdens reconstruct; tiny Form600 burden explicitly omitted.",
+    "provenance": "ECEC March2024 archive exact; federal pay cited but band inconsistent.",
+    "segmentation": "Claim and payment stages distinguished with subset overlap.",
+    "labor": "Direct civilian compensation is transparent; appropriateness for personal time not explained.",
+    "item13": "Postage quantity and price explicit, but mail share conflicts with Item12 all-mail statement.",
+    "item14": "FTE and annual salary reconstruct344209; stale283225 and E/F-band mismatch.",
+    "item15": "Direction explained but old/new response-hour-cost bridge absent in statement; package supplies deltas.",
+    "validation": "Historical claims counts asserted; no direct timing validation.",
+    "consistency": "Federal total and mailing statements conflict."
+  },
+  "thoroughness": "moderate",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Claim filing",
+        7500,
+        0.5,
+        3750
+      ],
+      [
+        "Payment information",
+        900,
+        0.16666666666666666,
+        150
+      ],
+      [
+        "Form600",
+        2,
+        0.041666666666666664,
+        0
+      ]
+    ],
+    "labor": {
+      "method": "direct ECEC civilian total compensation",
+      "hourly_rate": 46.14,
+      "period": "March2024",
+      "reported_labor_cost": 179946
+    },
+    "item13": {
+      "mail_share": 0.5,
+      "claim_population": 7500,
+      "postage_unit": 0.73,
+      "annual_cost": 2737.5
+    },
+    "item14": {
+      "employees": 4,
+      "hours_week_each": 32,
+      "weeks_year": 52,
+      "hours_fte": 2087,
+      "annual_pay": 107927.3,
+      "band_narrative": "F",
+      "band_footnote": "E step5 NCR2024",
+      "annual_reported": 344209,
+      "annual_stale_value": 283225
+    },
+    "item15": {
+      "old_responses": 10250,
+      "new_responses": 8400,
+      "old_hours": 4708,
+      "new_hours": 3900,
+      "old_nonlabor": 2610,
+      "new_nonlabor": 2738,
+      "classification": "adjustment"
+    },
+    "assumptions": [
+      "Historical7500 claims and900 approvals.",
+      "2 rare Form600 completions classified de minimis."
+    ]
+  },
+  "reconstruction_issues": [
+    "All claims by mail in12 versus50% in13.",
+    "Two federal annual totals and inconsistent pay band."
+  ],
+  "methods_worth_testing": [
+    "Short analysis can expose sufficient population*time and postage equations."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "7500*.5+900*10/60",
+      "calculated": 3900.0,
+      "reported": 3900,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0018"
+    },
+    {
+      "label": "Labor",
+      "formula": "3900*46.14",
+      "calculated": 179946.0,
+      "reported": 179946,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0018"
+    },
+    {
+      "label": "Postage",
+      "formula": "7500*.5*.73",
+      "calculated": 2737.5,
+      "reported": 2737.5,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0018"
+    },
+    {
+      "label": "Federal",
+      "formula": "4*32*52/2087*107927.30",
+      "calculated": 344208.96444657404,
+      "reported": 344209,
+      "difference": -0.03555342595791444,
+      "unit": "USD",
+      "interpretation": "Rounding residual only",
+      "source_id": "SRC-0018"
+    },
+    {
+      "label": "Omitted Form600",
+      "formula": "2*2.5/60",
+      "calculated": 0.08333333333333333,
+      "reported": 0,
+      "difference": 0.08333333333333333,
+      "unit": "hours",
+      "interpretation": "Explicit omitted0.0833 hours, not a hidden arithmetic error",
+      "source_id": "SRC-0018"
+    }
+  ],
+  "total_score": 68
+}

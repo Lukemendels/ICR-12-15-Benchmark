@@ -1,0 +1,321 @@
+PART word/document.xml
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.  (Annotate the CFR parts/sections affected).
+
+Congress granted the TSA Administrator authority for the security of the transportation system.  Under the specific authorities of 49 U.S.C. § 114, TSA may take immediate action to impose measures to protect transportation security without providing notice or an opportunity for comment.  The cybersecurity threats to surface transportation infrastructure that necessitate these collections are consistent with TSA’s mission, as well as TSA’s responsibility and authority for “security in all modes of transportation … including security responsibilities … over modes of transportation that are exercised by the Department of Transportation.”  See 49 U.S.C. § 114(d).
+
+Additionally, under 49 U.S.C. § 114(l)(2), TSA has the authority to issue security directives (SDs) if the Administrator of TSA determines that a regulation or SD must be issued immediately in order to protect transportation security.  TSA also has authority, at the discretion of the Administrator, to assist another Federal agency in carrying out its authority in order to address a threat to transportation.  See 49 U.S.C. § 114(m).
+
+The United States (U.S.) surface transportation system is a complex interconnected and largely open network including freight railroads, public transportation and passenger rail systems, and over-the-road bus (OTRB) service.  Many of these surface transportation modes employ increasingly integrated cyber and physical systems that operate daily in close coordination with and proximity to each other nationwide.  These cyber systems are under constant and escalating risk due to cyber-attacks.
+
+On November 30, 2021, OMB approved TSA’s request for an emergency approval of an information collection to address the ongoing cybersecurity threat to surface transportation and associated infrastructure.  On December 17, 2021, TSA issued the SD 1580-21-01 series, Enhancing Rail Cybersecurity, and the SD 1582-21-01 series, Enhancing Public Transportation and Passenger Railroad Cybersecurity, which remain in effect as revised, mandating that TSA-specified Owner/Operators of higher-risk freight railroads and higher-risk passenger railroads and rail transit systems, respectively, implement an array of cybersecurity measures to prevent disruption and degradation to their infrastructure; these directives became effective December 31, 2021.  The scope of these SDs aligns with the railroads and rail transit systems required to report significant security incidents to TSA under 49 CFR 1570.203.  On that same date, TSA also issued Surface Transportation Information Circular IC-2021-01, Enhancing Surface Transportation Cybersecurity, which contains non-binding recommendations with the same measures for railroad Owner/Operators, public transportation agencies, rail transit system Owner/Operators, and certain OTRB Owner/Operators not specifically covered under the two SDs series.  The requirements in the SD series and the recommendations in the IC allow TSA to execute its security responsibilities within the surface transportation industry.
+
+The request for a revised collection was necessary as a result of actions TSA took to address the ongoing cybersecurity threats to the United States’ national and economic security posed by this threat to surface transportation and associated infrastructure.  On October 18, 2022, TSA issued the SD 1580/82-2022-01 series, Rail Cybersecurity Mitigation Actions and Testing, which is complementary to the requirements in the previous directives.  This SD applies to Owner/Operators of the higher-risk freight railroads identified in 49 CFR 1580.101 and additional TSA-designated freight and passenger railroads.  This SD became effective on October 24, 2022.  The emergency request did not affect the previously-approved collection for the SD 1580-21-01 series and the SD 1582-21-01 series, which remain in effect, mandating that TSA-specified Owner/Operators of higher-risk freight railroads, and passenger railroads and rail transit systems, respectively, implement an array of cybersecurity measures to prevent disruption and degradation to their infrastructure.
+
+In addition, the emergency request did not affect the previously-issued IC, which remains in effect.  The IC contains non-binding recommendations with the same measures for Owner/Operators of railroads, public transportation systems, rail transit systems, and certain OTRB operations not specifically covered under the SD 1580-21-01 series or the SD 1582-21-01 series.
+
+On October 25, 2025, TSA issued IC Surface-2025-01, Notifying TSA of Significant Cybersecurity Incidents, which recommends voluntary reporting of cybersecurity incidents to TSA for Owner/Operators not subject to the SDs.
+
+On January 15, 2026, TSA revised the SD 1580-21-01 and SD 1582-21-01 series, requiring that any non-U.S. citizen serving as a primary or alternate Cybersecurity Coordinator be a current member of NEXUS, Global Entry, or another program determined by TSA to include a comparable security threat assessment (STA).  TSA is revising the collection to include this new requirement, but TSA expects that fewer than 10 Owner/Operators will respond to the information collection annually.  TSA is also revising the collection to remove mandatory requirements which have already been satisfied by Owner/Operators.  TSA expects that going forward fewer than 10 Owner/Operators will respond to those collections annually.  TSA is also revising the collection to include updates and/or reports to mandatory requirements.  TSA explains in more detail in the response to question 2.  The provisions in the directives are reviewed and reissued on an annual basis.
+
+
+Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection. 
+
+The information collected pursuant to the requirements in the SDs and the recommendations in the ICs allow TSA to execute its security responsibilities within the surface transportation industry, through awareness of potential security incidents and suspicious activities.
+
+A. SD 1580-21-01 Series, SD 1582-21-01 Series, Surface Transportation IC-2021-01, and IC Surface-2025-01
+
+The SDs and the ICs remain in effect and include the following information collection requirements for the SDs and voluntary collection under the ICs:
+
+Designate a primary and at least one alternate Cybersecurity Coordinator who is available to TSA 24 hours a day, 7 days a week, to coordinate cybersecurity and related practices and address any incidents that arise.  In addition, TSA is revising the collection to require Owner/Operators to ensure any non-U.S. citizen serving as a primary or alternate Cybersecurity Coordinator is a current member of NEXUS, Global Entry, or another program determined by TSA to include a comparable STA and submit documentation of such membership to TSA.  TSA expects this new requirement to apply to fewer than 10 Owner/Operators annually.  However, this new requirement burden is covered under OMB control number 1651-0121 Trusted Traveler Programs and U.S. APEC Business Travel Card.
+
+Report cybersecurity incidents to the Cybersecurity and Infrastructure Security Agency (CISA) as soon as practicable but no later than 72 hours after the Owner/Operator identifies a cybersecurity incident.  Cybersecurity incident reports are submitted to CISA Central using CISA’s Incident Reporting System at: https://myservices.cisa.gov/irf or by calling (844) 729-2472.  CISA has an approved information collection for cybersecurity incident reporting.  See OMB control number 1670-0037.
+
+Submit a Cybersecurity Incident Response Plan that includes measures to reduce the risk of operational disruption should their Information and/or Operational Technology systems be affected by a cybersecurity incident and conduct situational exercises to test the effectiveness of the procedures and personnel responsible for implementing measures in the Cybersecurity Incident Response Plan.
+
+Complete a Cybersecurity Vulnerability Assessment using the TSA-issued form and submit the completed assessment to TSA.
+
+IC Surface-2025-01 also includes the following recommendation but is not a requirement in the SDs: Owner/Operators should notify TSA’s Transportation Security Operations Center as soon as possible, and no more than 12 hours after discovery of an actual or potential significant cybersecurity incident.
+
+Revision – Removal and update of some mandatory requirements
+Cybersecurity Vulnerability Assessment Removal.  The collection of information is being revised to remove the mandatory requirements associated with the Cybersecurity Vulnerability Assessment for rail Owner/Operators subject to these SDs.  These rail Owner/Operators have satisfied these SD requirements and TSA expects that fewer than 10 new Owner/Operators will respond to the collection annually.
+
+Cybersecurity Incident Response Plan Updates.  The collection of information is being revised to update the mandatory requirements associated with the Cybersecurity Incident Response Plan.  Owner/Operators have developed their initial Cybersecurity Incident Response Plans, satisfying the SD requirements.  In the future, TSA expects fewer than 10 new Owner/Operators will need to submit a plan annually.  TSA also requires Owner/Operators to maintain up-to-date Cybersecurity Incident Response Plans, which may necessitate periodic updates.  TSA is revising the collection to include these updates related to the Cybersecurity Incident Response Plan.
+
+B. SD 1580/82-2022-01 Series
+
+This security directive series issued in 2022, to complement those issued in 2021, includes the following information collection:
+
+Submission of a Cybersecurity Implementation Plan to TSA for approval that identifies how the Owner/Operator will achieve each of the following objectives in the SDs:
+Identification of the Owner/Operator’s Critical Cyber Systems;
+Implementation of network segmentation policies and controls to ensure that the Operational Technology system can continue to safely operate in the event that an Information Technology system has been compromised;
+Implementation of access control measures to secure and prevent unauthorized access to Critical Cyber Systems;
+Implementation of continuous monitoring and detection policies and procedures to detect cybersecurity threats and correct anomalies that affect Critical Cyber System operations; and
+Reduction of the risk of exploitation of unpatched systems through the application of security patches and updates for operating systems, applications, drivers and firmware on Critical Cyber Systems in a timely manner using a risk-based methodology.
+
+Submission of an annual Cybersecurity Assessment Plan that describes how the Owner/Operator will proactively and regularly assess the effectiveness of cybersecurity measures, and identify and resolve device, network, and/or system vulnerabilities.  Owner/Operators must also submit an annual report that provides Cybersecurity Assessment Plan results from the previous year.
+
+Documentation provided to TSA upon request as necessary to establish compliance.
+
+
+Revision – Removal and update of some mandatory requirements
+
+Cybersecurity Implementation Plan Updates.  The collection of information is being revised to include updates to the Cybersecurity Implementation Plan for rail Owner/Operators subject to these SDs.  These rail Owner/Operators have satisfied these SD requirements and TSA expects that fewer than 10 new Owner/Operators will respond to the collection annually.  However, TSA estimates that annually about half of Owner/Operators will provide updates to their Cybersecurity Implementation Plan.  TSA is revising the collection to include the updates related to the Cybersecurity Implementation Plans.
+
+Cybersecurity Assessment Plan and Reports.  In addition, the collection of information is being revised to include the submission of an annual Cybersecurity Assessment Plan report.  In October 2023, SD 1580/82-2022-01 required Owner/Operators to submit an annual report.  TSA is updating the ICR to include this requirement.  Owner/Operators subject to this requirement develop initial Cybersecurity Assessment Plans.  These Owner/Operators are also required to conduct annual assessments of their cybersecurity measures and submit an annual report of the results of these assessments to TSA.  
+
+Use of Information
+TSA, in conjunction with federal and DHS partners, such as CISA, uses the reports of cybersecurity incidents to evaluate and respond to imminent and evolving cybersecurity incidents and threats as they occur, and as a basis for creating new cybersecurity policy moving forward.  This monitoring will allow TSA and federal partners to take action to contain threats, take mitigating action, and issue timely warnings to similarly situated entities against further spread of the threat.  TSA and its federal partners will also use the information to inform timely modifications to cybersecurity requirements to improve transportation security and national economic security.  TSA uses the collection of information to ensure compliance with TSA’s cybersecurity measures required by the SDs and the recommendations under the ICs.
+
+Owner/Operators can complete and submit the required Cybersecurity Implementation Plans (including any amendments or revisions) and documents incorporated by reference into Cybersecurity Implementation Plans, Cybersecurity Assessment Plans, and related annual reports, using the TSA Secure Regulatory Portal or they may opt to retain documents locally for either in-person or other review pursuant to TSA-approved methods, which may include virtual review.  Documentation of compliance must be provided upon request.  As the measures in the ICs are voluntary, the IC does not require Owner/Operators to report on their compliance.
+
+The information collected is reviewed and analyzed to gain a comprehensive understanding of security across higher-risk surface transportation infrastructure.  TSA uses these insights to inform risk management decisions, develop guidance and resources, and enhance coordination during security events.  Previous collections have enabled TSA to identify trends, assess vulnerabilities, and support improvements in security throughout the sector.
+
+Information submitted by Owner/Operators to TSA as required by the SDs, and if voluntarily submitted under the IC, are deemed Sensitive Security Information (SSI) and protected in accordance with procedures meeting the transmission, handling, and storage requirements of SSI set forth in 49 CFR part 1520.
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.
+SD 1580/82-2022-01 Series Collection:
+
+TSA requires the following collection of information and maintenance of records to establish compliance with the SDs and the ICs:
+Cybersecurity Implementation Plan Updates: Freight/Passenger Rail Owner/Operators must transmit their implementation plans to TSA electronically via a secure means.  All implementation plans submitted by Owner/Operators are considered SSI under the provisions of 49 CFR part 1520.
+
+Cybersecurity Assessment Plan and Reports: Freight/Passenger Rail Owner/Operators must submit their Cybersecurity Assessment Plans and Reports on an annual basis to TSA electronically via a secure means.  All Cybersecurity Assessment Plans submitted by Owner/Operators are considered SSI under the provisions of 49 CFR part 1520.
+
+Documentation to Establish Compliance: Freight/Passenger Rail Owner/Operators must provide to TSA, as part of a compliance inspection, documentation to establish compliance with the SD.  Owner/Operator records provided to TSA to document compliance with the SD are considered SSI under the provisions of 49 CFR part 1520.
+
+
+SD 1580-21-01 Series, SD 1582-21-01 Series, Surface Transportation IC-2021-01, and IC Surface-2025-01 Collection:
+
+In compliance with the Government Paperwork Elimination Act, the following fully electronic reporting options are available and continuing for surface Owner/Operators as described below.
+
+The Cybersecurity Coordinator information can be submitted to TSA via email.
+
+Cybersecurity incident reports are submitted to CISA Central using CISA’s Incident Reporting System at: www.cisa.gov/report or by calling (844) 729-2472.  CISA has an approved information collection for cybersecurity incident reporting.  See OMB control number 1670-0037.
+
+For those Owner/Operators to whom the SDs apply, they can submit statements confirming that they have complied with requirements within the established deadlines via email or other electronic options provided by TSA, such as using the TSA Secure Regulatory Portal.
+
+In addition, Owner/Operators are required by the SDs, and recommended under the IC, to develop a cybersecurity contingency/recovery plan to address cybersecurity gaps.
+
+Usability Study Department of Homeland Security (DHS) Chief Information Officer Requirement:
+TSA completed a Usability Study on the Instructions to the SD series.  There were five usability study participants, four were familiar with the SD series, and one was unfamiliar with the subject information.  TSA tested the Instructions to determine if plain language was used throughout the documents.  The participant, who was unfamiliar with this subject matter, found that the Instructions did not use plain language and made multiple recommendations to rectify.  TSA subsequently revised the instructions based on these recommendations to ensure the document now uses plain language. 
+
+Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above.
+
+SD 1580/82-2022-01 Series Collection:
+
+TSA developed the requirements in consultation with CISA and in coordination with the Department of Transportation (DOT), Department of War, and other applicable agencies.  TSA has determined that no other agency requires submission of the type of information TSA may collect related to its security directives.
+
+
+SD 1580-21-01 Series, SD 1582-21-01 Series, Surface Transportation IC-2021-01, and IC Surface-2025-01 Collection:
+DHS has a broad Memorandum of Understanding with DOT that ensures coordination on security and safety issues.  Through annexes to this Memorandum of Understanding, TSA works closely with its partners at the Federal Railroad Administration, Federal Transit Administration, and Federal Motor Carrier Safety Administration to coordinate security initiatives.  There is no other similar information collection currently in place at the Department of Transportation (DOT) that specifically targets corporate-level cybersecurity planning and plan implementation in the surface modes of transportation.
+
+Within DHS, TSA coordinates closely with CISA, which advances the initiative’s effort and secures the cybersecurity posture of the critical surface transportation sectors due to the interconnected systems and importance to the American way of life.  TSA developed the requirements and recommendations, as applicable, in consultation with CISA and in coordination with DOT, Department of War, and other agencies, as applicable.  TSA requires reporting of certain information directly to CISA, which CISA shares with TSA to reduce duplication.  Apart from the reporting to CISA under the SDs or IC, and provisions for sharing information with federal partners, TSA has determined that no other agency requires submission of the type of information collected via its SDs and IC from the same persons.
+
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden.
+
+This collection does not have a significant impact on a substantial number of small businesses.
+
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+Without these collections, DHS will be unable to address the critical, imminent threat of cyberattacks, such as ransomware, to the nation’s surface transportation systems.  Further, DHS would be hindered in its ability to quickly obtain information needed to address imminent, serious, quickly moving and rapidly evolving threats to these systems, which is key to national and economic security and would be impeded if TSA did not have this foundational posture information for the covered Owner/Operators now in the light of this continuous threat.  Reducing the vulnerability of higher-risk railroads, rail transit systems, and OTRB operations and infrastructure to cybersecurity threats is fundamental to securing our nation’s travelling public and economic security.
+
+In addition, TSA will be unable to address the critical threat to the nation’s freight railroad and passenger rail systems, which is reasonably likely to result in public harm.  For example, if an attack occurred against a railway system and TSA did not have this collection, freight/passenger rail Owner/Operators covered by the SDs may not have adequate cybersecurity measures or a Cybersecurity Implementation Plan and Cybersecurity Audit Program in place.  These measures decrease the impact of a cybersecurity incident affecting critical infrastructure and increase an operator’s awareness of possible vulnerabilities.
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+This collection is conducted consistent with the information collection guidelines, except for those in 5 CFR 1320.5(d)(2)(i).  This collection requires respondents to report information to the agency more often than quarterly.  Quarterly reporting would not meet the security needs that is the basis for this information collection.
+
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+TSA published a Federal Register notice, with a 60-day comment period soliciting comments of the collection of information.  See 91 FR 20475 (April 16, 2026).  Additionally, TSA published a 30-day notice in the Federal Register.  See 91 FR 56156 (September 1, 2026).  These notices did not generate any comments on the collection of information.
+
+Please see the response to question #4 for the efforts that TSA made to consult externally with industry as well as federal partners.
+
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+No payment or gift is provided to respondents.
+
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+While there is no assurance of confidentiality provided to reporting entities, TSA protects information collected from disclosure to the extent appropriate under applicable provisions of the Freedom of Information Act, Federal Information Security Management Act, E-Government Act, and Privacy Act of 1974.  TSA would also appropriately treat any information collected that it determines is SSI and/or Personally Identifiable Information, consistent with the requirements of 49 CFR part 1520 and OMB Guidance, M-07-16.
+
+Also, to the extent permissible under the law, DHS will seek to protect the trade secrets and commercial and financial information of the Freight/Passenger Rail Owner/Operators.  See 49 CFR part 1520.  This collection is covered under the Privacy Impact Assessment (PIA), DHS/ALL/PIA-006 DHS General Contact Lists (June 15, 2007).
+For defensive measures and indicators shared under CISA’s framework, federal entities are required to apply appropriate controls to protect the confidentiality of cyber threat indicators that contain personal information of a specific individual or information that identifies a specific individual that is directly related to a cybersecurity threat or a use authorized under CISA to the greatest extent practicable. 6 U.S.C. § 1504(b).
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+No personal questions of a sensitive nature are posed during the information collection.
+
+Provide estimates of hour and cost burden of the collection of information.
+
+The following presents hour and cost burden estimates associated with the d SDs included in this collection followed by a summation of the hour and cost burden.
+
+SD 1580/82-2022-01 Series Collection:
+
+The following requirements associated with this information collection applies to a total of 67 Owner/Operators to include the 35 higher-risk freight railroads identified in 49 CFR 1580.101, 27 railroads designated by TSA based on risk,  and 5 of the passenger rail operations identified in 49 CFR 1582.101 based on hosting one of the higher-risk freight rail operations.
+
+Cybersecurity Implementation Plan and Update: All 67 Owner/Operators currently subject to this requirement have already developed a Cybersecurity Implementation Plan and submitted it to TSA.  These Owner/Operators are also required to review their Cybersecurity Implementation Plans annually and if necessary, update their plans.  TSA estimates that about half, or approximately 34 entities, per year will provide updates to their Cybersecurity Implementation Plan.  TSA subject matter experts (SMEs) estimate that each update will take 15 hours, on average.  This equates to an annual average time burden of 510 hours (15 hours × 34 entities).
+
+To calculate the costs associated with this time burden, TSA uses a blended hourly wage rate of $62.04 based on one cybersecurity manager and four cybersecurity analysts.   TSA accounts for employer-provided benefits (non-salary compensation), by multiplying the blended hourly wage rate of $62.04 by a compensation load factor of 1.46993.  This load factor was calculated by dividing the average total hourly compensation rate for transportation industry workers by the average hourly wages and salary rate.  The resulting loaded wage rate equates to $91.19 per hour ($62.04 × 1.46993).  When combined with the estimated time burden, it results in an annual Cybersecurity Implementation Plan update time burden cost of $46,507 (510 hours × $91.19).
+
+Any new Owner/Operators required to submit a Cybersecurity Implementation Plan would also incur a burden.  However, TSA expects this burden will impact fewer than 10 Owner/Operators per year and therefore it is not subject to the Paperwork Reduction Act (PRA).
+
+Cybersecurity Assessment Plan and Report: All 67 Owner/Operators subject to this requirement must develop a Cybersecurity Assessment Plan annually and submit it to TSA.  In addition, these Owner/Operators are required to conduct annual assessments of their cybersecurity measures and submit a report of the results to TSA.  TSA SMEs estimate that developing and submitting the Cybersecurity Assessment Plan requires on average approximately 120 hours depending on the entity’s cybersecurity maturity.  Conducting the assessment and submitting the results of the assessment (CAP report) requires, on average, approximately 120 hours.  This equates to an annual average time burden of 8,040 for developing and submitting a Cybersecurity Assessment Plan (120 hours × 67 entities) and an additional 8,040 hours for conducting assessments and submitting the results (120 hours × 67 entities), resulting in a cumulative annual burden of 16,080 hours.
+
+TSA believes that the equivalent of a Corporate Compliance Officer will be responsible for preparing the plan, conducting the assessment, and submitting the assessment results to TSA.  TSA uses a mean hourly wage rate of $39.81 for this position and multiplies it by the load factor of 1.46993 to calculate a fully loaded compensation rate of $58.52 per hour.  When multiplied by the estimated time burden, it results in a Cybersecurity Assessment Report cost of $941,002 (16,080 hours × $58.52) per year.
+
+Compliance Documentation: The SDs require retention of records to support TSA inspections.  TSA SMEs estimates each of the 67 respondent entities will spend a total of 80 hours per year maintaining the required cybersecurity compliance documentation (e.g., log files).  This equates to an annual average time burden of 5,360 hours (80 hours × 67 entities).
+
+TSA anticipates this task will be performed by a cybersecurity manager, with an average wage rate of $72.27 per hour.  TSA multiplies this wage by the 1.46993 load factor discussed above to calculate a fully-loaded compensation rate of $106.23 per hour.  When combined with the estimated time burden, it results in a compliance documentation cost of $569,393 (5,360 hours × $106.23) per year.
+
+As presented in Table 1, the total time burden of this information collection for the 67 entities regulated under the SD 1580/82-2022-01 series is 21,950 hours per year, which results in $1,556,902 in annual burden costs.
+
+Table 1: Total SD 1580/82-2022-01_Railroads/Passenger rail operations -Annual Burden Costs
+Activity | Number of Responses | Hour Burden per  Re sponse | Time Burden | Wage Rate | Time Burden Cost
+ | A | B | C = A x B | D | E = C x D
+Cybersecurity Implementation Plan Update | 34 | 15 | 510 | $91.19 | $46,507
+Cybersecurity Assessment  Plan and  Report | 67 | 2 4 0 | 1 6 ,0 80 | $58.52 | $ 941 , 002
+Compliance Documentation | 67 | 80 | 5,360 | $106.23 | $569,393
+Total | 168 |   | 2 1 , 950 |  | $1, 556 , 902
+
+SD 1580-21-01 Series, SD 1582-21-01 Series, and IC-2021-01 Collection:
+
+TSA estimates this collection applies to 449 railroad Owner/Operators, 242 rail transit system Owner/Operators, and 72 OTRB Owner/Operators, for a total of 763 respondents.  Higher-risk railroad and rail transit Owner/Operators within the 763 respondents are required to provide Cybersecurity Coordinator information, complete a Cybersecurity Incident Response Plan, complete and submit to TSA a Cybersecurity Vulnerability Assessment, and report cybersecurity incidents to CISA.  Although the collections are voluntary for some respondents, burden calculations assume all of the respondents will do all of the identified collections.  TSA assumes these tasks will be performed by the cybersecurity coordinator and applies the load factor of 1.46993 discussed above.  This results in a fully-loaded compensation rate of $106.23 per hour ($72.27 × 1.46993) for railroad cybersecurity coordinators and $148.23 per hour ($100.84 × 1.46993) for rail transit system and for OTRB cybersecurity coordinators.
+
+Designate a Cybersecurity Coordinator/Alternate Cybersecurity Coordinator: All Owner/Operators subject to this requirement have designated a Cybersecurity Coordinator and at least one alternate coordinator.  However, due to employee turnover, TSA anticipates that some entities will need to periodically designate new Cybersecurity Coordinators or alternates.  In these instances, TSA SMEs estimate respondents will spend 5 minutes (0.083 hours) performing this task.  TSA assumes that the designation of a new Cybersecurity Coordinator (or alternate) represents a small burden that only includes emailing TSA the names, titles, phone numbers, and email addresses of the new individual taking on that role.
+
+To estimate how many new Cybersecurity Coordinators and alternate coordinators will need to be appointed each year, TSA first estimates the number of existing coordinators and alternates.  TSA accomplishes this by multiplying the number of Owner/Operators for each mode by 2 which results in 898 coordinators for freight rail (449 × 2), 484 for passenger rail (242 × 2), and 144 for OTRB (72 × 2).  TSA uses the Bureau of Labor Statistics (BLS) turnover rates to estimate that approximately 4 percent of the current population of Cybersecurity Coordinators and alternate Cybersecurity Coordinators will separate from their positions and require replacement each year.  In addition, TSA estimates that approximately 9 percent of Cybersecurity Coordinators and alternate coordinators will need to submit updated contact information each year.  This results in approximately 13percent of Owner/Operators having to submit new or updated Cybersecurity Coordinator designations in a given year (4% due to turnover + 9% due to updated contact information).  Applying this percentage to the population of covered Owner/Operators results in 117 new Cybersecurity Coordinators per year for freight rail operators (898 Owner/Operators × 13%), 63 for passenger rail (484 Owner/Operators × 13%), and 19 for OTRB (144 Owner/Operators × 13%).  Table 2 presents the annual hour cost burden associated with the designation of new Cybersecurity Coordinators and alternates due to employee turnover.
+
+Table 2: Annual Hour Burden Costs to Designate Cybersecurity Coordinator and Alternates
+Mode | Number of  New Cyber Coordinators | Hours per Response | Annual Hour Burden | Hourly Wage Rate | Annual Hour Burden Cost
+ | A | B | C = A  ×  B | D | E = C  ×  D
+Freight Rail | 117 | 0. 083 | 10 | $106.23 | $ 1, 062
+Passenger Rail | 63 |  | 5 | $148.23 | $ 741
+OTRB | 19 |  | 2 | $148.23 | $ 296
+Total | 199 |  | 17 |  | $ 2, 099
+
+Any new Owner/Operators subject to this requirement would also need to designate a Cybersecurity Coordinator and at least one alternate.  However, TSA expects this burden will impact fewer than 10 Owner/Operators per year and therefore it is not subject to the PRA.  In addition, TSA has revised the SD 1580-21-01 series and the SD 1582-21-01 series to require that any non-U.S. citizen serving as a primary or alternate Cybersecurity Coordinator must be a current member of NEXUS, Global Entry, or another program determined by TSA to include a comparable STA.  At present, all designated Cybersecurity Coordinators are U.S. citizens.  Although it is possible that a covered entity may designate a non-U.S. citizen Cybersecurity Coordinator in the future, and incur associated costs, this burden is covered in OMB control number 1651-0121.
+
+Cybersecurity Incident Response Plan and Update: All 67 Owner/Operators identified as high risk and thus subject to this requirement have developed their initial Cybersecurity Incident Response Plans and submitted them to TSA.  This population consists of 62 freight rail Owner/Operators and five rail transit system Owner/Operators.  Owner/Operators are also required to maintain up-to-date Cybersecurity Incident Response Plans, which may necessitate periodic updates.  TSA estimates that each update requires 20 hours to complete.  TSA SMEs estimate that, although the exact number may vary each year, approximately 15 percent of the Owner/Operators will need to update their plans annually.  Accordingly, TSA estimates that approximately nine freight rail Owner/Operators (62 × 15%) and one rail transit and OTRB Owner/Operators (5 × 15%) will update their Cybersecurity Incident Response Plans each year.  Therefore, the total annual time burden equates to 180 hours for freight rail Owner/Operators (9 × 20 hours) and 20 hours for rail transit Owner/Operators (1 × 20 hours), resulting in a combined total burden of 200 hours each year.
+
+Using the previously discussed hourly wage rates for Cybersecurity Coordinators ($106.23 for freight rail and $148.23 for rail transit system and OTRB), the estimated annual cost for updating Cybersecurity Incident Response Plans is $19,121 the for freight rail Owner/Operators ($106.23 × 180 hours) and $2,965 ($148.23 × 20 hours) for rail transit system and OTRB owners.  This results in a total cost of $22,086 to update the Cybersecurity Incident Response Plans.
+
+Any new Owner/Operator would also be required to submit a Cybersecurity Incident Response Plan.  However, TSA expects this burden will impact fewer than 10 Owner/Operators per year and therefore it is not subject to the PRA.
+
+Cybersecurity Vulnerability Assessment: All Owner/Operators subject to this requirement have already completed this assessment.  Any new Owner/Operator would also be required to submit a Vulnerability Assessment.  However, TSA expects this burden will impact fewer than 10 Owner/Operators per year and, therefore, it is not subject to the PRA.
+
+Report cybersecurity incidents to CISA: This burden is covered in OMB control number 1670-0037.
+
+Hour Burden Summary: TSA estimates the total hour burden for the collection, relating to the SD 1580-21-01 series, SD 1582-21-01 series, and IC-2021-01, to be 22,167 hours per year and total hour burden cost to be $1,581,087 per year.  Table 3 presents the total hour burden and hour burden cost for this collection.
+
+Table 3: Summary of Annual Time Burden and Cost
+IC Title | Annual  Hour Time Burden | Annual Hour Burden Cost
+Cybersecurity Implementation Plan  Update s | 510 | $ 46,50 7
+Annual  Assessment  Plan  and  Report s | 1 6 , 080 | $ 941 , 002
+Compliance Documentation |                                    5 ,36 0 | $569, 393
+Designate Cybersecurity Coordinator  and Alternate Coordinator | 17 | $ 2, 099
+Cybersecurity Incident Response Plan  Update s | 200 | 22,086
+Total | 22,167 | $ 1, 581 , 087
+
+Provide an estimate of the total annual cost burden to respondents or recordkeepers resulting from the collection of information).
+
+TSA has revised the SD 1580-21-01 series and the SD 1582-21-01 series to require that any non-U.S. citizen serving as a primary or alternate Cybersecurity Coordinator be a current member of NEXUS, Global Entry, or another program determined by TSA to include a comparable STA.  At present, all Cybersecurity Coordinators are U.S. citizens.  Although it is possible that a covered entity may designate a non-U.S. citizen Cybersecurity Coordinator in the future, and incur associated costs, this burden is covered in OMB control number 1651-0021.
+
+Provide estimates of annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information.
+
+SD 1580/82-2022-01 Series Collection:
+
+TSA will incur costs associated with the review of updated Cybersecurity Implementation Plan Updates, Cybersecurity Assessment Plans, Annual Assessment Plan Reports, and updated Cybersecurity Incident Response Plan Updates.  In addition, federal costs include those associated with the processing of point of contact (POC) information for Cybersecurity Coordinators.
+
+Cybersecurity Implementation Plan Update Reviews: TSA reviews Cybersecurity Implementation Plans that have been amended.  TSA estimates that 34 Implementation Plans are amended each year.  TSA SMEs also estimate amended plans require, on average, 12 hours of review, which results in an annual time burden of 408 hours (34 updates × 12 hours).  TSA SMEs estimate that the equivalent of a J-band employee, with an hourly wage of $104.17, will review amended plans.  This results in an annual cost of $42,501 to review amended Cybersecurity Implementation Plans (408 hours × $104.17).
+
+In addition, any new Owner/Operator would be required to develop an initial Cybersecurity Implementation Plan, which will be reviewed by TSA.  However, TSA expects this burden will impact fewer than 10 new entities per year and therefore it is not subject to the PRA.
+
+Cybersecurity Assessment Plan and Annual Report Reviews: TSA will conduct 67 reviews of Annual Assessment Plans each year and 67 reviews of Annual Reports.  TSA SMEs estimate that it takes 4 hours to review each Assessment Plan and each Annual Report.  Using the previously described J-band rate of $104.17, the total estimated cost for reviewing Annual Reports is $27,918 (67 reports × 4 hours × $104.17).  The estimated cost for reviewing the Annual Reports is also $29,918 (67 reports × 4 hours × $104.17).  Therefore, the combined estimated annual cost for reviewing both the Annual Assessment Plans and Annual Reports is $55,836.
+
+SD 1580-21-01 Series, SD 1582-21-01 Series, and IC-2021-01 Collection:
+
+
+Cybersecurity Coordinator Processing: TSA estimates that it will receive and process approximately 199 Cybersecurity Coordinator and alternate Cybersecurity Coordinator POC submissions each year.  TSA SMEs estimate it takes, on average, 5 minutes (0.083 hours) to process each submission, and that it will be processed by an H-Band (GS-12) pay level employee at TSA.  This results in an annual government burden of $1,254 (0.083 hours x $75.94 per hour H-band wage × 199 POC submissions).
+
+Cybersecurity Incident Response Plan Update Reviews: TSA will conduct approximately 10 reviews of Cybersecurity Incident Response Plan Updates each year.  TSA SMEs estimate that each review takes approximately 20 hours to complete.  Using the hourly I-band wage rate of $88.39, the total estimated cost for reviewing Cybersecurity Incident Response Plans is $17,678 (10 plans × 20 hours × $88.39).
+
+In addition, any new Owner/Operator would be required to submit a Cybersecurity Incident Response Plan that TSA would review.   However, TSA expects this burden will impact fewer than 10 new entities per year and therefore it is not subject to the PRA.
+
+Cybersecurity Incident Response Plan Reviews: Any new Owner/Operators subject to this requirement would submit a Cybersecurity Incident Response Plan that TSA would review.  However, TSA expects this burden will impact fewer than 10 new entities per year and therefore it is not subject to the PRA.
+
+Cybersecurity Vulnerability Assessment Reviews: Any new Owner/Operators subject to this requirement would submit a Cybersecurity Vulnerability Assessment that TSA would review.   However, TSA expects this burden will impact fewer than 10 new entities per year and therefore it is not subject to the PRA.
+
+The total government time burden for this information collection is 881 hours per year and the total government time burden cost is $117,269 per year.  Table 8 provides an overview of the total Federal time burden and the associated costs.
+
+Table  8 : Total Annual Federal Burden Cost | 
+Activity | Time Burden (in Hours) | Time Burden Cost
+Review Cybersecurity Implementation Plan  Updates | 408 | $42,501
+Review  Annual  Assessment  Plan Reports | 536 |          $ 55,836
+Cybersecurity Coordinator  Processing | 5 |              $ 1,254
+Cybersecurity Incident Response Plan Updates | 200 | $ 17,678
+Total | 881 |         $ 117,269
+
+Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+No program changes.  However, TSA made several adjustments to this collection to more accurately estimate the costs associated with this collection.  Specifically, TSA updated the number of Owner/Operators that are subject to the information collection required by the SD 1580/1582-2022-01 series.  The collection previously applied to 73 Owner/Operators and now it applies to 67 Railroads and/or Passenger rail operations.  TSA also updated the number of freight rail, passenger rail, and OTRB entities that are subject to the collection required by the SD 1580-21-01 Series, SD 1582-21-01 Series, and IC- 2021-01 Series Collection.  The collection previously applied to 457 freight rail entities, 115 passenger rail entities, and 209 OTRB entities.  This updated collection now applies to 449 freight rail entities, 242 passenger rail entities, and 72 OTRB entities.  In addition, all industry wage rates have been updated from 2021 to 2023 values.
+
+Estimated hour burdens for respondents no longer include burden costs associated with the initial development and submission of the Cybersecurity Implementation Plans and the Cybersecurity Incident Response Plans.  Owner/Operators to which this collection applies have already developed and submitted these plans to TSA.  Accordingly, $3,200,067 in costs for Owner/Operators to develop Cybersecurity Implementation Plans and $6,532,377 in costs associated with the development of the Incident Response Plans are no longer included in the burden estimates.  Similarly, the Cybersecurity Vulnerability Assessment is a one-time requirement that Owner/Operators have already completed.  As a result, $3,429,433 in burden costs associated with the Vulnerability Assessment are no longer included.
+
+Time burden estimates have been updated to include costs associated with the requirement that Owner/Operators conduct an annual review of their Cybersecurity Implementation Plans and update their plans, if necessary.  Previously, only the time burden costs associated with the initial development of the Implementation Plans had been included.  Time burden estimates have also been updated to reflect the recurring annual cost of completing the Annual Assessment Plan Report, including the associated costs of conducting the assessment and producing the report.
+
+Burden costs associated with the designation of Cybersecurity Coordinators have also been adjusted, as Owner/Operators have already designated individuals to fill this role.  The initial burden cost to all Owner/Operators for designating a Cybersecurity Coordinator, and an alternate, was previously estimated at $81,654.  This initial cost to designate coordinators is no longer included, as the burden estimates have been revised to reflect the recurring annual costs of updating Cybersecurity Coordinator POC information, as required due to employee turnover and address updates.
+
+For collections of information whose results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+SD 1580/82-2022-01 Series Collection:
+TSA will not publish information resulting from the Cybersecurity Implementation Plan updates, and Cybersecurity Assessment Plan and Report collections.  However, TSA and CISA may use information submitted for vulnerability identification, trend analysis, or to generate anonymized indicators of compromise or other cybersecurity products to prevent other cybersecurity incidents.
+
+SD 1580-21-01 Series, SD 1582-21-01 Series, and IC-2021-01 Collection:
+Security information collected during the provision of Cybersecurity Coordinator information, Cybersecurity Incident Reporting, and provision of the Cybersecurity Incident Response Plan will not be published.  To the extent information collected via this process is considered to be SSI, it will be protected from disclosure and publication, and will be handled as described in 49 CFR part 1520.
+
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+Not applicable.
+
+Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+No exceptions noted.
+PART word/footnotes.xml
+
+
+
+ See section 114(d) of title 49, United States Code (U.S.C.).  Under 49 U.S.C. § 114(f)(3) and (4), TSA may “develop policies, strategies, and plans for dealing with the threats ... including coordinating countermeasures with appropriate departments, agencies, and instrumentalities of the United States.”
+ TSA issues SDs for surface transportation operators under the statutory authority of 49 U.S.C. § 114(l)(2)(A).  This provision, from section 101 of the Aviation and Transportation Security Act, Pub. L. 107-71 (115 Stat. 597; Nov. 19, 2001), states: “Notwithstanding any other provision of law or executive order (including an executive order requiring a cost-benefit analysis), if the Administrator determines that a regulation or security directive must be issued immediately in order to protect transportation security, the Administrator shall issue the regulation or security directive without providing notice or an opportunity for comment and without prior approval of the Secretary.”
+ Notwithstanding any other provision of law or executive order (including an executive order requiring a cost-benefit analysis), if the Administrator determines that a regulation or SD must be issued immediately in order to protect transportation security, the Administrator shall issue the regulation or SD without providing notice or an opportunity for comment and without prior approval of the Secretary.
+ 49 U.S.C. § 114(m) grants the TSA Administrator the same authority as the Administrator of the Federal Aviation Administration under 49 U.S.C. § 106(m), and is applicable to all modes of transportation.
+ On November 30, 2021, the Office of Management and Budget (OMB) approved TSA’s request for the new information collection to address the ongoing cybersecurity threat to surface transportation and associated infrastructure.  On April 7, 2022, TSA submitted an extension request to OMB, which was approved on October 25, 2022.  See ICR Reference Number 202203-1652-003.
+ The numbering methodology for SDs uses regulatory provisions as a shorthand reference to the sector.  For example, “1580” refers to freight rail Owner/Operators regulated under 49 CFR part 1580, “1582” refers passenger rail and public transportation agencies regulated under 49 CFR part 1582.
+ This is a non-recurring cybersecurity vulnerability assessment.  Owner/Operators are required to provide the requested information on a single occasion only.
+ In addition, all data in TSA systems are statutorily required to comply with the Federal Information Security Modernization Act 2014 following the National Institute of Standards and Technology Special Publication 800.37 REV2 or Risk Management Framework, and other federal information security requirements including Federal Information Processing Standards 199 and Executive Order 14028.  All systems, networks, servers, clouds and endpoints under the Federal Information Security Modernization Act 2014 boundary are hardened to meet the Department of Defense Security Technical Implementation Guidelines, as well as DHS Policy (4300.A) and TSA policy (TSA IA Handbook).
+ The IC recommendation applies to OTRB Owner/Operators.
+ If the Cybersecurity Assessment Plan indicates that the Cybersecurity Implementation Plan does not meet the requirements of the SD series, the Implementation Plan will need to be updated/amended.
+ TSA uses the mean hourly wage of a computer and information systems manager ($72.27) to represent the cybersecurity manager rate.  BLS.  May 2023 National Industry-Specific Occupational Employment and Wage Estimates.  NAICS 482000 –Rail Transportation.  SOC 11-3021 Computer and Information Systems Managers.  Last modified April 3, 2024 (accessed February 9, 2026).  https://www.bls.gov/oes/2023/May/naics3_482000.htm.  TSA uses the mean hourly wage of an information security analyst ($59.48) to represent the cybersecurity analyst rate. BLS.  May 2023 National Industry-Specific Occupational Employment and Wage Estimates.  NAICS 482000 – Rail Transportation.  SOC 15-1211 Computer Systems Analysts.  Last modified April 3, 2024 (accessed February 9, 2026).  https://www.bls.gov/oes/2023/May/naics3_482000.htm.  The resulting blended rate = (($72.27 × 1) + ($59.48 × 4))/5 = $62.04.
+ The compensation factor was calculated by dividing the total compensation for workers in transportation and material moving occupations, $36.91, by the wages and salary rate for that group, $25.11, resulting in a compensation factor of 1.46993.  Source: BLS – June 2025.  Table 2.  Employer Costs for Employee Compensation for Civilian Workers by Occupational and Industry Group.  Accessed April 29, 2026.  https://www.bls.gov/news.release/archives/ecec_09122025.htm.
+ New Owner/Operator required to submit a Cybersecurity Implementation Plan would incur a development burden of, on average, approximately 400 hours of time.  Using a loaded hourly wage rate of $91.19, TSA estimates a one-time cost of $36,476 to develop a new Cybersecurity Implementation Plan (400 hours x $91.19).
+ TSA acknowledges that circumstances differ across Owner/Operators and that individual situations may result in higher or lower burden hours.  For example, TSA estimates that Owner/Operators who are submitting a Cybersecurity Assessment Plan for the first time will spend approximately 160 hours developing and submitting their plans.  However, all Owner/Operators currently subject to this collection have already submitted their initial Cybersecurity Assessment Plans.
+ TSA SMEs estimate a similar level of effort for initial Cybersecurity Assessment Plans as for subsequent Cybersecurity Assessment Plans. 
+ The mean hourly wage rate for Compliance Officers is $39.81.  BLS.  May 2023 National Industry-Specific Occupational Employment and Wage Estimates.  NAICS 482000 - Rail Transportation.  OCC 13-1041 Administrative Services Managers.  Last modified April 3, 2024 (accessed May 7, 2026).  
+https://www.bls.gov/oes/2023/May/naics3_482000.htm
+ TSA uses the unloaded rate for computer and information systems managers to represent the cybersecurity manager rate, which is $72.27.  BLS.  May 2023.  National Industry-Specific Occupational Employment and Wage Estimates.  NAICS 482000 –Rail Transportation.  OCC 11-3021 Computer and Information Systems Managers.  Last modified April 3, 2024 (accessed February 9, 2026).  
+https://www.bls.gov/oes/2023/May/naics3_482000.htm. 
+ Higher-risk OTRB and bus-only transit Owner/Operators received an IC that recommends they provide cybersecurity coordinator information, complete a Cybersecurity Contingency Plan, and report cybersecurity incidents.  TSA also provides the IC to all respondents, recommending a Cybersecurity Assessment be completed.
+ The mean hourly wage rate for a Computer and Information Systems Manager is $72.27.  BLS.  May 2023 National Industry-Specific Occupational Employment and Wage Estimates.  NAICS 482000 – Rail Transportation.  OCC 11-3021 Computer and Information Systems Manager.  Last modified April 3, 2024 (accessed February 9, 2026).  https://www.bls.gov/oes/2023/May/naics3_482000.htm.
+ The mean hourly wage rate for a Computer and Information Systems Manager is $100.84.  BLS.  May 2023 National Industry-Specific Occupational Employment and Wage Estimates.  NAICS 485000 – Transit and Ground Transportation.  OCC 11-3021 Computer and Information Systems Manager.  Last modified April 3, 2024 (accessed February 9, 2026).  https://www.bls.gov/oes/2023/May/naics3_485000.htm.
+ IC is recommended for OTRB operators.
+ BLS, Job Openings and Labor Turnover Survey for the Transportation, Warehousing, and Utilities industry.  https://www.bls.gov/jlt/ (Retrieved May 2026).  Monthly rates of total separations for all months in 2025 were retrieved and averaged to produce an average separation rate of 4.0 percent.
+ U.S. Census Bureau.  (December 2024).  Current Population Survey.  Table 2: General Mobility in the Past Year of Persons 16 Years and Over, by Labor Force Status, and by Sex, Race, Hispanic Origin and Region: 2023.  Geographic Mobility.  Retrieved from: https://www.census.gov/data/tables/2023/demo/geographic-mobility/cps-2023.html.  Accessed August 13, 2025.  9.06% = (11,478 total same-state movers + 2,469 total different-state movers + 568 from abroad) ÷ 160,206 total employed civilians.
+ New covered operations are required to designate a Cybersecurity Coordinator and one alternate, which is estimated to take approximately 5 minutes (0.083 hours).  Using a loaded hourly wage rate of $106.23 for freight rail Cybersecurity Coordinators and $148.23 for passenger rail and OTRB Cybersecurity Coordinators, TSA estimates that any new Owner/Operator would incur a cost of $17.63 (0.083 hours × 2 coordinators × $106.23) for freight rail, or $24.61 (0.083 hours × 2 coordinators × $148.23) for passenger rail and OTRB, to designate a Cybersecurity Coordinator and at least one alternate.
+ TSA SMEs estimate it will take approximately 80 hours to develop and submit an Incident Response Plan, which results in a one-time burden cost of $8,498 for freight rail Owner/Operators (80 × $106.23) and $11,858 for passenger rail or OTRB Owner/Operators (80 × $148.23).
+ TSA SMEs estimate it will take approximately 42 hours to develop and submit a Vulnerability Assessment, which results in a one-time burden cost of $4,462 for freight rail Owner/Operators (42 × $106.23) and $6,226 for passenger rail or OTRB Owner/Operators (42 × $148.23).
+ The annual costs presented in Table 3 do not account for certain one-time or other non-recurring costs that may arise less frequently than annually.  Such costs may be incurred by Owner/Operators under specific circumstances, for example, one-time expenses associated with new entities (e.g., initial Cybersecurity Implementation Plan or Vulnerability Plan development) to which this collection may apply in the future or when a non-U.S. citizen is designated as a Cybersecurity Coordinator.
+ TSA calculates the J-band wage using the GS-14 step 5 salary for Washington, D.C. ($161,486).  To determine loaded annual salaries, TSA uses internal data to estimate costs for awards, bonuses, personnel benefits, and transit benefits, which totaled $55,926 for J-band employees.  This results in an annual salary of $217,412 for J-band employees ($161,486 + $55,926).  Dividing this figure by 2,087 annual hours yields hourly rates of $104.17.  See: “Salary Table 2025-DCB,” January 2025 (Retrieved May 2026), https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/pdf/2025/DCB.pdf.
+ TSA assumes each new Cybersecurity Implementation Plan would be reviewed by two I-band employees (12 hours each) and one J-band supervisor (12 hours), totaling 36 hours.  TSA uses hourly rates of $88.39 (I-band) and $104.17 (J-band).  Therefore, each review is expected to cost $3,371 ((24 hours × $88.39) + (12 hours × $104.17)).  The I-band rate is based on the 2025 GS-13 step 5 annual salary for Washington, D.C. ($136,658), plus $47,807 for awards, bonuses, and benefits, totaling $184,465, divided by 2,087 hours.  Source: “Salary Table 2025-DCB,” Jan. 2025 (retrieved May 2026), https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/pdf/2025/DCB.pdf.
+ To calculate the hourly H-band wage, TSA uses the 2025 annual salary for a GS-12 step 5 employee in the Washington D.C. area (equivalent to the H-band level), which is $114,923 per year.  TSA uses internal data to estimate the values of awards, bonuses, personnel benefits, and transit benefits, which are approximately $43,563 per year for an H-band employee.  This results in a loaded annual H-band salary of $158,486 ($114,923 + $43,563).  Dividing the loaded annual salary by 2,087 hours worked per year results in an hourly loaded wage rate of $75.94.  See: “Salary Table 2025-DCB,” January 2025 (Retrieved May 2026), https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/pdf/2025/DCB.pdf.
+ To calculate the hourly I-band wage, TSA uses the 2025 annual salary for a GS-13 step 5 employee in the Washington D.C. area (equivalent to the I-band level), which is $136,658 per year.  TSA uses internal data to estimate the values of awards, bonuses, personnel benefits, and transit benefits, which are approximately $47,807 per year for an I-band employee.  This results in a loaded annual I-band salary of $184,465 ($136,658 + $47,807).  Dividing the loaded annual salary by 2,087 hours worked per year results in an hourly loaded wage rate of $88.39.  See: “Salary Table 2025-DCB,” January 2025 (Retrieved May 2026), https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/pdf/2025/DCB.pdf.
+ TSA assumes that each new Cybersecurity Incident Response Plan will be reviewed by an I-band employee, with each review expected to take 30 hours to complete.  Using the hourly I-band rate of $88.39, the estimated cost for each review is $2,652 ($88.39 × 30 hours).
+ TSA SMEs estimate that it will take 30 hours for an inspector to review each plan.  Using an I-band rate of $88.39 for the inspectors, TSA estimates that each review will cost $2,652 ($88.39 × 30 hours).
+ TSA SMEs estimate that it will take 30 hours for an inspector to review each plan.  Using an I-band rate of $88.39 for the inspectors, TSA estimates that each review will cost $2,652 ($88.39 × 30 hours).

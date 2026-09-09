@@ -1,0 +1,6050 @@
+[
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "A1",
+    "value": "2022 CGP ICR - Agency Labor Burden",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "H1",
+    "value": "Federal:",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "I1",
+    "value": "Labor rate (2024)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "I2",
+    "value": "51.15",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "B3",
+    "value": "Hours Per Response",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "E3",
+    "value": "Number of Annual Reponses",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "F3",
+    "value": "Annual Hours Burden",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "H3",
+    "value": "Annual Cost Burden 2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "A4",
+    "value": "Activity",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "B4",
+    "value": "2017 NPDES Program ICR 1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "C4",
+    "value": "2022 CGP Incremental Change ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "D4",
+    "value": "2022 CGP Total Hours per Response ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "E4",
+    "value": "2022 CGP No. Annual Responses ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "F4",
+    "value": " 2022 CGP Incremental Change in Annual Burden (hrs)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "G4",
+    "value": " 2022 CGP Annual Burden (hrs) ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "H4",
+    "value": " 2022 CGP Incremental Change in Annual Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "I4",
+    "value": "2022 CGP Annual Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "A5",
+    "value": "NOI review",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "B5",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "C5",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "D5",
+    "value": "1",
+    "formula": "B5+C5"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "E5",
+    "value": "3630",
+    "formula": "SUM('Respondent Burden and Cost'!E7:E10)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "F5",
+    "value": "0",
+    "formula": "E5*C5"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "G5",
+    "value": "3630",
+    "formula": "D5*E5"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "H5",
+    "value": "0",
+    "formula": "ROUND(F5*$I$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "I5",
+    "value": "185675",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "A6",
+    "value": "NOT review",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "B6",
+    "value": "0.25",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "C6",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "D6",
+    "value": "0.25",
+    "formula": "B6+C6"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "E6",
+    "value": "3631",
+    "formula": "'Respondent Burden and Cost'!$H$15"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "F6",
+    "value": "0",
+    "formula": "E6*C6"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "G6",
+    "value": "907.75",
+    "formula": "D6*E6"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "H6",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "I6",
+    "value": "46431",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "A7",
+    "value": "Waiver Certification Review",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "B7",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "C7",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "D7",
+    "value": "1",
+    "formula": "B7+C7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "E7",
+    "value": "182",
+    "formula": "'Respondent Burden and Cost'!H14"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "F7",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "G7",
+    "value": "182",
+    "formula": "D7*E7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "H7",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "I7",
+    "value": "9309",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "A8",
+    "value": "SWPPP review",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "B8",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "C8",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "D8",
+    "value": "1",
+    "formula": "B8+C8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "E8",
+    "value": "3631",
+    "formula": "SUM('Respondent Burden and Cost'!H29:H30)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "F8",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "G8",
+    "value": "3631",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "H8",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "I8",
+    "value": "185726",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "A9",
+    "value": "Standard/Other Reports",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "B9",
+    "value": "12",
+    "formula": "AVERAGE(4,20)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "C9",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "D9",
+    "value": "12",
+    "formula": "B9+C9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "E9",
+    "value": "176",
+    "formula": "SUM('Respondent Burden and Cost'!H19:H26)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "F9",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "G9",
+    "value": "2112",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "H9",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "I9",
+    "value": "108029",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "A10",
+    "value": "Turbidity Monitoring Report Review",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "B10",
+    "value": "NA",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "C10",
+    "value": "0.16",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "D10",
+    "value": "0.16",
+    "formula": "C10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "E10",
+    "value": "835",
+    "formula": "'Number of Respondents'!C9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "F10",
+    "value": "133.6",
+    "formula": "E10*C10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "G10",
+    "value": "133.6",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "H10",
+    "value": "6834",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "I10",
+    "value": "6834",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "A11",
+    "value": "Turbidity Report Follow-up",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "B11",
+    "value": "NA",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "C11",
+    "value": "0.5",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "D11",
+    "value": "0.5",
+    "formula": "C11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "E11",
+    "value": "167",
+    "formula": "ROUND(0.2*E10,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "F11",
+    "value": "83.5",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "G11",
+    "value": "83.5",
+    "formula": "D11*E11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "H11",
+    "value": "4271",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "I11",
+    "value": "4271",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "A12",
+    "value": "Total Agency Activities",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "D12",
+    "value": " ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "E12",
+    "value": "12252",
+    "formula": "SUM(E5:E11)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "F12",
+    "value": "217.1",
+    "formula": "SUM(F5:F11)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "G12",
+    "value": "10679.85",
+    "formula": "SUM(G5:G11)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "H12",
+    "value": "11105",
+    "formula": "SUM(H5:H11)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "I12",
+    "value": "546275",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "A14",
+    "value": "Table Endnotes",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "A15",
+    "value": "1 NA indicates that the 2017 NPDES Programmatic ICR did not account for this new burden item.",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet1.xml",
+    "cell": "A16",
+    "value": "2 In the 2022 CGP ICR, EPA assumed that the fully loaded cost of employment for a federal employee is $46.02.",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A1",
+    "value": "2022 CGP ICR - Respondent Burden and Cost Table",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K1",
+    "value": "Labor rate (2024)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K2",
+    "value": "73.47",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B3",
+    "value": "Hours Per Response",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E3",
+    "value": "Number of Annual Reponses",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I3",
+    "value": "Annual Hours Burden",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K3",
+    "value": "Annual Cost Burden",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A4",
+    "value": "Activity",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B4",
+    "value": "2017 NPDES Program ICR 1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C4",
+    "value": " 2022 CGP Incremental Change ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D4",
+    "value": " 2022 CGP Total",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E4",
+    "value": " 2022 CGP Number of Respondents",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F4",
+    "value": "Number of Occurrences Per Year",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G4",
+    "value": "2022 CGP Incremental Change in Annual Responses",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H4",
+    "value": " 2022 CGP Number of Annual Responses ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I4",
+    "value": " 2022 CGP Incremental Change in Annual Burden (hrs)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J4",
+    "value": " 2022 CGP Total Annual Burden (hrs)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K4",
+    "value": " 2022 CGP Incremental Change in Annual Cost 2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L4",
+    "value": " 2022 CGP Total Annual Cost 2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A5",
+    "value": "Reporting Requirements",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A6",
+    "value": "NOI - Large Sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A7",
+    "value": "With ESA Evaluation and No Consultation",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B7",
+    "value": "1.5",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C7",
+    "value": "-0.4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D7",
+    "value": "1.1000000000000001",
+    "formula": "B7+C7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E7",
+    "value": "980",
+    "formula": "'Number of Respondents'!C5"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F7",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G7",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H7",
+    "value": "980",
+    "formula": "E7*F7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I7",
+    "value": "-392",
+    "formula": "ROUND(H7*C7,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J7",
+    "value": "1078",
+    "formula": "ROUND(H7*D7,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K7",
+    "value": "-28800",
+    "formula": "ROUND(I7*$K$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L7",
+    "value": "79201",
+    "formula": "ROUND(J7*$K$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A8",
+    "value": "With ESA Evaluation and Informal Consultation",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B8",
+    "value": "6",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C8",
+    "value": "-0.4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D8",
+    "value": "5.6",
+    "formula": "B8+C8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E8",
+    "value": "609",
+    "formula": "'Number of Respondents'!C6"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F8",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G8",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H8",
+    "value": "609",
+    "formula": "E8*F8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I8",
+    "value": "-244",
+    "formula": "ROUND(H8*C8,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J8",
+    "value": "3410",
+    "formula": "ROUND(H8*D8,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K8",
+    "value": "-17927",
+    "formula": "ROUND(I8*$K$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L8",
+    "value": "250533",
+    "formula": "ROUND(J8*$K$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A9",
+    "value": "With ESA Evaluation and Formal Consultation",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B9",
+    "value": "20",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C9",
+    "value": "-0.4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D9",
+    "value": "19.600000000000001",
+    "formula": "B9+C9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E9",
+    "value": "44",
+    "formula": "'Number of Respondents'!C7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F9",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G9",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H9",
+    "value": "44",
+    "formula": "E9*F9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I9",
+    "value": "-18",
+    "formula": "ROUND(H9*C9,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J9",
+    "value": "862",
+    "formula": "ROUND(H9*D9,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K9",
+    "value": "-1322",
+    "formula": "ROUND(I9*$K$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L9",
+    "value": "63331",
+    "formula": "ROUND(J9*$K$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A10",
+    "value": "NOI - Small Sites with ESA Evaluation and Consultation",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B10",
+    "value": "3.7",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C10",
+    "value": "-0.4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D10",
+    "value": "3.3000000000000003",
+    "formula": "B10+C10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E10",
+    "value": "1997",
+    "formula": "'Number of Respondents'!C8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F10",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G10",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H10",
+    "value": "1997",
+    "formula": "E10*F10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I10",
+    "value": "-799",
+    "formula": "ROUND(H10*C10,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J10",
+    "value": "6590",
+    "formula": "ROUND(H10*D10,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K10",
+    "value": "-58703",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L10",
+    "value": "484167",
+    "formula": "ROUND(J10*$K$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A11",
+    "value": "Appendix D - Eligibility Procedures Relating to Threatened and Endangered Species Protection",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B11",
+    "value": "Included in NOI burden",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C11",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D11",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E11",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F11",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G11",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H11",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I11",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J11",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K11",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L11",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A12",
+    "value": "Appendix E - Historic Property Screening Step 5 (Contact SHPO/THPO)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B12",
+    "value": "Included in NOI burden",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C12",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D12",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E12",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F12",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G12",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H12",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I12",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J12",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K12",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L12",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A13",
+    "value": "Appendix L - Request for Chemical Treatment",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B13",
+    "value": "Included in NOI burden",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C13",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D13",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E13",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F13",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G13",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H13",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I13",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J13",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K13",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L13",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A14",
+    "value": "Appendix C - Small Construction Waiver",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B14",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C14",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D14",
+    "value": "1",
+    "formula": "B14+C14"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E14",
+    "value": "182",
+    "formula": "'Number of Respondents'!C10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F14",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G14",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H14",
+    "value": "182",
+    "formula": "E14*F14"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I14",
+    "value": "0",
+    "formula": "ROUND(H14*C14,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J14",
+    "value": "182",
+    "formula": "ROUND(H14*D14,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K14",
+    "value": "0",
+    "formula": "ROUND(I14*$K$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L14",
+    "value": "13372",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A15",
+    "value": "NOT",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B15",
+    "value": "0.5",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C15",
+    "value": "0.7",
+    "formula": "ROUND(('Number of Respondents'!$C$4*1+'Number of Respondents'!$C$8*0.5)/'Number of Respondents'!C3,1)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D15",
+    "value": "1.2",
+    "formula": "B15+C15"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E15",
+    "value": "3631",
+    "formula": "'Number of Respondents'!$C$11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F15",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G15",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H15",
+    "value": "3631",
+    "formula": "E15*F15"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I15",
+    "value": "2542",
+    "formula": "ROUND(H15*C15,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J15",
+    "value": "4357",
+    "formula": "ROUND(H15*D15,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K15",
+    "value": "186761",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L15",
+    "value": "320109",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A16",
+    "value": "Turbidity Benchmark Monitoring - Sampling",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B16",
+    "value": "NA",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C16",
+    "value": "0.5",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D16",
+    "value": "0.5",
+    "formula": "C16"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E16",
+    "value": "835",
+    "formula": "'Number of Respondents'!$C$9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F16",
+    "value": "29",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G16",
+    "value": "24215",
+    "formula": "E16*F16"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H16",
+    "value": "24215",
+    "formula": "E16*F16"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I16",
+    "value": "12108",
+    "formula": "ROUND(H16*C16,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J16",
+    "value": "12108",
+    "formula": "ROUND(H16*D16,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K16",
+    "value": "889575",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L16",
+    "value": "889575",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A17",
+    "value": "Turbidity Benchmark Monitoring - Reporting",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B17",
+    "value": "NA",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C17",
+    "value": "0.75",
+    "formula": "ROUND('Turbidity Monitoring'!B7,2)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D17",
+    "value": "0.75",
+    "formula": "C17"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E17",
+    "value": "835",
+    "formula": "'Number of Respondents'!$C$9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F17",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G17",
+    "value": "3340",
+    "formula": "E17*F17"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H17",
+    "value": "3340",
+    "formula": "E17*F17"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I17",
+    "value": "2505",
+    "formula": "ROUND(H17*C17,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J17",
+    "value": "2505",
+    "formula": "ROUND(H17*D17,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K17",
+    "value": "184042",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L17",
+    "value": "184042",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A18",
+    "value": "Standard/Other Reporting",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A19",
+    "value": "Planned Facility Changes ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B19",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C19",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D19",
+    "value": "4",
+    "formula": "B19+C19"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E19",
+    "value": "18",
+    "formula": "'Number of Respondents'!C12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F19",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G19",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H19",
+    "value": "18",
+    "formula": "E19*F19"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I19",
+    "value": "0",
+    "formula": "ROUND(H19*C19,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J19",
+    "value": "72",
+    "formula": "ROUND(H19*D19,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K19",
+    "value": "0",
+    "formula": "ROUND(I19*$K$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L19",
+    "value": "5290",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A20",
+    "value": "Anticipated Noncompliance",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B20",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C20",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D20",
+    "value": "5",
+    "formula": "B20+C20"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E20",
+    "value": "4",
+    "formula": "'Number of Respondents'!C13"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F20",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G20",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H20",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I20",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J20",
+    "value": "20",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K20",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L20",
+    "value": "1469",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A21",
+    "value": "24hr reporting - Unanticipated Bypass or Upset (Verbal)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B21",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C21",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D21",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E21",
+    "value": "4",
+    "formula": "'Number of Respondents'!C14"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F21",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G21",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H21",
+    "value": "4",
+    "formula": "E21*F21"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I21",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J21",
+    "value": "20",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K21",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L21",
+    "value": "1469",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A22",
+    "value": "24hr reporting - Unanticipated Bypass or Upset (Written)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B22",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C22",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D22",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E22",
+    "value": "3",
+    "formula": "'Number of Respondents'!C15"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F22",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G22",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H22",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I22",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J22",
+    "value": "6",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K22",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L22",
+    "value": "441",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A23",
+    "value": "24hr reporting - Violation of Maximum Daily Discharge (Verbal)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B23",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C23",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D23",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E23",
+    "value": "73",
+    "formula": "'Number of Respondents'!C16"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F23",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G23",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H23",
+    "value": "73",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I23",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J23",
+    "value": "219",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K23",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L23",
+    "value": "16090",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A24",
+    "value": "24hr reporting - Violation of Maximum Daily Discharge (Written)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B24",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C24",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D24",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E24",
+    "value": "36",
+    "formula": "'Number of Respondents'!C17"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F24",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G24",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H24",
+    "value": "36",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I24",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J24",
+    "value": "72",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K24",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L24",
+    "value": "5290",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A25",
+    "value": "Other Noncompliance reporting",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B25",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C25",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D25",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E25",
+    "value": "36",
+    "formula": "'Number of Respondents'!C18"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F25",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G25",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H25",
+    "value": "36",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I25",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J25",
+    "value": "180",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K25",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L25",
+    "value": "13225",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A26",
+    "value": "Other Info - Permittee Report of Inaccurate Previous Information ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B26",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C26",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D26",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E26",
+    "value": "2",
+    "formula": "'Number of Respondents'!C19"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F26",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G26",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H26",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I26",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J26",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K26",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L26",
+    "value": "294",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A27",
+    "value": "Reporting Subtotal",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G27",
+    "value": "27555",
+    "formula": "SUM(G7:G10,G14:G17,G19:G26)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H27",
+    "value": "35174",
+    "formula": "SUM(H7:H26)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I27",
+    "value": "15702",
+    "formula": "SUM(I7:I26)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J27",
+    "value": "31685",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K27",
+    "value": "1153626",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L27",
+    "value": "2327898",
+    "formula": "SUM(L7:L10,L14:L17,L19:L26)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A28",
+    "value": "Recordkeeping Requirements",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A29",
+    "value": "Develop New SWPPP - Large Sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B29",
+    "value": "36.4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C29",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D29",
+    "value": "36.4",
+    "formula": "B29+C29"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E29",
+    "value": "1634",
+    "formula": "'Number of Respondents'!C4"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F29",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G29",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H29",
+    "value": "1634",
+    "formula": "E29*F29"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I29",
+    "value": "0",
+    "formula": "ROUND(H29*C29,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J29",
+    "value": "59478",
+    "formula": "ROUND(H29*D29,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K29",
+    "value": "0",
+    "formula": "ROUND(I29*$K$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L29",
+    "value": "4369849",
+    "formula": "ROUND(J29*$K$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A30",
+    "value": "Develop New SWPPP - Small Sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B30",
+    "value": "22.7",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C30",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D30",
+    "value": "22.7",
+    "formula": "B30+C30"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E30",
+    "value": "1997",
+    "formula": "'Number of Respondents'!C8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F30",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G30",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H30",
+    "value": "1997",
+    "formula": "E30*F30"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I30",
+    "value": "0",
+    "formula": "ROUND(H30*C30,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J30",
+    "value": "45332",
+    "formula": "ROUND(H30*D30,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K30",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L30",
+    "value": "3330542",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A31",
+    "value": "SWPPP Benchmark Monitoring Procedure 3",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B31",
+    "value": "NA",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C31",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D31",
+    "value": "4",
+    "formula": "C31"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E31",
+    "value": "835",
+    "formula": "'Number of Respondents'!C9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F31",
+    "value": "Part of developing a SWPPP",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I31",
+    "value": "3340",
+    "formula": "ROUND(E31*C31,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J31",
+    "value": "3340",
+    "formula": "ROUND(E31*D31,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K31",
+    "value": "245390",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L31",
+    "value": "245390",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A32",
+    "value": "Update SWPPP",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B32",
+    "value": "Included in SWPPP development burden",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C32",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D32",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E32",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F32",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G32",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H32",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I32",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J32",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K32",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L32",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A33",
+    "value": "Site Inspections - Large Sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B33",
+    "value": "0.5",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C33",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D33",
+    "value": "0.5",
+    "formula": "B33+C33"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E33",
+    "value": "1634",
+    "formula": "'Number of Respondents'!C4"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F33",
+    "value": "26",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G33",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H33",
+    "value": "42484",
+    "formula": "E33*F33"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I33",
+    "value": "0",
+    "formula": "ROUND(H33*C33,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J33",
+    "value": "21242",
+    "formula": "ROUND(H33*D33,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K33",
+    "value": "0",
+    "formula": "ROUND(I33*$K$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L33",
+    "value": "1560650",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A34",
+    "value": "Site Inspections - Small Sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B34",
+    "value": "0.25",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C34",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D34",
+    "value": "0.25",
+    "formula": "B34+C34"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E34",
+    "value": "1997",
+    "formula": "'Number of Respondents'!C8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F34",
+    "value": "26",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G34",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H34",
+    "value": "51922",
+    "formula": "E34*F34"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I34",
+    "value": "0",
+    "formula": "ROUND(H34*C34,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J34",
+    "value": "12981",
+    "formula": "ROUND(H34*D34,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K34",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L34",
+    "value": "953714",
+    "formula": "ROUND(J34*$K$2,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A35",
+    "value": "Dewatering Inspections",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B35",
+    "value": "NA",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C35",
+    "value": "0.25",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D35",
+    "value": "0.25",
+    "formula": "C35"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E35",
+    "value": "3631",
+    "formula": "'Number of Respondents'!$C$3"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F35",
+    "value": "29",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G35",
+    "value": "105299",
+    "formula": "E35*F35"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H35",
+    "value": "105299",
+    "formula": "E35*F35"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I35",
+    "value": "26325",
+    "formula": "ROUND(H35*C35,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J35",
+    "value": "26325",
+    "formula": "ROUND(H35*D35,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K35",
+    "value": "1934098",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L35",
+    "value": "1934098",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A36",
+    "value": "Corrective Action Records",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "B36",
+    "value": "Included in burden estimate for site inspections, dewatering inspections, and turbidity monitoring ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "C36",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "D36",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "E36",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "F36",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G36",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H36",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I36",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J36",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K36",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L36",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A37",
+    "value": "Recordkeeping Subtotal",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G37",
+    "value": "105299",
+    "formula": "SUM(G29:G31,G33:G35)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H37",
+    "value": "203336",
+    "formula": "SUM(H29:H36)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I37",
+    "value": "29665",
+    "formula": "SUM(I29:I36)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J37",
+    "value": "168698",
+    "formula": "SUM(J29:J36)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K37",
+    "value": "2179488",
+    "formula": "SUM(K29:K36)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L37",
+    "value": "12394243",
+    "formula": "SUM(L29:L36)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A38",
+    "value": "Total Labor Burden and Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "G38",
+    "value": "132854",
+    "formula": "G37+G27"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H38",
+    "value": "238510",
+    "formula": "H37+H27"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I38",
+    "value": "45367",
+    "formula": "I37+I27"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "J38",
+    "value": "200383",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K38",
+    "value": "3333114",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L38",
+    "value": "14722141",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A39",
+    "value": "Total Capital and O&M",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K39",
+    "value": "888440",
+    "formula": "'Turbidity Monitoring'!D12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L39",
+    "value": "888440",
+    "formula": "K39"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A40",
+    "value": "Grand Total",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "K40",
+    "value": "4221554",
+    "formula": "K38+K39"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "L40",
+    "value": "15610581",
+    "formula": "L38+L39"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H42",
+    "value": "Hours (respondent + agency)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I42",
+    "value": "211062.85",
+    "formula": "(J38+'Agency Burden'!G12)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H43",
+    "value": "Responses (respondent + agency)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I43",
+    "value": "250762",
+    "formula": "H38+'Agency Burden'!E12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A44",
+    "value": "Table Endnotes",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "H44",
+    "value": "hours per response",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "I44",
+    "value": "0.84168594125106677",
+    "formula": "I42/I43"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "M44",
+    "value": "296146.66666666669",
+    "formula": "L39/3"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A45",
+    "value": "1 NA indicates that the 2017 NPDES Programmatic ICR did not account for this new burden item.",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A46",
+    "value": "2 In the 2022 CGP ICR, EPA assumed that the fully loaded cost of employment for a private sector employee is $73.47.",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet2.xml",
+    "cell": "A47",
+    "value": "3 A subpopulation of respondents need to document their benchmark monitoring procedures in their SWPPP. This is not considered a new response, as it is included in the overall SWPPP response. The burden is calculated in a separate line because the burden applies to a subset of the respondent population",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "A1",
+    "value": "Calculations for Turbidity Monitoring Requirements",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "A3",
+    "value": "Dewatering Turbidity Monitoring Reports",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "A4",
+    "value": "Activity",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "B4",
+    "value": "Estimate",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "C4",
+    "value": "Notes",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "A5",
+    "value": "Average data entry time per element 1 (hours)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "B5",
+    "value": "5.8916666666666666E-2",
+    "formula": "3.535/60"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "C5",
+    "value": "This average is based on burden reported in the Economic Analysis of the National Pollutant Discharge Elimination System Electronic Reporting Final Rule (9/2015, Table 4-9 Page 4-14). It is an average of the Hybrid and Batch methods. https://www.epa.gov/sites/production/files/2015-09/documents/npdesea.pdf ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "A6",
+    "value": "No. of elements to report per DMR",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "B6",
+    "value": "13",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "C6",
+    "value": "Respondents need to fill in either \"no dewatering discharge\" or the weekly sampling average for every week in the quarter, which is 13 weeks. ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "A7",
+    "value": "Hours per Response",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "B7",
+    "value": "0.75",
+    "formula": "MROUND(B5*B6,0.05)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "A10",
+    "value": "Turbidity Meter Capital and Operation & Maintenance Costs",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "A11",
+    "value": "Monitoring Device",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "B11",
+    "value": "Capital/ Startup Cost for One Respondent 1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "C11",
+    "value": "Number of Respondents ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "D11",
+    "value": "Total Capital/ Startup Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "E11",
+    "value": "Annual O&M Costs for One Respondentb",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "F11",
+    "value": "Number of Respondents with O&M",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "G11",
+    "value": "Total O&M",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "A12",
+    "value": "Turbidity Meter",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "B12",
+    "value": "1064",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "C12",
+    "value": "835",
+    "formula": "'Number of Respondents'!C9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "D12",
+    "value": "888440",
+    "formula": "B12*C12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "E12",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "F12",
+    "value": "835",
+    "formula": "C12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "G12",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "A13",
+    "value": "a EPA surveyed publicly available price information from a variety of analytical instrument retailers for prices and instrument information. Of the instruments with publicly available prices that were advertised as able to comply with EPA analytical method standards for turbidity, prices ranged from $970 - $1,870 with a median price of $1,043. Further information on this survey can be found in the Incremental Cost Impact Analysis for the 2022 CGP. ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "A14",
+    "value": "b EPA assumes that calibration standards are included with the purchase of a turbidity meter, and thus the O&M cost of purchasing calibration standards is included in the capital cost estimate.",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet3.xml",
+    "cell": "D19",
+    "value": "296146.66666666669",
+    "formula": "D12/3"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B1",
+    "value": "Respondent Percentage",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C1",
+    "value": "Proposed 2022 CGP ICR",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D1",
+    "value": "Notes",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A2",
+    "value": "# of NOIs (including Idaho)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B2",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C2",
+    "value": "NA",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D2",
+    "value": "https://permitsearch.epa.gov/epermit-search/ui/search ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A3",
+    "value": "# of NOIs (excluding Idaho)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B3",
+    "value": "-",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C3",
+    "value": "3631",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D3",
+    "value": "2022 CGP NOI Data (Years 1 and 2 of 2022 CGP NOI Data)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A4",
+    "value": "Operators with Large Sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B4",
+    "value": "0.45",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C4",
+    "value": "1634",
+    "formula": "ROUND($C$3*$B$4,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D4",
+    "value": "37% used in 2017 NPDES Program ICR, updated to 41% using 2017 CGP NOI Data (2017-2020), and updated to 45% using the first two years of the 2022 CGP NOI data for 2022 CGP ICR (sites greater than 5 acres)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A5",
+    "value": "NOI - Large Sites  (ESA Criterion A, B)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B5",
+    "value": "0.6",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C5",
+    "value": "980",
+    "formula": "ROUND($B5*C$4,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D5",
+    "value": "Same assumption made in 2017 NPDES Program ICR: 60% of large sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A6",
+    "value": "NOI - Large Sites  (ESA Criterion C, D, E - Informal Eval)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B6",
+    "value": "0.373",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C6",
+    "value": "609",
+    "formula": "ROUNDDOWN($B6*C$4,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D6",
+    "value": "Same assumption made in 2017 NPDES Program ICR: 37.3% of large sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A7",
+    "value": "NOI - Large Sites (ESA Criterion F - Formal Eval)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B7",
+    "value": "2.7E-2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C7",
+    "value": "44",
+    "formula": "ROUND($B7*C$4,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D7",
+    "value": "Same assumption made in 2017 NPDES Program ICR: 2.7% of large sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A8",
+    "value": "Operators with Small Sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B8",
+    "value": "0.55000000000000004",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C8",
+    "value": "1997",
+    "formula": "ROUND($C$3*$B$8,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D8",
+    "value": "63% used in 2017 NPDES Program ICR, updated to 59% using 2017 CGP NOI Data (2017-2020). Updated to 55% in 2024 using the first two years of 2022 CGP NOI Data for the 2022 CGP ICR (sites less than 5 acres)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A9",
+    "value": "Operators that discharge into Sensitive Water",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B9",
+    "value": "0.23",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C9",
+    "value": "835",
+    "formula": "ROUND(C3*B9,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D9",
+    "value": "Based on analysis of the first two years of 2022 CGP NOI data , where impairment or TMDL was listed in NOI form based on the following search terms: sediment, turbidity, TSS, solids, or transparency or the water was Tier 2, 2.5, or 3. ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A10",
+    "value": "Waivers (5%)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B10",
+    "value": "0.05",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C10",
+    "value": "182",
+    "formula": "ROUND(C3*(1+$B$10)-C3,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D10",
+    "value": "Same assumption made in 2017 NPDES Program ICR: 5% on top of the total number of NOIs submitted each year",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A11",
+    "value": "# NOTs",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B11",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C11",
+    "value": "3631",
+    "formula": "ROUND(C3*B11,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D11",
+    "value": "Same number as number of NOIs",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A12",
+    "value": "Planned Facility Changes ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B12",
+    "value": "5.0000000000000001E-3",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C12",
+    "value": "18",
+    "formula": "ROUND(C$3*$B12,0)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D12",
+    "value": "Same assumption made in 2017 NPDES Program ICR",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A13",
+    "value": "Anticipated Noncompliance",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B13",
+    "value": "1E-3",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C13",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D13",
+    "value": "Same assumption made in 2017 NPDES Program ICR",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A14",
+    "value": "24hr reporting - Unanticipated Bypass or Upset (Verbal)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B14",
+    "value": "1E-3",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C14",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D14",
+    "value": "Same assumption made in 2017 NPDES Program ICR",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A15",
+    "value": "24hr reporting - Unanticipated Bypass or Upset (Written)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B15",
+    "value": "7.5000000000000002E-4",
+    "formula": "B14*75%"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C15",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D15",
+    "value": "Same assumption made in 2017 NPDES Program ICR",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A16",
+    "value": "24hr reporting - Violation of Maximum Daily Discharge (Verbal)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B16",
+    "value": "0.02",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C16",
+    "value": "73",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D16",
+    "value": "Same assumption made in 2017 NPDES Program ICR",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A17",
+    "value": "24hr reporting - Violation of Maximum Daily Discharge (Written)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B17",
+    "value": "0.01",
+    "formula": "B16*50%"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C17",
+    "value": "36",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D17",
+    "value": "Same assumption made in 2017 NPDES Program ICR",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A18",
+    "value": "Other Noncompliance reporting",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B18",
+    "value": "0.01",
+    "formula": "1%"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C18",
+    "value": "36",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D18",
+    "value": "Same assumption made in 2017 NPDES Program ICR",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "A19",
+    "value": "Other Info - Permittee Report of Inaccurate Previous Information ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "B19",
+    "value": "5.0000000000000001E-4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "C19",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet4.xml",
+    "cell": "D19",
+    "value": "Same assumption made in 2017 NPDES Program ICR",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A1",
+    "value": "Table 1 \u2013 Total and Incremental Change in Annual Burden for the 2022 CGP",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A2",
+    "value": "Burden Category",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B2",
+    "value": "2022 CGP Incremental Change in Burden",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D2",
+    "value": "2022 CGP Total Burden",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B3",
+    "value": "Labor Burden (hours)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C3",
+    "value": "Total Cost ($)\nLabor & Capital/O&M1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D3",
+    "value": "Labor Burden (hours)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E3",
+    "value": "Total Cost ($)\nLabor & Capital/O&M1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A4",
+    "value": "Total for Respondents",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B4",
+    "value": "45367",
+    "formula": "'Respondent Burden and Cost'!I38"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C4",
+    "value": "4221554",
+    "formula": "'Respondent Burden and Cost'!K40"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D4",
+    "value": "200383",
+    "formula": "'Respondent Burden and Cost'!J38"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E4",
+    "value": "15610581",
+    "formula": "'Respondent Burden and Cost'!L40"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A5",
+    "value": "Total for Agency",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B5",
+    "value": "217.1",
+    "formula": "'Agency Burden'!F12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C5",
+    "value": "11105",
+    "formula": "'Agency Burden'!H12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D5",
+    "value": "10679.85",
+    "formula": "'Agency Burden'!G12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E5",
+    "value": "546275",
+    "formula": "'Agency Burden'!I12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A6",
+    "value": "1 Total Cost for Agency includes labor only.  There are no associated Capital and O&M costs.",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A8",
+    "value": "Table 2 \u2013 2022 CGP NOI Burden Summary",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A9",
+    "value": "Activity",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B9",
+    "value": "Hours Per Response",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B10",
+    "value": "2017 NPDES Program ICR",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C10",
+    "value": " 2022 CGP Incremental Change 1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D10",
+    "value": " 2022 CGP Total",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A11",
+    "value": "Small sites \u2013 Includes endangered species evaluation and any consultation",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B11",
+    "value": "3.7",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C11",
+    "value": "-0.4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D11",
+    "value": "3.3",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A12",
+    "value": "Large sites \u2013 Initial endangered species evaluation and no consultation (60% of large sites) ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B12",
+    "value": "1.5",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C12",
+    "value": "-0.4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D12",
+    "value": "1.1000000000000001",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A13",
+    "value": "Large sites \u2013 Initial endangered species evaluation and informal consultation (37.3% of large sites)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B13",
+    "value": "6",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C13",
+    "value": "-0.4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D13",
+    "value": "5.6",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A14",
+    "value": "Large sites \u2013 Initial endangered species evaluation and formal consultation (2.7% of large sites)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B14",
+    "value": "20",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C14",
+    "value": "-0.4",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D14",
+    "value": "19.600000000000001",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A15",
+    "value": "1 Decrease by 0.5 hours due to NeT-CGP streamlining plus increase by 0.1 hours due to new NOI questions. [-0.5 hours + 0.1 hours = -0.4 hours]",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A17",
+    "value": "Table 3 - Turbidity Meter Capital and O&M Costs",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A18",
+    "value": "Monitoring Device",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B18",
+    "value": "Capital/ Startup Cost for One Respondent1 ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C18",
+    "value": "Number of Respondents ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D18",
+    "value": "Total Capital/ Startup Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E18",
+    "value": "Annual O&M Costs for One Respondent2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F18",
+    "value": "Number of Respondents with O&M",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G18",
+    "value": "Total O&M",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A19",
+    "value": "Turbidity Meter",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B19",
+    "value": "1064",
+    "formula": "'Turbidity Monitoring'!B12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C19",
+    "value": "835",
+    "formula": "'Turbidity Monitoring'!C12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D19",
+    "value": "888440",
+    "formula": "'Turbidity Monitoring'!D12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E19",
+    "value": "0",
+    "formula": "'Turbidity Monitoring'!E12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F19",
+    "value": "835",
+    "formula": "'Turbidity Monitoring'!F12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G19",
+    "value": "0",
+    "formula": "'Turbidity Monitoring'!G12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A20",
+    "value": "1 EPA surveyed publicly available price information from a variety of analytical instrument retailers for prices and instrument information. Of the instruments with publicly available prices that were advertised as able to comply with EPA analytical method standards for turbidity, prices ranged from $970 - $1,870 with a median price of $1,043. Further information on this survey can be found in the Incremental Cost Impact Analysis for the 2022 CGP..",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A21",
+    "value": "2 EPA assumes that calibration standards are included with the purchase of a turbidity meter, and thus the O&M cost of purchasing calibration standards is included in the capital cost estimate.",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A23",
+    "value": "Table 4 - Estimated Agency Burden and Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A24",
+    "value": "Activity",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B24",
+    "value": "Hours Per Response",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E24",
+    "value": "Annual Hours Burden",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G24",
+    "value": "Annual Cost Burden2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B25",
+    "value": "2017 NPDES Program ICR 1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C25",
+    "value": "2022 CGP Incremental Change ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D25",
+    "value": "Proposed 2022 CGP Total Hours per Response ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E25",
+    "value": " 2022 CGP Incremental Change in Annual Burden (hrs)",
+    "formula": "'Agency Burden'!F4"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F25",
+    "value": " 2022 CGP Annual Burden (hrs) ",
+    "formula": "'Agency Burden'!G4"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G25",
+    "value": " 2022 CGP Incremental Change in Annual Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H25",
+    "value": "2022 CGP Annual Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A26",
+    "value": "NOI review",
+    "formula": "'Agency Burden'!A5"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B26",
+    "value": "1",
+    "formula": "'Agency Burden'!B5"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C26",
+    "value": "0",
+    "formula": "'Agency Burden'!C5"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D26",
+    "value": "1",
+    "formula": "'Agency Burden'!D5"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E26",
+    "value": "0",
+    "formula": "'Agency Burden'!F5"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F26",
+    "value": "3630",
+    "formula": "'Agency Burden'!G5"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G26",
+    "value": "0",
+    "formula": "'Agency Burden'!H5"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H26",
+    "value": "185675",
+    "formula": "'Agency Burden'!I5"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A27",
+    "value": "NOT review",
+    "formula": "'Agency Burden'!A6"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B27",
+    "value": "0.25",
+    "formula": "'Agency Burden'!B6"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C27",
+    "value": "0",
+    "formula": "'Agency Burden'!C6"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D27",
+    "value": "0.25",
+    "formula": "'Agency Burden'!D6"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E27",
+    "value": "0",
+    "formula": "'Agency Burden'!F6"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F27",
+    "value": "907.75",
+    "formula": "'Agency Burden'!G6"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G27",
+    "value": "0",
+    "formula": "'Agency Burden'!H6"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H27",
+    "value": "46431",
+    "formula": "'Agency Burden'!I6"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A28",
+    "value": "Waiver Certification Review",
+    "formula": "'Agency Burden'!A7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B28",
+    "value": "1",
+    "formula": "'Agency Burden'!B7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C28",
+    "value": "0",
+    "formula": "'Agency Burden'!C7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D28",
+    "value": "1",
+    "formula": "'Agency Burden'!D7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E28",
+    "value": "0",
+    "formula": "'Agency Burden'!F7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F28",
+    "value": "182",
+    "formula": "'Agency Burden'!G7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G28",
+    "value": "0",
+    "formula": "'Agency Burden'!H7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H28",
+    "value": "9309",
+    "formula": "'Agency Burden'!I7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A29",
+    "value": "SWPPP review",
+    "formula": "'Agency Burden'!A8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B29",
+    "value": "1",
+    "formula": "'Agency Burden'!B8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C29",
+    "value": "0",
+    "formula": "'Agency Burden'!C8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D29",
+    "value": "1",
+    "formula": "'Agency Burden'!D8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E29",
+    "value": "0",
+    "formula": "'Agency Burden'!F8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F29",
+    "value": "3631",
+    "formula": "'Agency Burden'!G8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G29",
+    "value": "0",
+    "formula": "'Agency Burden'!H8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H29",
+    "value": "185726",
+    "formula": "'Agency Burden'!I8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A30",
+    "value": "Standard/Other Reports",
+    "formula": "'Agency Burden'!A9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B30",
+    "value": "12",
+    "formula": "'Agency Burden'!B9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C30",
+    "value": "0",
+    "formula": "'Agency Burden'!C9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D30",
+    "value": "12",
+    "formula": "'Agency Burden'!D9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E30",
+    "value": "0",
+    "formula": "'Agency Burden'!F9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F30",
+    "value": "2112",
+    "formula": "'Agency Burden'!G9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G30",
+    "value": "0",
+    "formula": "'Agency Burden'!H9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H30",
+    "value": "108029",
+    "formula": "'Agency Burden'!I9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A31",
+    "value": "Turbidity Monitoring Report Review",
+    "formula": "'Agency Burden'!A10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B31",
+    "value": "NA",
+    "formula": "'Agency Burden'!B10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C31",
+    "value": "0.16",
+    "formula": "'Agency Burden'!C10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D31",
+    "value": "0.16",
+    "formula": "'Agency Burden'!D10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E31",
+    "value": "133.6",
+    "formula": "'Agency Burden'!F10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F31",
+    "value": "133.6",
+    "formula": "'Agency Burden'!G10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G31",
+    "value": "6834",
+    "formula": "'Agency Burden'!H10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H31",
+    "value": "6834",
+    "formula": "'Agency Burden'!I10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A32",
+    "value": "Turbidity Report Follow-up",
+    "formula": "'Agency Burden'!A11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B32",
+    "value": "NA",
+    "formula": "'Agency Burden'!B11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C32",
+    "value": "0.5",
+    "formula": "'Agency Burden'!C11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D32",
+    "value": "0.5",
+    "formula": "'Agency Burden'!D11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E32",
+    "value": "83.5",
+    "formula": "'Agency Burden'!F11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F32",
+    "value": "83.5",
+    "formula": "'Agency Burden'!G11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G32",
+    "value": "4271",
+    "formula": "'Agency Burden'!H11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H32",
+    "value": "4271",
+    "formula": "'Agency Burden'!I11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A33",
+    "value": "Total Agency Activities",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D33",
+    "value": " ",
+    "formula": "'Agency Burden'!D12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E33",
+    "value": "217.1",
+    "formula": "'Agency Burden'!F12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F33",
+    "value": "10679.85",
+    "formula": "'Agency Burden'!G12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G33",
+    "value": "11105",
+    "formula": "'Agency Burden'!H12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H33",
+    "value": "546275",
+    "formula": "'Agency Burden'!I12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A34",
+    "value": "1 NA indicates that the 2017 NPDES Programmatic ICR did not account for this new burden item.",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A35",
+    "value": "2 In the 2022 CGP ICR, EPA assumed that the fully loaded cost of employment for a federal employee is $46.02.",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A37",
+    "value": "Table 5 - Estimated Respondent Burden and Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A38",
+    "value": "Activity",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B38",
+    "value": "Hours Per Response",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E38",
+    "value": "Annual Hours Burden",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G38",
+    "value": "Annual Cost Burden2",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B39",
+    "value": "2017 NPDES Program ICR 1",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C39",
+    "value": "2022 CGP Incremental Change ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D39",
+    "value": "2022 CGP Total",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E39",
+    "value": " 2022 CGP Incremental Change in Annual Burden (hrs)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F39",
+    "value": " 2022 CGP Total Annual Burden (hrs)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G39",
+    "value": " 2022 CGP Incremental Change in Annual Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H39",
+    "value": " 2022 CGP Total Annual Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A40",
+    "value": "Reporting Requirements",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A41",
+    "value": "NOI for Large Sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A42",
+    "value": "With ESA Evaluation and No Consultation",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B42",
+    "value": "1.5",
+    "formula": "'Respondent Burden and Cost'!B7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C42",
+    "value": "-0.4",
+    "formula": "'Respondent Burden and Cost'!C7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D42",
+    "value": "1.1000000000000001",
+    "formula": "'Respondent Burden and Cost'!D7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E42",
+    "value": "-392",
+    "formula": "'Respondent Burden and Cost'!I7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F42",
+    "value": "1078",
+    "formula": "'Respondent Burden and Cost'!J7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G42",
+    "value": "-28800",
+    "formula": "'Respondent Burden and Cost'!K7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H42",
+    "value": "79201",
+    "formula": "'Respondent Burden and Cost'!L7"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A43",
+    "value": "With ESA Evaluation and Informal Consultation",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B43",
+    "value": "6",
+    "formula": "'Respondent Burden and Cost'!B8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C43",
+    "value": "-0.4",
+    "formula": "'Respondent Burden and Cost'!C8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D43",
+    "value": "5.6",
+    "formula": "'Respondent Burden and Cost'!D8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E43",
+    "value": "-244",
+    "formula": "'Respondent Burden and Cost'!I8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F43",
+    "value": "3410",
+    "formula": "'Respondent Burden and Cost'!J8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G43",
+    "value": "-17927",
+    "formula": "'Respondent Burden and Cost'!K8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H43",
+    "value": "250533",
+    "formula": "'Respondent Burden and Cost'!L8"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A44",
+    "value": "With ESA Evaluation and Formal Consultation",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B44",
+    "value": "20",
+    "formula": "'Respondent Burden and Cost'!B9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C44",
+    "value": "-0.4",
+    "formula": "'Respondent Burden and Cost'!C9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D44",
+    "value": "19.600000000000001",
+    "formula": "'Respondent Burden and Cost'!D9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E44",
+    "value": "-18",
+    "formula": "'Respondent Burden and Cost'!I9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F44",
+    "value": "862",
+    "formula": "'Respondent Burden and Cost'!J9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G44",
+    "value": "-1322",
+    "formula": "'Respondent Burden and Cost'!K9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H44",
+    "value": "63331",
+    "formula": "'Respondent Burden and Cost'!L9"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A45",
+    "value": "NOI - Small Sites with ESA Evaluation and Consultation",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B45",
+    "value": "3.7",
+    "formula": "'Respondent Burden and Cost'!B10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C45",
+    "value": "-0.4",
+    "formula": "'Respondent Burden and Cost'!C10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D45",
+    "value": "3.3000000000000003",
+    "formula": "'Respondent Burden and Cost'!D10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E45",
+    "value": "-799",
+    "formula": "'Respondent Burden and Cost'!I10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F45",
+    "value": "6590",
+    "formula": "'Respondent Burden and Cost'!J10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G45",
+    "value": "-58703",
+    "formula": "'Respondent Burden and Cost'!K10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H45",
+    "value": "484167",
+    "formula": "'Respondent Burden and Cost'!L10"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A46",
+    "value": "Appendix D - Eligibility Procedures Relating to Threatened and Endangered Species Protection",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B46",
+    "value": "Included in NOI burden",
+    "formula": "'Respondent Burden and Cost'!B11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E46",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!I11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F46",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!J11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G46",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!K11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H46",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!L11"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A47",
+    "value": "Appendix E - Historic Property Screening Step 5 (Contact SHPO/THPO)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B47",
+    "value": "Included in NOI burden",
+    "formula": "'Respondent Burden and Cost'!B12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E47",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!I12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F47",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!J12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G47",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!K12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H47",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!L12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A48",
+    "value": "Appendix L -Request for Chemical Treatment",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B48",
+    "value": "Included in NOI burden",
+    "formula": "'Respondent Burden and Cost'!B13"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E48",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!I13"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F48",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!J13"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G48",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!K13"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H48",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!L13"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A49",
+    "value": "Appendix C - Small Construction Waiver",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B49",
+    "value": "1",
+    "formula": "'Respondent Burden and Cost'!B14"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C49",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!C14"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D49",
+    "value": "1",
+    "formula": "'Respondent Burden and Cost'!D14"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E49",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!I14"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F49",
+    "value": "182",
+    "formula": "'Respondent Burden and Cost'!J14"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G49",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!K14"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H49",
+    "value": "13372",
+    "formula": "'Respondent Burden and Cost'!L14"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A50",
+    "value": "NOT",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B50",
+    "value": "0.5",
+    "formula": "'Respondent Burden and Cost'!B15"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C50",
+    "value": "0.7",
+    "formula": "'Respondent Burden and Cost'!C15"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D50",
+    "value": "1.2",
+    "formula": "'Respondent Burden and Cost'!D15"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E50",
+    "value": "2542",
+    "formula": "'Respondent Burden and Cost'!I15"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F50",
+    "value": "4357",
+    "formula": "'Respondent Burden and Cost'!J15"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G50",
+    "value": "186761",
+    "formula": "'Respondent Burden and Cost'!K15"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H50",
+    "value": "320109",
+    "formula": "'Respondent Burden and Cost'!L15"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A51",
+    "value": "Turbidity Benchmark Monitoring - Sampling",
+    "formula": "'Respondent Burden and Cost'!A16"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B51",
+    "value": "NA",
+    "formula": "'Respondent Burden and Cost'!B16"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C51",
+    "value": "0.5",
+    "formula": "'Respondent Burden and Cost'!C16"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D51",
+    "value": "0.5",
+    "formula": "'Respondent Burden and Cost'!D16"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E51",
+    "value": "12108",
+    "formula": "'Respondent Burden and Cost'!I16"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F51",
+    "value": "12108",
+    "formula": "'Respondent Burden and Cost'!J16"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G51",
+    "value": "889575",
+    "formula": "'Respondent Burden and Cost'!K16"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H51",
+    "value": "889575",
+    "formula": "'Respondent Burden and Cost'!L16"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A52",
+    "value": "Turbidity Benchmark Monitoring - Reporting",
+    "formula": "'Respondent Burden and Cost'!A17"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B52",
+    "value": "NA",
+    "formula": "'Respondent Burden and Cost'!B17"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C52",
+    "value": "0.75",
+    "formula": "'Respondent Burden and Cost'!C17"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D52",
+    "value": "0.75",
+    "formula": "'Respondent Burden and Cost'!D17"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E52",
+    "value": "2505",
+    "formula": "'Respondent Burden and Cost'!I17"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F52",
+    "value": "2505",
+    "formula": "'Respondent Burden and Cost'!J17"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G52",
+    "value": "184042",
+    "formula": "'Respondent Burden and Cost'!K17"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H52",
+    "value": "184042",
+    "formula": "'Respondent Burden and Cost'!L17"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A53",
+    "value": "Standard/Other Reporting",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A54",
+    "value": "Planned Facility Changes ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B54",
+    "value": "4",
+    "formula": "'Respondent Burden and Cost'!B19"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C54",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!C19"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D54",
+    "value": "4",
+    "formula": "'Respondent Burden and Cost'!D19"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E54",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!I19"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F54",
+    "value": "72",
+    "formula": "'Respondent Burden and Cost'!J19"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G54",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!K19"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H54",
+    "value": "5290",
+    "formula": "'Respondent Burden and Cost'!L19"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A55",
+    "value": "Anticipated Noncompliance",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B55",
+    "value": "5",
+    "formula": "'Respondent Burden and Cost'!B20"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C55",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!C20"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D55",
+    "value": "5",
+    "formula": "'Respondent Burden and Cost'!D20"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E55",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!I20"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F55",
+    "value": "20",
+    "formula": "'Respondent Burden and Cost'!J20"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G55",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!K20"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H55",
+    "value": "1469",
+    "formula": "'Respondent Burden and Cost'!L20"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A56",
+    "value": "24hr reporting - Unanticipated Bypass or Upset (Verbal)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B56",
+    "value": "5",
+    "formula": "'Respondent Burden and Cost'!B21"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C56",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!C21"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D56",
+    "value": "5",
+    "formula": "'Respondent Burden and Cost'!D21"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E56",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!I21"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F56",
+    "value": "20",
+    "formula": "'Respondent Burden and Cost'!J21"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G56",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!K21"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H56",
+    "value": "1469",
+    "formula": "'Respondent Burden and Cost'!L21"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A57",
+    "value": "24hr reporting - Unanticipated Bypass or Upset (Written)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B57",
+    "value": "2",
+    "formula": "'Respondent Burden and Cost'!B22"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C57",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!C22"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D57",
+    "value": "2",
+    "formula": "'Respondent Burden and Cost'!D22"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E57",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!I22"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F57",
+    "value": "6",
+    "formula": "'Respondent Burden and Cost'!J22"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G57",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!K22"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H57",
+    "value": "441",
+    "formula": "'Respondent Burden and Cost'!L22"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A58",
+    "value": "24hr reporting - Violation of Maximum Daily Discharge (Verbal)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B58",
+    "value": "3",
+    "formula": "'Respondent Burden and Cost'!B23"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C58",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!C23"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D58",
+    "value": "3",
+    "formula": "'Respondent Burden and Cost'!D23"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E58",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!I23"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F58",
+    "value": "219",
+    "formula": "'Respondent Burden and Cost'!J23"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G58",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!K23"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H58",
+    "value": "16090",
+    "formula": "'Respondent Burden and Cost'!L23"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A59",
+    "value": "24hr reporting - Violation of Maximum Daily Discharge (Written)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B59",
+    "value": "2",
+    "formula": "'Respondent Burden and Cost'!B24"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C59",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!C24"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D59",
+    "value": "2",
+    "formula": "'Respondent Burden and Cost'!D24"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E59",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!I24"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F59",
+    "value": "72",
+    "formula": "'Respondent Burden and Cost'!J24"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G59",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!K24"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H59",
+    "value": "5290",
+    "formula": "'Respondent Burden and Cost'!L24"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A60",
+    "value": "Other Noncompliance reporting",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B60",
+    "value": "5",
+    "formula": "'Respondent Burden and Cost'!B25"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C60",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!C25"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D60",
+    "value": "5",
+    "formula": "'Respondent Burden and Cost'!D25"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E60",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!I25"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F60",
+    "value": "180",
+    "formula": "'Respondent Burden and Cost'!J25"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G60",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!K25"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H60",
+    "value": "13225",
+    "formula": "'Respondent Burden and Cost'!L25"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A61",
+    "value": "Other Info - Permittee Report of Inaccurate Previous Information ",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B61",
+    "value": "2",
+    "formula": "'Respondent Burden and Cost'!B26"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C61",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!C26"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D61",
+    "value": "2",
+    "formula": "'Respondent Burden and Cost'!D26"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E61",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!I26"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F61",
+    "value": "4",
+    "formula": "'Respondent Burden and Cost'!J26"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G61",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!K26"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H61",
+    "value": "294",
+    "formula": "'Respondent Burden and Cost'!L26"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A62",
+    "value": "Reporting Subtotal",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E62",
+    "value": "15702",
+    "formula": "'Respondent Burden and Cost'!I27"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F62",
+    "value": "31685",
+    "formula": "'Respondent Burden and Cost'!J27"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G62",
+    "value": "1153626",
+    "formula": "'Respondent Burden and Cost'!K27"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H62",
+    "value": "2327898",
+    "formula": "'Respondent Burden and Cost'!L27"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A63",
+    "value": "Recordkeeping Requirements",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A64",
+    "value": "Develop New SWPPP - Large Sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B64",
+    "value": "36.4",
+    "formula": "'Respondent Burden and Cost'!B29"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C64",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!C29"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D64",
+    "value": "36.4",
+    "formula": "'Respondent Burden and Cost'!D29"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E64",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!I29"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F64",
+    "value": "59478",
+    "formula": "'Respondent Burden and Cost'!J29"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G64",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!K29"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H64",
+    "value": "4369849",
+    "formula": "'Respondent Burden and Cost'!L29"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A65",
+    "value": "Develop New SWPPP - Small Sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B65",
+    "value": "22.7",
+    "formula": "'Respondent Burden and Cost'!B30"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C65",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!C30"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D65",
+    "value": "22.7",
+    "formula": "'Respondent Burden and Cost'!D30"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E65",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!I30"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F65",
+    "value": "45332",
+    "formula": "'Respondent Burden and Cost'!J30"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G65",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!K30"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H65",
+    "value": "3330542",
+    "formula": "'Respondent Burden and Cost'!L30"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A66",
+    "value": "SWPPP Benchmark Monitoring Procedure 3",
+    "formula": "'Respondent Burden and Cost'!A31"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B66",
+    "value": "NA",
+    "formula": "'Respondent Burden and Cost'!B31"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C66",
+    "value": "4",
+    "formula": "'Respondent Burden and Cost'!C31"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D66",
+    "value": "4",
+    "formula": "'Respondent Burden and Cost'!D31"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E66",
+    "value": "3340",
+    "formula": "'Respondent Burden and Cost'!I31"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F66",
+    "value": "3340",
+    "formula": "'Respondent Burden and Cost'!J31"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G66",
+    "value": "245390",
+    "formula": "'Respondent Burden and Cost'!K31"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H66",
+    "value": "245390",
+    "formula": "'Respondent Burden and Cost'!L31"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A67",
+    "value": "Update SWPPP",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B67",
+    "value": "Included in SWPPP development burden",
+    "formula": "'Respondent Burden and Cost'!B32"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E67",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!I32"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F67",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!J32"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G67",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!K32"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H67",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!L32"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A68",
+    "value": "Conduct Routine Inspections - Large Sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B68",
+    "value": "0.5",
+    "formula": "'Respondent Burden and Cost'!B33"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C68",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!C33"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D68",
+    "value": "0.5",
+    "formula": "'Respondent Burden and Cost'!D33"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E68",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!I33"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F68",
+    "value": "21242",
+    "formula": "'Respondent Burden and Cost'!J33"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G68",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!K33"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H68",
+    "value": "1560650",
+    "formula": "'Respondent Burden and Cost'!L33"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A69",
+    "value": "Conduct Routine Inspections - Small Sites",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B69",
+    "value": "0.25",
+    "formula": "'Respondent Burden and Cost'!B34"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C69",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!C34"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D69",
+    "value": "0.25",
+    "formula": "'Respondent Burden and Cost'!D34"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E69",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!I34"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F69",
+    "value": "12981",
+    "formula": "'Respondent Burden and Cost'!J34"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G69",
+    "value": "0",
+    "formula": "'Respondent Burden and Cost'!K34"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H69",
+    "value": "953714",
+    "formula": "'Respondent Burden and Cost'!L34"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A70",
+    "value": "Dewatering Inspections and Corrective Actions",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B70",
+    "value": "NA",
+    "formula": "'Respondent Burden and Cost'!B35"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C70",
+    "value": "0.25",
+    "formula": "'Respondent Burden and Cost'!C35"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "D70",
+    "value": "0.25",
+    "formula": "'Respondent Burden and Cost'!D35"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E70",
+    "value": "26325",
+    "formula": "'Respondent Burden and Cost'!I35"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F70",
+    "value": "26325",
+    "formula": "'Respondent Burden and Cost'!J35"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G70",
+    "value": "1934098",
+    "formula": "'Respondent Burden and Cost'!K35"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H70",
+    "value": "1934098",
+    "formula": "'Respondent Burden and Cost'!L35"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A71",
+    "value": "Corrective Action Records",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B71",
+    "value": "Included in burden estimate for site inspections, dewatering inspections, and turbidity monitoring ",
+    "formula": "'Respondent Burden and Cost'!B36"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E71",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!I36"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F71",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!J36"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G71",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!K36"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H71",
+    "value": "-",
+    "formula": "'Respondent Burden and Cost'!L36"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A72",
+    "value": "Recordkeeping Subtotal",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E72",
+    "value": "29665",
+    "formula": "'Respondent Burden and Cost'!I37"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F72",
+    "value": "168698",
+    "formula": "'Respondent Burden and Cost'!J37"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G72",
+    "value": "2179488",
+    "formula": "'Respondent Burden and Cost'!K37"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H72",
+    "value": "12394243",
+    "formula": "'Respondent Burden and Cost'!L37"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A73",
+    "value": "Total Labor Burden and Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "E73",
+    "value": "45367",
+    "formula": "'Respondent Burden and Cost'!I38"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "F73",
+    "value": "200383",
+    "formula": "'Respondent Burden and Cost'!J38"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G73",
+    "value": "3333114",
+    "formula": "'Respondent Burden and Cost'!K38"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H73",
+    "value": "14722141",
+    "formula": "'Respondent Burden and Cost'!L38"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A74",
+    "value": "Total Capital and O&M",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G74",
+    "value": "888440",
+    "formula": "'Respondent Burden and Cost'!K39"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H74",
+    "value": "888440",
+    "formula": "'Respondent Burden and Cost'!L39"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A75",
+    "value": "Grand Total",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "G75",
+    "value": "4221554",
+    "formula": "'Respondent Burden and Cost'!K40"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "H75",
+    "value": "15610581",
+    "formula": "'Respondent Burden and Cost'!L40"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A76",
+    "value": "1 NA indicates that the 2017 NPDES Programmatic ICR did not account for this burden item.",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A77",
+    "value": "2 In the 2022 CGP ICR, EPA assumed that the fully loaded cost of employment for a private sector employee is $62.77.",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A79",
+    "value": "Table 6 - Bottom Line Respondent Burden Hours and Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B80",
+    "value": "2022 CGP ICR Total",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C80",
+    "value": "Incremental Change",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A81",
+    "value": "Burden (hours)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B81",
+    "value": "200383",
+    "formula": "'Respondent Burden and Cost'!J38"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C81",
+    "value": "45367",
+    "formula": "'Respondent Burden and Cost'!I38"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A82",
+    "value": "Costs - Labor (dollars)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B82",
+    "value": "14722141",
+    "formula": "'Respondent Burden and Cost'!L38"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C82",
+    "value": "3333114",
+    "formula": "'Respondent Burden and Cost'!K38"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A83",
+    "value": "Costs - Capital (dollars)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B83",
+    "value": "888440",
+    "formula": "'Respondent Burden and Cost'!L39"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C83",
+    "value": "888440",
+    "formula": "'Respondent Burden and Cost'!K39"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A84",
+    "value": "Costs - O&M (dollars)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B84",
+    "value": "None",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C84",
+    "value": "None",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A85",
+    "value": "Total Costs (dollars)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B85",
+    "value": "15610581",
+    "formula": "'Respondent Burden and Cost'!L40"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C85",
+    "value": "4221554",
+    "formula": "'Respondent Burden and Cost'!K40"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A87",
+    "value": "238510",
+    "formula": "'Respondent Burden and Cost'!H38"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B87",
+    "value": "Total Responses",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A90",
+    "value": "Table 7 - Bottom Line Agency Burden Hours and Cost",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B91",
+    "value": "Proposed 2022  CGP ICR Total",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C91",
+    "value": "Incremental Change",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A92",
+    "value": "Burden (hours)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B92",
+    "value": "10679.85",
+    "formula": "'Agency Burden'!G12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C92",
+    "value": "217.1",
+    "formula": "'Agency Burden'!F12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A93",
+    "value": "Costs - Labor (dollars)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B93",
+    "value": "546275",
+    "formula": "'Agency Burden'!I12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C93",
+    "value": "11105",
+    "formula": "'Agency Burden'!H12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A94",
+    "value": "Costs - Capital (dollars)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B94",
+    "value": "None",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C94",
+    "value": "None",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A95",
+    "value": "Costs - O&M (dollars)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B95",
+    "value": "None",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C95",
+    "value": "None",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A96",
+    "value": "Total Costs (dollars)",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B96",
+    "value": "546275",
+    "formula": "'Agency Burden'!I12"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C96",
+    "value": "11105",
+    "formula": "C93"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A98",
+    "value": "173156",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B98",
+    "value": "Total Responses",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A100",
+    "value": "Respondent Summary Calcs",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B100",
+    "value": "Total",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C100",
+    "value": "Incremental",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A101",
+    "value": "Hours per respondent",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B101",
+    "value": "55.186725419994495",
+    "formula": "B81/'Number of Respondents'!C3"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C101",
+    "value": "12.49",
+    "formula": "ROUND(C81/'Number of Respondents'!C3,2)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "A102",
+    "value": "Hours per response",
+    "formula": null
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "B102",
+    "value": "1.2",
+    "formula": "ROUND(A87/B81,1)"
+  },
+  {
+    "sheet_part": "xl/worksheets/sheet5.xml",
+    "cell": "C102",
+    "value": "0.19",
+    "formula": "ROUND(C81/A87,2)"
+  }
+]

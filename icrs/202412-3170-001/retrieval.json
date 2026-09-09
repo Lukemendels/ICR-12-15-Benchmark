@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202412-3170-001",
+  "retrieved_at": "2026-09-09T10:24:35.479324+00:00",
+  "documents": [
+    {
+      "title": "3170-XXXX Supporting Statement (1033 Final Rule) (4).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150325701",
+      "path": "icrs/202412-3170-001/raw/supporting-statement-a-1.docx",
+      "sha256": "8c0dee20cbd98ec74eafa6879a49b4f4bc989ef3c1d0fb0ab6af7fe5e993c43b",
+      "text_chars": 33344
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202412-3170-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202412-3170-001"
+}

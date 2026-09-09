@@ -1,0 +1,144 @@
+{
+  "icr_id": "202409-3235-022",
+  "omb_control_number": "3235-0361",
+  "agency": "SEC",
+  "title": "Form ADV-E, cover sheet for each certificate of accounting of client securities and funds in the custody of an investment adviser",
+  "submission_date": "12/13/2024",
+  "archetype": "regulated financial cover-sheet reporting",
+  "complexity": "low",
+  "tsa_relevance": "adjacent",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 1,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0012",
+    "SRC-0011"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 20,
+    "provenance": 9,
+    "segmentation": 14,
+    "labor": 4,
+    "item13": 8,
+    "item14": 4,
+    "item15": 9,
+    "validation": 3,
+    "consistency": 5
+  },
+  "score_rationale": {
+    "reproducibility": "1998*.05=99.90 and wage product exact; table preserves fractional hours.",
+    "provenance": "2023 administrative filings precise;2013 SIFMA pay and unspecified inflation unavailable to fully reconstruct.",
+    "segmentation": "1568 advisers distinct from1998 filings; examinations and terminations identified.",
+    "labor": "2.93 loading and1800-hour year disclosed but base salary,inflation chain missing.",
+    "item13": "Cover sheet zero plausible; accountant examination requirement separately scoped to other rule.",
+    "item14": "Insignificant federal cost asserted with workflow explanation but no quantity.",
+    "item15": "Old/new filings,hours,labor dollars shown and population explanation; wage effect not independently decomposed.",
+    "validation": "Observed filings support frequency;three-minute time remains estimate.",
+    "consistency": "99.9 to100 ROCIS rounding consistent."
+  },
+  "thoroughness": "brief",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Examination cover sheet",
+        1946,
+        0.05,
+        null
+      ],
+      [
+        "Accountant termination cover sheet",
+        52,
+        0.05,
+        null
+      ]
+    ],
+    "labor": {
+      "role": "compliance clerk",
+      "loaded_rate": 86,
+      "source": "SIFMA Office Salaries2013",
+      "annual_hours": 1800,
+      "multiplier": 2.93,
+      "inflation": "unspecified",
+      "labor_cost": 8591.4
+    },
+    "item13": {
+      "annual_cost": 0,
+      "scope": "FormADV-E cover sheet only; underlying examination costs outside this specific ICR"
+    },
+    "item14": {
+      "annual_cost": "insignificant",
+      "reason": "Form facilitates certificate processing; staff time saved",
+      "numeric_support": null
+    },
+    "item15": {
+      "old_responses": 1776,
+      "new_responses": 1998,
+      "old_hours": 88.8,
+      "new_hours": 99.9,
+      "old_labor_cost": 6393.6,
+      "new_labor_cost": 8591.4,
+      "classification": "adjustment"
+    },
+    "assumptions": [
+      "Three minutes per filing.",
+      "2023 observed1946 examinations+52 terminations,1568 unique advisers."
+    ]
+  },
+  "reconstruction_issues": [
+    "Private salary data old and inflation adjustment nonreproducible.",
+    "No numeric federal workload."
+  ],
+  "methods_worth_testing": [
+    "Concise old/new table; distinguish unique entities from responses; avoid assigning all rule costs to a cover sheet."
+  ],
+  "checks": [
+    {
+      "label": "Responses",
+      "formula": "1946+52",
+      "calculated": 1998,
+      "reported": 1998,
+      "difference": 0,
+      "unit": "responses",
+      "interpretation": "Exact",
+      "source_id": "SRC-0012"
+    },
+    {
+      "label": "Hours",
+      "formula": "1998*.05",
+      "calculated": 99.9,
+      "reported": 99.9,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0012"
+    },
+    {
+      "label": "Labor",
+      "formula": "99.9*86",
+      "calculated": 8591.4,
+      "reported": 8591.4,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0012"
+    },
+    {
+      "label": "Change",
+      "formula": "(1998-1776)*.05",
+      "calculated": 11.100000000000001,
+      "reported": 11.1,
+      "difference": 1.7763568394002505e-15,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0012"
+    }
+  ],
+  "total_score": 76
+}

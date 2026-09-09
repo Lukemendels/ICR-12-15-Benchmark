@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202402-1652-002",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202402-1652-002"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202402-1652-002",
+  "agency": "DHS/TSA",
+  "title": "Air Cargo Security Requirements",
+  "omb_control_number": "1652-0040",
+  "submission_date": "03/27/2024",
+  "record_source_id": "SRC-0003",
+  "supporting_statement_source_ids": [
+    "SRC-0004"
+  ]
 }

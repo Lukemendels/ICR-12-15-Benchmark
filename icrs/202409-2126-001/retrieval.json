@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202409-2126-001",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202409-2126-001"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202409-2126-001",
+  "agency": "DOT/FMCSA",
+  "title": "Quantitative Data on Safety Belt Usage of Commercial Motor Vehicle Drivers",
+  "omb_control_number": "2126-0085",
+  "submission_date": "11/22/2024",
+  "record_source_id": "SRC-0009",
+  "supporting_statement_source_ids": [
+    "SRC-0010"
+  ]
 }

@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202408-1652-002",
+  "retrieved_at": "2026-09-09T10:24:11.167082+00:00",
+  "documents": [
+    {
+      "title": "1652-0053 CCSP_SS_2024 (9.4.2024).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=145598901",
+      "path": "icrs/202408-1652-002/raw/supporting-statement-a-1.docx",
+      "sha256": "5649ffc182993d8007eea55b42b6d943642d113e64c5d33b902eed1aef6defdc",
+      "text_chars": 54116
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202408-1652-002",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202408-1652-002"
+}

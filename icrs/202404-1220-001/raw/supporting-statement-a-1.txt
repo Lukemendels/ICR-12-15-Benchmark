@@ -1,0 +1,354 @@
+PART word/document.xml
+
+SUPPORTING STATEMENT FOR
+Survey of Occupational Injuries and Illnesses
+
+
+OMB CONTROL NO. 1220-0045 
+
+This ICR seeks to obtain clearance for a revision of the Bureau of Labor Statistics (BLS) Survey of Occupational Injuries and Illnesses (SOII). 
+
+JUSTIFICATION
+
+1.  Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.
+
+Section 24(a) of the Occupational Safety and Health Act of 1970 (the Act) requires the Secretary of Labor to develop and maintain an effective program of collection, compilation, and analysis of statistics on occupational injuries and illnesses. Section 24 also authorizes and encourages the Federal government to enlist the aid of states in developing and conducting statistical programs to meet the data needs of the states as well as its own. Sections 8(c)(1), (2), 8(g)(2), 24(a), and 24(e) of the Act specifically require the Secretary of Labor to design and implement a system requiring employers covered by the Act to maintain records of occupational injuries and illnesses and to submit periodic reports to the Secretary of Labor upon request.
+
+In Secretary's Order No. 5-02, the Secretary of Labor delegated to the Commissioner of Labor Statistics the responsibility for "Furthering the purpose of the Occupational Safety and Health Act by developing and maintaining an effective program of collection, compilation, analysis and publication of occupational safety and health statistics."    
+
+The Bureau of Labor Statistics (BLS) fulfills this responsibility by conducting the Survey of Occupational Injuries and Illnesses (SOII) in conjunction with participating state statistical agencies. The survey reflects employers' incorporation of the Occupational Safety and Health Administration (OSHA) recordkeeping regulations that were implemented by the Department of Labor. 
+
+Included in this package are the following documents used in the data collection process for the Survey of Occupational Injuries and Illnesses (SOII):
+
+The survey form – BLS 9300
+Fax forms
+Email notification messages
+Notification letters and associated materials to be sent to all participants in the 2024 survey
+Informed Consent letter
+Voluntary letters for state and local government agencies
+Nonresponse follow-up letters for mandatory and voluntary participants
+IDCF screenshots
+Test Pre-collection letter
+
+2.  Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+The purpose of the information, as stated in Section 2(b) of the Act, is to assure, as far as possible, every working man and woman in the Nation safe and healthful working conditions. The BLS SOII provides the Nation's primary indicator of the progress towards achieving this goal. BLS is the principal Federal statistical agency responsible for measuring labor market activity, working conditions, and price changes in the economy. Its mission is to collect, analyze, and disseminate some of the Nation’s most sensitive and important economic data to support public and private decision-making. As an independent statistical agency, BLS serves the general public, the U.S. Congress, DOL and other federal agencies, state and local governments, and business and labor by providing data products that are accurate, objective, relevant, timely, and accessible, as well as providing technical assistance and consulting services. SOII’s mission is to produce estimates necessary for the safety and health community to save lives and reduce workplace injuries and illnesses. To that end, the survey measures the overall rate of occurrence of work injuries and illnesses by industry and—for the most serious cases—by occupation, worker characteristics, and case circumstance. The SOII program is vital to the safety of America’s workers. Without these necessary estimates, the safety and health community would be less able to focus enforcement efforts, research prevention practices, and put in place mitigating strategies which lead to fewer occupational fatalities, injuries, and illnesses.
+
+The work injury and illness data to be collected in the survey are not available from any other source. The only existing large body of work on occupational injury and illness information is located in workers' compensation programs; however, many states do not include all of the specific kinds of work-related cases which the Act requires employers to record and to report. Additionally, coverage and reporting differences among states and lack of uniformly complete records prevent workers' compensation programs from providing statistically accurate data for national estimates. Workers' compensation data also do not provide a uniform measure of the severity of the injury or illness, such as the number of days away from work, and many are missing the OSHA required data elements such as time of event. Therefore, data from state workers' compensation programs cannot serve as a replacement for the annual Survey. Since employers may have recorded demographic and injury/illness circumstances information on a workers' compensation first report of injury/illness form, company accident report, or other document, the survey form allows employers to attach copies of these documents in lieu of entering responses to covered questions on the survey instrument. 
+
+SOII estimates are used by a wide range of stakeholders to assess the Nation's progress in improving the safety and health of America's workplaces; to prioritize scarce federal and state resources; to guide the development of injury and illness prevention strategies; and to support OSHA and state safety and health standards and research. These stakeholders include OSHA, the National Institute for Occupational Safety and Health (NIOSH), Congress, public policy analysts, state public health officials, safety and health advocates, researchers, and the media. Data are essential for evaluating the effectiveness of Federal and state programs for improving workplace safety and health. For these reasons, it is necessary to provide estimates separately for participating states.
+
+The Bureau of Economic Analysis uses the BLS injury and illness survey data to prepare the economic accounts of the United States. The survey information is used to estimate employer contributions for workers' compensation by industry. The workers' compensation contributions are a component of the employer contributions for social insurance and other labor income in the national income and product account.
+
+NIOSH and the Council of State and Territorial Epidemiologists (CSTE) identified twenty-two occupational health indicators intended to improve the surveillance of workplace injuries and illnesses by state health agencies. Each health indicator is comprised of one or more frequency measures. The BLS SOII contributes three frequency measures to these health indicators.
+
+The SOII estimates the number and frequency (incidence rates) of workplace injuries and illnesses by industry. Since 1992, the SOII has also collected information for the subset of nonfatal cases that involved at least 1 day away from work (DAFW), beyond the day of injury or onset of illness, thought to be the most severe injury cases. The SOII provides detailed information on the injured/ill worker (age, sex, race, industry, occupation, and length of service), the time in shift, and the circumstances of the injuries and illnesses classified by standardized codes (nature of the injury/illness, part of body affected, primary and secondary sources of the injury/illness, and the event or exposure that produced the injury/illness). Race data categories reflect the Office of Management and Budget (OMB) recommended categories for non-self-reported classification. Optional information on the general job category is used to improve coding for non-descriptive job titles, such as "Customer Service Representative." A check-off for before/during/after work shift is included to identify the events that occurred before or after the work shift. 
+
+Beginning with survey year 2008, the SOII published national estimates of workplace injuries and illnesses sustained by state and local government workers, including those in such relatively high hazard and high-profile occupations as police, firefighters, paramedics, and other public health workers. The BLS collects data from state and local government agencies in all states to support both state and national estimates. The BLS regarded the collection of these data as a significant expansion in its overall coverage of the American workplace. 
+ 
+Days of job transfer or restriction (DJTR) cases became more prevalent since 1992, when detailed data were first collected for DAFW cases. In the two decades prior to the OSHA recordkeeping changes in 2002, incidence rates for DAFW cases decreased significantly while incidence rates for DJTR cases increased significantly. In 1992, DJTR cases accounted for 21 percent of total days away from work, days of restricted work activity, or job transfer (DART) cases. By 2011, DJTR accounted for 40 percent of these cases. Both the incidence rate and number of DJTR cases exceeded that of DAFW in the manufacturing industry sector from the late 1990s up until the pandemic. Since the BLS previously collected case and demographic data only for DAFW cases, details were not available to explain the growing trend in DJTR cases.  
+
+Beginning with the survey year 2011 and ending with survey year 2019, BLS conducted a series of three 3-year pilot studies to test the collection of case and demographic data for injury and illness cases that required only days of job transfer or restriction. Industry subsectors were selected based on their DJTR incidence rate (and to some degree the number of cases) in years before the first pilot study. Some industries were selected if the DJTR incidence rate was greater than or equal to the DAFW incidence rate in the respective industry. Data from these pilots can be found at https://www.bls.gov/iif/nonfatal-injuries-and-illnesses-tables/soii-case-and-demographic-characteristics-historical-data/days-of-job-transfer-or-restriction.htm.
+
+Analysis of DJTR data from these pilots showed that their inclusion provides a more complete understanding of the circumstances leading to occupational injuries and illnesses than DAFW cases alone can provide. For example, the percentage of DAFW versus DJTR cases in the Food services and drinking places industry remained the same regardless of the age of the worker. While in the Amusement, gambling, and recreation industry, workers under the age of 45 had a higher percentage of DJTR cases than DAFW cases. If studying only a few selected industries, policy makers and researchers would be unable to determine the complete picture of this phenomenon. If all industries could be analyzed, safety resources and return-to-work strategies could be developed to address the unique work experiences by the age of the worker or by other characteristics.
+
+Based on the findings from these studies and the depth of information they produced, as well as the recommendation from the National Academy of Sciences (NAS) A Smarter National Surveillance System for Occupational Safety and Health in the 21st Century, particularly, Recommendation A from Chapter 4 of the NAS report noted, “BLS should routinely collect detailed case and demographic data for injuries and illnesses resulting in job transfer or restricted duty as well as those resulting in days away from work.” The report further noted that this could be easily accomplished in the short term with minimal impact to respondent burden since these data are already recorded by employers.
+
+The BLS began collecting information on DJTR cases for all industries starting with survey year 2021 and regards the collection of details for these cases as significant in its coverage of the American workforce. To retain the level of currently published detail for DAFW cases to produce a similar level of detail for DJTR cases, BLS has combined case data for two years of collection and produced biennial case and demographic estimates. The first biennial case and demographic estimates covering DAFW and DJTR cases combined survey year 2021 and 2022 data and were released in November 2023. The annual summary estimates of counts and incidence rates by detailed industry and case type remains unchanged.
+
+BLS previously maintained a subsampling process for employers to limit to 15 the number of cases each employer must submit. BLS pilot tests and simulations demonstrated that collecting both DJTR and DAFW case types increases both the number of employers who must report case details and the number of employers who would be eligible for subsampling. To maintain the same level of burden on employers and keep a neutral workload on participating state agencies, as well as neutral resource obligations, BLS reduced the number of cases that each employer must submit to a maximum of 8 cases. BLS estimated that this would result in approximately the same number of cases collected annually across the two case types. During the 2021-22 biennial cycle during which DJTR cases details were collected for the first time in addition to DAFW cases, an average of approximately 281,000 cases were collected annually. For comparison, an average of about 265,000 cases were reported annually over the 2012 to 2018 period leading up to the Covid pandemic. 
+
+Test for Pre-Collection Letter 
+The SOII is a mandatory survey that has traditionally experienced relatively high response rates compared to other establishment surveys. However, the SOII response rate has been trending lower for several years and was significantly impacted by the pandemic. BLS seeks approval to conduct a one-year test to evaluate the effectiveness of an additional respondent contact for improving response rates. In this methodological experiment, sampled establishments will be randomized into two groups: control (no additional contacts) and treatment (an additional pre-collection letter). Additional details concerning the experiment are below. 
+
+Experimental Design. The pre-collection letter will be sent via USPS approximately 2 months before the start of the survey collection. The letter will remind respondents of the prior notification of their requirement to participate in the survey and ask them to prepare to submit their data when collection begins in the weeks following this letter. The letter will ask respondents to verify their establishment information, to advise BLS of any errors, and to provide contact information for the individual who can report information on workplace injuries and illnesses for the sampled establishment. Establishments will be able to respond via email, phone, or fax. 
+
+The sample size for this methodological experiment, including the control and treatment groups, will be approximately 5,400 establishments. This sample size was chosen to detect a 1 percent change with a statistical power of 0.80 at a significance level of 0.95. The sample will be stratified to include establishments in all 50 states, the District of Columbia, and 3 territories (Guam, Puerto Rico, Virgin Islands) for which data are collected in the survey. Using frame data, establishments will be sorted into one of two size class groupings based on the number of employees: small establishments (fewer than 50 employees) and large establishments (50 or more employees). Establishments will be randomly assigned to either the control condition (no pre-collection letter) or the treatment condition (pre-collection letter). Table 1 shows the approximate sample sizes for the size classes and experimental conditions.
+
+Sample Groups and Sizes for Pre-Collection Letter Test
+Size groupings | Control | Treatment | Total
+Small establishments | 1,350 | 1,350 | 2,700
+Large Establishments | 1,350 | 1,350 | 2,700
+Total | 2,700 | 2,700 | 5,400
+
+
+The following types of establishments will be excluded from the experiment and will be collected normally in the survey. 
+Establishments in the public sector (state and local government)
+Private sector establishments that have previously “opted-in” to be contacted via email 
+Private sector establishments for which BLS already has existing relationships to collect data directly.
+
+Burden. BLS estimates that reporting burden for this experiment will be minimal.  Burden for establishments in the control condition will not change. Burden for establishments in the treatment condition will increase by 6 minutes (1 minute to read the letter and 5 minutes to collect and report data to BLS). Burden estimates for this experiment are included in item 12 below.
+
+Analysis. To determine whether the pre-collection letter was effective, BLS will compare the quality, timeliness, and completeness of response for the experimental conditions and size groups. If determined to be effective at improving timeliness of survey responses and overall survey rates for the treatment groups in the experiment, BLS will evaluate potential options for expanding the use of the letter to improve response for these groups in future survey cycles.
+
+3.  Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also, describe any consideration of using information technology to reduce burden.
+
+Employers covered under the Act are in one of two categories: (1) Employers who maintain OSHA records on a regular basis; and (2) employers who are normally exempt from OSHA recordkeeping. Each year a sample of exempt employers is required to keep records and participate in the SOII. In December, prior to the survey reference year, sampled employers who are normally exempt from recordkeeping are notified by the BLS or participating state agencies to record their injuries and illnesses on the OSHA recordkeeping forms, which are provided by the BLS. The BLS also provides a courtesy copy of the required OSHA recordkeeping forms to all other survey participants for that reference year.
+
+The survey's sample selection process employs stratified random sampling to reduce the burden on private sector establishments. The BLS Internet Data Collection Facility (IDCF) was first introduced for the SOII in 2003 and is currently being used for the 2023 SOII. For the most recently completed (2022) SOII, a total of 145,488 establishments with 225,581 cases involving days away from work, job transfer or restriction (DART) reported using IDCF, accounting for 83 percent of survey responses and 81 percent of reported cases. An additional 12,935 establishment responses were reported electronically via our keyed data file upload process, accounting for another 7 percent of responses for the 2022 SOII. This keyed data file upload is an internal process used by SOII data collectors to upload formatted files collected directly from large employers with many establishments in the sample for which they can report injury and illness data centrally. 
+
+Employers still may attach a copy of their OSHA 300A summary form to complete Part I of the survey when submitting the hard copy version of the data collection form. In addition, they will continue to be offered the option of attaching an alternative record that contains the requested worker and case circumstances information on the data collection case form. Alternative forms could be workers' compensation first report of injury forms, company accident reports, insurance forms, or the OSHA supplemental case form. 
+
+The survey allows respondents to opt in to receive by email the notification of the requirement to respond to the SOII. For the 2024 SOII, over 48,000 establishments were notified of their requirement to maintain injury and illness records required to respond to the SOII. And 52,300 establishments were emailed during data collection processes for the on-going 2023 SOII. The respondent must make a positive selection to opt in for email notification; this selection is retained. The BLS will email these respondents in subsequent years if selected to participate in the survey. The email is pre-filled from the registration email, but the respondent may change the email address at any time during the data collection process, if desired. The survey will use email to notify employers of their responsibility to participate in the survey as well as for data collection in accordance with BLS policy on the use of email for data collection.
+
+4.  Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purposes described in Item A.2 above.
+
+As nearly all employers in the private sector are covered by the Occupational Safety and Health Act, the SOII can produce statistics for almost all industries. However, to provide comprehensive, private sector estimates, BLS must secure data from other federal agencies having statutory authority affecting the safety and health of employees in coal, metal, and other nonmetal mining, and on railroads. Comparable data are provided by the Mine Safety and Health Administration, U.S. Department of Labor, for mining employers and by the Federal Railroad Administration, U.S. Department of Transportation, for railroad employers.
+
+OSHA requires establishments in covered industries to record on injury and illness logs and retain data like those collected by the SOII. The BLS collects information from OSHA logs from a sample of establishments representative of the entire U.S. economy, including establishments that maintain OSHA records on a regular basis (non-exempt) as well as establishments that are normally exempt from OSHA recordkeeping. The burden of recording information on the OSHA logs for employers who normally must keep records is already reflected in OSHA's clearance. (See section 12 for additional detail on SOII burden for OSHA exempt and non-exempt establishments.)  
+
+Beginning with calendar year (CY) 2016, OSHA amended its recordkeeping regulations to require employers with 250 or more employees in all industries, and employers in certain industries with 20 to 249 employees, to submit 300A Summary form injury and illness information electronically to OSHA. OSHA developed the Injury Tracking Application (ITA) to electronically collect these records. OSHA further amended its recordkeeping regulations effective with CY 2023 reporting to require covered employers to additionally report details from their OSHA Form 300 (Log of Work-Related Injuries and Illnesses) and OSHA Form 301 (Injury and Illness Incident Report). Changes to the OSHA rule did not add to or change any employer’s obligation to complete and retain injury and illness records under OSHA’s regulations for recording and reporting occupational injuries and illnesses; however, these new rules modified employers’ obligations to transmit electronically information from these records to OSHA. As a result, some private industry establishments are required to report to both the SOII and OSHA under the ITA rule.  
+
+When OSHA amended its recordkeeping rules beginning with CY 2016, OMB requested that BLS evaluate using the OSHA-collected electronic injury and illness data as an input to SOII estimates. The OSHA rule, and therefore the data collected electronically by that rule, covers a subset of the US economy, necessitating the development of new methodologies to use the OSHA electronic data along with the SOII reported data to produce nationally representative estimates, while protecting the confidentiality of the SOII sampled establishments as required by the Confidential Information Protection and Statistical Efficiency Act (CIPSEA). Also, measuring nonresponse is critical to creating accurate and reliable estimates. 
+
+From 2016 through February 2017, BLS and OSHA formed a working group to examine ways to reduce duplicative burden where possible. BLS and OSHA worked together to align as closely as possible the OSHA electronic collection with the SOII and BLS shared electronic data collection expertise. BLS continues to work closely with OSHA who has shared ITA data to inform on-going research efforts. Working with OSHA and DOL’s Office of the Chief Information Officer (OCIO), BLS was able to implement an application programming interface (API) that allows establishments that have reported to OSHA ITA and which can be matched to an establishment in the SOII sample to securely import their data from OSHA ITA to BLS. This API has allowed OSHA covered establishments to reduce duplicative reporting burden over the past three years by importing data from OSHA ITA to BLS. 
+
+BLS has continued to collaborate with OSHA to expand the API that allows covered respondents to securely import data they have previously reported to OSHA ITA into the SOII Internet Data Collection Facility (IDCF). First implemented for CY 2020, SOII IDCF users who also are required to report to OSHA ITA are prompted to enter their assigned OSHA ID which is used to link to reported data in OSHA ITA. BLS can determine, based on industry and employment, which SOII sampled establishments are also required to report to OSHA ITA and these covered establishments are provided an opportunity in SOII IDCF to try to import data from ITA. If a match is found for an establishment in the SOII sample, additional matching must be satisfied to ensure a definitive establishment match that is critical for the accuracy and reliability of SOII statistics. For matched establishments, summary establishment data have been imported since SY 2020 and, following further OSHA rule changes starting with CY 2023, case details are also imported for establishments that are newly required to report information from their OSHA Form 300 and OSHA Form 301. This newly expanded API import process further reduces duplicative reporting burden for respondents where BLS can match the establishment that reported to OSHA ITA to the establishment on the SOII database. For the most recently completed survey year (2022), 6,210 respondents were able to use this API to successfully import their data from OSHA ITA when reporting to the SOII. Following modifications recently implemented for CY 2023, we anticipate that respondents will be able to import case details for an estimated 24,200 cases that they would otherwise have to report to both agencies separately. Actual outcomes from the SY 2023 collection will not be available until July 2024. 
+
+The accuracy, integrity, and confidentiality of respondent data remains a critical priority for BLS. To ensure the accuracy and integrity of data necessary to produce statistically reliable estimates, BLS ensured that the design of this technological solution safeguards the confidentiality of SOII respondents. Design features of this technological solution includes unidirectional transfer of data from OSHA ITA to BLS. BLS believes that the pledge of confidentiality to ensure the use of respondent data only for statistical purposes is essential to fostering a willingness among respondents to share their data. BLS will adhere to all existing confidentiality protections described in the section on Confidentiality below for the implementation of this technological solution. Data collected from SOII respondents is neither accessible to nor shared with OSHA.
+
+BLS continues research on ways to improve matching between OSHA ITA and the BLS SOII; however, the extent to which duplicative reporting burden resulting from OSHA ITA collection can be reduced is limited. BLS must be able to definitively match an establishment that has reported to OSHA to an establishment in the BLS SOII sample to produce accurate and reliable statistics. Covered establishments must first report to OSHA to have an opportunity to import data to SOII IDCF. Further, establishment matching is imperfect. OSHA collection is defined by a rule but not based on a known establishment frame. The scope of reporting for an establishment to OSHA is largely left to the discretion of the employer. This may be less critical for OSHA but is vital for BLS matching to an establishment for tabulating accurate and reliable estimates.       
+ 
+
+5.  If the collection of information impacts small businesses or other small entities, describe any methods used to minimize burden.
+
+The BLS minimizes the burden upon small employers by using a highly efficient stratified random sampling plan. Under this sampling plan, smaller employment units within an industry have a lower probability of selection. In addition, using the electronic data collection option enables small employers with no DAFW or DJTR cases to simply enter information from the summary form for the survey on the Internet which completes their response.
+
+6.  Describe the consequence to federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+Operational and budgetary issues, along with the data uses described above, make collecting survey data annually essential. The annual survey is a cooperative program with state agencies, which are partially funded by the federal government to collect and process the survey data. States share the data with the BLS for generating national estimates. State grant agencies must finance half the costs by appropriation requests to their own state legislatures, many of which convene and appropriate funds over a cycle that may differ from the federal budget cycle. Therefore, it is likely that many states would be unable to participate in a program of less frequent scheduling. If states drop out, the federal government must assume the collection of the data at an increased cost. In addition, complex data collection and coding activities require a fully trained staff. With less frequent collection and the associated unbalanced workloads, states would be unable to maintain the skilled staff needed to conduct the survey.
+
+At a joint meeting of the Occupational Safety and Health Statistics Committee of the Labor Research Advisory Council (LRAC) and the Business Research Advisory Council (BRAC) on August 4, 1977, a resolution was adopted opposing a change in the frequency of the survey. The resolution asserted that a less frequent survey would be "less responsive to the needs and considerations of the profession, Congress, and the public if carried out at less frequent periods."
+
+7.  Explain any special circumstances that would cause an information collection to be conducted in a manner:
+
+requiring respondents to report information to the agency more often than quarterly;
+requiring respondents to prepare a written response to a collection of information in fewer than 30 days after receipt of it;
+requiring respondents to submit more than an original and two copies of any document;
+requiring respondents to retain records, other than health, medical, government contract, grant-in-aid, or tax records for more than three years;
+in connection with a statistical survey, that is not designed to produce valid and reliable results that can be generalized to the universe of study;
+requiring the use of statistical data classification that has not been reviewed and approved by OMB;
+that includes a pledge of confidentially that is not supported by authority established in statute or regulation, that is not supported by disclosure and data security policies that are consistent with the pledge, or which unnecessarily impedes sharing of data with other agencies for compatible confidential use; or
+requiring respondents to submit proprietary trade secret, or other confidential information unless the agency can demonstrate that it has instituted procedures to protect the information's confidentially to the extent permitted by law.
+
+Survey data are collected once annually. Respondents have thirty days to complete survey forms and no additional copies are required. The BLS does not require survey record retention for respondents.
+
+The survey provides valid and reliable estimates that reflect the worker injury and illness experience for the universe of in-scope private sector and state and local government employers. Incident information for injuries and illnesses resulting in days away from work, job transfer, or restriction is classified by the BLS and participating state agencies using the BLS Occupational Injury and Illness Classification System (OIICS) which was submitted to OMB with the initial program redesign clearance in 1991. An updated version of this classification system (OIICS 2.0) was submitted to OMB in 2011, and a subsequent update (OIICS 3.0) was submitted in 2017.
+
+Per OMB Statistical Policy Directive 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity (SPD-15), the BLS plans to implement the new race and ethnicity question and categories in SOII collection, estimation, and publications during the biennial period starting with reference year (RY) 2027 collection that will begin in January 2028, ahead of the required implementation date of March 28, 2029. (See high-level timeline below.) This is the only time for which this implementation is practical and possible for BLS and will meet dates specified in the revised SPD-15. Note that, SOII race and ethnicity data are published biennially (every other year), and any changes must be implemented during the first year of a biennial cycle to collect consistent data from which to publish biennial estimates for case characteristics and worker demographics. After assessing work that will be required, the BLS determined that resources committed to other system implementation activities (details described below) within the existing fund level, makes implementation of the new race and ethnicity updates infeasible prior to the start of RY 2027 collection. Data collected for the RY 2027 SOII will be combined with data from the RY 2028 SOII to produce biennial estimates of nonfatal occupational injuries and illnesses, including worker demographics reflecting the new race and ethnicity standards. These RY 2027-28 biennial SOII case and demographic estimates using updated race and ethnicity will be published for the first time in November 2029. In the meantime, the BLS will continue to publish biennial estimates that include statistics using existing race and ethnicity categories until SPD-15 updates are implemented starting with the RY 2027 SOII. 
+
+BLS timeline for implementing SPD-15 in the Survey of Occupational Injuries and Illnesses (SOII)
+Date | Activity
+January 2027 | Begin work to implement SPD-15 changes to SOII forms, processes, and IT systems
+January 2028 | Collect reference year (RY) 2027 data reflecting updated race/ethnicity
+January 2029 | Collect RY 2028 data reflecting updated race/ethnicity
+November 2029 | Publish RY 2028-29 biennial case and demographic SOII estimates for first time using updated race/ethnicity
+
+The BLS recently implemented major updates to data collection processes and systems for the Occupational Injury and Illness Classification System (OIICS) coding taxonomy and the 2022 revision for the North American Industry Classification System (NAICS). The BLS must complete additional development work for estimation and dissemination processes and systems that will utilize available resources during the 2025 fiscal year and cannot be delayed without adversely impacting BLS’ ability to meet its regular publication schedule. After these IT systems changes are implemented, BLS will commit those resources to implement SPD-15 in SOII data collection, estimation, and dissemination systems and processes.
+
+The work involved to implement changes throughout SOII collection, estimation, and dissemination IT systems and processes is complex and therefore, resource intensive. The SOII produces over 6 million estimates in its biennial release that includes worker demographics. Any change to the SOII collection system has significant downstream impacts on estimation and related outputs, both in terms of their availability in the online searchable BLS public database and in the layout and format of published tables. These systematic processes are carefully planned, developed, and extensively tested to ensure the highest quality data while mitigating the chance of errata.
+
+BLS also requests an exemption to implement minimum categories for race and ethnicity in the SOII to align with Figure 3 in SPD 15, starting with RY 2027 as described above. Workplace injury and illness data collected by the SOII are based on employer recordkeeping requirements promulgated by the Occupational Safety and Health Administration (OSHA). OSHA recordkeeping and related OSHA Forms do not include collection of worker race or ethnicity, so the SOII collects race and ethnicity data as an optional response. When reported to the SOII, race and ethnicity are proxy reported by the employer. Proxy reporting of race and ethnicity by the employer may differ from reporting of this characteristic by the worker. Further, race and ethnicity data is often missing due to the optional nature of this response for the SOII. Over the most recent five years covering RY 2019 to RY 2023, race and ethnicity data was not available on average for nearly 48 percent of nonfatal occupational injury and illness cases for which detailed data on case circumstances and worker demographics were collected in the SOII. BLS plans for implementation of SPD 15 in the SOII will be documented in DOL's SPD 15 Action Plan as well as in any interim Information Collection Requests for the SOII.
+
+
+8.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d), soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.   Specifically address comments received on cost and hour burden.
+
+Describe efforts to consult with persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.
+
+Consultation with representatives of those from whom information is to be obtained or those who must compile records should occur at least once every 3 years -- even if the collection-of-information activity is the same as in prior periods.  There may be circumstances that may preclude consultation in a specific situation.  These circumstances should be explained.
+
+Federal Register Notice.  
+
+A letter dated April 17, 2024, was received from the Chief Economist for the Bureau of Economic Analysis (BEA) on the Federal Register notice published in 89 FR 27454 on April 17, 2024. This BEA letter expressed strong support for the continued collection of data by the BLS SOII and noted that these data are important elements in the derivation of major components of BEA’s economic statistics. This was the sole comment received regarding this notice.
+
+Consultations.  
+
+Semiannually, the BLS meets with both the Data Users Advisory Committee (DUAC) and the BLS Technical Advisory Committee (TAC) to review programs and to solicit advice and recommendations for program enhancement. The BLS also meets periodically with the Federal Economic Statistics Advisory Committee (FESAC).
+
+The BLS holds periodic conferences with the state agencies which receive grants to conduct the survey.  
+
+The BLS meets periodically with representatives from OSHA, NIOSH, and the Council of State and Territorial Epidemiologists (CSTE).
+
+9.  Explain any decision to provide any payments or gifts to respondents, other than remuneration of contractors or grantees.
+
+No payments or gifts are provided to respondents.
+
+10.  Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+The Confidential Information Protection and Statistical Efficiency Act (CIPSEA) safeguards the confidentiality of individually identifiable information acquired under a pledge of confidentiality for exclusively statistical purposes by controlling access to, and uses made of, such information. CIPSEA includes fines and penalties for any knowing and willful disclosure of individually identifiable information by an officer, employee, or agent of the BLS.
+ 
+Based on this law, the BLS provides respondents with the following confidentiality pledge/informed consent statement:
+ 
+The Bureau of Labor Statistics, its employees, agents, and partner statistical agencies, will use the information you provide for statistical purposes only and will hold the information in confidence to the full extent permitted by law. In accordance with the Confidential Information Protection and Statistical Efficiency Act (44 U.S.C. 3572) and other applicable Federal laws, your responses will not be disclosed in identifiable form without your informed consent. Per the Federal Cybersecurity Enhancement Act of 2015, Federal information systems are protected from malicious activities through cybersecurity screening of transmitted data. 
+
+BLS policy on the confidential nature of respondent identifiable information (RII) states that “RII acquired or maintained by the BLS for exclusively statistical purposes and under a pledge of confidentiality shall be treated in a manner that ensures the information will be used only for statistical purposes and will be accessible only to authorized individuals with a need-to-know.”
+
+The 2024 reporting form, BLS No. 9300, and the related Internet data collection site, will carry the confidentiality statement referenced above.
+
+State and territory statutes vary—for example, in New Jersey, Maine, Wisconsin, Illinois and Guam—and allow the disclosure of state and local government records. Therefore, the BLS does not pledge confidentiality to the state and local government units included in their samples.
+
+11.  Provide additional justification for any questions of a sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.  This justification should include the reasons why the agency considers the questions necessary, the specific uses to be made of the information, the explanation to be given to persons from whom the information is requested, and any steps to be taken to obtain their consent.
+
+The name of the injured/ill worker is obtained for DAFW and DJTR cases and used to ensure data quality and to facilitate recontacts with employers when data clarifications are required. BLS does not publish or release the name of the injured/ill worker. BLS policy on Personally Identifiable Information (PII) states that, “No employee shall disclose PII to any individual or entity except pursuant to a written request by, or with the prior written consent of, the individual to whom the record pertains. Disclosure of the record to individuals with a need-to-know is allowable. Any individual may inspect records of which they are the subject within 30 days of requesting access unless access is specifically exempt under the provisions of the Privacy Act or other legal authorities.” OSHA recordkeeping also allows employers to substitute “privacy case” for the name of the worker for cases of a sensitive nature. 
+
+The race of the injured/ill worker is requested at the option of the respondent. This information can be used to analyze workplace injury and illness rates by race and to compare health information by race from other sources.
+
+12.  Provide estimates of the hour burden of the collection of information.  The statement should:
+
+Indicate the number of respondents, frequency of response, annual hour burden, and an explanation of how the burden was estimated.  Unless directed to do so, agencies should not conduct special surveys to obtain information on which to base hour burden estimates.  Consultation with a sample (fewer than 10) of potential respondents is desirable.  If the hour burden on respondents is expected to vary widely because of differences in activity, size, or complexity, show the range of estimated hour burden, and explain the reasons for the variance.  General, estimates should not include burden hours for customary and usual business practices.
+If this request for approval covers more than one form, provide separate hour burden estimates for each form.
+Provide estimates of annualized cost to respondents for the hour burdens for collections of information, identifying and using appropriate wage rate categories.  The cost of contracting out or paying outside parties for information collection activities should not be included here.  Instead, this cost should be included in Item 14.
+
+Multiple factors contribute to the estimate of employer burden for the survey. First, the BLS recording burden estimates are consistent with the burden estimates used by OSHA. Second, the 'Total Hours Worked' and the 'Employment Average' data elements requested in our Survey form 9300 are required on the OSHA Summary form 300A and is a simple transfer of data to the BLS form. Therefore, the burden of calculating hours and employment for those employers who normally must keep the OSHA 300A is already reflected in OSHA's burden hours.
+
+Reporting Burden for the SOII Survey Data Collection (Form 9300).
+
+As noted above, with the implementation of the OSHA Summary of Work-Related Injuries and Illnesses Form 300A, the completion of the SOII requires transferring totals or photocopying the summary form for Part 1 of survey form 9300. The BLS estimates each of the 228,200 sample units will spend an average of 10 minutes to complete Part 1 of the form. Therefore, the total burden for Part 1 of the form is 38,034 hours [(228,200 sample units x 10 minutes)/60 = 38,034 hours].
+
+Table 1. Reporting Burden for Form 9300 – Part I
+Sector | Sample units | Average Burden (minutes) | Hours
+Private | 207,300 | 10 | 34,550
+Public (mandatory) | 15,100 | 10 | 2,517  
+Public (voluntary) | 5,800 | 10 | 967
+Total | 228,200 | 10 | 38,034
+ 
+In Part 2 of the form, a burden allowance is provided to permit respondents to report up to 300,000 days-away-from-work and days-of-job-transfer or restriction cases. The respondent copies the occupation and number of days away from work or days of job transfer or restriction for each sampled injury/illness from the corresponding line of their OSHA Log of Work-Related Injuries and Illnesses Form 300. The other required information about the injured/ill worker and the incident is generally available from a workers' compensation report, a company accident report, an insurance form, or the OSHA Injury and Incident Report Form 301. The employer is given the option of attaching such a document in lieu of copying the data to the data collection form. The questions on race and type of job are optional. With an average burden of 15 minutes per case, the total burden for Part 2 is 75,000 hours [(300,000 cases x 15 minutes)/60 = 75,000 hours].
+
+Table 2. Reporting Burden for Form 9300 – Part II
+Sector | Days away from work cases and days of job transfer  and  restriction   cases | Average Burden (minutes) | Hours
+Private | 255,000 | 15 | 63,750
+Public (mandatory) |  37,500 | 15 | 9,375
+Public (voluntary) |   7,500 | 15 | 1,875
+Total | 300,000 | 15 | 75,000
+
+The BLS estimates that it will take respondents that are selected to respond to the test pre-collection letter an average of 6 minutes per response, including time to read the short letter and to provide requested information. With an average burden of 6 minutes per respondent, the total burden for the pre-collection letter test is 270 hours [(2,700 sample units x 6 minutes)/60 = 270 hours]. 
+
+Table 3. Reporting burden for treatment groups in pre-collection letter test
+Sector | Sample units (treatment groups) | Average Burden (Minutes) | Hours
+Private , small establishments | 1,350 | 6 | 135
+Private, large establishments | 1,350 | 6 | 135
+Total | 2,700 | 6 | 270
+
+
+Total burden for the survey data collection Form 9300 is, therefore, 113,304 hours (38,034 + 75,000 + 270). The average reporting burden is then approximately 30 minutes or 0.5 hours per respondent (113,304 hours/228,200 sample units = 0.5 hours per sample unit).
+
+Table 4. Total Reporting Burden for the SOII
+Sector | Hours
+Private | 98,570  (34,550 + 63,750  +270 )
+Public (mandatory) | 11,892 (2,517 + 9,375)
+Public (voluntary) | 2,842 (967 + 1,875)
+Total | 113,304  (38,034 + 75,000  +270 )
+  
+Recording Burden for SOII Pre-notification Recording.
+
+Recording burden for normally exempt employers who are pre-notified to keep records for a survey year is 101,600 hours. The BLS uses the OSHA estimate stated on the Log of Work-Related Injuries and Illnesses (OSHA Form 300) that each new entry on the Log requires, on average, 14 minutes. OSHA further estimates that completion of the OSHA Injury and Illness Incident Report (OSHA Form 301) will require, on average, 22 minutes and that completion of each summary form (OSHA form 300A) will require, on average, 58 minutes.  
+
+Table 5. Recording Burden for Form 9300 – Part I
+Sector | Sample units | Average Burden (minutes) | Hours
+Private | 80,000 | 58 | 77,333
+Public (voluntary) | 5,800 | 58 | 5,607
+Total | 85,800 | 58 | 82,940
+
+The BLS sample will include approximately 80,000 private sector establishments and 5,800 public sector establishments that are normally exempt from OSHA recordkeeping. It is expected that combined they will record approximately 31,100 cases on the Log (OSHA Form 300) for a total burden of 7,257 hours [(31,100 cases x 14 minutes)/60 = 7,257] and on the OSHA Injury and Illness Incident Report (Form 301) for 11,403 burden hours [(31,100 cases x 22 minutes)/60 = 11,403]. All 80,000 normally exempt prenotified employers will need to complete the 58 minutes summary (Form 300A) for a burden of 77,333 hours [(80,000 sample units x 58 minutes)/60 = 77,333]. The total recordkeeping burden for this normally exempt group of establishments will be 101,600 hours (7,257 + 11,403 + 82,940).
+
+Table 6. Recording Burden for Form 9300 – Part II
+Sector | Days away from work cases and days of job transfer or restriction   cases | Average Burden (minutes) | Log hours | Average Burden (minutes) | Incident report hours
+Private | 25,100 | 14 | 5,857 | 22 | 9,203
+Public (voluntary) | 6,000 | 14 | 1,400 | 22 | 2,200
+Total | 31,100 | 14 | 7,257 | 22 | 11,403
+
+Table 7. Total Recording Burden for Form 9300 Part I and Part II
+Sector | Hours
+Private | 92,393  ( 77,333 + 5,857 + 9,203 )
+Public (voluntary) | 9,207  ( 5,607 + 1,400 + 2,200 )
+Total | 101,600
+
+Total SOII Burden.
+
+Combined burden for recording (113,304) plus reporting (101,600) on the BLS Form 9300 pre-collection letter test is 214,904 hours for the single year in which the pre-collection letter test will be conducted. Otherwise, the combined burden for recording (113,034) plus reporting (101,600) on the BLS for 9300 is 214,634 hours.
+
+Table 8a. Total SOII Recording and Reporting Burden, including pre-collection test 
+Sector | Sample units | Hours
+Private | 207,300 | 190,9 6 3  ( 34, 550  + 63,750  + 270  + 77,333 + 5,857 + 9,203 )
+Public (mandatory) | 15,100 | 11,892 (2,517 + 9,375)
+Public (voluntary) | 5,800 | 12,049  ( 967 + 1,875 + 5,607 + 1,400+ 2,200 )
+Total | 228,200 | 214, 904
+ 
+Table 8b. Total SOII Recording and Reporting Burden, excluding pre-collection test 
+Sector | Sample units | Hours
+Private | 207,300 | 190,693  ( 34, 550  + 63,750 + 77,333 + 5,857 + 9,203)
+Public (mandatory) | 15,100 | 11,892 (2,517 + 9,375)
+Public (voluntary) | 5,800 | 12,049  ( 967 + 1,875 + 5,607 + 1,400+ 2,200)
+Total | 228,200 | 214,634
+
+
+SOII Burden Hours for SY2024 through SY2026.
+
+Table 9. SOII Burden Hours, SY2024-2026
+
+Estimated Annualized Respondent Cost and Hour Burden
+Survey Year | Sector | No. of Respondents | Reporting Burden (Hours) | Recording Burden (Hours) | Total  Burden (Hours) | Average Burden (Hours) | Hourly Wage Rate | Total  Burden C ost
+2024 | Private | 207,300 | 98,570 | 92,393 | 190,963 | 0.921 | $ 32.91 |   $  6,284,592  
+ | Public (m) | 15,100 | 11,892 |   -- | 11,892 | 0.788 | $ 32.91 |  $     391,366  
+ | Public (v) | 5,800 |   2,842 | 9,207 | 12,049 | 2.077 | $ 32.91 |  $     396,533     
+ | Total | 228,200 | 113,304 |   101,600 | 214,904 | 0.942 | $ 32.91 |  $  7,072,491  
+ |  |  |  |  |  |  |  | 
+2025 | Private | 207,300 | 98,300 | 92,393 | 190,693 | 0.920 | $ 32.91 |   $  6,275,707  
+ | Public (m) | 15,100 | 11,892 |   -- | 11,892 | 0.788 | $ 32.91 |  $     391,366  
+ | Public (v) | 5,800 |   2,842 | 9,207 | 12,049 | 2.077 | $ 32.91 |  $     396,533     
+ | Total | 228,200 | 113,034 |   101,600 | 214,634 | 0.941 | $ 32.91 |  $  7,063,605  
+ |  |  |  |  |  |  |  |  $                  
+2026 | Private | 207,300 | 98,300 | 92,393 | 190,693 | 0.920 | $ 32.91 |   $  6,275,707  
+ | Public (m) | 15,100 | 11,892 |   -- | 11,892 | 0.788 | $ 32.91 |  $     391,366  
+ | Public (v) | 5,800 |   2,842 | 9,207 | 12,049 | 2.077 | $ 32.91 |  $     396,533     
+ | Total | 228,200 | 113,034 |   101,600 | 214,634 | 0.941 | $ 32.91 |  $  7,063,605  
+
+
+
+
+Respondent cost for the SOII (Private sector) is estimated at $6.276 million based on an employer cost of $32.91 an hour (190,693 * $32.91 = approximately $6.276 million). With the addition of state and local government units, this respondent cost is estimated at $7.064 million based on an employer cost of $32.91 an hour (214,634 * $32.91 = approximately $7.064 million). For the single year during which the pre-collection test will be conducted, respondent cost for the SOII (private sector) is estimated at $6.284 million based on employer cost of $32.91 an hour (190,963 * $32.91 = approximately $6.284 million). With the addition of state and local government units, this respondent cost is estimated at $7.072 million based on employer cost of $32.91 an hour (214,904 * $32.91 = $7.072 million). The employer cost is based on employer costs for wages, salaries, and employee benefits for sales and office workers reported by the BLS in Employer Costs for Employee Compensation--December 2023, USDL-23-2567.
+
+13.  Provide an estimate of the total annual cost burden to respondents or recordkeepers resulting from the collection of information.  (Do not include the cost of any hour burden shown in Items 12 and 14).
+
+The cost estimate should be split into two components: (a) a total capital and startup cost component (annualized over its expected useful life); and (b) a total operation and maintenance and purchase of service component.  The estimates should take into account costs associated with generating, maintaining, and disclosing or providing the information.  Include descriptions of methods used to estimate major cost factors including system and technology acquisition, expected useful life of capital equipment, the discount rate(s), and the time period over which costs will be incurred.  Capital and start-up costs include, among other items, preparations for collecting information such as purchasing computers and software; monitoring, sampling, drilling and testing equipment; and record storage facilities.
+If cost estimates are expected to vary widely, agencies should present ranges of cost burdens and explain the reasons for the variance.  The cost of purchasing or contracting out information collection services should be a part of this cost burden estimate.  In developing cost burden estimates, agencies may consult with a sample of respondents (fewer than 10), utilize the 60-day pre-OMB submission public comment process and use existing economic or regulatory impact analysis associated with the rulemaking containing the information collection, as appropriate.
+Generally, estimates should not include purchases of equipment or services, or portions thereof, made: (1) prior to October 1, 1995, (2) to achieve regulatory compliance with requirements not associated with the information collection, (3) for reasons other than to provide information or keep records for the government, or (4) as part of customary and usual business or private practices.
+
+Respondents are provided with all materials needed to complete the survey. No capital costs or startup costs are incurred in the recordkeeping or reporting functions of this survey. The costs of generating, maintaining, and disclosing the information requested are direct burden hours as specified in item 12. The recordkeeping practices require only manual recording of information, thereby, no systems work would be required. Employers who have chosen to keep records electronically need only access them for survey purposes. 
+
+14.  Provide estimates of the annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, which should include quantification of hours, operational expenses (such as equipment, overhead, printing, and support staff), any other expense that would not have been incurred without this collection of information.  Agencies also may aggregate cost estimates from Items 12, 13, and 14 into a single table.
+
+Collection costs for the survey are funded on a 50/50 federal-state matching basis. The federal share of survey collection costs in Fiscal Year (FY) 2024 is around $5.8 million, an amount that is being matched by participating states. In addition, approximately $17.1  million in FY 2024 non-collection expenses is being incurred by the BLS, for the purpose of providing and maintaining the computers, telecommunications capacity, and software needed to capture the data, as well as retaining the staff who refine the design of the survey, select new survey samples each year, maintain data quality standards, produce and distribute estimates to the states, and publish the national data, as well as other related activities. 
+
+15.  Explain the reasons for any program changes or adjustments.
+
+There is an increase in burden of 27,045 hours (214,904 – 187,859) for collection year 2024. This increase is primarily due to increased reporting burden for Part II to reflect the increase in the estimated average time to report a case, but also includes the small increase of 270 hours for the pre-collection test letter. This increase from 10 to 15 minutes (50 percent) per case is consistent with OSHA burden estimates published in their most recent rulemaking and accounts for 25,000 hours in increased burden. Second, there is an increase in reporting burden due to an increase in the number of cases BLS estimates will be reported by establishments normally exempt from OSHA recordkeeping. This increase in cases is likely due to a rise in reported cases as levels return to pre-pandemic norms. Finally, there is also a small increase of 270 hours from the pre-collection test letter. Burden will decrease to 214,634 for collection years 2025 and 2026. A nonsubstantive change will be requested to adjust the burden estimate for these years once the pre-collection test is complete.  
+
+16.  For collections of information whose results will be published, outline plans for tabulations, and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+Results from the survey are published in a news release. Data also are published in the President's Report on Occupational Safety and Health, an annual report to the U.S. Congress. Survey data are also available on the Internet. The SOII news release presenting industry rates and counts is published annually. The RY 2020 SOII news release was the last in which case and demographic data were released annually. The RY 2022 SOII news release that was published in November 2023 included the first biennial release of RY 2021-2022 DJTR and DAFW case and demographic data that will only be disseminated every other year in biennial estimate form. The next scheduled release of case and demographic data will take place in the fall of 2025, for which biennial estimates for RY 2023-2024 will be published. BLS will continue to publish summary industry estimates annually.
+Listed below is a summary timetable that identifies the major collection phases and tentative dates for publishing the data.
+Table 9. Summary Timetable for Major SOII Collection Phases 
+December | Pre-notification mailing
+January | Initial mailing of BLS No. 9300 forms to sample units
+March | Second request mailing to nonrespondents
+April | Third request mailing to nonrespondents
+May | Telephone ,  mail , or email  follow-up of key nonrespondents 
+July | Active collection of data closed
+November | SOII news release highlighting industry rates and counts  (c haracteristics and circumstances of  workplace  injuries and illnesses   will be a  biennial  release).
+
+17.  If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+The BLS requests an exemption from the display of the expiration date on the BLS 9300 survey form. This allows for savings in printing costs by providing the printer with final forms at an earlier date.
+
+18.  Explain each exception to the certification statement.
+
+No exceptions to the certification statement are requested.
+PART word/footnotes.xml
+
+
+
+ See https://www.nap.edu/catalog/24835/a-smarter-national-surveillance-system-for-occupational-safety-and-health-in-the-21st-century.  
+ Establishments that previously “opted-in” to receive email notifications are already more likely to respond than other establishments.
+ See https://www.osha.gov/recordkeeping/presentations/covered for list of OSHA covered industries. Employers in non-covered industries are required to keep OSHA injury and illness records for any establishment if they are asked in writing to do so by OSHA, the Bureau of Labor Statistics (BLS), or a state agency operating under the authority of OSHA or the BLS.
+ See Table 2, FEA in https://www.govinfo.gov/content/pkg/FR-2023-07-21/pdf/2023-15091.pdf. 

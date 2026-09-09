@@ -8,7 +8,8 @@ def clean(s):
  s=re.sub(r'<(script|style)\b[^>]*>.*?</\1>','',s,flags=re.S|re.I)
  s=re.sub(r'</(?:tr|p|div|h[1-6])>|<br\s*/?>','\n',s,flags=re.I)
  s=re.sub(r'</(?:td|th)>',' | ',s,flags=re.I)
- return '\n'.join(' '.join(unescape(re.sub('<[^>]+>',' ',l)).split()) for l in s.splitlines() if re.sub('<[^>]+>',' ',l).strip())
+ s=re.sub('<[^>]+>', ' ', s)
+ return '\n'.join(' '.join(unescape(l).split()) for l in s.splitlines() if l.strip())
 def extract(b,p):
  if b[:2]==b'PK':
   z=zipfile.ZipFile(io.BytesIO(b)); ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'};lines=[]

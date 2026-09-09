@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202606-1652-002",
+  "retrieved_at": "2026-09-09T10:24:11.167806+00:00",
+  "documents": [
+    {
+      "title": "1652-0027 STA HME SS Pt.A.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=169514100",
+      "path": "icrs/202606-1652-002/raw/supporting-statement-a-1.docx",
+      "sha256": "0873bc1bfbb8338a3a8a2f2083f7d7ba64022ad0c857c972755a5310f6b68981",
+      "text_chars": 59254
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202606-1652-002",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202606-1652-002"
+}

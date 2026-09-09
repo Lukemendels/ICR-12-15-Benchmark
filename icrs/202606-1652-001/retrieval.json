@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202606-1652-001",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202606-1652-001"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202606-1652-001",
+  "agency": "DHS/TSA",
+  "title": "Cybersecurity Measures for Surface Modes",
+  "omb_control_number": "1652-0074",
+  "submission_date": "09/01/2026",
+  "record_source_id": "SRC-0021",
+  "supporting_statement_source_ids": [
+    "SRC-0022"
+  ]
 }

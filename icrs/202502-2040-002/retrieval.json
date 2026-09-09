@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202502-2040-002",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202502-2040-002"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202502-2040-002",
+  "agency": "EPA/OW",
+  "title": "2022 National Pollutant Discharge Elimination System General Permit for Discharges from Construction Activities (Renewal)",
+  "omb_control_number": "2040-0305",
+  "submission_date": "02/28/2025",
+  "record_source_id": "SRC-0019",
+  "supporting_statement_source_ids": [
+    "SRC-0020"
+  ]
 }

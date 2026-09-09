@@ -1,20 +1,53 @@
 {
   "mission_status": "IN_PROGRESS",
-  "current_iteration": 0,
-  "icrs_reviewed": 0,
-  "agencies_components_reviewed": [],
+  "current_iteration": 1,
+  "icrs_reviewed": 10,
+  "agencies_components_reviewed": [
+    "DHS/TSA",
+    "DOL/BLS",
+    "DOL/OSHA",
+    "DOT/FMCSA",
+    "EPA/OW",
+    "HHS/FDA",
+    "SEC",
+    "SSA"
+  ],
   "rubric_version": "1.0.0",
-  "canonical_model_version": "0.1.0",
-  "current_leaders": {},
-  "current_tsa_benchmark": null,
+  "canonical_model_version": "0.2.0",
+  "current_leaders": {
+    "best_individual_seed": "202404-1220-001",
+    "by_dimension": {
+      "reproducibility": "202409-3235-022",
+      "provenance": "202404-1220-001",
+      "segmentation": "202404-1220-001",
+      "labor": "202404-1220-001",
+      "item13": "202404-1220-001",
+      "item14": "202409-2126-001",
+      "item15": "202409-3235-022",
+      "validation": "202410-0960-002",
+      "consistency": "202409-3235-022"
+    },
+    "agency_leader": "insufficient repeated evidence",
+    "most_consistent_agency": "not estimable"
+  },
+  "current_tsa_benchmark": {
+    "n": 3,
+    "mean": 66,
+    "min": 64,
+    "max": 68,
+    "conclusion": "Seed shows useful detail and material public reconstruction errors;federal or agency ranking not established."
+  },
   "open_methodological_questions": [
     "See research/open-questions.md"
   ],
   "unresolved_evidence_gaps": [
-    "Governing instructions verification in progress",
-    "Seed model extraction and scoring incomplete"
+    "Below40 reviewed minimum",
+    "TSA sample only3",
+    "No matched agency dispersion samples",
+    "Underlying citations not all independently retrieved",
+    "No saturation or challenge round"
   ],
   "saturation_streak": 0,
-  "next_research_strategy": "Complete authoritative instructions and diverse seed extraction, then select falsifying comparators",
-  "updated_at": "2026-09-09T10:13:21.523158+00:00"
+  "next_research_strategy": "Expand TSA and test complex financial,statistical,and other-DHS challengers;see logs/iteration-002.md",
+  "updated_at": "2026-09-09T10:23:48.861056+00:00"
 }

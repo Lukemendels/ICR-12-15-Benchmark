@@ -1,0 +1,321 @@
+{
+  "icr_id": "202502-2040-002",
+  "omb_control_number": "2040-0305",
+  "agency": "EPA/OW",
+  "title": "2022 National Pollutant Discharge Elimination System General Permit for Discharges from Construction Activities (Renewal)",
+  "submission_date": "02/28/2025",
+  "archetype": "construction environmental permit",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 1,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0020",
+    "SRC-0019"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 11,
+    "segmentation": 15,
+    "labor": 7,
+    "item13": 5,
+    "item14": 6,
+    "item15": 6,
+    "validation": 4,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "Accessible five-sheet formula workbook reconstructs detailed totals;rate-period and narrative mismatches prevent full credit.",
+    "provenance": "Administrative NOI data,NOAA rainfall,prior economic analysis,ECEC and OPM identified;some source/input inconsistencies.",
+    "segmentation": "Size,ESA consultation,dewatering,sensitive waters,reporting/recordkeeping and government activities distinguished.",
+    "labor": "Direct ECEC management/professional compensation73.47 transparent;role mix and broad average not fully justified.",
+    "item13": "Meter retail-price survey and calibration allocation useful;annual procurement versus divide-by-three conflicts.",
+    "item14": "Workload formula workbook available;quarterly respondent reports but annual federal reviews count835 not3340.",
+    "item15": "2017 program baseline and prior renewal baseline coexist;old/new population and rates stated but bases not consistently labeled.",
+    "validation": "Administrative segmentation and rainfall basis strengthen assumptions;one-year asset replacement and proxies underjustified.",
+    "consistency": "Workbook23% versus prose25%;capital annualization conflict;unit conversion errors and reversed ratio formula."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "NOI large no consultation",
+        980,
+        1.1,
+        1078
+      ],
+      [
+        "NOI large informal",
+        609,
+        5.6,
+        3410
+      ],
+      [
+        "NOI large formal",
+        44,
+        19.6,
+        862
+      ],
+      [
+        "NOI small",
+        1997,
+        3.3,
+        6590
+      ],
+      [
+        "Small construction waiver",
+        182,
+        1,
+        182
+      ],
+      [
+        "Termination",
+        3631,
+        1.2,
+        4357
+      ],
+      [
+        "Turbidity sampling",
+        24215,
+        0.5,
+        12108
+      ],
+      [
+        "Quarterly turbidity reports",
+        3340,
+        0.75,
+        2505
+      ],
+      [
+        "Planned change",
+        18,
+        4,
+        72
+      ],
+      [
+        "Anticipated noncompliance",
+        4,
+        5,
+        20
+      ],
+      [
+        "Bypass verbal",
+        4,
+        5,
+        20
+      ],
+      [
+        "Bypass written",
+        3,
+        2,
+        6
+      ],
+      [
+        "Discharge violation verbal",
+        73,
+        3,
+        219
+      ],
+      [
+        "Discharge violation written",
+        36,
+        2,
+        72
+      ],
+      [
+        "Other noncompliance",
+        36,
+        5,
+        180
+      ],
+      [
+        "Inaccurate prior info",
+        2,
+        2,
+        4
+      ],
+      [
+        "LargeSWPPP",
+        1634,
+        36.4,
+        59478
+      ],
+      [
+        "SmallSWPPP",
+        1997,
+        22.7,
+        45332
+      ],
+      [
+        "SWPPP monitoring supplement",
+        835,
+        4,
+        3340
+      ],
+      [
+        "Large site inspections",
+        42484,
+        0.5,
+        21242
+      ],
+      [
+        "Small site inspections",
+        51922,
+        0.25,
+        12981
+      ],
+      [
+        "Dewatering inspections",
+        105299,
+        0.25,
+        26325
+      ]
+    ],
+    "labor": {
+      "method": "Direct ECEC management/professional private compensation",
+      "rate": 73.47,
+      "reference_period": "June2024",
+      "prior_rate": 62.77,
+      "annual_cost": 14722141
+    },
+    "item13": {
+      "meters": 835,
+      "unit_cost": 1064,
+      "retailer_range": [
+        970,
+        1870
+      ],
+      "median_footnote": 1043,
+      "capital_total": 888440,
+      "reported_rocis_annual": 296147,
+      "workbook_formula": "Turbidity Monitoring calcs!D19 = D12/3",
+      "cohort_assumption": "New meter purchased at start of each one-year project",
+      "om": 0,
+      "om_reason": "Calibration standards included in purchase;calibration labor counted inItem12"
+    },
+    "item14": {
+      "hours": 10679.85,
+      "cost": 546275,
+      "hourly_rate": 51.15,
+      "base_salary": 66731,
+      "grade": "GS9/10 2024 general schedule",
+      "hours_year_stated": 2080,
+      "overhead_markup": 0.6,
+      "turbidity_review_count": 835,
+      "review_hours": 0.16,
+      "follow_up_fraction": 0.2,
+      "follow_up_hours": 0.5,
+      "workbook_path": "raw/burden-calculation-tables.cells.json"
+    },
+    "item15": {
+      "old_hours": 126567,
+      "new_hours": 200383,
+      "renewal_delta": 73816,
+      "delta_vs_2017_program": 45367,
+      "old_operators": 2600,
+      "new_operators": 3631,
+      "old_total_cost": 9637018,
+      "new_total_cost": 15610581,
+      "classification": "adjustment in package"
+    },
+    "assumptions": [
+      "3631operators average of3880 and3382.",
+      "55%small45%large;largeESA60%/37.3%/2.7%.",
+      "Sensitive waters23%workbook vs25%prose.",
+      "29dewateringdays=7groundwater+22rainfall-related.",
+      "Sampling0.5h;quarterly reporting0.75h;26site inspections/year."
+    ]
+  },
+  "reconstruction_issues": [
+    "New NOI questions described10minutes or0.1hours.",
+    "Narrative25%sensitive-water fraction versusworkbook23%.",
+    "Annual new-asset cohort in prose butcapital/3inworkbook andROCIS.",
+    "Federal quarterly report count missing4multiplier relative torespondentworkbook.",
+    "Summary sheetB102 labeledhours/response computesresponses/hours.",
+    "Different baseline deltas are not inherently inconsistent;need explicit baseline IDs."
+  ],
+  "methods_worth_testing": [
+    "Accessible Excel formulas;provenance beside inputs;separate current andincremental columns;explicit overlap exclusions."
+  ],
+  "checks": [
+    {
+      "label": "Operator average",
+      "formula": "(3880+3382)/2",
+      "calculated": 3631.0,
+      "reported": 3631,
+      "difference": 0.0,
+      "unit": "operators",
+      "interpretation": "Exact",
+      "source_id": "SRC-0020"
+    },
+    {
+      "label": "Meters",
+      "formula": "round(3631*.23)",
+      "calculated": 835,
+      "reported": 835,
+      "difference": 0,
+      "unit": "meters",
+      "interpretation": "Workbook reconstructs;prose25%doesnot",
+      "source_id": "SRC-0020"
+    },
+    {
+      "label": "Capital",
+      "formula": "835*1064",
+      "calculated": 888440,
+      "reported": 888440,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0020"
+    },
+    {
+      "label": "ROCIS annualization",
+      "formula": "888440/3",
+      "calculated": 296146.6666666667,
+      "reported": 296147,
+      "difference": -0.3333333333139308,
+      "unit": "USD",
+      "interpretation": "Rounding butcohort rationale conflicts",
+      "source_id": "SRC-0020"
+    },
+    {
+      "label": "Renewal change",
+      "formula": "200383-126567",
+      "calculated": 73816,
+      "reported": 73816,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0020"
+    },
+    {
+      "label": "Federal report burden implied byquarterly frequency",
+      "formula": "835*4*(.16+.2*.5)",
+      "calculated": 868.4,
+      "reported": 217.1,
+      "difference": 651.3,
+      "unit": "hours",
+      "interpretation": "Count-to-period mismatch relative toworkbook;not an agency-corrected estimate",
+      "source_id": "SRC-0020"
+    },
+    {
+      "label": "Ten minute conversion",
+      "formula": "10/60",
+      "calculated": 0.16666666666666666,
+      "reported": 0.1,
+      "difference": 0.06666666666666665,
+      "unit": "hours",
+      "interpretation": "Substantive conversion mismatch",
+      "source_id": "SRC-0020"
+    }
+  ],
+  "total_score": 71
+}

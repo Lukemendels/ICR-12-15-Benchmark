@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202410-0960-002",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202410-0960-002"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202410-0960-002",
+  "agency": "SSA",
+  "title": "Disability Report-Appeal",
+  "omb_control_number": "0960-0144",
+  "submission_date": "10/22/2024",
+  "record_source_id": "SRC-0013",
+  "supporting_statement_source_ids": [
+    "SRC-0014"
+  ]
 }

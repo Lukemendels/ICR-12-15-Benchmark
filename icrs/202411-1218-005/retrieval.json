@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1218-005",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202411-1218-005"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202411-1218-005",
+  "agency": "DOL/OSHA",
+  "title": "Occupational Safety and Health Act Variance Regulations (29 CFR 1905.10, 1905.11 and 1905.12)",
+  "omb_control_number": "1218-0265",
+  "submission_date": "01/16/2025",
+  "record_source_id": "SRC-0015",
+  "supporting_statement_source_ids": [
+    "SRC-0016"
+  ]
 }

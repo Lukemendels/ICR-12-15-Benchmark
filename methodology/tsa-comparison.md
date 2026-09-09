@@ -1,2 +1,8 @@
-# TSA comparison
-Not yet established. No inference about relative rigor or process overhaul is justified until matched evidence is reviewed.
+# TSA comparison — seed only
+Three collections: AirCargo64,Claims68,SurfaceCybersecurity66;mean66,range64–68. All scores provisional;public documentation only. This purposive,small andheterogeneous sample doesnot establish TSA's federal rank or consistency.
+KEEP: industry-specific OEWS citations,occupation codes,explicit compensation loading,segmented activities,fees separate fromlabor,andexplicit federal salary-plus-benefit calculations. Evidence: SRC0004,0018,0022;see theirper-ICR extraction files.
+IMPROVE: single authoritative values feeding tables andnarrative;rate andperiod compatibility;correct andconsistent occupation/reference identifiers;federal-hour reconciliation;precise old/new bridges;justification ofproxy relevance. See claimregistry for observed defects.
+ADOPT: BLS SOII's cross-agency burden allocation andexplicit one-year test sunset;SEC's concise old/new response-hour table;EPA's accessible workbook withrow-level formulas andinput notes;FMCSA's incremental contract-task allocation. Adoption is method-specific,not an endorsement ofall estimates inthose ICRs.
+INVESTIGATE: whichrecent public cases reflect theinternal overhaul;support for timeassumptions;proper scope treatment ofnew entities underexisting collections;whether JOLTS turnover wasintended asmonthly event flow;whether internal spreadsheets resolve conflicting public totals.
+The surface-cybersecurity supporting statement wasuploaded09/01/2026 andthe package submitted thesame day. It ispotentially post-overhaul bydate,but attribution isnot established. Its OEWS accessdates inFebruary/May2026 demonstrate that a September submission cancontain inputs prepared earlier.
+The hypothesis thatTSA uses estimates forbroader analysis is nottested merely by finding detailed statements. Actual downstream reuse needs documentary links toRIA/program/policy analysis andmatched comparisons.

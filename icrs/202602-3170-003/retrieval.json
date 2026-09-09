@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202602-3170-003",
+  "retrieved_at": "2026-09-09T10:24:35.669043+00:00",
+  "documents": [
+    {
+      "title": "3170-0008 (Regulation C) supporting statement.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=166757501",
+      "path": "icrs/202602-3170-003/raw/supporting-statement-a-1.docx",
+      "sha256": "fe223bcefa9d6b4192fcb20d0937318bbb6235c3b4ef67e48fc5d2f9c018eb6d",
+      "text_chars": 27055
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202602-3170-003",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202602-3170-003"
+}

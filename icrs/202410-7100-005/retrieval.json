@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202410-7100-005",
+  "retrieved_at": "2026-09-09T10:24:36.447542+00:00",
+  "documents": [
+    {
+      "title": "FRB_20250124_omb.pdf",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=151883801",
+      "path": "icrs/202410-7100-005/raw/supporting-statement-a-1.pdf",
+      "sha256": "7d97784fcad96eb65b04edbd673c43ee5c54b1f7ccabe08e96f1897039f77627",
+      "text_chars": 20030
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202410-7100-005",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202410-7100-005"
+}

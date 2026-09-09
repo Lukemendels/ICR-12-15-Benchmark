@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202411-1651-004",
+  "retrieved_at": "2026-09-09T10:24:36.390258+00:00",
+  "documents": [
+    {
+      "title": "05-2025 ROCIS Supporting Statement 1651-0NEW Global Interoperability Standard (GIS).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=152305602",
+      "path": "icrs/202411-1651-004/raw/supporting-statement-a-1.docx",
+      "sha256": "020eb760fe2d1012b12fa2f1ae54e91ec6a9dca8cc94f9d6733b31e42d6e0b1a",
+      "text_chars": 24999
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1651-004",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202411-1651-004"
+}

@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202404-1220-001",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202404-1220-001"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202404-1220-001",
+  "agency": "DOL/BLS",
+  "title": "Survey of Occupational Injuries and Illnesses",
+  "omb_control_number": "1220-0045",
+  "submission_date": "07/01/2024",
+  "record_source_id": "SRC-0007",
+  "supporting_statement_source_ids": [
+    "SRC-0008"
+  ]
 }

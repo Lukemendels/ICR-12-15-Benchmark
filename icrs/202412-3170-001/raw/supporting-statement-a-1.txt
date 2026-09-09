@@ -1,0 +1,207 @@
+PART word/document.xml
+
+- 
+PERSONAL FINANCIAL DATA RIGHTS RULEMAKING 
+OMB CONTROL NO.: 3170-00XX
+ (RIN 3170-AA78 – FINAL RULE)
+
+
+A.  Justification
+
+1.  Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.
+
+In 2010, Congress explicitly recognized the importance of personal financial data rights in section 1033 of the Consumer Financial Protection Act of 2010 (CFPA). CFPA Section 1033(a) and (b) provide that, subject to rules prescribed by the CFPB, a covered person shall make available to a consumer, upon request, information in the control or possession of the covered person concerning the consumer financial product or service that the consumer obtained from such covered person, subject to certain exceptions. The information must be made available in an electronic form usable by consumers. Section 1002 of the CFPA defines certain terms used in CFPA Section 1033, including defining consumer as “an individual or an agent, trustee, or representative acting on behalf of an individual.” 
+
+Due to the purposes and objectives of Section 1033 and the CFPA generally, the CFPB interprets CFPA Section 1033 as authority to establish a framework that readily makes available covered data in an electronic form usable by consumers and third parties acting on behalf of consumers, upon request, including authorized third parties offering competing products and services. In addition, CFPA Section 1033(d) provides that the CFPB, by rule, shall prescribe standards applicable to covered persons to promote the development and use of standardized formats for information, including using machine-readable files, to be made available to consumers under this section. Moreover, the CFPB interprets CFPA Section 1033 as authority to specify procedures to ensure third parties are truly acting on behalf of consumers when accessing covered data. These procedures help ensure the market for consumer-authorized data operates fairly, transparently, and competitively. 
+
+CFPA Section 1022(b)(1) authorizes the CFPB to prescribe rules as may be necessary or appropriate to enable the CFPB to administer and carry out the purposes and objectives of the federal consumer financial laws (including carrying out the objectives of CFPA Section 1033) and to prevent evasions thereof. CFPA Section 1033(c) provides that a covered person is not required to maintain or keep additional information on a consumer and does not impose a requirement to record retention relating to compliance with CFPA Section 1033 itself.  In addition, CFPA Section 1024(b)(7) grants the CFPB authority to impose record retention requirements on CFPB-supervised, non-depository covered persons “for the purposes of facilitating supervision of such persons and assessing and detecting risks to consumers.” 
+
+
+2.  Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+The final rule amends 12 CFR Part 1033 to include the following new information collection requirements. The information collection requirements in this rule are mandatory.
+
+Obligation to make covered data available (Section 1033.201), including general requirements (Part 1033.301) and requirements applicable to developer interface (Section 1033.311). 
+
+These provisions carry out the objectives of CFPA Section 1033 by ensuring consumers and authorized third parties can make requests for and receive timely and reliable access to covered data in a usable electronic form and promoting the development and use of standardized formats. Section 1033.301 requires a data provider subject to the requirements of Part 1033 to maintain a consumer interface and a developer interface. The terms consumer interface and developer interface are defined in Section 1033.131 as interfaces through which a data provider receives requests for covered data and makes covered data available in an electronic form usable by consumers and authorized third parties in response to the requests.
+
+Information about the data provider (Section 1033.341). 
+
+To facilitate the ability of third parties to request covered data through a developer interface, the CFPB is finalizing procedures under CFPA Section 1033(a) to require data providers to publish in a readily identifiable manner certain information about themselves including identifying information, contact information, and information about their developer interfaces. These provisions carry out the objectives of CFPA Section 1033 by ensuring that consumers and authorized third parties have information necessary to make requests and use a developer interface which also promotes the use and development of standardized formats available through the developer interface.
+
+Public disclosure of this information reduces search costs for third parties by giving third parties a low-cost way of identifying how to access a data provider’s interface and facilitate market monitoring by the CFPB and members of the public. The public disclosure of this information also enables standard-setting bodies to identify the data providers and third parties that are participating in the open banking system which could aid efforts by standard-setting bodies to develop qualified industry standards related to consumer-authorized access.
+
+Policies and procedures for data providers (Section 1033.351).
+
+Section 1033.351(a) sets forth the general obligation that data providers establish and maintain written policies and procedures that are reasonably designed to achieve the objectives with respect to data providers’ obligations under the 
+rule, including Section 1033.351(b) through (d). The CFPB is issuing Section 1033.351(a) pursuant to its authority provided by CFPA Sections 1033(a) and 1022(b)(1). The policies and procedures in § 1033.351(b) carry out the objectives of CFPA Section 1033(a) to make available information upon request by ensuring data providers are accountable for their decisions to make available covered data in response to requests, and in granting third parties access to the developer interface. The policies and procedures in Section 1033.351(c) carry out the objectives of CFPA Section 1033(a) that data be made available in a usable electronic form by ensuring developer interfaces accurately transmit covered data. In addition, the CFPB is finalizing recordkeeping requirements under CFPA Section 1022(b)(1) to facilitate supervision and enforcement of the rule and to prevent evasion. 
+
+Third party authorization; general (Section 1033.401), including the authorization disclosure (Part 1033.411).
+
+The CFPB is finalizing authorization procedures for third parties seeking to access covered data on consumers’ behalf. Section 1033(a) of the CFPA generally requires data providers to make information available to a consumer and agents, trustees, or representatives acting on their behalf. The authorization procedures are designed to ensure that third parties accessing covered data are acting on behalf of the consumer. Specifically, the authorization procedures include requirements to provide an authorization disclosure to inform the consumer of key terms of access, certify to the consumer that the third party will abide by certain obligations regarding the consumer’s data, and obtain the consumer’s express informed consent to the key terms of access contained in the authorization disclosure. 
+
+Third party obligations (Section 1033.421).
+
+Section 1033.421 describes the obligations to which third parties must certify to be authorized to access covered data. The CFPB is issuing these certification requirements to ensure that third parties accessing covered data are acting on behalf of the consumer. The rule requires third parties to certify to limit their collection, use, and retention of covered data, including limiting the duration and frequency of collection and the provision of data to other third parties, to what is reasonably necessary to provide the consumer’s requested product or service. Under Section 1033.421, third parties certify to a maximum duration of collection of one year after the consumer’s most recent authorization unless the consumer reauthorizes the third party’s access. Third parties also are required to certify to provide consumers a simple way to revoke access, to maintain certain accuracy and data security obligations, and to ensure consumers have access to information about the third party’s authorization to access data. Part 1033.421 also requires a certification related to providing covered data to another third party and provides requirements that apply when the third party is using a data aggregator. 
+
+Use of data aggregator (Section 1033.431).
+
+The CFPB is issuing Section 1033.431 to adopt certain requirements for the third-party authorization procedures when a third party will use a data aggregator to assist with accessing covered data on behalf of a consumer. Currently, many third parties rely on data aggregators to assist with accessing and processing consumer financial data. Section 1033.431 addresses responsibility for the authorization procedures when a third party will use a data aggregator and imposes certain conditions on the data aggregator.
+
+Policies and procedures for third party record retention (§ 1033.441).
+
+The CFPB is issuing in Section 1033.441 to require a third party that is a covered person or service provider (as defined in 12 U.S.C. 5481(6) and (26)) to establish and maintain policies and procedures reasonably designed to ensure retention of records that evidence compliance with subpart D. Section 1033.441 is authorized under CFPA Section 1022(b)(1) because it enables the CFPB and others to evaluate a third party’s compliance with the proposed rule and prevents evasion. To the extent that Section 1033.441 applies to CFPB-supervised nondepository covered persons, it additionally is authorized by CFPA Section 1024(b)(7) because it facilitates supervision of such persons and enables the CFPB to assess and detect risks to consumers.
+
+3.  Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also, describe any consideration of using information technology to reduce burden.
+
+
+As discussed in section A.1, CFPA Section 1033(a) and (b) provide that, subject to rules prescribed by the CFPB, a covered person shall make available to a consumer, upon request, information in the control or possession of the covered person concerning the consumer financial product or service that the consumer obtained from such covered person, subject to certain exceptions. The information must be made available in an electronic form usable by consumers. As discussed in section A.2, the obligation to make covered data available (Section 1033.201), including general requirements (Section 1033.301) and requirements applicable to developer interface (Section 1033.311) requires a data provider to receive requests for covered data and make covered data available in an electronic form usable by consumers and authorized third parties in response to the requests.
+
+With respect to information about the data provider (Section 1033.341), Section 1033.341(a) requires data providers to make the information (described in Section 1033.341(b) through (d)) readily identifiable to members of the public, meaning the information must be at least as available as it would be on a public website. A data provider complies with Section 1033.341(a)(1) by making the information available on a public website. A data provider also is permitted to make the information readily identifiable through some other means, as long as the information is no less available than it would be on a public website. Under Section 1033.341(a)(2), this information must be available in both human- and machine-readable formats. Making the data available in a machine-readable format could enable third parties and other stakeholders to use automated processes to ingest the relevant information into their systems for processing and review, which makes the process of obtaining this information more efficient.
+
+With respect to third party authorization, Section 1033.401 provides that a third party would have to satisfy the prescribed authorization procedures to become an authorized third party. Section 1033.401 requires a third party to provide the consumer with an authorization disclosure as described in proposed Section 1033.411. Section 1033.411(a) requires the third party to provide the consumer with an authorization disclosure electronically or in writing. Section 1033.401 also requires a third party to obtain the consumer’s express informed consent to access covered data on behalf of the consumer by obtaining an authorization disclosure that is signed by the consumer electronically or in writing.
+
+
+4.  Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purposes described in Item A.2 above.
+
+The CFPB has identified several consumer financial laws and implementing regulations that may contain obligations that overlap with the information collections with respect to disclosures to consumers or recordkeeping requirements: 
+Equal Credit Opportunity Act (ECOA) and the CFPB’s implementing regulation, Regulation B (12 CFR part 1002); 
+EFTA and the CFPB’s implementing regulation, Regulation E; the FCRA and the CFPB’s implementing regulation, Regulation V (12 CFR part 1022); 
+the GLBA and the CFPB’s implementing regulation, Regulation P (12 CFR part 1016) and the regulations and guidelines of certain other Federal agencies (e.g., the FTC’s Safeguards Rule and the prudential regulators’ Safeguards Guidelines; 
+TILA and the CFPB’s implementing regulation, Regulation Z; TISA and the CFPB’s implementing regulation, Regulation DD (12 CFR part 1030) and part 707 of the NCUA Rules and Regulations; and 
+the Real Estate Settlement Procedures Act of 1974 and the CFPB’s implementing regulation, Regulation X (12 CFR part 1024). 
+
+To the extent of any overlap with respect to disclosures of information to consumers, the information collections are unique because they require disclosures under different circumstances. Part 1033 applies only to disclosures to be made in electronic form and includes obligations to make disclosures to authorized third parties. To the extent of any overlap with respect to recordkeeping requirements, the rule provides flexibility to data providers and third parties by requiring that they establish and maintain policies and procedures reasonably designed to meet certain objectives.
+
+5.  If the collection of information impacts small businesses or other small entities, describe any methods used to minimize burden.
+
+In February 2023, the Bureau convened a Small Business Review Panel regarding burden minimization. Based on the feedback received, the Bureau took several steps to reduce burden in the final rule. First, the definition of ‘covered data’ was streamlined from the Small Business Review Panel version to reduce the amount of information that small entities are be required to make available. Second, the final rule does not apply to depository institutions that hold total assets at or below the applicable Small Business Administration size standard for the depository institution’s appropriate NAICS code for commercial banking, credit unions, savings institutions and other depository credit intermediation, or credit card issuing, as codified in 13 CFR 121.201.  Third, the final rule extends compliance timelines for all data providers, including smaller data providers. Fourth, the recordkeeping requirements are flexible for data providers and third parties. Fifth, the final rule’s minimum standards for commercially reasonable performance is more flexible than the proposal.
+
+6.  Describe the consequence to federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden. 
+
+The general obligation to make covered data available (Section 1033.201) is necessary to carry out the statutory text of CFPA Section 1033(a).  If the other requirements were not adopted, the CFPB the objectives of CFPA Section 1033 would not be carried out effectively. Specifically, the CFPB would not achieve the objectives describe in section A.2 above.
+
+7.  Explain any special circumstances that would cause an information collection to be conducted in a manner:
+requiring respondents to report information to the agency more often than quarterly;
+requiring respondents to prepare a written response to a collection of information in fewer than 30 days after receipt of it;
+requiring respondents to submit more than an original and two copies of any document;
+requiring respondents to retain records, other than health, medical, government contract, grant-in-aid, or tax records for more than three years;
+in connection with a statistical survey, that is not designed to produce valid and reliable results that can be generalized to the universe of study;
+requiring the use of statistical data classification that has not been reviewed and approved by OMB;
+that includes a pledge of confidentially that is not supported by authority established in statute or regulation, that is not supported by disclosure and data security policies that are consistent with the pledge, or which unnecessarily impedes sharing of data with other agencies for compatible confidential use; or
+requiring respondents to submit proprietary trade secret, or other confidential information unless the agency can demonstrate that it has instituted procedures to protect the information's confidentially to the extent permitted by law.
+
+There are no special circumstances.  The collection of information requirements are consistent with the applicable guidelines contained in 5 CFR Part 1320.5(d)(2).
+
+8.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency’s notice, required by 5 CFR 1320.8(d), soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+Describe efforts to consult with persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.
+
+Consultation with representatives of those from whom information is to be obtained or those who must compile records should occur at least once every 3 years -- even if the collection-of-information activity is the same as in prior periods.  There may be circumstances that may preclude consultation in a specific situation.  These circumstances should be explained.
+
+The Bureau convened a Small Business Review Panel to obtain feedback from small entities covered by CFPA Section 1033 as well as the general public. In developing the rule, the Bureau has consulted, or offered to consult with, the appropriate prudential regulators, the Federal Trade Commission, and other Federal agencies including regarding consistency with any prudential, market, or systemic objectives administered by such agencies, and with respect to factors described in CFPA Section 1033(e).
+
+In accordance with 5 CFR Part 1320.8(d)(1), the Bureau published the proposed rule in the Federal Register that provides the public 60 calendar days to comment on the related information collections.   Extensive comments were received which are summarized and discussed in the text of the final rule.
+
+9.  Explain any decision to provide any payments or gifts to respondents, other than remuneration of contractors or grantees.
+
+No payment, gifts, or other incentives are provided to respondents.
+
+10.  Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+The Bureau does not collect any information due to the requirements within this rule. To the extent that the Bureau collects information covered by a recordkeeping requirement for law enforcement purposes, the confidentiality provisions of the Bureau’s rules on the Disclosure of Records and Information (12 CFR Part 1070) would apply.
+
+11.  Provide additional justification for any questions of a sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.  This justification should include the reasons why the agency considers the questions necessary, the specific uses to be made of the information, the explanation to be given to persons from whom the information is requested, and any steps to be taken to obtain their consent.
+
+The Bureau requests no information of sensitive nature within this information collection.
+
+12.  Provide estimates of the hour burden of the collection of information.  
+
+The Bureau estimates the burden of this information collection as follows:
+
+Information Collection Requirements | Information Collection Details | Number of Respondents | Number of annual responses | Time per response | Total Burden Hours
+Recordkeeping
+1033.351-one time | 1033.351: Policies and  procedures for data providers | 1,785 | 1,785 | 557 | 994,245
+1033.351-ongoing | 1033.351: Policies and procedures for data providers | 1,785 | 1,785 | 60 | 107,100
+1033.441-One time | 1033 . 441: Policies and procedures for third party record retention. | 8,500 | 8,500 | 320 | 2,720,000
+1033.441-ongoing | 1033 . 441: Policies and procedures for third party record retention. | 8,500 | 8,500 | 150 | 1,275,000
+Disclosures |  |  |  |  | 
+1033.341 1033.201 1033.301 1033.311-one time | 1033.341: Information about the data provider 1033.201: Obligation to make covered data available. 1033.301: General requirements. 1033.311: Requirements applicable to developer interface | 1,785 | 1,785 | 324 | 578,340
+1033.341 1033.201 1033.301 1033.311-ongoing | 1033.341: Information about the  data provider 1033.201: Obligation to make covered data available. 1033.301: General requirements. 1033.311: Requirements applicable to developer interface | 1,785 | 1,785 | 30 | 53,550
+1033.411 1033.421 1033.401 1033.431-one time  | 1033.411: Authorization disclosure 1033.421: Third party obligations 1033.401: Third party authorization; general 1033.431: Use of data aggregator | 8,500 | 8,500 | 162 | 1 , 377 , 000
+TOTAL |  | 10,285 | 32,640 |  | 7 , 105 , 235
+Note: Time per response has been rounded to the nearest whole hour.
+
+1.Recordkeeping
+
+Data providers (Section 1033.351) and third parties (Section 1033.441) are required to establish “reasonable written policies and procedures” related to record keeping and retention. Data providers must establish and maintain written policies and procedures that are reasonably designed to achieve the objectives set forth in subparts B and C of the rule, including those set forth in paragraphs (b) through (d) of Section 351 of the rule. Policies and procedures must be appropriate to the size, nature, and complexity of the data provider’s activities. Furthermore, data providers must periodically review the policies and procedures required by Section 351 and update them as appropriate to ensure their continued effectiveness. Third parties must establish and maintain written policies and procedures that are reasonably designed to retain records that are evidence of compliance with the requirements of subpart D of 1033, for a reasonable period, not less than three years after a consumer’s most recent authorization.
+
+The Bureau expects that complying with the rule will require data providers and third parties to establish and maintain a computer system for the purposes of record keeping and retention. These systems will be designed to be automated, requiring little human input. The Bureau expects that some data providers will rely on vendors to create their reporting and recordkeeping automated systems, instead of creating the systems in-house. Since vendors may be able to use similar systems to serve multiple data providers, actual burden hours may be lower than the estimates provided here.
+
+i. One-Time Costs  
+
+The Bureau has identified two high-level one-time costs associated with the Recordkeeping category. The first are the costs associated with designing and vetting the policies and procedures that data providers and third parties incur. The second are the costs associated with the creation and vetting of the computer systems that record and process information.
+
+The initial creation of the written policies and procedures are a one-time cost associated with the rule. The initial creation, review, and implementation of the policy plans will involve a time burden for both the data providers and the third parties. 
+Regarding the initial creation of recordkeeping computer systems, the Bureau expects that around 25% of data providers will choose to create their system in-house. The remaining 75% will create them through their contracted vendors. For the first set of data providers, the creation of the computer system will primarily be an upfront one-time cost, while for the second set of providers, the cost will be ongoing. 
+
+2.Disclosures
+
+To comply with Section 1033.341, data providers must publish in a readily identifiable manner certain information about themselves, including identifying information, contact information, information about their interface for third parties, and performance specifications. The initial creation, validation, and vetting of this public disclosure system will primarily involve software engineers, with the automated public disclosures being implemented in the initial creation of the computer system. To comply with Section 1033.201, providers must make available, upon request, covered data in the provider’s control. Furthermore, in accordance with Section 1033.301, providers must establish and maintain consumer and developer interfaces in which data requests will be received and processed. 
+
+To comply with Section 1033.311, providers’ developer interfaces must meet the specified requirements. The Bureau expects that after the initial creation of the interfaces, the processes will be automated requiring little human input.
+
+To comply with Section 1033.401(a), third parties must provide the consumer with an Authorization Disclosure that meets the requirements of Section 1033.411. The Authorization Disclosure must be in writing, clear, conspicuous, and segregated from other material. The initial creation, validation, and vetting of the disclosure forms will primarily involve compliance officers, with the automated disclosure process being implemented in the initial creation of the computer system.
+
+To comply with Section 1033.421, third parties must also create a system to provide to the consumer, upon request, a copy of their authorization disclosure, information on how to contact the third party, and information regarding the types and uses of consumer-authorized data being shared under the rule. The Bureau expects these disclosures to be built into third parties’ existing websites and computer systems, and that the information will be disclosed automatically and electronically.
+
+i.One-Time Costs
+
+ The Bureau understands that data providers generally maintain the information that is required to be disclosed in the normal course of business, so the costs are only related to the per-entity labor hours needed to create the public disclosure system and publishing that information on a public facing webpage.
+ 
+ii.Ongoing Costs
+
+The ongoing costs associated with the public disclosure requirements, along with the ongoing compliance with Section 1033.201, for data providers are likely to be minimal, since the one-time costs would cover the creation of an automated system, which will update a public facing website automatically. Ongoing costs related to the public disclosures will likely be minimal for most data providers and would generally only involve updating the public facing website if, for example, the details of their public-facing computer interface changed. 
+
+13.  Provide an estimate of the total annual cost burden to respondents or record keepers resulting from the collection of information.  (Do not include the cost of any hour burden shown in Items 12 and 14).
+
+
+Entities | Number of Entities | Annualized Burden Amount Per Entity | Total Annualized Burden (dollars)
+Data Providers - one time  costs  | 1,339 | $ 16,800 | $ 22,495,200
+Data Providers-ongoing | 1,339 | 4,200 | 5,623,800
+Total Ongoing Contract Cost of Recordkeeping and Disclosure Systems for all Data Providers: $28,119,000
+
+The Bureau anticipates that 75% of all data providers will contract for the creation and maintenance of their record keeping systems through vendors. Therefore, these providers will have the additional ongoing cost of contracting with these vendors. The Bureau understands that vendor fees vary, but the midpoint is expected to be around $42,000 a year. The Bureau estimates that 25% of these costs ($10,500) are record keeping burden under the PRA and another 25% is attributable to the costs of creating  systems to providing the disclosures required under this rule. The total annualized PRA burden for data providers that contract with vendors to produce their systems is $ 28,119,000.  Further the Bureau estimates that 20% of this total ($5,623,800 )will be one-time costs associated with acquiring and developing these systems and the remainder will be ongoing
+
+
+14.  Provide estimates of the annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, which should include quantification of hours, operational expenses (such as equipment, overhead, printing, and support staff), any other expense that would not have been incurred without this collection of information.  Agencies also may aggregate cost estimates from Items 12, 13, and 14 into a single table.
+
+There are not costs to the Federal Government, as the Bureau does not collect any information under this rule.  
+
+15.  Explain the reasons for any program changes or adjustments.
+
+There are neither program changes nor adjustments to an existing information collection.  
+
+This is a new information collection. The rule is a new regulation and has both one-time and ongoing burden hours and costs. Regarding the requested annual burden (accounting for both one-time and ongoing costs) approximately 80% of the total is comprised of the one-time (implementation) burden hours with the remaining 20% being comprised of the ongoing burden hours.
+
+16.  For collections of information whose results will be published, outline plans for tabulations, and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+This information collection will not have any results published. The Bureau does not collect any information under this rule.  
+
+17.  If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+The OMB control number and expiration date associated with this PRA submission will be displayed on the Federal government’s electronic PRA docket at www.reginfo.gov, as well as in the Code of Federal Regulations.  There are no required forms or other documents upon which display of the control number and expiration date would be appropriate.
+
+18.  Explain each exception to the certification statement.
+
+The Bureau certifies that this collection of information is consistent with the requirements of 5 CFR Part 1320.9, and the related provisions of 5 CFR Part 1320.8(b)(3) and is not seeking an exemption to these certification requirements.
+
+PART word/footnotes.xml
+
+
+
+ The CFPA is title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. 111-203, 124 Stat. 1376, 2008 (2010).
+ The CFPB formally created part 1033 in a separate final rule. See 89 FR 49084 (June 11, 2024)
+ Part 1033.131 defines the term consensus standard to mean a standard that is issued by a standard-setting body that is fair, open, and inclusive. In turn, Part 1033.141 provides that a standard-setting body is fair, open, and inclusive and is an issuer of consensus standards when the body has certain attributes.
+ 12 U.S.C. 2601 et seq.
+ 88 FR 74796 (10/31/2023).

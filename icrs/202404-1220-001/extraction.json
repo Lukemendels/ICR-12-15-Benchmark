@@ -1,0 +1,190 @@
+{
+  "icr_id": "202404-1220-001",
+  "omb_control_number": "1220-0045",
+  "agency": "DOL/BLS",
+  "title": "Survey of Occupational Injuries and Illnesses",
+  "submission_date": "07/01/2024",
+  "archetype": "statistical employer survey and recordkeeping",
+  "complexity": "high",
+  "tsa_relevance": "method transfer",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 1,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0008",
+    "SRC-0007"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 19,
+    "provenance": 12,
+    "segmentation": 15,
+    "labor": 7,
+    "item13": 10,
+    "item14": 5,
+    "item15": 8,
+    "validation": 3,
+    "consistency": 4
+  },
+  "score_rationale": {
+    "reproducibility": "Nine tables reconstruct sector/activity/year burdens with bounded rounding.",
+    "provenance": "OSHA instruments/rule and ECEC release identified; source period/title needs verification.",
+    "segmentation": "Private,mandatory-public,voluntary-public and normally exempt recordkeepers; avoids duplicate OSHA burden.",
+    "labor": "Direct ECEC compensation transparent but same sales/office rate across sectors.",
+    "item13": "Explains supplied materials,manual records,no systems work,existing electronic records.",
+    "item14": "5.8m federal matching share+17.1m support explained; underlying workload detail absent.",
+    "item15": "270-hour one-time test and25000-hour timing effect stated,old/new totals and future sunset explicit.",
+    "validation": "Recording times inherited from OSHA; survey validation does not itself establish all burden times.",
+    "consistency": "Table arithmetic largely agrees; reporting/recording labels swapped in summary prose."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "PartI private",
+        207300,
+        0.16666666666666666,
+        34550
+      ],
+      [
+        "PartI public mandatory",
+        15100,
+        0.16666666666666666,
+        2517
+      ],
+      [
+        "PartI public voluntary",
+        5800,
+        0.16666666666666666,
+        967
+      ],
+      [
+        "PartII private cases",
+        255000,
+        0.25,
+        63750
+      ],
+      [
+        "PartII public mandatory",
+        37500,
+        0.25,
+        9375
+      ],
+      [
+        "PartII public voluntary",
+        7500,
+        0.25,
+        1875
+      ],
+      [
+        "Test letter",
+        2700,
+        0.1,
+        270
+      ],
+      [
+        "Exempt summary private",
+        80000,
+        0.9666666666666667,
+        77333
+      ],
+      [
+        "Exempt summary public",
+        5800,
+        0.9666666666666667,
+        5607
+      ],
+      [
+        "Exempt logs",
+        31100,
+        0.23333333333333334,
+        7257
+      ],
+      [
+        "Exempt incident reports",
+        31100,
+        0.36666666666666664,
+        11403
+      ]
+    ],
+    "labor": {
+      "method": "direct ECEC sales/office total compensation",
+      "hourly_rate": 32.91,
+      "source_label": "Employer Costs for Employee Compensation--December2023,USDL23-2567",
+      "cost2024": 7072491,
+      "cost2025_2026_each": 7063605
+    },
+    "item13": {
+      "annual_cost": 0,
+      "justification": "Supplied materials; no systems development; existing electronic records accessed only"
+    },
+    "item14": {
+      "federal_collection_share": 5800000,
+      "state_match_excluded": 5800000,
+      "federal_noncollection": 17100000,
+      "annual_cost": 22900000,
+      "fiscal_year": 2024
+    },
+    "item15": {
+      "old_hours": 187859,
+      "2024_hours": 214904,
+      "2025_hours": 214634,
+      "2026_hours": 214634,
+      "timing_effect": 25000,
+      "test_effect": 270,
+      "residual_case_count_effect": 1775,
+      "classification": "Specific program/adjustment coding requires package detail; narrative decomposes drivers"
+    },
+    "assumptions": [
+      "No duplicate recording charge for employers already required by OSHA;charge normally exempt establishments.",
+      "Three-year study phases distinguish one-time precollection test."
+    ]
+  },
+  "reconstruction_issues": [
+    "Narrative swaps reporting/recording labels.",
+    "Federal cost categories lack quantities/rates.",
+    "ECEC release label may conflate publication/reference periods; verify source."
+  ],
+  "methods_worth_testing": [
+    "Cross-agency burden allocation; obligations overlap; separate collection year,reference year,approval horizon."
+  ],
+  "checks": [
+    {
+      "label": "2024 hours",
+      "formula": "113304+101600",
+      "calculated": 214904,
+      "reported": 214904,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0008"
+    },
+    {
+      "label": "Change",
+      "formula": "25000+270+1775",
+      "calculated": 27045,
+      "reported": 27045,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Residual1775 inferred,not explicit estimate",
+      "source_id": "SRC-0008"
+    },
+    {
+      "label": "Three-year average",
+      "formula": "(214904+214634+214634)/3",
+      "calculated": 214724.0,
+      "reported": 214724,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Analytical horizon average; not substituted for package annual request",
+      "source_id": "SRC-0008"
+    }
+  ],
+  "total_score": 83
+}

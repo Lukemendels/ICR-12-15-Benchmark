@@ -1,0 +1,244 @@
+{
+  "icr_id": "202402-1652-002",
+  "omb_control_number": "1652-0040",
+  "agency": "DHS/TSA",
+  "title": "Air Cargo Security Requirements",
+  "submission_date": "03/27/2024",
+  "archetype": "regulated-industry security reporting and recordkeeping",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 1,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0004",
+    "SRC-0003"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 14,
+    "provenance": 11,
+    "segmentation": 13,
+    "labor": 5,
+    "item13": 8,
+    "item14": 6,
+    "item15": 4,
+    "validation": 2,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "Nine activity rows and equations, but appeals and recordkeeping narrative do not reproduce displayed values.",
+    "provenance": "Precise BLS vintages/NAICS/SOC and ECEC dates; internal Modular Cost Data inaccessible.",
+    "segmentation": "Separate new/renewal/appeal/amendment/STA/electronic/manual/recordkeeping paths; overlapping respondents identified.",
+    "labor": "Employment-weighted occupational wages useful; contradictory loading factor and occupation proxies weaken defense.",
+    "item13": "STA fee and quantity multiply exactly; broader zero capital/O&M scope not fully justified.",
+    "item14": "Two labor tasks and contract components; KSMS O&M differs between narrative and table.",
+    "item15": "Several old/new counts given but no complete quantified hour bridge; adjustment language self-contradictory.",
+    "validation": "Past experience supports some activity assumptions, without time measurement or ranges.",
+    "consistency": "Multiple material conflicting values; not only rounding."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "New programs",
+        201,
+        4,
+        804
+      ],
+      [
+        "Renewals",
+        3341,
+        4,
+        13364
+      ],
+      [
+        "Appeals",
+        33,
+        5,
+        167.1
+      ],
+      [
+        "TSA amendments",
+        600,
+        1,
+        600
+      ],
+      [
+        "Industry amendments",
+        946,
+        1,
+        946
+      ],
+      [
+        "STAs",
+        98500,
+        0.25,
+        24625
+      ],
+      [
+        "Electronic KSMS",
+        800000,
+        0.03333333333333333,
+        26666.7
+      ],
+      [
+        "Manual KSMS",
+        1400,
+        1,
+        1400
+      ],
+      [
+        "Recordkeeping",
+        102042,
+        0.08333333333333333,
+        8503.5
+      ]
+    ],
+    "labor": {
+      "manager_wage": 70.77,
+      "manager_loaded": 103.2,
+      "manager_soc": "11-1021",
+      "worker_wages": [
+        22.9,
+        34.64
+      ],
+      "employment_weights": [
+        75630,
+        5840
+      ],
+      "worker_socs": [
+        "53-7000",
+        "53-1040"
+      ],
+      "worker_loaded": 34.62,
+      "clerical_wage": 18.33,
+      "clerical_loaded": 26.73,
+      "clerical_soc": "43-4171",
+      "wage_year": 2022,
+      "industry_naics": "481000",
+      "ecec_year": 2023,
+      "ecec_inputs": [
+        33.13,
+        22.72
+      ],
+      "reported_labor_cost": 3690311
+    },
+    "item13": {
+      "sta_count": 98500,
+      "fee": 41,
+      "annual_cost": 4038500,
+      "formula": "98500*41"
+    },
+    "item14": {
+      "activities": [
+        [
+          "Review programs",
+          3542,
+          2.25,
+          80.53
+        ],
+        [
+          "Review amendments",
+          1546,
+          120,
+          87.11
+        ]
+      ],
+      "labor_cost": 16802471,
+      "vetting_contract": 6500000,
+      "om_table": 1600000,
+      "om_narrative": 1200000,
+      "total_table": 24902471,
+      "three_year_reported": 74747414,
+      "pay_source": "TSA FY2022 Modular Cost Data"
+    },
+    "item15": {
+      "old_electronic": 476167,
+      "new_electronic": 800000,
+      "old_manual": 8000,
+      "new_manual": 1400,
+      "old_new_entrants": 350,
+      "new_new_entrants": 201,
+      "old_renewals": 3700,
+      "new_renewals": 3341,
+      "old_appeals": 37,
+      "new_appeals": 33,
+      "rocis_old_hours": 74636,
+      "rocis_new_hours": 77077,
+      "classification": "Adjustment in package; narrative says no adjustments then describes adjustments"
+    },
+    "assumptions": [
+      "Administrative populations; response times asserted or past experience.",
+      "Displayed hourly rates rounded; do not treat small dollar residuals alone as errors."
+    ]
+  },
+  "reconstruction_issues": [
+    "Table appeals uses 167.1 hours versus 33*5=165; possibly unrounded 1% of renewals, not explicitly exposed.",
+    "Recordkeeping prose says 8208 hours but table 8503.5. Item15 count 102400 versus table102042.",
+    "Manager footnote says 37.27/25.08=1.4860, then uses1.4582.",
+    "KSMS O&M 1.2m prose versus1.6m table. Three-year total not 3*annual total."
+  ],
+  "methods_worth_testing": [
+    "Industry-specific wage observations; employment-weighted labor mix; atomic activity tables; fees and contracts separate."
+  ],
+  "checks": [
+    {
+      "label": "Appeal row",
+      "formula": "33*5",
+      "calculated": 165,
+      "reported": 167.1,
+      "difference": -2.0999999999999943,
+      "unit": "hours",
+      "interpretation": "Unexplained count precision",
+      "source_id": "SRC-0004"
+    },
+    {
+      "label": "Recordkeeping",
+      "formula": "102042*5/60",
+      "calculated": 8503.5,
+      "reported": 8503.5,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exact table reconstruction",
+      "source_id": "SRC-0004"
+    },
+    {
+      "label": "STA fee",
+      "formula": "98500*41",
+      "calculated": 4038500,
+      "reported": 4038500,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0004"
+    },
+    {
+      "label": "Federal annual",
+      "formula": "16802471+8100000",
+      "calculated": 24902471,
+      "reported": 24902471,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact table total",
+      "source_id": "SRC-0004"
+    },
+    {
+      "label": "Federal three-year",
+      "formula": "24902471*3",
+      "calculated": 74707413,
+      "reported": 74747414,
+      "difference": -40001,
+      "unit": "USD",
+      "interpretation": "Material discrepancy; reported three-year value inconsistent",
+      "source_id": "SRC-0004"
+    }
+  ],
+  "total_score": 64
+}

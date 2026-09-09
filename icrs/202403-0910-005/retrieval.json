@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202403-0910-005",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202403-0910-005"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202403-0910-005",
+  "agency": "HHS/FDA",
+  "title": "Premarket Tobacco Product Applications and Recordkeeping Requirements",
+  "omb_control_number": "0910-0879",
+  "submission_date": "11/27/2024",
+  "record_source_id": "SRC-0005",
+  "supporting_statement_source_ids": [
+    "SRC-0006"
+  ]
 }

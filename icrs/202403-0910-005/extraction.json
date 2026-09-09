@@ -1,0 +1,206 @@
+{
+  "icr_id": "202403-0910-005",
+  "omb_control_number": "0910-0879",
+  "agency": "HHS/FDA",
+  "title": "Premarket Tobacco Product Applications and Recordkeeping Requirements",
+  "submission_date": "11/27/2024",
+  "archetype": "complex premarket regulated-industry applications",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 1,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0006",
+    "SRC-0005"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 9,
+    "segmentation": 13,
+    "labor": 4,
+    "item13": 3,
+    "item14": 5,
+    "item15": 6,
+    "validation": 3,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "Eleven reporting activities and recordkeeping provided; resubmissions narrative conflicts with table.",
+    "provenance": "OEWS industry/year supplied but current URL;GS salary year and precise table absent.",
+    "segmentation": "Application,forms,amendments,postmarket,ownership,waivers and records distinguished; one industry-average wage.",
+    "labor": "Doubles all-occupation wage for benefits/overhead without components or empirical factor.",
+    "item13": "Blanket zero despite complex study/submission scope; no rationale.",
+    "item14": "130FTE*GS13/4 salary reconstructs but FTE requirement and benefits not shown.",
+    "item15": "Consolidation across control numbers distinguished from adjustments; no complete input bridge.",
+    "validation": "Agency experience and50–5000-hour range; no distribution or reproducible calibration.",
+    "consistency": "5 resubmissions table versus3 narrative;multiple hours-to-minutes approximations."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Bundled PMTA",
+        215,
+        1713,
+        368295
+      ],
+      [
+        "4057",
+        215,
+        0.5833333333333334,
+        125
+      ],
+      [
+        "4057a",
+        320,
+        0.16666666666666666,
+        51
+      ],
+      [
+        "4057b",
+        215,
+        0.5833333333333334,
+        125
+      ],
+      [
+        "Validator",
+        215,
+        0.08333333333333333,
+        17
+      ],
+      [
+        "Periodic report",
+        30,
+        50,
+        1500
+      ],
+      [
+        "Amendment",
+        48,
+        188,
+        9024
+      ],
+      [
+        "Ownership",
+        10,
+        1,
+        10
+      ],
+      [
+        "Supplement",
+        2,
+        428,
+        856
+      ],
+      [
+        "Resubmission",
+        5,
+        565,
+        2825
+      ],
+      [
+        "Waiver",
+        1,
+        0.25,
+        1
+      ],
+      [
+        "PMTA records",
+        215,
+        2,
+        430
+      ],
+      [
+        "Preexisting records",
+        1,
+        2,
+        2
+      ],
+      [
+        "SE records",
+        1,
+        2,
+        2
+      ]
+    ],
+    "labor": {
+      "wage_year": 2023,
+      "industry": "Tobacco manufacturers312200,all occupations",
+      "wage": 32.48,
+      "load_factor": 2,
+      "loaded_rate": 64.96,
+      "labor_cost": 24896700
+    },
+    "item13": {
+      "annual_cost": 0,
+      "justification": "No capital/startup/O&M asserted"
+    },
+    "item14": {
+      "fte": 130,
+      "grade": "GS13/4 WashingtonDC",
+      "salary": 129759,
+      "annual_cost": 16868670
+    },
+    "item15": {
+      "new_hours": 383262,
+      "hour_increase": 369555,
+      "response_increase": 1302,
+      "program_change": "Consolidate ENDS submissions from0910-0768; validator",
+      "adjustments": "Responses,periodic-report frequency,form time"
+    },
+    "assumptions": [
+      "Bundle6–11 products; base1500hours+213EA.",
+      "Supplement25% and resubmission33% of original.",
+      "Wide50–5000hours observed/expected depending on complexity; supporting distribution absent."
+    ]
+  },
+  "reconstruction_issues": [
+    "Narrative3 resubmissions versus table5.",
+    "Uniform all-occupation wage may not represent legal/scientific mix.",
+    "Nonlabor zero unsupported for complex scope."
+  ],
+  "methods_worth_testing": [
+    "Cross-control-number consolidation needs transfer ledger; bundle/product distinction."
+  ],
+  "checks": [
+    {
+      "label": "Reported rows",
+      "formula": "sum([368295,125,51,125,17,1500,9024,10,856,2825,1])+434",
+      "calculated": 383263,
+      "reported": 383262,
+      "difference": 1,
+      "unit": "hours",
+      "interpretation": "Exact sum of reported rows",
+      "source_id": "SRC-0006"
+    },
+    {
+      "label": "Labor",
+      "formula": "383262*64.96",
+      "calculated": 24896699.519999996,
+      "reported": 24896700,
+      "difference": -0.48000000417232513,
+      "unit": "USD",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0006"
+    },
+    {
+      "label": "Federal",
+      "formula": "130*129759",
+      "calculated": 16868670,
+      "reported": 16868670,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0006"
+    }
+  ],
+  "total_score": 60
+}

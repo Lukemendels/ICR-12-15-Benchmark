@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202508-1652-001",
+  "retrieved_at": "2026-09-09T10:24:11.168776+00:00",
+  "documents": [
+    {
+      "title": "1652-0046 SF Prog SS (1.27.2026).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=161038202",
+      "path": "icrs/202508-1652-001/raw/supporting-statement-a-1.docx",
+      "sha256": "f0dd02bd0f9515defd47ff8f5a275f25edecaa3c192791d7846aa9b2068e8bb3",
+      "text_chars": 36186
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202508-1652-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202508-1652-001"
+}

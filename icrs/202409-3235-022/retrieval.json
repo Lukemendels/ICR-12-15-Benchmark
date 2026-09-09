@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202409-3235-022",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202409-3235-022"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202409-3235-022",
+  "agency": "SEC",
+  "title": "Form ADV-E, cover sheet for each certificate of accounting of client securities and funds in the custody of an investment adviser",
+  "omb_control_number": "3235-0361",
+  "submission_date": "12/13/2024",
+  "record_source_id": "SRC-0011",
+  "supporting_statement_source_ids": [
+    "SRC-0012"
+  ]
 }

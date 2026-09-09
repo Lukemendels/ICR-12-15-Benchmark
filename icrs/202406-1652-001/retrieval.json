@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202406-1652-001",
+  "retrieved_at": "2026-09-09T10:24:11.166376+00:00",
+  "documents": [
+    {
+      "title": "1652 0003 Aircraft_Op_Sec.-Part 1544 SS (6.26.2024).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143967301",
+      "path": "icrs/202406-1652-001/raw/supporting-statement-a-1.docx",
+      "sha256": "1da7f013321a4c81f6e0b945b6b7941eee6e65df6c6e9c22ceb4a66d57733e69",
+      "text_chars": 45112
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202406-1652-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202406-1652-001"
+}

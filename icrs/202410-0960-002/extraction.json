@@ -1,0 +1,182 @@
+{
+  "icr_id": "202410-0960-002",
+  "omb_control_number": "0960-0144",
+  "agency": "SSA",
+  "title": "Disability Report-Appeal",
+  "submission_date": "10/22/2024",
+  "archetype": "administrative disability-benefit appeal",
+  "complexity": "high",
+  "tsa_relevance": "method transfer",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 1,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0014",
+    "SRC-0013"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 15,
+    "provenance": 8,
+    "segmentation": 15,
+    "labor": 4,
+    "item13": 7,
+    "item14": 4,
+    "item15": 4,
+    "validation": 4,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "Mode counts/times and extra burdens exposed but ROCIS bridge does not reconstruct.",
+    "provenance": "Administrative wait/interview sources identified; wage citations and role mapping garbled.",
+    "segmentation": "Individual/representative and paper/interview/internet paths;wait,travel,learning separately.",
+    "labor": "Beneficiary versus representative value distinction useful; wage derivation unclear.",
+    "item13": "Known other costs zero; opportunity value distinct from out-of-pocket charges.",
+    "item14": "Cost-factor table present but processing hours/rates absent;table/prose totals differ.",
+    "item15": "Old584756,new842365 and ROCIS986339 disclosed but change not fully reconciled.",
+    "validation": "Actual interview and management data;travel assumptions candid and OIRA-directed spatial estimate.",
+    "consistency": "Extra-hour bridge and federal sum disagree; learning burden may overlap described base scope."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Paper",
+        24645,
+        0.8333333333333334,
+        20538
+      ],
+      [
+        "EDCS individuals",
+        159971,
+        0.8333333333333334,
+        133309
+      ],
+      [
+        "EDCS representatives",
+        44192,
+        0.75,
+        33144
+      ],
+      [
+        "Internet individuals",
+        696896,
+        0.55,
+        383293
+      ],
+      [
+        "Internet representatives",
+        583031,
+        0.4666666666666667,
+        272081
+      ],
+      [
+        "Office wait",
+        159971,
+        0.4,
+        null
+      ],
+      [
+        "One-way travel",
+        159971,
+        0.5,
+        79986
+      ],
+      [
+        "Learning",
+        881512,
+        0.08333333333333333,
+        73459
+      ]
+    ],
+    "labor": {
+      "individual_hour_value": 13.31,
+      "representative_hour_value": 58.4,
+      "base_plus_wait_cost": 25826154,
+      "travel_cost": 1064614,
+      "learning_cost": 977739,
+      "total_opportunity_cost": 27868507
+    },
+    "item13": {
+      "annual_cost": 0,
+      "justification": "No known respondent out-of-pocket cost"
+    },
+    "item14": {
+      "design": 2042,
+      "processing": 2997425,
+      "systems": 8413,
+      "table_total": 3007881,
+      "prose_total": 3005838,
+      "grade_proxy": "GS9",
+      "hours_and_rate": "not supplied"
+    },
+    "item15": {
+      "old_base_hours": 584756,
+      "new_base_hours": 842365,
+      "rocis_total": 986339,
+      "classification": "Responses adjustment plus psychological cost;no response-time change claimed"
+    },
+    "assumptions": [
+      "24-minute field-office wait from FY2024 management data.",
+      "30-minute one-way travel OIRA spatial proxy,mode not known.",
+      "5-minute learning assumption for881512individuals."
+    ]
+  },
+  "reconstruction_issues": [
+    "842365+wait+travel+learning does not equal986339.",
+    "Federal line-item sum3007880 differs by1 from table and2042 from prose.",
+    "Learning described within base-time coverage and separately;scope needs clarification."
+  ],
+  "methods_worth_testing": [
+    "Administrative-friction burden components;different opportunity values for claimants and professionals;document uncertainty candidly."
+  ],
+  "checks": [
+    {
+      "label": "Base row hours",
+      "formula": "sum([20538,133309,33144,383293,272081])",
+      "calculated": 842365,
+      "reported": 842365,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0014"
+    },
+    {
+      "label": "Expanded hours",
+      "formula": "842365+159971*24/60+79986+73459",
+      "calculated": 1059798.4,
+      "reported": 986339,
+      "difference": 73459.3999999999,
+      "unit": "hours",
+      "interpretation": "Material unexplained reconciliation difference",
+      "source_id": "SRC-0014"
+    },
+    {
+      "label": "Federal sum",
+      "formula": "2042+2997425+8413",
+      "calculated": 3007880,
+      "reported": 3007881,
+      "difference": -1,
+      "unit": "USD",
+      "interpretation": "One-dollar table residual",
+      "source_id": "SRC-0014"
+    },
+    {
+      "label": "Opportunity dollars",
+      "formula": "25826154+1064614+977739",
+      "calculated": 27868507,
+      "reported": 27868507,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0014"
+    }
+  ],
+  "total_score": 62
+}

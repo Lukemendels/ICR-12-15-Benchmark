@@ -1,0 +1,121 @@
+{
+  "icr_id": "202409-2126-001",
+  "omb_control_number": "2126-0085",
+  "agency": "DOT/FMCSA",
+  "title": "Quantitative Data on Safety Belt Usage of Commercial Motor Vehicle Drivers",
+  "submission_date": "11/22/2024",
+  "archetype": "voluntary research survey",
+  "complexity": "low",
+  "tsa_relevance": "indirect",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 1,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0010",
+    "SRC-0009"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 3,
+    "segmentation": 13,
+    "labor": 2,
+    "item13": 6,
+    "item14": 8,
+    "item15": 7,
+    "validation": 1,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Three stages and ten-minute times permit reconstruction; truncates each stage.",
+    "provenance": "21.92 wage lacks source/vintage/occupation; contract value supplied.",
+    "segmentation": "Pretest,pilot,main survey are distinct and proportionate.",
+    "labor": "Unloaded/loaded status and wage provenance missing.",
+    "item13": "Zero asserted; online collection makes plausible but not explained.",
+    "item14": "Incremental35950.25 task isolated within649910.53 broader contract.",
+    "item15": "New ICR clearly identified; Item15 N/A less useful than explicit zero-to-new bridge.",
+    "validation": "Prospective pretest/pilot not evidence of validated response time yet.",
+    "consistency": "Small hour truncation; annualization of one-time base-year work unclear."
+  },
+  "thoroughness": "brief",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Pretest",
+        10,
+        0.16666666666666666,
+        1.66
+      ],
+      [
+        "Pilot",
+        50,
+        0.16666666666666666,
+        8.33
+      ],
+      [
+        "Main survey",
+        1000,
+        0.16666666666666666,
+        166.66
+      ]
+    ],
+    "labor": {
+      "hourly_rate": 21.92,
+      "source": null,
+      "loaded_status": "not specified",
+      "reported_labor_cost": 3872.17
+    },
+    "item13": {
+      "annual_cost": 0,
+      "justification": "No capital,startup,operating,maintenance costs asserted"
+    },
+    "item14": {
+      "survey_contract_task": 35950.25,
+      "full_contract": 649910.53,
+      "scope": "only contract item007 is collection cost; one base year"
+    },
+    "item15": {
+      "baseline": "new collection",
+      "item15": "Not applicable"
+    },
+    "assumptions": [
+      "Ten minutes for all three phases; timing validation prospective."
+    ]
+  },
+  "reconstruction_issues": [
+    "Sum truncates176.6667 to176.65.",
+    "Wage unsupported and study versus annual period not explicit."
+  ],
+  "methods_worth_testing": [
+    "Incremental task-level contract allocation avoids charging entire outreach program to collection."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "1060*10/60",
+      "calculated": 176.66666666666666,
+      "reported": 176.65,
+      "difference": 0.01666666666665151,
+      "unit": "hours",
+      "interpretation": "Stage truncation residual",
+      "source_id": "SRC-0010"
+    },
+    {
+      "label": "Labor",
+      "formula": "176.65*21.92",
+      "calculated": 3872.1680000000006,
+      "reported": 3872.17,
+      "difference": -0.001999999999497959,
+      "unit": "USD",
+      "interpretation": "Rounded",
+      "source_id": "SRC-0010"
+    }
+  ],
+  "total_score": 60
+}

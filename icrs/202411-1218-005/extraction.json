@@ -1,0 +1,184 @@
+{
+  "icr_id": "202411-1218-005",
+  "omb_control_number": "1218-0265",
+  "agency": "DOL/OSHA",
+  "title": "Occupational Safety and Health Act Variance Regulations (29 CFR 1905.10, 1905.11 and 1905.12)",
+  "submission_date": "01/16/2025",
+  "archetype": "employer variance applications",
+  "complexity": "medium",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 1,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0016",
+    "SRC-0015"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 10,
+    "segmentation": 12,
+    "labor": 5,
+    "item13": 6,
+    "item14": 8,
+    "item15": 8,
+    "validation": 2,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Task tables largely reproduce366 employer and1708 federal hours; site-visit unit denominator unclear.",
+    "provenance": "OEWS2023 SOC and OPM2024 reference; ECEC live URL and rate mismatch.",
+    "segmentation": "Five employer and ten federal activities; uniform HR assistant for technical work weak.",
+    "labor": "Formula wage/(1-benefit share) sound but31.7% prose versus31.2% table and stale34.35 footnote.",
+    "item13": "No extra costs asserted because Item12 covers all; no detailed treatment of copying/mailing.",
+    "item14": "GS13/5 rate and task hours detailed; incremental overhead exclusions justified; no fringe detail.",
+    "item15": "Explicit retain366 with no changes and package comparison permits unchanged bridge.",
+    "validation": "Agency experience and small population stated; no timing evidence.",
+    "consistency": "Fringe and site-visit statements inconsistent despite totals."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Assemble evidence",
+        12,
+        16,
+        192
+      ],
+      [
+        "Notify workers",
+        12,
+        4,
+        48
+      ],
+      [
+        "Complete application",
+        12,
+        8,
+        96
+      ],
+      [
+        "Assemble/submit",
+        12,
+        2,
+        24
+      ],
+      [
+        "Host visits",
+        3,
+        2,
+        6
+      ]
+    ],
+    "labor": {
+      "occupation": "Human Resources Assistant",
+      "soc": "43-4161",
+      "mean_wage": 23.46,
+      "wage_year": 2023,
+      "benefit_share_table": 0.312,
+      "benefit_share_text": 0.317,
+      "loaded_rate": 34.1,
+      "labor_total": 12481
+    },
+    "item13": {
+      "annual_cost": 0,
+      "justification": "Item12 determination said to account for all respondent costs"
+    },
+    "item14": {
+      "grade": "GS13/5",
+      "hourly_rate": 56.16,
+      "hours_by_task": [
+        48,
+        48,
+        60,
+        36,
+        36,
+        960,
+        110,
+        10,
+        200,
+        200
+      ],
+      "total_hours": 1708,
+      "total_cost": 95924,
+      "overhead_exclusion": "Would occur without collection"
+    },
+    "item15": {
+      "old_hours": 366,
+      "new_hours": 366,
+      "classification": "no program changes or adjustments"
+    },
+    "assumptions": [
+      "12 applications/year;83% permanent; equal burdens across four variance types.",
+      "Site visit described once every four years; employer table instead uses0.25*12=3 annual visits."
+    ]
+  },
+  "reconstruction_issues": [
+    "31.7% vs31.2% benefit share.",
+    "Employer3 annual visits versus federal0.25 annual visits.",
+    "Cost-table footnote34.35 vs displayed34.10."
+  ],
+  "methods_worth_testing": [
+    "Explicit incremental federal cost exclusions; task-level federal review."
+  ],
+  "checks": [
+    {
+      "label": "Employer hours",
+      "formula": "192+48+96+24+6",
+      "calculated": 366,
+      "reported": 366,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0016"
+    },
+    {
+      "label": "Federal hours",
+      "formula": "sum([48,48,60,36,36,960,110,10,200,200])",
+      "calculated": 1708,
+      "reported": 1708,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0016"
+    },
+    {
+      "label": "Federal cost",
+      "formula": "1708*56.16",
+      "calculated": 95921.28,
+      "reported": 95924,
+      "difference": -2.720000000001164,
+      "unit": "USD",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0016"
+    },
+    {
+      "label": "Table loading",
+      "formula": "23.46/(1-.312)",
+      "calculated": 34.09883720930233,
+      "reported": 34.1,
+      "difference": -0.001162790697669891,
+      "unit": "USD/hour",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0016"
+    },
+    {
+      "label": "Text loading",
+      "formula": "23.46/(1-.317)",
+      "calculated": 34.348462664714496,
+      "reported": 34.1,
+      "difference": 0.24846266471449496,
+      "unit": "USD/hour",
+      "interpretation": "Different from table",
+      "source_id": "SRC-0016"
+    }
+  ],
+  "total_score": 69
+}

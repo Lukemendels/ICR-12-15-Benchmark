@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202602-0607-001",
+  "retrieved_at": "2026-09-09T10:24:34.868357+00:00",
+  "documents": [
+    {
+      "title": "OMB Supporting Stmt Part A_OMB2.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=165963603",
+      "path": "icrs/202602-0607-001/raw/supporting-statement-a-1.docx",
+      "sha256": "67ef9437b2b70464c5b7cd22f07db6e06d516f7fe50941826e94eda44bf99999",
+      "text_chars": 36097
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202602-0607-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202602-0607-001"
+}

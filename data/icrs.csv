@@ -1,1 +1,11 @@
-icr_id,omb_control_number,agency,title,submission_date,document_date,archetype,complexity,tsa_relevance,status,source_ids
+icr_id,omb_control_number,agency,title,submission_date,archetype,complexity,tsa_relevance,review_status,source_ids
+202402-1652-002,1652-0040,DHS/TSA,Air Cargo Security Requirements,03/27/2024,regulated-industry security reporting and recordkeeping,high,direct,REVIEWED_PROVISIONAL,SRC-0004;SRC-0003
+202403-0910-005,0910-0879,HHS/FDA,Premarket Tobacco Product Applications and Recordkeeping Requirements,11/27/2024,complex premarket regulated-industry applications,high,direct,REVIEWED_PROVISIONAL,SRC-0006;SRC-0005
+202404-1220-001,1220-0045,DOL/BLS,Survey of Occupational Injuries and Illnesses,07/01/2024,statistical employer survey and recordkeeping,high,method transfer,REVIEWED_PROVISIONAL,SRC-0008;SRC-0007
+202409-2126-001,2126-0085,DOT/FMCSA,Quantitative Data on Safety Belt Usage of Commercial Motor Vehicle Drivers,11/22/2024,voluntary research survey,low,indirect,REVIEWED_PROVISIONAL,SRC-0010;SRC-0009
+202409-3235-022,3235-0361,SEC,"Form ADV-E, cover sheet for each certificate of accounting of client securities and funds in the custody of an investment adviser",12/13/2024,regulated financial cover-sheet reporting,low,adjacent,REVIEWED_PROVISIONAL,SRC-0012;SRC-0011
+202410-0960-002,0960-0144,SSA,Disability Report-Appeal,10/22/2024,administrative disability-benefit appeal,high,method transfer,REVIEWED_PROVISIONAL,SRC-0014;SRC-0013
+202411-1218-005,1218-0265,DOL/OSHA,"Occupational Safety and Health Act Variance Regulations (29 CFR 1905.10, 1905.11 and 1905.12)",01/16/2025,employer variance applications,medium,direct,REVIEWED_PROVISIONAL,SRC-0016;SRC-0015
+202411-1652-007,1652-0039,DHS/TSA,TSA Claims Application,12/17/2024,individual compensation claim,low,adjacent,REVIEWED_PROVISIONAL,SRC-0018;SRC-0017
+202502-2040-002,2040-0305,EPA/OW,2022 National Pollutant Discharge Elimination System General Permit for Discharges from Construction Activities (Renewal),02/28/2025,construction environmental permit,high,direct,REVIEWED_PROVISIONAL,SRC-0020;SRC-0019
+202606-1652-001,1652-0074,DHS/TSA,Cybersecurity Measures for Surface Modes,09/01/2026,regulated surface-transport cybersecurity,high,direct,REVIEWED_PROVISIONAL,SRC-0022;SRC-0021

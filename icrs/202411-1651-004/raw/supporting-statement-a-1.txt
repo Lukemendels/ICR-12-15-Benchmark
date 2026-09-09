@@ -1,0 +1,248 @@
+PART word/document.xml
+ Supporting Statement
+  Global Interoperability Standard (GIS)  
+1651-0NEW
+
+A.      Justification
+
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.
+
+
+Currently, for pipelines, it takes days for a batch of crude oil to cross the United States border from Canada and eventually travel to the entry point within the United States, leaving no easily identifiable starting point for monitoring timely entry and entry summary filings. Moreover, Canadian crude oil is actively traded as a commodity while in transit though the North American pipeline network, so ownership (and thus the right to make entry) may not be known to CBP until after the commodity crosses the U.S. border. 
+
+Further, the need for confidentiality of transactional data among private parties, means there are limitations on CBP’s, and the trade’s, visibility into product origin traceability through the supply chain to establish Free Trade Agreement (FTA) eligibility. The current absence of a technology capable of tracking changes in ownership and destination of pipeline-borne goods, from wellhead to refinery, has resulted in CBP creating a patchwork of local policies for data collection from carriers and importers over the course of five decades. 
+
+Under the auspices of the Department of Homeland Security (DHS) Science and Technology Directorate’s (S&T) Silicon Valley Innovation Program (SVIP), with the endorsement of the Commercial Customs Operations Advisory Committee (COAC), and at the suggestion of the COAC's Pipeline Working Group (PWG), industry and CBP Subject Matter Experts conducted three and a half years of joint development with a cohort of SVIP software companies. They determined that entry summary data derived from private party transactions using a common platform of emergent technologies, which passes this data to CBP using the same platform, represents a viable means of regulating continuous flow commodities on a pipeline network.
+
+The Neoflow platform will consist of decentralized Identifiers (DIDs) and verifiable credentials (VCs), secured, exchanged and rendered to CBP’s Automated Commercial Environment (ACE) in accordance with Global Interoperability Standards (GIS). In CBP’s first operational use of GIS data, an SVIP cohort company will identify legitimate products and associated companies to build a transparent supply chain for pipeline-borne crude oil imported from Canada. This will enable recordation of bi-lateral transaction data at each step in a supply chain, secure it from disclosure to unauthorized parties, allow dynamic updates of ownership and destination information, and render these data to CBP in real time while creating an immutable chain of custody from wellhead to refinery. In addition to potentially eliminating all port level paper processes, adoption of these technologies could create a revolutionary automation environment in which pre-arrival data collection, in-bond tracking, and Free Trade Agreement compliance traceability – the business process goals of the PWG – are achieved as a matter of course. 
+
+Therefore, the purpose of the requested pilot is to test the usefulness of supplying GIS data to ACE technology with a view toward resolving existing and anticipated issues, and by eventually, if the pilot is successful, changing existing policy and regulations to implement the new policies and regulations. 
+
+This collection of information is authorized by 19 USC 1411 National Customs Automation Program.
+
+
+2.Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+CBP intends to start a new pipeline pilot to test a new method of data collection for pipeline processes relevant to the pre-arrival, importation, in-bond transportation, entry and entry summary of imported crude oil from Canada. CBP has been working with DHS S&T to develop global interoperability standards and modernize its systems. The pipeline test will potentially set the future course for modernization and streamlining current business practices by building transparent supply chains, using digital twins, which is a representation of events and transactions taking place in the physical world (e.g., the handing off of a product from one entity to another), additionally, transparent supply chains make use of traditional as well as non-traditional actors (e.g., producers, shippers, pipeline operators and in-line sellers/purchasers) to answer these questions:  : Who is in control? What are the goods? Where is the product geographically located? 
+
+. 
+In this test, CBP will measure the effectiveness of receiving pre-arrival data regarding events and transactions in the pipeline oil supply chain, e.g., transfers of ownership, in near real time and matching the newly received data to its legacy data in the Automated Commercial Environment (ACE – CBP’s current trade data system of record). This test will inform CBP on how well it can facilitate the importation of legitimate products by legitimate businesses, create a more efficient importation and entry process, and develop a more secure supply chain, by supplying ACE with GIS data. The test will be limited to pipeline oil products coming from Canada but may be expanded in the future to other commodities upon successful implementation of the test. 
+
+The tables below list the data points currently required to be submitted to CBP ports in paper/near paper (e.g. email attachment) format, which the proposed technology will replace.  
+
+Where there is a full description in the right column, the data elements map, one-to-one, to existing ACE requirements for other modes of transportation.  The word “Aggregation” (in the shipper tables) indicates that the technology compiles data for submission to CBP in ABI’s expected format.  
+
+Where the term “Free Text #” appears in the left most column, the data are not discrete ACE data elements but are consistently provided to CBP as part of the port control process.  “Free Text 1” references a heat value used to derive quantity for Natural Gas, which is a potential follow-on project to crude oil using similar technology.  “Free Text 2” combines an industry control number (Batch) and proof of deliver (Delivery ticket).  “Free Text 3” describes the trade name and density of crude oil.
+
+Shipper Pre-Arrival Information 
+ |   |   |  | 
+ACE CATAIR Requirements  | Description
+ENTRY SUMMARY HEADER LEVEL INFORMATION
+District/Port of Entry | Port where merchandise is entered (under entry or immediate delivery permit)
+Mode of Transportation (MOT) Code | Mode by  which me r chandise entered US port or arrival from the last foreign county
+Importer of Record Number | Party liable for payment of duties and meeting import requirements
+Consignee Number | Party on whose account merchandise is shipped
+Estimated Date of Export | Scheduled Injection Date
+Carrier Code | Entity responsible for transporting merchandise from foreign port of lading to first US port of unlading  (SCAC)
+Estimated Date of Entry | Date merchandise arrived or expected to arrive at  port of entry
+Bill of Lading | Free Text field to record batch # 
+
+ENTRY SUMMARY LINE LEVEL INFORMATION
+HTS Number | Numeric code  –  10 digits
+Country of Export Code | Country from which article was shipped to US
+Foreign Port of Lading Code | Foreign port where merchandise laden
+Quantity  | Net Quantity expressed in HTSUS unit of measurement
+
+
+ 
+Shipper Post-Arrival Information for Filing Entry
+  |  
+ACE CATAIR Requirements  | Description
+ENTRY SUMMARY HEADER LEVEL INFORMATION
+Entry Filer  Code | 3 - character filer code
+Entry Number | Unique 7-digit identifying number assigned by filer plus 1 check digit
+District/Port of Entry | Port where merchandise is entered (under entry or immediate delivery permit)
+Entry Type Code | Code identifying type of entry being submitted
+Mode of Transportation (MOT) Code | Mode by which merchandise entered US port or arrival from the last foreign county
+Bond Type Code | Indication of importer bond type
+Importer of Record Number | Party liable for payment of duties and meeting import requirements
+Importer of Record Name/Address | N ame and address of importer number above
+Consignee Number | Party on whose account merchandise is shipped
+Consignee Name/Address | N ame and address of  consignee number above
+Date of Importation | Date me r chandise arrived in port of arrival
+Carrier Code | Entity responsible for transporting merchandise from foreign port of lading to first US port of unlading
+Estimated Date of Arrival | Date merchandise arrived or expected to arrive at port of entry
+Bill of Lading | Free Text field to record batch # and ticket # for oil
+FIRMS Code | K nown location of merchandise at time of filing
+ENTRY SUMMARY LINE LEVEL INFORMATION
+Line Item  Identifier | Identifi c ation of specific line within entry summary
+HTS Number | Numeric code - 10 digits
+Country of Origin Code | C ountry from which article originated
+Country of Export Code | Country from which article was shipped to US
+Date of Export | Date  the vessel departed from exporting county
+Foreign Port of Lading Code | Foreign port where merchandise laden
+Quantity  | Net Quantity expressed in HTSUS unit of measurement
+Free Text 1 | R eserved for  Natural Gas  Heat Content
+Surety Company Code | identification of surety underwriting bond
+Gross Shipping Weight | Gross weight in Kilograms
+Electronic Signature | Filers Electronic Signature
+In-Bond/In-Transit date | Date the in-bond movement referenced in the in - bond/in - transit numbers took place
+
+
+Pipeline In-Bond Pre-Arrival Information 
+  |   |   |   |  
+Consolidated Volumetric Filing for each Delivery Site in each Port of Entry to open in-bond filing by location
+  |   |   |  | 
+ACE CATAIR Requirements  | Description
+In-Bond Entry Type | 61 = Immediate Transport (IT) (moving into US without entry at border)
+ | 62 - Transportation and Exportation (T&E) (in-transit CA-US-CA movements)
+In-Bond Number |   CBP Control Number
+Carrier Code | Carrier SCAC code
+In-bond Carrier ID | Carrier Bond  Number
+Mode of Transport Code | Default to 70
+Country Code of Importing Carrier |  CA
+Importing Conveyance Name |  Pipeline Name
+Foreign Port of Lading |  Injection Site
+US Port of Destination | 61 =  P ort of termination
+Foreign Port of Destination | 62 -  P ort of exportation
+Estimated Date of Arrival | Date merchandise arrived or expected to arrive at port of entry
+In - bond Quantity | Aggregation
+Manifest Quantity | Aggregation
+Consignee | Aggregation (Count of Consignees)
+
+
+Pipeline In-Bond P ost -Arrival Information 
+  |   |   |   |  
+Detailed Delivery Filing to close In-bond filings by location
+  |   |   |  | 
+ACE CATAIR Requirements  | Description
+In-Bond Entry Type | 61 = Immediate Transport (IT) (moving into US without entry at border)
+ | 62 -  Transportation and Exportation (T&E) (in-transit CA-US-CA movements)
+In-Bond Number | CBP Control Number
+Carrier Code | Carrier SCAC code
+In-bond Carrier ID | Carrier Bond Number
+Mode of Transport Code | Default to 70
+Country Code of Importing Carrier | CA
+Importing Conveyance Name | Pipeline Name
+In - bond Quantity | Total Delivered volume for month
+Per Batch information to confirm delivery of volume
+Foreign Port of Lading | Foreign port where merchandise laden
+US Port of Destination | 61 = port of  termination
+Foreign Port of Destination | 62 - port of exportation
+Date of Arrival | Delivery Date
+Quantity | Delivered Volume (net)
+Consignee | Consignee
+Free Text 2 | Batch # / Ticket Number (Crude)
+Free Text 3 | Trade Name and  Density (Crude)
+Date of Export | Injection Date
+
+
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g. permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.
+
+
+Global Interoperability Standard (GIS) data acquisition is world wide web-enabled automation.  CBP acquisition of data using GIS enforces a de facto requirement that all members of a supply chain concur in the accuracy of the merchandise description provided to the agency no matter how many individual, bilateral transactions constitute the supply chain.  No member of a GIS-enabled supply chain may alter the description of merchandise in a bilateral transaction by accident or design without all members of the supply chain (including CBP) becoming aware of the modification.  Unplanned, legitimate modifications to a supply chain (such as delivery location) are also incorporated with the history of the supply chain as they occur.  Thus, GIS data acquisition affords unprecedented data quality for advanced targeting and expedited release of legitimate trade.     
+
+
+Usability Testing:
+From August 22, 2023, through August 30, 2023, CBP conducted an initial test of the global interoperability standards, allowing data to be submitted to CBP in the form of verifiable credentials. Utilizing global interoperability standards, the service providers (Mesur.io, Transmute, and Neoflow) converted standard data into credentials and sent the credentials to CBP. The test collected data much earlier in the importation process and clarified the roles of participants by co-mingling non-traditional entities with traditional entities. 
+
+Twenty-three companies participated from the steel and oil industries, representing manufacturers, carriers, brokers, shippers, and pipeline operators. The Canadian companies that participated consisted of the top 95% of oil producing companies in the world. Additionally, Mexico’s top steel companies participated, as did one distributor from the largest steel manufacturing company in the world. 
+
+The tests were a technical success. CBP received over 1,000 VCs and approximately 300 VPs in the mock test environment (one VP can have multiple VCs within it). Outcomes of the test included: validation that CBP can receive VPs; validation that CBP can display information in the ACE test environment for each VC that looks as expected and was correctly mapped to the proper data element; and validation that end users could assess how global interoperability standards could improve supply chain visibility. 
+
+Nine VCs were tested: Mill Test Report, Intent to Import, Invoice (proforma, commercial, invoice), Delivery Ticket, Delivery Schedule, Multi-Modal Bill of Lading, Purchase Order, Entry Number, CTPAT (no screens)
+
+
+       
+4.Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purposes described in Item 2 above.  
+
+This information is not duplicated electronically in any form.  It replaces stand alone, port-specific data submitted to CBP via paper or near paper processes in the pre-arrival environment.  The data elements are unchanged.  The data quality is dramatically improved. The pre-arrival data represent a hybrid of bill, manifest, and entry data, which inform the cargo control and release decision, and are currently collected on paper. As such, while only the entry number is to be ported directly from the new technology to ACE, the cargo control function makes it most analogous to entry.
+
+
+
+5.If the collection of information impacts small businesses or other small entities describe any methods used to minimize burden.  
+
+This information collection does not have an impact on small businesses or other small entities.
+
+6.Describe consequences to Federal program or policy activities if the                         collection is not conducted or is conducted less frequently.
+
+Not conducting the test/collecting this information will leave CBP in a paper process where CBP is unable to review documents prior to arrival.
+
+Explain any special circumstances.
+
+This information is collected in a manner consistent with the guidelines of 5 CFR 1320.5(d)(2).
+
+8.If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d), soliciting comments on the information collection prior to submission to OMB.     Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments. Specifically address comments received on cost and hour burden.
+ 
+Public comments were solicited through two Federal Register notices published on September 03, 2024 (89 FR 71381) on which one request for a meeting was received, the summary of that meeting is provided, and a 30-day notice on January 14, 2025 (90 FR 3233) on which one comment of support from Tradeverifyd was received.   
+
+9.Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+There is no offer of a monetary or material value for this information collection.
+
+10.Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+The program is presently working on drafting a Privacy Threshold Analysis (PTA) to cover this project. The PTA name is CBP National Customs Automation Program (NCAP) Limited Production Test of the Global Interoperability Standards for Steel and Pipeline Oil (Phase 5 of the SVIP). 
+
+Privacy Impact Assessment (PIA) coverage is provided by 
+DHS/CBP/PIA-003 Automated Commercial Environment (ACE). 
+CBP will update this PIA series to cover the new method of data collection from SaaS vendors (Transmute, Neoflow, other SaaS Vendors (e.g., Measur.IO, etc.)) and other traditional or non-traditional actors/companies.
+
+System of Record Notices (SORN) coverage is provided by,
+ DHS/CBP-001 Import Information System 
+ DHS/CBP-020 Export Information System
+
+11.Provide additional justification for any questions of a sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.  This justification should include the reasons why the agency considers the questions necessary, the specific uses to be made of the information, the explanation to be given to persons from whom the information is requested, and any steps to be taken to obtain their consent.
+
+There are no questions of a sensitive nature.
+
+12. Provide estimates of the hour burden of the collection of information.
+
+INFORMATION COLLECTION  | TOTAL ANNUAL BURDEN HOURS | NO. OF RESPONDENTS | NO. OF RESPONSES      PER  RESPONDENT | TOTAL RESPONSES | TIME PER RESPONSE
+Non-standard   Pdf |     1 ,152 | 2 4 | 12 | 288 | 4  Hours
+
+Public Cost
+
+The estimated cost to the respondents is $41,000.  This is based on the estimated burden hours (1,152) multiplied by the average loaded hourly wage rate for importers ($35.59).  CBP calculated this loaded wage rate by first multiplying the Bureau of Labor Statistics’ (BLS) 2023 median hourly wage rate for Cargo and Freight Agents ($23.24), which CBP assumes best represents the wage for importers, by the ratio of BLS’ Q4 2023 total compensation to wages and salaries for Office and Administrative Support occupations (1.4774), the assumed occupational group for importers, to account for non-salary employee benefits.  CBP assumes an annual growth rate of 3.64% based on the prior year's change in the implicit price deflator, published by the Bureau of Economic Analysis.
+
+
+13.Provide an estimate of the total annual cost burden to respondents or record keepers resulting from the collection of information.
+
+The service provider fee schedule associated with use of the new technology has yet to be determined.  However, based on extrapolations from 13 Canadian exporters and pipeline operators who participated in the development of the technology, the Selling, General and Administrative (SG&A) expenses incurred by the industry to maintain the paper-based data exchange/CBP release process for pipelines are approximately $1 Billion per year for the industry.  Duty overpayment, owing to the inability to support otherwise legitimate USMCA claims, is estimated at $70 - $100 Million per year.  These savings will significantly exceed the fees charged by the service provider, resulting in a negative net cost to the public.
+
+
+    
+14. Provide estimates of annualized cost to the Federal Government.  Also provide a description of the method used to estimate cost, which should include quantification of hours, operational expenses (such as equipment overhead, printing, and support staff), and any other expense that would not have been incurred without this collection of information.
+
+There is a low cost to the Federal Government associated with collection of this information using the new technology, which is self-validating and renders routine, human oversight unnecessary.  There are savings in man hours associated with potential retirement of the associated paper/near-paper process currently.
+
+The estimated annual cost to the Federal Government associated with the review of this information collection is $702.  This is based on the number of responses that must be reviewed (288) multiplied by the time burden to review and process each response (2 hours) = 10 hours multiplied by the average hourly loaded rate for a CBP Officer ($70.19) = $702.
+
+15.Explain the reasons for any program changes or adjustments reported in Items 12 or 13.  
+
+This is a new collection of information.
+
+16.For collection of information whose results will be published, outline plans for tabulation, and publication.
+
+This information collection will not be published for statistical purposes.
+
+17.     If seeking approval to not display the expiration date, explain the reasons that displaying the expiration date would be inappropriate.
+
+CBP will display the following statement with appropriate expiration date to all private users of the software: 
+
+Paperwork Reduction Act Statement: An agency may not conduct or sponsor an information collection and a person is not required to respond to this information unless it displays a current valid OMB control number and an expiration date. The control number for this collection is 1651-0NEW. The estimated average time to complete this application is 4 minutes. If you have any comments regarding the burden estimate you can write to U.S. Customs and Border Protection, Office of Regulations and Rulings, 799 9th Street, NW., Washington DC 20229.
+
+  18.“Certification for Paperwork Reduction Act Submissions.” 
+                                                              
+CBP does not request an exception to the certification of this information collection.
+
+B. Collection of Information Employing Statistical Methods
+
+       No statistical methods were employed.
+PART word/footnotes.xml
+
+
+ Source of median wage rate: U.S. Bureau of Labor Statistics.  Occupational Employment and Wage Statistics, “May 2023 National Occupational Employment and Wage Estimates United States.” Updated April 3, 2024.  Available at https://www.bls.gov/oes/2023/may/oes_nat.htm.  Accessed June 4, 2024.  The total compensation to wages and salaries ratio is equal to the total compensation cost per hour worked for Office and Administrative Support occupations ($33.98) divided by the wages and salaries cost per hour worked for the same occupation category ($23.00).  See “Table 2. Employer Costs for Employee Compensation for civilian workers by occupational and industry group.” Bureau of Labor Statistics, “Employer Costs for Employee Compensation – December 2023.” Released March 13, 2024.  Available at https://www.bls.gov/news.release/archives/ecec_03132024.pdf.  Accessed June 4, 2024.
+ To adjust to 2024 dollars, multiply by the 2022-2023 percent change in the Bureau of Economic Analysis's Implicit Price Deflators for Gross Domestic Product (122.273/117.973-1).  See “Table 1.1.9. Implicit Price Deflators for Gross Domestic Product,” Line 1 Gross Domestic Product, annual.  Bureau of Economic Analysis.  Updated May 30, 2024.  Available at https://apps.bea.gov/iTable/?reqid=19&step=2&isuri=1&categories=survey#eyJhcHBpZCI6MTksInN0ZXBzIjpbMSwyLDMsM10sImRhdGEiOltbImNhdGVnb3JpZXMiLCJTdXJ2ZXkiXSxbIk5JUEFfVGFibGVfTGlzdCIsIjEzIl0sWyJGaXJzdF9ZZWFyIiwiMjAxNiJdLFsiTGFzdF9ZZWFyIiwiMjAyNCJdLFsiU2NhbGUiLCIwIl0sWyJTZXJpZXMiLCJBIl1dfQ==.  Accessed June 4, 2024.
+ CBP bases this wage on the FY 2024 salary and benefits of the national average of CBP Officer Positions, which is equal to a GS-11, Step 10.  Source: Email correspondence with CBP’s Office of Finance on June 17, 2024.  
