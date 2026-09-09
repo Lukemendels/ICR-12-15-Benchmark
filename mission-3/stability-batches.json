@@ -1,0 +1,22 @@
+[
+  {
+    "batch": "F",
+    "comparison_ids": [
+      "CMP-29",
+      "CMP-30"
+    ],
+    "outcome": "STABLE",
+    "no_material_change": {
+      "graph_schema": true,
+      "activity_taxonomy": true,
+      "assumption_taxonomy": true,
+      "similarity_method": true,
+      "comparison_rules": true,
+      "classification_framework": true,
+      "major_findings": true
+    },
+    "major_findings_blob": "365fd63f0bb05d118a337b9d8c079fdf26f50c73",
+    "evidence": "Four complete archived task paragraphs checked against normalized records. The DASSP passenger-field wording difference limits comparability to the retained one-hour coefficient; claim-filing duration matches despite count changes.",
+    "new_extraction": false
+  }
+]
