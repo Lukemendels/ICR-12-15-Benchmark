@@ -1,0 +1,534 @@
+{
+  "source_original": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Size groupings",
+          "Control",
+          "Treatment",
+          "Total"
+        ],
+        [
+          "Small establishments",
+          "1,350",
+          "1,350",
+          "2,700"
+        ],
+        [
+          "Large Establishments",
+          "1,350",
+          "1,350",
+          "2,700"
+        ],
+        [
+          "Total",
+          "2,700",
+          "2,700",
+          "5,400"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Date",
+          "Activity"
+        ],
+        [
+          "January 2027",
+          "Begin work to implement SPD-15 changes to SOII forms, processes, and IT systems"
+        ],
+        [
+          "January 2028",
+          "Collect reference year (RY) 2027 data reflecting updated race/ethnicity"
+        ],
+        [
+          "January 2029",
+          "Collect RY 2028 data reflecting updated race/ethnicity"
+        ],
+        [
+          "November 2029",
+          "Publish RY 2028-29 biennial case and demographic SOII estimates for first time using updated race/ethnicity"
+        ]
+      ]
+    },
+    {
+      "table": 3,
+      "rows": [
+        [
+          "Sector",
+          "Sample units",
+          "AverageBurden(minutes)",
+          "Hours"
+        ],
+        [
+          "Private",
+          "207,300",
+          "10",
+          "34,550"
+        ],
+        [
+          "Public (mandatory)",
+          "15,100",
+          "10",
+          "2,517 "
+        ],
+        [
+          "Public (voluntary)",
+          "5,800",
+          "10",
+          "967"
+        ],
+        [
+          "Total",
+          "228,200",
+          "10",
+          "38,034"
+        ]
+      ]
+    },
+    {
+      "table": 4,
+      "rows": [
+        [
+          "Sector",
+          "Days away from work cases and days of job transfer and restriction cases",
+          "AverageBurden(minutes)",
+          "Hours"
+        ],
+        [
+          "Private",
+          "255,000",
+          "15",
+          "63,750"
+        ],
+        [
+          "Public (mandatory)",
+          " 37,500",
+          "15",
+          "9,375"
+        ],
+        [
+          "Public (voluntary)",
+          "  7,500",
+          "15",
+          "1,875"
+        ],
+        [
+          "Total",
+          "300,000",
+          "15",
+          "75,000"
+        ]
+      ]
+    },
+    {
+      "table": 5,
+      "rows": [
+        [
+          "Sector",
+          "Sample units(treatment groups)",
+          "Average Burden(Minutes)",
+          "Hours"
+        ],
+        [
+          "Private, small establishments",
+          "1,350",
+          "6",
+          "135"
+        ],
+        [
+          "Private, large establishments",
+          "1,350",
+          "6",
+          "135"
+        ],
+        [
+          "Total",
+          "2,700",
+          "6",
+          "270"
+        ]
+      ]
+    },
+    {
+      "table": 6,
+      "rows": [
+        [
+          "Sector",
+          "Hours"
+        ],
+        [
+          "Private",
+          "98,570 (34,550 + 63,750 +270)"
+        ],
+        [
+          "Public (mandatory)",
+          "11,892 (2,517 + 9,375)"
+        ],
+        [
+          "Public (voluntary)",
+          "2,842 (967 + 1,875)"
+        ],
+        [
+          "Total",
+          "113,304 (38,034 + 75,000 +270)"
+        ]
+      ]
+    },
+    {
+      "table": 7,
+      "rows": [
+        [
+          "Sector",
+          "Sample units",
+          "AverageBurden(minutes)",
+          "Hours"
+        ],
+        [
+          "Private",
+          "80,000",
+          "58",
+          "77,333"
+        ],
+        [
+          "Public (voluntary)",
+          "5,800",
+          "58",
+          "5,607"
+        ],
+        [
+          "Total",
+          "85,800",
+          "58",
+          "82,940"
+        ]
+      ]
+    },
+    {
+      "table": 8,
+      "rows": [
+        [
+          "Sector",
+          "Days away from work cases and days of job transfer or restriction cases",
+          "AverageBurden(minutes)",
+          "Log hours",
+          "AverageBurden(minutes)",
+          "Incident report hours"
+        ],
+        [
+          "Private",
+          "25,100",
+          "14",
+          "5,857",
+          "22",
+          "9,203"
+        ],
+        [
+          "Public (voluntary)",
+          "6,000",
+          "14",
+          "1,400",
+          "22",
+          "2,200"
+        ],
+        [
+          "Total",
+          "31,100",
+          "14",
+          "7,257",
+          "22",
+          "11,403"
+        ]
+      ]
+    },
+    {
+      "table": 9,
+      "rows": [
+        [
+          "Sector",
+          "Hours"
+        ],
+        [
+          "Private",
+          "92,393 (77,333 + 5,857 + 9,203)"
+        ],
+        [
+          "Public (voluntary)",
+          "9,207 (5,607 + 1,400 + 2,200)"
+        ],
+        [
+          "Total",
+          "101,600"
+        ]
+      ]
+    },
+    {
+      "table": 10,
+      "rows": [
+        [
+          "Sector",
+          "Sample units",
+          "Hours"
+        ],
+        [
+          "Private",
+          "207,300",
+          "190,963 (34,550 + 63,750 + 270 + 77,333 + 5,857 + 9,203)"
+        ],
+        [
+          "Public (mandatory)",
+          "15,100",
+          "11,892 (2,517 + 9,375)"
+        ],
+        [
+          "Public (voluntary)",
+          "5,800",
+          "12,049 (967 + 1,875 + 5,607 + 1,400+ 2,200)"
+        ],
+        [
+          "Total",
+          "228,200",
+          "214,904"
+        ]
+      ]
+    },
+    {
+      "table": 11,
+      "rows": [
+        [
+          "Sector",
+          "Sample units",
+          "Hours"
+        ],
+        [
+          "Private",
+          "207,300",
+          "190,693 (34,550 + 63,750 + 77,333 + 5,857 + 9,203)"
+        ],
+        [
+          "Public (mandatory)",
+          "15,100",
+          "11,892 (2,517 + 9,375)"
+        ],
+        [
+          "Public (voluntary)",
+          "5,800",
+          "12,049 (967 + 1,875 + 5,607 + 1,400+ 2,200)"
+        ],
+        [
+          "Total",
+          "228,200",
+          "214,634"
+        ]
+      ]
+    },
+    {
+      "table": 12,
+      "rows": [
+        [
+          "SurveyYear",
+          "Sector",
+          "No. of Respondents",
+          "ReportingBurden(Hours)",
+          "RecordingBurden(Hours)",
+          "Total Burden(Hours)",
+          "Average Burden (Hours)",
+          "Hourly Wage Rate",
+          "Total Burden Cost"
+        ],
+        [
+          "2024",
+          "Private",
+          "207,300",
+          "98,570",
+          "92,393",
+          "190,963",
+          "0.921",
+          "$32.91",
+          " $ 6,284,592 "
+        ],
+        [
+          "",
+          "Public (m)",
+          "15,100",
+          "11,892",
+          "  --",
+          "11,892",
+          "0.788",
+          "$32.91",
+          " $    391,366 "
+        ],
+        [
+          "",
+          "Public (v)",
+          "5,800",
+          " 2,842",
+          "9,207",
+          "12,049",
+          "2.077",
+          "$32.91",
+          " $    396,533    "
+        ],
+        [
+          "",
+          "Total",
+          "228,200",
+          "113,304",
+          " 101,600",
+          "214,904",
+          "0.942",
+          "$32.91",
+          " $ 7,072,491 "
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2025",
+          "Private",
+          "207,300",
+          "98,300",
+          "92,393",
+          "190,693",
+          "0.920",
+          "$32.91",
+          " $ 6,275,707 "
+        ],
+        [
+          "",
+          "Public (m)",
+          "15,100",
+          "11,892",
+          "  --",
+          "11,892",
+          "0.788",
+          "$32.91",
+          " $    391,366 "
+        ],
+        [
+          "",
+          "Public (v)",
+          "5,800",
+          " 2,842",
+          "9,207",
+          "12,049",
+          "2.077",
+          "$32.91",
+          " $    396,533    "
+        ],
+        [
+          "",
+          "Total",
+          "228,200",
+          "113,034",
+          " 101,600",
+          "214,634",
+          "0.941",
+          "$32.91",
+          " $ 7,063,605 "
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          " $                  "
+        ],
+        [
+          "2026",
+          "Private",
+          "207,300",
+          "98,300",
+          "92,393",
+          "190,693",
+          "0.920",
+          "$32.91",
+          " $ 6,275,707 "
+        ],
+        [
+          "",
+          "Public (m)",
+          "15,100",
+          "11,892",
+          "  --",
+          "11,892",
+          "0.788",
+          "$32.91",
+          " $    391,366 "
+        ],
+        [
+          "",
+          "Public (v)",
+          "5,800",
+          " 2,842",
+          "9,207",
+          "12,049",
+          "2.077",
+          "$32.91",
+          " $    396,533    "
+        ],
+        [
+          "",
+          "Total",
+          "228,200",
+          "113,034",
+          " 101,600",
+          "214,634",
+          "0.941",
+          "$32.91",
+          " $ 7,063,605 "
+        ]
+      ]
+    },
+    {
+      "table": 13,
+      "rows": [
+        [
+          "December",
+          "Pre-notification mailing"
+        ],
+        [
+          "January",
+          "Initial mailing of BLS No. 9300 forms to sample units"
+        ],
+        [
+          "March",
+          "Second request mailing to nonrespondents"
+        ],
+        [
+          "April",
+          "Third request mailing to nonrespondents"
+        ],
+        [
+          "May",
+          "Telephone, mail, or email follow-up of key nonrespondents "
+        ],
+        [
+          "July",
+          "Active collection of data closed"
+        ],
+        [
+          "November",
+          "SOII news release highlighting industry rates and counts (characteristics and circumstances of workplace injuries and illnesses will be a biennial release)."
+        ]
+      ]
+    }
+  ]
+}

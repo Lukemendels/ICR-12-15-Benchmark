@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202511-1545-005",
+  "retrieved_at": "2026-09-09T10:46:50.161923+00:00",
+  "documents": [
+    {
+      "title": "2025 Supporting Statement 1545-0123.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=163490901",
+      "path": "icrs/202511-1545-005/raw/supporting-statement-a-1.docx",
+      "sha256": "8a83b20d19edca27731c8f372140f1a38e31f38abe67ed433c6765af64f81907",
+      "text_chars": 66144
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202511-1545-005",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202511-1545-005"
+}

@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202310-0607-003",
+  "retrieved_at": "2026-09-09T10:46:50.163133+00:00",
+  "documents": [
+    {
+      "title": "AIES Supporting Statement A_OMB_Final.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=136555603",
+      "path": "icrs/202310-0607-003/raw/supporting-statement-a-1.docx",
+      "sha256": "441208be6a82a487f1ceed7830448dd13c11ad19e883f030fc8000d7f4ff1da8",
+      "text_chars": 36200
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202310-0607-003",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202310-0607-003"
+}

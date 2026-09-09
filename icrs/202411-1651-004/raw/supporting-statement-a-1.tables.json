@@ -1,0 +1,428 @@
+{
+  "source_original": "icrs/202411-1651-004/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Shipper Pre-Arrival Information "
+        ],
+        [
+          "",
+          "\u00a0",
+          "\u00a0",
+          "",
+          ""
+        ],
+        [
+          "ACE CATAIR Requirements ",
+          "Description"
+        ],
+        [
+          "ENTRY SUMMARY HEADER LEVEL INFORMATION"
+        ],
+        [
+          "District/Port of Entry",
+          "Port where merchandise is entered (under entry or immediate delivery permit)"
+        ],
+        [
+          "Mode of Transportation (MOT) Code",
+          "Mode by which merchandise entered US port or arrival from the last foreign county"
+        ],
+        [
+          "Importer of Record Number",
+          "Party liable for payment of duties and meeting import requirements"
+        ],
+        [
+          "Consignee Number",
+          "Party on whose account merchandise is shipped"
+        ],
+        [
+          "Estimated Date of Export",
+          "Scheduled Injection Date"
+        ],
+        [
+          "Carrier Code",
+          "Entity responsible for transporting merchandise from foreign port of lading to first US port of unlading (SCAC)"
+        ],
+        [
+          "Estimated Date of Entry",
+          "Date merchandise arrived or expected to arrive at port of entry"
+        ],
+        [
+          "Bill of Lading",
+          "Free Text field to record batch # "
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "ENTRY SUMMARY LINE LEVEL INFORMATION"
+        ],
+        [
+          "HTS Number",
+          "Numeric code \u2013 10 digits"
+        ],
+        [
+          "Country of Export Code",
+          "Country from which article was shipped to US"
+        ],
+        [
+          "Foreign Port of Lading Code",
+          "Foreign port where merchandise laden"
+        ],
+        [
+          "Quantity ",
+          "Net Quantity expressed in HTSUS unit of measurement"
+        ]
+      ]
+    },
+    {
+      "table": 3,
+      "rows": [
+        [
+          "Shipper Post-Arrival Information for Filing Entry"
+        ],
+        [
+          "\u00a0",
+          "\u00a0"
+        ],
+        [
+          "ACE CATAIR Requirements ",
+          "Description"
+        ],
+        [
+          "ENTRY SUMMARY HEADER LEVEL INFORMATION"
+        ],
+        [
+          "Entry Filer Code",
+          "3-character filer code"
+        ],
+        [
+          "Entry Number",
+          "Unique 7-digit identifying number assigned by filer plus 1 check digit"
+        ],
+        [
+          "District/Port of Entry",
+          "Port where merchandise is entered (under entry or immediate delivery permit)"
+        ],
+        [
+          "Entry Type Code",
+          "Code identifying type of entry being submitted"
+        ],
+        [
+          "Mode of Transportation (MOT) Code",
+          "Mode by which merchandise entered US port or arrival from the last foreign county"
+        ],
+        [
+          "Bond Type Code",
+          "Indication of importer bond type"
+        ],
+        [
+          "Importer of Record Number",
+          "Party liable for payment of duties and meeting import requirements"
+        ],
+        [
+          "Importer of Record Name/Address",
+          "Name and address of importer number above"
+        ],
+        [
+          "Consignee Number",
+          "Party on whose account merchandise is shipped"
+        ],
+        [
+          "Consignee Name/Address",
+          "Name and address of consignee number above"
+        ],
+        [
+          "Date of Importation",
+          "Date merchandise arrived in port of arrival"
+        ],
+        [
+          "Carrier Code",
+          "Entity responsible for transporting merchandise from foreign port of lading to first US port of unlading"
+        ],
+        [
+          "Estimated Date of Arrival",
+          "Date merchandise arrived or expected to arrive at port of entry"
+        ],
+        [
+          "Bill of Lading",
+          "Free Text field to record batch # and ticket # for oil"
+        ],
+        [
+          "FIRMS Code",
+          "Known location of merchandise at time of filing"
+        ],
+        [
+          "ENTRY SUMMARY LINE LEVEL INFORMATION"
+        ],
+        [
+          "Line Item Identifier",
+          "Identification of specific line within entry summary"
+        ],
+        [
+          "HTS Number",
+          "Numeric code - 10 digits"
+        ],
+        [
+          "Country of Origin Code",
+          "Country from which article originated"
+        ],
+        [
+          "Country of Export Code",
+          "Country from which article was shipped to US"
+        ],
+        [
+          "Date of Export",
+          "Date the vessel departed from exporting county"
+        ],
+        [
+          "Foreign Port of Lading Code",
+          "Foreign port where merchandise laden"
+        ],
+        [
+          "Quantity ",
+          "Net Quantity expressed in HTSUS unit of measurement"
+        ],
+        [
+          "Free Text 1",
+          "Reserved for Natural Gas Heat Content"
+        ],
+        [
+          "Surety Company Code",
+          "identification of surety underwriting bond"
+        ],
+        [
+          "Gross Shipping Weight",
+          "Gross weight in Kilograms"
+        ],
+        [
+          "Electronic Signature",
+          "Filers Electronic Signature"
+        ],
+        [
+          "In-Bond/In-Transit date",
+          "Date the in-bond movement referenced in the in-bond/in-transit numbers took place"
+        ]
+      ]
+    },
+    {
+      "table": 4,
+      "rows": [
+        [
+          "Pipeline In-Bond Pre-Arrival Information "
+        ],
+        [
+          "\u00a0",
+          "\u00a0",
+          "\u00a0",
+          "\u00a0",
+          "\u00a0"
+        ],
+        [
+          "Consolidated Volumetric Filing for each Delivery Site in each Port of Entry to open in-bond filing by location"
+        ],
+        [
+          "\u00a0",
+          "\u00a0",
+          "\u00a0",
+          "",
+          ""
+        ],
+        [
+          "ACE CATAIR Requirements ",
+          "Description"
+        ],
+        [
+          "In-Bond Entry Type",
+          "61 = Immediate Transport (IT) (moving into US without entry at border)"
+        ],
+        [
+          "",
+          "62 - Transportation and Exportation (T&E) (in-transit CA-US-CA movements)"
+        ],
+        [
+          "In-Bond Number",
+          "\u00a0CBP Control Number"
+        ],
+        [
+          "Carrier Code",
+          "Carrier SCAC code"
+        ],
+        [
+          "In-bond Carrier ID",
+          "Carrier Bond Number"
+        ],
+        [
+          "Mode of Transport Code",
+          "Default to 70"
+        ],
+        [
+          "Country Code of Importing Carrier",
+          "\u00a0CA"
+        ],
+        [
+          "Importing Conveyance Name",
+          "\u00a0Pipeline Name"
+        ],
+        [
+          "Foreign Port of Lading",
+          "\u00a0Injection Site"
+        ],
+        [
+          "US Port of Destination",
+          "61 = Port of termination"
+        ],
+        [
+          "Foreign Port of Destination",
+          "62 - Port of exportation"
+        ],
+        [
+          "Estimated Date of Arrival",
+          "Date merchandise arrived or expected to arrive at port of entry"
+        ],
+        [
+          "In-bond Quantity",
+          "Aggregation"
+        ],
+        [
+          "Manifest Quantity",
+          "Aggregation"
+        ],
+        [
+          "Consignee",
+          "Aggregation (Count of Consignees)"
+        ]
+      ]
+    },
+    {
+      "table": 5,
+      "rows": [
+        [
+          "Pipeline In-Bond Post-Arrival Information "
+        ],
+        [
+          "\u00a0",
+          "\u00a0",
+          "\u00a0",
+          "\u00a0",
+          "\u00a0"
+        ],
+        [
+          "Detailed Delivery Filing to close In-bond filings by location"
+        ],
+        [
+          "\u00a0",
+          "\u00a0",
+          "\u00a0",
+          "",
+          ""
+        ],
+        [
+          "ACE CATAIR Requirements ",
+          "Description"
+        ],
+        [
+          "In-Bond Entry Type",
+          "61 = Immediate Transport (IT) (moving into US without entry at border)"
+        ],
+        [
+          "",
+          "62 - Transportation and Exportation (T&E) (in-transit CA-US-CA movements)"
+        ],
+        [
+          "In-Bond Number",
+          "CBP Control Number"
+        ],
+        [
+          "Carrier Code",
+          "Carrier SCAC code"
+        ],
+        [
+          "In-bond Carrier ID",
+          "Carrier Bond Number"
+        ],
+        [
+          "Mode of Transport Code",
+          "Default to 70"
+        ],
+        [
+          "Country Code of Importing Carrier",
+          "CA"
+        ],
+        [
+          "Importing Conveyance Name",
+          "Pipeline Name"
+        ],
+        [
+          "In-bond Quantity",
+          "Total Delivered volume for month"
+        ],
+        [
+          "Per Batch information to confirm delivery of volume"
+        ],
+        [
+          "Foreign Port of Lading",
+          "Foreign port where merchandise laden"
+        ],
+        [
+          "US Port of Destination",
+          "61 = port of termination"
+        ],
+        [
+          "Foreign Port of Destination",
+          "62 - port of exportation"
+        ],
+        [
+          "Date of Arrival",
+          "Delivery Date"
+        ],
+        [
+          "Quantity",
+          "Delivered Volume (net)"
+        ],
+        [
+          "Consignee",
+          "Consignee"
+        ],
+        [
+          "Free Text 2",
+          "Batch # / Ticket Number (Crude)"
+        ],
+        [
+          "Free Text 3",
+          "Trade Name and Density (Crude)"
+        ],
+        [
+          "Date of Export",
+          "Injection Date"
+        ]
+      ]
+    },
+    {
+      "table": 6,
+      "rows": [
+        [
+          "INFORMATION COLLECTION ",
+          "TOTAL ANNUAL BURDEN HOURS",
+          "NO. OFRESPONDENTS",
+          "NO. OFRESPONSES     PER RESPONDENT",
+          "TOTALRESPONSES",
+          "TIME PERRESPONSE"
+        ],
+        [
+          "Non-standard Pdf",
+          "  1,152",
+          "24",
+          "12",
+          "288",
+          "4 Hours"
+        ]
+      ]
+    }
+  ]
+}

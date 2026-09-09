@@ -1,0 +1,186 @@
+{
+  "icr_id": "202411-2070-003",
+  "omb_control_number": "2070-0212",
+  "agency": "EPA/OCSPP",
+  "title": "Toxic Chemical Release Reporting (Revision/Consolidation)",
+  "submission_date": "11/27/2024",
+  "archetype": "chemical release reporting andnonreporter determination",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 3,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0062",
+    "SRC-0061"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 10,
+    "segmentation": 14,
+    "labor": 8,
+    "item13": 6,
+    "item14": 7,
+    "item15": 6,
+    "validation": 3,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Counts,constant burdens andratios reconstruct total; FormA formula labelsforms instead ofchemicals.",
+    "provenance": "Specific RBBM2011 reference,2023ECEC andadministrative counts; inheritedconstants need independent revalidation.",
+    "segmentation": "Forms,chemicals,facilities andnonreporters distinct; facility distributions expose heterogeneity.",
+    "labor": "Separate wages,benefits,20%overhead and3/89/8 mix; overhead andweights inherited.",
+    "item13": "Zero directly attributable capital/O&M asserted; more scope rationale desirable.",
+    "item14": "Actualheadcounts,GS13/1 andnonFTE categories; gross costs reconstruct,load components notfully exposed.",
+    "item15": "Consolidated rules and13442notification hours described; no complete driver bridge.",
+    "validation": "Observed filing distributions; legacyburden calibration remains critical.",
+    "consistency": "Minor rounding,onechemical count discrepancy,forms-versus-chemicals equationlabel error."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "FormR chemicals",
+        78156,
+        35.70516,
+        2790555
+      ],
+      [
+        "FormA chemicals",
+        9686,
+        21.95867,
+        212681
+      ],
+      [
+        "Petitions",
+        null,
+        null,
+        925
+      ],
+      [
+        "Supplier notifications",
+        null,
+        null,
+        103058
+      ],
+      [
+        "Nonreporter determination",
+        null,
+        null,
+        734976
+      ],
+      [
+        "Discretionary authority notices",
+        null,
+        null,
+        93
+      ]
+    ],
+    "labor": {
+      "wages": [
+        53.1,
+        45.6,
+        23.8
+      ],
+      "benefits": [
+        24.46,
+        22.86,
+        10.6
+      ],
+      "overhead_on_compensation": 0.2,
+      "mix": [
+        0.03,
+        0.89,
+        0.08
+      ],
+      "weighted_loaded": 79.23,
+      "reference_period": "December2023",
+      "reported_cost": 304424425
+    },
+    "item13": {
+      "annual_cost": 0,
+      "reason": "No specific directly associated capital/O&M"
+    },
+    "item14": {
+      "fte_by_task": [
+        2,
+        1.5,
+        1.5
+      ],
+      "nonfte_by_task": [
+        30000,
+        1115000,
+        1326000
+      ],
+      "grade": "GS13/1 WashingtonDC",
+      "base_hourly": 55.46,
+      "loaded_hourly": 109.08,
+      "fte_total_cost": 1134419,
+      "annual_cost": 3605419,
+      "paper_processing_unit": 99.19,
+      "electronic_processing_unit": 8.57
+    },
+    "item15": {
+      "form_R_increase": 5667,
+      "form_A_increase": 2044,
+      "supplier_notification_increase": 13442,
+      "consolidated_control": "2070-0216 andmultiple rule ICRs",
+      "overlap": "Explicitly acknowledged; full driver allocation incomplete"
+    },
+    "assumptions": [
+      "FormA/FormR burden ratio.615; steady-state unitconstant calibrated to2011method.",
+      "25271unique facilities;6134FormAs containing9686chemicals.",
+      "Nonformconstant839052 includes compliance assessment by nonreporters."
+    ]
+  },
+  "reconstruction_issues": [
+    "RBBM displayed equation multiplies FormA forms but numerical calculation requires FormA chemicals.",
+    "78156+9686=87842 versus87841total; oneunit rounding/copy issue.",
+    "Legacy calibrated factors remain unchanged despite technological andreporting changes; revalidation needed."
+  ],
+  "methods_worth_testing": [
+    "Model burden for determining non-applicability, not only respondents who file.",
+    "Separate response count from underlying units in multi-chemical forms.",
+    "Transparent direct compensation plus overhead andlabor weights; inherited calibration requires provenance chain."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "78156*35.70516+9686*21.95867+839052",
+      "calculated": 3842316.1625800002,
+      "reported": 3842287,
+      "difference": 29.16258000023663,
+      "unit": "hours",
+      "interpretation": "Small rounding difference",
+      "source_id": "SRC-0062"
+    },
+    {
+      "label": "Loaded mix",
+      "formula": "(77.56*.03+68.46*.89+34.4*.08)*1.2",
+      "calculated": 79.20983999999999,
+      "reported": 79.23,
+      "difference": -0.020160000000018385,
+      "unit": "USD/hour",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0062"
+    },
+    {
+      "label": "Federal total",
+      "formula": "30000+1115000+1326000+1134419",
+      "calculated": 3605419,
+      "reported": 3605419,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0062"
+    }
+  ],
+  "total_score": 75
+}

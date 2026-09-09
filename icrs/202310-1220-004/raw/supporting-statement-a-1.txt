@@ -1,0 +1,470 @@
+PART word/document.xml
+PART A – SUPPORTING STATEMENT FOR
+THE NATIONAL COMPENSATION SURVEY
+
+OMB CONTROL NO. 1220-0164
+
+This information collection request seeks clearance for an extension of the National Compensation Survey.
+
+OVERVIEW
+
+The National Compensation Survey (NCS) is a nation-wide, establishment-based survey that provides comprehensive measures of (1) employer costs for employee compensation, including wages and salaries, and benefits, (2) compensation trends, and (3) the incidence of employer-sponsored benefits among workers. The NCS also collects data and produces estimates on the provisions of selected employer-sponsored benefit plans.
+
+NCS captures worker earnings and benefit cost and provision information in five major benefit categories: 
+
+Paid Leave – Vacation, holiday, sick, and personal leave
+Supplemental Pay – Overtime and premium, shift differentials, and nonproduction bonuses
+Insurance – Life, health, short-term and long-term disability
+Retirement and Savings – Defined Benefit and Defined Contribution plans
+Legally Required Benefits – Social Security, Medicare, federal and state unemployment insurance, and workers’ compensation insurance
+
+The NCS produces: 
+
+Indexes measuring change over time in labor costs through the Employment Cost Index (ECI), Principal Federal Economic Indicator (PFEI). The ECI is a modified Laspeyres index which reflects the change in labor costs over time, free from the influence of employment shifts among occupations and industries. The ECI calculates indexes of total compensation, wages and salaries, and benefits separately for all civilian workers in the United States, for private industry workers, and for workers in state and local government.
+The level of average costs per hour worked through the Employer Costs for Employee Compensation (ECEC). 
+Estimates on the incidence of benefits by the percentage of workers with access to and participating in employer-sponsored benefit plans in the publication of the Employee Benefits in the United States. 
+Details of employer-provided health and retirement plan provisions are also available in the Health and Retirement Plan Provision publications. Provisions of benefit plans include items such as eligibility requirements (e.g., age, service, and combination of age and service), vesting requirements (e.g., cliff, graded, and immediate), plan type (e.g., savings and thrift, money purchase plan), additional employee costs (e.g., out-of-pocket maximum, deductible, copayment, and coinsurance). Note: much of the provision details are gathered through plan documents provided by employers, not through interviewing respondents.
+
+Additionally, NCS and the Occupational Employment and Wage Statistics (OEWS) program collaboratively produce Modeled Wage Estimates (MWE) and data of level of work for use by the President’s Pay Agent:
+
+Modeled Wage Estimates (MWE) – MWE data consists of national annual occupational wage data that uses OEWS on wage data by occupation and by area and NCS data on grade level. MWE provide annual estimates of average hourly wages for occupations by selected job characteristics and within geographical locations. The job characteristics include bargaining status (union and nonunion), part- and full-time work status, incentive- and time-based pay, and work levels by occupation.
+Data for President’s Pay Agent – Data by level of work for use by the President's Pay Agent meets the requirements of the Federal Employees Pay Comparability Act of 1990 (FEPCA). FEPCA established locality pay and the President’s Pay Agent designated locality pay areas based on OMB statistical area definitions. The President’s Pay Agent advises the President on the issues of federal pay.
+
+Survey Design Overview – The NCS is designed to be a national representative survey of private industry and state and local government establishments from all 50 states and the District of Columbia. The following workers from the civilian economy are excluded from the NCS: those employed in federal government and quasi-federal agencies, military personnel, agricultural workers, volunteers, unpaid workers, individuals receiving long-term disability compensation, and those working overseas. In addition, private industry excludes workers in private households, the self-employed, workers who set their own pay (e.g., proprietors, owners, major stockholders, and partners in unincorporated firms), and family members paid token wages.
+
+The NCS sampling frame is developed from state unemployment insurance reports, available through the BLS’ Quarterly Census of Employment and Wages (QCEW) program, and railroad establishment information provided from BLS’ Occupational Employment and Wage Statistics (OEWS) program. Survey data are collected from national probability samples selected in two stages: probability sample of establishments and probability sample of occupations within sampled establishments. See Part B for complete details. Note: As of 2022, the BLS began collecting with an increased sample to mitigate the impact of decreasing response rates. Prior to this change, two private sample groups set to rotate out of the survey remained for an additional year each; their retention enabled the BLS to calculate estimates on four rotation groups simultaneously, rather than three. The BLS may have to employ this technique in the future, depending on response levels.
+
+General Collection Methods – The NCS collects data on both wages and employee benefits for selected jobs at sampled establishments. These data include the incidence, costs, and provisions of the employer-provided benefits. The BLS updates the wage and benefit cost data quarterly. Updating this information allows for the publication of change in the cost of wages, benefits, and total compensation on a quarterly basis as a measure of labor market inflation.
+
+To collect the NCS data, field economists interview respondents who represent the companies, organizations, and government units within the sample. Field economists conduct these interviews in person or by video, by telephone, by email, or through a combination thereof. During the collection process, field economists typically provide respondents with a portfolio filled with information on the NCS and the availability of the respondent webpage, which includes general survey information and collection forms and manuals. Other communication media, such as faxes, websites, and mail are used to assist the process, depending on the wishes of the respondents. 
+
+Field economists do not rely on a scripted interview to collect data for the NCS. Instead, they ask probing questions to obtain the information and might ask questions in different ways. Some respondents will be experts in the field of compensation, while other respondents merely maintain pay and benefit records. Because of the different levels of respondent knowledge, combined with the scope and complexity of NCS data collection, scripting an interview that covers most situations would be very difficult. 
+
+In the initial collection, field economists interview respondents by taking notes and use collection forms as a note-taking device. Respondents do not complete collection forms during initial collection. Field economists enter collected data into NCS applications after interview completion:
+
+Earnings – Field economists may hand enter payroll information or electrically reformat respondent-provided payroll information.
+Benefits – Field economists hand enter benefit plan cost data that is provided on a payroll run, via email or verbally, or by a copy of a billing statement. 
+
+NCS policy is to collect the data in whichever form is easiest for the respondents to provide and then reformat those data for use. This approach could cause some non-sampling error, but ongoing collection training and quality assurance programs are in place to lessen any impact on data collection. See Part B for details on data quality and review.
+
+When updating the wage and benefit data, the respondent may choose to send the data on forms that the BLS provides. Many respondents will send copies of a recent payroll, benefit cost run, or billing statement for various benefits (mostly insurance) in place of using the forms. The respondents may respond through e-mail, fax, mail, telephone, or a secure BLS website. The BLS allows respondents, using Secure Sockets Layer (SSL) encryption and the establishment’s schedule number, to upload data file(s) to a secure BLS server that forwards those files to the assigned field economist. Respondent access to these web pages is through the existing NCS Internet Data Collection Facility (IDCF) system.
+
+Respondents who wish to provide the information by telephone can call in the information or wait to be called. In such cases, field economists record the provided information. All updated wage and benefit data are entered by field economists into the NCS applications. 
+
+Identification of Changes to the Compensation Landscape – The NCS program performs regular environmental scanning and researches new compensation practices in an effort to keep concepts and definitions aligned with current employer compensation practices. New compensation practices are identified from organizations and publications, BLS field economists, proposed and enacted legislation, customer inquiries, and information gathered at conferences.
+
+Additionally, the NCS tracks the presence of a list of other benefits (e.g., long-term care insurance and flexible workplace) in an effort to identify emerging or changing benefits over time. Field economists ask respondents whether sampled occupations receive these benefits, and the NCS periodically modifies this list.
+
+Survey/Program Changes – For this request, there are no changes to NCS data collection elements.
+
+JUSTIFICATION
+
+1. Explain the circumstances that make the collection of information necessary. Identify any legal or administrative requirements that necessitate the collection. Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.
+
+The collection of labor compensation data is authorized and mandated by several laws and regulations.  These include:
+
+The Bureau of Labor Statistics “…is authorized and directed to make continuing studies of... labor costs in the manufacturing, mining, transportation, distribution, and other industries” under Title 29 of the U.S. Code, (29 USC 2b).
+The ECI is designated a PFEI under OMB Statistical Policy Directive No. 3. 2015. Release dates posted: http://www.bls.gov/schedule/news_release/eci.htm>
+Annual adjustments to the basic rates of pay for members of Congress (2 USC §4501), the Vice President (3 USC §104), Federal statutory pay schedules (5 USC §5303), Senior Executives (5 USC §5318), Judiciary staff (28 USC §461), and members of the Uniformed Services (37 USC §1009). For more information on military pay determination, see Military Compensation.
+The Federal Employees Pay Comparability Act of 1990 directs the President’s Pay Agent to prepare “... a report that -- (A) compares rates of pay under the General Schedule with the rates of pay generally paid to non-Federal workers for the same levels of work within each pay locality, as determined on the basis of appropriate surveys that shall be conducted by the Bureau of Labor Statistics,” (5 USC 5304). Also see General Schedule Classification and Pay.
+Annual adjustments to: funding for the Bureau of Consumer Financial Protection (12 USC § 5497); public contract allowable costs of compensation for contractor employees (41 USC §4304); and special payments for highly qualified experts (5 USC §9903).
+
+2. Indicate how, by whom, and for what purpose the information is to be used. Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+Data from the NCS, including employers’ costs for wages and benefits, changes to employer labor costs, benefits incidence, and detailed characteristics of benefit plan provisions, are used for a variety of purposes by the private and public sectors, including researchers in academia and consulting. Examples include the following:
+
+Studies on the structure of employee compensation
+Macro-economic forecasting
+Formulating and assessing public or monetary policy
+Aiding collective bargaining negotiations
+Evaluating benefit packages
+Analyzing contract settlements
+Indexing Medicare payments
+Guiding decisions in business or plant locations
+Assisting in wage and salary and benefit administration and wage adjustments
+
+ECI – The chief product of the NCS is the ECI, a PFEI. The data produced by the ECI are the only source for measures of change over time in compensation in the broad civilian, non-Federal, and non-farm economy. Other surveys of change in compensation produce data that are valuable for specific purposes, but are limited in scope and coverage. As described above, a prominent use of the current NCS data is to determine changes in Federal workers’ pay, as mandated in the FEPCA of 1990. 
+
+ECEC –The ECEC provides information about average compensation in the economy at a point in time, as it reflects both changes in compensation and changes in employment. ECEC data can be used to compare relative compensation costs among benefit categories; it also provides a means to consistently add together the different benefit costs for a worker population to obtain a measure of total employer compensation costs and to identify the relative importance of a given employee benefit in total compensation. 
+
+Employee Benefits in the United States and Health and Retirement Plan Provision publications – The NCS benefits publications are the only source of comprehensive data on employer-provided benefits that are based on a statistical sample and cover the broader economy. Requests for NCS Benefits data include access to paid sick leave benefits by industry and geographic area, as well as retirement benefits for workers in elementary and secondary schools. 
+
+MWE – The MWE provides compensation estimates for occupations by selected job characteristics and geographic location on an annual basis.
+
+Data for President’s Pay Agent – The NCS produces estimates to assist the President’s Pay Agent in comparing federal pay with private industry pay.
+
+Additional examples of NCS data usage, broken out by publication, are listed below:
+
+Employment Cost Index (ECI)
+Adjustments to Medicare reimbursements – The U.S. Department of Health and Human Services, Centers for Medicare and Medicaid Services, uses estimates from the ECI to determine allowable increases in reimbursements to hospitals, skilled-nursing facilities, and home maintenance organizations under Medicare's Prospective Payment Systems (PPS), see The Employment Cost Index and the impact on Medicare Reimbursements, 2017.
+Escalator clauses in government contracts – Governments use the ECI series in labor contracts. For example, the Virginia department of transportation (VDOT) uses the professional, scientific, and technical services private industry wage series to adjust billable rates, see Escalation Rate for Professional Services Contracts.
+Adjusting labor costs – ECI series are used in adjusting personnel costs in education. For example, Fairfax County government uses a market rate adjustment to maintain pay competitiveness.
+
+Employer Costs for Employee Compensation (ECEC)
+Costs associated with employee compensation – The Department of Energy uses the ECEC data to benchmark its compensation costs in the process of selecting a potential contractor, see U.S. Department of Energy Cost Study Manual.
+For comparisons between costs in the public and private sector – The National Association of State Budget Officers uses the ECEC data to assess its compensation costs and their relative costs, see The Relative Importance of Health and Retirement Benefits in State and Local Employee Compensation.
+For setting minimum wages and benefit payments – The Department of Labor’s Wage and Hour Division uses the ECEC data to pay service employees’ wages and offer them benefits as consistent with those prevailing in the locality.
+
+Benefits Incidence and Detailed Plan Provisions
+Planning and improving company benefits – NCS data commonly are used as a guide when companies choose the provisions for their benefit plans. In addition, companies may improve benefit packages to remain competitive in the labor market.
+Lowering turnover rates – To attract and retain workers, employers may provide additional benefits. Using NCS data, employers can evaluate benefits that are available to employees nationally by worker and establishment characteristics.
+Aiding collective bargaining negotiations – Collective bargaining units renegotiate their contracts at various times. The bargaining unit may want to add a new benefit, such as flexible workplace arrangements, to an agreement. The bargaining unit and the employer can use NCS benefits data to assist them in decision-making.
+Assessing health care premiums – Companies can compare the premiums it currently pays for health benefits with nationwide averages. The comparison helps the established company assess its health benefits or negotiate contracts with insurance companies.
+Assessing and formulating public policy – NCS benefits data were used to design defined benefit plans and savings and thrift plans for federal employees.
+Researching current benefit issues – Students, consultants, and researchers use benefits data frequently to investigate a particular issue pertaining to benefits or may focus on a few years of previous data to develop research on trends or other benefit issues.
+
+Special Research – There is continuing interest in using NCS data files for special research. Many government, academic, institutional, and private industry researchers are currently using these data, and other such efforts are in the planning stages. Recent requests for special research and tabulations have come from: 
+
+Federal agencies, including different offices within Department of Labor, such as Employee Benefits Security Administration, Office of Disability Employment Policy, and Pension Benefit Guaranty Corporation, the Congressional Budget Office, Bureau of Economic Analysis, Center for Medicare and Medicaid Services, Office of Personnel Management, Medicare Payment Advisory Commission, Council of Economic Advisers, and Federal Reserve Board. 
+State and local government, including the California Department of Transportation and a New Jersey police precinct. 
+Academic researchers, including requests on behalf of the Ohio State University, Massachusetts Institute of Technology (MIT), Harvard, and the University of Michigan's Institute for Social Research. 
+Private industry, including requests from nonprofits, think tanks, a trade association, an advocacy organization, a fact-checking organization, insurance and consulting firms. 
+
+The BLS continually examines compensation literature and maintains personal contact with relevant associations and researchers. Currently, no other information is available on a probability basis that yields the scope of compensation data found in the NCS.
+
+3. Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection. Also, describe any consideration of using information technology to reduce burden.
+
+BLS field economists obtain data from respondents through personal interview, video, telephone, e-mail, fax, and website contacts. 
+
+After the interview, BLS field economists enter collected data into a database employing a customized computer application that performs a variety of data edits to check the validity of the entries. This data capture system currently has approximately 900 total edits. The NCS program uses an Oracle database for data storage and processing. Respondent contact information is entered into a web-based application.
+
+As initially described in the overview, the QCEW serves as a sampling frame for the NCS (and other establishment-based surveys) and is a relational database of business establishments linked longitudinally and based on the microdata submitted quarterly by States from Unemployment Insurance (UI) tax files. BLS data elements on these QCEW files include information on monthly employment, business name and addresses, industry classification, geographical codes, and other administrative data. Every business establishment contains a unique identifier that allows for tracking of individual establishments at the micro level across quarters for the U.S. The NCS uploads these data into its data capture applications before the field economist visits the establishment, thereby reducing the burden on respondents to provide this basic information.
+
+To reduce reporting burden, the BLS allows responding establishments to provide an electronic data file, rather than recording data on paper. The NCS uses a program that allows for centralized control of data received over the internet that helps facilitate data received electronically. These data can then be imported into the NCS application by the field economist.
+
+The NCS program uses a Web-based application (Web-Lite) that allows NCS respondents, using Secure Sockets Layer (SSL) encryption and the establishment’s schedule number, to upload data files to a secure BLS server that forwards those files to the assigned field economist. These interactive web pages allow respondents to further refine and break out the detailed data they send NCS using this Web application. While field economists may still visit the establishment during the initiation (first) collection, respondents can send initiation and updated data via the internet, mail, a secure server, or fax.
+
+The NCS has a fillable Adobe PDF form to collect updated benefit data. This form allows respondents to enter information directly into a structured form alongside previously reported data.
+
+4. Describe efforts to identify duplication. Show specifically why any similar information already available cannot be used or modified for use for the purposes described in Item A.2 above.
+
+The NCS data collection supports a number of outputs. In 1999, three compensation surveys were combined into the current NCS. Each establishment is now contacted only one time (in each sample cycle) rather than possibly being contacted for more than one survey in a quarter. Therefore, the burden on respondents has been reduced significantly, especially for those large establishments that are selected in multiple samples.
+
+The BLS undertakes efforts to coordinate NCS data collection with other surveys and other Federal data needs. For example, within the BLS, data collection is coordinated between the NCS and the Bureau’s OEWS program. For establishments that are selected in both survey’s samples, the NCS program collects the data, and it is then used for both surveys. 
+
+Both the NCS and the Census Bureau collect state and local government public pension data. The BLS is focused on compensation from the employee perspective with the Census Bureau focused on measuring the financial health of public pensions. Although the surveys serve different purposes and have very little overlap in outputs and data users, staff at both organizations are in communication to ensure there is no unnecessary collection duplication.
+
+The NCS staff also periodically contacts the Agency for Healthcare Research and Quality or review their Medical Expenditure Panel Survey (MEPS) to avoid unneeded duplications of benefits collection. 
+
+
+5. If the collection of information impacts small businesses or other small entities, describe any methods used to minimize burden.
+
+The NCS program is designed to provide compensation data that are representative of the national economy. Therefore, information is collected from establishments of all sizes. Any establishment with at least one employee is a potential respondent.  NCS defines a small establishment as having between 1 and 99 employees. Private industry establishments (including small establishments) are initiated into the survey during a single, yearlong collection period and remain in survey estimation for three years. The state and local government establishments’ sample is reselected every ten years.
+
+The aggregate collection burden on small establishments is significantly less than medium and large establishment burden. For all establishments, including small establishments, an optimum allocation design is obtained by sorting establishments within the industry by employment size and sampling the industry with probability proportionate to the amount of employment contained in those industries. Therefore, larger firms have a greater chance of being selected. The BLS also collects data on fewer occupations in small establishments. Furthermore, small establishments will have a smaller benefit collection burden because they tend to offer fewer benefits than larger establishments.
+
+6. Describe the consequence to federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+The consequences of not collecting the NCS would cause the loss of data series that:
+
+Are needed to administer Federal workers’ pay and other programs.
+Are valuable tools to private sector compensation administrators.
+Provide data critical to analysis of the U.S. economy.
+
+If collection were done less frequently, the following negative ramifications could occur:
+
+Compensation change data, computed on a semiannual or annual basis instead of quarterly, would make it more difficult to identify the causes of any change in the price of labor in a timely manner. 
+The change would impair the ability of companies and government entities that use the ECI as a cost escalator for labor rates.
+
+7. Explain any special circumstances that would cause an information collection to be conducted in a manner:
+requiring respondents to report information to the agency more often than quarterly;
+requiring respondents to prepare a written response to a collection of information in fewer than 30 days after receipt of it;
+requiring respondents to submit more than an original and two copies of any document;
+requiring respondents to retain records, other than health, medical, government contract, grant-in-aid, or tax records for more than three years;
+in connection with a statistical survey, that is not designed to produce valid and reliable results that can be generalized to the universe of study;
+requiring the use of statistical data classification that has not been reviewed and approved by OMB;
+that includes a pledge of confidentially that is not supported by authority established in statute or regulation, that is not supported by disclosure and data security policies that are consistent with the pledge, or which unnecessarily impedes sharing of data with other agencies for compatible confidential use; or
+requiring respondents to submit proprietary trade secret, or other confidential information unless the agency can demonstrate that it has instituted procedures to protect the information's confidentially to the extent permitted by law.
+
+There are no special circumstances for this collection.
+
+8. If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d), soliciting comments on the information collection prior to submission to OMB. Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments. Specifically address comments received on cost and hour burden.
+
+Describe efforts to consult with persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.
+
+Consultation with representatives of those from whom information is to be obtained or those who must compile records should occur at least once every 3 years -- even if the collection-of-information activity is the same as in prior periods. There may be circumstances that may preclude consultation in a specific situation. These circumstances should be explained.
+
+BLS received two public comments on the Federal Register notice published in the Federal Register, 88 FR 77363 on November 9, 2023. 
+
+One comment, which was emailed to BLS on November 11, 2023, was out of scope. The BLS is a federal principal statistical agency and embraces professional and operational standards designed to ensure the quality, integrity, and credibility of its outputs. The mission of the BLS is to measure labor market activity, working conditions, price changes, and productivity in the U.S. economy to support public and private decision making. The NCS provides comprehensive measures of employer labor costs and produces multiple products, including the ECI, a PFEI.
+
+The Chief Economist at the Bureau of Economic Analysis (BEA) sent a letter of support dated December 14, 2023. The letter listed BEA’s needs and uses for the ECI, the ECEC, and the EBS data.
+
+Outside Consultation
+
+The BLS solicits input from data users, including survey respondents, on the types of compensation statistics needed. In November 2019, NCS conducted a stakeholder survey soliciting feedback from NCS data users regarding their use and needs for NCS survey data and products. The BLS also obtains advice on its programs from the Data Users Advisory Committee (DUAC) and the Technical Advisory Committee (TAC) with members from the labor, business, government, research and academic communities and the Federal Economic Statistics Advisory Committee (FESAC). FESAC (as well as TAC) provides members of the academic community the opportunity to have input on statistical issues. FESAC is a joint effort of the Bureau of Economic Analysis, the Census Bureau, and the BLS.
+
+In addition, the BLS attends, speaks, and staffs exhibits to describe and publicize the NCS program and products. Examples include participation at the annual WorldatWork conference, the Society for Human Resources Management conferences, and the American Society for Healthcare Human Resources Administration conferences. Getting public feedback from the human resource community helps in survey design and publications.
+
+The BLS also staffs an information line that allows data users to call or email with questions about NCS methodology and estimates. These questions provide insight into how data is used, the format in which it is accessed, and ease of access. Additionally, the BLS receives feedback on what data users find useful, what other data they might want to see measured, and what data they would like that we do not publish but can be provided through special requests. Finally, an important part of the feedback the BLS receives comes from the survey respondents and their reactions to the type of data requested, the accessibility of the data, and the value of the results. Field economists relay information back from respondents to regional managers, who in turn consult with national office managers to assess respondents’ suggestions or concerns and act appropriately. 
+
+9. Explain any decision to provide any payments or gifts to respondents, other than remuneration of contractors or grantees.
+
+No payments or gifts will be provided to any respondents.
+
+10. Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+All data collected in the NCS are subject to the BLS confidentiality requirements that prevent the disclosure of identifying information. Data collected from the NCS are used solely for statistical purposes. BLS has a strict confidentiality policy, which ensures that the survey sample composition, lists of reporters, and names of respondents will be kept confidential. In addition, the policy assures respondents that published figures will not reveal the identity of any specific respondent and will not allow the data of any specific respondent to be identified. Each published estimate is validated to ensure that it meets these confidentiality requirements, see Confidentiality of Data Collected by BLS for Statistical Purposes for additional information.
+
+The Confidential Information Protection and Statistical Efficiency Act (CIPSEA) safeguards the confidentiality of individually identifiable information acquired under a pledge of confidentiality for exclusively statistical purposes by controlling access to, and uses made of, such information. CIPSEA includes fines and penalties for any knowing and willful disclosure of individually identifiable information by an officer, employee, or agent of the BLS.
+ 
+Based on this law, the BLS provides all non-government respondents with the following confidentiality pledge/informed consent statement:
+ 
+The Bureau of Labor Statistics, its employees, agents, and partner statistical agencies, will use the information you provide for statistical purposes only and will hold the information in confidence to the full extent permitted by law. In accordance with the Confidential Information Protection and Statistical Efficiency Act (44 U.S.C. 3572) and other applicable Federal laws, your responses will not be disclosed in identifiable form without your informed consent. Per the Federal Cybersecurity Enhancement Act of 2015, Federal information systems are protected from malicious activities through cybersecurity screening of transmitted data. 
+
+This statement appears on the private industry collection forms and is on our web collection site. 
+
+For the NCS program, the pledge of confidentiality is not extended to state and local government entities, unless specifically requested, since the data they provide are a matter of public record. 
+
+BLS policy on the confidential nature of respondent identifiable information (RII) states that “RII acquired or maintained by the BLS for exclusively statistical purposes and under a pledge of confidentiality shall be treated in a manner that ensures the information will be used only for statistical purposes and will be accessible only to authorized individuals with a need-to-know.”
+
+In some instances, respondents are unable to provide certain data elements needed to complete the collection requirements. The data, however, may be available from a secondary source such as an insurer, labor union, or accounting firm. When this occurs, it becomes necessary for the BLS to go to a secondary source for the information. In these cases, the BLS requests verbal consent from the establishment to solicit the information from the secondary source (e.g., union benefit fund or commercial payroll processing firm).
+
+11. Provide additional justification for any questions of a sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private. This justification should include the reasons why the agency considers the questions necessary, the specific uses to be made of the information, the explanation to be given to persons from whom the information is requested, and any steps to be taken to obtain their consent.
+
+Aside from the sensitivity attached to payroll information, no other sensitive questions are asked during the survey.
+
+12. Provide estimates of the hour burden of the collection of information. The statement should:
+Indicate the number of respondents, frequency of response, annual hour burden, and an explanation of how the burden was estimated. Unless directed to do so, agencies should not conduct special surveys to obtain information on which to base hour burden estimates. Consultation with a sample (fewer than 10) of potential respondents is desirable. If the hour burden on respondents is expected to vary widely because of differences in activity, size, or complexity, show the range of estimated hour burden, and explain the reasons for the variance. General, estimates should not include burden hours for customary and usual business practices.
+If this request for approval covers more than one form, provide separate hour burden estimates for each form.
+Provide estimates of annualized cost to respondents for the hour burdens for collections of information, identifying and using appropriate wage rate categories. The cost of contracting out or paying outside parties for information collection activities should not be included here. Instead, this cost should be included in Item 14.
+
+Estimates of respondent burden are provided in this section for all activities associated with the NCS program. For the purposes of the discussion of respondent burden and BLS cost, collection is divided into two categories: initiations and updates. In an initiation, the respondent is contacted for the first time. The BLS field economist samples the jobs at the establishment for study, collects the pay and benefit information, and establishes the updating process. In an update, information is collected on the same jobs that were sampled during initiation. The field economist records any changes to employment characteristics or compensation (wages and benefits) that have occurred since either initiation, or the last update. Thus, updates generally take far less time than initiations.
+
+Broadly stated, both private industry and state and local government establishments in the survey fall into one or more of the three categories below. Each of these categories, with the percentage of establishments expected in each category over the three years, is listed below.
+
+Establishments where pay and benefits data are collected and then updated quarterly (some of these benefits may only change annually). The BLS collects data on pay and benefit costs every quarter from one hundred percent or all establishments.
+
+Feasibility testing to determine the best ways to collect compensation. These represent about ten percent of the estimated establishments in the NCS. Tests are conducted to improve survey procedures and processes, produce data that are more accurate, investigate compensation practices, and to help lower respondent burden.
+
+Follow-up establishment interviews for quality assurance activities on the collected data. The NCS has a formal review policy where approximately five percent of all establishments are randomly selected for re-contact. 
+
+The following list further delineates the above categories into collection type:
+
+Activity (1a) – Initiation of establishments in the NCS sample.
+Activity (1b) – Updating of establishments in the NCS sample. Data from these establishments are updated quarterly.
+Activity (2) – Tests of compensation collection.
+Activity (3a) – Re-interview for quality assurance activities of initiations.
+Activity (3b) – Re-interview for quality assurance activities of updates.
+
+The BLS estimates quality assurance activities will have a response rate approaching 100 percent. 
+
+The BLS estimates for NCS schedules, an anticipated 4.23 hours (254 minutes) of respondent time will be required for initial collection: 1.23 hours for the completion of the general information and pay component, and 3 hours for the completion of benefits. Five minutes is the estimated respondent time for initiation of establishments that choose not to participate in the NCS. The BLS estimates that updates for the NCS schedules will take 40 minutes for establishments where both pay and benefits are collected. All estimates are based on studies of past collection experience.
+
+The BLS estimates that follow-up re-interview for quality assurance activities will take approximately 15 minutes. Because of the nature of a quality assurance re-interview, the time required is not dependent on the time required for initial collection.
+
+Estimates of respondent burden associated with these collection activities in FY2024, FY2025, and FY2026 are broken out by affected sector (private sector, state, and local governments) and provided in Tables 1a through 2c. The estimates of respondent burden reflect anticipated response levels for FY2024, FY2025, and FY2026. 
+
+Table 1a. Anticipated private sector sample burden by activity type for FY 2024 (annual figures) 
+
+Collection Activity | Number of Respondents Per Activity (Net) | Responses  Per  Respondent | Total  Annual  Responses by Activity | Minutes Per  Response | Total  Hours
+Activity 1a—Initiation of NCS data  | 2,364   | 1 | 2,364 | 254 | 10,00 8
+Activity 1a—Initiation of NCS   data (nonresponse) | 2,364 | 1 | 2,364 | 5 | 1 97
+Activity 1b—Updates of NCS data | 11,500 | 3.2 | 36,800   | 40 | 24,533  
+Activity 2—Feasibility survey testing | 400 | 1 | 400 | 60 | 400
+Activity 3a—Re-interview for quality assurance activities of initiations | 118 | 1 | 118 | 15 | 30
+Activity 3b—Re-interview for quality assurance activities of updates | 575 | 3.2 | 1, 840   | 15 | 460  
+FY 202 4  Totals annually | 17,321 |  | 43,8 8 6 | -- | 35,62 8  
+
+
+Table 1b. Anticipated private sector sample burden by activity type for FY 2025 (annual figures) 
+
+Collection Activity | Number of Respondents Per Activity (Net) | Responses  Per  Respondent | Total  Annual  Responses by Activity | Minutes Per  Response | Total  Hours
+Activity 1a—Initiation of NCS data  | 1,773 | 1 | 1,773 | 254 | 7,50 6
+Activity 1a—Initiation of NCS data  (nonresponse) | 1, 773 | 1 | 1, 773 | 5 | 148
+Activity 1b—Updates of NCS data | 13,000 | 3. 2 | 41,600 | 40 | 27,733
+Activity 2—Feasibility survey testing | 4 00 | 1 | 4 00 | 60 | 4 00
+Activity 3a—Re-interview for quality assurance activities of initiations | 89 | 1 | 89 | 15 | 2 2
+Activity 3b—Re-interview for quality assurance activities of updates | 650 | 3. 2 | 2,080 | 15 | 520
+FY 20 2 5  To tals annually | 17,685 | -- | 47,715 | -- | 36,32 9
+
+Table 1c. Anticipated private sector sample burden by activity type for FY 2026 (annual figures) 
+
+Collection Activity | Number of Respondents Per Activity (Net) | Responses  Per  Respondent | Total  Annual  Responses by Activity | Minutes Per  Response | Total  Hours
+Activity 1a—Initiation of NCS data  | 621 | 1 | 621 | 254 | 2,62 9
+Activity 1a—Initiation of NCS data  (nonresponse) | 621 | 1 | 621 | 5 | 52
+Activity 1b—Updates of NCS data | 14,425 | 3. 2 | 46,160 | 40 | 30,773
+Activity 2—Feasibility survey testing | 400 | 1 | 400 | 60 | 400
+Activity 3a—Re-interview for quality  assurance activities of initiations | 31 | 1 | 31 | 15 | 8
+Activity 3b—Re-interview for quality assurance activities of updates | 721 | 3. 2 | 2, 307 | 15 | 577
+FY 202 6  Totals annually  | 16,819 | -- | 50,140 | -- | 34,439
+
+Table 2a. Anticipated state and local government sample burden by activity type for FY 2024 (annual figures) which carries forward from previous sample
+
+Collection Activity | Number of Respondents Per Activity (Net) | Responses  Per  Respondent | Total  Annual  Responses by Activity | Minutes Per  Response | Total  Hours
+Activity 1a—Initiation of NCS data  | 0 | 0 | 0 | 0 | 0
+Activity 1a—Initiation of NCS   data (nonresponse) | 0 | 0 | 0 | 0 | 0
+Activity 1b—Updates of NCS data | 1 , 596 | 3.6 | 5,746 | 40 | 3,831
+Activity 2—Feasibility survey testing | 60 | 1 | 60 | 60 | 60
+Activity 3a—Re-interview for quality assurance activities of initiations | 0 | 0 | 0 | 0 | 0
+Activity 3b—Re-interview for quality assurance activities of updates | 80 | 3.6 | 288 | 15 | 72
+FY 20 2 4   Totals annually | 1 , 736 | -- | 6,094 | -- | 3,963
+
+Table 2b. Anticipated state and local government sample burden by activity type for FY 2025 (annual figures) which carries forward from previous sample
+
+Collection Activity | Number of Respondents Per Activity (Net) | Responses  Per  Respondent | Total  Annual  Responses by Activity | Minutes Per  Response | Total  Hours
+Activity 1a—Initiation of NCS data  | 359 | 1 | 359 | 254 | 1,5 20
+Activity 1a—Initiation of NCS   data (nonresponse) | 40 | 1 | 40 | 5 | 3
+Activity 1b—Updates of NCS data | 1 , 596 | 3.6 | 5,746 | 40 | 3,831
+Activity 2—Feasibility survey testing | 60 | 1 | 60 | 60 | 60
+Activity 3a—Re-interview for quality assurance activities of initiations | 18 | 1 | 18 | 15 | 5
+Activity 3b—Re-interview for quality assurance activities of updates | 80 | 3.6 | 288 | 15 | 72
+FY 20 2 5  Totals annually | 2,153 | -- | 6 , 511 | -- | 5,49 1
+
+Table 2c. Anticipated state and local government sample burden by activity type for FY 2026 (annual figures) which carries forward from previous sample
+
+Collection Activity | Number of Respondents Per Activity (Net) | Responses  Per  Respondent | Total  Annual  Responses by Activity | Minutes Per  Response | Total  Hours
+Activity 1a—Initiation of NCS data  | 1,077 | 1 | 1,077 | 254 | 4,55 9
+Activity 1a—Initiation of NCS   data (nonresponse) | 120 | 1 | 120 | 5 | 10
+Activity 1b—Updates of NCS data | 1 , 596 | 3.6 | 5,746 | 40 | 3,831
+Activity 2—Feasibility survey testing | 60 | 1 | 60 | 60 | 60
+Activity 3a—Re-interview for quality assurance activities of initiations | 54 | 1 | 54 | 15 | 14
+Activity 3b—Re-interview for quality assurance activities of updates | 80 | 3.6 | 288 | 15 | 72
+FY 20 2 6   Totals annually | 2,987 | -- | 7,345 | -- | 8,54 6
+
+The table below summarizes the data, including figures on the actual number of respondents to be contacted each year.
+
+Table 3: Anticipated private sector average responses and burden by Fiscal Year 
+
+Fiscal Year | Respondents  | Average responses per year | Total # of Responses | Average minutes per response | Total hours
+FY 20 2 4 | 1 7,321 | 2. 5337 | 43,886 | 48 . 7098 | 35,62 8
+FY 20 2 5 | 1 7,685 | 2. 6980 | 47,715 | 4 5. 6825 | 3 6,32 9
+FY 20 2 6 | 1 6,819 | 2. 9812 | 50,140 | 41. 2114 | 3 4, 439
+Overall Average | 17,275 | 2. 7350 | 47,24 6 | 4 5.0 3 78 | 3 5,4 65
+Private sector averages include both initiation, update of establishment data, and quality assurance contacts.
+
+Table 4: Anticipated state and local government average responses and burden by Fiscal Year 
+
+Fiscal Year | Respondents  | Average responses per year | Total # of Responses | Average minutes per response | Total hours
+FY 20 2 4 | 1 , 736 | 3. 5 104 | 6 , 094 | 39 .0187 | 3,963
+FY 20 2 5 | 2,153 | 3. 0242 | 6 , 511 | 50. 6005 | 5,49 1
+FY 20 2 6 | 2,987 | 2.4590 | 7 , 345 | 69. 8108 | 8,54 6
+Overall Average | 2,292 | 2.9014 | 6 , 650 | 54.1 353 | 6,000
+
+State and local government averages include both initiation, update of establishment data, and quality assurance contacts.
+
+Estimates of respondent burden by type of collection activity in FY 2024, FY 2025, and FY 2026 follow.
+
+Table 5. Anticipated burden by activity type in FY 2024 – October 2023 to September 2024
+
+Collection Activity | Number of Respondents Per Activity (Net) | Responses  Per  Respondent | Total  Annual  Responses  by  Activity | Minutes Per  Response | Total  Hours
+Activity 1a—Initiation of NCS data  | 2,364 | 1 | 2,364 | 254 | 10,00 8
+Activity 1a—Initiation of NCS data  (nonresponse) | 2,364 | 1 | 2,364 | 5 | 1 97
+Activity 1b—Updates of NCS data | 13,096 | 3. 2488 | 42,546 | 40 | 2 8,364
+Activity 2—Feasibility survey testing | 460 | 1 | 460 | 60 | 460
+Activity 3a— Re-interview for quality assurance activities of initiations | 118 | 1 | 118 | 15 | 30
+Activity 3b— Re-interview for quality assurance activities of updates | 655 | 3. 2489 | 2,128 | 15 | 532
+FY 20 2 4  Total  | 1 9,057 | -- | 4 9,980 | -- | 3 9,5 91
+
+Table 6. Anticipated burden by activity type in FY 2025 – October 2024 to September 2025
+
+Collection Activity | Number of Respondents Per Activity (Net) | Responses  Per  Respondent | Total  Annual  Responses by Activity | Minutes Per  Response | Total  Hours
+Activity 1a—Initiation of NCS data  | 2, 132 | 1 | 2, 132 | 254 | 9, 02 6
+Activity 1a—Initiation of NCS data  (nonresponse) | 1, 813 | 1 | 1, 813 | 5 | 151
+Activity 1b—Updates of NCS data | 14,596 | 3. 2438 | 47,346 | 40 | 31,564
+Activity 2—Feasibility survey testing | 460 | 1 | 460 | 60 | 460
+Activity 3a— Re-interview for quality assurance activities of initiations | 10 7 | 1 | 10 7 | 15 | 2 7
+Activity 3b— Re-interview for quality  assurance activities of updates | 730 | 3. 2438 | 2,368 | 15 | 592
+FY 20 2 5  Total  | 19,838 | -- | 54,226 | -- | 41,8 20
+
+Table 7. Anticipated burden by activity type in FY 2026 – October 2025 to September 2026
+
+Collection Activity | Number of Respondents Per Activity (Net) | Responses  Per  Respondent | Total  Annual  Responses by Activity | Minutes Per  Response | Total  Hours
+Activity 1a—Initiation of NCS data  | 1,698 | 1 | 1,698 | 254 | 7,18 8
+Activity 1a—Initiation of NCS data  (nonresponse) | 741 | 1 | 741 | 5 | 62
+Activity 1b—Updates of NCS data | 16,021 | 3. 2399 | 51,906 | 40 | 34,604
+Activity 2—Feasibility survey testing | 460 | 1 | 460 | 60 | 460
+Activity 3a— Re-interview for quality assurance activities of initiations | 85 | 1 | 85 | 15 | 22
+Activity 3b— Re-interview for quality assurance activities of updates | 801 | 3. 2397 | 2, 595 | 15 | 649
+FY 20 2 6  Total  | 1 9, 806 | -- | 57,485 | -- | 4 2,98 5
+
+The table below summarizes the data, including figures on the actual number of respondents to be contacted each year.
+
+Table 8: Anticipated average responses and burden by Fiscal Year 
+
+Fiscal Year | Respondents  | Average responses per year | Total # of Responses | Average minutes | Total hours
+FY 20 2 4 | 1 9,057 |  2. 6227 |  4 9,980 |  4 7.5 282 |  3 9,5 91
+FY 20 2 5 | 1 9,838 |  2. 7334   |   54,226   |  4 6. 27 30   |   41,8 20  
+FY 202 6 | 1 9, 806 |  2. 9024 |   57,485   |   4 4. 8656 |   42,98 5
+Overall Average | 1 9,567 | 2. 75 45 | 53,89 6 | 4 6. 1603 | 41,4 65
+
+NCS Collection Forms/Screens Overview – The NCS has various forms/screens for data collection as different activities during data collection call for unique forms. Both private industry and government versions exist for many form/screen types. Copies of these forms are included in this clearance package.
+
+The initiation forms are used as note-taking devices by the field economists as they are interviewing respondents. Field economists ask probing questions that will vary depending on the knowledge level of the respondent. The forms provide the field economist with a list of the required information needed for the survey, not a list of questions. For quality assurance re-interviews, the field economists will ask for specific items of data in a prescribed manner from data stored in the electronic database. For update collection, NCS tailors the forms sent to match the data previously collected and respondent preferences. NCS considers the establishment data in the electronic database the official copy of the establishment data for survey purposes. 
+
+Table 9. Functions and uses of NCS forms
+
+Information collected | Purpose/Activity | Forms | Time  to Complete
+Government General Establishment Information, work level and schedule; records check of these data | Initiation general information (1a); | Establishment collection, work level and schedule form  NCS  Form2 4 -1G (202 4 ) | 54 minutes 
+Private Industry General Establishment Information, work level and schedule; records check of these data | Initiation general information (1a);  | Establishment collection, work level and schedule form  NCS  Form2 4 -1P (202 4 ) | 54 minutes 
+Government Earnings  data;  records check of earnings data  | Wage initiation  (1a)  | Earnings form  NCS Form  2 4 -2G (202 4 ) | 20 minutes 
+Private Industry Earnings  data;  records check of earnings data  | Wage initiation (1a) | Earnings form  NCS Form  2 4 -2P (202 4 ) | 20 minutes 
+Government  Updating earnings data; records check of earnings data | Wage update (1b) | Wage Shuttle form  (computer generated earnings update  form )   NCS Form2 4 -9G (202 4 ) IDCF E-Update Entry Form | 20 minutes
+Private Industry  Updating earnings data; records check of earnings data | Wage update (1b) | Wage Shuttle form  (computer generated earnings update  form ) NCS Form2 4 -9P (202 4 ) IDCF E-Update Entry Form | 20 minutes
+Government Collection of benefits for new government units; records check of this collection  | Benefit  initiation (1a) | Benefits Collection Form  NCS  Form 2 4 -5G (202 4 ) | 180 minutes 
+Private Industry Collection of benefits for new units; records check of this collection | Benefit initiation  (1a) | Benefits Collection Form  NCS  Form 2 4 -5P (202 4 ) | 180 minutes
+Government  Update of benefits data for all establishments; records check of this collection | Benefit   update (1b) | Summary of Benefits (Benefit update form SO-1003 G ) IDCF E-Update Entry Form Benefits Fillable (Benefit update form  SO100 BF-1GP) | 20 minutes 
+Private Industry  Update of benefits data for all establishments; records check of this collection | Benefit  update (1b) | Summary of Benefits (Benefit update form SO-1003P) IDCF E-Update Entry Form Benefits Fillable (Benefit update form  SO100BF-1GP ) | 20 minutes
+Entry screens for SSL Website  | File   upload screens for wage and benefit update (1b) | IDCF/ BLSCompdata  Web-Lite Authentication  | 4 0  minutes 
+
+Based on past experience, 70 percent of reporting time comes from professional and related workers, and the remaining 30 percent comes from office and administrative support workers. Tables 10a and 10b below summarize the number of respondents to be contacted each year and estimates of Total Burden Costs.
+
+Table 10a. Estimated respondent cost and distribution 
+
+Type of Respondents | Average Hourly Rate | Historical   Respondent Percentage
+Professional and related specialty | $ 63.45 | 70
+Office and administrative support | $ 33.01 | 30
+Weighted Average Hourly Wage Rate | $ 54.32 | 
+
+Hourly costs of pay and benefits measured by the ECEC data series for Civilian workers in March 2023. http://www.bls.gov/news.release/archives/ecec_March_2023.pdf
+
+Table 10b. Anticipated total sample average responses and burden by Fiscal Year 
+
+Fiscal Year | Respondents | Total # of responses* | Average minutes per response | Total hours | Average Hourly Wage Rate | Total Burden Costs
+FY 202 4 | 19, 057 |  4 9,980 |  4 7.5 282 | 3 9, 591   | $ 54.32 | $ 2,150, 583
+FY 202 5 | 19,838   |   54,226   |  4 6. 27 30   | 41,8 20   | $ 54.32   | $ 2,271, 6 62  
+FY 202 6 | 1 9, 806   |   57,485 |   4 4. 8656   | 42,98 5   | $ 54.32   | $ 2,334, 945  
+Total Average | 1 9,567   | 53,89 6 | 4 6.1 603 | 41,4 65 | $ 54.32 | $ 2,252, 379  
+*Initiations, quarterly updates, quality assurance contacts, and collection testing Note: The sum of individual items may not equal totals due to rounding.
+
+13. Provide an estimate of the total annual cost burden to respondents or recordkeepers resulting from the collection of information. (Do not include the cost of any hour burden shown in Items 12 and 14).
+
+The cost estimate should be split into two components: (a) a total capital and start up cost component (annualized over its expected useful life); and (b) a total operation and maintenance and purchase of service component. The estimates should take into account costs associated with generating, maintaining, and disclosing or providing the information. Include descriptions of methods used to estimate major cost factors including system and technology acquisition, expected useful life of capital equipment, the discount rate(s), and the time period over which costs will be incurred. Capital and start-up costs include, among other items, preparations for collecting information such as purchasing computers and software; monitoring, sampling, drilling and testing equipment; and record storage facilities.
+If cost estimates are expected to vary widely, agencies should present ranges of cost burdens and explain the reasons for the variance. The cost of purchasing or contracting out information collection services should be a part of this cost burden estimate. In developing cost burden estimates, agencies may consult with a sample of respondents (fewer than 10), utilize the 60-day pre-OMB submission public comment process and use existing economic or regulatory impact analysis associated with the rulemaking containing the information collection, as appropriate.
+Generally, estimates should not include purchases of equipment or services, or portions thereof, made: (1) prior to October 1, 1995, (2) to achieve regulatory compliance with requirements not associated with the information collection, (3) for reasons other than to provide information or keep records for the government, or (4) as part of customary and usual business or private practices.
+
+The only costs involve the respondent’s time. There are no capital and start-up costs, operation and maintenance, or purchase of service costs resulting from the collection of this information.
+
+14. Provide estimates of the annualized cost to the Federal Government. Also, provide a description of the method used to estimate cost, which should include quantification of hours, operational expenses (such as equipment, overhead, printing, and support staff), any other expense that would not have been incurred without this collection of information. Agencies also may aggregate cost estimates from Items 12, 13, and 14 into a single table.
+
+The estimated cost of the survey is $57 million for FY 2023. NCS collection cost is $26 million and non-collection cost is $31 million. 
+
+15. Explain the reasons for any program changes or adjustments.
+
+The BLS is seeking approval for 41,465 total average burden hours. This is an increase from December 21, 2021, total average burden hours of 36,114. The increase in burden hours is due to the increase in sample size. Due to the continued decrease in response rates primarily due to the effects from the pandemic, the BLS requested an increased sample size as part of the December 21, 2021, request to ensure a sufficient number of units were collected to calculate the ECI. 
+
+16. For collections of information whose results will be published, outline plans for tabulations, and publication. Address any complex analytical techniques that will be used. Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+Nationwide and locality based compensation data, including quarterly change data, are released shortly after the close of collection for each quarter. ECI and ECEC estimates are published on a national and a locality basis. Modeled Wage Estimates, which are produced combining NCS and OEWS program data, provide compensation estimates for occupations by selected job characteristics and geographic location on an annual basis. Work level estimates, as required by FEPCA, are produced annually and provided to the President's Pay Agent. Finally, detailed information is available annually on the incidence of benefits and benefit provisions.
+
+Employee benefits news releases and publications have a large number of tabulations, including tabulations linking wage levels to benefit incidence rates, counts of establishments offering major benefits to at least one employee, Census division breakouts, and new benefit items.
+ 
+All published estimates from the NCS are available on the BLS website. Included on this site are several query tools that allow users to indicate the type of data desired. Customized tabulations are generated by the query tools available. Complete datasets of published estimates for NCS products are also available in an Excel format.
+
+Data are adjusted for nonresponses (i.e., when establishments refuse to provide any data or refuse to provide data for certain occupations or benefits items). The adjustment consists of revising the weights used to aggregate the individual establishments and occupations. In addition, the BLS imputes missing items on pay, benefits costs, participation rates, and provisions. 
+
+The BLS also adjusts the weights in a process known as benchmarking. This process adjusts weights to reflect changes in employment that occur between the compilation of the universe from which the sample is drawn and the reference date of publication. 
+
+A detailed description of the statistical procedures used in compiling the data is in Part B.
+
+17. If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+Approval to not display the expiration date for OMB approval is not being sought.
+
+18. Explain each exception to the certification statement.
+There are no exceptions to the certification statement.
+PART word/footnotes.xml
+
+
+
+ For example, according to the NCS Employee Benefits in the United States --March 2022, 86 percent of private industry establishments of over 100 or more employees have access to health care benefits, as compared to 58 percent of establishments with fewer than one hundred employees. Just as strikingly, 86 percent of private industry establishments with one hundred or more employees have access to retirement benefits, as compared to 56 percent of those in establishments with fewer than one hundred employees. http://www.bls.gov/news.release/pdf/ebs2.pdf

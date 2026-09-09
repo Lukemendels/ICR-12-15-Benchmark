@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202311-2137-001",
+  "retrieved_at": "2026-09-09T10:48:20.591451+00:00",
+  "documents": [
+    {
+      "title": "2137-0612 Justification HM-264A Final Rule.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=137280501",
+      "path": "icrs/202311-2137-001/raw/supporting-statement-a-1.docx",
+      "sha256": "ab4c6c3ddd265783dce651e8d911e3a1b08e5ac3b203937b7c7e9effdd300fdd",
+      "text_chars": 36487
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202311-2137-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202311-2137-001"
+}

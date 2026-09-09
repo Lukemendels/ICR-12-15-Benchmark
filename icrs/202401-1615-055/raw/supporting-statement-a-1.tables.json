@@ -1,0 +1,107 @@
+{
+  "source_original": "icrs/202401-1615-055/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "",
+          "",
+          "A",
+          "B",
+          "C (=AxB)",
+          "D",
+          "E (=CxD)",
+          "F",
+          "(=ExF)"
+        ],
+        [
+          "Type of Respondent",
+          "Form Name / Form Number",
+          "#. of Respondents",
+          "#. of Responses per Respondent",
+          "# of Responses",
+          "Avg. Burden per Response (in hours)",
+          "Total Annual Burden(in hours)",
+          "Avg. Hourly Wage Rate*",
+          "Total Annual RespondentCost"
+        ],
+        [
+          "Individuals or households",
+          "I-751 / Petition to Remove Conditions on Residence",
+          "153,000",
+          "1",
+          "153,000",
+          "4.387",
+          "671,211",
+          "$36.47",
+          "$24,479,065"
+        ],
+        [
+          "Individuals or households",
+          "Biometric processing",
+          "306,000**",
+          "1",
+          "306,000",
+          "1.17",
+          "358,020",
+          "$36.47",
+          "$13,056,989"
+        ],
+        [
+          "Total",
+          "",
+          "",
+          "",
+          "459,000",
+          "",
+          "1,029,231",
+          "",
+          "$37,536,054"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Data collection Activity/Instru-ment(in hours)",
+          "Program Change (hours currently on OMB Inventory) ",
+          "Program Change (New) ",
+          "Difference",
+          "Adjustment (hours currently on OMB Inventory)",
+          "Adjustment (New)[new minus current] ",
+          "Difference"
+        ],
+        [
+          "I-751",
+          "699,210",
+          "671,211",
+          "(27,999)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Biometrics",
+          "358,020",
+          "358,020",
+          "0",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Total(s)",
+          "1,057,230",
+          "1,029,231",
+          "(27,999)",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

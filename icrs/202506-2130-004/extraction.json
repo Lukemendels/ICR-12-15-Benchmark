@@ -1,0 +1,234 @@
+{
+  "icr_id": "202506-2130-004",
+  "omb_control_number": "2130-0005",
+  "agency": "DOT/FRA",
+  "title": "Hours of Service Regulations",
+  "submission_date": "07/09/2025",
+  "archetype": "rail dutyrecords andfatiguemodeling",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 3,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0070",
+    "SRC-0069"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 13,
+    "provenance": 9,
+    "segmentation": 14,
+    "labor": 5,
+    "item13": 6,
+    "item14": 7,
+    "item15": 9,
+    "validation": 3,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "ManyCFRtaskrows; minutes convertedusingtruncateddecimals,employeeproduct inconsistent.",
+    "provenance": "2024OPM andrailwaywagesource footnote; agencyexperience basisnotreplicable.",
+    "segmentation": "Electronic/paper andfatiguereview activities;explicitfulfilled/excludedobligations.",
+    "labor": "Uniform89.13industryrate; occupation-specificmix lacking.",
+    "item13": "Softwareprogramming/training/support/maintenance inflationtable;one-timeversusannualcycle notclear.",
+    "item14": "Grade/time/quantity explicit; firstrowunloadedwhileothers1.75; headingsaysx75%instead ofmarkup.",
+    "item15": "Row-levelold/newdriverreasons andaggregate1325hourchange.",
+    "validation": "Administrative histories andFASTmodel operational context; response-timeevidence mostlySME.",
+    "consistency": "8minutesrowcalculatedas.13hours; training2/60computedas.03;1/60as.02."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Electronicdutyrecord",
+        17448669,
+        0.05,
+        872433.45
+      ],
+      [
+        "Paperdutyrecord",
+        918351,
+        0.13333333333333333,
+        119385.63
+      ],
+      [
+        "Dispatchrecord",
+        285000,
+        1,
+        285000
+      ],
+      [
+        "Excessservice",
+        2317,
+        1,
+        2317
+      ],
+      [
+        "Initialtrainingrecord",
+        250,
+        0.03333333333333333,
+        7.5
+      ],
+      [
+        "Audits",
+        797,
+        2,
+        1594
+      ],
+      [
+        "Scheduleanalysis",
+        3,
+        2,
+        6
+      ],
+      [
+        "Fatigueplans",
+        3,
+        20,
+        60
+      ],
+      [
+        "Corrections",
+        1,
+        1,
+        1
+      ],
+      [
+        "Followup",
+        1,
+        1,
+        1
+      ],
+      [
+        "Consultation",
+        20,
+        40,
+        800
+      ],
+      [
+        "Trainingprogram",
+        36,
+        2,
+        72
+      ],
+      [
+        "Trainingrecords",
+        5539,
+        0.016666666666666666,
+        110.78
+      ],
+      [
+        "Exclusionrequest",
+        1,
+        1,
+        1
+      ]
+    ],
+    "labor": {
+      "hourly_rate": 89.13,
+      "reported_cost": 114517098,
+      "source": "Railroad wage source perfootnotes; benefitsincluded"
+    },
+    "item13": {
+      "base_components": [
+        75000,
+        50000,
+        7500,
+        15000,
+        100000
+      ],
+      "inflation": 0.0336,
+      "annual_cost": 255816
+    },
+    "item14": {
+      "grade_rates": {
+        "GS14/5": 75.7,
+        "GS12/5": 53.87
+      },
+      "markup": 0.75,
+      "first_task_salary": 157982.4,
+      "first_task_employees": 2,
+      "first_task_share": 0.25,
+      "other_costs": [
+        12066.88,
+        4239.2,
+        9050.16,
+        1589.7
+      ],
+      "total": 105937.14
+    },
+    "item15": {
+      "old_hours": 1283507,
+      "new_hours": 1284832,
+      "delta": 1325,
+      "old_responses": 18660400,
+      "new_responses": 18660988,
+      "classification": "adjustment",
+      "driver_table": "Item15CFRrows"
+    },
+    "assumptions": [
+      "85712employees*210days statedtoyield18367020;95%electronic5%paper.",
+      "Forecastfromrailindustry andSMEhistory; somefatiguetasksFASTmodel based."
+    ]
+  },
+  "reconstruction_issues": [
+    "85712*210=17999520, not18367020.",
+    "918351*8/60=122446.8, not119385.63; prematuretime rounding.",
+    "Initialandfatiguetrainingrecords similarly truncate/round minuteconversion beforemultiplication.",
+    "EarlierItem3 says80%electronic vsItem12 95%; datesnotexplained."
+  ],
+  "methods_worth_testing": [
+    "CFR-level Item15 bridge with observedadministrative reasons; explicitzeroanticipatedevents.",
+    "Preserve exactminute fractions untiloutputrounding."
+  ],
+  "checks": [
+    {
+      "label": "Paperhours",
+      "formula": "918351*8/60",
+      "calculated": 122446.8,
+      "reported": 119385.63,
+      "difference": 3061.1699999999983,
+      "unit": "hours",
+      "interpretation": "Materialprematurerounding",
+      "source_id": "SRC-0070"
+    },
+    {
+      "label": "Populationrecords",
+      "formula": "85712*210",
+      "calculated": 17999520,
+      "reported": 18367020,
+      "difference": -367500,
+      "unit": "records",
+      "interpretation": "Materialdiscrepancy",
+      "source_id": "SRC-0070"
+    },
+    {
+      "label": "Softwarecost",
+      "formula": "247500*1.0336",
+      "calculated": 255816.00000000003,
+      "reported": 255816,
+      "difference": 2.9103830456733704e-11,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0070"
+    },
+    {
+      "label": "Federalcost",
+      "formula": "2*157982.4*.25+12066.88+4239.2+9050.16+1589.7",
+      "calculated": 105937.14,
+      "reported": 105937.14,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0070"
+    }
+  ],
+  "total_score": 67
+}

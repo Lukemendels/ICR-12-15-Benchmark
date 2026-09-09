@@ -1,0 +1,183 @@
+{
+  "icr_id": "202606-1652-002",
+  "omb_control_number": "1652-0027",
+  "agency": "DHS/TSA",
+  "title": "Security Threat Assessment for Individuals Applying for a Hazardous Materials Endorsement for a Commercial Driver's License",
+  "submission_date": "08/21/2026",
+  "archetype": "hazmat driver credential enrollment andrenewal",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 2,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0054",
+    "SRC-0053"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 10,
+    "provenance": 8,
+    "segmentation": 11,
+    "labor": 6,
+    "item13": 5,
+    "item14": 4,
+    "item15": 3,
+    "validation": 3,
+    "consistency": 0
+  },
+  "score_rationale": {
+    "reproducibility": "Year tables detailed but statedgrowth doesnot reproduce forecast;online renewals appear added to fullpopulation already charged inperson.",
+    "provenance": "SixNAICS andtwoSOCs described but component inputs absent; ECEC reference/publication date confused.",
+    "segmentation": "Useful pathways designed but not mutually exclusive in formulas.",
+    "labor": "Employment-weighted wage26.22 andbenefit ratio disclosed; industry weighting andvintage insufficient to reproduce.",
+    "item13": "Fee components andappeal costs explicit; discount applied to allrenewals instead ofonline60% only.",
+    "item14": "User fees said tocover federal costs without gross costs or allocation.",
+    "item15": "Directions stated without quantitative old/new bridge; newonline policy vsadjustment classification unclear.",
+    "validation": "Historical enrollment counts andcandid appeal-time extrapolation; assumptions unvalidated.",
+    "consistency": "Survey table519hours becomes5187summary; major pathway andprojection inconsistencies."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Agent pre-enrollment",
+        76077.76,
+        0.96,
+        73034
+      ],
+      [
+        "Agent inperson",
+        96826.24,
+        0.9,
+        87144
+      ],
+      [
+        "Online renewal",
+        53946.048,
+        0.17,
+        9171
+      ],
+      [
+        "Nonagent enrollment",
+        65617,
+        0.96,
+        62992
+      ],
+      [
+        "Survey",
+        17290,
+        0.03,
+        519
+      ],
+      [
+        "Appeals",
+        3148,
+        6,
+        18888
+      ]
+    ],
+    "labor": {
+      "base_wage": 26.22,
+      "loaded_rate": 38.18,
+      "ecec_total": 36.36,
+      "ecec_wage": 24.97,
+      "soc": [
+        "53-3032",
+        "53-3033"
+      ],
+      "NAICS": [
+        "325300",
+        "325000",
+        "324000",
+        "115000",
+        "424600",
+        "424700"
+      ],
+      "reported_cost": 9789963
+    },
+    "item13": {
+      "new_agent_annual": 82994,
+      "renewal_agent_annual": 89910,
+      "nonagent_annual": 65617,
+      "new_fee": 85.25,
+      "discounted_renewal_fee": 77.25,
+      "nonagent_fee": 91.86,
+      "appeal_unit": 1,
+      "appeals": 3148,
+      "reported_cost": 20051456
+    },
+    "item14": {
+      "gross_cost": null,
+      "reason": "User fee covers STA andother operations"
+    },
+    "item15": {
+      "description": "Updatedhistoricaldata,lowerresponses andrenewalfee;no quantifiedbridge"
+    },
+    "assumptions": [
+      "Agent2025=167975;forecast170454,175770,172487;statedgrowth1.01%.",
+      "Nonagent2025=63267;forecast65673,65595,65582;statedgrowth−.98%.",
+      "48%new52%renewal;60%renewalsonline.",
+      "Appeal3%ineligible*44%seekcorrection*6hours;time extrapolated fromcustomer support."
+    ]
+  },
+  "reconstruction_issues": [
+    "Tables5a+5b charge100%agentpopulation in-person pathways;Table5c adds online subset instead ofsubstituting.",
+    "Survey Table7 average519hours becomes5187in Tables8/10.",
+    "Forecast doesnot followstated compoundgrowth.",
+    "Table11 appliesonline discountedfee toallrenewals though60%online; footnote44%renewal conflicts52%.",
+    "2026+2027+2028 totalhours not769255 exactly; multiplecopy/precision problems."
+  ],
+  "methods_worth_testing": [
+    "Explicit uncertainty about appeal effort is worth retaining; automate exclusive pathway shares andforecast formula validation."
+  ],
+  "checks": [
+    {
+      "label": "Forecastfirstyear",
+      "formula": "167975*1.0101",
+      "calculated": 169671.5475,
+      "reported": 170454,
+      "difference": -782.452500000014,
+      "unit": "persons",
+      "interpretation": "Doesnot reproduce",
+      "source_id": "SRC-0054"
+    },
+    {
+      "label": "Surveyhours",
+      "formula": "172904*.10*.03",
+      "calculated": 518.712,
+      "reported": 5187,
+      "difference": -4668.2880000000005,
+      "unit": "hours",
+      "interpretation": "Factor10summary discrepancy",
+      "source_id": "SRC-0054"
+    },
+    {
+      "label": "Agentpathway share",
+      "formula": ".44+.56+.52*.60",
+      "calculated": 1.312,
+      "reported": 1,
+      "difference": 0.31200000000000006,
+      "unit": "share",
+      "interpretation": "Paths sum1.312; apparent doublecount",
+      "source_id": "SRC-0054"
+    },
+    {
+      "label": "Three yearhours",
+      "formula": "253812+259516+255933",
+      "calculated": 769261,
+      "reported": 769255,
+      "difference": 6,
+      "unit": "hours",
+      "interpretation": "Six-hour difference",
+      "source_id": "SRC-0054"
+    }
+  ],
+  "total_score": 50
+}

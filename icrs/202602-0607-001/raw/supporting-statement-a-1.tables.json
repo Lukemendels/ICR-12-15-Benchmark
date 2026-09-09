@@ -1,0 +1,106 @@
+{
+  "source_original": "icrs/202602-0607-001/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "",
+          "Number",
+          "Burden Estimate per Response",
+          "Total Burden Hours"
+        ],
+        [
+          "Employer Businesses without BERD content",
+          "174,500",
+          "45 Minutes",
+          "130,875"
+        ],
+        [
+          "Employer Businesses with BERD content",
+          "47,500",
+          "3 Hours and 22 Minutes",
+          "159,916"
+        ],
+        [
+          "Nonprofit Organizations",
+          "8,000",
+          "38 Minutes",
+          "5,067"
+        ],
+        [
+          "Total",
+          "230,000",
+          "-----",
+          "295,858"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Milestone",
+          "RY25 ABS Planned Completion Date"
+        ],
+        [
+          "Content Draft",
+          "November 2025"
+        ],
+        [
+          "Cognitive Testing",
+          "January 2026"
+        ],
+        [
+          "Content Final",
+          "February 2026"
+        ],
+        [
+          "Approval Request Submitted to OMB",
+          "February 2026"
+        ],
+        [
+          "Instrument Usability Testing Complete",
+          "March 2026"
+        ],
+        [
+          "Online Reporting Instrument Testing Complete",
+          "April 2026"
+        ],
+        [
+          "Sample Selection",
+          "April 2026"
+        ],
+        [
+          "Initial Mail Operations",
+          "Late May 2026"
+        ],
+        [
+          "Closeout Mail Operations",
+          "December 2026"
+        ],
+        [
+          "Micro Data Review Complete",
+          "January 2027"
+        ],
+        [
+          "Macro Data Review Complete",
+          "March 2027"
+        ],
+        [
+          "Preliminary Data Publication",
+          "March 2027"
+        ],
+        [
+          "Dissemination Processing",
+          "September 2027"
+        ],
+        [
+          "Final Data Publication",
+          "October 2027"
+        ]
+      ]
+    }
+  ]
+}

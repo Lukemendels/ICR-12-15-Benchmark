@@ -1,0 +1,164 @@
+{
+  "icr_id": "202412-3170-001",
+  "omb_control_number": "3170-0081",
+  "agency": "CFPB",
+  "title": "Required Rulemaking on Personal Financial Data Rights",
+  "submission_date": "12/06/2024",
+  "archetype": "financial data access infrastructure",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 2,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0046",
+    "SRC-0045"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 3,
+    "segmentation": 13,
+    "labor": 0,
+    "item13": 5,
+    "item14": 7,
+    "item15": 6,
+    "validation": 2,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "Seven population-times rows reconstruct total hours; underlying task times not decomposed.",
+    "provenance": "Vendor midpoint, population, hours and labor prices not adequately sourced in Items12–15.",
+    "segmentation": "Providers versus third parties and startup versus ongoing meaningful; outsourcing split requires overlap check.",
+    "labor": "No respondent labor-dollar estimate or wage methodology in retrieved Item12.",
+    "item13": "Vendor scope allocation explicit; table reverses one-time versus ongoing relative to prose; annualization horizon unclear.",
+    "item14": "Zero because Bureau receives no data; oversight and incremental systems scope not addressed.",
+    "item15": "New collection identified but no complete zero-to-new annualized bridge.",
+    "validation": "Acknowledges vendor economies of scale; no quantified timing validation.",
+    "consistency": "Item13 one-time/ongoing assignment reverses; response total sums obligation events while unique entities separate."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Provider recordkeeping startup",
+        1785,
+        557,
+        994245
+      ],
+      [
+        "Provider recordkeeping ongoing",
+        1785,
+        60,
+        107100
+      ],
+      [
+        "Third-party records startup",
+        8500,
+        320,
+        2720000
+      ],
+      [
+        "Third-party records ongoing",
+        8500,
+        150,
+        1275000
+      ],
+      [
+        "Provider disclosure startup",
+        1785,
+        324,
+        578340
+      ],
+      [
+        "Provider disclosure ongoing",
+        1785,
+        30,
+        53550
+      ],
+      [
+        "Third-party disclosure startup",
+        8500,
+        162,
+        1377000
+      ]
+    ],
+    "labor": {
+      "labor_cost": null,
+      "hourly_rate": null
+    },
+    "item13": {
+      "vendor_share": 0.75,
+      "provider_count": 1785,
+      "vendor_count_rounded": 1339,
+      "annual_vendor_fee": 42000,
+      "recordkeeping_allocation": 0.25,
+      "disclosure_allocation": 0.25,
+      "annual_total": 28119000,
+      "table_startup": 22495200,
+      "table_ongoing": 5623800,
+      "prose_startup_share": 0.2,
+      "prose_ongoing_share": 0.8
+    },
+    "item14": {
+      "annual_cost": 0,
+      "reason": "No information collected by Bureau under this rule"
+    },
+    "item15": {
+      "baseline": "new",
+      "reported_hours": 7105235,
+      "one_time_share_approx": 0.8
+    },
+    "assumptions": [
+      "25% providers create systems in-house;75% use vendors.",
+      "Automated ongoing disclosures assumed minimal; provider size acknowledged without size-specific times."
+    ]
+  },
+  "reconstruction_issues": [
+    "Item13 table allocates80% to one-time whereas prose allocates20%.",
+    "Vendor fee midpoint and task times lack reproducible evidence; labor dollars absent.",
+    "One-time totals presented as annual burden without explicit three-year treatment."
+  ],
+  "methods_worth_testing": [
+    "Preserve make-versus-buy pathways and allocations of bundled vendor contracts."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "994245+107100+2720000+1275000+578340+53550+1377000",
+      "calculated": 7105235,
+      "reported": 7105235,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0046"
+    },
+    {
+      "label": "Vendor cost",
+      "formula": "1339*42000*(.25+.25)",
+      "calculated": 28119000.0,
+      "reported": 28119000,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0046"
+    },
+    {
+      "label": "Startup per prose",
+      "formula": "28119000*.2",
+      "calculated": 5623800.0,
+      "reported": 22495200,
+      "difference": -16871400.0,
+      "unit": "USD",
+      "interpretation": "Classification conflicts with table",
+      "source_id": "SRC-0046"
+    }
+  ],
+  "total_score": 54
+}

@@ -1,0 +1,169 @@
+{
+  "icr_id": "202508-2126-007",
+  "omb_control_number": "2126-0001",
+  "agency": "DOT/FMCSA",
+  "title": "Hours of Service (HOS) of Drivers Regulations",
+  "submission_date": "09/15/2025",
+  "archetype": "driver electroniclogging records",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 3,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0074",
+    "SRC-0073"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 13,
+    "provenance": 10,
+    "segmentation": 13,
+    "labor": 4,
+    "item13": 6,
+    "item14": 6,
+    "item15": 6,
+    "validation": 3,
+    "consistency": 0
+  },
+  "score_rationale": {
+    "reproducibility": "Forecastanddailyrecord tables; weightingdenominator wrong andcarrierrounding producesconflictingtotals.",
+    "provenance": "MCMISdatedquery,BLSprojections,OEWS/ECEC andvendorprices; allunderlyingquotesnotyetverified.",
+    "segmentation": "Driver/carrier,new/existing,exemptDOL andequipment/service split.",
+    "labor": "FourSOCweights exceed100%;nestedpassengercategories anddenominator concerns;ECECbenefits mislabeledoverhead.",
+    "item13": "Vendorprice ranges andmedian,installation,andmonthlyservice;replacement omittedandannualtotalincorrect.",
+    "item14": "Noincremental federalcost justified asnormalduties; inspectionallocationquestion.",
+    "item15": "Old/newinputs andcosts shown butseveraldeltas arithmeticallywrong.",
+    "validation": "MCMISobservations andinvestigator50%reviewbasis; malfunctionrates explicitlyunknown.",
+    "consistency": "53.40v53.44mhours,1.6206bv1.63553bcost,over100%wageweights."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "DriverRODS",
+        1068000000,
+        0.03333333333333333,
+        35600000
+      ],
+      [
+        "Carrierreview",
+        534000000.0,
+        0.03333333333333333,
+        17800000
+      ]
+    ],
+    "labor": {
+      "occupation_counts": [
+        2044400,
+        1003960,
+        594230,
+        184990
+      ],
+      "denominator_reported": 3490010,
+      "median_wages": [
+        26.12,
+        20.42,
+        18.52,
+        28.93
+      ],
+      "weighted_wage": 25.85,
+      "factor": 1.419,
+      "driver_loaded": 36.68,
+      "clerk_loaded": 32.37,
+      "reported_labor_cost": 1882000000
+    },
+    "item13": {
+      "established_driver_count": 4450000,
+      "new_driver_count": 20000,
+      "ELD_price": 350,
+      "install_price": 150,
+      "monthly_service": 30,
+      "logbook_price": 5.24,
+      "logbook_annual": 23530000,
+      "ELD_annual": 1612000000,
+      "reported_total": 1620600000,
+      "replacement_life": null
+    },
+    "item14": {
+      "annual_cost": 0,
+      "reason": "No data submission; reviewwithinexistingpositionduties; vendorICR2126-0062 separate"
+    },
+    "item15": {
+      "old_hours": 50370000,
+      "new_hours": 53400000,
+      "old_driver_rate": 29.78,
+      "new_driver_rate": 36.68,
+      "old_carrier_rate": 30.2,
+      "new_carrier_rate": 32.37,
+      "carrier_old_cost": 507060000,
+      "carrier_new_cost": 576190000,
+      "carrier_claimed_increase": 374930000
+    },
+    "assumptions": [
+      "MCMISJan2,2025;4.45mdriversannualmean;240days;2minentry;50%review.",
+      "Employmentprojectionannualgrowth.576%; tableformula incorrectlyA/D ratherthanB/A.",
+      "NoELDmalfunctionfrequencydata;onebackupbook/year plus2fornewdriver."
+    ]
+  },
+  "reconstruction_issues": [
+    "Occupationcounts3827580 vsdenominator3490010;laborweights sum109.68%.",
+    "Table9header31monthly butvaluesuse30.",
+    "23530000+1612000000=1635530000, notreported1620600000.",
+    "Carrierhours17.84mtable versus17.80msummary; prematurepopulationrounding.",
+    "Carrier costchange69130000, not374930000."
+  ],
+  "methods_worth_testing": [
+    "Vendorprice survey andnew-purchasecohorts distinctfromstockservicecost; addreplacementcohorts.",
+    "Cross-agency timecardburdenexclusion andexplicitunknownmalfunction burden."
+  ],
+  "checks": [
+    {
+      "label": "Weightdenominator",
+      "formula": "2044400+1003960+594230+184990",
+      "calculated": 3827580,
+      "reported": 3490010,
+      "difference": 337570,
+      "unit": "drivers",
+      "interpretation": "Materialdiscrepancy",
+      "source_id": "SRC-0074"
+    },
+    {
+      "label": "Nonlabor total",
+      "formula": "23530000+1612000000",
+      "calculated": 1635530000,
+      "reported": 1620600000,
+      "difference": 14930000,
+      "unit": "USD",
+      "interpretation": "Materialadditionerror",
+      "source_id": "SRC-0074"
+    },
+    {
+      "label": "Carrierchange",
+      "formula": "576190000-507060000",
+      "calculated": 69130000,
+      "reported": 374930000,
+      "difference": -305800000,
+      "unit": "USD",
+      "interpretation": "Materialsubtractionerror",
+      "source_id": "SRC-0074"
+    },
+    {
+      "label": "Exactcarrierhours",
+      "formula": "4450000*240*.5*2/60",
+      "calculated": 17800000.0,
+      "reported": 17800000,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Summaryreconstructs;Table417.84mdoesnot",
+      "source_id": "SRC-0074"
+    }
+  ],
+  "total_score": 61
+}

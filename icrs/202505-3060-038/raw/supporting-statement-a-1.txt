@@ -1,0 +1,740 @@
+PART word/document.xml
+SUPPORTING STATEMENT
+A.  Justification
+
+1.  Circumstances that make collection necessary.  The Federal Communications Commission requests that the Office of Management and Budget (OMB) approve a revision of the information collection titled “Part 25 of the Federal Communications Commission’s Rules Governing the Licensing of, and Spectrum Usage By, Commercial Earth Stations and Space Stations” under OMB Control No. 3060-0678, as a result of the rulemakings discussed below.
+
+On April 21, 2023, the Commission released a Report and Order, FCC 23-29, IB Docket No. 21-456, titled “Revising Spectrum Sharing Rules for Non-Geostationary Orbit, Fixed-Satellite Service Systems.”  In this Report and Order, the Commission revised its rules governing spectrum sharing among a new generation of broadband satellite constellations to promote market entry, regulatory certainty, and spectrum efficiency through good-faith coordination.  As relevant to this information collection, the Commission adopted rules clarifying protection obligations between non-geostationary satellite orbit, fixed-satellite service (NGSO FSS) systems authorized through different processing rounds by using a degraded throughput methodology.  Specifically, the Commission required that, prior to commencing operations, an NGSO FSS licensee or market access recipient must either certify that it has completed a coordination agreement with any operational NGSO FSS system licensed or granted U.S. market access in an earlier processing round, or submit for Commission approval a compatibility showing which demonstrates by use of a degraded throughput methodology that it will not cause harmful interference to any such system with which coordination has not been completed.  If an earlier-round system becomes operational after a later-round system has commenced operations, the later-round licensee or market access recipient must submit a certification of coordination or a compatibility showing with respect to the earlier-round system no later than 60 days after the earlier-round system commences operations.  The relevant rule revision for purposes of this information collection is the addition of paragraph (d) in 47 C.F.R. § 25.261. 
+
+Further, on November 15, 2024, the Commission released a Second Report and Order in the same rulemaking proceeding, FCC 24-117, IB Docket No. 21-456, titled “Revising Spectrum Sharing Rules for Non-Geostationary Orbit, Fixed-Satellite Service Systems.”  In this Second Report and Order, the Commission revised the NGSO FSS sharing rules to clarify certain details of the degraded throughput methodology that, in the absence of a coordination agreement, must be used in compatibility analyses by NGSO FSS system licensees authorized through later processing rounds to show they can operate compatibly with, and protect, NGSO FSS systems authorized through earlier processing rounds.  The Commission adopted a 3% time-weighted average throughput degradation as a long-term interference protection criterion, a 0.4% absolute increase in link unavailability as a short-term interference protection criterion, and declined to adopt additional protection metrics or to adopt an aggregate limit on interference from later-round NGSO FSS systems into earlier-round NGSO FSS systems.  The relevant rule revision for purposes of this information collection is the revision of paragraph (d) in 47 C.F.R. § 25.261.
+
+The Commission will use the new information collection requirements in this collection to determine the technical qualifications of licensees and market access grantees to operate an NGSO FSS space station and to determine whether operations under an NGSO FSS authorization serve the public interest, convenience and necessity. Without such information, the Commission could not determine whether to permit respondents to provide communications services in the United States because it could not assure that incumbent NGSO FSS licensees and market access grantees are adequately protected from radiofrequency interference that could be caused by NGSO FSS satellite systems authorized through a later processing round. Therefore, the Commission would not be able to fulfill its statutory responsibilities in accordance with the Communications Act of 1934, as amended, and the obligations imposed on parties to the World Trade Organization Basic Telecom Agreement.
+
+The forms that are included in this collection are FCC Forms 312, 312 EZ, 312-R, and Schedules A, B, and S.
+
+The statutory authority for this information collection is contained in 47 U.S.C. §§ 154, 301, 302, 303, 307, 309, 310, 319, 332, 605, and 721.
+
+The information collection requirements do not affect individuals or households; therefore, there are no impacts under the Privacy Act.
+
+The Commission is submitting this revised information collection to the Office of Management and Budget (OMB) to obtain the full three-year clearance.
+
+2.  Use of information.  This collection is used by the Commission’s staff in carrying out its statutory duties to regulate satellite communications in the public interest, as generally provided under 47 U.S.C. §§ 154, 301, 302, 303, 307, 309, 310, 319, 332, 605, and 721.  This collection is also used by staff in carrying out United States treaty obligations under the World Trade Organization Basic Telecom Agreement.  The information collected is used for the practical and necessary purposes of assessing the legal, technical, and other qualifications of applicants; determining compliance by applicants, licensees, and other grantees with Commission rules and the terms and conditions of their grants; and concluding whether, and under what conditions, grant of an authorization will serve the public interest, convenience, and necessity.
+For example, collected information is used by the Commission:
+To determine the qualifications of applicants and petitioners to provide satellite service, including applicants that are affiliated with foreign entities and petitioners that seek to provide service to the U.S. market from non-U.S.-licensed satellites.
+To facilitate technical coordination of systems among applicants and licensees in various frequency bands.  Without such information, the Commission could not implement band plans as set forth in the Table of Allocations, 47 C.F.R. § 2.106.
+To facilitate the Commission’s efforts to use spectrum more efficiently and to better accommodate the operational needs of licensees.
+To provide operators with greater flexibility while ensuring that their operations do not cause harmful interference to the operations of other service providers.
+To examine requests for authority to change a controlling interest in the ownership of a space station or earth station licensee.
+To assist the Commission in considering whether its rules require modification to accommodate the changing market.
+To ensure that licensees comply with all Commission rules and the terms and conditions of their licenses.
+
+3.  Technological collection techniques.  Applicants are required to complete and file the “Application for Satellite Space and Earth Station Authorizations” (FCC Form 312, including associated Schedules A, B, or S where appropriate), FCC Form 312 EZ, or FCC Form 312-R with the Commission electronically via the International Bureau Filing System (IBFS).  Applicants seeking to assign an authorization, or to transfer control of an authorization holder, must complete FCC Form 312, Schedule A.  Earth station applicants must complete Form 312, Schedule B.  Space station applicants must complete Form 312, Schedule S.  
+In addition, applicants are required to file narrative information that describes how they have met or will meet certain requirements.  For example, applicants file narratives to describe what measures they have undertaken and will undertake to mitigate the creation of orbital debris.  The majority of this narrative information can be filed electronically in IBFS.
+In December 2006, the Commission received approval for mandatory electronic filing of surrenders of authorizations under Part 25.  In September 2007, the OMB approved mandatory electronic filing of consummations of assignments and transfers of control of licenses for all satellite services.  A total of 100% of that collection involves the use of electronic collection techniques.  In addition, Satellite Digital Audio Radio Service (SDARS) licensees may provide required notification of terrestrial repeater deployment to Wireless Communications Services licensees via electronic mail or other electronic media.  If requested to do so, SDARS licensees may also transmit inventories of their repeater networks to Commission staff via electronic mail or other electronic media.  Consequently, 100% of the information provided under those rules can be submitted electronically.
+
+4.  Efforts to identify duplication.  The Commission does not impose similar information collection requirements on the respondents.
+
+5.  Impact on small entities. In conformance with the PRA, the Commission is making an effort to minimize the burden on all respondents, regardless of size.  The Commission has endeavored to limit the information collection requirements to those that are necessary to evaluate and process an application, to deter possible abuses of the licensing process, and otherwise to fulfill the Commission’s statutory obligations.  The Commission has assessed the effects of requiring later-round NGSO FSS grantees to submit compatibility showings with respect to earlier-round grantees with whom coordination has not yet been reached, and found that doing so will serve the public interest and that few NGSO FSS operators affected by this rulemaking would qualify under the SBA definition of “small entity,” and therefore small entities are not likely to have to hire professionals, or incur any compliance costs as a result of the rule changes.
+  
+6.  Consequences if information is not collected.  If the various data in this collection were collected less frequently or not filed in accordance with our rules, then, among other harms:
+The Commission would not be able to carry out its mandate to determine that grant of an application is in the public interest, as required by statute.
+The Commission would not be able to ensure that licensees are operating in accordance with Commission rules.
+The Commission would not be able to determine whether a satellite system could operate without causing harmful interference to stations in other services.
+The Commission would not be able to advance its goals of managing spectrum efficiently and promoting broadband technologies to benefit American consumers throughout the United States.
+The Commission would not be able to mitigate the potential harmful effects of orbital debris accumulation.  Without such information collection requirements, the growth in the orbital debris population may limit the usefulness of space for communications and other uses in the future by raising the costs and lowering the reliability of space-based systems.
+The Commission would not have essential information to determine whether approval of a change in a controlling interest in the ownership of a license serves the public interest, as required by statute.
+
+7.  Special circumstances.  This information collection will be conducted in a manner that is consistent with the guidelines in 5 CFR § 1320.5.
+
+8.  Federal Register notice; efforts to consult with persons outside the Commission. The Commission initiated a 60-day public comment period which was published in the Federal Register on March 5, 2025 (90 FR 11318).  No comments were received as a result of the notice.  A copy of the Federal Register Notice is referenced in this submission to the OMB.
+
+9.  Payments or gifts to respondents.  No payment or gift will be given to respondents in connection with these information collection requirements.
+
+10.  Assurances of confidentiality.  Certain information collected regarding international coordination of satellite systems is not routinely available for public inspection pursuant to 5 U.S.C. § 552(b) and 47 C.F.R. § 0.457(d)(vii).  Personally identifiable information (PII) such as names, addresses, phone numbers, email addresses, or citizenship, ownership, or financial information that is relevant to a filing will be collected and maintained in accordance with the FCC/IB-1, International Bureau Filing System, system of records notice (SORN).  A Privacy Impact Assessment (PIA) has also been performed for both of these systems.  The SORN and the PIA are both posted at https://www.fcc.gov/managing-director/privacy-transparency/privacy-act-information.
+  
+11.  Questions of a sensitive nature.  This information collection does not address any matters of a private or sensitive nature.  Nonetheless, in instances where applicants or licensees provide personally identifiable information (PII), the Commission has the FCC/IB-1, International Bureau Filing System, SORN.
+
+12.  Estimates of the hour burden of the collection to respondents.  The following represents the frequency of response, time per response, total annual burden hours, and an explanation for the estimated respondents and responses to this information collection.  To provide these estimates, we reviewed filings with the Commission over the past several years and also estimated how many applications we are likely to receive under different categories, and made some updates to the prior estimates.
+
+I.Applications for Initial Licenses or Registrations and Requests for U.S. Market Access
+
+Space Stations (Form 312, Schedule S)
+
+General requirements (47 CFR §§ 25.110(b), 25.111(b) or (c), (d), 25.114(a)-(c), (d)(1)-(6), (d)(14); see also 47 CFR § 0.457(d)(1)(vii)(C))
+
+Number of respondents:  28. 16 applications per year for U.S. space station licenses, 10 requests per year to serve the U.S. market with a non-U.S.-licensed space station, and two applications per year for a U.S. earth station to communicate with a non-U.S.-licensed space station that has not been previously granted U.S. market access.
+Number of responses:  28.
+Frequency of response:  One time.
+Annual hour burden:  The total annual burden is 1,736 hours (28 responses x 62 hours/response = 1,736 hours).
+
+Additional Service-Specific Requirements
+
+Geostationary-Satellite Orbit (GSO) Fixed-Satellite Service (FSS) Applications (47 CFR § 25.140(a))
+
+Number of respondents:  9.
+Number of responses:  9.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 18 hours (9 responses x 2 hours/response = 18 hours).
+
+NGSO FSS Applications (47 CFR §§ 25.114(d)(12), 25.146)
+
+Number of respondents: 8. 
+Number of responses: 8. 
+Frequency of response: One time and on occasion. 
+Annual hour burden: The total annual hour burden is 32 hours (8 responses x 4 hours/persons = 32 hours).
+
+Direct Broadcast Satellite (DBS) Applications (47 CFR §§ 25.114(d)(11), (13), (18), 25.148)
+
+Number of respondents:  1.
+Number of responses:  1.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 9 hours (1 responses x 9 hours/response = 9 hours).
+
+17/24 GHz Broadcasting-Satellite Service (BSS) Applications (47 CFR §§ 25.114(d)(7), (15)-(18), 25.140(a), (b), (c), 25.203(3), 25.264)
+
+Number of respondents:  2.
+Number of responses:  2.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 156 hours (2 responses x 78 hours/response = 156 hours).
+
+ 17 GHz GSO FSS Applications (47 CFR §§ 25.114(d)(7), (15), (18), 25.140(a)(2), (3)(iii), (4), (5), (7), (d), 25.203(3), 25.264)  
+
+Number of respondents:  2.
+Number of responses:  2.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 156 hours (2 responses x 78 hours/response = 156 hours).
+
+SDARS Applications (47 CFR § 25.144(a))
+
+Number of respondents:  2.
+Number of responses:  2.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 2 hour (2 response x 1 hour/response = 2 hour).
+
+GSO MSS Applications (47 CFR § 25.143(b))
+
+Number of respondents:  1.
+Number of responses:  1.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 4 hours (1 response x 4 hours/response = 4 hours).
+
+NGSO MSS Applications (47 CFR §§ 25.142(a), (b)(2)(ii), 25.143(b), 25.250(b), 25.279)
+
+Number of respondents:  4.
+Number of responses:  4.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 24 hours (4 responses x 6 hours/response = 24 hours).
+
+Ancillary Terrestrial Component (ATC) Applications (47 CFR §§ 25.149, 25.253, 25.254)
+
+Number of respondents:  1.
+Number of responses:  1.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 50 hours (1 response x 50 hours/response = 50 hours).
+
+Request for Filing of Advance Publication Information (Letter, 47 CFR § 25.111(e); see also 47 CFR § 0.457(d)(1)(vii)(C))
+
+Number of respondents:  1.
+Number of responses:  1.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 2 hour (1 response x 2 hours/response = 2 hours).
+
+B.Small Satellites or Small Spacecraft (Form 312, Schedule S, 47 CFR § 25.122 or 47 CFR § 25.123)
+
+Number of respondents:  5.
+Number of responses:  5.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 190 hours (5 responses x 38 hours/response =    190 hours).
+
+C.Earth Stations (Form 312, Schedule B)
+
+General Requirements (47 CFR §§ 25.110, 25.115(a)(1)(ii), (a)(5)-(10), (b)(1)-(9), 25.209, 25.211, 25.212, 25.218, 25.220, 25.203, 25.204(e)(1))
+
+Number of respondents:  226.
+Number of responses:  226.
+Frequency of response:  One time and Third Party Disclosure in accordance with 47 CFR § 25.203.
+Annual hour burden:  The total annual hour burden is 1,808 (226 responses x 8 hours/response = 1,808 hours). 
+
+Applications Eligible for Autogrant Licensing (47 CFR § 25.115(a)(2))
+
+Number of respondents:  50. 
+Number of responses:  50.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 300 hours (50 responses x 6 hours = 300 hours).
+
+Applications Not Eligible for Autogrant Licensing (47 CFR § 25.115(a)(1), (f); see also General Requirements above)
+
+Number of respondents:  176 
+Number of responses:  176.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 1,056 hours (176 responses x 6 hours/response = 1,056 hours).
+ 
+Applications Requesting Market Access for Non-U.S. Licensed Space Stations (Form 312, Schedule S, 47 CFR §§ 25.114, 25.137)
+
+Number of respondents:  10.
+Number of responses:  10.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 80 hours (10 responses x 8 hours/response = 80 hours).
+
+Applications to Register Receive-Only Earth Stations (47 CFR § 25.115(b))
+
+Number of respondents:  2.
+Number of responses:  2.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 8 hours (2 responses x 4 hours/response =  8 hours).
+
+Additional Application Requirements for Other Types of Earth Stations
+
+Blanket Licensed Earth Station Networks in the 3700-4200 MHz and 5925-6425 MHz Bands (47 CFR § 25.115(c)(2)(i))
+
+Number of respondents:  10.
+Number of responses:  10.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 400 hours (10 responses x 40 hours/response = 400 hours).
+
+Blanket Licensed Earth Station Networks within the 10.7-20.2 GHz Bands (47 CFR § 25.115(c)(1), (e), (f))
+
+Number of respondents:  50.
+Number of responses:  50.
+Frequency of response:  One time.
+Annual hour burden:  The total annual burden hours is 1,000 hours (50 responses x 20 hours/response = 1,000 hours).
+
+Blanket Licensed Earth Station Networks within the 27.5-30 GHz Bands (47 CFR § 25.115(c)(1), (e), (f))
+
+Number of respondents:  12.
+Number of responses:  12.
+Frequency of response:  One time.
+Annual hour burden:  The total annual burden hours is 240 hours (12 responses x 20 hours/response = 240 hours).
+
+Earth Stations In Motion (ESIM) (47 CFR § 25.228)
+
+1)    Earth Stations on Vessels (ESV) (47 CFR § 25.228)
+
+Number of respondents:  5.
+Number of responses:  5.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 300 hours (5 responses x 60 hours/response = 300 hours).
+
+2)   Vehicle-Mounted Earth Stations (VMES) (47 CFR § 25.228)
+
+Number of respondents:  4.
+Number of responses:  4.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 240 hours (4 responses x 60 hours/response = 240 hours).
+
+3)   Earth Stations aboard Aircraft (ESAA) (47 CFR § 25.228)
+
+Number of respondents:  10.
+Number of responses:  10.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 800 hours (10 responses x 80 hours/response = 800 hours).
+
+Temporary-Fixed (47 CFR §§ 25.110, 25.277)
+
+Number of respondents:  115.
+Number of responses:  115.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 920 hours (115 responses x 8 hours/response = 920 hours). 
+
+MSS (47 CFR §§ 25.115(d), 25.129(c), 25.135, 25.257, 25.258(c))
+
+Number of respondents:  4.
+Number of responses:  4.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 32 hours (4 responses x 8 hours/response = 32 hours). 
+
+17/24 GHz BSS (47 CFR § 25.115(g))
+
+Number of respondents:  3.
+Number of responses:  3.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 24 hours (3 responses x 8 hours/response = 24 hours).
+
+12/17 GHz DBS (47 CFR §25.203(m))
+
+Number of respondents: 3.
+Number of responses:  3.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 27 hours (3 responses x 9 hours/response = 27 hours).
+
+17 GHz FSS (47 CFR §25.115)
+
+Number of respondents: 3.
+Number of responses:  3.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 24 hours (3 responses x 8 hours/response = 24 hours).
+
+SDARS Terrestrial Repeaters (47 CFR §§ 25.144(e), 25.263(b), (c), 25.403, 25.404; see also FCC 10-82, para. 278)
+
+Number of respondents:  1.
+Number of responses:  1.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 4 hours (1 response x 4 hours/response = 4 hours).
+
+D.Space Stations and Earth Stations (Form 312, Schedules B and S, Schedule B, 47 CFR § 25.124(b))
+
+Number of respondents:  1.
+Number of responses:  1.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 59 hours (1 responses x 59 hours/response =    59 hours).
+
+II.Modifications of Existing Licenses and Market Access Grants (Form 312)
+
+Space Station (47 CFR § 25.117)
+
+Number of respondents:  44.
+Number of responses:  44.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 704 hours (44 responses x 16 hours/response = 704 hours).
+
+Earth Station (47 CFR § 25.117)
+
+Number of respondents:  165.  
+Number of responses:  165.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 3,300 hours (165 responses x 20 hours/response = 3,300 hours).
+
+III.Amendments of Pending Applications and Petitions (Form 312)
+
+Space Station (47 CFR §§ 25.116, 25.137(e))
+
+Number of respondents:  10.
+Number of responses.  10.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 55 hours (10 responses x 5.5 hours/response = 55 hours).
+
+Earth Station (47 CFR §§ 25.116, 25.137(e))
+
+Number of respondents:  34.
+Number of responses:  34.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 136 hours (34 responses x 4 hours/response = 136 hours).
+
+IV.Transfers of Control or Assignments (Form 312 and Schedule A)
+
+Transfers of Control (47 CFR §§ 25.119, 25.137(g))
+
+Space Station
+
+Number of respondents:  4.
+Number of responses:  4.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 36 hours (4 responses x 9 hours/response = 36 hours).
+
+Earth Station
+
+Number of respondents:  155.
+Number of responses:  155.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 1,395 hours (155 responses x 9 hours/response = 1,395 hours).
+
+Assignments (47 CFR §§ 25.119, 25.137(g))
+
+Space Station
+
+Number of respondents:  3.
+Number of responses:  3.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 27 hours (3 operators x 9 hours/response = 27 hours).
+
+Earth Station
+
+Number of respondents:  81.
+Number of responses:  81.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 729 hours (81 responses x 9 hours/response = 729 hours).
+ 
+V.Applications for Special Temporary Authority (Form 312) (47 CFR § 25.120)
+
+Space Station
+
+Number of respondents:  77.
+Number of responses:  77.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 616 hours (77 responses x 8 hours/response = 616 hours).
+
+Earth Station
+
+Number of respondents:  753.
+Number of responses:  753.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 6,024 hours (753 responses x 8 hours/response = 6,024 hours).
+
+VI.Earth Station License Renewals (FCC Form 312-R) (47 CFR §§ 25.115(b)(7), 25.121(e))
+
+Number of respondents:  268.
+Number of responses:  268.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 536 hours (268 operators x 2 hours/response = 536 hours).
+
+VII.Surrenders of Authorizations
+
+Space Station
+
+Number of respondents:  1.
+Number of responses:  1.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 1 hour (1 response x 1 hour/response = 1 hour).
+
+Earth Station
+
+Number of respondents:  208.
+Number of responses:  208.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 208 hours (208 responses x 1 hour/response = 208 hours).
+
+VIII.Annual Reporting Requirements for Space Station Operators (47 CFR § 25.171)
+
+Number of respondents:  38.
+Number of responses:  38.
+Frequency of response:  Annual.
+Annual hour burden:  The total annual hour burden is 38 hours (38 responses x 1 hour = 38 hours).
+
+IX.General Notification Requirements 
+
+Commence Construction at Own Risk (47 CFR §§ 25.113(b) and (f))
+
+Number of respondents:  1.
+Number of responses:  1.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 1 hour (1 response x 1 hour/response = 1 hours).
+
+Bringing In-Orbit Spare into Use (47 CFR § 25.113(h))
+
+Number of respondents:  1.
+Number of responses:  1.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is .5 hours (1 response x .5 hours/response = .5 hours).
+
+NGSO Replacement Satellites (47 CFR § 25.113(i))
+
+Number of respondents:  5.
+Number of responses:  5.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 10 hours (5 responses x 2 hours/response = 10 hours).
+
+Modification of Space Station Operation Not Requiring Prior Authorization (47 CFR § 25.118(e), (f))
+
+Number of respondents:  4.
+Number of responses:  4.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 8 hours (4 responses x 2 hours/response = 8 hours).
+
+Modifications of Earth Station Operation Not Requiring Prior Authorization (47 CFR § 25.118(a))
+
+Number of respondents:  5.
+Number of responses:  5.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 40 hours (5 responses x 8 hours/response = 40 hours).
+
+Temporary-Fixed Operation Local Coordination Reports (47 CFR § 25.277(c))
+
+Number of respondents:  100.
+Number of responses:  100.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 800 hours (100 responses x 8 hours/response = 800 hours).
+
+Completion of Earth Station Construction (47 CFR §§ 25.133(b) and (d))
+
+Number of respondents:  250.
+Number of responses:  250.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 250 hours (250 responses x 1 hour/response = 250 hours).
+
+ATC Service Initiation Notice (47 CFR § 25.149(f))
+
+Number of respondents:  1.
+Number of responses:  1.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 1 hour (1 response x 1 hour/response = 1 hour).
+
+Ka-Band Space Station Operators’ Notification (47 CFR § 25.258; see also FCC 96-311)
+
+Number of respondents:  6.
+Number of responses:  6.
+Frequency of response:  Third party disclosure.
+Annual hour burden:  The total annual hour burden is 6 hours (6 responses x 1 hour/response = 6 hours).
+
+Consummation of Transfer and Control or Assignment (47 CFR § 25.119(f))
+
+Number of respondents: 365.
+Number of responses:  365.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 365 hours (365 responses x 1 hour/response = 365 hours). 
+
+Results of In-Orbit Testing (47 CFR § 25.173)
+
+Number of respondents:  5.
+Number of responses:  5.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 5 hours (5 responses x 1 hour/response = 5 hours).
+
+Contact Information Update (47 CFR §§ 25.171, 25.172, 25.259(b), 25.260(b), 25.271(f))
+
+Number of respondents:  25.
+Number of responses:  25.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 12.5 hours (25 responses x .5 hour/response = 12.5 hours).
+
+Notification of Non-Routine Space Station Operation (47 CFR § 25.140(d))
+
+Number of respondents:  6.
+Number of responses:  6.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 12 hours (6 responses x 2 hours/response = 12 hours).
+
+Third Party Disclosures Requirements
+
+SDARS (47 CFR § 25.263(b))
+
+Number of respondents:  1.
+Number of responses:  25.
+Frequency of response:  Third party disclosure.
+Annual hour burden:  The total annual hour burden is 25 hours (1 respondent x 25 responses x 1 hour/response = 25 hours).
+
+ATC (47 CFR § 25.149)
+
+Number of respondents:  1.
+Number of responses:  25.
+Frequency of response:  Third party disclosure.
+Annual hour burden:  The total annual hour burden is 25 hours (1 respondent x 25 responses x 1 hour/response = 25 hours).
+
+ESIM (47 CFR § 25.228)
+
+ESV (47 CFR § 25.228(e))
+
+Number of respondents:  5.
+Number of responses:  5.
+Frequency of response:  Third party disclosure.
+Annual hour burden:  The total annual hour burden is 5 hours (5 responses x 1 hour/response = 5 hours).
+
+VMES (47 CFR § 25.228(f))
+
+Number of respondents:  4.
+Number of responses:  4.
+Frequency of response:  Third party disclosure.
+Annual hour burden:  The total annual hour burden is 4 hours (4 responses x 1 hour/response = 4 hours).
+
+ESAA (47 CFR § 25.228(g))
+
+Number of respondents:  10.
+Number of responses:  10.
+Frequency of response:  Third party disclosure.
+Annual hour burden:  The total annual hour burden is 10 hours (10 responses x 1 hour/response = 10 hours).
+
+17/24 GHz DBS (47 CFR § 25.203(m))
+
+Number of respondents:  3.
+Number of responses:  3.
+Frequency of responses:  Once.
+Annual hour burden:  The total annual hour burden is 27 hours (3 responses x 12 hours = 12 hours).
+
+X.Milestones and Bonds
+
+GSO Launch and Operate Milestone (47 CFR § 25.164(f))
+
+Number of respondents:  4.
+Number of responses:  4.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 4 hours (4 responses x 1 hour/response = 4 hours).
+
+NGSO Launch and Operate Milestone (47 CFR § 25.164(f))
+
+Number of respondents:  4.
+Number of responses:  8.
+Frequency of response:  Two times.
+Annual hour burden:  The total annual hour burden is 8 hours (8 response x 1 hour/response = 8 hours).
+
+Application-Stage Bond (47 CFR § 25.165(f))
+
+Number of respondents:  1.
+Number of responses:  1.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 2 hours (1 response x 2 hours/response = 2 hours).
+
+Post-Licensing Bond (47 CFR § 25.165(a))
+
+Number of respondents:  4.
+Number of responses:  4.
+Frequency of response:  On occasion.
+Annual hour burden:  The total annual hour burden is 8 hours (4 responses x 2 hours/response = 8 hours).
+
+XI.Global Mobile Personal Communications by Satellite/E911 Call Centers (47 CFR § 9.18)
+
+Number of respondents:  4.
+Number of responses:  4.
+Frequency of response:  Annual.
+Annual hour burden:  The total annual hour burden is 4 hours (4 responses x 1 hour/response = 4 hours).
+
+XII.Recordkeeping Requirement (47 CFR §§ 25.115 (f), (g)(1), 25.263(c),)
+
+Number of respondents:  1.
+Number of responses:  1.
+Frequency of response:  Recordkeeping requirement.
+Annual hour burden:  The total annual hour burden is .5 hours (1 response x .5 hours = .5 hours).
+
+XIII.3.7-4.2 GHz Information Collection Order (FCC 18-91)
+
+Additional Information on Temporary Fixed Earth Stations in 3.7-4.2 GHz (FCC 18-91)
+
+Number of respondents:  70.
+Number of responses:  70.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 420 hours (70 responses x 6 hours/response = 420 hours).
+
+Additional Information on Space Stations in 3.7-4.2 GHz (FCC 18-91)
+
+Number of respondents:  49.
+Number of responses:  49.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 1,960 hours (49 responses x 40 hours/response = 1,960 hours).
+
+XIV.Supplemental Coverage from Space (FCC 24-28) Additional Requirements (47 CFR 
+§ 25.125(b)(1)-(2), 25.125(c))
+
+Number of respondents:  10
+Number of responses:  10.
+Frequency of response:  One time.
+Annual hour burden:  The total annual hour burden is 100 hours (10 responses x 10 hours/response = 100 hours).
+
+XV.NGSO FSS Compatibility Showings and Certifications (47 C.F.R. § 25.261(d))
+Number of respondents: 4.
+Number of responses: 4.
+Frequency of response:  One time and on occasion.
+Annual hour burden: The total annual hour burden is 128 hours (4 responses x 32 hours/response = 128 hours).
+
+XVI.TOTALS (COMPLETE)
+
+Total number of respondents: 3,539
+Total number of responses:  3,591
+Range of hours per response: .5-80
+Total number of burden hours: 27,747.5 rounded to 27,748 
+
+In-house Cost: In-house staff who will be working on the information collection requirements contained in the chart above are estimated to have an hourly salary of $60/hour. The total overall in-house cost to respondents is $1,664,880 (27,748 total burden hours x $60/hour = $1,664,880).  
+
+13.  Estimates of the cost burden of the collection to respondents.  
+
+Outside Cost: Respondents are assumed to use outside legal or engineering assistance to complete their filing with the Commission.  This is because, in addition to their in-house legal and engineering staffs, space station and earth station operators often rely on outside attorneys and engineers to assist with some of the information collection requirements in part 25.  We estimate that the hourly rates for outside legal and engineering assistance are $300/hour and $250/hour, respectively.  These figures are based on a small survey of local firms in the Washington, D.C. area and are conservative estimates.  Because outside attorneys and engineers are used in approximately equal proportions, we use an average rate of $275/hour to arrive at the cost burden for outside assistance.  The amount of hourly work performed by outside parties varies with the type and complexity of the application.  Based on our experience, we estimate that operators will engage outside attorneys and engineers in preparing 899 of the total number of responses filed annually, with an average of 9.3 hours spent per response.  Consequently, the total cost burden for outside assistance is $2,299,275. (899 responses x 9.3 hours per response = 8,361 burden hours. 8,361 burden hours x $275/hour = $2,299,275.) 
+
+Application Filing Fees:  $1,854,991.82.  This estimate is based on actual Commission filings over the past several years, as well as the estimates supplied in this statement.  
+  
+Total Annualized Cost:  
+
+Total Costs to the  Industry | Totals
+Estimated Application Filing Fees | $ 1,8 54,991.82
+Estimated Cost of Outside Legal/Engineering Assistance |                    $ 2,299,275 .00
+Total Cost to Respondents |               $ 4,1 54.266.82 rounded to $4,154,267
+
+14.  Estimate of Annualized Cost to the Federal Government.
+
+The estimate of annualized cost to the Federal government is summarized in the chart below.
+
+As shown in the chart, the annualized costs to the Federal government are $2,818,723.53.  
+
+The chart contains total staff salaries, burden hours, and annualized costs.
+ |  |  |  | 
+Federal Government Staff | Number  of Staff | Salary Per  Hour | Annual  Burden Hours | Annualized Costs
+GS-15/Step 5 Attorney | 6 | $ 91.02 | 1,514 | $ 826,825.68
+GS-14/Step 5 Attorney | 3 | $ 77.38   | 1,517 | $ 352,156.38  
+GS-13/Step 5 Attorney | 1 | $ 65.48     | 1,517 | $ 99,333.16  
+GS-12/Step 5 Attorney | 1 | $ 55.07     | 1,517 | $ 83,541.19    
+GS-15/Step 5 Engineer | 11 | $ 91.02     | 694 |    $ 694,846.68    
+GS-14/Step 5 Engineer | 3 | $ 77.38     | 2, 12 2 | $ 492,601.08
+GS-12/Step 5 Paralegal | 1 | $ 55.07     | 500 | $ 27,535 .00    
+GS-12/Step 5 Industry Analyst | 1 | $ 55.07   | 1 , 508 | $ 83,000.32  
+GS-12/Step 5 Telecom Specialist | 2 |   $ 55.07   | 2 , 011 | $ 221,491.54    
+Total | 29 |  | 12, 78 0 | $ 2,881,331.03  
+ |  |  |  | 
+15.  Program changes or adjustments.  The updates to this collection as a result of the revise rules adopted in the NGSO FSS Report and Order and NGSO FSS Second Report and Order  include +4 annual number of respondents, +4 annual number of responses,  +128 to the annual burden hours,  and no change to the application fee cost or cost to respondents of hiring outside legal/engineering assistance.  The program changes reflect a small increase in the estimated annual burden hours as a result of the changes adopted in the NGSO FSS Report and Order and Second Report and Order.
+
+16.  Collections of information whose results will be published.  The data will not be published for statistical use.
+
+17.  Display of expiration date for OMB approval of information collection.  The Commission continues to seek a waiver of the requirement to display the expiration date of OMB approval on the FCC Form 312 (including associated Schedules A, B, and S) and FCC Form 312-R and wish to instead display an edition date.  If these forms remain unchanged when it is time to renew OMB approval for this collection, the Commission would be required to destroy all stock on hand displaying the old expiration dates and then reprint and redistribute the forms with the new expiration date.  Additionally, it would require the Commission to modify the electronic versions as well.  This would be an undue burden on Commission resources and may lead to confusion among licensees.
+
+18.  Exceptions to the certification statement for Paperwork Reduction Act submissions.  There are no exceptions to the certification statement.
+
+B.Collections of Information Employing Statistical Methods
+
+No statistical methods are employed. 
+APPENDIX A
+Application Costs (in Dollars)
+
+Type of Filing | No. of Applications | Filing Fee | Subtotals | Totals
+I. Applications for Initial Licenses |  |  |  | 
+a. Space Stations |  |  |  | 
+GSO | 9 | 3,965 | 35,685 | 
+NGSO | 1 1 | 16,795 | 184 ,745 | 
+Small Satellite | 5 | 2,425 | 12,125 | 
+ |  |  |  | 232,555
+b. Earth  Stations: |  |  |  | 
+Fixed or Temporary Fixed Transmit or Transmit/Receive Earth Stations |  |  |  | 
+Initial application, Single site |  | 400 |  | 
+Initial Application, Multiple sites |  | 7,270 |  | 
+(average earth station application fee)  | 226 | 3,835 |  | 866,710
+Receive Only  Earth Stations |  |  |  | 
+Single |  | 195 |  | 
+Multiple |  | 520 |  | 
+Blanket |  | 400 |  | 
+(average earth station application fee) | 2 | 371.66 |  | 743.32
+Mobile Earth Station Blanket Authorization (ESIMs total) | 12 | 910 |  | 10,920
+II. Modifications of Existing Licenses |  |  |  | 
+a. Space  Station | 4 4 | 2,785 |  | 122,540
+b. Earth Station | 165 | 610 |  | 100,650
+III. Amendments of Pending Applications |  |  |  | 
+a. Space Station | 10 | 1,810 |  | 18,100
+b. Earth Station |  |  |  | 
+Single Site |  | 480 |  | 
+Multiple Site |  | 705 |  | 
+(average earth station application fee) | 34 | 592.50 |  | 20,145
+IV. Transfers of Control and Assignments |  |  |  | 
+A. Transfers of Control (T/C) |  |  |  | 
+a. Space Station |  |  |  | 
+First call sign |  | 830 |  | 
+Additional call signs (each) |  | 445 |  | 
+(average space station T/C fee) | 4 | 636.50 |  | 2,546
+b. Earth Station |  |  |  | 
+First call sign |  | 830 |  | 
+Additional call signs (each) |  | 445 |  | 
+(average earth station T/C fee) | 155 | 637.50 |  | 98,812.50
+B. Assignments |  |  |  | 
+a. Space Station |  |  |  | 
+First call sign |  | 830 |  | 
+Additional call signs (each) |  | 445 |  | 
+(average space station   assignment fee) | 3 | 637.50 |  | 1,912.50
+b. Earth Station |  |  |  | 
+First call sign |  | 830 |  | 
+Additional call signs (each) |  | 445 |  | 
+(average earth station assignment fee) | 81 | 637.50 |  | 51,637.50
+V. Applications for Special Temporary Authority |  |  |  | 
+a. Space Station | 77 | 1,600 |  | 123,200
+b. Earth Station | 753 | 220 |  | 165,660
+VI. Earth Station License Renewals |  |  |  | 
+Single Site |  | 130 |  | 
+Multiple Sites |  | 160 |  | 
+Average Earth Station Fee | 268 | 145 |  | 38,860
+ |  |  |  | 
+TOTALS |  |  |  | 1,8 54,991.82
+
+
+
+PART word/footnotes.xml
+
+
+
+
+ The system of records (“IB-1, International Bureau Filing System”) refers to ICFS by its former name.  
+ Throughout this document, we report the frequency of response for each information requirement.  This reflects the number of times a particular respondent is required to submit that particular information.  Thus, the term “one time” refers to a collection where a respondent need only submit that particular information once.  Over the course of any year, however, one or more other respondents will be required to submit the same type of information.  We use the term “on occasion” to refer to a collection where each respondent may be required to submit particular information more than once, but there is no requirement that they submit that information on a regular basis.  We use the term “annually” to describe information that respondents must submit to us once each year.
+ Of the estimated 8 hours per response, the one-time filing accounts for approximately 7 hours per response and the third-party disclosure accounts for approximately 1 hour per response.
+ The total number of ESIM applications is estimated to be 12, but the information requirements in section 25.228 of the Commission’s rules are platform-based and multiple platforms can be requested by a single application.  For information collection purposes, these figures demonstrate the amount of applicants requesting each specific platform and the burden hours of supplying information for each platform.  However, the total number of applications, 12, is used for purposes of calculating final application totals. 
+
+ Previously, the Commission required the information in section 25.284, but in 2019, the Commission moved the requirement (without changes) to section 9.18 of its rules. 47 CFR § 9.18; see Implementing Kari’s Law and Section 506 of RAY BAUM'S Act; Inquiry Concerning 911 Access, Routing, and Location in Enterprise Communications Systems; Amending the Definition of Interconnected VoIP Service in Section 9.3 of the Commission’s Rules, PS Docket Nos. 18-261 and 17-239, GN Docket No. 11-117, Report and Order, 34 FCC Rcd 6607 (2019).
+
+ Respondents are calculated on a per-space station basis.
+
+ See Appendix A below for a table of calculations.
+ See 47 C.F.R. § 1.1107.
+PART word/endnotes.xml
+
+
+
+

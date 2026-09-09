@@ -1,0 +1,210 @@
+{
+  "icr_id": "202408-1652-002",
+  "omb_control_number": "1652-0053",
+  "agency": "DHS/TSA",
+  "title": "Certified Cargo Screening Program",
+  "submission_date": "09/06/2024",
+  "archetype": "certified cargo screening and canine certification",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 2,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0040",
+    "SRC-0039"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 12,
+    "provenance": 10,
+    "segmentation": 14,
+    "labor": 6,
+    "item13": 4,
+    "item14": 7,
+    "item15": 5,
+    "validation": 2,
+    "consistency": 0
+  },
+  "score_rationale": {
+    "reproducibility": "Many atomic rows expose calculations but security-program subtotal wrong and application overlap unresolved.",
+    "provenance": "OEWS/ECEC specific sources; clerical ECEC URL points2020 despite2023 label; federal pay internal.",
+    "segmentation": "Facilities,canine providers,certifiers andmultiple activities; some apparent duplication.",
+    "labor": "Employment-weighted cargo wage transparent; canine private wage uses federal salary proxy with limited justification.",
+    "item13": "41fee explicit but6959*41 does not equal281219; fee matches6859.",
+    "item14": "Six federal task categories largely reconcile; some precision and subtitle errors.",
+    "item15": "Old16040/new17662 shown with response change, but no quantified driver attribution.",
+    "validation": "Agency activity estimates without calibration or ranges.",
+    "consistency": "Large subtotal error, repeated new-certification burden and fee count mismatch."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "CCSF application",
+        120,
+        40,
+        4800
+      ],
+      [
+        "K9 application",
+        3,
+        40,
+        120
+      ],
+      [
+        "STA",
+        6859,
+        0.25,
+        1715
+      ],
+      [
+        "CCSF recordkeeping",
+        14502,
+        null,
+        3838.12
+      ],
+      [
+        "K9 recordkeeping",
+        25602,
+        null,
+        2101.1
+      ],
+      [
+        "Certifier recordkeeping",
+        783,
+        null,
+        93.9
+      ],
+      [
+        "CCSF program activities",
+        716,
+        null,
+        4451
+      ],
+      [
+        "K9 program activities",
+        41,
+        null,
+        536.5
+      ],
+      [
+        "Certifier program activities",
+        19,
+        null,
+        7
+      ]
+    ],
+    "labor": {
+      "oews_year": 2022,
+      "ecec_period": "December2023",
+      "ecec_factor": 1.4872,
+      "supervisor": 46.01,
+      "worker": 31.94,
+      "clerk": 27.26,
+      "canine_supervisor": 78.89,
+      "reported_cost": 884095.27
+    },
+    "item13": {
+      "STA_count_item12": 6859,
+      "STA_count_item13": 6959,
+      "fee": 41,
+      "annual_cost": 281219
+    },
+    "item14": {
+      "hours_by_category": [
+        4023,
+        181.5,
+        152,
+        74.5,
+        6432,
+        400
+      ],
+      "costs": [
+        342539,
+        15453,
+        14419,
+        6343,
+        547608.07,
+        34055.23
+      ],
+      "reported_hours": 11263,
+      "reported_cost": 960416.95,
+      "rates": [
+        85.14,
+        94.86
+      ]
+    },
+    "item15": {
+      "old_responses": 23512,
+      "new_responses": 48645,
+      "old_hours": 16040,
+      "new_hours": 17662,
+      "delta_hours": 1622,
+      "forms_changes": "No burden impact claimed"
+    },
+    "assumptions": [
+      "CCSF261recertifications from784/3;table783hours vsprose790.",
+      "New application andnew security program may be distinct but both40hours need explicit boundary."
+    ]
+  },
+  "reconstruction_issues": [
+    "Table7 rows4800+783+1+400+60+5=6049, not4451.",
+    "Application andnew certification both charged4800; overlap cannot be resolved from scope description.",
+    "6959*41=285319 but281219 corresponds6859*41.",
+    "Item12 narrative coordinator2961 versus table2761."
+  ],
+  "methods_worth_testing": [
+    "Document-specific recurrence of arithmetic errors warrants deterministic totals and obligation-overlap controls.",
+    "Includes fewer-than10 subgroup unlike SurfaceCyber exclusion; investigate consistent scope."
+  ],
+  "checks": [
+    {
+      "label": "Program subtotal",
+      "formula": "4800+783+1+400+60+5",
+      "calculated": 6049,
+      "reported": 4451,
+      "difference": 1598,
+      "unit": "hours",
+      "interpretation": "Material subtotal discrepancy",
+      "source_id": "SRC-0040"
+    },
+    {
+      "label": "Fee",
+      "formula": "6959*41",
+      "calculated": 285319,
+      "reported": 281219,
+      "difference": 4100,
+      "unit": "USD",
+      "interpretation": "Wrong count or total",
+      "source_id": "SRC-0040"
+    },
+    {
+      "label": "Fee using Item12",
+      "formula": "6859*41",
+      "calculated": 281219,
+      "reported": 281219,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0040"
+    },
+    {
+      "label": "Federal hours",
+      "formula": "4023+181.5+152+74.5+6432+400",
+      "calculated": 11263.0,
+      "reported": 11263,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0040"
+    }
+  ],
+  "total_score": 60
+}

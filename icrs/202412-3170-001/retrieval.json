@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202412-3170-001",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202412-3170-001"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202412-3170-001",
+  "agency": "CFPB",
+  "title": "Required Rulemaking on Personal Financial Data Rights",
+  "omb_control_number": "3170-0081",
+  "submission_date": "12/06/2024",
+  "record_source_id": "SRC-0045",
+  "supporting_statement_source_ids": [
+    "SRC-0046"
+  ]
 }

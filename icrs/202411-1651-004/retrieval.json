@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1651-004",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202411-1651-004"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202411-1651-004",
+  "agency": "DHS/USCBP",
+  "title": "Global Interoperability Standards (GIS)",
+  "omb_control_number": "1651-0148",
+  "submission_date": "02/12/2025",
+  "record_source_id": "SRC-0043",
+  "supporting_statement_source_ids": [
+    "SRC-0044"
+  ]
 }

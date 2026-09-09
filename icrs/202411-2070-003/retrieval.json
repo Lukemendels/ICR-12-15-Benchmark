@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202411-2070-003",
+  "retrieved_at": "2026-09-09T10:39:15.140811+00:00",
+  "documents": [
+    {
+      "title": "2613ss07 (V2).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=149928502",
+      "path": "icrs/202411-2070-003/raw/supporting-statement-a-1.docx",
+      "sha256": "ae75b4ca1a4e83cca04f5814496b8b91e0dfab2d735c7277dd50807eeb974831",
+      "text_chars": 110331
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-2070-003",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202411-2070-003",
+  "agency": "EPA/OCSPP",
+  "title": "Toxic Chemical Release Reporting (Revision/Consolidation)",
+  "omb_control_number": "2070-0212",
+  "submission_date": "11/27/2024",
+  "record_source_id": "SRC-0061",
+  "supporting_statement_source_ids": [
+    "SRC-0062"
+  ]
+}

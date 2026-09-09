@@ -1,0 +1,103 @@
+{
+  "source_original": "icrs/202409-2126-001/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Category of Respondent ",
+          "No. of Respondents",
+          "Participation Time (minutes)",
+          "Burden (hours)"
+        ],
+        [
+          "IC-1: Pre-testing survey instrument",
+          "10",
+          "10 ",
+          "1.66 "
+        ],
+        [
+          "IC-2: Piloting the survey",
+          "50",
+          "10 ",
+          "8.33 "
+        ],
+        [
+          "IC-3: Self-administered survey",
+          "1,000",
+          "10",
+          "166.66"
+        ],
+        [
+          "Totals",
+          "1,060",
+          "10 ",
+          "176.65 "
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Average Mean Hourly Wage - $21.92",
+          "",
+          "",
+          "$3,872.17"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Item Number",
+          "Service Supplied",
+          "Amount"
+        ],
+        [
+          "001",
+          "Develop and implement CMV Safety Belt Use Campaign",
+          "$159,390.98"
+        ],
+        [
+          "002",
+          "Execute, monitor, and measure the 2023 Outreach Campaign",
+          "$94,306.14"
+        ],
+        [
+          "003",
+          "Develop innovative marketing and communication assets for the 2024 campaign",
+          "$85,263.16"
+        ],
+        [
+          "004",
+          "Media Costs",
+          "$210,000.00"
+        ],
+        [
+          "005",
+          "Other Direct Costs",
+          "$64,500.00"
+        ],
+        [
+          "006",
+          "Travel",
+          "$500.00"
+        ],
+        [
+          "007",
+          "Conduct Safety Belt Usage Survey",
+          "$35,950.25"
+        ],
+        [
+          "Total",
+          "",
+          "$649,910.53"
+        ]
+      ]
+    }
+  ]
+}

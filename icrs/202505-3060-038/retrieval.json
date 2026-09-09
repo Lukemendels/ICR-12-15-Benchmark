@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202505-3060-038",
+  "retrieved_at": "2026-09-09T10:39:15.142113+00:00",
+  "documents": [
+    {
+      "title": "Supporting statement OMB 3060-0678 (Aug 2024) - (FCC 24-117)(FCC 23-29).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=158284001",
+      "path": "icrs/202505-3060-038/raw/supporting-statement-a-1.docx",
+      "sha256": "c71901686f84d9def949d28fc1416be58cea545880e3323151c5c7e886c4a89f",
+      "text_chars": 44001
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202505-3060-038",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202505-3060-038",
+  "agency": "FCC",
+  "title": "Part 25 of the Federal Communications Commission's Rules Governing the Licensing of, and Spectrum Usage By, Commercial Earth Stations and Space Stations",
+  "omb_control_number": "3060-0678",
+  "submission_date": "05/28/2025",
+  "record_source_id": "SRC-0067",
+  "supporting_statement_source_ids": [
+    "SRC-0068"
+  ]
+}

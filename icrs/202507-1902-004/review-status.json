@@ -1,0 +1,6 @@
+{
+  "status": "BASELINE_MODEL_REQUIRED",
+  "count_as_reviewed": false,
+  "reason": "Supporting Statement quantifies only TOP-003-7 addition388hours; existing1,407,238hours and156953nonlaborcost require prior full statement.",
+  "next_action": "Retrieve previous ICR identified in record.txt andfollow chain to full baseline; then score full collection."
+}

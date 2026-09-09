@@ -1,0 +1,218 @@
+{
+  "icr_id": "202312-2050-001",
+  "omb_control_number": "2050-0230",
+  "agency": "EPA/OLEM",
+  "title": "Alternate PCB Extraction Methods and Amendments to PCB Cleanup and Disposal Regulations (Final Rule)",
+  "submission_date": "01/10/2024",
+  "archetype": "PCB cleanup anddisposal rule transition",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 3,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0056",
+    "SRC-0055"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 14,
+    "provenance": 10,
+    "segmentation": 15,
+    "labor": 6,
+    "item13": 7,
+    "item14": 7,
+    "item15": 8,
+    "validation": 3,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "Role-hour matrix andold/new burdens explicit; labor products fail forannualreports.",
+    "provenance": "2018wages,2019ECEC,2005RACER defaults identified; age andbase rates require validation.",
+    "segmentation": "Facilitytype,activity andthree laborroles; overlap ledger linked to2070-0112.",
+    "labor": "Overhead1.336 components includingprofit disclosed withlimitations; final rates notfully derived.",
+    "item13": "Mailing3.96*442 clear; existing ICR unitprice source andcapitalzero rationale.",
+    "item14": "Grade/role hours andgross/net impacts; tableheader respondent rates conflict withgovernment rates.",
+    "item15": "8276gross versus8266baseline=10net explicitlytable; Item15new/nochange wording misleading.",
+    "validation": "Economic assessment andcandid overhead uncertainty;timeassumptions notempirically tested.",
+    "consistency": "Manager38h*102.26+clerical2h*38.27 doesnot reproduce6136; copying andminute conversion problems."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Read rule",
+        1085,
+        1.16,
+        1259
+      ],
+      [
+        "Postcleanup notice",
+        430,
+        4.1,
+        1763
+      ],
+      [
+        "Cleanup records",
+        430,
+        0.1,
+        43
+      ],
+      [
+        "Waiver",
+        12,
+        8.1,
+        97
+      ],
+      [
+        "Waiver records",
+        12,
+        0.1,
+        1
+      ],
+      [
+        "Annualreports",
+        124,
+        40,
+        4960
+      ],
+      [
+        "Activitynotice",
+        100,
+        1.53,
+        153
+      ]
+    ],
+    "labor": {
+      "roles": [
+        "legal",
+        "manager",
+        "technical",
+        "clerical"
+      ],
+      "loaded_rates": [
+        118.63,
+        102.26,
+        48.73,
+        38.27
+      ],
+      "wage_year": 2018,
+      "overhead_factor": 1.336,
+      "overhead_components": {
+        "general_admin": 0.02,
+        "fixed": 0.166,
+        "insurance": 0.05,
+        "profit": 0.1
+      },
+      "reported_labor_cost": 977438
+    },
+    "item13": {
+      "capital": 0,
+      "mail_unit": 3.96,
+      "notifications": 430,
+      "waivers": 12,
+      "annual_cost_precise": 1750.32,
+      "summary_cost": 1751
+    },
+    "item14": {
+      "roles": [
+        "GS13/5",
+        "GS11/5",
+        "GS6/5"
+      ],
+      "loaded_rates": [
+        83.82,
+        58.82,
+        35.75
+      ],
+      "wage_year": 2018,
+      "hours_by_task": [
+        473,
+        73.2,
+        186
+      ],
+      "gross_cost": 46998,
+      "gross_hours": 732,
+      "baseline_hours": 240,
+      "net_hours": 492
+    },
+    "item15": {
+      "new_gross_hours": 8276,
+      "prior_affected_hours": 8266,
+      "net_change_hours": 10,
+      "baseline_control": "2070-0112",
+      "drivers": [
+        1259,
+        1763,
+        43,
+        -703,
+        1,
+        -2356,
+        3
+      ]
+    },
+    "assumptions": [
+      "Annualreport59to40hours;waiver old800new97;reading rule charge1085facilities.",
+      "RACER overhead assumednonoverlapping butmaynotvarywithlabor; limitation explicitlydiscussed."
+    ]
+  },
+  "reconstruction_issues": [
+    "Annualreport rolehours andrates imply3962.42 perresponse, not6136; tablecost760876 notexplained.",
+    "Federal tableheaders repeatrespondentrates; sourceparagraph givesdifferent federalrates.",
+    "Emailfield saidone minute but1.50to1.53hours adds1.8minutes.",
+    "Item15 nochange language masks10hour netincrease inaffectedexistingICR."
+  ],
+  "methods_worth_testing": [
+    "Explicit gross-to-net cross-ICR transition table; allocate displaced obligations.",
+    "Document overhead components andlimitations rather than treatingallload factors as equivalent."
+  ],
+  "checks": [
+    {
+      "label": "Net burden",
+      "formula": "8276-8266",
+      "calculated": 10,
+      "reported": 10,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0056"
+    },
+    {
+      "label": "Mail costs",
+      "formula": "442*3.96",
+      "calculated": 1750.32,
+      "reported": 1750.32,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0056"
+    },
+    {
+      "label": "Annualreport unitlabor",
+      "formula": "38*102.26+2*38.27",
+      "calculated": 3962.42,
+      "reported": 6136,
+      "difference": -2173.58,
+      "unit": "USD",
+      "interpretation": "Material rate/product mismatch",
+      "source_id": "SRC-0056"
+    },
+    {
+      "label": "Federal gross/net",
+      "formula": "473+73.2+186-240",
+      "calculated": 492.20000000000005,
+      "reported": 492,
+      "difference": 0.20000000000004547,
+      "unit": "hours",
+      "interpretation": "Rounded",
+      "source_id": "SRC-0056"
+    }
+  ],
+  "total_score": 71
+}

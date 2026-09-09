@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202503-3060-020",
+  "retrieved_at": "2026-09-09T10:39:15.142538+00:00",
+  "documents": [
+    {
+      "title": "Revised April 2025 IPCS Rules Supporting Statement_Final Version.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=155788401",
+      "path": "icrs/202503-3060-020/raw/supporting-statement-a-1.docx",
+      "sha256": "7dcf8c97cedca8caf5226cb0eb886d6c27fb6cfd1d9a9c025be544363eca083d",
+      "text_chars": 81899
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202503-3060-020",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202503-3060-020",
+  "agency": "FCC",
+  "title": "Incarcerated People\u2019s Communications Services (IPCS) Provider Annual Reporting, Certification, and Other Requirements, WC Docket Nos. 23-62, 12-375",
+  "omb_control_number": "3060-1222",
+  "submission_date": "04/01/2025",
+  "record_source_id": "SRC-0063",
+  "supporting_statement_source_ids": [
+    "SRC-0064"
+  ]
+}

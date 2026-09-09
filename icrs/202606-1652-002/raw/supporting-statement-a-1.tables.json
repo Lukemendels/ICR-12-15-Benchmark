@@ -1,0 +1,1043 @@
+{
+  "source_original": "icrs/202606-1652-002/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Table 1: Total HME Enrollments"
+        ],
+        [
+          "Year",
+          "TSA Agent State Enrollments",
+          "TSA Non-Agent State Enrollments",
+          "Total HME Enrollments"
+        ],
+        [
+          "",
+          "A",
+          "B",
+          "C = A + B"
+        ],
+        [
+          "2022",
+          "177,389",
+          "71,283",
+          "248,672"
+        ],
+        [
+          "2023",
+          "168,942",
+          "65,843",
+          "234,785"
+        ],
+        [
+          "2024",
+          "171,578",
+          "66,796",
+          "238,374"
+        ],
+        [
+          "2025",
+          "167,975",
+          "63,267",
+          "231,242"
+        ],
+        [
+          "Projected Percent Change:",
+          "1.01%",
+          "-.98%",
+          "\u00a0"
+        ],
+        [
+          "2026",
+          "170,454",
+          "65,673",
+          "236,127"
+        ],
+        [
+          "2027",
+          "175,770",
+          "65,595",
+          "241,365"
+        ],
+        [
+          "2028",
+          "172,487",
+          "65,582",
+          "238,069"
+        ],
+        [
+          "Total (2026-2028)",
+          "518,711",
+          "196,850",
+          "715,561"
+        ],
+        [
+          "Average (2026-2028)",
+          "172,904",
+          "65,617",
+          "238,520"
+        ],
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "(i) Applicants Through TSA Agent States"
+        ],
+        [
+          "Type of Enrollment Data Submission",
+          "Estimated % of Applicants",
+          "Estimated Time Burden per Applicant"
+        ],
+        [
+          "Online pre-application/pre-enrollment followed by in-person visit to an enrollment center",
+          "44%",
+          "14 minutes total based on:6 min online pre-application6 min in person application completion at enrollment center2 min wait time at enrollment center44 minutes roundtrip travel time to enrollment center"
+        ],
+        [
+          "In-person at an enrollment center with no pre-enrollment",
+          "56%",
+          "10 minutes total based on:8 min in person application completion at enrollment center2 min wait time at enrollment center44 minutes roundtrip travel time to enrollment center"
+        ],
+        [
+          "Provide Enrollment Feedback via Customer Satisfaction Survey",
+          " 10%",
+          "2 Minutes"
+        ],
+        [
+          "Conduct on-line renewal of HME (NEW)",
+          "60%",
+          "10 minutes"
+        ],
+        [
+          "Conduct in-person renewal of HME",
+          "40%",
+          "10 minutes total based on:8 min in person application completion at enrollment center2 min wait time at enrollment center44 minutes roundtrip travel time to enrollment center"
+        ]
+      ]
+    },
+    {
+      "table": 3,
+      "rows": [
+        [
+          "(ii) Applicants Through TSA Non-Agent States"
+        ],
+        [
+          "Type of Enrollment Data Submission",
+          "Estimated % of Applicants",
+          "Estimated Time Burden per Applicant"
+        ],
+        [
+          "In-person at an enrollment center with no pre-enrollment",
+          "100%",
+          "14 minutes total based on:12 min in person application completion at enrollment center2 min wait time at enrollment center44 minutes roundtrip travel time to enrollment center"
+        ]
+      ]
+    },
+    {
+      "table": 4,
+      "rows": [
+        [
+          "\u00a0",
+          "Two Enrollment Methods"
+        ],
+        [
+          "",
+          "Through TSA Agent State",
+          "Through TSA Non-Agent State"
+        ],
+        [
+          "",
+          "On-line pre-application, then in person",
+          "In person application",
+          "On-line pre-application, then in person",
+          "In person application"
+        ],
+        [
+          "Proportion of applicants",
+          "44%",
+          "56%",
+          "N/A",
+          "100%"
+        ],
+        [
+          "Enrollment time burden (hours)",
+          "0.23",
+          "0.17",
+          "N/A",
+          "0.23"
+        ],
+        [
+          "Roundtrip travel time (hours)",
+          ".72",
+          ".72",
+          "N/A",
+          ".72"
+        ],
+        [
+          "Participate in customer satisfaction survey",
+          "       10%",
+          "10%",
+          "N/A",
+          "N/A"
+        ],
+        [
+          "Survey burden time (hours)",
+          "0.03",
+          "0.03",
+          "N/A",
+          "N/A"
+        ]
+      ]
+    },
+    {
+      "table": 5,
+      "rows": [
+        [
+          "\u00a0",
+          "TSA Agent State New Enrollments & Renewals",
+          "New Enrollments (100% In-Person)",
+          "TSA Agent State Renewals",
+          "Online Renewals",
+          "In-person Renewals"
+        ],
+        [
+          "",
+          "A",
+          "B = A \u00d7 48%",
+          "C = A \u00d7 52%",
+          "D = C \u00d7 60%",
+          "E = C \u00d7 40%"
+        ],
+        [
+          "2026",
+          "170,454",
+          "81,818",
+          "88,636",
+          "53,182",
+          "35,454"
+        ],
+        [
+          "2027",
+          "175,770",
+          "84,370",
+          "91,400",
+          "54,840",
+          "36,560"
+        ],
+        [
+          "2028",
+          "172,487",
+          "82,794",
+          "89,693",
+          "53,816",
+          "35,877"
+        ],
+        [
+          "Total",
+          "518,711",
+          "248,982",
+          "269,729",
+          "161,838",
+          "107,891"
+        ],
+        [
+          "Average",
+          "172,904",
+          "82,994",
+          "89,910",
+          "53,946",
+          "35,964"
+        ]
+      ]
+    },
+    {
+      "table": 6,
+      "rows": [
+        [
+          "Table 5: Applicants\u2019 Hour Burden Cost for Enrollment Through TSA Agent States"
+        ],
+        [
+          "Table 5 (a) Pre-Enrollment and In-person Applicants (44%)"
+        ],
+        [
+          "Year",
+          "Annual Enrollments",
+          "Annual Pre-Enrollments",
+          "Hour Burden per Enrollment",
+          "Annual Hour Burden",
+          "Annual Hour Burden Cost"
+        ],
+        [
+          "",
+          "A",
+          "B = A \u00d7 44%",
+          "C",
+          "D = B \u00d7 C",
+          "E = D \u00d7 $38.18"
+        ],
+        [
+          "2026",
+          "170,454",
+          "75,000",
+          "0.96",
+          "72,000",
+          "$2,748,960"
+        ],
+        [
+          "2027",
+          "175,770",
+          "77,339",
+          "",
+          "74,245",
+          "$2,834,674"
+        ],
+        [
+          "2028",
+          "172,487",
+          "75,894",
+          "",
+          "72,858",
+          "$2,781,718"
+        ],
+        [
+          "Total",
+          "518,711",
+          "228,233",
+          "\u00a0",
+          "219,103",
+          "$8,365,353"
+        ],
+        [
+          "Average",
+          "172,904",
+          "76,078",
+          "\u00a0",
+          "73,034",
+          "$2,788,451"
+        ],
+        [
+          "Table 5(b) No Pre-Enrollment for In-Person Enrollment and In-Person Renewal Applicants (56%)"
+        ],
+        [
+          "Year",
+          "Annual Enrollments",
+          "Annual Enrollments(No-Pre Enroll)",
+          "Hour Burden per Enrollment",
+          "Annual Hour Burden",
+          "Annual Hour Burden Cost"
+        ],
+        [
+          "",
+          "F",
+          "G = F \u00d7 56%",
+          "H",
+          "I = G \u00d7 H",
+          "J = I \u00d7 $38.18"
+        ],
+        [
+          "2026",
+          "170,454",
+          "95,454",
+          "0.90",
+          "85,909",
+          "$3,280,006"
+        ],
+        [
+          "2027",
+          "175,770",
+          "98,431",
+          "",
+          "88,588",
+          "$3,382,290"
+        ],
+        [
+          "2028",
+          "172,487",
+          "96,593",
+          "",
+          "86,934",
+          "$3,319,140"
+        ],
+        [
+          "Total",
+          "518,711",
+          "290,478",
+          "\u00a0",
+          "261,431",
+          "$9,981,436"
+        ],
+        [
+          "Average",
+          "172,904",
+          "96,826",
+          "\u00a0",
+          "87,144",
+          "$3,327,145"
+        ],
+        [
+          "Table 5 (c) Online Renewals (60% of Renewals Through TSA Agent States)"
+        ],
+        [
+          "Year",
+          "TSA Agent State Annual Renewals ",
+          "TSA Agent State Annual Online Renewals",
+          "Hour Burden per Renewal",
+          "Annual Hour Burden",
+          "Annual Hour Burden Cost"
+        ],
+        [
+          "",
+          "K",
+          "L = K \u00d7 60%",
+          "M",
+          "N = L \u00d7 M",
+          "O = N \u00d7 $38.18"
+        ],
+        [
+          "2026",
+          "88,636",
+          "53,182",
+          "0.17",
+          "9,041",
+          "$345,185"
+        ],
+        [
+          "2027",
+          "91,400",
+          "54,840",
+          "",
+          "9,323",
+          "$355,952"
+        ],
+        [
+          "2028",
+          "89,693",
+          "53,816",
+          "",
+          "9,149",
+          "$349,309"
+        ],
+        [
+          "Total",
+          "269,729",
+          "161,837",
+          "\u00a0",
+          "27,513",
+          "$1,050,446"
+        ],
+        [
+          "Average ",
+          "89,910",
+          "53,946",
+          "",
+          "9,171",
+          "$350,149"
+        ]
+      ]
+    },
+    {
+      "table": 7,
+      "rows": [
+        [
+          "Table 6: Applicants' Hour Burden Cost for Enrollment Through TSA Non-Agent States"
+        ],
+        [
+          "Year",
+          "Average Annual Enrollments",
+          "Average Annual In-Person Enrollments",
+          "Hour Burden per Response",
+          "Total Annual Hour Burden",
+          "Total Annual Hour Burden Cost"
+        ],
+        [
+          "",
+          "A",
+          "B = A \u00d7 1",
+          "C",
+          "D = B \u00d7 C",
+          "E = D \u00d7 $38.18"
+        ],
+        [
+          "2026",
+          "65,673",
+          "65,673",
+          "0.96",
+          "63,046",
+          "$2,407,096"
+        ],
+        [
+          "2027",
+          "65,595",
+          "65,595",
+          "",
+          "62,971",
+          "$2,404,233"
+        ],
+        [
+          "2028",
+          "65,582",
+          "65,582",
+          "",
+          "62,959",
+          "$2,403,775"
+        ],
+        [
+          "Total",
+          "\u00a0196,850",
+          "\u00a0196,850",
+          "\u00a0",
+          "188,976",
+          "$7,215,104"
+        ],
+        [
+          "Average",
+          "\u00a065,617",
+          "\u00a065,617",
+          "\u00a0",
+          "62,992",
+          "$2,405,035"
+        ]
+      ]
+    },
+    {
+      "table": 8,
+      "rows": [
+        [
+          "Table 7: Summary of Survey Participants' Hour Burden Cost"
+        ],
+        [
+          "Year",
+          "TSA Agent State Applicants",
+          "Customer Survey Participants",
+          "Hours to Complete Survey per Applicant",
+          "Total Annual Hour Burden",
+          "Total Annual Hour Burden Cost"
+        ],
+        [
+          "",
+          "A",
+          "B = A \u00d7 10%",
+          "C",
+          "D = B \u00d7 C",
+          "E = D \u00d7 $38.18"
+        ],
+        [
+          "2026",
+          "170,454",
+          "17,045",
+          "0.03",
+          "511",
+          "$19,510"
+        ],
+        [
+          "2027",
+          "175,770",
+          "17,577",
+          "",
+          "527",
+          "$20,121"
+        ],
+        [
+          "2028",
+          "172,487",
+          "17,249",
+          "",
+          "517",
+          "$19,739"
+        ],
+        [
+          "Total",
+          "518,711",
+          "51,871",
+          "\u00a0",
+          "1,556",
+          "$59,370"
+        ],
+        [
+          "Average",
+          "172,904",
+          "17,290",
+          "\u00a0",
+          "519",
+          "$19,790"
+        ],
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "table": 9,
+      "rows": [
+        [
+          "Table 8: Summary of HME Security Threat Assessment Program Applicants' Hour Cost Burden"
+        ],
+        [
+          "Year",
+          "Total HME Enrollments",
+          "TSA Agent State Enrollments",
+          "TSA Non-Agent State Enrollments",
+          "Customer Survey Participants",
+          "Grand Total"
+        ],
+        [
+          "",
+          "",
+          "Total Annual Hour Burden",
+          "Total Annual Hour Burden Cost",
+          "Total Annual Hour Burden",
+          "Total Annual Hour Burden Cost",
+          "Total Annual Hour Burden",
+          "Total Annual Hour Burden Cost",
+          "Annual Hour Burden",
+          "Annual Hour Burden Cost"
+        ],
+        [
+          "",
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H = B + D + F",
+          "I = C + E + G"
+        ],
+        [
+          "2026",
+          "236,127",
+          "166,950",
+          "$6,374,151",
+          "63,046",
+          "$2,407,096",
+          "5,114",
+          "$19,510",
+          "235,110",
+          "$8,800,757"
+        ],
+        [
+          "2027",
+          "241,365",
+          "172,156",
+          "$6,572,916",
+          "62,971",
+          "$2,404,233",
+          "5,273",
+          "$20,121",
+          "240,400",
+          "$8,997,270"
+        ],
+        [
+          "2028",
+          "238,069",
+          "168,941",
+          "$6,450,167",
+          "62,959",
+          "$2,403,775",
+          "5,175",
+          "$19,739",
+          "237,075",
+          "$8,873,681"
+        ],
+        [
+          "Total",
+          "715,561",
+          "508,047",
+          "$19,397,234",
+          "188,976",
+          "$7,215,104",
+          "15,562",
+          "$59,370",
+          "712,585",
+          "$26,671,708"
+        ],
+        [
+          "Average",
+          "238,520",
+          "169,349",
+          "$6,465,745",
+          "62,992",
+          "$2,405,035",
+          "5,187",
+          "$19,790",
+          "237,528",
+          "$8,890,570"
+        ],
+        [
+          "\u00a0",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table": 10,
+      "rows": [
+        [
+          "Table 9: Summary of Appeal/Waiver Applicant's Hour Burden Cost"
+        ],
+        [
+          "Year",
+          "Total HME Enrollments",
+          "Percent Deemed Initially Ineligible",
+          "Percent Requesting Correction of the Record",
+          "Total Applicants Requesting Appeal or Waiver",
+          "Hour Burden",
+          "Total Annual Hour Burden",
+          "Total Annual Hour Burden Cost"
+        ],
+        [
+          "\u00a0",
+          "A",
+          "B",
+          "C",
+          "D = A \u00d7 B \u00d7 C",
+          "E",
+          "F = D \u00d7 E",
+          "G = F \u00d7 $38.18"
+        ],
+        [
+          "2026",
+          "236,127",
+          "3%",
+          "44%",
+          "3,117",
+          "6",
+          "18,702",
+          "$714,042"
+        ],
+        [
+          "2027",
+          "241,365",
+          "",
+          "",
+          "3,186",
+          "",
+          "19,116",
+          "$729,849"
+        ],
+        [
+          "2028",
+          "238,069",
+          "",
+          "",
+          "3,143",
+          "",
+          "18,858",
+          "$719,998"
+        ],
+        [
+          "Total",
+          "715,561",
+          "\u00a0",
+          "\u00a0",
+          "9,445",
+          "\u00a0",
+          "56,670",
+          "$2,163,890"
+        ],
+        [
+          "Average",
+          "238,520",
+          "\u00a0",
+          "\u00a0",
+          "3,148",
+          "\u00a0",
+          "18,888",
+          "$721,144"
+        ],
+        [
+          "\u00a0",
+          "\u00a0"
+        ]
+      ]
+    },
+    {
+      "table": 11,
+      "rows": [
+        [
+          "Table 10: Summary of Time Burden Cost"
+        ],
+        [
+          "Year",
+          "Total Enrollment/Renewal Time Burden",
+          "Survey Time Burden",
+          "Appeals Time Burden",
+          "Total Time Burden (Hours)",
+          "Total Hour Cost Burden"
+        ],
+        [
+          "",
+          "A",
+          "B",
+          "C",
+          "D = A + B + C",
+          "E = D \u00d7 $38.18"
+        ],
+        [
+          "2026",
+          "229,996",
+          "5,114",
+          "18,702",
+          "253,812",
+          "$9,690,542"
+        ],
+        [
+          "2027",
+          "235,127",
+          "5,273",
+          "19,116",
+          "259,516",
+          "$9,908,321"
+        ],
+        [
+          "2028",
+          "231,900",
+          "5,175",
+          "18,858",
+          "255,933",
+          "$9,771,522"
+        ],
+        [
+          "Total",
+          "697,023",
+          "15,562",
+          "56,670",
+          "769,255",
+          "$29,370,156"
+        ],
+        [
+          "Average",
+          "232,341",
+          "5,187",
+          "18,888",
+          "256,416",
+          "$9,789,963"
+        ]
+      ]
+    },
+    {
+      "table": 12,
+      "rows": [
+        [
+          "Table 11: HME Enrollment Fees",
+          ""
+        ],
+        [
+          "Year",
+          "TSA Agent States",
+          "TSA Non-Agent States",
+          "Totals"
+        ],
+        [
+          "",
+          "Enrollments",
+          "Enrollment Fee",
+          "HME Fees",
+          "Renewals",
+          "Online Renewal Fee",
+          "Online Renewal Fees",
+          "Enrollments& Renewals",
+          "Enrollment/Renewal Fee",
+          "HME Fees",
+          "Total Enrollments",
+          "Total HME Enrollment Fees "
+        ],
+        [
+          "",
+          "A",
+          "B",
+          "C = A \u00d7 B",
+          "D",
+          "E",
+          "F = D \u00d7 E",
+          "G",
+          "H",
+          "I = G \u00d7 H",
+          "J = A + D + G",
+          "K = C + F + I"
+        ],
+        [
+          "2026",
+          "81,818",
+          "$85.25",
+          "$6,974,985",
+          "88,636",
+          "$77.25",
+          "$6,847,131",
+          "65,673",
+          "$91.86",
+          "$6,032,722",
+          "236,127",
+          "$19,854,838"
+        ],
+        [
+          "2027",
+          "84,370",
+          "",
+          "$7,192,543",
+          "91,400",
+          "",
+          "$7,060,650",
+          "65,595",
+          "",
+          "$6,025,557",
+          "241,365",
+          "$20,278,750 "
+        ],
+        [
+          "2028",
+          "82,794",
+          "",
+          "$7,058,189",
+          "89,693",
+          "",
+          "$6,928,784",
+          "65,582",
+          "",
+          "$6,024,363",
+          "238,069",
+          "$20,011,336"
+        ],
+        [
+          "Total",
+          "248,982",
+          "\u00a0",
+          "$21,225,717",
+          "269,729",
+          "\u00a0",
+          "$20,836,565",
+          "\u00a0196,850",
+          "\u00a0",
+          "$18,082,642",
+          "715,561",
+          "$60,144,924"
+        ],
+        [
+          "Average",
+          "82,994",
+          "\u00a0",
+          "$7,075,239",
+          "89,910",
+          "\u00a0",
+          "$6,945,522",
+          "\u00a065,617",
+          "\u00a0",
+          "$6,027,547",
+          "238,520",
+          "$20,048,308"
+        ]
+      ]
+    },
+    {
+      "table": 13,
+      "rows": [
+        [
+          "Table 12: Fees for Appeal and Waiver"
+        ],
+        [
+          "Year",
+          "Appeals/Waivers",
+          "Fee",
+          "Annual Fees Paid"
+        ],
+        [
+          "",
+          "A",
+          "B",
+          "C = A \u00d7 B"
+        ],
+        [
+          "2026",
+          "3,117",
+          "$1.00",
+          "$3,117"
+        ],
+        [
+          "2027",
+          "3,186",
+          "",
+          "$3,186"
+        ],
+        [
+          "2028",
+          "3,143",
+          "",
+          "$3,143"
+        ],
+        [
+          "Total",
+          "9,445",
+          "\u00a0",
+          "$9,445"
+        ],
+        [
+          "Average",
+          "3,148",
+          "\u00a0",
+          "$3,148"
+        ]
+      ]
+    },
+    {
+      "table": 14,
+      "rows": [
+        [
+          "Table 13: Total Fees"
+        ],
+        [
+          "Year",
+          "Enrollment and Renewal Fee",
+          "Appeal and Waiver Fee",
+          "Total Fees"
+        ],
+        [
+          "",
+          "A",
+          "B",
+          "C = A + B"
+        ],
+        [
+          "2026",
+          "$19,854,838",
+          "$3,117",
+          "$19,857,955"
+        ],
+        [
+          "2027",
+          "$20,278,750",
+          "$3,186",
+          "$20,281,936"
+        ],
+        [
+          "2028",
+          "$20,011,336",
+          "$3,143",
+          "$20,014,479"
+        ],
+        [
+          "Total",
+          "$60,144,924",
+          "$9,445",
+          "$60,154,369"
+        ],
+        [
+          "Average",
+          "$20,048,308",
+          "$3,148",
+          "$20,051,456"
+        ]
+      ]
+    }
+  ]
+}

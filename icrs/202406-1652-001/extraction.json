@@ -1,0 +1,262 @@
+{
+  "icr_id": "202406-1652-001",
+  "omb_control_number": "1652-0003",
+  "agency": "DHS/TSA",
+  "title": "Aircraft Operator Security, 49 CFR Part 1544",
+  "submission_date": "06/26/2024",
+  "archetype": "aircraft operator security compliance",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 2,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0038",
+    "SRC-0037"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 11,
+    "segmentation": 15,
+    "labor": 7,
+    "item13": 8,
+    "item14": 8,
+    "item15": 5,
+    "validation": 3,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Detailed18activity rows; dominant checklist supported by FAA data; rounding precision mixed.",
+    "provenance": "OEWS source detail plus FAA extraction window; internal modular pay unavailable; ECEC publication/reference period confused.",
+    "segmentation": "Large/small operators andatomic activities; explicit growing population.",
+    "labor": "Employment-weighted occupation rates and ECEC ratio explicit; industry workforce mix may not match task mix.",
+    "item13": "CHRC count*fee explicit; remaining capital/O&M scope less developed.",
+    "item14": "Three federal workloads*loaded bands reconstruct to rounding; internal pay components inaccessible.",
+    "item15": "80hour correction explained; full population/wage changes not bridged.",
+    "validation": "FAA departures queried specific morning window; represents first flights only by proxy.",
+    "consistency": "Checklist narrative reports54658 instead of20.17m; table correct."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "New security programs",
+        3,
+        120,
+        360
+      ],
+      [
+        "Updates",
+        288,
+        4,
+        1152
+      ],
+      [
+        "Amendments",
+        192,
+        1,
+        192
+      ],
+      [
+        "Requests",
+        120,
+        1,
+        120
+      ],
+      [
+        "AOSSP CHRC",
+        74880,
+        0.5,
+        37440
+      ],
+      [
+        "AOSSP STA",
+        74880,
+        0.25,
+        18720
+      ],
+      [
+        "Program records",
+        48,
+        4,
+        192
+      ],
+      [
+        "CHRC records",
+        48,
+        520,
+        24960
+      ],
+      [
+        "Training records",
+        48,
+        24,
+        1152
+      ],
+      [
+        "Cargo addresses",
+        30,
+        2,
+        60
+      ],
+      [
+        "First flights",
+        2588645,
+        0.16666666666666666,
+        431441
+      ],
+      [
+        "Foreign employees",
+        17800,
+        0.08333333333333333,
+        1483
+      ],
+      [
+        "Other records",
+        48,
+        520,
+        24960
+      ],
+      [
+        "Incidents",
+        1200,
+        0.3333333333333333,
+        400
+      ],
+      [
+        "Small program amendments",
+        1172,
+        8,
+        9376
+      ],
+      [
+        "Small CHRC",
+        2250,
+        0.5,
+        1125
+      ],
+      [
+        "Small STA",
+        2250,
+        0.25,
+        563
+      ],
+      [
+        "Small records",
+        2250,
+        0.08333333333333333,
+        188
+      ]
+    ],
+    "labor": {
+      "source_year": 2022,
+      "ecec_factor": 1.4582,
+      "rates": {
+        "manager": 103.2,
+        "large_CHRC": 98.32,
+        "clerk": 36.85,
+        "checklist": 46.74,
+        "incident": 54.4,
+        "small_CHRC": 55.72
+      },
+      "annual_cost": 28889838
+    },
+    "item13": {
+      "fee": 52,
+      "large_CHRC": 74880,
+      "small_CHRC": 2250,
+      "annual_cost": 4010760
+    },
+    "item14": {
+      "tasks": [
+        [
+          "large verification",
+          48,
+          25,
+          63.65
+        ],
+        [
+          "small verification",
+          586,
+          4,
+          63.65
+        ],
+        [
+          "incidents",
+          1200,
+          0.25,
+          87.11
+        ]
+      ],
+      "annual_hours": 3844,
+      "annual_cost": 251693,
+      "pay_source": "FY2022 TSA Modular Cost Data"
+    },
+    "item15": {
+      "removed_watchlist_hours": 80,
+      "classification": "correction;no collection change"
+    },
+    "assumptions": [
+      "Average48 large operators from45,48,51;586small.",
+      "FAA2022 departures05:00–10:00 proxy for first-flight count.",
+      "CHRC20/week*52*1.5 recurrent multiplier."
+    ]
+  },
+  "reconstruction_issues": [
+    "First-flight narrative cost54658 copied from next activity; table20,165,327.",
+    "Published rounded rates do not reproduce exact dollar outputs; small residuals not necessarily calculation error."
+  ],
+  "methods_worth_testing": [
+    "Accessible workload query specification; staged population growth; task-aligned federal review."
+  ],
+  "checks": [
+    {
+      "label": "Federal hours",
+      "formula": "48*25+586*4+1200*.25",
+      "calculated": 3844.0,
+      "reported": 3844,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0038"
+    },
+    {
+      "label": "Federal dollars",
+      "formula": "(48*25+586*4)*63.65+300*87.11",
+      "calculated": 251708.6,
+      "reported": 251693,
+      "difference": 15.60000000000582,
+      "unit": "USD",
+      "interpretation": "Rounded rate residual",
+      "source_id": "SRC-0038"
+    },
+    {
+      "label": "CHRC fees",
+      "formula": "(48*1560+2250)*52",
+      "calculated": 4010760,
+      "reported": 4010760,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0038"
+    },
+    {
+      "label": "Checklist narrative",
+      "formula": "2588645*10/60*46.74",
+      "calculated": 20165544.55,
+      "reported": 54658,
+      "difference": 20110886.55,
+      "unit": "USD",
+      "interpretation": "Material copied narrative value; correct table differs only through precision",
+      "source_id": "SRC-0038"
+    }
+  ],
+  "total_score": 76
+}

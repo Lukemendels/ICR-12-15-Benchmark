@@ -1,4 +1,4 @@
-# Canonical model v0.2.0 — provisional architecture
+# Canonical model v0.4.0 — provisional architecture
 Inputs → assumptions → calculations → validation → output tables → Items 12–15 narrative.
 This starting architecture reflects mission requirements, not an empirical conclusion.
 Each scenario/version owns collection identity, analysis period, price year, annualization horizon, approval lineage and baseline reference.
@@ -26,3 +26,21 @@ Arithmetic checks must go beyond cached Excel results. Compare formula meaning w
 Versioned source instructions may contain conflicting wording or question numbering. Maintain a guidance interpretation register and route narrative by semantic item identity. All explanatory dollar values must derive from the same model version as tables.
 
 Revision history: 0.1.0 mission-derived initial architecture; 0.2.0 adds the above empirical requirements without claiming saturation.
+
+## Iteration 2 additions
+Pathway eligibility must explicitly distinguish mutually exclusive choices from additive activities. TSA HME exposes how adding an online-renewal subset after charging all applicants for in-person enrollment can duplicate burden. Validation requires partition shares to sum to one within the parent population, with explicit exceptions for overlapping activities.
+
+Source transformations must preserve inflation index identity and economic rationale. CBP uses a GDP deflator to update occupational compensation; this is reproducible but should not be silently treated as equivalent to wage inflation.
+
+Cost scope must separate gross collection costs, fee offsets, broader program savings and transfers. A claimed net saving cannot substitute for an unknown purchased-service price. Template text must inherit collection identity, legal authority and variable values from the same scenario as the tables.
+
+Revision 0.3.0 adds partition validation, identity binding and gross-versus-net cost boundaries. No rubric weight change.
+
+## Iteration 3 additions
+Eligibility assessment by nonreporters is a distinct activity (EPA TRI). Store calibrated constants with the calibration dataset, reference period, model version and conditions requiring revalidation. Updating population alone does not validate a legacy time coefficient.
+
+Overhead observations need component definitions and bases. EPA PCB exposes a factor containing profit; vendor prices and internal labor resource costs must retain their different economic meanings. Do not collapse them into one generic loading field.
+
+Baseline types include the previous approved inventory, the public-notice proposal, and transferred requirements. FCC IPCS demonstrates exact reconciliation between both prior approval and a subsequently revised notice estimate.
+
+Observed national data-source categories now include EIA building/manufacturing energy surveys as proxies for physical asset populations and BLS employment projections for forecast growth. Store proxy validity separately from source authority. Version0.4.0 is provisional; no saturation.

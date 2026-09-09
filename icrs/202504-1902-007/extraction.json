@@ -1,0 +1,174 @@
+{
+  "icr_id": "202504-1902-007",
+  "omb_control_number": "1902-0215",
+  "agency": "FERC",
+  "title": "FERC Form No. 60 (Annual Reports Of Centralized Service Cos.), FERC-61 (Narrative Description Of Service Co, FERC-555A (Preservation of Records Companies & Service Cos)",
+  "submission_date": "05/16/2025",
+  "archetype": "utility central-service financial reporting",
+  "complexity": "medium",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 3,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0066",
+    "SRC-0065"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 8,
+    "segmentation": 13,
+    "labor": 5,
+    "item13": 6,
+    "item14": 7,
+    "item15": 8,
+    "validation": 2,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Three activity rows expose populations, frequencies and hours; their sum is exactly57,973.",
+    "provenance": "Actualfilerbasis,2024FERCsalary andBLSclerk source; BLSvintage/load notderived.",
+    "segmentation": "Reporter versusrepresentedcompany correction useful; recordkeeping distinct.",
+    "labor": "Federalaveragepayproxy justified generically;39.53fileclerkrate withbenefitsnotderived.",
+    "item13": "1GB*10*51=510 transparent; marketpriceexamples mismatchunitpriceconservatism unexplained.",
+    "item14": "FTEsalary plusPRAadmin allowance;8369basisnotbottomup andtwofiledcollectionsfor3ICs unexplained.",
+    "item15": "Detailedoldnewrows andcountmethodchange; costrow calledROCIScost butcontainslabor.",
+    "validation": "Observedfilers supportcounts; no1080hourrecordkeeping validation.",
+    "consistency": "Item15 laborcost mislabeledROCISannualcost; newhoursrowssum57973 but componentreported earlier55080+2886+7=57973."
+  },
+  "thoroughness": "moderate",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Form60",
+        37,
+        78,
+        2886
+      ],
+      [
+        "Form61",
+        14,
+        0.5,
+        7
+      ],
+      [
+        "555Arecords",
+        51,
+        1080,
+        55080
+      ]
+    ],
+    "labor": {
+      "reporting_rate": 100,
+      "basis": "FERC2024average salaryplusbenefits207786/year",
+      "records_rate": 39.53,
+      "records_soc": "43-4071",
+      "reported_labor_cost": 2466612
+    },
+    "item13": {
+      "capital": 0,
+      "storage_GB_peryear": 1,
+      "storage_cost_each": 10,
+      "respondents": 51,
+      "annual_cost": 510,
+      "paperstorage": "removed"
+    },
+    "item14": {
+      "FTE": [
+        0.5,
+        0.1,
+        0
+      ],
+      "annual_salary_benefits": 207786,
+      "PRAadmin_percollection": 8396,
+      "admin_count": 2,
+      "annual_cost": 141464
+    },
+    "item15": {
+      "old_hours": [
+        3276,
+        40,
+        131760
+      ],
+      "new_hours": [
+        2886,
+        7,
+        55080
+      ],
+      "old_responses": [
+        42,
+        80,
+        122
+      ],
+      "new_responses": [
+        37,
+        14,
+        51
+      ],
+      "classification": "adjustment",
+      "retired_onetime": "described butnotseparatelyquantified"
+    },
+    "assumptions": [
+      "Form61 actualfilersreplace representedcompanies;averageburden supposedtocapture complexity.",
+      "100%electronicstorage; decliningmarketprices anticipated."
+    ]
+  },
+  "reconstruction_issues": [
+    "Item15 labels laborcost asROCISannualcost, obscuring510nonlaborcost.",
+    "PRAadmincount2versus3ICs needs collectionunitclarification, notassumederror."
+  ],
+  "methods_worth_testing": [
+    "Quantified denominator correction: filer versusrepresentedcorporategroup.",
+    "Explicit PRAadministration asfederalcostcategory."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "2886+7+55080",
+      "calculated": 57973,
+      "reported": 57973,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0066"
+    },
+    {
+      "label": "Federalcost",
+      "formula": ".6*207786+2*8396",
+      "calculated": 141463.59999999998,
+      "reported": 141464,
+      "difference": -0.40000000002328306,
+      "unit": "USD",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0066"
+    },
+    {
+      "label": "Storage",
+      "formula": "51*10",
+      "calculated": 510,
+      "reported": 510,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0066"
+    },
+    {
+      "label": "Change",
+      "formula": "(37-42)*78+(14-80)*.5+(51-122)*1080",
+      "calculated": -77103.0,
+      "reported": -77103,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0066"
+    }
+  ],
+  "total_score": 69
+}

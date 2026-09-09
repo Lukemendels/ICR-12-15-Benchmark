@@ -1,0 +1,183 @@
+{
+  "icr_id": "202503-3060-020",
+  "omb_control_number": "3060-1222",
+  "agency": "FCC",
+  "title": "Incarcerated People’s Communications Services (IPCS) Provider Annual Reporting, Certification, and Other Requirements, WC Docket Nos. 23-62, 12-375",
+  "submission_date": "04/01/2025",
+  "archetype": "incarcerated people communications disclosures",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 3,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0064",
+    "SRC-0063"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 19,
+    "provenance": 8,
+    "segmentation": 14,
+    "labor": 4,
+    "item13": 8,
+    "item14": 5,
+    "item15": 10,
+    "validation": 4,
+    "consistency": 4
+  },
+  "score_rationale": {
+    "reproducibility": "Eighttask equations reconstruct15175hours and1045739labor;uniqueversusmultipleobligations explicit.",
+    "provenance": "GSproxy and125professionalrate disclosed, weaksourceforlatter; rule/consultationrecord extensive.",
+    "segmentation": "Newandexisting obligations,waivers,pricingplans andprovider types distinguished.",
+    "labor": "GS13/5proxy65.48 and125officerrate; benefitandtaskmixvalidationlimited.",
+    "item13": "Zero additionalcapital explicitly defendedagainstpubliccomment; supportforsoftwareimplementationboundarystilllimited.",
+    "item14": "ExistingECFS noadditionalprocessingresources asserted; substantiveanalysiscostnotquantified.",
+    "item15": "6690+5900+1760+825=15175; public-noticebaseline17555 reduced2380 withspecificdrivers.",
+    "validation": "Substantiveindustrychallengeandresponse; reduceswaiver240to100anddisability80to40, butnotmeasuredtiming.",
+    "consistency": "Totalsandbridgesexact; assumptionqualityseparatefromarithmetic."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Disabilityaccess",
+        35,
+        40,
+        1400
+      ],
+      [
+        "Inactiveaccounts",
+        35,
+        100,
+        3500
+      ],
+      [
+        "Alternatepricing",
+        5,
+        200,
+        1000
+      ],
+      [
+        "Consumerdisclosure",
+        35,
+        80,
+        2800
+      ],
+      [
+        "Waivers",
+        7,
+        100,
+        700
+      ],
+      [
+        "Existingdisability",
+        35,
+        40,
+        1400
+      ],
+      [
+        "Annualreports",
+        35,
+        120,
+        4200
+      ],
+      [
+        "Officer certification",
+        35,
+        5,
+        175
+      ]
+    ],
+    "labor": {
+      "technical_proxy": "GS13/5",
+      "technical_rate": 65.48,
+      "professional_officer_rate": 125,
+      "labor_total": 1045739
+    },
+    "item13": {
+      "capital": 0,
+      "om": 0,
+      "rationale": "Noadditionalcapitalbeyondnormalbusiness; response toViaPathcomments inItem8"
+    },
+    "item14": {
+      "annual_cost": 0,
+      "rationale": "ExistingECFS process/publicationcapacity;incrementalresourcesnotexpected"
+    },
+    "item15": {
+      "old_hours": 6690,
+      "new_rules": 5900,
+      "revised_rules": 1760,
+      "expanded_population": 825,
+      "new_hours": 15175,
+      "old_respondents": 30,
+      "new_respondents": 35,
+      "old_responses": 33,
+      "new_responses": 47,
+      "notice_hours": 17555,
+      "notice_reduction": 2380,
+      "classification": "programchange;noadjustment"
+    },
+    "assumptions": [
+      "Waivertimes240to100hours afterprocedurenarrowing;disability80to40 forconsistencywithrelatedobligation.",
+      "Industrycommentschallengeimplementationcostandrequirementburden;agencyaddressesarguments."
+    ]
+  },
+  "reconstruction_issues": [
+    "125professionalwageunsourced andGSproxyunloaded; precisiondoesnotestablish empiricalburdenvalidity.",
+    "Noadditionalcapital claim rests onscopeargument ratherthanprice/investmentdata."
+  ],
+  "methods_worth_testing": [
+    "Two explicitlynamedbaselines: priorapproved and60-daynotice; driver-linkedrevisionhistory.",
+    "Publicchallenge/response can improveassumptions while retainingunresolveddisagreement."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "1400+3500+1000+2800+700+1400+4200+175",
+      "calculated": 15175,
+      "reported": 15175,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0064"
+    },
+    {
+      "label": "Hourbridge",
+      "formula": "6690+5900+1760+825",
+      "calculated": 15175,
+      "reported": 15175,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0064"
+    },
+    {
+      "label": "Noticebridge",
+      "formula": "7*(240-100)+35*(80-40)",
+      "calculated": 2380,
+      "reported": 2380,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0064"
+    },
+    {
+      "label": "Labor",
+      "formula": "14300*65.48+875*125",
+      "calculated": 1045739.0,
+      "reported": 1045739,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0064"
+    }
+  ],
+  "total_score": 76
+}

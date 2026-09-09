@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202501-1210-006",
+  "retrieved_at": "2026-09-09T10:48:20.590401+00:00",
+  "documents": [
+    {
+      "title": "1210-0091 PTE 94-71 and PTE 2003-39 05.15.2025.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=151812302",
+      "path": "icrs/202501-1210-006/raw/supporting-statement-a-1.docx",
+      "sha256": "fddbe2aa52ed540dc4df664ea6eeb37e208ab70744542b8955907d8fa8a5ae81",
+      "text_chars": 27402
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202501-1210-006",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202501-1210-006"
+}

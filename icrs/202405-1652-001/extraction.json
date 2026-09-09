@@ -1,0 +1,163 @@
+{
+  "icr_id": "202405-1652-001",
+  "omb_control_number": "1652-0021",
+  "agency": "DHS/TSA",
+  "title": "Flight Training Security Program",
+  "submission_date": "05/14/2024",
+  "archetype": "flight training security rule revision",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 2,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0036",
+    "SRC-0035"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 12,
+    "segmentation": 15,
+    "labor": 8,
+    "item13": 7,
+    "item14": 5,
+    "item15": 6,
+    "validation": 2,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Year-specific populations and minute assumptions allow approximate reconstruction; displayed averages hide precision.",
+    "provenance": "SOC/NAICS,employment weights,annual hours and four ECEC releases explicit.",
+    "segmentation": "Career-stage pilot rate,small/large providers,new/existing STA andyears meaningful.",
+    "labor": "Entry-career tenth percentile defended; four-quarter ratio explicit; educational industries may overlap and weighting requires care.",
+    "item13": "Standard/reduced fee split clear but rounded counts do not reconstruct exact dollars; fee derivation external.",
+    "item14": "Fee Development Report named; fee recovery does not itself expose gross federal cost.",
+    "item15": "Rule changes and time reductions explicit; complete prior/new total bridge absent.",
+    "validation": "Administrative count projections but little direct timing evidence.",
+    "consistency": "Candidate totals29638 plus provider3958 differ from33594; notification responsibility language conflicts."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Candidate new/renewing STA",
+        19356.333333333332,
+        0.75,
+        14517
+      ],
+      [
+        "Candidate existing STA",
+        25922.0,
+        0.5833333333333334,
+        15121
+      ],
+      [
+        "Small provider coordinator",
+        13023.0,
+        0.25,
+        3256
+      ],
+      [
+        "Large provider coordinator",
+        457.6666666666667,
+        0.25,
+        115
+      ],
+      [
+        "Small awareness records",
+        28518.333333333332,
+        0.016666666666666666,
+        476
+      ],
+      [
+        "Large awareness records",
+        6638.0,
+        0.016666666666666666,
+        111
+      ]
+    ],
+    "labor": {
+      "candidate": 41.51,
+      "small_provider": 61.27,
+      "large_records": 30.62,
+      "large_coordinator": 95.94,
+      "factor": 1.496,
+      "ecec_quarters": 2022,
+      "oews_year": 2022,
+      "candidate_wage_percentile": 10,
+      "annual_work_hours": 2080,
+      "total_cost": 1473110
+    },
+    "item13": {
+      "standard_count_rounded": 19112,
+      "standard_fee": 140,
+      "reduced_count_rounded": 245,
+      "reduced_fee": 125,
+      "annual_cost": 2706212
+    },
+    "item14": {
+      "method": "User fees recover vetting costs; separate Fee Development Report named",
+      "numeric_gross_cost": null
+    },
+    "item15": {
+      "event_based_to_five_year_STA": true,
+      "existing_STA_time_reduction_minutes": 10,
+      "records_minutes_old": 5,
+      "records_minutes_new": 1,
+      "new_coordinator_minutes": 15,
+      "hardcopy_costs_removed": true
+    },
+    "assumptions": [
+      "STA valid up to5years; horizon3years models uneven transition.",
+      "10th percentile used for career entrants; managers assumed pilots."
+    ]
+  },
+  "reconstruction_issues": [
+    "Rounded table fee counts sum19357 while total19356; precision needed.",
+    "Table hour totals differ from narrative by2hours; rounding not fully exposed.",
+    "Item15 says candidates no longer notify each event, yet Item12 charges existing-STA candidate notifications; scope needs clarification."
+  ],
+  "methods_worth_testing": [
+    "Transition-year population arrays; career-stage wage selection; public regulatory fee methodology linkage worth retrieving."
+  ],
+  "checks": [
+    {
+      "label": "Candidate existing hours",
+      "formula": "(14329+31643+31794)/3*35/60",
+      "calculated": 15121.166666666666,
+      "reported": 15121,
+      "difference": 0.16666666666606034,
+      "unit": "hours",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0036"
+    },
+    {
+      "label": "Fees from rounded counts",
+      "formula": "19112*140+245*125",
+      "calculated": 2706305,
+      "reported": 2706212,
+      "difference": 93,
+      "unit": "USD",
+      "interpretation": "Unrounded counts needed",
+      "source_id": "SRC-0036"
+    },
+    {
+      "label": "Summary hours",
+      "formula": "29638+3958",
+      "calculated": 33596,
+      "reported": 33594,
+      "difference": 2,
+      "unit": "hours",
+      "interpretation": "Two-hour discrepancy",
+      "source_id": "SRC-0036"
+    }
+  ],
+  "total_score": 74
+}

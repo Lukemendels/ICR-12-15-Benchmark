@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202401-1615-055",
+  "retrieved_at": "2026-09-09T10:39:41.971193+00:00",
+  "documents": [
+    {
+      "title": "I-751 REV Final Fee Rule Supporting Statement.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=139433601",
+      "path": "icrs/202401-1615-055/raw/supporting-statement-a-1.docx",
+      "sha256": "35af5bd1333460097b2c2dc400ef294de53753d1bfc3bafe49aa672c009c5d4f",
+      "text_chars": 21125
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202401-1615-055",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202401-1615-055",
+  "agency": "DHS/USCIS",
+  "title": "Petition to Remove the Conditions on Residence",
+  "omb_control_number": "1615-0038",
+  "submission_date": "02/08/2024",
+  "record_source_id": "SRC-0057",
+  "supporting_statement_source_ids": [
+    "SRC-0058"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "icr_id": "202410-7100-005",
+  "omb_control_number": "7100-0201",
+  "agency": "FRS",
+  "title": "Recordkeeping and Disclosure Requirements Associated with CFPB's Regulation B",
+  "submission_date": "01/24/2025",
+  "archetype": "bank credit recordkeeping and disclosures",
+  "complexity": "medium",
+  "tsa_relevance": "adjacent",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 2,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0042",
+    "SRC-0041"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 9,
+    "segmentation": 13,
+    "labor": 5,
+    "item13": 2,
+    "item14": 3,
+    "item15": 5,
+    "validation": 2,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Counts,frequency,times and six main rows exposed; rounded times create modest differences.",
+    "provenance": "NIC entity source and May2023 BLS date precise; inherited CFPB timing methodology not specifically linked.",
+    "segmentation": "Regulatory task segmentation with small-entity count; same time by bank size.",
+    "labor": "Four-occupation labor mix explicit, but weights unsupported and benefits not included.",
+    "item13": "Distinct nonlabor cost analysis not located in complete statement.",
+    "item14": "Federal cost negligible asserted without quantities.",
+    "item15": "Renewal changes described elsewhere; old/new driver bridge limited.",
+    "validation": "Administrative population; timing inherited but validation chain incomplete.",
+    "consistency": "Rounding sub-hour self-test activities to zero and rounded rates explains limited discrepancies."
+  },
+  "thoroughness": "moderate",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Retain applications",
+        5736956,
+        0.004,
+        22948
+      ],
+      [
+        "Monitoring records",
+        1082298,
+        0.017,
+        18399
+      ],
+      [
+        "Notifications",
+        5736956,
+        0.004,
+        22948
+      ],
+      [
+        "Credit information",
+        826726,
+        0.004,
+        3307
+      ],
+      [
+        "Monitoring disclosure",
+        1082298,
+        0.004,
+        4329
+      ],
+      [
+        "Appraisals",
+        1176902,
+        0.008,
+        9415
+      ],
+      [
+        "Self-test records",
+        108,
+        0.004,
+        0
+      ],
+      [
+        "Self-correction",
+        27,
+        0.016,
+        0
+      ],
+      [
+        "Optional-test disclosure",
+        108,
+        0.004,
+        0
+      ]
+    ],
+    "labor": {
+      "mix": [
+        [
+          "office",
+          0.3,
+          23
+        ],
+        [
+          "financial_managers",
+          0.45,
+          84
+        ],
+        [
+          "lawyers",
+          0.15,
+          85
+        ],
+        [
+          "chief_executives",
+          0.1,
+          124
+        ]
+      ],
+      "source_year": 2023,
+      "weighted_rate": 69.85,
+      "reported_cost": 5682018,
+      "benefits": "not stated"
+    },
+    "item13": {
+      "annual_cost": null,
+      "finding": "Separate nonlabor estimate not located"
+    },
+    "item14": {
+      "annual_cost": "negligible",
+      "workload": null
+    },
+    "item15": {
+      "baseline": "renewal",
+      "driver": "NIC population update; see full statement for context"
+    },
+    "assumptions": [
+      "461 of706 reporting banks small under850m asset threshold.",
+      "CFPB timing methods inherited, exact source absent."
+    ]
+  },
+  "reconstruction_issues": [
+    "Sub-hour self-test burdens round to zero individually.",
+    "Labor mix does not expose fringe/overhead or empirical shares."
+  ],
+  "methods_worth_testing": [
+    "Simple explicit occupation-weight vector is reusable; preserve precision before aggregation."
+  ],
+  "checks": [
+    {
+      "label": "Main hours",
+      "formula": "22948+18399+22948+3307+4329+9415",
+      "calculated": 81346,
+      "reported": 81346,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact table sum",
+      "source_id": "SRC-0042"
+    },
+    {
+      "label": "Labor",
+      "formula": "81346*(.3*23+.45*84+.15*85+.1*124)",
+      "calculated": 5682018.100000001,
+      "reported": 5682018,
+      "difference": 0.10000000055879354,
+      "unit": "USD",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0042"
+    },
+    {
+      "label": "Small activities",
+      "formula": "108*.004+27*.016+108*.004",
+      "calculated": 1.296,
+      "reported": 0,
+      "difference": 1.296,
+      "unit": "hours",
+      "interpretation": "1.296 hours disappears through row rounding",
+      "source_id": "SRC-0042"
+    }
+  ],
+  "total_score": 58
+}

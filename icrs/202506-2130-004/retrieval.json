@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202506-2130-004",
+  "retrieved_at": "2026-09-09T10:39:41.947829+00:00",
+  "documents": [
+    {
+      "title": "2130-0005_HOS_Supporting Justification 12-02-2024.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=159291801",
+      "path": "icrs/202506-2130-004/raw/supporting-statement-a-1.docx",
+      "sha256": "644eaf14e04b5240808bbf34520201adb68b44ebf6a3efb5b5bd5b03f6e0c082",
+      "text_chars": 27032
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202506-2130-004",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202506-2130-004",
+  "agency": "DOT/FRA",
+  "title": "Hours of Service Regulations",
+  "omb_control_number": "2130-0005",
+  "submission_date": "07/09/2025",
+  "record_source_id": "SRC-0069",
+  "supporting_statement_source_ids": [
+    "SRC-0070"
+  ]
+}

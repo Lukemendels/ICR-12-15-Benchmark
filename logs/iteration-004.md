@@ -1,0 +1,3 @@
+# Iteration4 selection
+Read state after29 reviews andversion0.4.0 model. Gap: tax burden simulation may falsify activity-table-centered architecture; repeated statisticalagency samples test whether BLS lead persists; healthcare,benefits,andhazmat add applicable compliance archetypes.
+Targets: NCS202310-1220-004; IRS202511-1545-005; CMS202506-0938-007; CensusAIES202310-0607-003; SECinteractive202502-3235-014; FDA202410-0910-013; EBSA202501-1210-006 and202603-1210-004; PHMSA202311-2137-001 and202404-2137-003; EPA202509-2060-003. Selection is methodological, not convenience. No saturation possible before completion ofminimum40 andsubsequent strategicbatches.

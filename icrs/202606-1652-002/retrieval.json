@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202606-1652-002",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202606-1652-002"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202606-1652-002",
+  "agency": "DHS/TSA",
+  "title": "Security Threat Assessment for Individuals Applying for a Hazardous Materials Endorsement for a Commercial Driver's License",
+  "omb_control_number": "1652-0027",
+  "submission_date": "08/21/2026",
+  "record_source_id": "SRC-0053",
+  "supporting_statement_source_ids": [
+    "SRC-0054"
+  ]
 }

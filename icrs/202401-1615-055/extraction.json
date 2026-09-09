@@ -1,0 +1,149 @@
+{
+  "icr_id": "202401-1615-055",
+  "omb_control_number": "1615-0038",
+  "agency": "DHS/USCIS",
+  "title": "Petition to Remove the Conditions on Residence",
+  "submission_date": "02/08/2024",
+  "archetype": "immigration residence petition withbiometrics",
+  "complexity": "medium",
+  "tsa_relevance": "adjacent",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 3,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0058",
+    "SRC-0057"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 19,
+    "provenance": 6,
+    "segmentation": 13,
+    "labor": 4,
+    "item13": 7,
+    "item14": 5,
+    "item15": 9,
+    "validation": 2,
+    "consistency": 4
+  },
+  "score_rationale": {
+    "reproducibility": "Two clearrows andbiometric multiple-person explanation.",
+    "provenance": "2018BLSalloccupations and1.46multiplier withoutsource; currentfee rule identified.",
+    "segmentation": "Petition andbiometricpeople separated; range ofpurchasedassistance.",
+    "labor": "Alloccupations choice explained butstaleuniversalrate andbenefitsunsupported.",
+    "item13": "25%*515*153000 explicit; range20–1000doesnotitselfjustify515mean.",
+    "item14": "Fee-based activitycostproxy; acknowledges cross-subsidy forfreebenefits undermines collection-specific equivalence.",
+    "item15": "Oldnewtable preciselyexplains27999hours removedwithfeecontent.",
+    "validation": "No empirical supportfor25%or515; timingasserted.",
+    "consistency": "Hourandcostproducts reconcile to rounding."
+  },
+  "thoroughness": "moderate",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Petition",
+        153000,
+        4.387,
+        671211
+      ],
+      [
+        "Biometrics",
+        306000,
+        1.17,
+        358020
+      ]
+    ],
+    "labor": {
+      "wage": 24.98,
+      "oews_year": 2018,
+      "factor": 1.46,
+      "loaded_rate": 36.47,
+      "all_occupations": true,
+      "cost": 37536054
+    },
+    "item13": {
+      "assistance_share": 0.25,
+      "assistance_average": 515,
+      "range": [
+        20,
+        1000
+      ],
+      "population": 153000,
+      "annual_cost": 19698750,
+      "filing_fee_informational": 750
+    },
+    "item14": {
+      "method": "fee-based proxy foractivity-based costing includingunassignedoverhead andfreebenefits",
+      "count": 153000,
+      "fee": 750,
+      "cost": 114750000
+    },
+    "item15": {
+      "prior_hours": 1057230,
+      "proposed_hours": 1029231,
+      "program_delta": -27999,
+      "petition_old": 699210,
+      "petition_new": 671211,
+      "biometrics_unchanged": 358020
+    },
+    "assumptions": [
+      "Two biometricpersons perpetition average;assistance25%at515USD."
+    ]
+  },
+  "reconstruction_issues": [
+    "Fee proxy includesfreebenefit cross-subsidy; doesnotisolategross costofthiscollection.",
+    "515average notmidpoint of20–1000range andno empiricaldistribution supplied."
+  ],
+  "methods_worth_testing": [
+    "Concise itemizedprior/newhours table; preservefees andresourcecosts asdistinct concepts."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "153000*4.387+306000*1.17",
+      "calculated": 1029230.9999999999,
+      "reported": 1029231,
+      "difference": -1.1641532182693481e-10,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0058"
+    },
+    {
+      "label": "Purchasedservices",
+      "formula": "153000*.25*515",
+      "calculated": 19698750.0,
+      "reported": 19698750,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0058"
+    },
+    {
+      "label": "Federalproxy",
+      "formula": "153000*750",
+      "calculated": 114750000,
+      "reported": 114750000,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact proxy,notvalidationofcostscope",
+      "source_id": "SRC-0058"
+    },
+    {
+      "label": "Change",
+      "formula": "671211-699210",
+      "calculated": -27999,
+      "reported": -27999,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0058"
+    }
+  ],
+  "total_score": 69
+}

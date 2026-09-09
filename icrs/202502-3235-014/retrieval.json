@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202502-3235-014",
+  "retrieved_at": "2026-09-09T10:46:50.163556+00:00",
+  "documents": [
+    {
+      "title": "Interactive Data Supporting Statement.Final.2025.pdf",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=159008102",
+      "path": "icrs/202502-3235-014/raw/supporting-statement-a-1.pdf",
+      "sha256": "8507b70a016312063371ecadc2373d6de28437eab7ae759d149e3565ca4dc3b0",
+      "text_chars": 17461
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202502-3235-014",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202502-3235-014"
+}

@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202406-1652-001",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202406-1652-001"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202406-1652-001",
+  "agency": "DHS/TSA",
+  "title": "Aircraft Operator Security, 49 CFR Part 1544",
+  "omb_control_number": "1652-0003",
+  "submission_date": "06/26/2024",
+  "record_source_id": "SRC-0037",
+  "supporting_statement_source_ids": [
+    "SRC-0038"
+  ]
 }

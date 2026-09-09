@@ -1,0 +1,120 @@
+{
+  "source_original": "icrs/202310-0607-003/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Respondents",
+          "Average time to complete",
+          "Annual Burden Hours"
+        ],
+        [
+          "8,470",
+          "3 hours, 55 minutes",
+          "33,206"
+        ],
+        [
+          "50 debriefing interviews",
+          "1 hour",
+          "       50"
+        ],
+        [
+          "        TOTAL",
+          "",
+          "33,256"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Respondents",
+          "Average time to complete",
+          "Annual Burden Hours"
+        ],
+        [
+          "385,940*",
+          "3 hours, 23 minutes*",
+          "1,303,636"
+        ]
+      ]
+    },
+    {
+      "table": 3,
+      "rows": [
+        [
+          "Advance Mailing",
+          "August 2023"
+        ],
+        [
+          "Initial Mail Out",
+          "September 2023"
+        ],
+        [
+          "Due Date Reminder",
+          "October 2023"
+        ],
+        [
+          "Telephone Reminder",
+          "September \u2013 October 2023"
+        ],
+        [
+          "Email Follow-up",
+          "October 2023"
+        ],
+        [
+          "First Mail Follow-up",
+          "October 2023"
+        ],
+        [
+          "Telephone Follow-up",
+          "October - November 2023"
+        ],
+        [
+          "Debriefing Interviews",
+          "September-December 2023"
+        ]
+      ]
+    },
+    {
+      "table": 4,
+      "rows": [
+        [
+          "Advance Mailing",
+          "February 2024"
+        ],
+        [
+          "Initial Mail Out",
+          "March 2024"
+        ],
+        [
+          "Due Date Reminder",
+          "April 2024"
+        ],
+        [
+          "Email Follow-up",
+          "May through December 2024"
+        ],
+        [
+          "Mail Follow-up",
+          "May through December 2024"
+        ],
+        [
+          "Telephone Follow-up",
+          "May through December 2024"
+        ],
+        [
+          "Edit, Analysis, Tabulation",
+          "June 2024-May 2025"
+        ],
+        [
+          "Data Release",
+          "July 2025"
+        ]
+      ]
+    }
+  ]
+}

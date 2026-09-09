@@ -1,0 +1,96 @@
+{
+  "source_original": "icrs/202602-3170-003/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Information Collection Requirement",
+          "No. of Respondents",
+          "Type of IC",
+          "Frequency",
+          "Annual Responses",
+          "Average Response Time (hours)",
+          "Annual Burden Hours",
+          "Hourly Costs"
+        ],
+        [
+          "HMDA Reporting Requirements",
+          "136",
+          "Reporting",
+          "1",
+          "136",
+          "6,776",
+          "921,536",
+          "$61,125,482"
+        ],
+        [
+          "Recordkeeping Requirements",
+          "136",
+          "Recordkeeping",
+          "1",
+          "136",
+          "4,330",
+          "588,880",
+          "$39,060,410"
+        ],
+        [
+          "Third Party Disclosure requirements",
+          "136",
+          "Third party disclosures",
+          "1",
+          "136",
+          "4",
+          "544",
+          "$36,083"
+        ],
+        [
+          "TOTAL",
+          "136",
+          "",
+          "",
+          "136",
+          "",
+          "1,510,960 ",
+          "$100,221,975"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Description of Costs (O&M)",
+          "Per Unit Costs",
+          "Quantity",
+          "Costs"
+        ],
+        [
+          "Annual Software Licensing Fees for HMS software",
+          "$10,114",
+          "136",
+          "$1,375,504"
+        ],
+        [
+          "Obtaining an LEI (one-time cost, already incurred for Bureau respondents)",
+          "$0",
+          "136",
+          "$0"
+        ],
+        [
+          "LEI Annual Renewal",
+          "$133",
+          "136",
+          "$18,088"
+        ],
+        [
+          "TOTAL",
+          "",
+          "136",
+          "$1,393,592"
+        ]
+      ]
+    }
+  ]
+}

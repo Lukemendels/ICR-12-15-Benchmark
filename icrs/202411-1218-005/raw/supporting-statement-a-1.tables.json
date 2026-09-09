@@ -1,0 +1,208 @@
+{
+  "source_original": "icrs/202411-1218-005/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Table 1 - WAGE HOUR ESTIMATES"
+        ],
+        [
+          "Occupational Title",
+          "SOC code",
+          "Mean Hourly Wage Rate(A)",
+          "Fringe Benefits (B)",
+          "Loaded Hourly Wage Rate(C) = (A)/((1-(B))"
+        ],
+        [
+          "Human Resources Assistant",
+          "43-4161",
+          "$23.46",
+          "0.312",
+          "$34.10"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Table 2 - Summary of Annual Estimated Burden Hours and Cost for Employers to Complete the Required Paperwork"
+        ],
+        [
+          "Information Collection Task",
+          "No. of Employers1",
+          " Responses per Respondents",
+          "Total Number of Responses",
+          "Time per Employer2",
+          "Burden Hours",
+          "Loaded Hourly Wage ",
+          "Cost Burden3"
+        ],
+        [
+          "",
+          "A",
+          "B ",
+          "C = AxB",
+          "D",
+          "E = CxD",
+          "F",
+          "G = ExF"
+        ],
+        [
+          "Locate and assemble information required to complete the variance application, including devising an alternative means of compliance, gathering or developing supporting documentation (e.g., safety policies, safe-work procedures, work-area exposure monitoring data, training materials)",
+          "12",
+          "1",
+          "12",
+          "16",
+          "192",
+          "$34.10",
+          "$6,547"
+        ],
+        [
+          "Inform affected workers of decision to seek a variance",
+          "12",
+          "1",
+          "12",
+          "4",
+          "48",
+          "$34.10",
+          "$1,637"
+        ],
+        [
+          "Complete the variance application (either online or hard copy)",
+          "12",
+          "1",
+          "12",
+          "8",
+          "96",
+          "$34.10",
+          "$3,274"
+        ],
+        [
+          "Assemble the application documents, including copying or scanning, collating, and electronically submitting or mailing",
+          "12",
+          "1",
+          "12",
+          "2",
+          "24",
+          "$34.10",
+          "$818"
+        ],
+        [
+          "Host an OSHA site visit",
+          "0.254",
+          "12",
+          "3",
+          "2",
+          "6",
+          "$34.10",
+          "$205"
+        ],
+        [
+          "Totals",
+          "",
+          "",
+          "51",
+          "",
+          "366",
+          "",
+          "$12,481"
+        ]
+      ]
+    },
+    {
+      "table": 3,
+      "rows": [
+        [
+          "Table 3 - Summary of Annual Federal Government Estimated Hours and Cost to the Federal Government to Process the Required Paperwork"
+        ],
+        [
+          "Information-Collection Task",
+          "Numberof Variances",
+          "Hoursper Task",
+          "Total Hours",
+          "Total Cost1"
+        ],
+        [
+          "Receive and initially process variance application ",
+          "12",
+          "4",
+          "48",
+          "$2,696"
+        ],
+        [
+          "Establish and maintain a variance-application case file",
+          "12",
+          "4",
+          "48",
+          "$2,696"
+        ],
+        [
+          "Conduct initial administrative review of variance application",
+          "12",
+          "5",
+          "60",
+          "$3,370 "
+        ],
+        [
+          "Draft and send letter to employer acknowledging receipt of application",
+          "12",
+          "3",
+          "36",
+          "$2,022"
+        ],
+        [
+          "Contact employer to obtain missing information or to correct minor errors in application",
+          "12",
+          "3",
+          "36",
+          "$2,022"
+        ],
+        [
+          "Conduct technical review of application",
+          "12",
+          "80",
+          "960",
+          "$53,914"
+        ],
+        [
+          "Draft and send a denial letter",
+          "11",
+          "10",
+          "110",
+          "$6,178"
+        ],
+        [
+          "Plan and conduct OSHA site visit",
+          ".25",
+          "40",
+          "10",
+          "$562"
+        ],
+        [
+          "Draft application and interim order for publication",
+          "1",
+          "200",
+          "200",
+          "$11,232"
+        ],
+        [
+          "Review comments and draft variance grant for publication",
+          "1",
+          "200",
+          "200",
+          "$11,232"
+        ],
+        [
+          "Totals",
+          "-",
+          "-",
+          "1,708",
+          "$95,924"
+        ]
+      ]
+    }
+  ]
+}

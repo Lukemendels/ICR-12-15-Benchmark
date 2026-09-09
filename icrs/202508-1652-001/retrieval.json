@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202508-1652-001",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202508-1652-001"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202508-1652-001",
+  "agency": "DHS/TSA",
+  "title": "Secure Flight Program",
+  "omb_control_number": "1652-0046",
+  "submission_date": "12/11/2025",
+  "record_source_id": "SRC-0047",
+  "supporting_statement_source_ids": [
+    "SRC-0048"
+  ]
 }

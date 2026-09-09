@@ -1,0 +1,144 @@
+{
+  "icr_id": "202411-1651-004",
+  "omb_control_number": "1651-0148",
+  "agency": "DHS/USCBP",
+  "title": "Global Interoperability Standards (GIS)",
+  "submission_date": "02/12/2025",
+  "archetype": "pipeline imports technology pilot",
+  "complexity": "medium",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 2,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0044",
+    "SRC-0043"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 11,
+    "segmentation": 10,
+    "labor": 8,
+    "item13": 1,
+    "item14": 2,
+    "item15": 7,
+    "validation": 2,
+    "consistency": 0
+  },
+  "score_rationale": {
+    "reproducibility": "24*12*4 clear; notice says4minutes instead of4hours.",
+    "provenance": "OEWS/ECEC/BEA exact sources,years,inputs; internal federal pay email identified but inaccessible.",
+    "segmentation": "Pilot importers homogeneous assumption; no industry segment times.",
+    "labor": "Median cargo/freight proxy plus occupational benefits and explicit GDP price transformation.",
+    "item13": "Unpriced provider fee netted against broad industry savings; no gross collection-cost estimate.",
+    "item14": "288responses*2hours asserted to equal10hours; substantive error.",
+    "item15": "New collection clear; explicit zero-to-new table absent.",
+    "validation": "13 Canadian exporters inform claimed savings but extrapolation not supplied.",
+    "consistency": "Hours/minutes conflict; federal multiplication wrong; net savings do not establish zero gross costs."
+  },
+  "thoroughness": "moderate",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Monthly submission",
+        288,
+        4,
+        1152
+      ]
+    ],
+    "labor": {
+      "median_wage": 23.24,
+      "occupation": "Cargo and Freight Agents",
+      "oews_year": 2023,
+      "ecec_total": 33.98,
+      "ecec_wage": 23,
+      "inflation_numerator": 122.273,
+      "inflation_denominator": 117.973,
+      "price_basis": "BEA NIPA1.1.9 GDP deflator2022–2023",
+      "loaded_2024": 35.59,
+      "cost": 41000
+    },
+    "item13": {
+      "provider_fee": null,
+      "claimed_industry_SGA_savings": 1000000000,
+      "claimed_duty_overpayment_range": [
+        70000000,
+        100000000
+      ],
+      "net_cost_claim": "negative"
+    },
+    "item14": {
+      "responses": 288,
+      "hours_per_response": 2,
+      "reported_hours": 10,
+      "loaded_rate": 70.19,
+      "cost": 702,
+      "grade": "GS11/10 national average with benefits, FY2024 internal email"
+    },
+    "item15": {
+      "baseline": "new"
+    },
+    "assumptions": [
+      "24 pilot participants;12annual submissions.",
+      "Savings extrapolated from13 Canadian exporters/operators without calculation."
+    ]
+  },
+  "reconstruction_issues": [
+    "Item14:288*2 is576hours, not10.",
+    "Item17 notice says4minutes vs Item12 fourhours.",
+    "Item13 fees unknown; claimed savings cannot reconstruct gross PRA nonlabor cost."
+  ],
+  "methods_worth_testing": [
+    "Explicit monetary vintage conversion; separate social benefit/cost analysis from gross collection costs."
+  ],
+  "checks": [
+    {
+      "label": "Respondent hours",
+      "formula": "24*12*4",
+      "calculated": 1152,
+      "reported": 1152,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0044"
+    },
+    {
+      "label": "Federal hours",
+      "formula": "288*2",
+      "calculated": 576,
+      "reported": 10,
+      "difference": 566,
+      "unit": "hours",
+      "interpretation": "Material error",
+      "source_id": "SRC-0044"
+    },
+    {
+      "label": "Federal cost from stated workload",
+      "formula": "288*2*70.19",
+      "calculated": 40429.44,
+      "reported": 702,
+      "difference": 39727.44,
+      "unit": "USD",
+      "interpretation": "Material error",
+      "source_id": "SRC-0044"
+    },
+    {
+      "label": "Loaded wage",
+      "formula": "23.24*(33.98/23)*(122.273/117.973)",
+      "calculated": 35.58603541547273,
+      "reported": 35.59,
+      "difference": -0.0039645845272744396,
+      "unit": "USD/hour",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0044"
+    }
+  ],
+  "total_score": 57
+}

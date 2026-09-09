@@ -1,0 +1,136 @@
+{
+  "icr_id": "202602-3170-003",
+  "omb_control_number": "3170-0008",
+  "agency": "CFPB",
+  "title": "Home Mortgage Disclosure Act (Regulation C)",
+  "submission_date": "02/27/2026",
+  "archetype": "financial mortgage reporting",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 2,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0052",
+    "SRC-0051"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 15,
+    "provenance": 5,
+    "segmentation": 9,
+    "labor": 3,
+    "item13": 6,
+    "item14": 3,
+    "item15": 4,
+    "validation": 1,
+    "consistency": 0
+  },
+  "score_rationale": {
+    "reproducibility": "Table row hours reconstruct; per-bank hours are asserted aggregates.",
+    "provenance": "SOC, base wage and live BLS link supplied without vintage or load derivation.",
+    "segmentation": "Reporting, records and disclosures separated; bank size and data-volume heterogeneity hidden.",
+    "labor": "41.46 to66.33 implicit1.6 factor not explained; financial-sector claim links national data.",
+    "item13": "Software and LEI unit costs exposed; narrative discusses a different collection.",
+    "item14": "Three employees plus861728 contract/O&M, but salary absent and total unclear.",
+    "item15": "Wage increase explained without prior rate or dollar bridge.",
+    "validation": "No timing evidence in Item12; inherited methodology not located in statement.",
+    "consistency": "RegulationI/private deposit-insurance narrative surrounds HMDA tables; wrong legal scope repeated."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "HMDA reporting",
+        136,
+        6776,
+        921536
+      ],
+      [
+        "Recordkeeping",
+        136,
+        4330,
+        588880
+      ],
+      [
+        "Disclosure",
+        136,
+        4,
+        544
+      ]
+    ],
+    "labor": {
+      "soc": "13-1041",
+      "base_wage": 41.46,
+      "loaded_rate": 66.33,
+      "reported_labor_cost": 100221975,
+      "derived_factor": 1.5998552821997105
+    },
+    "item13": {
+      "software_fee": 10114,
+      "entities": 136,
+      "lei_renewal": 133,
+      "lei_startup": 0,
+      "annual_total": 1393592
+    },
+    "item14": {
+      "employees": 3,
+      "contract_om": 861728,
+      "employee_pay": null
+    },
+    "item15": {
+      "program_change": "none",
+      "adjustment": "mean hourly wage increase; prior wage absent"
+    },
+    "assumptions": [
+      "136 banks all assigned6776 reporting and4330 recordkeeping hours."
+    ]
+  },
+  "reconstruction_issues": [
+    "Items12–13 narrative discusses167 institutions and RegulationI private insurance, whereas tables concern136 HMDA institutions.",
+    "ItemB refers12CFR1009; scope contamination limits defensibility even if products reconstruct.",
+    "Labor total differs modestly from1510960*66.33; hidden precision not exposed."
+  ],
+  "methods_worth_testing": [
+    "A model should bind all generated narrative to the same collection identity and legal authority as its tables."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "136*(6776+4330+4)",
+      "calculated": 1510960,
+      "reported": 1510960,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0052"
+    },
+    {
+      "label": "Labor",
+      "formula": "1510960*66.33",
+      "calculated": 100221976.8,
+      "reported": 100221975,
+      "difference": 1.7999999970197678,
+      "unit": "USD",
+      "interpretation": "Rate precision not exposed",
+      "source_id": "SRC-0052"
+    },
+    {
+      "label": "Item13",
+      "formula": "136*(10114+133)",
+      "calculated": 1393592,
+      "reported": 1393592,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0052"
+    }
+  ],
+  "total_score": 46
+}

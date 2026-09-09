@@ -1,40 +1,50 @@
 {
   "mission_status": "IN_PROGRESS",
-  "current_iteration": 1,
-  "icrs_reviewed": 10,
+  "current_iteration": 3,
+  "icrs_reviewed": 29,
   "agencies_components_reviewed": [
+    "CFPB",
     "DHS/TSA",
+    "DHS/USCBP",
+    "DHS/USCIS",
+    "DOC/CENSUS",
     "DOL/BLS",
     "DOL/OSHA",
     "DOT/FMCSA",
+    "DOT/FRA",
+    "EPA/OCSPP",
+    "EPA/OLEM",
     "EPA/OW",
+    "FCC",
+    "FERC",
+    "FRS",
     "HHS/FDA",
     "SEC",
     "SSA"
   ],
   "rubric_version": "1.0.0",
-  "canonical_model_version": "0.2.0",
+  "canonical_model_version": "0.4.0",
   "current_leaders": {
     "best_individual_seed": "202404-1220-001",
     "by_dimension": {
       "reproducibility": "202409-3235-022",
       "provenance": "202404-1220-001",
-      "segmentation": "202404-1220-001",
-      "labor": "202404-1220-001",
+      "segmentation": "202312-2050-001",
+      "labor": "202405-1218-005",
       "item13": "202404-1220-001",
-      "item14": "202409-2126-001",
-      "item15": "202409-3235-022",
-      "validation": "202410-0960-002",
+      "item14": "202406-1652-001",
+      "item15": "202503-3060-020",
+      "validation": "202405-1218-005",
       "consistency": "202409-3235-022"
     },
     "agency_leader": "insufficient repeated evidence",
     "most_consistent_agency": "not estimable"
   },
   "current_tsa_benchmark": {
-    "n": 3,
+    "n": 8,
     "mean": 66,
-    "min": 64,
-    "max": 68,
+    "min": 50,
+    "max": 76,
     "conclusion": "Seed shows useful detail and material public reconstruction errors;federal or agency ranking not established."
   },
   "open_methodological_questions": [
@@ -42,12 +52,12 @@
   ],
   "unresolved_evidence_gaps": [
     "Below40 reviewed minimum",
-    "TSA sample only3",
+    "TSA process-overhaul attribution unverified",
     "No matched agency dispersion samples",
     "Underlying citations not all independently retrieved",
     "No saturation or challenge round"
   ],
   "saturation_streak": 0,
-  "next_research_strategy": "Expand TSA and test complex financial,statistical,and other-DHS challengers;see logs/iteration-002.md",
-  "updated_at": "2026-09-09T10:23:48.861056+00:00"
+  "next_research_strategy": "Iteration4: IRS modeling challenger, repeated statistical agencies, CMS, FDA, EBSA, PHMSA andair emissions.",
+  "updated_at": "2026-09-09T10:48:20.532908+00:00"
 }

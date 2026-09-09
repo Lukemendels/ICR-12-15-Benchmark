@@ -1,0 +1,317 @@
+                      SUPPORTING STATEMENT
+FOR THE PAPERWORK REDUCTION ACT INFORMATION COLLECTION SUBMISSION
+                      FOR INTERACTIVE DATA
+
+
+A.     JUSTIFICATION
+
+       1.      Circumstances Making the Collection of Information Necessary
+
+        The Securities Act of 1933 (“Securities Act”) and Securities Exchange Act of 1934
+(“Exchange Act”), in general, require companies to file financial information with the Securities
+and Exchange Commission (“Commission”) in registration statements when they publicly offer
+securities and in reports when they have securities publicly held, respectively. The “Interactive
+Data” collection of information requires issuers filing these registration statements and reports to
+submit specified financial information to the Commission in interactive data format using
+eXtensible Business Reporting Language (XBRL). This collection of information is located
+primarily in:
+
+       •    registration statement and report exhibit provisions, which require interactive data;
+            and
+       •    Rule 405 of Regulation S-T (17 CFR 232.405), which specifies how to submit
+            interactive data.
+
+The exhibit provisions are in Item 601(b)(101) of Regulation S-K (17 CFR 229.601(b)(101)),
+Form F-10 under the Securities Act (17 CFR 239.40), and Forms 20-F, 40-F, and 6-K under the
+Exchange Act (17 CFR 249.220f, 17 CFR 249.240f, and 17 CFR 249.306).
+
+        In interactive data format, financial information can be downloaded directly into
+spreedsheets and analyzed in a variety of ways using commercial off-the-shelf software. The
+specified financial information already is and will continue to be required to be submitted to the
+Commission in traditional format (i.e., HyperText Markup Language (HTML)) under existing
+requirements.
+
+       2.      Purpose and Use of the Information Collection
+
+        The purpose of the interactive data requirement is to make financial information easier
+for investors to analyze and assist issuers in automating regulatory filings and business
+information processing. The interactive data can be used by investors and others interested in
+such information.
+
+       3.      Consideration Given to Information Technology
+
+        Responses under the interactive data requirements are submitted to the Commission
+electronically on its Electronic Data Gathering, Analysis, and Retrieval (“EDGAR”) system in
+XBRL format.
+       4.      Duplication of Information
+
+        Interactive data format financial information already is and will continue to be required to
+be submitted to the Commission in traditional human-readable format under existing
+requirements. When the information is in traditional format, it cannot be used as effectively as
+when in an interactive data format that a variety of software applications can recognize and
+process. Interactive data format facilitates investor analysis of financial information and assists
+issuers in automating regulatory filings and business information processing.
+
+       5.      Reducing the Burden on Small Entities
+
+        EDGAR is designed to provide all issuers, including small entities, with greater
+efficiencies in filing information with the Commission. Required electronic submission of
+interactive data on EDGAR imposes some costs on all issuers that submit interactive data,
+including those that are small entities. Small entities, however, as with all other issuers, have a
+30-day grace period to make their initial interactive data submission.
+
+       6.      Consequences of Not Conducting Collection
+
+        If the specified financial information were not required in interactive data format, the
+information would be available through the Commission only in the traditional format. Providing
+financial information in an interactive data format facilitates investor analysis of financial
+information. In addition, the use of interactive data format assists issuers in automating
+regulatory filings and business information processing. If interactive data format information
+were required less frequently, less information would appear in that format and, as a result, the
+interactive data requirement would be less likely to facilitate its intended purposes and achieve
+its expected benefits.
+
+       7.      Special Circumstances
+
+       There are no special circumstances.
+
+       8.      Consultations with Persons Outside the Agency
+
+         The interactive data extension request was proposed for public comment. We received
+one comment from the U.S. jurisdiction of the non-profit consortium responsible for developing
+and maintaining the technical specifications for XBRL. We also received a comment from a
+digital insurance services firm.
+
+       •    Whether this proposed collection of information is necessary for the proper
+            performance of the functions of the agency, including whether the information will
+            have practical utility
+
+        Both commenters addressed the practical utility of interactive data format information.
+The consortium stated that “corporate disclosures . . . prepared in XBRL format, [produce]
+structured data that is more useful, accessible, granular, and more consistent than data in
+
+                                                  2
+unstructured format for regulators, investors, researchers, and other data consumers.” It cited,
+among other things, ease of error checking, timely availability, authoritativeness, and suitability
+as a source for artificial intelligence platforms. The firm stated that “[t]he practical utility of
+XBRL over any other digital option is data capture commences early, can encompass all
+counterparties and supply chain and remains throughout the lifecycle of assets being reported.”
+
+       •   The accuracy of the agency’s estimate of the burden imposed by the collection of
+           information
+
+        Similarly, both commenters addressed the accuracy of the Commission’s internal
+reporting burden estimate of 53.11111 hours per response.
+
+         The consortium expressed its belief that the internal burden estimate is too high. It stated
+that, historically, companies used bolt-on tools to convert data into XBRL without changing any
+other aspect of their workflow but that, over time, companies have replaced this process with
+disclosure management tools that streamline creating, managing, and delivering information.
+The consortium further stated, however, that “[b]ecause disclosure management tools have a
+wide range of features, streamlining [that] process . . . , it is impossible to accurately pinpoint the
+cost of a single component such as XBRL preparation.” Consequently, “[t]o better assess the
+burden on issuers, [the consortium] conducted a survey about the XBRL preparation process and
+gathered information from 26 issuers.” The surveyed issuers prepared their XBRL as follows
+(with rounding):
+
+           •   20% totally in-house;
+
+           •   40% partly in-house with vendor assistance; and
+
+           •   40% totally outsourced to vendors.
+
+Based on the survey, the consortium estimated the average issuer internal burden is about 22
+hours per response.
+
+       The firm stated that “[t]he accuracy of the time burden for data sent to [the] SEC is
+wrong” and that “[i]t does not properly reflect the internal time saving of implementing XBRL
+because it fails to recognize the time saved by importing XBRL data.” The firm did not,
+however, provide a specific estimate.
+
+        We acknowledge these comments asserting a lower internal burden than our estimate.
+We do not find them to be reason to adjust our internal burden estimate at this time, however,
+because they may not be representative of the average respondent to which our estimate is
+directed. Further, as noted below, although we estimate that that the Interactive Data collection
+takes approximately 53.11111 hours per response to comply with annually, this estimate is made
+solely for purposes of the Paperwork Reduction Act (“PRA”), and we believe that the actual
+burdens will likely vary among individual companies based on the size and complexity of their
+organization and the nature of their operations. Nonetheless, we intend to consider these
+
+
+                                                   3
+comments further in light of any additional comments we receive on our internal burden
+estimate.
+
+       •   Ways to enhance the quality, utility, and clarity of the information collected
+
+        Both commenters also addressed enhancing the information collected. The consortium
+asserted that the “SEC can improve the quality and usefulness of reported data by continuing to
+incorporate . . . into the EDGAR submission process” all validation rules issued by the Center for
+Data Quality’s Data Quality Committee composed of “filing agents, data aggregators, and
+investors” and supplemented by permanent observers from the Financial Accounting Standards
+Board and the International Accounting Standards Board. The firm suggested that the
+Commission “[e]ncourage public and private entities to continue implementing XBRL for
+engaging in digital ecosystems so that data generated by importing aligns with the data exported
+to [the Commission].”
+
+       •   Ways to minimize the burden of the collection of information on respondents,
+           including through the use of automated collection techniques or other forms of
+           information technology.
+
+        In addition, both commenters addressed ways to minimize the burden of the information
+collection. The consortium noted that its survey also asked “about the ongoing challenges with
+XBRL preparation and how regulators and vendors could better support the process.” The
+consortium reported that “[r]espondents cited challenges in formatting new disclosures correctly
+when there appear to be multiple options, and in understanding SEC requirements correctly” and
+the respondents “noted that regulators could improve the process through
+
+           •   Offer[ring] more training and education with ‘plain English’ explanations.
+
+           •   Provid[ing] a consolidated listing of requirements that would be easy for
+               accountants to navigate and understand.
+
+           •   Reduc[ing] the number of changes year to year.
+
+           •   Provid[ing] more examples of proper tagging and ways to clear data quality
+               errors.”
+
+The firm stated that “[t]he acceleration to digital platforms that can engage in digital ecosystems
+enabled by XBRL will provide system developers the ability to innovate next generation
+platforms for a next generation economy.”
+
+       We acknowledge these comments regarding ways to minimize burdens. We note that the
+Commission makes available various tools to assist XBRL filers. With respect to filing fees, for
+example, the Commission provides on its website the following to help filers structure filing fee
+information in XBRL:
+
+
+
+                                                 4
+             •   the option to use the Fee Exhibit Preparation Tool (“FEPT”), which includes
+                 features such as prompts, explanations, and automated calculations, to help filers
+                 calculate, disclose, and construct structured filing fee information and produce a
+                 filing fee exhibit in submission-ready format;
+
+             •   an EDGAR Filing Fee Interface Courtesy Guide which provides information on
+                 how to use the FEPT; and
+
+             •   an EDGAR Filing Fee Modernization: Topics of Frequent Inquiry page.
+
+       9.        Payment or Gift to Respondents
+
+       No payment or gift has been provided to any respondents.
+
+       10.       Confidentiality
+
+       Interactive Data information is available to the public for review.
+
+       11.       Sensitive Questions
+
+        The information collection does not collect personally identifiable information. A system
+of records notice and a privacy impact assessment are not required in connection with the
+collection of information.
+
+
+
+
+                                                  5
+       12.     Estimate of Respondent Reporting Burden
+
+                                 Estimated Reporting Burden
+              Information     OMB Control           Number of          Burden
+              Collection       Number               Responses          Hours
+              Title
+              Interactive
+                                3235-0645            36,981          1,964,102
+              Data
+        For purposes of the PRA, we estimate that in order to comply with the “Interactive Data”
+collection requirements, approximately 8,218 respondents per year would each submit an
+average of approximately 4.5 responses per year for an estimated total of 36,981 responses
+annually (calculated for period 2022 through 2024). We further estimate that the Interactive
+Data collection takes approximately 53.11111 hours per response to comply. Based on our
+estimates, we calculate the total internal reporting burden to be 1,964,102 hours (53.11111 hours
+per response x 36,981 responses).
+
+        We derived our burden hour estimates by estimating the average number of hours it
+would take an issuer to compile the necessary information and data, prepare and review
+disclosure, file documents and retain records. In connection with amendments to the Interactive
+Data collection, we occasionally receive PRA estimates from public commenters about
+incremental burdens that are used in our burden estimates. We believe that the actual burdens
+will likely vary among individual companies based on the size and complexity of their
+organization and the nature of their operations. For administrative convenience, the paperwork
+burden hours have been rounded to the nearest whole number. The burden estimate for the hours
+is made solely for the purpose of the PRA.
+
+
+
+
+                                                6
+            13.      Estimate of Total Annualized Cost Burden
+
+                                                Estimated Cost Burden
+                     Information         OMB Control                Number of                 Cost
+                     Collection           Number                    Responses                Burden
+                     Title
+                     Interactive
+                                          3235-0645                   36,981              $228,357,675
+                     Data
+       We estimate that approximately 8,218 respondents per year will each submit an average
+of approximately 4.5 responses per year for an estimated total of 36,981 responses at an
+estimated external cost of $6,175 per response for software and/or filing agent services for an
+estimated total external cost of $228,357,675 (36,981 responses x $6,175 per response).
+
+        Our estimates reflect average burdens, and therefore, some companies may experience
+costs in excess of our estimates and some companies may experience costs that are lower than
+our estimates. For administrative convenience, the cost totals have been rounded to the nearest
+dollar. The cost estimate is made solely for the purpose of the PRA.
+
+            14.      Costs to Federal Government
+
+        The SEC is in the process of revising its methodologies to estimate annualized costs to
+the Federal government for all its relevant collections of information. The SEC anticipates that
+future extensions of this collection of information will reflect the revised methodologies.
+
+            15.      Reason for Change in Burden
+
+                       Summary of the Change in Burden Hours and Cost Burden
+                      Annual No. of Responses       Annual Time Burden (Hours)                 Annual Cost Burden ($)
+ IC Title         Previousl   Requeste              Previousl       Requeste              Previously   Requested    Increase
+                  y              d       Increase       y              d        Increas   Approved                   In Cost
+                  Approved                  In      Approved                       e                                Burden
+                                         Response                                 In
+                                             s                                  Burden
+ Interactive
+                                                                                          211,018,27   228,357,67   17,339,40
+ Data              34,173      36,981     2,808     1,814,966       1,964,102   149,136
+                                                                                              5            5            0
+
+
+
+       The increases in time burden of 149,136 hours and cost burden of $17,339,400 are due to
+an updated higher estimate of the number of respondents based on more recent information.
+
+            16.      Information Collection Planned for Statistical Purposes
+
+            The information collection is not planned for statistical purposes.
+
+
+
+
+                                                                7
+     17.    Approval to Omit OMB Expiration Date
+
+     The Commission is not seeking approval to omit the expiration date.
+
+     18.    Exceptions to Certification for Paperwork Reduction Act Submissions
+
+     There are no exceptions to certification for PRA submissions.
+
+B.   STATISTICAL METHODS
+
+     The information collection does not employ statistical methods.
+
+
+
+
+                                             8
+

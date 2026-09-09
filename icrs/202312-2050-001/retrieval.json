@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202312-2050-001",
+  "retrieved_at": "2026-09-09T10:39:15.141187+00:00",
+  "documents": [
+    {
+      "title": "2688ss02v2.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=137802202",
+      "path": "icrs/202312-2050-001/raw/supporting-statement-a-1.docx",
+      "sha256": "76796436584afb8a98a4a08de5db1893a1caac04af5d1adf09e5feb7930bfc1b",
+      "text_chars": 47295
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202312-2050-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202312-2050-001",
+  "agency": "EPA/OLEM",
+  "title": "Alternate PCB Extraction Methods and Amendments to PCB Cleanup and Disposal Regulations (Final Rule)",
+  "omb_control_number": "2050-0230",
+  "submission_date": "01/10/2024",
+  "record_source_id": "SRC-0055",
+  "supporting_statement_source_ids": [
+    "SRC-0056"
+  ]
+}

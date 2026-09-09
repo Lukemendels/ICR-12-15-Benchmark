@@ -1,0 +1,917 @@
+{
+  "source_original": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Collection Activity",
+          "Number ofRespondents Per Activity (Net)",
+          "Responses Per Respondent",
+          "Total Annual Responses by Activity",
+          "MinutesPer Response",
+          "Total Hours"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data ",
+          "2,364 ",
+          "1",
+          "2,364",
+          "254",
+          "10,008"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data (nonresponse)",
+          "2,364",
+          "1",
+          "2,364",
+          "5",
+          "197"
+        ],
+        [
+          "Activity 1b\u2014Updates of NCS data",
+          "11,500",
+          "3.2",
+          "36,800 ",
+          "40",
+          "24,533 "
+        ],
+        [
+          "Activity 2\u2014Feasibility survey testing",
+          "400",
+          "1",
+          "400",
+          "60",
+          "400"
+        ],
+        [
+          "Activity 3a\u2014Re-interview for quality assurance activities of initiations",
+          "118",
+          "1",
+          "118",
+          "15",
+          "30"
+        ],
+        [
+          "Activity 3b\u2014Re-interview for quality assurance activities of updates",
+          "575",
+          "3.2",
+          "1,840 ",
+          "15",
+          "460 "
+        ],
+        [
+          "FY 2024 Totals annually",
+          "17,321",
+          "",
+          "43,886",
+          "--",
+          "35,628 "
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Collection Activity",
+          "Number ofRespondents Per Activity (Net)",
+          "Responses Per Respondent",
+          "Total Annual Responses by Activity",
+          "MinutesPer Response",
+          "Total Hours"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data ",
+          "1,773",
+          "1",
+          "1,773",
+          "254",
+          "7,506"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data (nonresponse)",
+          "1,773",
+          "1",
+          "1,773",
+          "5",
+          "148"
+        ],
+        [
+          "Activity 1b\u2014Updates of NCS data",
+          "13,000",
+          "3.2",
+          "41,600",
+          "40",
+          "27,733"
+        ],
+        [
+          "Activity 2\u2014Feasibility survey testing",
+          "400",
+          "1",
+          "400",
+          "60",
+          "400"
+        ],
+        [
+          "Activity 3a\u2014Re-interview for quality assurance activities of initiations",
+          "89",
+          "1",
+          "89",
+          "15",
+          "22"
+        ],
+        [
+          "Activity 3b\u2014Re-interview for quality assurance activities of updates",
+          "650",
+          "3.2",
+          "2,080",
+          "15",
+          "520"
+        ],
+        [
+          "FY 2025 Totals annually",
+          "17,685",
+          "--",
+          "47,715",
+          "--",
+          "36,329"
+        ]
+      ]
+    },
+    {
+      "table": 3,
+      "rows": [
+        [
+          "Collection Activity",
+          "Number ofRespondents Per Activity (Net)",
+          "Responses Per Respondent",
+          "Total Annual Responses by Activity",
+          "MinutesPer Response",
+          "Total Hours"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data ",
+          "621",
+          "1",
+          "621",
+          "254",
+          "2,629"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data (nonresponse)",
+          "621",
+          "1",
+          "621",
+          "5",
+          "52"
+        ],
+        [
+          "Activity 1b\u2014Updates of NCS data",
+          "14,425",
+          "3.2",
+          "46,160",
+          "40",
+          "30,773"
+        ],
+        [
+          "Activity 2\u2014Feasibility survey testing",
+          "400",
+          "1",
+          "400",
+          "60",
+          "400"
+        ],
+        [
+          "Activity 3a\u2014Re-interview for quality assurance activities of initiations",
+          "31",
+          "1",
+          "31",
+          "15",
+          "8"
+        ],
+        [
+          "Activity 3b\u2014Re-interview for quality assurance activities of updates",
+          "721",
+          "3.2",
+          "2,307",
+          "15",
+          "577"
+        ],
+        [
+          "FY 2026 Totals annually ",
+          "16,819",
+          "--",
+          "50,140",
+          "--",
+          "34,439"
+        ]
+      ]
+    },
+    {
+      "table": 4,
+      "rows": [
+        [
+          "Collection Activity",
+          "Number ofRespondentsPer Activity (Net)",
+          "Responses Per Respondent",
+          "Total Annual Responses by Activity",
+          "MinutesPer Response",
+          "Total Hours"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data ",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data (nonresponse)",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "Activity 1b\u2014Updates of NCS data",
+          "1,596",
+          "3.6",
+          "5,746",
+          "40",
+          "3,831"
+        ],
+        [
+          "Activity 2\u2014Feasibility survey testing",
+          "60",
+          "1",
+          "60",
+          "60",
+          "60"
+        ],
+        [
+          "Activity 3a\u2014Re-interview for quality assurance activities of initiations",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "Activity 3b\u2014Re-interview for quality assurance activities of updates",
+          "80",
+          "3.6",
+          "288",
+          "15",
+          "72"
+        ],
+        [
+          "FY 2024 Totals annually",
+          "1,736",
+          "--",
+          "6,094",
+          "--",
+          "3,963"
+        ]
+      ]
+    },
+    {
+      "table": 5,
+      "rows": [
+        [
+          "Collection Activity",
+          "Number ofRespondentsPer Activity (Net)",
+          "Responses Per Respondent",
+          "Total Annual Responses by Activity",
+          "MinutesPer Response",
+          "Total Hours"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data ",
+          "359",
+          "1",
+          "359",
+          "254",
+          "1,520"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data (nonresponse)",
+          "40",
+          "1",
+          "40",
+          "5",
+          "3"
+        ],
+        [
+          "Activity 1b\u2014Updates of NCS data",
+          "1,596",
+          "3.6",
+          "5,746",
+          "40",
+          "3,831"
+        ],
+        [
+          "Activity 2\u2014Feasibility survey testing",
+          "60",
+          "1",
+          "60",
+          "60",
+          "60"
+        ],
+        [
+          "Activity 3a\u2014Re-interview for quality assurance activities of initiations",
+          "18",
+          "1",
+          "18",
+          "15",
+          "5"
+        ],
+        [
+          "Activity 3b\u2014Re-interview for quality assurance activities of updates",
+          "80",
+          "3.6",
+          "288",
+          "15",
+          "72"
+        ],
+        [
+          "FY 2025 Totals annually",
+          "2,153",
+          "--",
+          "6,511",
+          "--",
+          "5,491"
+        ]
+      ]
+    },
+    {
+      "table": 6,
+      "rows": [
+        [
+          "Collection Activity",
+          "Number ofRespondentsPer Activity (Net)",
+          "Responses Per Respondent",
+          "Total Annual Responses by Activity",
+          "MinutesPer Response",
+          "Total Hours"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data ",
+          "1,077",
+          "1",
+          "1,077",
+          "254",
+          "4,559"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data (nonresponse)",
+          "120",
+          "1",
+          "120",
+          "5",
+          "10"
+        ],
+        [
+          "Activity 1b\u2014Updates of NCS data",
+          "1,596",
+          "3.6",
+          "5,746",
+          "40",
+          "3,831"
+        ],
+        [
+          "Activity 2\u2014Feasibility survey testing",
+          "60",
+          "1",
+          "60",
+          "60",
+          "60"
+        ],
+        [
+          "Activity 3a\u2014Re-interview for quality assurance activities of initiations",
+          "54",
+          "1",
+          "54",
+          "15",
+          "14"
+        ],
+        [
+          "Activity 3b\u2014Re-interview for quality assurance activities of updates",
+          "80",
+          "3.6",
+          "288",
+          "15",
+          "72"
+        ],
+        [
+          "FY 2026 Totals annually",
+          "2,987",
+          "--",
+          "7,345",
+          "--",
+          "8,546"
+        ]
+      ]
+    },
+    {
+      "table": 7,
+      "rows": [
+        [
+          "Fiscal Year",
+          "Respondents ",
+          "Average responses per year",
+          "Total # ofResponses",
+          "Average minutes per response",
+          "Total hours"
+        ],
+        [
+          "FY 2024",
+          "17,321",
+          "2.5337",
+          "43,886",
+          "48.7098",
+          "35,628"
+        ],
+        [
+          "FY 2025",
+          "17,685",
+          "2.6980",
+          "47,715",
+          "45.6825",
+          "36,329"
+        ],
+        [
+          "FY 2026",
+          "16,819",
+          "2.9812",
+          "50,140",
+          "41.2114",
+          "34,439"
+        ],
+        [
+          "OverallAverage",
+          "17,275",
+          "2.7350",
+          "47,246",
+          "45.0378",
+          "35,465"
+        ]
+      ]
+    },
+    {
+      "table": 8,
+      "rows": [
+        [
+          "Fiscal Year",
+          "Respondents ",
+          "Average responses per year",
+          "Total # ofResponses",
+          "Average minutes per response",
+          "Total hours"
+        ],
+        [
+          "FY 2024",
+          "1,736",
+          "3.5104",
+          "6,094",
+          "39.0187",
+          "3,963"
+        ],
+        [
+          "FY 2025",
+          "2,153",
+          "3.0242",
+          "6,511",
+          "50.6005",
+          "5,491"
+        ],
+        [
+          "FY 2026",
+          "2,987",
+          "2.4590",
+          "7,345",
+          "69.8108",
+          "8,546"
+        ],
+        [
+          "OverallAverage",
+          "2,292",
+          "2.9014",
+          "6,650",
+          "54.1353",
+          "6,000"
+        ]
+      ]
+    },
+    {
+      "table": 9,
+      "rows": [
+        [
+          "Collection Activity",
+          "Number ofRespondentsPer Activity (Net)",
+          "Responses Per Respondent",
+          "Total Annual Responses by Activity",
+          "MinutesPer Response",
+          "Total Hours"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data ",
+          "2,364",
+          "1",
+          "2,364",
+          "254",
+          "10,008"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data (nonresponse)",
+          "2,364",
+          "1",
+          "2,364",
+          "5",
+          "197"
+        ],
+        [
+          "Activity 1b\u2014Updates of NCS data",
+          "13,096",
+          "3.2488",
+          "42,546",
+          "40",
+          "28,364"
+        ],
+        [
+          "Activity 2\u2014Feasibility survey testing",
+          "460",
+          "1",
+          "460",
+          "60",
+          "460"
+        ],
+        [
+          "Activity 3a\u2014 Re-interview for quality assurance activities of initiations",
+          "118",
+          "1",
+          "118",
+          "15",
+          "30"
+        ],
+        [
+          "Activity 3b\u2014 Re-interview for quality assurance activities of updates",
+          "655",
+          "3.2489",
+          "2,128",
+          "15",
+          "532"
+        ],
+        [
+          "FY 2024 Total ",
+          "19,057",
+          "--",
+          "49,980",
+          "--",
+          "39,591"
+        ]
+      ]
+    },
+    {
+      "table": 10,
+      "rows": [
+        [
+          "Collection Activity",
+          "Number ofRespondentsPer Activity (Net)",
+          "Responses Per Respondent",
+          "Total Annual Responses by Activity",
+          "MinutesPer Response",
+          "Total Hours"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data ",
+          "2,132",
+          "1",
+          "2,132",
+          "254",
+          "9,026"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data (nonresponse)",
+          "1,813",
+          "1",
+          "1,813",
+          "5",
+          "151"
+        ],
+        [
+          "Activity 1b\u2014Updates of NCS data",
+          "14,596",
+          "3.2438",
+          "47,346",
+          "40",
+          "31,564"
+        ],
+        [
+          "Activity 2\u2014Feasibility survey testing",
+          "460",
+          "1",
+          "460",
+          "60",
+          "460"
+        ],
+        [
+          "Activity 3a\u2014 Re-interview for quality assurance activities of initiations",
+          "107",
+          "1",
+          "107",
+          "15",
+          "27"
+        ],
+        [
+          "Activity 3b\u2014 Re-interview for quality assurance activities of updates",
+          "730",
+          "3.2438",
+          "2,368",
+          "15",
+          "592"
+        ],
+        [
+          "FY 2025 Total ",
+          "19,838",
+          "--",
+          "54,226",
+          "--",
+          "41,820"
+        ]
+      ]
+    },
+    {
+      "table": 11,
+      "rows": [
+        [
+          "Collection Activity",
+          "Number ofRespondentsPer Activity (Net)",
+          "Responses Per Respondent",
+          "Total Annual Responses by Activity",
+          "MinutesPer Response",
+          "Total Hours"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data ",
+          "1,698",
+          "1",
+          "1,698",
+          "254",
+          "7,188"
+        ],
+        [
+          "Activity 1a\u2014Initiation of NCS data (nonresponse)",
+          "741",
+          "1",
+          "741",
+          "5",
+          "62"
+        ],
+        [
+          "Activity 1b\u2014Updates of NCS data",
+          "16,021",
+          "3.2399",
+          "51,906",
+          "40",
+          "34,604"
+        ],
+        [
+          "Activity 2\u2014Feasibility survey testing",
+          "460",
+          "1",
+          "460",
+          "60",
+          "460"
+        ],
+        [
+          "Activity 3a\u2014 Re-interview for quality assurance activities of initiations",
+          "85",
+          "1",
+          "85",
+          "15",
+          "22"
+        ],
+        [
+          "Activity 3b\u2014 Re-interview for quality assurance activities of updates",
+          "801",
+          "3.2397",
+          "2,595",
+          "15",
+          "649"
+        ],
+        [
+          "FY 2026 Total ",
+          "19,806",
+          "--",
+          "57,485",
+          "--",
+          "42,985"
+        ]
+      ]
+    },
+    {
+      "table": 12,
+      "rows": [
+        [
+          "Fiscal Year",
+          "Respondents ",
+          "Average responses per year",
+          "Total # ofResponses",
+          "Average minutes",
+          "Total hours"
+        ],
+        [
+          "FY 2024",
+          "19,057",
+          " 2.6227",
+          " 49,980",
+          " 47.5282",
+          " 39,591"
+        ],
+        [
+          "FY 2025",
+          "19,838",
+          " 2.7334 ",
+          " 54,226 ",
+          " 46.2730 ",
+          " 41,820 "
+        ],
+        [
+          "FY 2026",
+          "19,806",
+          " 2.9024",
+          " 57,485 ",
+          " 44.8656",
+          " 42,985"
+        ],
+        [
+          "OverallAverage",
+          "19,567",
+          "2.7545",
+          "53,896",
+          "46.1603",
+          "41,465"
+        ]
+      ]
+    },
+    {
+      "table": 13,
+      "rows": [
+        [
+          "Information collected",
+          "Purpose/Activity",
+          "Forms",
+          "Time to Complete"
+        ],
+        [
+          "Government General Establishment Information, work level and schedule; records check of these data",
+          "Initiation general information (1a);",
+          "Establishment collection, work level and schedule form NCS Form24-1G (2024)",
+          "54 minutes "
+        ],
+        [
+          "Private Industry General Establishment Information, work level and schedule; records check of these data",
+          "Initiation general information (1a); ",
+          "Establishment collection, work level and schedule form NCS Form24-1P (2024)",
+          "54 minutes "
+        ],
+        [
+          "Government Earnings data; records check of earnings data ",
+          "Wage initiation (1a) ",
+          "Earnings form NCS Form 24-2G (2024)",
+          "20 minutes "
+        ],
+        [
+          "Private Industry Earnings data; records check of earnings data ",
+          "Wage initiation (1a)",
+          "Earnings form NCS Form 24-2P (2024)",
+          "20 minutes "
+        ],
+        [
+          "Government Updating earnings data; records check of earnings data",
+          "Wage update (1b)",
+          "Wage Shuttle form (computer generated earnings update form ) NCS Form24-9G (2024)IDCF E-Update Entry Form",
+          "20 minutes"
+        ],
+        [
+          "Private Industry Updating earnings data; records check of earnings data",
+          "Wage update (1b)",
+          "Wage Shuttle form (computer generated earnings update form )NCS Form24-9P (2024)IDCF E-Update Entry Form",
+          "20 minutes"
+        ],
+        [
+          "Government Collection of benefits for new government units; records check of this collection ",
+          "Benefit initiation (1a)",
+          "Benefits Collection Form NCS Form 24-5G (2024)",
+          "180 minutes "
+        ],
+        [
+          "Private Industry Collection of benefits for new units; records check of this collection",
+          "Benefit initiation (1a)",
+          "Benefits Collection Form NCS Form 24-5P (2024)",
+          "180 minutes"
+        ],
+        [
+          "Government Update of benefits data for all establishments; records check of this collection",
+          "Benefit update (1b)",
+          "Summary of Benefits(Benefit update form SO-1003G)IDCF E-Update Entry FormBenefits Fillable(Benefit update form SO100BF-1GP)",
+          "20 minutes "
+        ],
+        [
+          "Private Industry Update of benefits data for all establishments; records check of this collection",
+          "Benefit update (1b)",
+          "Summary of Benefits(Benefit update form SO-1003P)IDCF E-Update Entry FormBenefits Fillable(Benefit update form SO100BF-1GP)",
+          "20 minutes"
+        ],
+        [
+          "Entry screens for SSL Website ",
+          "File upload screens for wage and benefit update (1b)",
+          "IDCF/BLSCompdata Web-Lite Authentication ",
+          "40 minutes "
+        ]
+      ]
+    },
+    {
+      "table": 14,
+      "rows": [
+        [
+          "Type of Respondents",
+          "Average Hourly Rate",
+          "Historical Respondent Percentage"
+        ],
+        [
+          "Professional and related specialty",
+          "$63.45",
+          "70"
+        ],
+        [
+          "Office and administrative support",
+          "$33.01",
+          "30"
+        ],
+        [
+          "Weighted Average Hourly Wage Rate",
+          "$54.32",
+          ""
+        ]
+      ]
+    },
+    {
+      "table": 15,
+      "rows": [
+        [
+          "Fiscal Year",
+          "Respondents",
+          "Total # of responses*",
+          "Average minutes per response",
+          "Total hours",
+          "Average Hourly Wage Rate",
+          "Total Burden Costs"
+        ],
+        [
+          "FY 2024",
+          "19,057",
+          " 49,980",
+          " 47.5282",
+          "39,591 ",
+          "$54.32",
+          "$2,150,583"
+        ],
+        [
+          "FY 2025",
+          "19,838 ",
+          " 54,226 ",
+          " 46.2730 ",
+          "41,820 ",
+          "$54.32 ",
+          "$2,271,662 "
+        ],
+        [
+          "FY 2026",
+          "19,806 ",
+          " 57,485",
+          " 44.8656 ",
+          "42,985 ",
+          "$54.32 ",
+          "$2,334,945 "
+        ],
+        [
+          "Total Average",
+          "19,567 ",
+          "53,896",
+          "46.1603",
+          "41,465",
+          "$54.32",
+          "$2,252,379 "
+        ],
+        [
+          "*Initiations, quarterly updates, quality assurance contacts, and collection testingNote: The sum of individual items may not equal totals due to rounding."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,784 @@
+{
+  "source_original": "icrs/202411-2070-003/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Title:",
+          "Toxic Chemical Release Reporting"
+        ],
+        [
+          "EPA ICR No.:",
+          "2613.07"
+        ],
+        [
+          "OMB Control No.:",
+          "2070-0212"
+        ],
+        [
+          "Docket ID No.:",
+          "EPA-HQ-OPPT-2020-0078"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Activity",
+          "Number of Facilities",
+          "Annual Responses",
+          "Responses per respondents",
+          "Annual Burden (Hours)",
+          "Annual Cost"
+        ],
+        [
+          "INDUSTRY"
+        ],
+        [
+          "Form A ",
+          "6,134",
+          "6,134",
+          "1",
+          "212,681",
+          "$16,850,692 "
+        ],
+        [
+          "Form R",
+          "23,352",
+          "78,156",
+          "3.3",
+          "2,790,555",
+          "$221,095,644 "
+        ],
+        [
+          "Non-Form (constant)",
+          " ",
+          " ",
+          " ",
+          "839,052",
+          "$66,478,090 "
+        ],
+        [
+          "INDUSTRY TOTAL",
+          "25,271",
+          "84,290",
+          "3.3",
+          "3,842,287",
+          "$304,424,425 "
+        ],
+        [
+          "AGENCY TOTAL",
+          "",
+          "",
+          "",
+          "",
+          "$3,605,419"
+        ],
+        [
+          "Note: The total number of facilities responding (25,271) is not equal to the sum of Form R and Form A respondents as some facilities may file both Form Rs and Form As."
+        ]
+      ]
+    },
+    {
+      "table": 3,
+      "rows": [
+        [
+          "Information Collected",
+          "Form R",
+          "Form A"
+        ],
+        [
+          "Location of facilities manufacturing, processing or otherwise using these chemicals",
+          "\u221a",
+          "\u221a"
+        ],
+        [
+          "Indication that the chemicals are being manufactured, processed or otherwise used at current reporting thresholds",
+          "\u221a",
+          "\u221a"
+        ],
+        [
+          "Certification that the sum of amounts of the chemical in releases and waste did not exceed the appropriate Non-PBT or PBT (lead in stainless steel, brass, or bronze alloy) release and waste annual reportable amounts for that reporting year",
+          "",
+          "\u221a"
+        ],
+        [
+          "Accounting of quantities of chemicals entering environmental mediums on site",
+          "\u221a",
+          ""
+        ],
+        [
+          "Disclosure of chemical transfers to off-site locations",
+          "\u221a",
+          ""
+        ],
+        [
+          "Description of on-site waste treatment, energy recovery, and recycling processes",
+          "\u221a",
+          ""
+        ],
+        [
+          "Accounting of other disposal, source reduction and recycling activities",
+          "\u221a",
+          ""
+        ],
+        [
+          "Additional optional information on source reduction, recycling and pollution control activities",
+          "\u221a",
+          ""
+        ]
+      ]
+    },
+    {
+      "table": 4,
+      "rows": [
+        [
+          "Data Source",
+          "Media and Chemical Coverage",
+          "Relevant Release Statistics Available",
+          "Ease of Database Substitution for TRI Dataa"
+        ],
+        [
+          "National Emissions Inventory (NEI)",
+          "Contains annual emissions of 8 criteria air pollutants (CAPs) and 187 hazardous air pollutants (HAPs) for facilities.",
+          "Total annual releases.",
+          "Includes air releases only. Data are updated only every 3 years. Coverage of TRI chemicals is limited. Historically, TRI is the source of the NEI record for more than half of the facility-chemical records."
+        ],
+        [
+          "Integrated Compliance Information System\u2013National Pollutant Discharge Elimination System (ICIS-NPDES)",
+          "Contains monthly discharge monitoring data for selected water parameters/pollutants and flow rates for all CWA major and many minor sources.",
+          "Concentration data; EPA now derives annual releases of pollutants for which concentrations and flows are reported as part of periodic discharge monitoring reports.",
+          "Includes a limited number of indicator parameters for which a monitoring requirement or discharge limit has been set. Many discharge parameters are not specific to an individual Chemical Abstract Service (CAS) number. Very limited monitoring data for minor dischargers. Historically, about three-quarters of facilities in TRI with water discharges greater than zero also have NPDES permit IDs."
+        ],
+        [
+          "Biennial Reporting System (BRS)",
+          "Contains annual volumes of RCRA wastes and how they are managed (offsite in the case of Large Quantity Generator and on-site in the case of treatment storage and disposal Facilities, TSDFs). Each waste stream is characterized by all applicable waste codes but volumes of each are not broken out. Data are reported once every two years.",
+          "Total annual off-site transfers of hazardous waste for land disposal; releases to publicly owned treatment works (POTWs).",
+          "Many RCRA waste codes are not specific to an individual CAS number. Quantities of chemicals in waste cannot be determined from BRS. Historically, about one-quarter of TRI reporting facilities also reported hazardous waste generation to RCRA. "
+        ],
+        [
+          "a \u201cEase of substitution\u201d refers only to the potential of the information in the database to substitute for TRI reporting. It does not imply that the database is not adequate for the purposes for which it was designed."
+        ]
+      ]
+    },
+    {
+      "table": 5,
+      "rows": [
+        [
+          "Form Type",
+          "Unit Burden (Hours) per Form"
+        ],
+        [
+          "Form R",
+          "35.70516"
+        ],
+        [
+          "Form A",
+          "21.95867"
+        ],
+        [
+          "Notes: 1) Unit burdens include burden for all activities associated with filing a form, whether incurred at the facility level or the form level, including reporter compliance determination, rule familiarization, calculations and report completion, and recordkeeping and submission.2) Form A unit burden is set at 61.5% of nominal Form R unit burden.3) Burden per form does not include non-form burden (supplier notification, petitions, review of and response to notice of potential reporting under discretionary authority, and non-reporter compliance determination)."
+        ]
+      ]
+    },
+    {
+      "table": 6,
+      "rows": [
+        [
+          "Form per Facility Distribution",
+          "Unique Facilities",
+          "Chemicals",
+          "Average Chemicals per Facility"
+        ],
+        [
+          "",
+          "",
+          "Form R",
+          "Form A",
+          "Total",
+          "Form R",
+          "Form A",
+          "Total"
+        ],
+        [
+          "Form A Only",
+          " 1,919",
+          "0",
+          "3,931",
+          "3,931",
+          "0.00",
+          "2.05",
+          "2.05"
+        ],
+        [
+          "Form R Only",
+          "19,137",
+          "65,247",
+          "0",
+          "65,247",
+          "3.41",
+          "0.00",
+          "3.41"
+        ],
+        [
+          "Both Form R & Form A",
+          "4,215",
+          "12,909",
+          "5,755",
+          "18,663",
+          "3.06",
+          "1.37",
+          "4.43"
+        ],
+        [
+          "Total",
+          "25,271",
+          "78,156",
+          "9,686",
+          "87,841",
+          "3.09",
+          "0.38",
+          "3.48"
+        ],
+        [
+          "Notes: 1) Calculations are based on the 2022 ICR with updates to reflect additional reporting due to the Addition of Certain Chemicals to the TRI, Addition of Diisononyl Phthalate Category to the TRI, Changes to Reporting Requirement for Per-and Polyfluoroalkyl Substances and to Supplier Notification for Chemicals of Special Concern, the Addition of Natural Gas Processing Facilities to the TRI, as well as the additional forms resulting from the NDAA adding certain PFAS. 2) Approximately 75% percent of affected facilities filed three or fewer Form R chemicals in RY 2022. The most common number of Form R chemicals reported is one.3) Approximately 94% percent of affected facilities filed two or fewer Form A chemicals in RY 2022. The most common number of Form A chemicals reported is zero (by facilities reporting Form A, the most common number of Form A chemicals reported is one).4) The average number of Form A chemicals per Form A is 1.58.5) The total average number of chemicals per facility across all types of facilities filing the form (Form A only, Form R only, Both Form R and Form A) is calculated by dividing the total number of chemicals by the total number of unique facilities."
+        ]
+      ]
+    },
+    {
+      "table": 7,
+      "rows": [
+        [
+          "Form Type",
+          "Annual Average Facility Burden (Hours)"
+        ],
+        [
+          "Form R Contribution [35.70516 hours per chemical \u00d7 3.09 chemicals per facility]",
+          "110.425"
+        ],
+        [
+          "Form A Contribution [21.95867 hours per chemical \u00d7 0.38 chemicals per facility]",
+          "8.416"
+        ],
+        [
+          "Overall Average",
+          "118.841"
+        ]
+      ]
+    },
+    {
+      "table": 8,
+      "rows": [
+        [
+          "Wage Type",
+          "Managerial",
+          "Technical",
+          "Clerical"
+        ],
+        [
+          "Wages and Salaries (a)",
+          "$53.10",
+          "$45.60",
+          "$23.80"
+        ],
+        [
+          "Total Benefits (b)",
+          "$24.46",
+          "$22.86",
+          "$10.60"
+        ],
+        [
+          "Total Compensation (c) = (a + b)",
+          "$77.56",
+          "$68.46",
+          "$34.40"
+        ],
+        [
+          "Overhead (d) = (c * 20%)",
+          "$15.51",
+          "$13.69",
+          "$6.88"
+        ],
+        [
+          "Total Loaded Hourly Wage Rate (e) = (c + d)",
+          "$93.07",
+          "$82.15",
+          "$41.28"
+        ],
+        [
+          "Labor Burden Weights",
+          "0.03",
+          "0.89",
+          "0.08"
+        ],
+        [
+          "Weighted Average Wage Rate (WAWR)",
+          "$79.23a"
+        ],
+        [
+          "a Individual numbers may not add to the total due to rounding."
+        ]
+      ]
+    },
+    {
+      "table": 9,
+      "rows": [
+        [
+          "Form Type",
+          "Annual Average Facility Cost"
+        ],
+        [
+          "Form R Contribution [35.70516 hours per chemical \u00d7 3.09 chemicals per facility \u00d7 $79.23]",
+          "$8,748.99 "
+        ],
+        [
+          "Form A Contribution [21.95867 hours per chemical \u00d7 0.38 chemicals per facility \u00d7 $79.23]",
+          "$666.80 "
+        ],
+        [
+          "Overall Average",
+          "$9,415.79 "
+        ]
+      ]
+    },
+    {
+      "table": 10,
+      "rows": [
+        [
+          "ICR Universe",
+          "Form R",
+          "Form A"
+        ],
+        [
+          "",
+          "Number of Chemicals(Same as Number of Forms)",
+          "Number of Chemicals(Average of 1.59 Chemicals per Form)"
+        ],
+        [
+          "Number of Facilities",
+          "23,352",
+          "6,134"
+        ],
+        [
+          "Number of PBT Chemicals",
+          "15,225",
+          "0"
+        ],
+        [
+          "Number of PFAS Chemicals",
+          "1,851",
+          "0"
+        ],
+        [
+          "Number of Non-PBT and Non-PFAS Chemicals",
+          "61,080",
+          "9,686"
+        ],
+        [
+          "Number of Total Chemicals",
+          "78,156",
+          "9,686"
+        ],
+        [
+          "Notes: 1) The sum of facilities reporting Form R and Form A above does not equal 25,271 because some facilities report both Form Rs and Form As (see Table 4). The average number of Form R chemicals per facility is 3.09. The average number of Form A chemicals per facility is 0.38. The average number of chemicals per facility is 3.48. 2) The number of Form As is equal to the number of facilities reporting Form A chemicals (6,134). The number of chemicals per Form A is 1.58 (9,686 Form A chemicals \u00f7 6,134Form As). Note that burden per Form A chemical is the key unit for tracking burden associated with a Form A, and that the conversion to number of Form As (i.e., number of Form A responses) is done to satisfy certain burden accounting and reporting requirements.3) Starting in Reporting Year 2024, PFAS are designated as \u201cchemicals of special concern.\u201d Form A Certification is no longer available for TRI reporting of PFAS."
+        ]
+      ]
+    },
+    {
+      "table": 11,
+      "rows": [
+        [
+          "Form Type",
+          "Unit Burden (Hours) Per Form",
+          "Number of Facilities b",
+          "Number of Responses c",
+          "Number of Form R or A Chemicals",
+          "Steady State Total Burden (Hours)",
+          "Steady State Total Cost"
+        ],
+        [
+          "Form R",
+          "35.70516",
+          "23,352",
+          "78,156",
+          "78,156",
+          "2,790,555",
+          "$221,095,644 "
+        ],
+        [
+          "Form A",
+          "21.95867",
+          "6,134",
+          "6,134",
+          "9,686",
+          "212,681",
+          "$16,850,692 "
+        ],
+        [
+          "Non-Form (constant)",
+          "\u2014",
+          " ",
+          "\u2014",
+          "\u2014",
+          "839,052",
+          "$66,478,090 "
+        ],
+        [
+          "Total a ",
+          "\u2014",
+          "25,271",
+          "84,290",
+          "87,841",
+          "3,842,287",
+          "$304,424,425"
+        ],
+        [
+          "a The average number of responses per respondent is 3.48.b Calculations are based on the 2022 ICR  with updates to reflect additional reporting due to the  Addition of Certain Chemicals to the TRI, Addition of Diisononyl Phthalate Category to the TRI, Changes to Reporting Requirement for Per-and Polyfluoroalkyl Substances and to Supplier Notification for Chemicals of Special Concern, the Addition of Natural Gas Processing Facilities to the TRI, as well as the additional forms resulting from the NDAA adding certain PFASc More than one chemical may be filed in each Form A."
+        ]
+      ]
+    },
+    {
+      "table": 12,
+      "rows": [
+        [
+          "Category",
+          "Description"
+        ],
+        [
+          "Reporting Forms and Instructions (RFI) and Compliance Assistance",
+          "Revising the TRI Reporting Forms and Instructions (RFI)Updating the online TRI Training ModulesProviding technical and regulatory support hotlinesProviding online Frequently Asked Questions and Answers"
+        ],
+        [
+          "TRI Reporting Software and Related Data Collection and Exchange",
+          "Revising the TRI-MEweb reporting softwarePre-populating TRI-MEweb with facility information from the previous yearProviding support for facilities to submit and certify their TRI reports using TRI-MEweb and the Central Data ExchangeSupporting simultaneous reporting to EPA and the States for facilities that are located in states that participate in the TRI State Data ExchangeRelated infrastructure investments and program management for TRI-MEweb and the TRI Data Exchange"
+        ],
+        [
+          "Data Processing",
+          "Processing the submitted dataConducting data quality checksEntering data from paper forms into the TRI Processing System (TRIPS) \u2013 trade secret reports onlyDisseminating data files for use in TRI-related applicationsRelated infrastructure investments and program management for TRIPS"
+        ]
+      ]
+    },
+    {
+      "table": 13,
+      "rows": [
+        [
+          "Description",
+          "Non-FTE Cost a",
+          "FTE b"
+        ],
+        [
+          "RFI and Compliance Assistance",
+          "$30,000",
+          "2"
+        ],
+        [
+          "TRI Reporting Software and Related Data Collection/Exchange IT Infrastructure",
+          "$1,115,000",
+          "1.5"
+        ],
+        [
+          "Data Processing",
+          "$1,326,000",
+          "1.5"
+        ],
+        [
+          "Subtotal",
+          "$2,471,000",
+          "5"
+        ],
+        [
+          "\u00a0Total",
+          "$2,471,000",
+          "$1,134,419"
+        ],
+        [
+          "Agency Grand Total: $3,605,419"
+        ],
+        [
+          "a E-mail communication with TRI Data Processing Center, August 7, 2024.b Based on actual headcounts for RY2023. Assume GS-13, Step 1 federal employee in the Washington-Baltimore-Northern Virginia area. The loaded wage rate for a GS-13, Step 1 employee is $109.08 per hour. This estimate includes a base wage of $55.46 per hour plus benefits and overhead. "
+        ]
+      ]
+    },
+    {
+      "table": 14,
+      "rows": [
+        [
+          "Form Revision",
+          "Description and Rationale"
+        ],
+        [
+          "Form R, Part II, Section 8.8Split non-production-related waste management reporting into separate fields: air, water, land, and off-site management. ",
+          "Reporters fill out a Section 8.8 worksheet in TRI-MEweb of the non-production-related quantities (i.e., related to catastrophic events, remedial actions, or other one-time events) for quantities reported in Sections 5 and Section 6 of Form R. All the quantities in the worksheet are aggregated into a total, which is reported in Section 8.8. This change delineates the reported non-production-related quantities by media (air, water, land) and off-site management. The data needed for this change is already collected in the Section 8.8 worksheet and EPA has used this data for various purposes; incorporating this change makes public use of this information more transparent."
+        ],
+        [
+          "Form R, Part II, Section 8.10; Form A, Part II, Section 9.2Opt-in checkbox for facilities to receive technical assistance from EPA Pollution Prevention grantees. ",
+          "This new optional checkbox text is listed as \u201cSelect this box if your facility is interested in receiving technical assistance from EPA Pollution Prevention grantees.\u201d This checkbox will appear in Form R, Part II, Section 8.10 under the \u201cOptional: Barriers to Source Reduction\u201d section. Checking the box will cause optional fields for contact information of relevant facility employees to appear.Facilities interested in receiving technical assistance to potentially address barriers facilities face in implementing pollution prevention (P2) strategies may use this checkbox to indicate such interest. This information is also useful for EPA\u2019s P2 Grants Program to compile a list of TRI facilities that might partner with P2 grantees, extending the reach of the grants program."
+        ],
+        [
+          "Form R, Part II, Section 8.11Remove optional comment topic \u201cClimate Adaptation Strategies\u201d ",
+          "EPA is simplifying section 8.11. This field was initially added to collect information about strategies facilities are using in to adapt to climate change (e.g., safety measures for flooding or forest fires). Since its addition for reporting year 2020, EPA has not received any optional comments for this topic. Thus, EPA is removing this topic."
+        ],
+        [
+          "Form R, Part II, Section 8.11Add optional comment topic \u201cProcurement and Environmentally Preferable Purchasing.\u201d ",
+          "This optional text field allows facilities to share information about their interactions with environmentally preferable purchasing and labeling programs such as Safer Choice or Design for the Environment (DfE) and how these practices are being implemented. Additionally, EPA could learn about barriers to implementation at these facilities via this field. "
+        ],
+        [
+          "Form R, Part II, Section 8.11Add optional comment topic \u201cProduct Disclosures to Consumers.\u201d",
+          "This optional text field allows facilities to share information about how they are implementing product disclosures and environmental product declarations, and to what extent they are able to access programs that support the development of those declarations.  Additionally, EPA can use this field to learn about barriers to implementation at these facilities."
+        ],
+        [
+          "Form R, Part II, Section 3.2 \u2013 3.3Add additional sub-use codes to describe activities and uses of the EPCRA Section 313 chemical at the\u00a0facility. ",
+          "EPA is expanding the processing and use codes in Form R, Part II, Section 3.2-3.3 to align more closely with the OECD-based Chemical Data Reporting (CDR) codes. TRI and CDR are fundamental data sets that EPA uses to accurately characterize different exposure and release scenarios to support its risk evaluation and risk management activities. Aligning the processing and use codes in these datasets will increase the clarity and utility of the data for EPA as well as other users. EPA is implanting a limited subset of 47 of the OECD-based CDR processing and use codes that will be most useful to add to the sub-use codes in Section 3.2-3.3 of Form R. This list of Section 3.2-3.3 codes is provided in the document titled \u201cSub-Use Codes for Form R, Part II, Section 3.2 \u2013 3.3\u201d available in this action\u2019s docket.  Reporters will experience a slight increase in burden due to the fact that they will need to report on more than twice the number of codes. Without sub-codes, EPA estimates that reporting Section 3.2 and 3.3 takes approximately 0.002 hours each. EPA estimates a proportionate increase in the amount of time necessary to sort through and select to appropriate sub-use code. For section 3.2, the change in unit burden amounts to .010 hours [(37/6-1)*0.002] (technical burden). For section 3.3, the change in unit burden amounts to 0.025 hours [(40/3-1)*0.002] (technical burden). Therefore, EPA estimates a total incremental technical burden of 0.035 hours. Note, this estimate includes the addition of all sub-codes, including those that were added in the 2017 TRI ICR Renewal."
+        ]
+      ]
+    },
+    {
+      "table": 15,
+      "rows": [
+        [
+          "Reference. ",
+          "Title "
+        ],
+        [
+          "1. ",
+          "Form R (EPA No. 9350-1)"
+        ],
+        [
+          "2. ",
+          "Form A (EPA No. 9350-2) "
+        ],
+        [
+          "3. ",
+          "Form R Schedule 1 (EPA No. 9350-3) "
+        ],
+        [
+          "4. ",
+          "Consultation"
+        ],
+        [
+          "5",
+          "Consultation Response "
+        ]
+      ]
+    },
+    {
+      "table": 16,
+      "rows": [
+        [
+          "Description",
+          "Chemical Coverage",
+          "Industry/Facility Coverage",
+          "Reporting Frequency",
+          "Public Access"
+        ],
+        [
+          "TRI DATA"
+        ],
+        [
+          "EPCRA\u00a7313 requires facilities to submit reports on releases (including disposal) of particular toxic chemicals exceeding a given threshold. The reports provide information on the quantity of chemical released into the environment and to which medium (air, land, water) the disposal took place, as well as information about waste management and the amount of chemicals stored on-site.",
+          "The current TRI toxic chemical list contains 794 individually listed chemicals and 33 chemical categories. ",
+          "NAICS codes corresponding to SIC codes 20-39, 10; 12; 4911, 4931, 4939; 4953; 5169; 5171; and 7389.A facility need only report if it has 10 or more Full Time Equivalents (FTEs).",
+          "Annual.",
+          "EPA compiles the TRI data and makes them available through several data access tools, including TRI Explorer and Envirofacts. Other organizations also make the data available to the public through their own data access tools."
+        ],
+        [
+          "AIR EMISSIONS (SECTIONS 5.1 AND 5.2)"
+        ],
+        [
+          "National Emissions Inventory (NEI)"
+        ],
+        [
+          "NEI provides estimates of anthropogenic pollutant emissions from stationary sources, as well as area sources and mobile sources. These estimates, submitted to EPA by delegated authorities (state or county), electric utilities, and/or generated by EPA from various sources, differ in estimation methodology used.",
+          "8 CAPs and 187 HAPs.",
+          "No NAICS limitations.",
+          "Triennial.",
+          "CSV files can be downloaded from EPA\u2019s Web site."
+        ],
+        [
+          "Air Facility System (AFS)"
+        ],
+        [
+          "AFS contains compliance and permit data for stationary sources of air pollution regulated by U.S. EPA, and state and local air pollution agencies.",
+          "N/A ",
+          "No NAICS limitations.",
+          "Annual.",
+          "Can be accessed on a facility-by-facility basis through EPA data access tools, including Envirofacts or the Enforcement and Compliance History Online (ECHO)."
+        ],
+        [
+          "State Air Emissions Inventories"
+        ],
+        [
+          "Several states and regional agencies maintain their own air emissions inventories. However, the amount of data as well as the types of data elements collected vary widely from state to state.",
+          "Varies widely (e.g., the California Air Resources Board maintains its own list of about 400 toxic air pollutants).",
+          "Varies. ",
+          "Varies.",
+          "Most of these data are submitted to NEI.  Some data are available on the Web on a state-by-state basis."
+        ],
+        [
+          "Title V Part 70 Operating Permits"
+        ],
+        [
+          "Under the 1990 Clean Air Act Amendments, facilities designated as \"major sources\" and facilities otherwise subject to \u00a7112 and Title V must apply for a Title V Part 70 Operating Permit. As part of the application for a Title V permit, some facilities may have to report emissions of air toxics.",
+          "187 HAPs.",
+          "No NAICS limitations.",
+          "At the time of permit application, renewal, and modification\u2014permits are typically renewed every 5 years.",
+          "No central repository for the information."
+        ],
+        [
+          "DIRECT DISCHARGES TO WATER (SECTION 5.3)"
+        ],
+        [
+          "Integrated Compliance Information System\u2013National Pollutant Discharge Elimination System (ICIS-NPDES)"
+        ],
+        [
+          "ICIS-NPDES is a national information management system that tracks implementation of the National Pollutant Discharge Elimination System (NPDES) program, authorized by the Clean Water Act. ICIS-NPDES tracks permit issuance, permit limits, self-monitoring data, compliance data and other data pertaining to facilities regulated under NPDES. ",
+          "Contains monthly discharge monitoring data for selected water parameters/pollutants and flow rates for all CWA major and many minor sources.",
+          "No NAICS limitations.",
+          "Major permittees must submit Discharge Monitoring Reports (DMRs) monthly or quarterly; non-major permittees must submit at least annually.",
+          "Can be accessed on a facility-by-facility basis through EPA data access tools, including Envirofacts, and ECHO."
+        ],
+        [
+          "UNDERGROUND INJECTION AND LAND DISPOSAL ON-SITE (SECTIONS 5.4 AND 5.5)"
+        ],
+        [
+          "RCRA Biennial Reports"
+        ],
+        [
+          "Section 3002(a)(6) of the Resource Conservation and Recovery Act (RCRA)requires EPA to develop a program for hazardous waste generators to report thenature, quantities, and disposition of hazardous waste generated at least once every two years. In addition, section 3004(a)(2) of RCRA requires treatment, storage and disposal facilities (TSDFs) to submit a report on the wastes that they receive from off-site. The biennial Hazardous Waste Report (also known as the\u201cBiennial Report\u201d) was implemented in 1985 to comply with these requirements.The Biennial Report form (8700-13A/B) must be submitted to the authorized state agency or the EPA Regional Office by March 1st of every even-numbered year.The form includes information such as the facility's RCRA ID number, the nameand address of the facility, the quantity of hazardous waste sent to each TSDF inthe United States and the manner in which the waste was treated during the previous year.",
+          "Contains annual volumes of RCRA wastes and how they are managed (offsite in the case of Large Quantity Generator and on-site in the case of treatment storage and disposal Facilities, TSDFs). Each waste stream is characterized by all applicable waste codes but volumes of each are not broken out.",
+          "No NAICS limitations; however, certain waste categories are excluded (e.g., mining and agriculture).",
+          "Biennial.",
+          "Can be accessed on a facility-by-facility basis through EPA data access tools, including Envirofacts.  Text files can be downloaded from EPA\u2019s Web site."
+        ],
+        [
+          "DISCHARGES TO A POTW (SECTION 6.1)"
+        ],
+        [
+          "RCRA Biennial Reports (BR)"
+        ],
+        [
+          "Biennial Reports require some reporting of discharges to POTWs. See above for more details.",
+          "See above.",
+          "See above.",
+          "See above.",
+          "See above."
+        ],
+        [
+          "ICIS-NPDES"
+        ],
+        [
+          "ICIS-NPDES allows for reporting of indirect discharges to water. See above for more details.",
+          "See above.",
+          "See above.",
+          "See above.",
+          "See above."
+        ],
+        [
+          "TRANSFERS TO OTHER OFF-SITE LOCATIONS (SECTION 6.2)"
+        ],
+        [
+          "RCRA Biennial Reports (BR)"
+        ],
+        [
+          "Biennial Reports contain hazardous waste data from large quantity generators and TSDFs. Biennial Reports also require reporting of off-site transfers on Form GM. Information includes the RCRA ID of the facility to which the waste was shipped, the processes used to treat, recycle, or dispose of the waste at the off-site facility, the off-site availability code, and the total quantity of waste shipped during the report year. The reports also provide data on the volume of hazardous waste shipped off-site for land disposal, a release end-point of relevance to TRI. See above for more details.",
+          "See above.",
+          "See above.",
+          "See above.",
+          "See above."
+        ],
+        [
+          "CHEMICAL STORAGE AND INVENTORY DATA (SECTION 4.1)"
+        ],
+        [
+          "EPCRA \u00a7312 Tier I and II Reports"
+        ],
+        [
+          "EPCRA \u00a7312 requires that states establish plans for local chemical emergency preparedness and that inventory information on hazardous chemicals be reported by facilities to state and local authorities.",
+          "Hazardous or extremely hazardous substances (essentially any substance that poses a health or physical hazard).",
+          "No NAICS exemptions for facilities that are covered under the reporting threshold requirements, but facilities not included under OSHA\u2019s Hazard Communication Standard (e.g., mines) do not have to file.",
+          "Annual.",
+          "On a facility-by-facility basis, by forwarding a written request."
+        ],
+        [
+          "Risk Management Plan (RMP)"
+        ],
+        [
+          "Under the authority of section 112(r) of the Clean Air Act, the Chemical Accident Prevention Provisions require facilities that produce, handle, process, distribute, or store certain chemicals to prepare a Risk Management Plan (RMP) and submit the RMP to EPA. These plans include information about chemical amounts stored and processed at RMP facilities.",
+          "Certain flammable and toxic substances.",
+          "No NAICS limitations.",
+          "At least every five years, or within six months of an incident.",
+          "Restricted access: RMP information may be accessed via the Federal Reading Rooms."
+        ],
+        [
+          "Chemical Data Reporting (CDR)"
+        ],
+        [
+          "Under TSCA Section 8(a), chemical manufacturers (including importers) are required to report manufacturing-related information to EPA for sites that manufactured (including imported) 25,000 pounds or more of a reportable chemical substance any one calendar year between submission periods. Industrial processing and use information and commercial and consumer use information must also be reported for these sites.",
+          "Varies. ",
+          "Limited to manufacturers, including importers, of subject chemicals.  Certain manufacturers are exempt, including small manufacturers, those manufacturing a chemical for research and development, those manufacturing chemicals as impurities, and those submitting information under another TSCA Section 8a rule.",
+          "Every four years.",
+          "Data claimed as Confidential Business Information (CBI) are not available to the public. Non-CBI data downloads are available from EPA\u2019s CDR website."
+        ],
+        [
+          "POLLUTION PREVENTION DATA (SECTIONS 8.1-8.7; 8.10)"
+        ],
+        [
+          "RCRA Biennial Reports (BR)"
+        ],
+        [
+          "Biennial Reports contain pollution prevention information on hazardous waste from large quantity generators and TSDFs. Data are collected primarily by states, and are collated by EPA. See above for more details.",
+          "See above.",
+          "See above.",
+          "See above.",
+          "See above."
+        ],
+        [
+          "State Environmental Agency Databases"
+        ],
+        [
+          "At least fourteen states implement mandatory pollution prevention programs.  Pollution prevention data collected under these programs varies by state, and may include both data similar to that collected by TRI (e.g., quantities of waste managed, source reduction activities, etc.) and details not found in TRI (e.g., pollution prevention plans, costs associated with waste management, etc.). ",
+          "Varies.",
+          "Varies. May include TRI filers, facilities that use toxic chemicals, and generators of hazardous waste.",
+          "Varies.",
+          "There is no central source for state collected pollution prevention data. Accessibility varies by state."
+        ],
+        [
+          "EMERGENCY RELEASE DATA (SECTION 8.8)"
+        ],
+        [
+          "National Response Center (NRC)"
+        ],
+        [
+          "NRC collects real-time information about virtually all oil and chemical spills throughout the United States to identify spills for which to coordinate emergency response.",
+          "Oils and chemicals.",
+          "No source exemptions.",
+          "Real-time.",
+          "Historical information about spills can be retrieved through the NRC online query system:  www.nrc.uscg.mil/foia.html."
+        ],
+        [
+          "Risk Management Plan (RMP)"
+        ],
+        [
+          "RMP contains a five-year accident history for each facility with details on releases of regulated substances from covered processes with 1) on-site deaths, injuries, or significant property damage; or 2) known off-site deaths, injuries, property damage, environmental damage, evacuations, or sheltering in place.  See above for more details.",
+          "See above.",
+          "See above.",
+          "See above.",
+          "See above."
+        ],
+        [
+          "STATE RIGHT-TO-KNOW PROGRAMS"
+        ],
+        [
+          "Several states require expanded state TRI reporting to include industries or facilities not covered by TRI or to report information beyond that required by the federal TRI Program (e.g., Arizona, Massachusetts, and Wisconsin).",
+          "Varies. Often identical to TRI.",
+          "Varies. May include more industries than TRI.",
+          "Annual.",
+          "There is no central source for state collected data. Accessibility varies by state."
+        ]
+      ]
+    }
+  ]
+}

@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202410-7100-005",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202410-7100-005"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202410-7100-005",
+  "agency": "FRS",
+  "title": "Recordkeeping and Disclosure Requirements Associated with CFPB's Regulation B",
+  "omb_control_number": "7100-0201",
+  "submission_date": "01/24/2025",
+  "record_source_id": "SRC-0041",
+  "supporting_statement_source_ids": [
+    "SRC-0042"
+  ]
 }

@@ -1,0 +1,176 @@
+{
+  "source_original": "icrs/202502-2040-002/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Burden Category",
+          "Incremental Change in Burden",
+          "Total Burden"
+        ],
+        [
+          "",
+          "Labor (hours)",
+          "Cost ($)",
+          "Labor (hours)",
+          "Cost ($)"
+        ],
+        [
+          "Respondents 1",
+          "45,367",
+          "$4,221,554",
+          "200,383",
+          "$15,610,581"
+        ],
+        [
+          "Agency 2",
+          "217",
+          "$11,105",
+          "10,680",
+          "$546,275"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "",
+          "Table 2 \u2013 2022 CGP NOI Burden Summary"
+        ],
+        [
+          "Activity",
+          "Hours Per Response"
+        ],
+        [
+          "",
+          "2017 NPDES Program ICR",
+          " 2022 CGP Incremental Change 1",
+          " 2022 CGP Total"
+        ],
+        [
+          "Small sites \u2013 Includes endangered species evaluation and any consultation",
+          "3.7",
+          "-0.4",
+          "3.3"
+        ],
+        [
+          "Large sites \u2013 Initial endangered species evaluation and no consultation (60% of large sites) ",
+          "1.5",
+          "-0.4",
+          "1.1"
+        ],
+        [
+          "Large sites \u2013 Initial endangered species evaluation and informal consultation (37.3% of large sites)",
+          "6",
+          "-0.4",
+          "5.6"
+        ],
+        [
+          "Large sites \u2013 Initial endangered species evaluation and formal consultation (2.7% of large sites)",
+          "20",
+          "-0.4",
+          "19.6"
+        ]
+      ]
+    },
+    {
+      "table": 3,
+      "rows": [
+        [
+          "Table 3 - Turbidity Meter Capital and O&M Costs"
+        ],
+        [
+          "Monitoring Device",
+          "Capital/ Startup Cost for One Respondent 1",
+          "Number of Respondents ",
+          "Total Capital/ Startup Cost ",
+          "Annual O&M Costs for One Respondent 2",
+          "Number of Respondents with O&M",
+          "Total O&M3"
+        ],
+        [
+          "Turbidity Meter",
+          "$1,064",
+          "835",
+          "$888,440",
+          "$0",
+          "835",
+          "$0"
+        ]
+      ]
+    },
+    {
+      "table": 4,
+      "rows": [
+        [
+          "",
+          "2022 CGP ICR Total",
+          "Incremental Change"
+        ],
+        [
+          "Burden (hours)",
+          "200,383",
+          "73,816"
+        ],
+        [
+          "Costs - Labor (dollars)",
+          "$14,722,141",
+          "$3,333,114"
+        ],
+        [
+          "Costs - Capital (dollars)",
+          "$888,440",
+          "$888,440 "
+        ],
+        [
+          "Costs - O&M (dollars)",
+          "None",
+          "None"
+        ],
+        [
+          "Total Costs (dollars)",
+          "$15,610,581",
+          "$4,221,554"
+        ]
+      ]
+    },
+    {
+      "table": 5,
+      "rows": [
+        [
+          "",
+          "2022 CGP ICR Total",
+          "Incremental Change"
+        ],
+        [
+          "Burden (hours)",
+          "10,680",
+          "217"
+        ],
+        [
+          "Costs - Labor (dollars)",
+          "$546,275",
+          "$11,105"
+        ],
+        [
+          "Costs - Capital (dollars)",
+          "None",
+          "None"
+        ],
+        [
+          "Costs - O&M (dollars)",
+          "None",
+          "None"
+        ],
+        [
+          "Total Costs (dollars)",
+          "$546,275",
+          "$11,105"
+        ]
+      ]
+    }
+  ]
+}

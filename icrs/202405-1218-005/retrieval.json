@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202405-1218-005",
+  "retrieved_at": "2026-09-09T10:39:15.141707+00:00",
+  "documents": [
+    {
+      "title": "SS_1218-0238 Portable Fire Extinguishers_08-05-2024_ROCIS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143525202",
+      "path": "icrs/202405-1218-005/raw/supporting-statement-a-1.docx",
+      "sha256": "cb3222d9ba6ba93e2513ed3d2f3e02a72d17dee07cc1429fa168fda4d2628a6c",
+      "text_chars": 30308
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202405-1218-005",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202405-1218-005",
+  "agency": "DOL/OSHA",
+  "title": "Portable Fire Extinguishers Standard (Annual Maintenance Certification Record) (29 CFR 1910.157(e)(3))",
+  "omb_control_number": "1218-0238",
+  "submission_date": "07/09/2024",
+  "record_source_id": "SRC-0059",
+  "supporting_statement_source_ids": [
+    "SRC-0060"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "source_original": "icrs/202410-0960-002/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Modality of Completion",
+          "Number of Respondents",
+          "Frequency of Response",
+          "Average Burden Per Response (minutes)",
+          "Estimates Total Annual Burden (hours)",
+          "Average Theoretical Hourly Cost Amount (dollars)*",
+          "Average Wait Time in Field Office (minutes)**",
+          "Total Annual Opportunity Cost (dollars)***"
+        ],
+        [
+          "SSA-3441-BK (Paper Form)",
+          "24,645",
+          "1",
+          "50",
+          "20,538",
+          "$13.31*",
+          "",
+          "$273,361***"
+        ],
+        [
+          "Electronic Disability Collect System (EDCS) \u2013 Individuals",
+          "159,971",
+          "1",
+          "50",
+          "133,309",
+          "$13.31*",
+          "24**",
+          "$2,626,023***"
+        ],
+        [
+          "Electronic Disability Collect System (EDCS) - Representatives",
+          "44,192",
+          "1",
+          "45",
+          "33,144",
+          "$58.40*",
+          "",
+          "$1,935,610***"
+        ],
+        [
+          "i3441 (Internet Application) - Individuals",
+          "696,896",
+          "1",
+          "33",
+          "383,293",
+          "$13.31*",
+          "",
+          "$5,101,630***"
+        ],
+        [
+          "i3441 (Internet Application) - Representatives",
+          "583,031",
+          "1",
+          "28",
+          "272,081",
+          "$58.40*",
+          "",
+          "$15,889,530***"
+        ],
+        [
+          "Totals",
+          "1,508,735",
+          "",
+          "",
+          "842,365",
+          "",
+          "",
+          "$25,826,154***"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Total Number of Respondents Who Visit a Field Office",
+          "Frequency of Response",
+          "Average One-Way Travel Time to a Field Office (minutes)",
+          "Estimated Total Travel Time to a Field Office (hours)",
+          "Total Annual Opportunity Cost for Travel Time (dollars)****"
+        ],
+        [
+          "159,971",
+          "1",
+          "30",
+          "79,986",
+          "$1,064,614****"
+        ]
+      ]
+    },
+    {
+      "table": 3,
+      "rows": [
+        [
+          "Total Number of Respondents ",
+          "Frequency of Response",
+          "Estimate Learning Cost (minutes)",
+          "Estimated Total Annual Burden (hours)",
+          "Total Annual Learning Cost (dollars)**"
+        ],
+        [
+          "881,512",
+          "1",
+          "5",
+          "73,459",
+          "$977,739****"
+        ]
+      ]
+    },
+    {
+      "table": 4,
+      "rows": [
+        [
+          "Description of Cost Factor",
+          "Methodology for Estimating Cost",
+          "Cost in Dollars*"
+        ],
+        [
+          "Designing and Printing the Form",
+          "Design cost and uploading into inForm; Systems to store form in inForm and make it available on our website",
+          "$2,042"
+        ],
+        [
+          "Distributing, Shipping, and Material Costs for the Form",
+          "Distribution + Shipping + Material Cost (we no longer distribute or ship this form)",
+          "$0*"
+        ],
+        [
+          "SSA Employee (e.g., field office, 800 number, DDS staff) Information Collection and Processing Time",
+          "GS-9 employee x # of responses x processing time",
+          "        $2,997,425"
+        ],
+        [
+          "Full-Time Equivalent Costs",
+          "Out of pocket costs + Other expenses for providing this service",
+          "$0*"
+        ],
+        [
+          "Systems Development, Updating, and Maintenance",
+          "GS-9 employee x man hours for development, updating, maintenance",
+          "$8,413"
+        ],
+        [
+          "Quantifiable IT Costs",
+          "Any additional IT costs",
+          "$0*"
+        ],
+        [
+          "Total",
+          "",
+          "$3,007,881"
+        ]
+      ]
+    }
+  ]
+}

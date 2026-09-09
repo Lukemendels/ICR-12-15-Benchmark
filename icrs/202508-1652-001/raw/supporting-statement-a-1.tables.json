@@ -1,0 +1,386 @@
+{
+  "source_original": "icrs/202508-1652-001/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Year",
+          "Collection ",
+          "Number of Respondents",
+          "Number of Responses per Respondent",
+          "Hour Burden per Response",
+          "Annual Hour Burden"
+        ],
+        [
+          "",
+          "",
+          "A",
+          "B",
+          "C",
+          "D = A x B x C"
+        ],
+        [
+          "1",
+          "VID Submissions",
+          "211",
+          "865",
+          "                   0.0361",
+          "                          6,591"
+        ],
+        [
+          "",
+          "Resolution Calls",
+          "",
+          "149",
+          "                   0.0862",
+          "                        2,706"
+        ],
+        [
+          "2",
+          "VID Submissions",
+          "231",
+          "865",
+          "                   0.0361",
+          "                          7,216"
+        ],
+        [
+          "",
+          "Resolution Calls",
+          "",
+          "149",
+          "                   0.0862",
+          "                        2,963"
+        ],
+        [
+          "3",
+          "VID Submissions",
+          "251",
+          "865",
+          "                   0.0361",
+          "                        7,840"
+        ],
+        [
+          "",
+          "Resolution Calls",
+          "",
+          "149",
+          "                   0.0862",
+          "                        3,219"
+        ],
+        [
+          "Total",
+          "\u00a0",
+          "693",
+          "\u00a0",
+          "\u00a0",
+          "                        30,535"
+        ],
+        [
+          "Average",
+          "\u00a0",
+          "231",
+          "\u00a0",
+          "\u00a0",
+          "                  10,178.39"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Year",
+          "Collection",
+          "Number of Respondents",
+          "Number of Responses per Respondent",
+          "Hour Burden per Response",
+          "Annual Hour Burden"
+        ],
+        [
+          "",
+          "",
+          "A",
+          "B",
+          "C",
+          "D = A x B x C"
+        ],
+        [
+          "1",
+          "VID Submissions",
+          "552",
+          "8.7",
+          "0.0361",
+          "172.4"
+        ],
+        [
+          "",
+          "Resolution Calls",
+          "",
+          "1.5",
+          "0.0862",
+          "70.8"
+        ],
+        [
+          "2",
+          "VID Submissions",
+          "552",
+          "8.7",
+          "0.0361",
+          "172.4"
+        ],
+        [
+          "",
+          "Resolution Calls",
+          "",
+          "1.5",
+          "0.0862",
+          "70.8"
+        ],
+        [
+          "3",
+          "VID Submissions",
+          "552",
+          "8.7",
+          "0.0361",
+          "172.4"
+        ],
+        [
+          "",
+          "Resolution Calls",
+          "",
+          "1.5",
+          "0.0862",
+          "70.8"
+        ],
+        [
+          "Total",
+          "\u00a0",
+          "1,656",
+          "\u00a0",
+          "\u00a0",
+          "                    729.7"
+        ],
+        [
+          "Average",
+          "\u00a0",
+          "552",
+          "\u00a0",
+          "\u00a0",
+          "243.2               "
+        ]
+      ]
+    },
+    {
+      "table": 3,
+      "rows": [
+        [
+          "Information Collection",
+          "Number of Respondents",
+          "Number of Responses Per Respondent",
+          "Hour Burden per Response",
+          "Annual Hour Burden"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "A",
+          "B",
+          "C",
+          "D = A x B x C"
+        ],
+        [
+          "Visitor Passes from Air Carriers",
+          "44",
+          "                   61,955",
+          "0.006944",
+          "               18,930.8"
+        ],
+        [
+          "Visitor Passes from Airport Operators",
+          "75",
+          "8,077",
+          "0.006944",
+          "               4,206.8"
+        ],
+        [
+          "Low-Risk Traveler List Providers",
+          "17",
+          "3",
+          "1.5",
+          "                         76.5"
+        ],
+        [
+          "Visitor Passes from Non-traveling Individuals",
+          "300,000",
+          "1",
+          "0.033333",
+          "10,000.0"
+        ],
+        [
+          "Total",
+          "                           300,136",
+          "                      ",
+          "\u00a0",
+          "             33,214   "
+        ]
+      ]
+    },
+    {
+      "table": 4,
+      "rows": [
+        [
+          "Table 4. Total Collection Values"
+        ],
+        [
+          "Information Collection",
+          "Average Annual Respondents",
+          "Average Annual Responses",
+          "Total Annual Hour Burden",
+          "Wage Rate",
+          "Total Hour Burden Cost"
+        ],
+        [
+          "\u00a0",
+          "A",
+          "B",
+          "C = A x B",
+          "D",
+          "E = C x D"
+        ],
+        [
+          "VID Submissions (Aircraft Operators)",
+          "231",
+          "199,815",
+          "7,216",
+          "$33.00",
+          "$238,116.00"
+        ],
+        [
+          "Resolution Calls (Aircraft Operators)",
+          "",
+          "34,385",
+          "2,963",
+          "",
+          "$97,775.42"
+        ],
+        [
+          "VID Submissions (Twelve-Five/Private Charter Aircraft Operators)",
+          "552",
+          "4,775",
+          "172",
+          "",
+          "$5,690.04"
+        ],
+        [
+          "Resolution Calls (Twelve-Five/Private Charter Aircraft Operators)",
+          "",
+          "822",
+          "71",
+          "",
+          "$2,336.45"
+        ],
+        [
+          "Visitor Pass Requests from Aircraft Carriers",
+          "44",
+          "2,726,039",
+          "18,931",
+          "",
+          "$624,725.48"
+        ],
+        [
+          "Visitor Pass Requests from Airport Operators",
+          "75",
+          "605,772",
+          "4,207",
+          "",
+          "$138,824.57"
+        ],
+        [
+          "Low-Risk Traveler List Providers",
+          "17",
+          "51",
+          "76.50",
+          "$104.17",
+          "$7,969.34"
+        ],
+        [
+          "Visitor Passes from Non-traveling Individuals",
+          "300,000",
+          "300,000",
+          "10,000",
+          "$48.05",
+          "$480,500.00"
+        ],
+        [
+          "Total",
+          "300,919",
+          "              3,871,659",
+          "                        43,636",
+          "\u00a0",
+          "$1,595,937.32"
+        ]
+      ]
+    },
+    {
+      "table": 5,
+      "rows": [
+        [
+          "",
+          "Year 1",
+          "Year 2",
+          "Year 3"
+        ],
+        [
+          "Payroll Cost and Benefits (PC&B) (Federal Pay)",
+          "$59,048",
+          "$61,412",
+          "$62,976"
+        ],
+        [
+          "Secure Flight Management and Admin. Contracts (Non System Ops. & SW/HW)",
+          "$17,673",
+          "$17,956",
+          "$18,243"
+        ],
+        [
+          "Secure Flight System Sustainment Contracts",
+          "$17,260",
+          "$17,537",
+          "$17,818"
+        ],
+        [
+          "Secure Flight IT Operations and Maintenance Support Contracts",
+          "$42,886",
+          "$43,573",
+          "$44,271"
+        ],
+        [
+          "Information and Technology Infrastructure Contracts",
+          "$16,393",
+          "$16,656",
+          "$16,922"
+        ],
+        [
+          "TOTAL",
+          "$153,260",
+          "$157,134",
+          "$160,230"
+        ],
+        [
+          "Annualized $156,875M",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "icr_id": "202602-0607-001",
+  "omb_control_number": "0607-1004",
+  "agency": "DOC/CENSUS",
+  "title": "Annual Business Survey",
+  "submission_date": "02/17/2026",
+  "archetype": "business statistical survey consolidation",
+  "complexity": "medium",
+  "tsa_relevance": "method transfer",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 2,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0050",
+    "SRC-0049"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 9,
+    "segmentation": 14,
+    "labor": 4,
+    "item13": 10,
+    "item14": 4,
+    "item15": 6,
+    "validation": 3,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Three clear rows reconstruct totals with one-hour rounding; transferred BERD burden differs from stated minutes.",
+    "provenance": "BLS May2024 SOC specified; accountant proxy sensible; timing provenance partly inherited.",
+    "segmentation": "Employer with/without BERD and nonprofit scope distinguished.",
+    "labor": "44.96 base accountant wage no benefit treatment.",
+    "item13": "Clear zero rationale: existing records,no new software,customary outside services.",
+    "item14": "10m total and20/80 funding split; activity costs not quantified.",
+    "item15": "Added16minutes and transferred BERD identified;124450 transfer does not reproduce157minutes*47500.",
+    "validation": "Cognitive and usability testing planned, not evidence completed for all burden times.",
+    "consistency": "Inconsistent transfer arithmetic; main table mostly reconciles."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Employer without BERD",
+        174500,
+        0.75,
+        130875
+      ],
+      [
+        "Employer with BERD",
+        47500,
+        3.3666666666666667,
+        159916
+      ],
+      [
+        "Nonprofit",
+        8000,
+        0.6333333333333333,
+        5067
+      ]
+    ],
+    "labor": {
+      "occupation": "Accountants and Auditors",
+      "soc": "13-2011",
+      "source_year": 2024,
+      "hourly_rate": 44.96,
+      "labor_cost": 13301776,
+      "benefits": "not included"
+    },
+    "item13": {
+      "annual_cost": 0,
+      "justification": "Existing business records; no special hardware/software; outside services usual and customary"
+    },
+    "item14": {
+      "annual_cost": 10000000,
+      "Census_share": 0.2,
+      "NCSES_share": 0.8,
+      "period": "2026–2028 each year"
+    },
+    "item15": {
+      "old_employer_minutes": 29,
+      "new_employer_minutes": 45,
+      "transferred_BERD_hours": 124450,
+      "transferred_population": 47500,
+      "transferred_minutes": 157
+    },
+    "assumptions": [
+      "230000 sampled businesses; timing varies with module assignment.",
+      "Prospective testing schedule explicitly dated."
+    ]
+  },
+  "reconstruction_issues": [
+    "157/60*47500=124291.67, not124450 transferred hours.",
+    "Federal allocation is funding split rather than bottom-up cost model."
+  ],
+  "methods_worth_testing": [
+    "Cross-collection transfer needs source/destination control numbers and unchanged national burden totals.",
+    "Legitimate Item13 zero with explicit business-as-usual scope."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "174500*.75+47500*202/60+8000*38/60",
+      "calculated": 295858.3333333333,
+      "reported": 295858,
+      "difference": 0.3333333333139308,
+      "unit": "hours",
+      "interpretation": "One-hour rounding",
+      "source_id": "SRC-0050"
+    },
+    {
+      "label": "Labor",
+      "formula": "295858*44.96",
+      "calculated": 13301775.68,
+      "reported": 13301776,
+      "difference": -0.3200000002980232,
+      "unit": "USD",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0050"
+    },
+    {
+      "label": "Transfer",
+      "formula": "47500*157/60",
+      "calculated": 124291.66666666667,
+      "reported": 124450,
+      "difference": -158.33333333332848,
+      "unit": "hours",
+      "interpretation": "Not explained by whole-hour rounding",
+      "source_id": "SRC-0050"
+    }
+  ],
+  "total_score": 71
+}

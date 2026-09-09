@@ -1,0 +1,139 @@
+from pathlib import Path
+import json,csv,re,datetime
+R=Path(__file__).parent
+DIMS=['reproducibility','provenance','segmentation','labor','item13','item14','item15','validation','consistency']
+reviews=[]
+def case(ref,archetype,complexity,rel,scores,reasons,activities,labor,cost13,federal,changes,assumptions,issues,methods,checks,thoroughness='extensive'):
+ m=json.loads((R/'icrs'/ref/'retrieval.json').read_text());sid=m['supporting_statement_source_ids'][0]
+ d={'icr_id':ref,'omb_control_number':m['omb_control_number'],'agency':m['agency'],'title':m['title'],'submission_date':m['submission_date'],'archetype':archetype,'complexity':complexity,'tsa_relevance':rel,'review_status':'REVIEWED_PROVISIONAL','review_iteration':2,'rubric_version':'1.0.0','source_ids':[sid,m['record_source_id']],'source_verification_depth':'Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.','score':dict(zip(DIMS,scores)),'score_rationale':dict(zip(DIMS,reasons)),'thoroughness':thoroughness,'model':{'activity_columns':['activity','annual_responses','hours_per_response','reported_annual_hours'],'activities':activities,'labor':labor,'item13':cost13,'item14':federal,'item15':changes,'assumptions':assumptions},'reconstruction_issues':issues,'methods_worth_testing':methods,'checks':[]}
+ for label,expr,reported,unit,note in checks:
+  val=eval(expr,{'__builtins__':{}},{'sum':sum,'round':round});d['checks'].append({'label':label,'formula':expr,'calculated':val,'reported':reported,'difference':val-reported,'unit':unit,'interpretation':note,'source_id':sid})
+ d['total_score']=sum(scores);reviews.append(d)
+
+case('202412-3170-001','financial data access infrastructure','high','direct',[17,3,13,0,5,7,6,2,1],
+['Seven population-times rows reconstruct total hours; underlying task times not decomposed.','Vendor midpoint, population, hours and labor prices not adequately sourced in Items12–15.','Providers versus third parties and startup versus ongoing meaningful; outsourcing split requires overlap check.','No respondent labor-dollar estimate or wage methodology in retrieved Item12.','Vendor scope allocation explicit; table reverses one-time versus ongoing relative to prose; annualization horizon unclear.','Zero because Bureau receives no data; oversight and incremental systems scope not addressed.','New collection identified but no complete zero-to-new annualized bridge.','Acknowledges vendor economies of scale; no quantified timing validation.','Item13 one-time/ongoing assignment reverses; response total sums obligation events while unique entities separate.'],
+[['Provider recordkeeping startup',1785,557,994245],['Provider recordkeeping ongoing',1785,60,107100],['Third-party records startup',8500,320,2720000],['Third-party records ongoing',8500,150,1275000],['Provider disclosure startup',1785,324,578340],['Provider disclosure ongoing',1785,30,53550],['Third-party disclosure startup',8500,162,1377000]],
+{'labor_cost':None,'hourly_rate':None},
+{'vendor_share':.75,'provider_count':1785,'vendor_count_rounded':1339,'annual_vendor_fee':42000,'recordkeeping_allocation':.25,'disclosure_allocation':.25,'annual_total':28119000,'table_startup':22495200,'table_ongoing':5623800,'prose_startup_share':.2,'prose_ongoing_share':.8},
+{'annual_cost':0,'reason':'No information collected by Bureau under this rule'},
+{'baseline':'new','reported_hours':7105235,'one_time_share_approx':.8},
+['25% providers create systems in-house;75% use vendors.','Automated ongoing disclosures assumed minimal; provider size acknowledged without size-specific times.'],
+['Item13 table allocates80% to one-time whereas prose allocates20%.','Vendor fee midpoint and task times lack reproducible evidence; labor dollars absent.','One-time totals presented as annual burden without explicit three-year treatment.'],
+['Preserve make-versus-buy pathways and allocations of bundled vendor contracts.'],
+ [('Hours','994245+107100+2720000+1275000+578340+53550+1377000',7105235,'hours','Exact'),('Vendor cost','1339*42000*(.25+.25)',28119000,'USD','Exact'),('Startup per prose','28119000*.2',22495200,'USD','Classification conflicts with table')])
+
+case('202602-3170-003','financial mortgage reporting','high','direct',[15,5,9,3,6,3,4,1,0],
+['Table row hours reconstruct; per-bank hours are asserted aggregates.','SOC, base wage and live BLS link supplied without vintage or load derivation.','Reporting, records and disclosures separated; bank size and data-volume heterogeneity hidden.','41.46 to66.33 implicit1.6 factor not explained; financial-sector claim links national data.','Software and LEI unit costs exposed; narrative discusses a different collection.','Three employees plus861728 contract/O&M, but salary absent and total unclear.','Wage increase explained without prior rate or dollar bridge.','No timing evidence in Item12; inherited methodology not located in statement.','RegulationI/private deposit-insurance narrative surrounds HMDA tables; wrong legal scope repeated.'],
+[['HMDA reporting',136,6776,921536],['Recordkeeping',136,4330,588880],['Disclosure',136,4,544]],
+{'soc':'13-1041','base_wage':41.46,'loaded_rate':66.33,'reported_labor_cost':100221975,'derived_factor':66.33/41.46},
+{'software_fee':10114,'entities':136,'lei_renewal':133,'lei_startup':0,'annual_total':1393592},
+{'employees':3,'contract_om':861728,'employee_pay':None},
+{'program_change':'none','adjustment':'mean hourly wage increase; prior wage absent'},
+['136 banks all assigned6776 reporting and4330 recordkeeping hours.'],
+['Items12–13 narrative discusses167 institutions and RegulationI private insurance, whereas tables concern136 HMDA institutions.','ItemB refers12CFR1009; scope contamination limits defensibility even if products reconstruct.','Labor total differs modestly from1510960*66.33; hidden precision not exposed.'],
+['A model should bind all generated narrative to the same collection identity and legal authority as its tables.'],
+ [('Hours','136*(6776+4330+4)',1510960,'hours','Exact'),('Labor','1510960*66.33',100221975,'USD','Rate precision not exposed'),('Item13','136*(10114+133)',1393592,'USD','Exact')])
+
+case('202410-7100-005','bank credit recordkeeping and disclosures','medium','adjacent',[16,9,13,5,2,3,5,2,3],
+['Counts,frequency,times and six main rows exposed; rounded times create modest differences.','NIC entity source and May2023 BLS date precise; inherited CFPB timing methodology not specifically linked.','Regulatory task segmentation with small-entity count; same time by bank size.','Four-occupation labor mix explicit, but weights unsupported and benefits not included.','Distinct nonlabor cost analysis not located in complete statement.','Federal cost negligible asserted without quantities.','Renewal changes described elsewhere; old/new driver bridge limited.','Administrative population; timing inherited but validation chain incomplete.','Rounding sub-hour self-test activities to zero and rounded rates explains limited discrepancies.'],
+[['Retain applications',706*8126,.004,22948],['Monitoring records',706*1533,.017,18399],['Notifications',706*8126,.004,22948],['Credit information',706*1171,.004,3307],['Monitoring disclosure',706*1533,.004,4329],['Appraisals',706*1667,.008,9415],['Self-test records',108,.004,0],['Self-correction',27,.016,0],['Optional-test disclosure',108,.004,0]],
+{'mix':[['office',.30,23],['financial_managers',.45,84],['lawyers',.15,85],['chief_executives',.10,124]],'source_year':2023,'weighted_rate':69.85,'reported_cost':5682018,'benefits':'not stated'},
+{'annual_cost':None,'finding':'Separate nonlabor estimate not located'},
+{'annual_cost':'negligible','workload':None},
+{'baseline':'renewal','driver':'NIC population update; see full statement for context'},
+['461 of706 reporting banks small under850m asset threshold.','CFPB timing methods inherited, exact source absent.'],
+['Sub-hour self-test burdens round to zero individually.','Labor mix does not expose fringe/overhead or empirical shares.'],
+['Simple explicit occupation-weight vector is reusable; preserve precision before aggregation.'],
+ [('Main hours','22948+18399+22948+3307+4329+9415',81346,'hours','Exact table sum'),('Labor','81346*(.3*23+.45*84+.15*85+.1*124)',5682018,'USD','Rounding'),('Small activities','108*.004+27*.016+108*.004',0,'hours','1.296 hours disappears through row rounding')], 'moderate')
+
+case('202602-0607-001','business statistical survey consolidation','medium','method transfer',[18,9,14,4,10,4,6,3,3],
+['Three clear rows reconstruct totals with one-hour rounding; transferred BERD burden differs from stated minutes.','BLS May2024 SOC specified; accountant proxy sensible; timing provenance partly inherited.','Employer with/without BERD and nonprofit scope distinguished.','44.96 base accountant wage no benefit treatment.','Clear zero rationale: existing records,no new software,customary outside services.','10m total and20/80 funding split; activity costs not quantified.','Added16minutes and transferred BERD identified;124450 transfer does not reproduce157minutes*47500.','Cognitive and usability testing planned, not evidence completed for all burden times.','Inconsistent transfer arithmetic; main table mostly reconciles.'],
+[['Employer without BERD',174500,.75,130875],['Employer with BERD',47500,202/60,159916],['Nonprofit',8000,38/60,5067]],
+{'occupation':'Accountants and Auditors','soc':'13-2011','source_year':2024,'hourly_rate':44.96,'labor_cost':13301776,'benefits':'not included'},
+{'annual_cost':0,'justification':'Existing business records; no special hardware/software; outside services usual and customary'},
+{'annual_cost':10000000,'Census_share':.2,'NCSES_share':.8,'period':'2026–2028 each year'},
+{'old_employer_minutes':29,'new_employer_minutes':45,'transferred_BERD_hours':124450,'transferred_population':47500,'transferred_minutes':157},
+['230000 sampled businesses; timing varies with module assignment.','Prospective testing schedule explicitly dated.'],
+['157/60*47500=124291.67, not124450 transferred hours.','Federal allocation is funding split rather than bottom-up cost model.'],
+['Cross-collection transfer needs source/destination control numbers and unchanged national burden totals.','Legitimate Item13 zero with explicit business-as-usual scope.'],
+ [('Hours','174500*.75+47500*202/60+8000*38/60',295858,'hours','One-hour rounding'),('Labor','295858*44.96',13301776,'USD','Rounding'),('Transfer','47500*157/60',124450,'hours','Not explained by whole-hour rounding')])
+
+case('202411-1651-004','pipeline imports technology pilot','medium','direct',[16,11,10,8,1,2,7,2,0],
+['24*12*4 clear; notice says4minutes instead of4hours.','OEWS/ECEC/BEA exact sources,years,inputs; internal federal pay email identified but inaccessible.','Pilot importers homogeneous assumption; no industry segment times.','Median cargo/freight proxy plus occupational benefits and explicit GDP price transformation.','Unpriced provider fee netted against broad industry savings; no gross collection-cost estimate.','288responses*2hours asserted to equal10hours; substantive error.','New collection clear; explicit zero-to-new table absent.','13 Canadian exporters inform claimed savings but extrapolation not supplied.','Hours/minutes conflict; federal multiplication wrong; net savings do not establish zero gross costs.'],
+[['Monthly submission',24*12,4,1152]],
+{'median_wage':23.24,'occupation':'Cargo and Freight Agents','oews_year':2023,'ecec_total':33.98,'ecec_wage':23,'inflation_numerator':122.273,'inflation_denominator':117.973,'price_basis':'BEA NIPA1.1.9 GDP deflator2022–2023','loaded_2024':35.59,'cost':41000},
+{'provider_fee':None,'claimed_industry_SGA_savings':1000000000,'claimed_duty_overpayment_range':[70000000,100000000],'net_cost_claim':'negative'},
+{'responses':288,'hours_per_response':2,'reported_hours':10,'loaded_rate':70.19,'cost':702,'grade':'GS11/10 national average with benefits, FY2024 internal email'},
+{'baseline':'new'},
+['24 pilot participants;12annual submissions.','Savings extrapolated from13 Canadian exporters/operators without calculation.'],
+['Item14:288*2 is576hours, not10.','Item17 notice says4minutes vs Item12 fourhours.','Item13 fees unknown; claimed savings cannot reconstruct gross PRA nonlabor cost.'],
+['Explicit monetary vintage conversion; separate social benefit/cost analysis from gross collection costs.'],
+ [('Respondent hours','24*12*4',1152,'hours','Exact'),('Federal hours','288*2',10,'hours','Material error'),('Federal cost from stated workload','288*2*70.19',702,'USD','Material error'),('Loaded wage','23.24*(33.98/23)*(122.273/117.973)',35.59,'USD/hour','Rounding')], 'moderate')
+
+case('202405-1652-001','flight training security rule revision','high','direct',[17,12,15,8,7,5,6,2,2],
+['Year-specific populations and minute assumptions allow approximate reconstruction; displayed averages hide precision.','SOC/NAICS,employment weights,annual hours and four ECEC releases explicit.','Career-stage pilot rate,small/large providers,new/existing STA andyears meaningful.','Entry-career tenth percentile defended; four-quarter ratio explicit; educational industries may overlap and weighting requires care.','Standard/reduced fee split clear but rounded counts do not reconstruct exact dollars; fee derivation external.','Fee Development Report named; fee recovery does not itself expose gross federal cost.','Rule changes and time reductions explicit; complete prior/new total bridge absent.','Administrative count projections but little direct timing evidence.','Candidate totals29638 plus provider3958 differ from33594; notification responsibility language conflicts.'],
+[['Candidate new/renewing STA',(30847+13611+13611)/3,.75,14517],['Candidate existing STA',(14329+31643+31794)/3,35/60,15121],['Small provider coordinator',(30975+3994+4100)/3,.25,3256],['Large provider coordinator',(1122+126+125)/3,.25,115],['Small awareness records',(41378+5435+38742)/3,1/60,476],['Large awareness records',(9624+1333+8957)/3,1/60,111]],
+{'candidate':41.51,'small_provider':61.27,'large_records':30.62,'large_coordinator':95.94,'factor':1.496,'ecec_quarters':2022,'oews_year':2022,'candidate_wage_percentile':10,'annual_work_hours':2080,'total_cost':1473110},
+{'standard_count_rounded':19112,'standard_fee':140,'reduced_count_rounded':245,'reduced_fee':125,'annual_cost':2706212},
+{'method':'User fees recover vetting costs; separate Fee Development Report named','numeric_gross_cost':None},
+{'event_based_to_five_year_STA':True,'existing_STA_time_reduction_minutes':10,'records_minutes_old':5,'records_minutes_new':1,'new_coordinator_minutes':15,'hardcopy_costs_removed':True},
+['STA valid up to5years; horizon3years models uneven transition.','10th percentile used for career entrants; managers assumed pilots.'],
+['Rounded table fee counts sum19357 while total19356; precision needed.','Table hour totals differ from narrative by2hours; rounding not fully exposed.','Item15 says candidates no longer notify each event, yet Item12 charges existing-STA candidate notifications; scope needs clarification.'],
+['Transition-year population arrays; career-stage wage selection; public regulatory fee methodology linkage worth retrieving.'],
+ [('Candidate existing hours','(14329+31643+31794)/3*35/60',15121,'hours','Rounding'),('Fees from rounded counts','19112*140+245*125',2706212,'USD','Unrounded counts needed'),('Summary hours','29638+3958',33594,'hours','Two-hour discrepancy')])
+
+case('202406-1652-001','aircraft operator security compliance','high','direct',[17,11,15,7,8,8,5,3,2],
+['Detailed18activity rows; dominant checklist supported by FAA data; rounding precision mixed.','OEWS source detail plus FAA extraction window; internal modular pay unavailable; ECEC publication/reference period confused.','Large/small operators andatomic activities; explicit growing population.','Employment-weighted occupation rates and ECEC ratio explicit; industry workforce mix may not match task mix.','CHRC count*fee explicit; remaining capital/O&M scope less developed.','Three federal workloads*loaded bands reconstruct to rounding; internal pay components inaccessible.','80hour correction explained; full population/wage changes not bridged.','FAA departures queried specific morning window; represents first flights only by proxy.','Checklist narrative reports54658 instead of20.17m; table correct.'],
+[['New security programs',3,120,360],['Updates',288,4,1152],['Amendments',192,1,192],['Requests',120,1,120],['AOSSP CHRC',74880,.5,37440],['AOSSP STA',74880,.25,18720],['Program records',48,4,192],['CHRC records',48,520,24960],['Training records',48,24,1152],['Cargo addresses',30,2,60],['First flights',2588645,10/60,431441],['Foreign employees',17800,5/60,1483],['Other records',48,520,24960],['Incidents',1200,20/60,400],['Small program amendments',1172,8,9376],['Small CHRC',2250,.5,1125],['Small STA',2250,.25,563],['Small records',2250,5/60,188]],
+{'source_year':2022,'ecec_factor':1.4582,'rates':{'manager':103.20,'large_CHRC':98.32,'clerk':36.85,'checklist':46.74,'incident':54.40,'small_CHRC':55.72},'annual_cost':28889838},
+{'fee':52,'large_CHRC':48*1560,'small_CHRC':2250,'annual_cost':4010760},
+{'tasks':[['large verification',48,25,63.65],['small verification',586,4,63.65],['incidents',1200,.25,87.11]],'annual_hours':3844,'annual_cost':251693,'pay_source':'FY2022 TSA Modular Cost Data'},
+{'removed_watchlist_hours':80,'classification':'correction;no collection change'},
+['Average48 large operators from45,48,51;586small.','FAA2022 departures05:00–10:00 proxy for first-flight count.','CHRC20/week*52*1.5 recurrent multiplier.'],
+['First-flight narrative cost54658 copied from next activity; table20,165,327.','Published rounded rates do not reproduce exact dollar outputs; small residuals not necessarily calculation error.'],
+['Accessible workload query specification; staged population growth; task-aligned federal review.'],
+ [('Federal hours','48*25+586*4+1200*.25',3844,'hours','Exact'),('Federal dollars','(48*25+586*4)*63.65+300*87.11',251693,'USD','Rounded rate residual'),('CHRC fees','(48*1560+2250)*52',4010760,'USD','Exact'),('Checklist narrative','2588645*10/60*46.74',54658,'USD','Material copied narrative value; correct table differs only through precision')])
+
+case('202408-1652-002','certified cargo screening and canine certification','high','direct',[12,10,14,6,4,7,5,2,0],
+['Many atomic rows expose calculations but security-program subtotal wrong and application overlap unresolved.','OEWS/ECEC specific sources; clerical ECEC URL points2020 despite2023 label; federal pay internal.','Facilities,canine providers,certifiers andmultiple activities; some apparent duplication.','Employment-weighted cargo wage transparent; canine private wage uses federal salary proxy with limited justification.','41fee explicit but6959*41 does not equal281219; fee matches6859.','Six federal task categories largely reconcile; some precision and subtitle errors.','Old16040/new17662 shown with response change, but no quantified driver attribution.','Agency activity estimates without calibration or ranges.','Large subtotal error, repeated new-certification burden and fee count mismatch.'],
+[['CCSF application',120,40,4800],['K9 application',3,40,120],['STA',6859,.25,1715],['CCSF recordkeeping',14502,None,3838.12],['K9 recordkeeping',25602,None,2101.1],['Certifier recordkeeping',783,None,93.9],['CCSF program activities',716,None,4451],['K9 program activities',41,None,536.5],['Certifier program activities',19,None,7]],
+{'oews_year':2022,'ecec_period':'December2023','ecec_factor':1.4872,'supervisor':46.01,'worker':31.94,'clerk':27.26,'canine_supervisor':78.89,'reported_cost':884095.27},
+{'STA_count_item12':6859,'STA_count_item13':6959,'fee':41,'annual_cost':281219},
+{'hours_by_category':[4023,181.5,152,74.5,6432,400],'costs':[342539,15453,14419,6343,547608.07,34055.23],'reported_hours':11263,'reported_cost':960416.95,'rates':[85.14,94.86]},
+{'old_responses':23512,'new_responses':48645,'old_hours':16040,'new_hours':17662,'delta_hours':1622,'forms_changes':'No burden impact claimed'},
+['CCSF261recertifications from784/3;table783hours vsprose790.','New application andnew security program may be distinct but both40hours need explicit boundary.'],
+['Table7 rows4800+783+1+400+60+5=6049, not4451.','Application andnew certification both charged4800; overlap cannot be resolved from scope description.','6959*41=285319 but281219 corresponds6859*41.','Item12 narrative coordinator2961 versus table2761.'],
+['Document-specific recurrence of arithmetic errors warrants deterministic totals and obligation-overlap controls.','Includes fewer-than10 subgroup unlike SurfaceCyber exclusion; investigate consistent scope.'],
+ [('Program subtotal','4800+783+1+400+60+5',4451,'hours','Material subtotal discrepancy'),('Fee','6959*41',281219,'USD','Wrong count or total'),('Fee using Item12','6859*41',281219,'USD','Exact'),('Federal hours','4023+181.5+152+74.5+6432+400',11263,'hours','Exact')])
+
+case('202508-1652-001','Secure Flight passenger andvisitor vetting','high','direct',[16,11,14,7,6,5,7,2,2],
+['Detailed counts,times andyears; rounded frequency averages prevent exact small-carrier rows.','Current2024OEWS/2025ECEC cited; internal pay proxy and federal budget basis less accessible.','Carrier,airport,low-risk provider andindividual paths distinguished; automated activity scope stated.','Occupational ECEC loading clear; federal J-band proxy explicitly justified; individual ECEC rate identified.','No additional costs asserted; automated system scope would benefit from implementation-cost rationale.','Three-year payroll/contract budget categories explicit; no staff workload or incremental allocation.','New10000hours and300000responses separated from adjustments, but old/new numerical bridge incomplete.','Administrative frequencies andgrowth assumption; timing validation absent.','Federal narrative uses156875M while footnote156.875M andtable thousands; mixed precision.'],
+[['Carrier VID',231*865,.0361,7216],['Carrier resolution',231*149,.0862,2963],['Small VID',4775,.0361,172],['Small resolution',822,.0862,71],['Carrier visitors',2726039,25/3600,18931],['Airport visitors',605772,25/3600,4207],['Low-risk list',51,1.5,76.5],['Individual visitors',300000,2/60,10000]],
+{'ticket_agent_wage':22.94,'ecec_total':35.82,'ecec_wage':24.90,'loaded_ticket_agent':33,'low_risk_proxy':104.17,'individual_compensation':48.05,'reported_cost':1595937.32},
+{'annual_cost':0,'reason':'No costs beyond Item12 asserted'},
+{'year_totals_thousands':[153260,157134,160230],'annual_dollars':156874666.67,'categories':'payroll/benefits,management contracts,systems sustainment,IT O&M,infrastructure'},
+{'new_individual_hours':10000,'new_individual_responses':300000,'net_response_increase':244260,'resolution_time_old':.2,'resolution_time_new':.0862,'stated_hours_decrease':1202},
+['20newaircarriers/year;small carrier frequencies1% oflarge.','300000individual visitor requests/year.'],
+['Federal amount has thousand/million label conflict; footnote resolves intended156.875m.','Carrier visitors61815 narrative vs61955table; preserve underlying count2726039.','Table4 formula C=A*B omits time and treats B asfrequency though headerannualresponses.'],
+['Public descriptions of functional federal-pay proxies; preserve budget units separately from values.'],
+ [('Federal annual dollars','(153260+157134+160230)/3*1000',156875000,'USD','Rounding to nearest thousand'),('New hours','300000*2/60',10000,'hours','Exact'),('Loaded ticket agent','22.94*35.82/24.90',33,'USD/hour','Rounding')])
+
+case('202606-1652-002','hazmat driver credential enrollment andrenewal','high','direct',[10,8,11,6,5,4,3,3,0],
+['Year tables detailed but statedgrowth doesnot reproduce forecast;online renewals appear added to fullpopulation already charged inperson.','SixNAICS andtwoSOCs described but component inputs absent; ECEC reference/publication date confused.','Useful pathways designed but not mutually exclusive in formulas.','Employment-weighted wage26.22 andbenefit ratio disclosed; industry weighting andvintage insufficient to reproduce.','Fee components andappeal costs explicit; discount applied to allrenewals instead ofonline60% only.','User fees said tocover federal costs without gross costs or allocation.','Directions stated without quantitative old/new bridge; newonline policy vsadjustment classification unclear.','Historical enrollment counts andcandid appeal-time extrapolation; assumptions unvalidated.','Survey table519hours becomes5187summary; major pathway andprojection inconsistencies.'],
+[['Agent pre-enrollment',172904*.44,.96,73034],['Agent inperson',172904*.56,.90,87144],['Online renewal',172904*.52*.60,.17,9171],['Nonagent enrollment',65617,.96,62992],['Survey',17290,.03,519],['Appeals',3148,6,18888]],
+{'base_wage':26.22,'loaded_rate':38.18,'ecec_total':36.36,'ecec_wage':24.97,'soc':['53-3032','53-3033'],'NAICS':['325300','325000','324000','115000','424600','424700'],'reported_cost':9789963},
+{'new_agent_annual':82994,'renewal_agent_annual':89910,'nonagent_annual':65617,'new_fee':85.25,'discounted_renewal_fee':77.25,'nonagent_fee':91.86,'appeal_unit':1,'appeals':3148,'reported_cost':20051456},
+{'gross_cost':None,'reason':'User fee covers STA andother operations'},
+{'description':'Updatedhistoricaldata,lowerresponses andrenewalfee;no quantifiedbridge'},
+['Agent2025=167975;forecast170454,175770,172487;statedgrowth1.01%.','Nonagent2025=63267;forecast65673,65595,65582;statedgrowth−.98%.','48%new52%renewal;60%renewalsonline.','Appeal3%ineligible*44%seekcorrection*6hours;time extrapolated fromcustomer support.'],
+['Tables5a+5b charge100%agentpopulation in-person pathways;Table5c adds online subset instead ofsubstituting.','Survey Table7 average519hours becomes5187in Tables8/10.','Forecast doesnot followstated compoundgrowth.','Table11 appliesonline discountedfee toallrenewals though60%online; footnote44%renewal conflicts52%.','2026+2027+2028 totalhours not769255 exactly; multiplecopy/precision problems.'],
+['Explicit uncertainty about appeal effort is worth retaining; automate exclusive pathway shares andforecast formula validation.'],
+ [('Forecastfirstyear','167975*1.0101',170454,'persons','Doesnot reproduce'),('Surveyhours','172904*.10*.03',5187,'hours','Factor10summary discrepancy'),('Agentpathway share','.44+.56+.52*.60',1,'share','Paths sum1.312; apparent doublecount'),('Three yearhours','253812+259516+255933',769255,'hours','Six-hour difference')])
+
+for d in reviews:
+ p=R/'icrs'/d['icr_id'];(p/'extraction.json').write_text(json.dumps(d,indent=2,ensure_ascii=False))
+ md=[f"# {d['title']}",f"Provisional review. {d['icr_id']}; sources {', '.join(d['source_ids'])}.",f"Score {d['total_score']}/100. Public documentation only. {d['thoroughness']} statement; {d['complexity']} complexity.",'## Scoring']
+ md += [f"- {k}: {d['score'][k]}. {d['score_rationale'][k]}" for k in DIMS]
+ md += ['## Reconstruction issues']+['- '+x for x in d['reconstruction_issues']]+['## Methods worth testing']+['- '+x for x in d['methods_worth_testing']]
+ (p/'review.md').write_text('\n\n'.join(md)+'\n')
+print([(x['icr_id'],x['total_score']) for x in reviews])

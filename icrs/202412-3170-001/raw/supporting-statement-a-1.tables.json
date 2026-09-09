@@ -1,0 +1,117 @@
+{
+  "source_original": "icrs/202412-3170-001/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Information Collection Requirements",
+          "Information Collection Details",
+          "Number of Respondents",
+          "Number of annual responses",
+          "Time per response",
+          "Total Burden Hours"
+        ],
+        [
+          "Recordkeeping"
+        ],
+        [
+          "1033.351-one time",
+          "1033.351: Policies and procedures for data providers",
+          "1,785",
+          "1,785",
+          "557",
+          "994,245"
+        ],
+        [
+          "1033.351-ongoing",
+          "1033.351: Policies and procedures for data providers",
+          "1,785",
+          "1,785",
+          "60",
+          "107,100"
+        ],
+        [
+          "1033.441-One time",
+          "1033.441: Policies and procedures for third party record retention.",
+          "8,500",
+          "8,500",
+          "320",
+          "2,720,000"
+        ],
+        [
+          "1033.441-ongoing",
+          "1033.441: Policies and procedures for third party record retention.",
+          "8,500",
+          "8,500",
+          "150",
+          "1,275,000"
+        ],
+        [
+          "Disclosures",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1033.3411033.2011033.3011033.311-one time",
+          "1033.341: Information about the data provider1033.201: Obligation to make covered data available.1033.301: General requirements.1033.311: Requirements applicable to developer interface",
+          "1,785",
+          "1,785",
+          "324",
+          "578,340"
+        ],
+        [
+          "1033.3411033.2011033.3011033.311-ongoing",
+          "1033.341: Information about the data provider1033.201: Obligation to make covered data available.1033.301: General requirements.1033.311: Requirements applicable to developer interface",
+          "1,785",
+          "1,785",
+          "30",
+          "53,550"
+        ],
+        [
+          "1033.4111033.4211033.4011033.431-one time ",
+          "1033.411: Authorization disclosure1033.421: Third party obligations1033.401: Third party authorization; general1033.431: Use of data aggregator",
+          "8,500",
+          "8,500",
+          "162",
+          "1,377,000"
+        ],
+        [
+          "TOTAL",
+          "",
+          "10,285",
+          "32,640",
+          "",
+          "7,105,235"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Entities",
+          "Number of Entities",
+          "Annualized Burden Amount Per Entity",
+          "Total Annualized Burden (dollars)"
+        ],
+        [
+          "Data Providers-one time costs ",
+          "1,339",
+          "$16,800",
+          "$22,495,200"
+        ],
+        [
+          "Data Providers-ongoing",
+          "1,339",
+          "4,200",
+          "5,623,800"
+        ]
+      ]
+    }
+  ]
+}

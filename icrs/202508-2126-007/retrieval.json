@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202508-2126-007",
+  "retrieved_at": "2026-09-09T10:39:41.287671+00:00",
+  "documents": [
+    {
+      "title": "PRA 2126-0001 Supporting Statement 08.27.2025.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=162130001",
+      "path": "icrs/202508-2126-007/raw/supporting-statement-a-1.docx",
+      "sha256": "e3872629b9dd9d636cefae30f1424f1df9e482804b7a99f244599d6d8612f5b6",
+      "text_chars": 47177
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202508-2126-007",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202508-2126-007",
+  "agency": "DOT/FMCSA",
+  "title": "Hours of Service (HOS) of Drivers Regulations",
+  "omb_control_number": "2126-0001",
+  "submission_date": "09/15/2025",
+  "record_source_id": "SRC-0073",
+  "supporting_statement_source_ids": [
+    "SRC-0074"
+  ]
+}

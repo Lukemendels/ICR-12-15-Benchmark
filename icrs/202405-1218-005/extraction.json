@@ -1,0 +1,149 @@
+{
+  "icr_id": "202405-1218-005",
+  "omb_control_number": "1218-0238",
+  "agency": "DOL/OSHA",
+  "title": "Portable Fire Extinguishers Standard (Annual Maintenance Certification Record) (29 CFR 1910.157(e)(3))",
+  "submission_date": "07/09/2024",
+  "archetype": "portable fire extinguisher inspection records",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 3,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0060",
+    "SRC-0059"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 11,
+    "segmentation": 14,
+    "labor": 8,
+    "item13": 8,
+    "item14": 5,
+    "item15": 9,
+    "validation": 4,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Building-area exposure model andoutsourcing partitions clear; prose describes multiplication where division required.",
+    "provenance": "EIA CBECS/MECS vintages,SOC/ECEC andindustry consultations identified; currentlinksnotarchives.",
+    "segmentation": "Manufacturing/nonmanufacturing,customary85%,outsourced90%,inhouse10% meaningful.",
+    "labor": "30.76/(1-.294)=43.57; occupation transparent, no separateoverhead.",
+    "item13": "Price range42–59,midpoint50.5 andoutsourcedquantity explicit; survey age unclear.",
+    "item14": "Zero federalcost asserted; tagvisiblewithoutemployerdisclosure supports limitedincrementalburden.",
+    "item15": "Oldnew hours,extinguisherstock,price andsurveyvintage table clear; effectsnotfullydecomposed.",
+    "validation": "Industryconsultations andeconomist verification ofsurveyvintage jump; datedcalibration of85/90%missing.",
+    "consistency": "Item13 prose calls9567848contracted butcalculationuses8611063; tablecallsassetsrespondents."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Inhouse annual inspection",
+        956785,
+        0.5,
+        478393
+      ]
+    ],
+    "labor": {
+      "soc": "49-9069",
+      "oews_year": 2022,
+      "wage": 30.76,
+      "ecec_period": "September2023",
+      "benefit_share": 0.294,
+      "loaded": 43.57,
+      "cost": 20843583
+    },
+    "item13": {
+      "stock": 63785650,
+      "noncustomary_share": 0.15,
+      "contract_share": 0.9,
+      "outsourced_count": 8611063,
+      "price_range": [
+        42,
+        59
+      ],
+      "mean_price": 50.5,
+      "annual_cost": 434858682
+    },
+    "item14": {
+      "annual_cost": 0,
+      "reason": "No cost asserted;record tagreadilyvisible"
+    },
+    "item15": {
+      "old_stock": 39132742,
+      "new_stock": 63785650,
+      "old_hours": 293496,
+      "new_hours": 478393,
+      "delta_hours": 184897,
+      "old_unitinspectioncost": 17.28,
+      "new_unitcost": 50.5,
+      "classification": "adjustment",
+      "source_vintage_change": "CBECS2012→2018;MECS2010→2018"
+    },
+    "assumptions": [
+      "Oneextinguisher/11250sqft;industryengineer85%usual/customary;servicecompany90%outsourced.",
+      "Appendix buildingsegmenttables preserve EIA exposureinputs."
+    ]
+  },
+  "reconstruction_issues": [
+    "Item13 prose contractedcount differsfromformula.",
+    "Respondents labeled956785 althoughnumberrepresents extinguishers, notdistinctemployers.",
+    "Prose saysmultiply squarefeetby11250, dimensionally divisionisrequired."
+  ],
+  "methods_worth_testing": [
+    "Explicit make-or-buy partition withoutcharging outsourcedlaboragain inItem12.",
+    "Renewal source-vintage comparison distinguishes observed growth from survey redesign/rebasing."
+  ],
+  "checks": [
+    {
+      "label": "Inhouse stock",
+      "formula": "63785650*.15*.10",
+      "calculated": 956784.75,
+      "reported": 956785,
+      "difference": -0.25,
+      "unit": "extinguishers",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0060"
+    },
+    {
+      "label": "Outsourcedcost",
+      "formula": "8611063*50.5",
+      "calculated": 434858681.5,
+      "reported": 434858682,
+      "difference": -0.5,
+      "unit": "USD",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0060"
+    },
+    {
+      "label": "Loaded wage",
+      "formula": "30.76/(1-.294)",
+      "calculated": 43.569405099150146,
+      "reported": 43.57,
+      "difference": -0.0005949008498546959,
+      "unit": "USD/hour",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0060"
+    },
+    {
+      "label": "Hourbridge",
+      "formula": "478393-293496",
+      "calculated": 184897,
+      "reported": 184897,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0060"
+    }
+  ],
+  "total_score": 78
+}

@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202405-1652-001",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202405-1652-001"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202405-1652-001",
+  "agency": "DHS/TSA",
+  "title": "Flight Training Security Program",
+  "omb_control_number": "1652-0021",
+  "submission_date": "05/14/2024",
+  "record_source_id": "SRC-0035",
+  "supporting_statement_source_ids": [
+    "SRC-0036"
+  ]
 }

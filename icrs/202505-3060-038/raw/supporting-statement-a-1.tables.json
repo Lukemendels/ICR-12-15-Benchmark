@@ -1,0 +1,513 @@
+{
+  "source_original": "icrs/202505-3060-038/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Total Costs to the Industry",
+          "Totals"
+        ],
+        [
+          "Estimated Application Filing Fees",
+          "$1,854,991.82"
+        ],
+        [
+          "Estimated Cost of Outside Legal/Engineering Assistance",
+          "              $2,299,275.00"
+        ],
+        [
+          "Total Cost to Respondents",
+          "             $4,154.266.82 rounded to $4,154,267"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Federal Government Staff",
+          "Number of Staff",
+          "Salary Per Hour",
+          "Annual Burden Hours",
+          "Annualized Costs"
+        ],
+        [
+          "GS-15/Step 5 Attorney",
+          "6",
+          "$91.02",
+          "1,514",
+          "$826,825.68"
+        ],
+        [
+          "GS-14/Step 5 Attorney",
+          "3",
+          "$77.38 ",
+          "1,517",
+          "$352,156.38 "
+        ],
+        [
+          "GS-13/Step 5 Attorney",
+          "1",
+          "$65.48  ",
+          "1,517",
+          "$99,333.16 "
+        ],
+        [
+          "GS-12/Step 5 Attorney",
+          "1",
+          "$55.07  ",
+          "1,517",
+          "$83,541.19  "
+        ],
+        [
+          "GS-15/Step 5 Engineer",
+          "11",
+          "$91.02  ",
+          "694",
+          "  $694,846.68  "
+        ],
+        [
+          "GS-14/Step 5 Engineer",
+          "3",
+          "$77.38  ",
+          "2,122",
+          "$492,601.08"
+        ],
+        [
+          "GS-12/Step 5 Paralegal",
+          "1",
+          "$55.07  ",
+          "500",
+          "$27,535.00  "
+        ],
+        [
+          "GS-12/Step 5 Industry Analyst",
+          "1",
+          "$55.07 ",
+          "1,508",
+          "$83,000.32 "
+        ],
+        [
+          "GS-12/Step 5 Telecom Specialist",
+          "2",
+          " $55.07 ",
+          "2,011",
+          "$221,491.54  "
+        ],
+        [
+          "Total",
+          "29",
+          "",
+          "12,780",
+          "$2,881,331.03 "
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table": 3,
+      "rows": [
+        [
+          "Type of Filing",
+          "No. of Applications",
+          "Filing Fee",
+          "Subtotals",
+          "Totals"
+        ],
+        [
+          "I. Applications for Initial Licenses",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "a. Space Stations",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "GSO",
+          "9",
+          "3,965",
+          "35,685",
+          ""
+        ],
+        [
+          "NGSO",
+          "11",
+          "16,795",
+          "184,745",
+          ""
+        ],
+        [
+          "Small Satellite",
+          "5",
+          "2,425",
+          "12,125",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "232,555"
+        ],
+        [
+          "b. Earth Stations:",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Fixed or Temporary Fixed Transmit or Transmit/Receive Earth Stations",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Initial application, Single site",
+          "",
+          "400",
+          "",
+          ""
+        ],
+        [
+          "Initial Application, Multiple sites",
+          "",
+          "7,270",
+          "",
+          ""
+        ],
+        [
+          "(average earth station application fee) ",
+          "226",
+          "3,835",
+          "",
+          "866,710"
+        ],
+        [
+          "Receive Only Earth Stations",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Single",
+          "",
+          "195",
+          "",
+          ""
+        ],
+        [
+          "Multiple",
+          "",
+          "520",
+          "",
+          ""
+        ],
+        [
+          "Blanket",
+          "",
+          "400",
+          "",
+          ""
+        ],
+        [
+          "(average earth station application fee)",
+          "2",
+          "371.66",
+          "",
+          "743.32"
+        ],
+        [
+          "Mobile Earth Station Blanket Authorization (ESIMs total)",
+          "12",
+          "910",
+          "",
+          "10,920"
+        ],
+        [
+          "II. Modifications of Existing Licenses",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "a. Space Station",
+          "44",
+          "2,785",
+          "",
+          "122,540"
+        ],
+        [
+          "b. Earth Station",
+          "165",
+          "610",
+          "",
+          "100,650"
+        ],
+        [
+          "III. Amendments of Pending Applications",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "a. Space Station",
+          "10",
+          "1,810",
+          "",
+          "18,100"
+        ],
+        [
+          "b. Earth Station",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Single Site",
+          "",
+          "480",
+          "",
+          ""
+        ],
+        [
+          "Multiple Site",
+          "",
+          "705",
+          "",
+          ""
+        ],
+        [
+          "(average earth station application fee)",
+          "34",
+          "592.50",
+          "",
+          "20,145"
+        ],
+        [
+          "IV. Transfers of Control and Assignments",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A. Transfers of Control (T/C)",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "a. Space Station",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "First call sign",
+          "",
+          "830",
+          "",
+          ""
+        ],
+        [
+          "Additional call signs (each)",
+          "",
+          "445",
+          "",
+          ""
+        ],
+        [
+          "(average space station T/C fee)",
+          "4",
+          "636.50",
+          "",
+          "2,546"
+        ],
+        [
+          "b. Earth Station",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "First call sign",
+          "",
+          "830",
+          "",
+          ""
+        ],
+        [
+          "Additional call signs (each)",
+          "",
+          "445",
+          "",
+          ""
+        ],
+        [
+          "(average earth station T/C fee)",
+          "155",
+          "637.50",
+          "",
+          "98,812.50"
+        ],
+        [
+          "B. Assignments",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "a. Space Station",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "First call sign",
+          "",
+          "830",
+          "",
+          ""
+        ],
+        [
+          "Additional call signs (each)",
+          "",
+          "445",
+          "",
+          ""
+        ],
+        [
+          "(average space station  assignment fee)",
+          "3",
+          "637.50",
+          "",
+          "1,912.50"
+        ],
+        [
+          "b. Earth Station",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "First call sign",
+          "",
+          "830",
+          "",
+          ""
+        ],
+        [
+          "Additional call signs (each)",
+          "",
+          "445",
+          "",
+          ""
+        ],
+        [
+          "(average earth station assignment fee)",
+          "81",
+          "637.50",
+          "",
+          "51,637.50"
+        ],
+        [
+          "V. Applications for Special Temporary Authority",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "a. Space Station",
+          "77",
+          "1,600",
+          "",
+          "123,200"
+        ],
+        [
+          "b. Earth Station",
+          "753",
+          "220",
+          "",
+          "165,660"
+        ],
+        [
+          "VI. Earth Station License Renewals",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Single Site",
+          "",
+          "130",
+          "",
+          ""
+        ],
+        [
+          "Multiple Sites",
+          "",
+          "160",
+          "",
+          ""
+        ],
+        [
+          "Average Earth Station Fee",
+          "268",
+          "145",
+          "",
+          "38,860"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "TOTALS",
+          "",
+          "",
+          "",
+          "1,854,991.82"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,11 +1,30 @@
 icr_id,omb_control_number,agency,title,submission_date,archetype,complexity,tsa_relevance,review_status,source_ids
+202312-2050-001,2050-0230,EPA/OLEM,Alternate PCB Extraction Methods and Amendments to PCB Cleanup and Disposal Regulations (Final Rule),01/10/2024,PCB cleanup anddisposal rule transition,high,direct,REVIEWED_PROVISIONAL,SRC-0056;SRC-0055
+202401-1615-055,1615-0038,DHS/USCIS,Petition to Remove the Conditions on Residence,02/08/2024,immigration residence petition withbiometrics,medium,adjacent,REVIEWED_PROVISIONAL,SRC-0058;SRC-0057
 202402-1652-002,1652-0040,DHS/TSA,Air Cargo Security Requirements,03/27/2024,regulated-industry security reporting and recordkeeping,high,direct,REVIEWED_PROVISIONAL,SRC-0004;SRC-0003
 202403-0910-005,0910-0879,HHS/FDA,Premarket Tobacco Product Applications and Recordkeeping Requirements,11/27/2024,complex premarket regulated-industry applications,high,direct,REVIEWED_PROVISIONAL,SRC-0006;SRC-0005
 202404-1220-001,1220-0045,DOL/BLS,Survey of Occupational Injuries and Illnesses,07/01/2024,statistical employer survey and recordkeeping,high,method transfer,REVIEWED_PROVISIONAL,SRC-0008;SRC-0007
+202405-1218-005,1218-0238,DOL/OSHA,Portable Fire Extinguishers Standard (Annual Maintenance Certification Record) (29 CFR 1910.157(e)(3)),07/09/2024,portable fire extinguisher inspection records,high,direct,REVIEWED_PROVISIONAL,SRC-0060;SRC-0059
+202405-1652-001,1652-0021,DHS/TSA,Flight Training Security Program,05/14/2024,flight training security rule revision,high,direct,REVIEWED_PROVISIONAL,SRC-0036;SRC-0035
+202406-1652-001,1652-0003,DHS/TSA,"Aircraft Operator Security, 49 CFR Part 1544",06/26/2024,aircraft operator security compliance,high,direct,REVIEWED_PROVISIONAL,SRC-0038;SRC-0037
+202408-1652-002,1652-0053,DHS/TSA,Certified Cargo Screening Program,09/06/2024,certified cargo screening and canine certification,high,direct,REVIEWED_PROVISIONAL,SRC-0040;SRC-0039
 202409-2126-001,2126-0085,DOT/FMCSA,Quantitative Data on Safety Belt Usage of Commercial Motor Vehicle Drivers,11/22/2024,voluntary research survey,low,indirect,REVIEWED_PROVISIONAL,SRC-0010;SRC-0009
 202409-3235-022,3235-0361,SEC,"Form ADV-E, cover sheet for each certificate of accounting of client securities and funds in the custody of an investment adviser",12/13/2024,regulated financial cover-sheet reporting,low,adjacent,REVIEWED_PROVISIONAL,SRC-0012;SRC-0011
 202410-0960-002,0960-0144,SSA,Disability Report-Appeal,10/22/2024,administrative disability-benefit appeal,high,method transfer,REVIEWED_PROVISIONAL,SRC-0014;SRC-0013
+202410-7100-005,7100-0201,FRS,Recordkeeping and Disclosure Requirements Associated with CFPB's Regulation B,01/24/2025,bank credit recordkeeping and disclosures,medium,adjacent,REVIEWED_PROVISIONAL,SRC-0042;SRC-0041
 202411-1218-005,1218-0265,DOL/OSHA,"Occupational Safety and Health Act Variance Regulations (29 CFR 1905.10, 1905.11 and 1905.12)",01/16/2025,employer variance applications,medium,direct,REVIEWED_PROVISIONAL,SRC-0016;SRC-0015
+202411-1651-004,1651-0148,DHS/USCBP,Global Interoperability Standards (GIS),02/12/2025,pipeline imports technology pilot,medium,direct,REVIEWED_PROVISIONAL,SRC-0044;SRC-0043
 202411-1652-007,1652-0039,DHS/TSA,TSA Claims Application,12/17/2024,individual compensation claim,low,adjacent,REVIEWED_PROVISIONAL,SRC-0018;SRC-0017
+202411-2070-003,2070-0212,EPA/OCSPP,Toxic Chemical Release Reporting (Revision/Consolidation),11/27/2024,chemical release reporting andnonreporter determination,high,direct,REVIEWED_PROVISIONAL,SRC-0062;SRC-0061
+202412-3170-001,3170-0081,CFPB,Required Rulemaking on Personal Financial Data Rights,12/06/2024,financial data access infrastructure,high,direct,REVIEWED_PROVISIONAL,SRC-0046;SRC-0045
 202502-2040-002,2040-0305,EPA/OW,2022 National Pollutant Discharge Elimination System General Permit for Discharges from Construction Activities (Renewal),02/28/2025,construction environmental permit,high,direct,REVIEWED_PROVISIONAL,SRC-0020;SRC-0019
+202503-3060-020,3060-1222,FCC,"Incarcerated People’s Communications Services (IPCS) Provider Annual Reporting, Certification, and Other Requirements, WC Docket Nos. 23-62, 12-375",04/01/2025,incarcerated people communications disclosures,high,direct,REVIEWED_PROVISIONAL,SRC-0064;SRC-0063
+202504-1902-007,1902-0215,FERC,"FERC Form No. 60 (Annual Reports Of Centralized Service Cos.), FERC-61 (Narrative Description Of Service Co, FERC-555A (Preservation of Records Companies & Service Cos)",05/16/2025,utility central-service financial reporting,medium,direct,REVIEWED_PROVISIONAL,SRC-0066;SRC-0065
+202505-3060-038,3060-0678,FCC,"Part 25 of the Federal Communications Commission's Rules Governing the Licensing of, and Spectrum Usage By, Commercial Earth Stations and Space Stations",05/28/2025,satellite licensing andengineering filings,high,direct,REVIEWED_PROVISIONAL,SRC-0068;SRC-0067
+202506-2130-004,2130-0005,DOT/FRA,Hours of Service Regulations,07/09/2025,rail dutyrecords andfatiguemodeling,high,direct,REVIEWED_PROVISIONAL,SRC-0070;SRC-0069
+202508-1652-001,1652-0046,DHS/TSA,Secure Flight Program,12/11/2025,Secure Flight passenger andvisitor vetting,high,direct,REVIEWED_PROVISIONAL,SRC-0048;SRC-0047
+202508-2126-007,2126-0001,DOT/FMCSA,Hours of Service (HOS) of Drivers Regulations,09/15/2025,driver electroniclogging records,high,direct,REVIEWED_PROVISIONAL,SRC-0074;SRC-0073
+202602-0607-001,0607-1004,DOC/CENSUS,Annual Business Survey,02/17/2026,business statistical survey consolidation,medium,method transfer,REVIEWED_PROVISIONAL,SRC-0050;SRC-0049
+202602-3170-003,3170-0008,CFPB,Home Mortgage Disclosure Act (Regulation C),02/27/2026,financial mortgage reporting,high,direct,REVIEWED_PROVISIONAL,SRC-0052;SRC-0051
 202606-1652-001,1652-0074,DHS/TSA,Cybersecurity Measures for Surface Modes,09/01/2026,regulated surface-transport cybersecurity,high,direct,REVIEWED_PROVISIONAL,SRC-0022;SRC-0021
+202606-1652-002,1652-0027,DHS/TSA,Security Threat Assessment for Individuals Applying for a Hazardous Materials Endorsement for a Commercial Driver's License,08/21/2026,hazmat driver credential enrollment andrenewal,high,direct,REVIEWED_PROVISIONAL,SRC-0054;SRC-0053

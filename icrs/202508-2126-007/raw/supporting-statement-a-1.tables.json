@@ -1,0 +1,545 @@
+{
+  "source_original": "icrs/202508-2126-007/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "SOC Occupational Title/Code\u00a0",
+          "Total Employment (Year 2023) (thousands)",
+          "Total Employment (Year 2033) (thousands)",
+          "Employment Change (2023-2033) (thousands)",
+          "Employment Change (2023-2033) (Percent)",
+          "2023 Employment as % of Total for Truck and Bus Occupation Codes",
+          "Compound Annual Growth Rate in Employment (2023-2033) [MC-PRE]"
+        ],
+        [
+          "",
+          "A",
+          "B",
+          "C = B - A",
+          "D = C /A",
+          "E = An / \u01a9A",
+          "F = [(A/D) ^ (1/10)]-1"
+        ],
+        [
+          "Bus drivers, transit and intercity/53-3052",
+          "194.1",
+          "204.1",
+          "10.00",
+          "5.2%",
+          "4.36%",
+          "0.504%"
+        ],
+        [
+          "Passenger vehicle drivers /53-3050",
+          "952.70",
+          "1,008.00",
+          "55.30",
+          "5.8%",
+          "21.41%",
+          "0.566%"
+        ],
+        [
+          "Heavy and tractor-trailer truck drivers/53-3032",
+          "2,211.30",
+          "2,313.40",
+          "102.10",
+          "4.6%",
+          "49.68%",
+          "0.452%"
+        ],
+        [
+          "Light truck or delivery services drivers/53-3033",
+          "1,093",
+          "1,189",
+          "96.30",
+          "8.8%",
+          "24.55%",
+          "0.848%"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Year",
+          "Total Population Projected at a 0.576% Annual Growth Rate(millions)",
+          "Drivers Exempt from Operating ELD-Equipped Vehicles Projected at a 0.576% Annual Growth Rate(millions)",
+          "Drivers Operating ELD-Equipped Vehicles(millions)",
+          "New Drivers(millions)"
+        ],
+        [
+          "",
+          "A = A (-1) \u00d7 (1+0.576%)",
+          "B = B (-1) \u00d7 (1+ 0.576%)",
+          "C = A - B",
+          "D = C - C(-1)"
+        ],
+        [
+          "2023",
+          "9.12",
+          "4.73",
+          "4.39",
+          "\u00a0"
+        ],
+        [
+          "2024",
+          "9.17",
+          "4.76",
+          "4.41",
+          "\u00a0"
+        ],
+        [
+          "Year 1 (2025)",
+          "9.22",
+          "4.79",
+          "4.43",
+          "                          0.020 "
+        ],
+        [
+          "Year 2 (2026)",
+          "9.27",
+          "4.82",
+          "4.45",
+          "                          0.020 "
+        ],
+        [
+          "Year 3 (2027)",
+          "9.32",
+          "4.85",
+          "4.47",
+          "                          0.020 "
+        ],
+        [
+          "Three Year Average (2025\u20132027)*",
+          "9.27",
+          "4.82",
+          "4.45",
+          "                          0.020 "
+        ],
+        [
+          "*Average based on years 2025 to 2027. Years 2022 and 2023 are included for growth rate illustration.",
+          ""
+        ]
+      ]
+    },
+    {
+      "table": 3,
+      "rows": [
+        [
+          "Year",
+          "Total Daily Number of RODS completed(millions)",
+          "Minutes to Complete RODS Task",
+          "Total Daily Minutes on Task (millions)",
+          "Number of Working Days Per Year",
+          "Total Minutes on Task per Year (millions)",
+          "Total Hours on Task per Year(millions)"
+        ],
+        [
+          "",
+          "A = Table 4 Col. C",
+          "B",
+          "C = A x B",
+          "D",
+          "E = C x D",
+          "F = E/60"
+        ],
+        [
+          "Year 1",
+          "4.43",
+          "2",
+          "8.86",
+          "240",
+          "2,126.40",
+          "35.44"
+        ],
+        [
+          "Year 2",
+          "4.45",
+          "2",
+          "8.90",
+          "240",
+          "2,136.00",
+          "35.60"
+        ],
+        [
+          "Year 3",
+          "4.47",
+          "2",
+          "8.94",
+          "240",
+          "2,145.60",
+          "35.76"
+        ],
+        [
+          "Annual Average",
+          "4.45",
+          "2",
+          "8.90",
+          "240",
+          "2,136.00",
+          "35.60"
+        ],
+        [
+          " Note:  Annual and average values may not match due to rounding."
+        ]
+      ]
+    },
+    {
+      "table": 4,
+      "rows": [
+        [
+          "Year",
+          "Daily Number of RODS (millions)",
+          "Daily Number of RODS Reviewed (millions)",
+          "Minutes Per RODS on Task",
+          "Daily Minutes on Task(millions)",
+          "Working Days Per Year",
+          "Minutes on Task per Year (millions)",
+          "Hours on Task Per Year (millions)"
+        ],
+        [
+          "",
+          "A = Table 4 Col. C",
+          "B = A \u00d7 0.5",
+          "C",
+          "D = B \u00d7 C",
+          "E",
+          "F = D x E",
+          "G = F/60"
+        ],
+        [
+          "Year 1",
+          "4.43",
+          "2.22",
+          "2",
+          "4.44",
+          "240",
+          "    1,065.60 ",
+          "17.76"
+        ],
+        [
+          "Year 2",
+          "4.45",
+          "2.23",
+          "2",
+          "4.46",
+          "240",
+          "    1,070.40 ",
+          "17.84"
+        ],
+        [
+          "Year 3",
+          "4.47",
+          "2.24",
+          "2",
+          "4.48",
+          "240",
+          "    1,075.20 ",
+          "17.92"
+        ],
+        [
+          "Average",
+          "4.45",
+          "2.23",
+          "2",
+          "4.46",
+          "240",
+          "  1,070.40 ",
+          "17.84"
+        ],
+        [
+          " Note:  Annual and average values my not match due to rounding."
+        ]
+      ]
+    },
+    {
+      "table": 5,
+      "rows": [
+        [
+          "Occupational Title (BLS Code Number)",
+          "Total Drivers",
+          " % of Total Drivers",
+          " Median Hourly Base Wage",
+          "Weighted Average Hourly Wage",
+          "Load Rate",
+          "Loaded Weighted Average Hourly Wage"
+        ],
+        [
+          "\u00a0",
+          "A",
+          "B= An / \u01a9A",
+          "C ",
+          "D = B x C",
+          "E",
+          "F"
+        ],
+        [
+          "Heavy and Tractor Trailer drivers (53-3032)",
+          "2,044,400",
+          "58.58%",
+          "$26.12 ",
+          "$15.30 ",
+          "1.419",
+          "$21.71 "
+        ],
+        [
+          "Light truck and delivery Service Drivers (53-3033)",
+          "1,003,960",
+          "28.77%",
+          "$20.42 ",
+          "$5.87 ",
+          "1.419",
+          "$8.33 "
+        ],
+        [
+          "Passenger Vehicle Drivers (53-3050)",
+          "594,230",
+          "17.03%",
+          "$18.52 ",
+          "$3.15 ",
+          "1.419",
+          "$4.47 "
+        ],
+        [
+          "Bus drivers, transit and intercity (53-3052)",
+          "184,990",
+          "5.30%",
+          "$28.93 ",
+          "$1.53 ",
+          "1.419",
+          "$2.17 "
+        ],
+        [
+          "Total /Annual Averages/Weighted Annual Average/Loaded Weighted Annual Average",
+          "3,490,010",
+          "-",
+          "$23.50 ",
+          "$25.85 ",
+          "-",
+          "$36.68 "
+        ],
+        [
+          "Note:  Annual and average values may not match due to rounding."
+        ]
+      ]
+    },
+    {
+      "table": 6,
+      "rows": [
+        [
+          "",
+          "Burden Hours(millions)A= Table 5 Column G",
+          "Total Cost($ millions)B = A \u00d7 $36.68"
+        ],
+        [
+          "Year 1",
+          "35.44",
+          "$1,299.94 "
+        ],
+        [
+          "Year 2",
+          "35.60",
+          "$1,305.81 "
+        ],
+        [
+          "Year 3",
+          "35.76",
+          "$1,311.68 "
+        ],
+        [
+          "Annual Average",
+          "35.60",
+          "$1,305.81 "
+        ]
+      ]
+    },
+    {
+      "table": 7,
+      "rows": [
+        [
+          "\u00a0\u00a0Year",
+          "Burden Hours (million)",
+          "Total Cost ($ million)"
+        ],
+        [
+          "",
+          "A = Table 6 Col. G",
+          "B = A \u00d7 $32.37"
+        ],
+        [
+          "Year 1",
+          "17.76",
+          "$574.89"
+        ],
+        [
+          "Year 2",
+          "17.84",
+          "$577.48"
+        ],
+        [
+          "Year 3",
+          "17.92",
+          "$580.07"
+        ],
+        [
+          "Annual Average",
+          "17.84",
+          "$577.48"
+        ]
+      ]
+    },
+    {
+      "table": 8,
+      "rows": [
+        [
+          "Year",
+          "Number of Drivers (millions)",
+          "Number of New Drivers (millions)B = FromTable 4 Column D",
+          "Number of Backup Logbooks Provided to Established Drivers (millions)",
+          "Number of Backup Logbooks Provided to New Drivers (millions)",
+          "Total Number of Backup Logbooks Provided",
+          "Total Cost for Logbooks(millions)"
+        ],
+        [
+          "",
+          "A",
+          "",
+          "C = A \u00d7 1",
+          "D= B \u00d7 2",
+          "E = C + D",
+          "F = E \u00d7 $5.24"
+        ],
+        [
+          "Year 1",
+          "4.43",
+          "                                    0.020 ",
+          "4.43",
+          "              0.040 ",
+          "4.47",
+          "23.42"
+        ],
+        [
+          "Year 2",
+          "4.45",
+          "                                    0.020 ",
+          "4.45",
+          "              0.040 ",
+          "4.49",
+          "23.53"
+        ],
+        [
+          "Year 3",
+          "4.47",
+          "                                    0.020 ",
+          "4.47",
+          "              0.040 ",
+          "4.51",
+          "23.63"
+        ],
+        [
+          "Average",
+          "4.45",
+          "0.020",
+          "4.45",
+          "0.040",
+          "4.49",
+          "23.53"
+        ],
+        [
+          "Note:  Annual and average values may not match due to rounding."
+        ]
+      ]
+    },
+    {
+      "table": 9,
+      "rows": [
+        [
+          "Year",
+          "Total Driver Population ",
+          "New Driver Population(millions) ",
+          "New ELD Costs        ($ millions)",
+          "New Installation Costs                             ($ millions)",
+          "Annual Service Charges ($ millions) ",
+          "Total Non-Labor Annual Costs ($ millions)"
+        ],
+        [
+          "",
+          "A",
+          "B",
+          "C = B \u00d7 $350",
+          "D = B \u00d7 $150",
+          "E = A \u00d7 $31 \u00d7 12 months ",
+          "F = C + D + E"
+        ],
+        [
+          "Year 1",
+          "4.43",
+          "0.020",
+          "$7.00",
+          "$3.00 ",
+          " $                   1,594.80 ",
+          "$1,604.80 "
+        ],
+        [
+          "Year 2",
+          "4.45",
+          "0.020",
+          "$7.00 ",
+          "$3.00 ",
+          " $                   1,602.00 ",
+          "$1,612.00 "
+        ],
+        [
+          "Year 3",
+          "4.47",
+          "0.020",
+          "$7.00 ",
+          "$3.00 ",
+          " $                   1,609.20 ",
+          "$1,619.20 "
+        ],
+        [
+          "Annual Average",
+          "4.45",
+          "0.020",
+          "$7.00",
+          "$3.00 ",
+          " $                   1,602.00 ",
+          "$1,612.00 "
+        ],
+        [
+          "Note:  Annual and average values may not match due to rounding"
+        ]
+      ]
+    },
+    {
+      "table": 10,
+      "rows": [
+        [
+          "",
+          "Previous ICR",
+          "This ICR"
+        ],
+        [
+          "CMV Drivers Subject to HOS Recordkeeping Requirements",
+          "Year 1: 4.20 millionYear 2: 4.24 millionYear 3: 4.28 millionAverage:  4.24 million",
+          "Year 1: 4.43 millionYear 2: 4.45 millionYear 3: 4.47 millionAverage:  4.45 million"
+        ],
+        [
+          "Motor CarriersReview 50% of RODS ",
+          "Three-year average burden hours estimated at 16.79 million hours.",
+          "Three-year average burden hours estimated at 17.80 million hours. The upward revision is the result of a revised estimate of the driver population shown above."
+        ],
+        [
+          "Monetized Driver and Motor Carrier Burden Hours",
+          "Driver burden hours monetized at a loaded rate of $29.78 per hour. Motor carrier burden hours are monetized at $30.20 per hour.",
+          "Driver burden hours monetized at a loaded rate of $36.68 per hour. Motor carrier burden hours are monetized at $32.37 per hour. The upward revision in costs is due to updating the load rate. "
+        ]
+      ]
+    }
+  ]
+}

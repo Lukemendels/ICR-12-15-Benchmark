@@ -13,3 +13,6 @@ Targets:
 - CBP GIS202411-1651-004: technology pilot with OIRA warning about participant-selection bias.
 - FRS RegulationB202410-7100-005: weighted labor mix and delegated-review context.
 Retain original rubric weights; challenge scope correctness,period conversion and comparative fairness explicitly. No assumption that these targets are strong.
+
+## Completed extraction checkpoint
+Ten provisional reviews added. TSA scores50–76 in this batch; eight-case TSA mean66. BLS SOII remains overall seed leader83. No agency-wide inference. Material findings: HME pathway overlap and survey multiplier; CFPB HMDA template contamination; CBP unpriced fees netted against savings; flight-training rule transition arrays. Canonical version0.3.0; rubric unchanged. Next test prioritizes nonzero Item13 and high-quality regulatory comparators.

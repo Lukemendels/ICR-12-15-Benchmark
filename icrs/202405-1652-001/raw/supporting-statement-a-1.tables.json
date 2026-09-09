@@ -1,0 +1,195 @@
+{
+  "source_original": "icrs/202405-1652-001/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          "Table 1. Hour Burden Cost to Flight Training Candidates"
+        ],
+        [
+          "Collection Activity",
+          "Responses",
+          "Number of Annual Responses",
+          "Hour Burden Per Response",
+          "Total Hour Burden",
+          "Total Annual Hour Burden Cost"
+        ],
+        [
+          "",
+          "Year 1",
+          "Year 2",
+          "Year 3",
+          "a",
+          "b",
+          "c = a \u00d7 b",
+          "d = c \u00d7 $41.51"
+        ],
+        [
+          "Applications (with new or renewing STA)",
+          "30,847 ",
+          "13,611 ",
+          "13,611 ",
+          "            19,356 ",
+          "0.75 ",
+          "           14,517 ",
+          "$602,547"
+        ],
+        [
+          "Training event notifications (with existing STA)",
+          "14,329 ",
+          "31,643 ",
+          "31,794 ",
+          "            25,922 ",
+          "0.58 ",
+          "           15,121 ",
+          "$627,611"
+        ],
+        [
+          "Total",
+          "\u00a0",
+          "\u00a0",
+          "\u00a0",
+          "          45,278 ",
+          "\u00a0",
+          "           29,638 ",
+          "$1,230,158"
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "Collection",
+          "Responses",
+          "Number of Annual Responses",
+          "Hour Burden Per Response",
+          "TotalHour Burden",
+          "Compensation Rate ",
+          "Total Annual Hour Burden Cost"
+        ],
+        [
+          "",
+          "Year 1",
+          "Year 2",
+          "Year 3",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "a",
+          "b",
+          "",
+          "c",
+          "d = a \u00d7 b \u00d7 c"
+        ],
+        [
+          "Security Coordinator Submission",
+          "CFI and Clubs",
+          "30,975 ",
+          "3,994 ",
+          "4,100 ",
+          "13,023 ",
+          "0.2500",
+          "3,256",
+          "$61.27",
+          "$199,463"
+        ],
+        [
+          "",
+          "Large",
+          "1,122 ",
+          "126 ",
+          "125 ",
+          "458 ",
+          "",
+          "115",
+          "$95.94",
+          "$10,981"
+        ],
+        [
+          "Recordkeeping of Security Awareness Training",
+          "CFI and Clubs",
+          "41,378 ",
+          "5,435 ",
+          "38,742 ",
+          "28,518 ",
+          "0.0167",
+          "476",
+          "$61.27",
+          "$29,120"
+        ],
+        [
+          "",
+          "Large",
+          "9,624 ",
+          "1,333 ",
+          "8,957 ",
+          "6,638 ",
+          "",
+          "111",
+          "$30.62",
+          "$3,387"
+        ],
+        [
+          "Total",
+          "",
+          "",
+          "",
+          "48,637",
+          "",
+          "3,958",
+          "",
+          "$242,952"
+        ]
+      ]
+    },
+    {
+      "table": 3,
+      "rows": [
+        [
+          "Table 3.  Fees and Other Annualized Costs"
+        ],
+        [
+          "Activity",
+          "Annual Number of Instances",
+          "Fee ",
+          "Annual Cost"
+        ],
+        [
+          "",
+          "a",
+          "b",
+          "c = a x b"
+        ],
+        [
+          "Standard (Regular Processing) STA Fee",
+          "19,112",
+          "$140.00",
+          "$2,675,630"
+        ],
+        [
+          "Reduced STA Fee (for eligible candidates)",
+          "245",
+          "$125.00",
+          "$30,582"
+        ],
+        [
+          "Total",
+          "19,356",
+          "",
+          "$2,706,212"
+        ]
+      ]
+    }
+  ]
+}

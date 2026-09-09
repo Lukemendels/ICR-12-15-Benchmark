@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202602-0607-001",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202602-0607-001"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202602-0607-001",
+  "agency": "DOC/CENSUS",
+  "title": "Annual Business Survey",
+  "omb_control_number": "0607-1004",
+  "submission_date": "02/17/2026",
+  "record_source_id": "SRC-0049",
+  "supporting_statement_source_ids": [
+    "SRC-0050"
+  ]
 }

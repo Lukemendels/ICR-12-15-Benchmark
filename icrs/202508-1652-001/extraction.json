@@ -1,0 +1,174 @@
+{
+  "icr_id": "202508-1652-001",
+  "omb_control_number": "1652-0046",
+  "agency": "DHS/TSA",
+  "title": "Secure Flight Program",
+  "submission_date": "12/11/2025",
+  "archetype": "Secure Flight passenger andvisitor vetting",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 2,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0048",
+    "SRC-0047"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 11,
+    "segmentation": 14,
+    "labor": 7,
+    "item13": 6,
+    "item14": 5,
+    "item15": 7,
+    "validation": 2,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Detailed counts,times andyears; rounded frequency averages prevent exact small-carrier rows.",
+    "provenance": "Current2024OEWS/2025ECEC cited; internal pay proxy and federal budget basis less accessible.",
+    "segmentation": "Carrier,airport,low-risk provider andindividual paths distinguished; automated activity scope stated.",
+    "labor": "Occupational ECEC loading clear; federal J-band proxy explicitly justified; individual ECEC rate identified.",
+    "item13": "No additional costs asserted; automated system scope would benefit from implementation-cost rationale.",
+    "item14": "Three-year payroll/contract budget categories explicit; no staff workload or incremental allocation.",
+    "item15": "New10000hours and300000responses separated from adjustments, but old/new numerical bridge incomplete.",
+    "validation": "Administrative frequencies andgrowth assumption; timing validation absent.",
+    "consistency": "Federal narrative uses156875M while footnote156.875M andtable thousands; mixed precision."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Carrier VID",
+        199815,
+        0.0361,
+        7216
+      ],
+      [
+        "Carrier resolution",
+        34419,
+        0.0862,
+        2963
+      ],
+      [
+        "Small VID",
+        4775,
+        0.0361,
+        172
+      ],
+      [
+        "Small resolution",
+        822,
+        0.0862,
+        71
+      ],
+      [
+        "Carrier visitors",
+        2726039,
+        0.006944444444444444,
+        18931
+      ],
+      [
+        "Airport visitors",
+        605772,
+        0.006944444444444444,
+        4207
+      ],
+      [
+        "Low-risk list",
+        51,
+        1.5,
+        76.5
+      ],
+      [
+        "Individual visitors",
+        300000,
+        0.03333333333333333,
+        10000
+      ]
+    ],
+    "labor": {
+      "ticket_agent_wage": 22.94,
+      "ecec_total": 35.82,
+      "ecec_wage": 24.9,
+      "loaded_ticket_agent": 33,
+      "low_risk_proxy": 104.17,
+      "individual_compensation": 48.05,
+      "reported_cost": 1595937.32
+    },
+    "item13": {
+      "annual_cost": 0,
+      "reason": "No costs beyond Item12 asserted"
+    },
+    "item14": {
+      "year_totals_thousands": [
+        153260,
+        157134,
+        160230
+      ],
+      "annual_dollars": 156874666.67,
+      "categories": "payroll/benefits,management contracts,systems sustainment,IT O&M,infrastructure"
+    },
+    "item15": {
+      "new_individual_hours": 10000,
+      "new_individual_responses": 300000,
+      "net_response_increase": 244260,
+      "resolution_time_old": 0.2,
+      "resolution_time_new": 0.0862,
+      "stated_hours_decrease": 1202
+    },
+    "assumptions": [
+      "20newaircarriers/year;small carrier frequencies1% oflarge.",
+      "300000individual visitor requests/year."
+    ]
+  },
+  "reconstruction_issues": [
+    "Federal amount has thousand/million label conflict; footnote resolves intended156.875m.",
+    "Carrier visitors61815 narrative vs61955table; preserve underlying count2726039.",
+    "Table4 formula C=A*B omits time and treats B asfrequency though headerannualresponses."
+  ],
+  "methods_worth_testing": [
+    "Public descriptions of functional federal-pay proxies; preserve budget units separately from values."
+  ],
+  "checks": [
+    {
+      "label": "Federal annual dollars",
+      "formula": "(153260+157134+160230)/3*1000",
+      "calculated": 156874666.66666666,
+      "reported": 156875000,
+      "difference": -333.33333334326744,
+      "unit": "USD",
+      "interpretation": "Rounding to nearest thousand",
+      "source_id": "SRC-0048"
+    },
+    {
+      "label": "New hours",
+      "formula": "300000*2/60",
+      "calculated": 10000.0,
+      "reported": 10000,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0048"
+    },
+    {
+      "label": "Loaded ticket agent",
+      "formula": "22.94*35.82/24.90",
+      "calculated": 33.00043373493976,
+      "reported": 33,
+      "difference": 0.0004337349397616208,
+      "unit": "USD/hour",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0048"
+    }
+  ],
+  "total_score": 70
+}

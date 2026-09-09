@@ -1,0 +1,98 @@
+{
+  "source_original": "icrs/202506-0938-007/raw/supporting-statement-a-1.docx",
+  "note": "Raw OOXML cell text, not normalized numeric inputs; merged-cell geometry retained only through original DOCX.",
+  "tables": [
+    {
+      "table": 1,
+      "rows": [
+        [
+          ""
+        ],
+        [
+          "Number of hospital facilities (as of 12/27/2024)",
+          "6,044"
+        ],
+        [
+          ""
+        ],
+        [
+          "Hours burden per facility to complete the cost report:",
+          "675"
+        ],
+        [
+          "",
+          "Number of hours of reporting",
+          "137",
+          ""
+        ],
+        [
+          "",
+          "Number of hours of recordkeeping",
+          "538",
+          ""
+        ],
+        [
+          ""
+        ],
+        [
+          "Total hours burden (6,044 hospital facilities x 675 hours)",
+          "4,079,700"
+        ],
+        [
+          ""
+        ],
+        [
+          "Cost per hospital",
+          "$37,611.94"
+        ],
+        [
+          ""
+        ],
+        [
+          "Total annual cost estimate ($37,611.94 x 6,044 hospitals), rounded",
+          "$227,326,565"
+        ],
+        [
+          ""
+        ],
+        [
+          ""
+        ]
+      ]
+    },
+    {
+      "table": 2,
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "Annual cost to MACs",
+          "$64,878,604"
+        ],
+        [
+          ""
+        ],
+        [
+          "Annual cost to CMS  ",
+          "$74,301"
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "Total Federal cost",
+          "$64,952,905"
+        ],
+        [
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

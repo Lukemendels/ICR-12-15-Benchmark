@@ -1,0 +1,328 @@
+PART word/document.xml
+ 
+
+Department of Transportation
+Federal Motor Carrier Safety Administration
+
+SUPPORTING STATEMENT
+
+“Hours of Service (HOS) of Drivers Regulations” ICR
+OMB Control No. 2126-0001
+
+SUMMARY
+This is a request for approval for the renewal of the currently approved HOS information collection request. There are two information collections.
+IC-1 consists of reporting and recordkeeping tasks performed by drivers using electronic logging devices (ELDs) or, in some cases, paper logbooks. The driver burden associated with IC-1 is 35.60 million burden hours with an associated cost of $1,305.81 million.
+IC-2 consists of reviewing ELDs and paper logbooks and recordkeeping tasks performed by motor carriers of property and passenger commercial motor vehicle (CMV) operations.  The motor carrier burden associated with IC-2 is 17.80 million burden hours with an associated cost of $576.19 million.
+The combined annual burden hours increased from 50.37 million hours to 53.40 million hours, a 6% increase.  See section 15 for details on the increase in burden hours.
+The agency estimates the total average annual cost of this ICR at $3,517.53 million, which consists of $1,882 million of monetized burden hours incurred by drivers and motor carriers, $1,612 million for the acquisition and installation cost of new ELDs, plus annual data management service charges paid to ELD vendors for all drivers, plus $23.53 million to supply drivers with backup paper logbooks. 
+
+INTRODUCTION
+
+This is to request the Office of Management and Budget’s (OMB) approval for the renewal of the OMB Control Number 2126-0001, information collection request (ICR), titled “Hours of Service (HOS) of Drivers Regulations” expiring on September 30, 2025. The Federal Motor Carrier Safety Administration (FMCSA or the agency) has updated its estimate of the number of CMV drivers subject to the HOS recordkeeping requirements and the associated cost of installing and operating electronic logging devices (ELDs).
+
+The estimate of burden hours in this supporting statement is a three-year average of annual burden hours for the segment of the total driver population operating ELD-equipped CMVs for the 2025-2027 information collection period. Drivers operating under short-haul exemptions are required to prepare time cards, and do so in accordance with Department of Labor regulations. Section 395.8(a)(1)(iii)(A)(1-4) also provides that a motor carrier may require a driver to record the driver’s duty status manually rather than require the use of an ELD, if the driver is operating a CMV: (1) In a manner requiring completion of a record of duty status on not more than 8 days within any 30-day period; (2) In a driveaway-towaway operation in which the vehicle being driven is part of the shipment being delivered; (3) In a driveaway-towaway operation in which the vehicle being transported is a motor home or a recreation vehicle trailer; or (4) That was manufactured before model year 2000, as reflected in the vehicle identification number as shown on the vehicle's registration.
+
+In this ICR, the agency monetizes driver burden hours based on hourly wage rates, including benefits and motor carrier overhead. ELD fixed equipment and variable operating costs and the cost of backup paper logbooks are also included in the estimate of this ICR.
+ 
+PART A.  JUSTIFICATION
+
+Circumstances that make the collection of information necessary:
+ 
+Section 390.5T of the Federal Motor Carrier Safety Regulations (FMCSRs) (49 CFR 350 et seq.) defines the term “commercial motor vehicle” as any self-propelled or towed motor vehicle used on a highway in interstate commerce to transport passengers or property when the vehicle—(1) Has a gross vehicle weight rating or gross combination weight rating, or gross vehicle weight or gross combination weight, of 4,536 kg (10,001 pounds) or more, whichever is greater; or (2) Is designed or used to transport more than 8 passengers (including the driver) for compensation; or (3) Is designed or used to transport more than 15 passengers, including the driver, and is not used to transport passengers for compensation; or (4) Is used in transporting material found by the Secretary of Transportation to be hazardous under 49 U.S.C. 5103 and transported in a quantity requiring placarding under regulations prescribed by the Secretary under 49 CFR, subtitle B, chapter I, subchapter C. (Attachment A).  
+
+The FMCSRs are applicable to individuals who drive CMVs in interstate commerce, and to the motor carriers that employ those individuals (49 CFR 390.3T(a)) (Attachment B). The estimates that follow, however, include drivers and motor carriers in both interstate and intrastate commerce pursuant to an OMB directive that the agency include intrastate entities in its burden estimate.
+The HOS rules apply to both property and passenger motor carriers. The HOS rules set limits on the on-duty time and driving time of CMV drivers, and mandate the amount and frequency of the time off-duty that such drivers must receive. Two types of information are collected under this IC: (1) drivers’ daily record of duty status (RODS) (electronic records from ELDs or, in some cases, paper logbooks), and (2) supporting documents, such as fuel and toll receipts, that may be used by motor carriers to verify the accuracy of the RODS and to document expense deductions taken in the determination of taxable income. CMV non-exempt drivers must use ELDs to meet the RODS reporting requirement. An ELD system requires the driver to enter information regarding on-duty/driving time, on-duty/not driving time, off-duty time, and sleeper berth time (49 CFR 395.24) (Attachment C). The ELD must be able to produce a graph grid of the driver’s daily duty status changes either on a display unit or printout. This ICR estimates RODS-related burden hours based on two minutes of driver time to input duty status.
+
+Motor carriers must retain drivers’ RODS and supporting documents for no less than six months (49 CFR 395.8(k)(1)) (Attachment D). Drivers must retain copies of RODS for the previous seven days and make them available for inspection (49 CFR 395.8(k)(2)) (Attachment D). 
+
+The HOS rules require drivers to submit supporting documents generated or received that verify the driver’s RODS. For example, a toll receipt may verify that at the time stamped on the receipt the driver was “on-duty/driving,” and where the vehicle was located at that time.  Of course, it may indicate that the RODS are inaccurate; for instance, the toll receipt may indicate that at a certain time that the driver recorded as “off duty” on the RODS, he or she was “on-duty/driving.” The driver must submit the supporting documents to the motor carrier within 13 days of either the 24-hour period to which the supporting documents pertain or when the documents become available to the driver, whichever is later. (49 CFR 395.11(b)) (Attachment E).  
+
+Both the driver and the motor carrier must ensure that the RODS are accurate. If RODS are inaccurate or falsified, both the driver and the motor carrier are in violation of the FMCSRs, and subject to the applicable penalties (49 CFR 395.8(e)) (Attachment F).
+
+CMV drivers who travel limited distances during their duty day are not required to maintain RODS because their activities qualify as “Short-Haul Operations” under 49 CFR 395.1(e) (Attachment G). In lieu of the RODS, however, these CMV drivers must track four pieces of information by means of a “time card” maintained at the motor carrier’s place of business: the time they reported for duty, the time they were released from duty, the total hours they were on duty that workday, and the total time for the proceeding seven days for drivers used for the first time or intermittently. The timecard record is required by the United States Department of Labor (DOL) regulations. Thus, FMCSA does not estimate burden hours for drivers with a short-haul exemption. 
+
+How, by whom, and for what purpose the information is used:
+
+The primary mission of the FMCSA is to reduce crashes, injuries, and fatalities involving large trucks and buses. The Secretary of Transportation has delegated to FMCSA its responsibility under 49 U.S.C. §§ 31136 and 31502 (Attachments H and I) to prescribe regulations that ensure that CMVs are operated safely (49 CFR 1.87).  
+
+The FMCSRs state in part:
+
+“No driver shall operate a commercial motor vehicle, and a motor carrier shall not require or permit a driver to operate a commercial motor vehicle, while the driver’s ability or alertness is so impaired, or so likely to become impaired, through fatigue, illness, or any other cause, as to make it unsafe for him/her to begin or continue to operate the commercial motor vehicle….” (49 CFR 392.3) (Attachment J).
+
+Fatigued drivers operating CMVs pose a serious safety problem. The RODS and supporting documents of the HOS rules have historically provided the agency with its most effective tool in combating driver fatigue. Enforcement officials at roadside employ the RODS and supporting documents to determine the amount of time a driver has spent off duty prior to the driver’s current duty day. They also determine the amount of time the driver has been on duty that duty day, and the amount of time the driver has been behind the wheel driving during the duty day. Finally, enforcement officials examine the RODS for as many as seven of the immediately preceding days to determine compliance with the HOS rules. The RODS are an invaluable tool used to detect inaccurate and falsified logs, and are used to facilitate the removal of fatigued, unsafe drivers off the road.
+
+In addition, enforcement officials employ the RODS and supporting documents retained by the motor carrier when conducting on-site investigative reviews of motor carriers. The safety assessments that result from such reviews are public information, and many shippers routinely examine the assessments, as well as crash and regulatory compliance records, when selecting a motor carrier. A negative rating on an investigative review can be damaging to a motor carrier’s business. In enforcement actions of HOS violations, courts of law typically find investigative review assessments important evidence.
+
+Furthermore, the Motor Carrier Safety Assistance Program (MCSAP) requires States, as a condition of receiving grant funding, to adopt and enforce State CMV safety laws and regulations that are compatible with the FMCSRs (49 CFR 350.201(a)) (Attachment K). These include the HOS rules. States embrace the Federal enforcement scheme for regulating safety in the operation of CMVs and work closely with Federal investigators in enforcing the HOS rules.  
+
+Motor carriers also help FMCSA detect fatigued drivers. It is in their interest to be proactive in detecting inaccuracy or falsification of RODS by their CMV drivers to avoid the penalties resulting from such infractions. Replacing paper RODS with electronic RODS enhances the accuracy and minimizes the falsification of RODS. Motor carriers will continue to examine the supporting documents, such as fuel receipts, toll receipts, bills of lading, and repair invoices, and compare them to the entries on the RODS. Comparing supporting documents to the RODS helps the motor carrier verify the accuracy of the HOS reported by their CMV drivers. Motor carrier use of the RODS and driver-supplied supporting documents enhances driver adherence to the HOS rules, keeps fatigued drivers off the road, and helps FMCSA protect the public. Finally, this ICR supports the Department of Transportation’s Strategic Goal of Safety because the information helps the agency improve the safety of drivers operating CMVs on our Nation’s highways.  
+
+Extent of automated information collection:
+
+The FMCSA amended the FMCSRs to establish minimum performance and design standards for ELDs and, subject to certain exceptions, the mandatory use of these devices by drivers who are subject to the HOS reporting requirements. ELD technology reduces the ICR burden of the HOS reporting requirements. Absent a malfunction of the ELD that requires a driver to maintain a paper RODS, all RODS transactions will be conducted electronically.  
+Describe efforts to identify duplication:
+
+As explained in Item 1, the information on the employee’s payroll timecard satisfies the HOS reporting requirements of certain short-haul drivers. The FMCSA does not dictate the form with which the data required by the “timecard” exception is collected (49 CFR 395.1(e)). Department of Labor regulations require the employer to maintain this information (29 CFR 516.2) (Attachment L).  
+Efforts to minimize the burden on small businesses:
+Based on SBA size standards, FMCSA continues to estimate that 99 percent of regulated motor carriers and passenger carriers are small businesses. However, it should be noted that this population group contains many motor carriers that qualify as “short haul” operations under section 395.1(e). For the three-year period covered by this ICR, the agency estimates on average that 4.76 million drivers conducting these operations are exempt from the requirement of the HOS rules that drivers maintain RODS and supporting documents on board the CMV. These drivers are not the primary focus of the HOS rules because accident data indicates that fatigue is not prevalent in this segment of the trucking industry. Moreover, these vehicles are under-represented in truck-related fatal crashes.  
+
+Impact of less frequent collection of information:
+
+The FMCSRs require CMV drivers to “keep their RODS current to the time shown for the last change of duty status” (49 CFR 395.8(f)(1)) (Attachment M). For example, if a driver begins the day working in an activity other than driving a CMV (e.g., loading or unloading a CMV), the appropriate entry is “on-duty/not driving.”  If the driver operates a CMV later that day, the appropriate entry for that activity is “on-duty/driving.” Each change of duty status must be recorded when it occurs, and the driver must retain for the motor carrier any supporting documents generated during the duty tour. In the ELD rule, the agency amended the HOS rules to clarify the requirements for HOS supporting documents.  
+
+The FMCSA believes that the value of this RODS information to State and FMCSA enforcement personnel is substantially enhanced when it must be entered by the driver at the time of the change of duty status. This practice increases the likelihood that the RODS will not be altered to fraudulently gain driving time or on-duty time. If the information were collected less frequently, the task of identifying violations of the HOS rules, especially during roadside inspections, would be considerably more difficult. In addition, safety would be compromised.
+
+Special circumstances:
+
+There are no special circumstances related to this information collection.
+
+Compliance with 5 CFR 1320.8:
+
+On June 13, 2025, FMCSA published notice in the Federal Register (90 FR 25115) with a 60-day public comment period announcing the proposed renewal of this ICR. The Agency one comment. Ross Tennison wrote, “The comments and recommendations for any regulation that has to do with truck drivers should not include those not employed as truck drivers or operating a business as a trucking or logistics companies.” Mr. Tennison’s comment does not address any aspect of this information collection.
+
+Payments or gifts to respondents:
+
+There is no payment or gift to respondents associated with this collection.
+
+Assurance of confidentiality:
+
+Personally Identifiable Information (PII) will be protected to the extent allowed by the Freedom of Information Act, 5 U.S.C. 552, as amended (Attachment N) and the Privacy Act of 1974 (Attachment O).
+
+Justification for collection of sensitive information:
+
+The HOS rules require motor carriers to obtain driver identification data that includes the driver’s name as it appears on the driver’s license, license number, and the issuing State or jurisdiction (49 CFR 395.22(c)) (Attachment P). Drivers are required to provide this information to the motor carrier (49 CFR 395.24(a)) so that the motor carrier can establish the driver’s secure account and log-in credentials to authenticate individuals accessing their account. When drivers certify their RODS, data elements are automatically recorded by the ELDs, including the driver’s or authenticated user’s identification data (49 CFR 395.26(b) and (f)) (Attachment Q).
+ 
+In the event of an ELD malfunction, the driver must prepare a paper RODS. This requires the driver, at the end of their duty day, to verify the accuracy of the RODS by placing their signature on the RODS (49 CFR 395.8(d)). Entry of the driver’s name creates sensitive information but is necessary to identify the driver who completed the RODS. The other information collected under this ICR -- “supporting documents” (e.g., fuel and toll receipts) -- do not contain PII.  
+
+As explained in Item 2 above, law enforcement officials at roadside employ the CMV driver’s RODS as the primary tool for determining if the driver is complying with the HOS rules. In addition, State and FMCSA investigators use the RODS and supporting documents of a driver and motor carrier as the primary tool for assessing compliance with the HOS rules.  
+
+Violations of the HOS rules subject drivers and motor carriers to penalties prescribed by law. To enforce these violations, whether at roadside or by other legal action, the agency must be able to identify the driver.
+
+Estimate of burden hours for information requested:
+
+The HOS rules require most CMV drivers to record their duty status and to have the RODS and supporting documents on-board the CMV. Drivers required to use ELDs are permitted to manually record their duty status in the event of an ELD malfunctions (49 CFR 395.34) (Attachment R). The agency does not have data on the frequency or duration of ELD malfunction rates that is necessary to estimate burden hours that drivers may incur to prepare paper RODS because of an ELD malfunction. Short-haul drivers are permitted to employ timecards in lieu of the RODS and are not required to maintain supporting documents. The agency does not report an ICR burden for the timecard information because the DOL already accounts for the burden associated with collection and retention of that information (See Item 4).
+ 
+Effect of ELD Technology on HOS Burden Hours 
+
+The Agency estimates a three-year average paperwork burden based on a three-year average of the estimated driver population operating ELD-equipped CMVs from 2022 through 2024.
+
+Population of CMV Drivers Subject to HOS ICR Requirements
+
+FMCSA projected the driver population subject to the ELD requirements of the HOS regulations based on a query of Motor Carrier Management Information System (MCMIS) on January 2, 2025. On that date, the annual average total driver population for calendar years, 2022, 2023 and 2024 was estimated at 9.12 million and the number of drivers with short-haul exceptions was estimated at 4.76 million. Short-haul drivers are excluded from the estimate of burden hours, to avoid duplication of burden hours for short-haul drivers that maintain timecards pursuant to Department of Labor regulations. Thus, the population of drivers subject to the ELD requirements of the HOS regulations in 2023 was 4.36 million interstate drivers (9.12 million – 4.76 million = 4.36 million). To estimate year 1 (2025), year 2 (2026), and year 3 (2027) driver population FMCSA applied a 0.576 percent annual growth rate. 
+
+The percent growth rate was derived from the Bureau of Labor Statistics (BLS) occupation-specific growth rates between 2023 through 2033. A weighted average growth rate was estimated from BLS employment projections for the following standard occupational classifications (SOC):
+
+BLS SOC 53-3052 (Bus drivers, transit and intercity)
+BLS SOC 53-3050 (Passenger vehicle drivers)
+BLS SOC 53-3032 (Heavy and tractor-trailer truck drivers)
+BLS SOC 53-3033 (Light truck or delivery service drivers)
+
+The projected net growth in total employment for BLS SOC 53-3052 (Bus drivers, transit and intercity) from 2023 to 2033 is 5.2 percent, which equates to a 0.504 percent annual compound growth rate. The projected net growth in total employment for BLS SOC 53-3050 (Passenger vehicle drivers) from 2023 to 2033 is 5.8 percent, which equates to a 0.566 percent annual compound growth rate. The projected net growth in total employment for BLS SOC 53-3032 (Heavy and tractor-trailer truck drivers) from 2023 through 2033 is 4.6 percent, which equates to a 0.452 percent annual compound growth rate. The projected net growth in total employment for BLS SOC 53-3033 (Light truck or delivery service drivers) is 8.8 percent, which equates to a 0.848 percent annual compound growth rate. FMCSA then computes weighted average annual compound growth rate of 0.576 percent using the BLS 2023 through 2033 estimates of employment for these four occupational categories.
+
+Table 1. Growth Rate Calculation by SOC Occupation
+SOC Occupational Title /Code   | Total Employment (Year 202 3 ) (thousands) | Total Employment (Year 203 3 ) (thousands) | Employment Change  (202 3 -20 33 )  ( thousands ) | Employment Change  (202 3 - 20 33 )  (Percent) | 202 3  Employment as % of Total for Truck and Bus Occupation Codes | Compound Annual Growth Rate in Employment (202 3 -203 3 ) [MC-PRE]
+ | A | B | C = B - A | D = C   /A | E = An / ƩA | F =  [ (A/D) ^   (1/10) ]- 1
+Bus drivers, transit and intercity / 53-30 52 | 194.1 | 204.1 | 10.00 | 5.2% | 4.36% | 0.504%
+Passenger vehicle drivers  / 53-305 0 | 952.70 | 1,008.00 | 55.30 | 5.8% | 21.41% | 0.566%
+Heavy and tractor-trailer truck drivers / 53-3032 | 2,211.30 | 2,313.40 | 102.10 | 4.6% | 49.68% | 0.452%
+Light truck or delivery services drivers / 53-3033 | 1,093 | 1,189 | 96.30 | 8.8% | 24.55% | 0.848%
+
+Using the estimates produced in Table 1, the weighted average growth rate for all ELD drivers is 0.576% ((194.1 × 0.504) + (952.70 × 0.566) + (2,211.30 × 0.452) + (1,093 × 0.848) / (194.1 + 952.70 + 2,211.30 + 1,093) = 0.576%)
+
+As shown in Table 2, the weighted average annual compound growth rate is applied to the 2024, 2025, 2026 and 2027 total driver projection and short-haul exemptions to estimate the annual average estimates projected for 2025 through 2027. This results in an annual average driver population of 4.45 million drivers operating ELD equipped CMVs. The Agency assumes that new drivers make up an estimated 1 percent of the annual average 4.45 million drivers operating ELD equipped CMVs. 
+  Table 2. Estimate of Driver Population Operating ELD- Equipped CMVs
+Year | Total Population Projected at a  0.576 % Annual Growth Rate (millions) | Drivers Exempt from Operating ELD-Equipped Vehicles Projected at a  0.576 % Annual Growth Rate (millions) | Drivers Operating ELD-Equipped Vehicles (millions) | New Drivers ( millions )
+ | A = A (-1) × (1+ 0.576 %) | B = B (-1) × (1+  0.576 %) | C = A - B | D = C -  C( -1)
+2023 | 9.12 | 4.73 | 4.39 |  
+2024 | 9.17 | 4.76 | 4.41 |  
+Year 1 (2025) | 9.22 | 4.79 | 4.43 |                            0.020  
+Year 2 (2026) | 9.27 | 4.82 | 4.45 |                            0.020  
+Year 3 (2027) | 9.32 | 4.85 | 4.47 |                            0.020  
+Three Year Average (2025– 2027)* | 9.27 | 4.82 | 4.45 |                            0.020  
+*Average based on years 2025 to 2027. Years 2022 and 2023 are included for growth rate illustration. | 
+
+Table 3 summarizes the calculations of drivers’ three-year annual average burden hours for drivers to file electronic RODS. The agency assumes it takes drivers 2 minutes to enter the applicable duty status term or code number, manual inputs identifying the CMV, and miscellaneous data. As a result, the estimates of annual total minutes per day drivers spend on this task are 8.86 million minutes in Year 1, 8.90 million minutes in Year 2 and 8.94 million minutes in Year 3. The three-year annual average is 8.90 million minutes. Based on a 240-day work year, drivers are estimated to spend on average 2,136 million minutes or 35.60 million hours, performing this task.
+Table 3. Driver Task 1 Burden Hours for Filling Out Electronic RODS
+Year | Total  Daily Number of RODS  completed (millions) | Minutes  to Complete   RODS Task | Total  Daily Minutes on Task  (millions) | Number of  Working Days Per Year | Total  Minutes on Task per Year  ( mi llions) | Total  Hours on Task  per Year (millions)
+ | A = Table  4  Col. C | B | C = A x B | D | E = C x D | F = E/60
+Year 1 | 4.43 | 2 | 8.86 | 240 | 2,126.40 | 35.44
+Year 2 | 4.45 | 2 | 8.90 | 240 | 2,136.00 | 35.60
+Year 3 | 4.47 | 2 | 8.94 | 240 | 2,145.60 | 35.76
+Annual Average | 4.45 | 2 | 8.90 | 240 | 2,136.00 | 35.60
+ Note:  Annual and average values may not match due to rounding.
+
+Table 4 summarizes the calculations of three-year average annual burden hours for motor carriers to review RODS. It is common practice for motor carriers to systematically review a portion of the RODS of their drivers for consistency with the corresponding supporting documents. Based upon its experience conducting investigative reviews of motor carriers, the FMCSA estimates that motor carriers review approximately 50 percent of their drivers’ RODS. The agency assumes it takes motor carriers two minutes to evaluate the accuracy of a RODS when compared with accompanying supporting documents. As a result, the estimates of annual total minutes per day motor carriers spend on reviewing driver RODs are 4.44 million minutes in Year 1, 4.46 million minutes in Year 2 and 4.48 million minutes in Year 3. The three-year average is 4.46 million minutes. Based on a 240-day work year, motor carriers are estimated to spend on average 1,070 million minutes, which is the equivalent of 17.84 million hours per year performing this task. 
+The cost to motor carriers to equip vehicles with ELDs includes a monthly services charge paid to ELD vendors for data management services. These costs are estimates and accounted for in Item 13.
+Table 4.  Motor Carrier Burden Hours to Review RODS
+Year | D aily   Number of RODS  (millions) | Daily   Number of RODS Reviewed  (millions) | Minutes Per RODS on Task | Daily   Minutes on Task (millions) | Working Days Per Year | Minutes on Task per Year  ( millions ) | Hours on Task Per Year (million s )
+ | A = Table  4  Col. C | B = A × 0.5 | C | D = B × C | E | F = D x E | G = F/60
+Year 1 | 4.43 | 2.22 | 2 | 4.44 | 240 |     1,065.60  | 17.76
+Year 2 | 4.45 | 2.23 | 2 | 4.46 | 240 |     1,070.40  | 17.84
+Year 3 | 4.47 | 2.24 | 2 | 4.48 | 240 |     1,075.20  | 17.92
+Average | 4.45 | 2.23 | 2 | 4.46 | 240 |   1,070.40  | 17.84
+ Note:  Annual and average values my not match due to rounding.
+Monetized value of drivers’ burden hours
+The three-year average of the monetized value of drivers’ time to complete daily electronic RODS is estimated as the product of the three-year average of driver burden hours and the weighted average of median hourly wages for four BLS commercial driver occupations. The estimated weighted median hourly wage is $25.85. To develop a loaded rate, which includes employer paid benefits and overhead, FMCSA takes the cost of total compensation per hour ($34.72) and divides by the cost of only wages and salary per hour ($24.46) in the Transportation and Material Moving Employer Costs for Employee Compensation (ECEC) data release. This results in a load rate of 1.419. The loaded hourly rate for this analysis is $36.68 ($25.85 x 1.419).  Table 5 summarizes these calculations.
+Table 5. Driver Loaded Hourly Wage
+Occupational Title (BLS Code Number) | Total Drivers |  % of Total Drivers |  Median Hourly Base Wage | Weighted Average Hourly Wage | Load Rate | Loaded Weighted Average Hourly Wage
+  | A | B= A n   /   Ʃ A | C  | D = B x C | E | F
+Heavy and Tractor Trailer drivers (53-3032) | 2,044,400 | 58.58% | $26.12  | $15.30  | 1.419 | $21.71 
+Light truck and delivery Service Drivers (53-3033) | 1,003,960 | 28.77% | $20.42  | $5.87  | 1.419 | $8.33 
+Passenger Vehicle Drivers (53-3050) | 594,230 | 17.03% | $18.52  | $3.15  | 1.419 | $4.47 
+Bus drivers, transit and intercity (53-3052) | 184,990 | 5.30% | $28.93  | $1.53  | 1.419 | $2.17 
+Total / Annual  Averages /Weighted Annual Average/Loaded Weighted Annual Average | 3,490,010 | - | $23.50  | $25.85  | - | $36.68 
+Note:  Annual and average values may not match due to rounding.
+
+Table 6 shows the average annual burden hours and cost incurred by drivers to complete their electronic RODS. Based on a loaded $36.68 wage rate and the average annual burden of 35.60 million hours, the cost for drivers to complete electronic RODS is estimated at $1,305.81 million ($1,305.81 million = 35.60 million hours x $36.68 per hour, rounded to the nearest ten thousand).  
+
+Table 6. Total Driver Burden Hours and Cost
+ | Burden Hours (millions) A= Table  5   Column  G | Total Cost ($  m illions ) B   = A ×  $ 36.68
+Year 1 | 35.44 | $1,299.94 
+Year 2 | 35.60 | $1,305.81 
+Year 3 | 35.76 | $1,311.68 
+Annual Average | 35.60 | $1,305.81 
+Monetized value of motor carriers’ burden hours
+The average annual burden hours incurred by motor carriers to review 50 percent of all RODS is estimated at 17.84 million hours. These burden hours are monetized using the BLS OES median wage for Bookkeeping Accounting and Auditing Clerk (SOC 43-3031) of $22.81 per hour. Using the 1.419 load rate developed using the Transportation and Material Moving Employer Costs for Employee Compensation (ECEC) data, the loaded rate for a Booking Accounting and Auditing Clerk is $32.37). Thus, the monetized value of motor carriers’ burden hours is estimated at $577.48 million, as shown in Table 7 ($577.48 million = 17.84 million hours × $32.37 per hour, rounded to the nearest ten thousand).  
+Table 7. Motor Carrier Total Burden Hours and Cost
+    Year | Burden Hours (million) | Total Cost ($ million)
+ | A  =  Table  6   Col. G | B = A  ×  $ 32.37
+Year 1 | 17.76 | $574.89
+Year 2 | 17.84 | $577.48
+Year 3 | 17.92 | $580.07
+Annual Average | 17.84 | $577.48
+
+Summary Burden Hour Statistics
+
+IC-1 Summary
+Respondents: 4.45 million annual drivers of CMVs.
+Estimated Number of Responses: 1,068 million annual responses by CMV drivers (4.45 million respondents × 240 records per day = 1,068 million responses).
+Frequency of Response for Drivers: 240 days per year.
+Estimated Time per Response:  CMV drivers take 2 minutes per RODS. 
+Driver Burden Hours: 35.60 million hours (4.45 million RODS × 2 mins × 240 days = 35.60 million hours)
+Driver Total Burden Costs: $1,305.81 million (35.60 million hours × $36.68 = 1,305.81 million)
+IC-2 Summary
+Respondents:  813,844 Motor Carriers of Property and Passengers.
+Frequency of Response for Carriers: 240 days per year.
+Estimated Time per Response:  Motor Carriers review 50 percent of RODS. Each Motor Carrier takes 2 minutes to review a CMV driver’s ROD. 
+Motor Carrier Burden Hours: 17.80 million hours (35.60 million hours × 50% = million hours)
+Motor Carrier Total Burden Costs:  $576.19 million (17.80 million hours × $32.37 = $576.19)
+IC-1 + IC-2 Summary
+Estimated Total Annual Burden: 53.40 million hours (35.60 million hours + 17.80 million hours = 53.40 million hours).
+Estimated Total Burden Costs:  $1,882 million = ($1,305.81 million + $576.19 million = $1,882 million).
+
+Estimate of total annual costs to respondents:
+Motor Carrier Recordkeeping Costs
+The ELD rule requires motor carriers to provide drivers with paper logbooks with graph grids to allow drivers to prepare paper RODS for a minimum of 8 days if an ELD malfunctions (49 CFR 395.22(h)(4) (Attachment T)). The agency does not have data on the frequency or duration of ELD malfunctions to estimate the number of days that driver must rely on backup paper logbooks to report their daily RODS. The agency does, however, estimate the cost to motor carriers for supplying drivers with backup logbooks. For this ICR, the agency assumes each driver uses one backup logbook per year to cover an eight-day ELD malfunction. Therefore, the expected population of drivers provided with one backup logbook per year for years 1, 2 and 3, would give the driver two backup logbooks on hand. New drivers are expected to receive two logbooks per year. The agency assumes that each paper logbook has an average per unit cost of $5.24. The agency believes this to be a cautious and conservative estimate because motor carriers are not required to buy logbooks, but can create their own logbooks using a template log sheet and a copy machine. Based on the expected average of 4.45 million annual drivers operating ELD equipped CMVs, motor carriers are estimated to spend an average of $23.53 million on backup logbooks (($23.53 million = (4.45 million drivers × 1 backup logbook) + (0.02 million new drivers × 2) × $5.24 cost per log book, rounded to the nearest ten thousand)). This calculation is summarized in Table 8 below.
+
+Table 8. Recordkeeping Costs of Logbooks
+Year | Number of Drivers (millions) | Number of New Drivers  (millions) B = From Table 4 Column D | Number of Backup Logbooks Provided to Established Drivers (millions) | Number of Backup Logbooks Provided to New Drivers (millions) | Total Number of Backup Logbooks Provided | Total Cost for Logbooks (millions)
+ | A |  | C = A  ×  1 | D= B  ×  2 | E = C + D | F = E × $ 5.24
+Year 1 | 4.43 |                                     0.020  | 4.43 |               0.040  | 4.47 | 23.42
+Year 2 | 4.45 |                                     0.020  | 4.45 |               0.040  | 4.49 | 23.53
+Year 3 | 4.47 |                                     0.020  | 4.47 |               0.040  | 4.51 | 23.63
+Average | 4.45 | 0.020 | 4.45 | 0.040 | 4.49 | 23.53
+Note:  Annual and average values may not match due to rounding.
+
+Cost to Install and Operate ELDs
+
+ELD costs consist of the purchase price, installation cost, and monthly service charges paid to ELD vendors for data management services. The agency obtained ELD price points and monthly service charges posted on vendor websites. ELD prices ranged from $99 to $955, with a median value of $350 per unit. The agency used the median price point, plus $150 installation cost to estimate the installed cost incurred by motor carriers. Monthly service charges for data management services ranged from $18 to $55 with a median cost of $30 per month.  ELD installation costs are estimated based on the average annual growth of the new driver population, as opposed to the total driver population because full compliance was set on December 16, 2019. Thus, only the new driver population is expected to include the cost of the ELD device and ELD installation costs. As for the annual service charges, the total driver population is expected to pay their monthly maintenance and data storage costs required of ELDs. As shown in Table 9, the annual average cost for new ELD devices is $7 million with an additional $3 million in installation costs. Annual average service charges are estimated at $1,602 million for a total annual average cost at $1,612 million. 
+
+The total annual non-wage related costs to respondents: ($23.53 million + $1,612) = $1,620,600,000.  This is the cost to motor carriers for backup logbooks, estimated at $23.53 million (see table 8), plus the cost to motor carriers to install and operate ELDS, estimated at $1,612 million (see table 9).
+
+Table 9. Annual ELD Costs
+Year | Total Driver Population  | New Driver Population (millions)   | New ELD Costs           ( $ millions) | New Installation Costs                               ( $ millions) | Annual Service Charges   ($  m illions )   | Total Non-Labor Annual Cost s   ($   m illions )
+ | A | B | C = B × $ 350 | D = B × $150 | E = A × $31 × 12 months  | F = C + D + E
+Year 1 | 4.43 | 0.020 | $7.00 | $3.00  |  $                   1,594.80  | $1,604.80 
+Year 2 | 4.45 | 0.020 | $7.00  | $3.00  |  $                   1,602.00  | $1,612.00 
+Year 3 | 4.47 | 0.020 | $7.00  | $3.00  |  $                   1,609.20  | $1,619.20 
+Annual Average | 4.45 | 0.020 | $ 7.00 | $3.00  |  $                   1,602.00  | $1,612.00  
+Note:  Annual and average values may not match due to rounding
+
+Estimate of annual cost to the Federal government:
+
+Information recorded and collected by drivers and motor carriers pursuant to Federal and State HOS requirements is not submitted to the FMCSA. Government personnel responsible for inspecting RODS do so within their normal position duties. Thus, the Federal government does not incur labor, contractor, data collection, transmission or storage costs.
+
+Motor carriers and drivers subject to the ELD rule are required to use an ELD listed on the Agency’s web site. This ICR does not include burden hours incurred by motor carriers or drivers to obtain an ELD from a qualified vendor listed on the web site to avoid double counting. The reporting and recordkeeping requirement is accounted for in the ICR titled “Electronic Logging Device Vendor Registration” covered by OMB Control Number 2126-0062, that was approved on December 23, 2015.
+
+Explanation of program changes or adjustments:
+
+Table 10 summarizes the adjustment to burden hours for program changes and adjustments made in this ICR relative to the currently approved ICR. 
+
+Table 10 Program Adjustments
+ | Previous   ICR | This ICR
+CMV Drivers Subject to HOS Recordkeeping Requirements | Year 1: 4.20 million Year 2: 4.24 million Year 3: 4.28 million Average:  4.24 million | Year 1:  4. 43  million Year 2:  4. 45  million Year 3:  4. 47   million Average:   4. 45  million
+Motor Carriers Review 50% of RODS  | Three-year average burden hours estimated at  16.79  million hours. | Three-year average burden hours estimated at  17.80  million hours. The  upward  revision is the result of  a revised estimate of the driver population shown above.
+Monetized Driver and Motor Carrier Burden Hours | Driver burden hours monetized at a loaded rate of $29.78 per hour. Motor carrier burden hours are monetized at $30.20 per hour. | Driver burden hours monetized at  a loaded rate of  $ 36.68  per hour. Motor carrier burden hours are monetized at $ 32.37  per hour . The  upward  revision in costs is due to updating the load rate .  
+
+In this ICR, the total average burden hours increased from 50.37 million to 53.40 million hours, an increase of 3.03 million burden hours. 
+
+For this ICR, IC1-1, driver burden hours are estimated at 35.60 million which reflected the ELD mandate is in effect for the entire three-year information collection period and is applicable to those drivers that are not subject to the short-haul exemption or are not required to operate ELD-equipped vehicles if they are engaged in the activities listed in 49 CFR 395.8(a)(1)(iii)(A)(1-4). The previous ICR reported 1C-1 at 33.58 million burden hours. This results in a 2.02 million increase (6%) in burden hours. This increase is due to the increase in driver population as well as the increase in expected industry growth rate for drivers from 2023 through 2033.  
+
+For this ICR, IC-2, burden hours are 17.80 million and reflects that the ELD mandate is applicable to all three years of the information collection period. For the previous ICR, IC-2, was estimated 16.79 million burden hours which represents an increase of 1.01 million (6%). This increase is also due to the increase in driver population as well as the increase in expected industry growth rate for motor carriers from 2023 through 2033.  
+
+For this ICR, the agency monetizes IC-1 driver burden cost at $1,305.81 million, which is an increase of $305.80 million (31%) from the previous ICR, IC-1, $1,000.10 million estimate. This change is due to adjusting the load rate methodology to be consistent with other FMCSA ICRs load rates.  For this ICR the load rate methodology factors in less fringe benefits and overhead than the previous methodology, which results in a marginal increase in cost for this ICR.
+
+For this ICR, the agency monetizes IC-2, Motor Carrier burden cost at $576.19 million, which is an increase of $374.93 million (14%) from the previous estimate of $507.06 million for a motor carrier administrative employee. This change is also the result of adjusting the load rate methodology to be consistent with other FMCSA ICRs load rates.
+
+The agency estimates that for this ICR motor carriers will incur an average $23.53 million per year cost to supply drivers with backup logbooks required by the HOS rules. This is a $5.47 million (30%) increase from the previous estimate of $23.53 million. This increase is due to the increase in costs of logbooks.  
+
+Lastly, this ICR updated the installation costs and data management fees for devices and services based on a review of prices quoted on vendors’ web sites. This analysis reflects ELD vendor price quotes. This ICR estimates the average annual cost at $1,612 million. The previous ICR estimates the average annual cost at $1,602.64 million, this reflects an increase in $9.36 million or 1 percent. This difference reflects only new driver ELD costs and installation costs, plus all driver monthly maintenance data fees. This increase is also due to the increase in driver population as well as the increase in expected industry growth rate for motor carriers from 2023 through 2033.   
+
+ Publication of results of data collection:
+
+There are no plans to publish this collection of information.
+
+Approval for not displaying the expiration date for OMB approval:
+
+The FMCSA is not seeking this approval.
+
+Exceptions to certification statement:
+
+The FMCSA is claiming no exception to any element of the certification statement. 
+
+Attachments:
+
+A.  49 U.S.C. 5103, General regulatory authority.
+B.  49 CFR 390.3, General applicability.
+C.  49 CFR 395.24, Driver responsibilities- In general.
+D.  49 CFR 395.8(k)(1), Retention of driver’s record of duty status and supporting documents.
+E.  49 CFR 395.11, Supporting documents.
+F.  49 CFR 395.8(e), Drivers record of duty status.
+G.  49 CFR 395.1, Scope of rules in this part.
+H.  49 U.S.C. 31136, United States Government regulations.
+I.  49 U.S.C. 31502, Requirements for qualifications, hours of service, safety, and equipment standards.
+J.  49 CFR 392.3, Ill or fatigued operator.
+K.  49 CFR 350.201, What conditions must a State meet to qualify for MCSAP funds?
+L.  29 CFR 516.2, Employees subject to minimum wage or minimum wage and overtime provisions pursuant to section 6 or sections 6 and 7(a) of the Act.
+M.  49 CFR 395.8(f)(1), Drivers record of duty status.
+N.  49 U.S.C. 552, Public Information; agency rules, opinion, orders, records, and proceedings.
+O.  49 U.S.C. 552.a, Codification of the Privacy Act of 1974.
+P.  49 CFR 395.22, Motor carrier responsibilities- In general.
+Q.  49 CFR 395.26, ELD data automatically recorded.
+R.  49 CFR 395.34, ELD malfunctions and data diagnostic events.
+S.  5 CFR 1320.3(b), Definitions, burden.
+T.  49 CFR 395.22(h)(4), Supply of blank paper RODSs. 
+PART word/footnotes.xml
+
+
+
+ 29 CFR part 512.
+ Appendix A to subpart B of part 395-Functional Specifications for all Electronic Logging Devices (ELDs), Section 4.8.1.3. Information to be Shown on the Printout and Display at Roadside.
+ The agency is aware that some ELDs automatically capture driver’s duty status. Therefore, the response time for some drivers to input their duty status may be less than 2 minutes.
+ 29 CFR part 512.
+ United States Department of Labor, BLS. Employment Projections Program. Table 1.2: Employment by detailed occupation, 2023 and projected 2033. Available at: https://www.bls.gov/emp/tables/emp-by-detailed-occupation.htm . (accessed). See occupation code 53-0000 “Transportation and material moving occupations.”
+ Note the previous iteration of this ICR listed the BLS SOC 53-3058 Passenger vehicle drivers, except bus drivers’ transit and intercity. For this iteration FMCSA replaces SOC 53-3058 with the SOC 53-3050 Passenger vehicle drivers. This change aligns with BLS SOC changes.
+ The number of drivers that have short-haul exemptions is difficult to quantify because drivers can shift from being exempt to non-exempt depending on the length of the route driven on any given day. Thus, the driver population projections used in this analysis assumes that the relative share of drivers with short-haul exemptions on, January 2, 2025, is held constant for purposes of projecting the population of drivers that are subject to the ELD mandate for the three-year period covered by this ICR. 
+ Drivers are required to record four categories of duty status using text (e.g., off duty), abbreviations or code numbers listed in 49 CFR 395.24(b)(1) through (4). 
+ Bureau of Labor Statistics (BLS), Occupational Employment Statistics (OES), May 202X Occupational Profiles, https://www.bls.gov/oes/current/oes_nat.htm (accessed). Four median wage and salary rates used for the BLS SOCs are: SOC 53-3021 (Bus drivers, transit and intercity); BLS SOC 53-3058 (Passenger vehicle drivers, except bus drivers, transit and intercity); BLS SOC 53-3032 (Heavy and tractor-trailer truck drivers); BLS SOC 53-3033 (Light truck or delivery service drivers). Weighed based on total number of people employed in SOC occupation.
+ Previous ICR iteration used a different methodology to develop a load rate. For this iteration FMCSA uses this load rate methodology to be consistent with other FMCSA ICRs load rates.
+ Bureau of Labor Statistics (BLS), Employer Costs for Employee Compensation (ECEC), Table 4. Employer Costs for Employee Compensation for private industry workers by occupational and industry group,
+https://www.bls.gov/news.release/pdf/ecec.pdf (accessed).
+
+ FMCSA’s “2023 Pocket Guide to Large Truck and Bus Statistics” reports there are Motor Carriers of Property and Passengers.
+ Note table 7, states 17.84million burden hours. Difference is due to rounding. Both figures are correct.
+ Note table 7, states $577.48 million dollars. Difference is due to rounding. Both figures are correct.
+ J.J. Keller sells backup logbooks that contains 10 RODS sheets. The unit price ranges with the quantity of purchases from $ (1 to 99 units) to $ (200 to 299 units). The midpoint price is $ (100 to 199 units).  The Missouri Trucking Association sells the J.J. Keller backup logbook for $ 5.24. This price quote is available from the following web site:  www.jjkeller.com/shop/Product/ELD-Backup-Log-Book-with-Detailed-DVIR-2-Ply-with-Recap-Stock#Pricing, (accessed May 6, 2025).
+ Vendor websites include, FreightWave ELD (accessed 5/9/25). 
+ See Federal Motor Carrier Safety Administration, “Attitudes of Truck Drivers and Carriers on the Use of Electronic Logging Devices and Driver Harassment,” page 65, Table 57, November 2014, https://rosap.ntl.bts.gov/view/dot/192 (accessed).
+ Some vendors only sell ELD applications with monthly service charges for data services.  These are “bring your own device” services that require either a smart phone or tablet. Given that smart phone and tablet prices are comparable to ELD prices, ELD costs were estimated using the price points for the vendors selling the ELD and providing data services.  

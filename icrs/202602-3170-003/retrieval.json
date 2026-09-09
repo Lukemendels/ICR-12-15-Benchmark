@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202602-3170-003",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202602-3170-003"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202602-3170-003",
+  "agency": "CFPB",
+  "title": "Home Mortgage Disclosure Act (Regulation C)",
+  "omb_control_number": "3170-0008",
+  "submission_date": "02/27/2026",
+  "record_source_id": "SRC-0051",
+  "supporting_statement_source_ids": [
+    "SRC-0052"
+  ]
 }
