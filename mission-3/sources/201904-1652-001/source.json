@@ -1,0 +1,32 @@
+{
+  "ref": "201904-1652-001",
+  "retrieved_at": "2026-09-09T17:30:07.157691+00:00",
+  "documents": [
+    {
+      "id": "e8c5ffef45daee35",
+      "title": "1652-0032 TSOMedQaire SS 5.22.2019.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=90840701",
+      "path": "mission-3/sources/201904-1652-001/e8c5ffef45daee35.txt",
+      "sha256_raw": "78f1e0d9883b94e1daa09850bdd32dffbb57a4a5415eea491d20bc6e89884769",
+      "sha256_text": "18a66c54d848808d83d4832fd623f1ab5ba59405dc3809f4a36fb6c1cd830b77",
+      "format": ".docx",
+      "chars": 16096,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=201904-1652-001",
+    "path": "mission-3/sources/201904-1652-001/record.txt",
+    "sha256_raw": "6bae18ff13cc7f61381cf128abab731f83d1597e7dd7fc92a08d07690ca84fe3",
+    "sha256_text": "26fc767a85f8d031c659f9c0942f5300cef81f004ff64c6d59d677fe65587a1d"
+  },
+  "previous_ref": "201603-1652-002",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201904-1652-001",
+    "path": "mission-3/sources/201904-1652-001/document_index.txt",
+    "sha256_raw": "84551865adb3d6e21c5f8e0a4a5346121682dc315359864face56f43615f320d",
+    "sha256_text": "4e8e5aaf93041bcb906d85da3690651e60892132a423cc0c0775f89dabbd52eb"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ref": "202106-1652-001",
+  "retrieved_at": "2026-09-09T17:31:20.297927+00:00",
+  "documents": [
+    {
+      "id": "9536b18c799a9149",
+      "title": "1652-0064 SPP SS 6.21.2021.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=112555601",
+      "path": "mission-3/sources/202106-1652-001/9536b18c799a9149.txt",
+      "sha256_raw": "568447f0c71b832616ccd50108d4a59fb741de20cde184340550a81368061d8f",
+      "sha256_text": "933c268c8c44a0eb9937f90312ff023819626d0b8367c6d47de3f9b102e947de",
+      "format": ".docx",
+      "chars": 12739,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202106-1652-001",
+    "path": "mission-3/sources/202106-1652-001/record.txt",
+    "sha256_raw": "ec5e4893c134aaf7165c0889db63b526f74309d60f2ccbf8c7519a7bd11de0e1",
+    "sha256_text": "ba72fc25fd0a1992898922247fafcbb0a052f52a84e4ed1b1f67b5a0245de502"
+  },
+  "previous_ref": "201803-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202106-1652-001",
+    "path": "mission-3/sources/202106-1652-001/document_index.txt",
+    "sha256_raw": "c1c98c57a89bab608c50b26dd34207d2e8c83d5b0571ce8ea1e91e206efeef06",
+    "sha256_text": "6fd0a71773e3f9994fbca1bd61f519c61ad04d3c30e069d7c9303c613fb071bb"
+  }
+}

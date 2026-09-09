@@ -1,0 +1,32 @@
+{
+  "ref": "202107-1652-001",
+  "retrieved_at": "2026-09-09T17:31:21.326701+00:00",
+  "documents": [
+    {
+      "id": "8ddca5bacc36bcea",
+      "title": "1652-0030 TSA_CustCmtCard SS 7.20.2021.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=113026901",
+      "path": "mission-3/sources/202107-1652-001/8ddca5bacc36bcea.txt",
+      "sha256_raw": "435ff5fe9f90d2e550cfc316564a53cc7354352feb52c7affaf69e0becdf5c1b",
+      "sha256_text": "b41c0d8a8a5ae47dec231c016e9f828f4f2bc7d24653a3511dfe475131a331a1",
+      "format": ".docx",
+      "chars": 23280,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202107-1652-001",
+    "path": "mission-3/sources/202107-1652-001/record.txt",
+    "sha256_raw": "ae03cae52f23147a9587123fcc56be8ec0303875c205003e13257e5f0660e9a6",
+    "sha256_text": "c5081f0b06437093c87084bb2491e6f63a6f4b2565601d4e5deea65007d47b78"
+  },
+  "previous_ref": "201712-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202107-1652-001",
+    "path": "mission-3/sources/202107-1652-001/document_index.txt",
+    "sha256_raw": "4c5b2d9c0a076aec5c7e46a96ab2acb18964c7631f74834fbf0e9a0754dc630b",
+    "sha256_text": "1e61552d265a6d8340fa5169f5e78baaa89cdaeafd65735bce6aa5ede5c5fa13"
+  }
+}

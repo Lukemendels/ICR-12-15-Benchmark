@@ -1,0 +1,32 @@
+{
+  "ref": "201904-1652-002",
+  "retrieved_at": "2026-09-09T17:30:07.159445+00:00",
+  "documents": [
+    {
+      "id": "eaec56b2195bdc8a",
+      "title": "1652 0003 Aircraft_Op_Sec.-Part 1544 SS 6.17.2019.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=90992901",
+      "path": "mission-3/sources/201904-1652-002/eaec56b2195bdc8a.txt",
+      "sha256_raw": "6e690b08a1eba5ce26379eb12d327dd0167819cce5201947e6e9dbe5376176d6",
+      "sha256_text": "6bc88f74095b0f88f9c13156d8e1c3d1ba55324c330bf43a75b155d7e770fedc",
+      "format": ".docx",
+      "chars": 44255,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=201904-1652-002",
+    "path": "mission-3/sources/201904-1652-002/record.txt",
+    "sha256_raw": "60f81303139f3c2b40ff1110c92752961627d418aaca9c6b7d54060499f09471",
+    "sha256_text": "07aa7d2b7c6b5587cf0be489eb446730fb4d75d2204ad788e5e3ac73219dde3f"
+  },
+  "previous_ref": "201603-1652-004",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201904-1652-002",
+    "path": "mission-3/sources/201904-1652-002/document_index.txt",
+    "sha256_raw": "31a51d5e3d24718ded9a2dc1d93c38e46b1a04b9b9e1eb812ef20ecf53de4dc6",
+    "sha256_text": "cfe98357fa4546f1e64f77b94c941624fa2568340c1ac10a705ca057dcba3ebd"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ref": "201812-1652-003",
+  "retrieved_at": "2026-09-09T17:30:07.117530+00:00",
+  "documents": [
+    {
+      "id": "a8eb8539763b09a2",
+      "title": "1652-0021 FltTrngAliens SS 3.19.2019.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=88178201",
+      "path": "mission-3/sources/201812-1652-003/a8eb8539763b09a2.txt",
+      "sha256_raw": "8c55e8d2dfb66ece0d8086c261a3f14bb331ef487c0d1f21b97ca00d612cb12a",
+      "sha256_text": "11b188bf7090742914a67e4ec948c8b7a98b4f53107e4c34a02f0a33072e64d9",
+      "format": ".docx",
+      "chars": 23977,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=201812-1652-003",
+    "path": "mission-3/sources/201812-1652-003/record.txt",
+    "sha256_raw": "344d175c2ec01f0cefcc502cf7ecd11eaa6e2ff109a0614dbc044985301f71ce",
+    "sha256_text": "4dabe137d1f6746119adc0c0f120eea1dece94e396f877d84008ad747c69c6a9"
+  },
+  "previous_ref": "201506-1652-005",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201812-1652-003",
+    "path": "mission-3/sources/201812-1652-003/document_index.txt",
+    "sha256_raw": "567ef4d2112ab7d92becc6f5fd61f53b19e5f01e9a80d01c32cac0a5e5579424",
+    "sha256_text": "f5ae1e76267120ce0cb3fc9a80c14460681c19256e46d9cd18df722b2508dd8e"
+  }
+}

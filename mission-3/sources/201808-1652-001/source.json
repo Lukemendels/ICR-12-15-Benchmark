@@ -1,0 +1,32 @@
+{
+  "ref": "201808-1652-001",
+  "retrieved_at": "2026-09-09T17:29:43.468775+00:00",
+  "documents": [
+    {
+      "id": "38b4dc7fa4ad01b5",
+      "title": "1652-0027 STA HME SS Pt. A 8.15.2018.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=85499801",
+      "path": "mission-3/sources/201808-1652-001/38b4dc7fa4ad01b5.txt",
+      "sha256_raw": "5eb408ed04b6378066d45f14d13af19bba05a011d84b2c6690c3caf7f97ff65b",
+      "sha256_text": "bc6c2ab4c9d54c2c642bf1289540cde87cf19c641af3efb4d1b001e15ff6e359",
+      "format": ".docx",
+      "chars": 44493,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=201808-1652-001",
+    "path": "mission-3/sources/201808-1652-001/record.txt",
+    "sha256_raw": "a3276b842f2e2d91d08148056ddf01e3f106b3cb006e86b85eb9af433f73197b",
+    "sha256_text": "bbc9468e78db5ffff59548f6a4211688719cb6764350e6871291f0f31093fefd"
+  },
+  "previous_ref": "201701-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201808-1652-001",
+    "path": "mission-3/sources/201808-1652-001/document_index.txt",
+    "sha256_raw": "1e1876c1e23b55a7a58f01c86e7fbf27e801e9ec5b136db9048c8dc2887e1dbd",
+    "sha256_text": "86a3a04b85795232f6192530e77f1f0e80df16b46b7213b1f9102e5cecba1e0c"
+  }
+}

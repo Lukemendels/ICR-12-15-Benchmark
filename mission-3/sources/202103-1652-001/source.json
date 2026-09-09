@@ -1,0 +1,32 @@
+{
+  "ref": "202103-1652-001",
+  "retrieved_at": "2026-09-09T17:30:56.586436+00:00",
+  "documents": [
+    {
+      "id": "d35e4360287a57a4",
+      "title": "1652-0001 911PassFee SS 3.4.2021.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=109753201",
+      "path": "mission-3/sources/202103-1652-001/d35e4360287a57a4.txt",
+      "sha256_raw": "0e3b60db0c31c39ece7c075aab15bb58997d480326ebf3522e1439b548ed382f",
+      "sha256_text": "11715721dc7e6f2cbe07cdbb781f7852d9d96b8a0d436a67bdc6a6f81baae9bf",
+      "format": ".docx",
+      "chars": 15649,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202103-1652-001",
+    "path": "mission-3/sources/202103-1652-001/record.txt",
+    "sha256_raw": "7f437c634a219657ef4fb83110fd82697a76d1137efc7bd663527814b8fdc901",
+    "sha256_text": "afd001d827c6ec58ce5baf1ec6ce4b55e9610deac6dcce688a03196c8f2f5e29"
+  },
+  "previous_ref": "201712-1652-002",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202103-1652-001",
+    "path": "mission-3/sources/202103-1652-001/document_index.txt",
+    "sha256_raw": "8a83d2a77a277ca5ff814e1a032776e6d055056a3fe30572e5c7570b677c3db1",
+    "sha256_text": "82b3b09544cf6a2b60642b4f49eb8e44db6b6b69a7ffba396beec65642575fa1"
+  }
+}

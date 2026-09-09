@@ -1,0 +1,32 @@
+{
+  "ref": "202005-1652-003",
+  "retrieved_at": "2026-09-09T17:30:56.443433+00:00",
+  "documents": [
+    {
+      "id": "b8e7a0feadcac3bb",
+      "title": "1652-0067 TSA CTC AdoptApp SS_7.7.2020.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=101107801",
+      "path": "mission-3/sources/202005-1652-003/b8e7a0feadcac3bb.txt",
+      "sha256_raw": "c005f170da3468b1b10dc59316137bbfbe632b322e2d707d2a354901fa42975b",
+      "sha256_text": "b5eda6aa2dda03147e5840a714d36cea1411355931e468037b347c9f7fa719d0",
+      "format": ".docx",
+      "chars": 16038,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202005-1652-003",
+    "path": "mission-3/sources/202005-1652-003/record.txt",
+    "sha256_raw": "62cfecc65c6d5ce49b695a543647bf3c3650bd717c8a5ceccb6e887ff1dbcf17",
+    "sha256_text": "4b5c177a6e7a0da25bb59257ab45bcc4799b59ce2c02fcd59b146ea433dc732b"
+  },
+  "previous_ref": "201705-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202005-1652-003",
+    "path": "mission-3/sources/202005-1652-003/document_index.txt",
+    "sha256_raw": "b55e5e9f02f0d7dc9a2b4531e8c8a236ac103daec561ad9d757ea2fd2a545633",
+    "sha256_text": "e7507f2b829e25ec6316545524c7e89e80000bfd1db3dd7ac22b94e865d4646f"
+  }
+}

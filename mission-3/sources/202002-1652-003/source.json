@@ -1,0 +1,32 @@
+{
+  "ref": "202002-1652-003",
+  "retrieved_at": "2026-09-09T17:30:56.318222+00:00",
+  "documents": [
+    {
+      "id": "1f544ad46fc1b092",
+      "title": "1652-0066 SecTrngPrgm SS 2.27.2020.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=99128401",
+      "path": "mission-3/sources/202002-1652-003/1f544ad46fc1b092.txt",
+      "sha256_raw": "84c11041c571c26b292af391fee0e936ab5b140cf4fd1b892e60ce6cb8d7c65c",
+      "sha256_text": "af7f334019f4688fcce11bd0dd0ed235aca09ce59010aaa54ee3e90f5117b018",
+      "format": ".docx",
+      "chars": 56850,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202002-1652-003",
+    "path": "mission-3/sources/202002-1652-003/record.txt",
+    "sha256_raw": "5ff418462b3284dca564b172d6067124e46af0bab9c7fa04bc2f7d4da5e3330e",
+    "sha256_text": "e8d293fd4babb382a7de224f9dbed395a6b34361c07175c402a7a04fedd8f2a2"
+  },
+  "previous_ref": "201611-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202002-1652-003",
+    "path": "mission-3/sources/202002-1652-003/document_index.txt",
+    "sha256_raw": "2123f0edd796796fa366986889f36a116a8fff7771e2e77e3867656fd17f4c43",
+    "sha256_text": "370ced8810a6f6baa55c3f3e6efca31aa7b7d95536d0757cc8233022c053389f"
+  }
+}

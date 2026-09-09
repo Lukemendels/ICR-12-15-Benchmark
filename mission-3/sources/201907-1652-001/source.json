@@ -1,0 +1,32 @@
+{
+  "ref": "201907-1652-001",
+  "retrieved_at": "2026-09-09T17:30:32.287126+00:00",
+  "documents": [
+    {
+      "id": "1105e074d6f17549",
+      "title": "1652-NEW TSA_RSSP_Req SS_7.22.2019.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=93482701",
+      "path": "mission-3/sources/201907-1652-001/1105e074d6f17549.txt",
+      "sha256_raw": "4ddd3d2ba586cdefe44eccc19ee7692cec3ca34e252b18f3bac2192b5431913f",
+      "sha256_text": "758eff5c72f32ead2b15753f81f62076b5cea15e3216163a055fcb8933efc386",
+      "format": ".docx",
+      "chars": 13769,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=201907-1652-001",
+    "path": "mission-3/sources/201907-1652-001/record.txt",
+    "sha256_raw": "64f16ba082ed379d501adb5bc6930566c7d3fa20082e50983cc34d0e97328402",
+    "sha256_text": "12df60db51c0bef2ec42822dbb868bc39b35f8b7e77b3b394177b143a21b98e1"
+  },
+  "previous_ref": null,
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201907-1652-001",
+    "path": "mission-3/sources/201907-1652-001/document_index.txt",
+    "sha256_raw": "8f94a34c669f929d8d3b928ebf72a808289fff0b84f0511de473353cd315522f",
+    "sha256_text": "c4e8ee411dcda813e1997ed01d6e9043f01be0c4d4e49577c6917bf69cf66cdf"
+  }
+}

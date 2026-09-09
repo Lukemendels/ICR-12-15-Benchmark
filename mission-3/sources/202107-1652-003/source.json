@@ -1,0 +1,32 @@
+{
+  "ref": "202107-1652-003",
+  "retrieved_at": "2026-09-09T17:31:22.031328+00:00",
+  "documents": [
+    {
+      "id": "52fe7df1f5a7d4eb",
+      "title": "1652-NEW Speaker Request Form SS 7.30.2021.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=113578901",
+      "path": "mission-3/sources/202107-1652-003/52fe7df1f5a7d4eb.txt",
+      "sha256_raw": "248ecfa3a23c1ed2673b3e8899c01bbd3fc9de78c0486b6f901258bf6b848009",
+      "sha256_text": "6ab5e041091b6b5e9a39105302ab5dc6f07cd4fbae3d5e9c16ccc6786e7796f5",
+      "format": ".docx",
+      "chars": 11985,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202107-1652-003",
+    "path": "mission-3/sources/202107-1652-003/record.txt",
+    "sha256_raw": "e5b73ef5a582b9867de20add5a22162ee5aec16c21eb337b158b2d8550726fa9",
+    "sha256_text": "c1debf35972da3b0ed361ef12247d1ae6886805d4d185661e8670710dcf8b894"
+  },
+  "previous_ref": null,
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202107-1652-003",
+    "path": "mission-3/sources/202107-1652-003/document_index.txt",
+    "sha256_raw": "266d969b190d5318256a4b859b45589b557ec7660586b4ecef336b12de8b2fd5",
+    "sha256_text": "2f397885b4dba10f1c6a8328e3df9cc3136808ba35356f7f99bc5d4e133134bc"
+  }
+}

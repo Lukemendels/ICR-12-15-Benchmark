@@ -1,0 +1,32 @@
+{
+  "ref": "201811-1652-003",
+  "retrieved_at": "2026-09-09T17:30:07.039024+00:00",
+  "documents": [
+    {
+      "id": "a981c8e9c59c024e",
+      "title": "1652-0033 TSA AirspWaivPgm SS 11.20.2018.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=87709201",
+      "path": "mission-3/sources/201811-1652-003/a981c8e9c59c024e.txt",
+      "sha256_raw": "511286dd0cf44f76bc28a78a3ec67f49be130b06c6bb782a408228cd88867f4e",
+      "sha256_text": "7e7e563d1210d57181c18e94190f5d4e2015218a59e372a3d7e78d68385418f4",
+      "format": ".docx",
+      "chars": 18931,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=201811-1652-003",
+    "path": "mission-3/sources/201811-1652-003/record.txt",
+    "sha256_raw": "ad03b053044df6ea1c0ce96da76bebcf89bc3e6e1c5b07f7e277cac89893f421",
+    "sha256_text": "380f8ee29c4435c8ee1829733c5bf9db4c6fead0adb6399865a7ec005a15b67d"
+  },
+  "previous_ref": "201601-1652-002",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201811-1652-003",
+    "path": "mission-3/sources/201811-1652-003/document_index.txt",
+    "sha256_raw": "88e2b9ab20520206083e31035e26252d29f22d911c085f8b5805a114a78e01a0",
+    "sha256_text": "f09d6bc22cdc394d2b827eade25ed0ed9bd76cfeb1846b50dd0420ce5048f747"
+  }
+}

@@ -1,0 +1,180 @@
+PART word/document.xml
+
+
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.  (Annotate the CFR parts/sections affected).
+
+The Transportation Security Administration (TSA) has statutory responsibility for air cargo security. See 49 U.S.C. 44901.  Under subsections (a) and (f) of section 44901, TSA is to: (1) provide for screening of all property, including U.S. mail, cargo, carry-on and checked baggage, and other articles, that will be carried aboard a passenger aircraft; and (2) establish a system to screen, inspect, report, or otherwise ensure the security of all cargo that is to be transported in all-cargo aircraft as soon as practicable. Under subsection (g), TSA is required to have a program requiring screening of all cargo (100 percent) transported on passenger aircraft.  TSA’s requirements implementing these authorities are primarily found in 49 CFR parts 1540, 1542, 1544, 1546, 1548, and 1549.
+
+TSA’s requirements for cargo screening provide approved screening methods that can be applied throughout the air cargo supply chain, including:  aircraft operators, foreign air carriers, IACs, and certified cargo screening facilities (CCSFs).  As these programs have evolved, TSA has submitted two Information Collection Requests (ICR) to address the various information needed to support the requirements and compliance.  Although OMB control number 1652-0053 and this collection (control number 1652-0040) both involve information related to recordkeeping, cargo reporting, applying for a Security Threat Assessment (STA), and the development and updating of security programs, TSA distinguishes the two collections as follows:
+
+OMB control number 1652-0040 governs aircraft operators, foreign air carriers, airport operators, and IACs (respondents).  It contains a requirement unique to aircraft operators, foreign air carriers, and IACs to submit known shippers into the Known Shipper Management System (KSMS).
+
+OMB control number 1652-0053 governs CCSFs.  It contains a requirement unique to CCSFs to submit a Facility Profile Application, a Security Profile, and a Principal Attestation when applying to join the Certified Cargo Screening Program (CCSP).
+
+Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+The regulations associated with this information collection require the respondents to: (1) create, implement, and update as necessary security programs, provide cargo screening data, and provide data with which to vet known shippers, that must remain on file and ready for inspection by TSA personnel; (2) accomplish security training for employees and agents who have access to secure areas and keep records of such training on file and ready for inspection; and (3) conduct background checks, which include an STA on employees and agents who have access to secure cargo areas, who have unescorted access to cargo, and who screen cargo for certain aircraft operators, in order to ensure fitness for security responsibilities, and on sole proprietors, general partners, officers, directors, and certain owners of IACs or applicants to be TSA-certified as an IAC because these operations are a critical link to a secure cargo supply chain.  In addition to the above, the collection includes a fourth requirement that select aircraft operators and foreign air carriers operating under certain amendments to their aircraft operator and foreign air carrier security programs must provide to TSA data regarding screening volumes and the methodology utilized to arrive at these volumes, as well as demonstrate progress toward full compliance with the cargo security measures specified in such amendments.
+
+Specifically, TSA collects and retains the following information for an STA for: (a) each individual who is a general partner, officer, or director of an IAC; (b) an applicant to be TSA-certified as an IAC; (c) certain owners of an IAC or an applicant to be TSA-certified as an IAC; and (d) an individual who has responsibility for screening cargo that will be carried on an aircraft of an aircraft operator required to screen cargo under 49 CFR parts 1544 and 1546.
+
+Legal name, including first, middle, and last; any applicable suffix; and any other names used.
+Current mailing address, including residential address if different than current mailing address, and all other residential addresses for the previous five years and email address, if applicable.
+Date and place of birth.
+Social Security number (although provision of one’s social security number is voluntary, failure to provide a Social Security number may result in delays in processing the security threat assessment).
+Gender.
+Country of citizenship.
+If the applicant is a U.S. citizen born abroad or a naturalized U.S. citizen, their U.S. passport number; or the 10-digit number from the applicant’s Certificate of Birth Abroad, Form DS-1350.
+Alien registration number, if applicable.
+The applicant’s daytime telephone number.
+The applicant’s current employer(s) and the address and telephone number of the employers.
+
+TSA collects identifying information for a database for both companies and individuals whom IACs and aircraft operators have confirmed are qualified to ship cargo on passenger aircraft, referred to as “known shippers.”  This information is primarily collected electronically via the KSMS; however, in the event that shipper information cannot be entered into the KSMS, a manual method to capture the shipper’s information is allowed under infrequent circumstances.  The manual method is comprised of completion and retention of TSA Form 419H.  IACs and aircraft operators enter information into the database.  The information consists of the following:
+
+Legal name, including first, middle, and last; any applicable suffix; and any other names used.
+Current physical address.
+Phone number.
+Aviation Security Known Shipper Verification Forms (TSA FORM 419H) containing information about the site visit carried out by the regulated entity such as: date of the physical visit; name and address of the business; employer identifying number (EIR); verifier’s name, phone number and signature; and the signature of the shipper.
+
+Finally, TSA may collect information that an individual chooses to submit in connection with an appeal of a TSA determination on an applicant’s STA.
+
+TSA is making two changes to TSA Form 419F.  First, the form is being revised to ask specific question of residency to ensure that those principals that do not physically reside nor work in the United States can meet the STA requirements.  This modification will provide clarity regarding the requirements for IAC Principals that reside outside of the United States.  Second, the form will incorporate the acknowledgement of responsibility from 49 CFR 1548.15(b)(1)(ii), which states: “Cargo to be transported on a passenger aircraft operated by an aircraft operator with a full program under § 1544.101(a) or by a foreign air carrier under § 1546.101(a) or (b) of this chapter, is accepted by the indirect air carrier, until the indirect air carrier transfers the cargo to an aircraft operator or foreign air carrier.”  
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.
+
+In accordance with the Government Paperwork Elimination Act, TSA has developed the means to collect information electronically through the Indirect Air Carrier Management Systems (IACMS).  IACMS allows the respondents to upload the required supporting documentation through a web-portal. TSA is revising the IACMS collection by providing a web-portal to allow IACMS to upload supporting documentation electronically.
+
+For those respondents without the resources to submit information electronically, TSA will continue to work with them so that they can submit and/or maintain the required information in a manner that best meets their particular needs.  TSA has already converted the recordkeeping and data collection requirements for the known shipper program from a manual to the IACMS electronic process.  Each requirement for submission of information and recordkeeping is as prescribed in the regulated party’s security program.
+
+Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above.
+
+No other agency requires the collection of this specific data for the purposes described in Item 2.
+
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden.
+
+This collection does not create a significant impact on a substantial number of small businesses.
+
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+If this collection was not conducted, key components of TSA’s compliance with its statutory mandates and programs to secure the Nation’s air cargo infrastructure would be hindered.
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d) (2).
+
+5 CFR 1320.5(d)(2)(i):
+IACs have an obligation to submit changes in business and associated personal information within 30 days of the change to TSA, which may occur more often than quarterly.
+
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+TSA promulgated the regulation associated with these collections after extensive consultation with industry through its Aviation Security Advisory Committee, and other Federal agencies including the Department of Transportation and the U.S. Customs and Border Protection.  Frequent outreach and consultation with industry trade groups and representatives continues.  TSA published a 60-day notice to seek approval of a revised information collection for the Air Cargo Security Requirements in the Federal Register.  See 83 FR 58274 (November 19, 2018).  Additionally, TSA published a 30-day notice for the revised information collection.  See April 19, 2019 (84 FR 14126).  Consistent with the requirements of Executive Order (E.O.) 13771, Reducing Regulation and Controlling Regulatory Costs, and E.O. 13777, Enforcing the Regulatory Reform Agenda, the notices included a specific request for comments on the extent to which this request for information could be modified to reduce the burden on respondents.  TSA received no comments in response to the notices.
+
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+No payments or gifts will be provided to the respondents.
+
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+While there are no assurances of confidentiality, information provided by individuals will be protected from disclosure to the extent appropriate under the applicable provisions of the Freedom of Information Act and the Privacy Act of 1974.  Personal data will be collected and maintained in accordance with the Privacy Act.  The STA application includes a Privacy Act (e)(3) notice describing the authorities for collecting the data, as well as its principal purposes, routine uses, and the effects of an individual’s failure to disclose.  The applicable TSA system of records notice (SORN) for the Air Cargo Security Requirements collection is DHS/TSA-002, Transportation Security Threat Assessment System, last published in the Federal Register on August 11, 2014 (79 FR 46862).  Also, the applicable Privacy Impact Assessment (PIA) was published on April 14, 2006 on www.dhs.gov.  See DHS/TSA/PIA-019 Air Cargo Program. https://www.dhs.gov/xlibrary/assets/privacy/privacy_pia_aircargo.pdf.
+
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+There are no such questions.
+
+Provide estimates of hour and cost burden of the collection of information.
+
+TSA estimates the hour burden associated with the initial submission of security programs to be 4 hours for each of the 350 average annual new entrants of aircraft operators, foreign air carriers, and IACs for an average annual hour burden of 1,400 hours.  TSA uses a fully-loaded hourly wage rate of $94.63 for Security Coordinators to estimate the total annual hour cost burden of the new security program process.  The total annual hour burden cost due to the application process is estimated to be $132,477.  Table 1, at the end of this response, summarizes these calculations.
+
+TSA estimates the hour burden associated with the security program renewals via IACMS to be 4 hours for each of the 3,700 IACs for an average annual hour burden of 14,800 hours. TSA uses a fully-loaded hourly wage of $94.63 for Security Coordinators to estimate the total annual hour cost burden of the new security program process.  The total annual hour burden cost due to the application process is estimated to be $1,400,470.  TSA estimates 37 IACs will file an appeal of rejected or incomplete renewals at 5 hours per appeal for an average annual hour burden of 185 hours.  TSA uses a fully-loaded hourly wage of $94.63 for Security Coordinators to estimate the total annual hour cost burden of the new security program process.  The total annual hour burden cost due to the application process is estimated to be $17,506.  Table 1, at the end of this response, summarizes these calculations.
+
+TSA also issues amendments to its security programs.  These amendments are either TSA-initiated or industry requested.  There are approximately 600 TSA-issued amendments per year.  TSA estimates a 1 hour burden to comply with a TSA issued amendment, for an annual hour burden of 600 hours.  Industry requested amendments typically are asking for approval from TSA for existing business practices, and TSA estimates a 1 hour burden for the 946 average annual industry requested amendments, for an annual hour burden of 946 hours.  TSA uses a fully-loaded hourly wage of $94.63 for Security Coordinators to estimate the total annual hour cost burden of the new security program process.  The total annual hour burden cost due to the application process is estimated to be $56,776.  Table 1, at the end of this response, summarizes these calculations.
+
+For the STA requirement, based on a 15 minute estimate for each of the average 98,500 annual responses, TSA estimates that the average annual burden will be 24,625 hours.  TSA uses a weighted average fully-loaded hourly wage of $30.67 of IAC workers to estimate the total annual hour burden cost of the application process.  The total annual hour burden cost due to the application process is estimated to be $755,285.  Table 1, at the end of this response, summarizes these calculations.
+
+For the KSMS, given that the IAC or aircraft operator must input a name, address, and telephone number, TSA estimates it will take 2 minutes for the 476,167 electronic submissions for a total annual burden of 15,872 hours.  TSA uses a weighted average hourly loaded wage of $30.67 of IAC workers to estimate the total annual hour burden cost of the application process.  TSA estimates a total annual hour cost burden of $486,825 for electronic KSMS submissions.  Also for KSMS, TSA estimates it will take one hour for the 8,000 manual submissions for a total annual burden of 8,000 hours.  TSA uses a weighted average hourly loaded wage of $30.67 of IAC workers to estimate the total annual hour burden cost of the application process.  TSA estimates an annual hour cost burden of $245,372 for KSMS manual submissions.  Table 1, at the end of this response, summarizes these calculations.
+
+For the STA recordkeeping requirement, based on a 5-minute estimate for each of the 98,500 annual responses of STA applications, TSA estimates that the total average annual burden will be 8,208 hours. TSA uses the national average hourly loaded wage of $23.00 for Administrative Assistants to estimate the total annual hour burden cost of recordkeeping of security programs.  The total annual burden cost due to recordkeeping of security programs is estimated to be $188,779.  Table 1, at the end of this response, summarizes these calculations.
+
+The combined average annual hour burden is estimated to be 74,637 hours for an average annual hour burden cost of $3,373,005 ($10,119,015 over three years).  Table 1 summarizes these calculations.
+
+Table 1. Public Hour Burden and Costs for Air Cargo Security Collection
+Collection Activity | Number of Annual Respondents | Number of Annual Responses | Hour Burden per Response | Total Annual Hour Burden | Respondent Wage Rate | Annual Hour Burden Cost
+ |  | A | B | C = A x B | D | E = C x D
+Security Program New Entrants | 350 | 350 | 4 | 1,400 | $94.63 | $132,477
+Security Program Renewals | 3,700 | 3,700 | 4 | 14,800 | $94.63 | $1,400,470
+Security Program Appeals | 37 | 37 | 5 | 185 | $94.63 | $17,506
+TSA Issued Amendments | 600 | 600 | 1 | 600 | $94.63 | $56,776
+Industry Requested amendments | 946 | 946 | 1 | 94 6 | $94.63 | $89,516
+STA Applications | 98,500 | 98,500 | 0.25 | 24,625 | $30.67 | $755,285
+Electronic KSMS Submissions | 4,000 | 476,167 | 0.033 | 15,872 | $30.67 | $486,825
+Manual KSMS Submissions | 4,000 | 8,000 | 1 | 8,000 | $30.67 | $245,372
+Record - keeping | 6 , 192 | 98,500 | 0.08 | 8,208 | $23.00 | $188,779
+Total  | 118 , 325 | 68 6,800 |   | 74, 637 |   | $3, 373,005
+
+Provide an estimate of the total annual start up and capital costs resulting from the collection of information.
+
+TSA assumes the industry will be responsible for paying a fee for each STA of $41.00 for the three years in the collection period.  The average annual cost to the industry for STA fees is $4,038,500 ($12,115,500 over three years).  Table 2 summarizes these calculations.
+
+Table 2. STA Fee Costs
+Number of STAs | Fee per STA | STA Fee Costs
+A | B | C = A x B
+98,500 | $41 | $4,038,500
+
+Provide estimates of annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information.
+
+TSA Principal Security Inspectors review updates and new submissions to the IACSSP.  TSA estimates this review takes 2 hours and 15 minutes (2.25 hours) per IAC.  Each of the 4,050 IACs must renew annually.  The total hour burden for the Federal Government for this task is 9,113.  The cost burden is based on the average loaded hourly wage rate for an SV I/J band TSA employee, which is $72.72 per hour.  The estimated cost to TSA to review the updates required of IACSSP and new submissions is $662,634 annually.  Table 3, below, summarizes this calculation.
+
+TSA Transportation Security Specialists review and process security program amendments, both industry requested and TSA issued.  TSA estimates it takes an average of fifteen days (120 hours) to process and review an amendment.  TSA estimates an annual average hour burden of 185,520 hours to process 1,546 amendments.  The cost burden is based on the fully-loaded average hourly wage rate for a J-Band employee of $78.65. TSA estimates an annual hour cost burden of $14,590,647. Table 3, below, summarizes this calculation.
+
+Table 3. TSA Hour Burden and Costs for Air Cargo Security Collection
+Collection Activity | Number of Annual Responses | Hour Burden per Response | Total Annual Hour Burden | TSA Wage Rate | Annual Hour Burden Cost
+ | A | B | C = A x B | D | E = C x D
+Security Program Review | 4,050 | 2.25 | 9,113 | $72.72 | $662,634
+Amendments | 1,546 | 120 | 185,520 | $78.65 | $14,590,647
+Total | 5,596 |   | 194,633 |   | $15,253,280
+TSA will incur annual costs for KSMS of $6,500,000 for outside Business Vetting Services which includes sharing of every physical address file of companies in the US that requests their goods to fly on passenger aircraft.  Operations and Maintenance cost are $1,200,000 annually which funds stakeholder requirements, security patching and upgrades, and minor usability enhancements.  The total annual costs for KSMS are estimated to be $7,700,000. Table 4 summarizes these calculations.
+
+Table 4. TSA KSMS Contracting Costs
+Business Vetting Services | Operations and Maintenance | Total 
+A | B | C = A +B
+$6,500,000 | $1,200,000 | $7,700,000
+
+The annual cost to the government for conducting this collection of information is $22,953,280 ($68,859,841 over three years). Table 5 summarizes this calculation.
+
+Table 5. Total TSA Costs
+Hour Burden Costs | KSMS Contracting Costs | Total TSA Costs
+A | B | C = A + B
+$15,253,280 | $7,700,000 | $22,953,280
+
+Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+TSA has eliminated a requirement that foreign air carriers submit quarterly reports to TSA’s Global Strategies office.  This has resulted in a decreased hour burden of 520 hours.  These carriers are still required to respond to other parts of this information collection so there is no change in the number of respondents as a result of this change.
+
+For collections of information whose results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+The results will not be published.
+
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+No such approval is being sought.
+
+Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+There are no exceptions.
+PART word/footnotes.xml
+
+
+
+ In addition to information specified above, individuals who work for aircraft operators and who have the responsibility to screen cargo must undergo a criminal history records check (CHRC).  Collections of information needed for TSA to conduct a CHRC for individuals who work for aircraft operators and who have responsibility to screen cargo are covered under the Aircraft Operator Security Program and the Model Security Program, OMB control number 1652-0003.  The rule requires that the airport operator collect, control, and process fingerprints electronically, or recorded on fingerprint cards approved by the Federal Bureau of Investigation (FBI) and distributed by TSA for that purpose.  The fingerprint information must be forwarded to TSA in the manner specified by TSA.  TSA then transmits the fingerprints to the FBI for the CHRC.  The FBI returns the results to TSA’s secure Fingerprint Results Distribution website for adjudication.  The FBI will make a notation that the fingerprint record has been audited and may retain a copy of the fingerprints if the copy that TSA provided is more readable than the one on record.
+ A fully-loaded wage rate incorporates non-wage components of employee compensation, such as health and retirement benefits.
+ The unloaded wage rate for General and Operations Managers is $67.51. BLS. BLS.  May 2017 National Industry-Specific Occupational Employment and Wage Estimates.  NAICS 481000 - Air Transportation. OCC 11-1021 General and Operations Managers.  Last modified March 30, 2018 (accessed September 12, 2018), https://www.bls.gov/oes/2017/May/naics3_481000.htm.  TSA calculates a load factor to increase the unloaded wage to account for non-wage compensation.  TSA calculates this factor by dividing the total compensation ($28.40) by the wage and salary component ($18.77) of compensation to get a load factor of 1.51305.  BLS.  Employer Costs for Employee Compensation - March 2018.  Table 5.  Employer costs per hour worked for employee compensation and costs as a percent of total compensation: private industry workers.  Production, transportation and material moving occupations.  Last modified June 8, 2018 (accessed September 12, 2018), https://www.bls.gov/news.release/archives/ecec_06082018.htm.  The fully loaded wage rate is calculated by multiplying the unloaded wage rate by the load factor. $94.63 = $62.54 x 1.51305.
+ Ibid.
+ Ibid.
+ Ibid.
+ The hourly wage rate for Air Cargo workers is $19.56, with employment of 41,220.  BLS.  May 2017 National Industry-Specific Occupational Employment and Wage Estimates.  NAICS 481000 - Air Transportation. OCC 53-7000 Material Moving Workers.  Last modified March 30, 2018 (accessed September 12, 2018), https://www.bls.gov/oes/2017/May/naics3_481000.htm.  The hourly wage rate for First Line Supervisors of Air Cargo Workers is $29.32, with employment of 3,240. BLS. May 2017 National Industry-Specific Occupational Employment and Wage Estimates. NAICS 481000 - Air Transportation. OCC 53-1011 Aircraft Cargo Handling Supervisors. Last modified March 30, 2018 (accessed September 12, 2018), https://www.bls.gov/oes/2017/May/naics3_481000.htm.  The weighted average wage rate is $20.27 ($20.27 = [($19.56 x 41,220) + ($29.32 x 3,240)] ÷ (41,220 + 3,240).  TSA calculates a load factor to increase the unloaded wage to account for non-wage compensation.  TSA calculates this factor by dividing the total compensation ($28.40) by the wage and salary component ($18.77) of compensation to get a load factor of 1.51305.  BLS.  Employer Costs for Employee Compensation - March 2018.  Table 5.  Employer costs per hour worked for employee compensation and costs as a percent of total compensation: private industry workers.  Production, transportation and material moving occupations. Last modified June 8, 2018 (accessed September 12, 2018), https://www.bls.gov/news.release/archives/ecec_06082018.htm.  The fully-loaded wage rate is calculated by multiplying the weighted average wage rate by the compensation factor. $30.67 = $20.27 x 1.51305.
+ Ibid.
+ Ibid.
+ The unloaded wage for an administrative assistant is $15.20. BLS. May 2017 National Industry-Specific Occupational Employment and Wage Estimates. NAICS 481000 - Air Transportation. OCC 43-4171 Receptionists and Information Clerks.  Last modified March 30, 2018 (accessed September 12, 2018), https://www.bls.gov/oes/2017/May/naics3_481000.htm.  TSA calculates a load factor to increase the unloaded wage to account for non-wage compensation.  TSA calculates this factor by dividing the total compensation ($28.40) by the wage and salary component ($18.77) of compensation to get a load factor of 1.51305.  BLS.  Employer Costs for Employee Compensation - March 2018.  Table 5.  Employer costs per hour worked for employee compensation and costs as a percent of total compensation: private industry workers.  Production, transportation and material moving occupations. Last modified June 8, 2018 (accessed September 12, 2018), https://www.bls.gov/news.release/archives/ecec_06082018.htm.  The fully-loaded wage rate is $23.00 = $15.20 x 1.51305.
+ TSA estimates the burden to the public on a per response basis.  TSA estimates there will be 118,325 respondents annually.
+
+ TSA, Finance and Administration, FY2018 Modular Cost Data.
+PART word/endnotes.xml
+
+

@@ -1,0 +1,32 @@
+{
+  "ref": "202102-1652-002",
+  "retrieved_at": "2026-09-09T17:30:56.534013+00:00",
+  "documents": [
+    {
+      "id": "46b132317662ca68",
+      "title": "1652-0047 TWIC SS Part A_4.12.2021.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=108567201",
+      "path": "mission-3/sources/202102-1652-002/46b132317662ca68.txt",
+      "sha256_raw": "d2f950f914b95512c4d8c95ae70d83f0156e55411e6802eb45a94ada7a7be1f3",
+      "sha256_text": "ba42abd0ba1cf0ab6c64dde64e874c6f99ec7575841634222e37d516f1f6d305",
+      "format": ".docx",
+      "chars": 54287,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202102-1652-002",
+    "path": "mission-3/sources/202102-1652-002/record.txt",
+    "sha256_raw": "f40011a5a6ff9db0c1094e41a5a23baec2d73c2ed5895f32758b838d7a7c147b",
+    "sha256_text": "836aa6c8d4d9a4dfafb58b8ad56e4bffb753080536713a81d15a4e6899a3dc1b"
+  },
+  "previous_ref": "201702-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202102-1652-002",
+    "path": "mission-3/sources/202102-1652-002/document_index.txt",
+    "sha256_raw": "f8533ef2b5511aabf505d1c7a504fa858ad5454483a990dc602c503d90f26197",
+    "sha256_text": "a6bf8db23df6a024a4f3985c9c63317f1f785f2348f2e2789300417715a019c7"
+  }
+}

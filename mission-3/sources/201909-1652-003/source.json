@@ -1,0 +1,32 @@
+{
+  "ref": "201909-1652-003",
+  "retrieved_at": "2026-09-09T17:30:32.336747+00:00",
+  "documents": [
+    {
+      "id": "286ffcb7c97af2b6",
+      "title": "1652-0058 GenCL SS Part A_10.29.2019.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=95323301",
+      "path": "mission-3/sources/201909-1652-003/286ffcb7c97af2b6.txt",
+      "sha256_raw": "81d81eeb0972aeeeb00ff440af8bba40d7eac12bce90b1d78375744e6e2942fb",
+      "sha256_text": "20b550dd3cc8b8a409f5fb8f05e4f5060f350f1c98c12a1e7dd54ce6101cad4b",
+      "format": ".docx",
+      "chars": 11611,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=201909-1652-003",
+    "path": "mission-3/sources/201909-1652-003/record.txt",
+    "sha256_raw": "e8901a7c7ebad08f2018593fafbfcfe2bb9cf682cea687db6a4c98ea8e8d626f",
+    "sha256_text": "a569941ea02c2b262322a0acaf5a42cb55c98ba6219c6977153889f3c51d26fd"
+  },
+  "previous_ref": "201905-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201909-1652-003",
+    "path": "mission-3/sources/201909-1652-003/document_index.txt",
+    "sha256_raw": "27beb226239f137bce4ab0e9d7537568ad553b5a3a8d6787c5a662046667515c",
+    "sha256_text": "d2376091e6c0ad41382f69122c1469e85ea102b3c637204a82c762e53ae07566"
+  }
+}

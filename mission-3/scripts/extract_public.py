@@ -7,6 +7,7 @@ def ident(*parts):return hashlib.sha256('|'.join(map(str,parts)).encode()).hexdi
 def heading(s):
  x=s.lower().strip();x=re.sub(r'^\d+[.\s)]+','',x)
  if len(x)>1100:return None
+ if x.startswith('provide') and ('annual cost burden to' in x or 'capital' in x):return 13
  if re.match(r'(?:provide|12[.\s])',x) and ('hour' in x) and ('burden' in x) and 'federal government' not in x and ('estimat' in x):return 12
  if x.startswith('provide') and ('capital' in x or 'annual cost burden to respondents' in x or 'annual cost burden to respondent' in x):return 13
  if x.startswith('provide') and ('federal government' in x) and ('cost' in x):return 14
@@ -50,7 +51,7 @@ def run(batch,refs):
     o={'id':'OBS-'+ident(ref,doc['id'],ln),'ref':ref,'document_id':doc['id'],'control':inv.get(ref,{}).get('control') or None,'item':item,'batch':batch,'text':s,'epistemic_status':'PUBLISHED','provenance':pr};obs.append(o)
     if item==12 and '|' in s:
      cells=[c.strip() for c in s.split('|')];numeric=[num(c) for c in cells]
-     if any(re.search(r'per (?:response|respondent)|hour.*burden|annual.*response',c,re.I) for c in cells) and not any(n is not None for n in numeric):header=cells
+     if any(re.search(r'per (?:response|respondent)|hour.*burden|annual.*response',c,re.I) for c in cells):header=cells
      # Source rows with substantive task label; exclude arithmetic totals and year-only cohorts.
      label=cells[0]
      if re.search('[a-zA-Z]',label) and sum(n is not None for n in numeric)>=1 and not re.match(r'^(?:total|average|annualized|year|table|\(?[a-z]\)?\s*=)',label,re.I):

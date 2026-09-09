@@ -1,0 +1,19 @@
+{
+  "ref": "201909-1652-002",
+  "retrieved_at": "2026-09-09T17:30:32.324285+00:00",
+  "documents": [],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=201909-1652-002",
+    "path": "mission-3/sources/201909-1652-002/record.txt",
+    "sha256_raw": "806e1b5d86f23b5fe26442b8c768485ae2aec4d11071cff511eff7516c4b0c08",
+    "sha256_text": "104096e898a5667848c30d6177dfe578f972ca68e21aaf477e7bd0e032d6ba0a"
+  },
+  "previous_ref": "201812-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201909-1652-002",
+    "path": "mission-3/sources/201909-1652-002/document_index.txt",
+    "sha256_raw": "f978e22203ed224e59c4d47a65b850afb747b83a7bdc9fd2de0b7834e1962733",
+    "sha256_text": "194ccde057acafb763587d5c276e0d15f993ec4aab6647b894cdbe5a767269c5"
+  }
+}

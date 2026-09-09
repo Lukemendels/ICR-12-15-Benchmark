@@ -1,0 +1,32 @@
+{
+  "ref": "202005-1652-002",
+  "retrieved_at": "2026-09-09T17:30:56.385597+00:00",
+  "documents": [
+    {
+      "id": "86dfbb1a4fc46d84",
+      "title": "1652-0068 SACVstrRqstFm SS 6.16.2020.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=100929701",
+      "path": "mission-3/sources/202005-1652-002/86dfbb1a4fc46d84.txt",
+      "sha256_raw": "96a8326e0b9609c595b1f232bac14f6da10b73b45348b0f57e1fbb74d8fdd5d0",
+      "sha256_text": "712d920b9ea8b27546305f72b433120207496c4ef65ae7670f3f208e1369b56c",
+      "format": ".docx",
+      "chars": 17983,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202005-1652-002",
+    "path": "mission-3/sources/202005-1652-002/record.txt",
+    "sha256_raw": "04e227b14c82df72d68cf42eabf6b90013680d855012da2772b9d319ef005d22",
+    "sha256_text": "b2034575314f958bebad76ef68f1da2eaa732b7fe864db875ed359e229d0a371"
+  },
+  "previous_ref": "201707-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202005-1652-002",
+    "path": "mission-3/sources/202005-1652-002/document_index.txt",
+    "sha256_raw": "95d16e2ab29a31c65d4a1a17638aa1d80075b4620636052f8af46a6bc20bf7c4",
+    "sha256_text": "c54cbea9d190f92fda1b6601f3794e8495ed37b8ffe3ca794b2fb68318516dc4"
+  }
+}

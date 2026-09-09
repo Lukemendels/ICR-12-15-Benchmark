@@ -1,0 +1,32 @@
+{
+  "ref": "201904-1652-004",
+  "retrieved_at": "2026-09-09T17:30:32.143236+00:00",
+  "documents": [
+    {
+      "id": "bd608fd41af04ed1",
+      "title": "1652-0011 FFDOPgm SS 5.13.2019.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=91167101",
+      "path": "mission-3/sources/201904-1652-004/bd608fd41af04ed1.txt",
+      "sha256_raw": "826806b89e0b694e930e2eb273bcf799f42f77872e8d648fe04757283a727394",
+      "sha256_text": "1a45045d1009bb4b4c792407412b8dcf636518ce21d5ca48aa38ba67c8326f29",
+      "format": ".docx",
+      "chars": 14647,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=201904-1652-004",
+    "path": "mission-3/sources/201904-1652-004/record.txt",
+    "sha256_raw": "7379b38e96d461a334c9672aecc981e65ad357407d662d7726bcc328a9c49e6e",
+    "sha256_text": "5d62d4de66ad29fa97123286dd7069d925f2f6643fdf2c057bee6040c8d7eae0"
+  },
+  "previous_ref": "201601-1652-003",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201904-1652-004",
+    "path": "mission-3/sources/201904-1652-004/document_index.txt",
+    "sha256_raw": "ed32ec3890aeac413ad27fc2242951bab72ed8ceae3d8aa429401f9a23cfec53",
+    "sha256_text": "d3cc74d13ac688298394dca2f1c9d16a8ab101e06972d02e33b3cc1f8d25ebd4"
+  }
+}

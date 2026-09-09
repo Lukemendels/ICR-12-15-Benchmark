@@ -1,0 +1,32 @@
+{
+  "ref": "202108-1652-001",
+  "retrieved_at": "2026-09-09T17:31:22.226086+00:00",
+  "documents": [
+    {
+      "id": "f054312b85b2f88b",
+      "title": "1652-0034 LEO F_A_T SuppStmt 8.10.2021.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=113804901",
+      "path": "mission-3/sources/202108-1652-001/f054312b85b2f88b.txt",
+      "sha256_raw": "e645916dcc848fcd442b1701cafadd26118f4096723161406dcc87c1903a26d2",
+      "sha256_text": "7c418fac4cdf18fbf1480287cbc18087cd0b3641da32b1950a2831ea768aceee",
+      "format": ".docx",
+      "chars": 14906,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202108-1652-001",
+    "path": "mission-3/sources/202108-1652-001/record.txt",
+    "sha256_raw": "f9324f98f97904e1d9d0beca149f305b92455484e64a7fd988064825e65fa89a",
+    "sha256_text": "dbfce8ad8513b9b2eeb44b43b83f966ecc746603d6d715c56ef9f669c33c7134"
+  },
+  "previous_ref": "201805-1652-002",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202108-1652-001",
+    "path": "mission-3/sources/202108-1652-001/document_index.txt",
+    "sha256_raw": "60557be4e0e6e1a4f53091a58a50e5f1d3f5ac2ed9fd7940a16b57c099b94fa0",
+    "sha256_text": "4f13b55c2c1b8713234b7e239b7695245d96688721bf80cb1487f7c94d32ad9a"
+  }
+}

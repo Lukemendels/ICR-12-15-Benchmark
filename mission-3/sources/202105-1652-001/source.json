@@ -1,0 +1,32 @@
+{
+  "ref": "202105-1652-001",
+  "retrieved_at": "2026-09-09T17:31:12.401158+00:00",
+  "documents": [
+    {
+      "id": "a7bc37c30523e062",
+      "title": "1652-0053 CCSP_SS 5.17.2021.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=111687801",
+      "path": "mission-3/sources/202105-1652-001/a7bc37c30523e062.txt",
+      "sha256_raw": "647c08f21d8c2dbc31eeb571f78a62475cb543076b266ed5a3bc7717b136ede3",
+      "sha256_text": "d6c0874a2c2450ebbb6a43613930ee513b395cbb14501368ade5016a72c9e123",
+      "format": ".docx",
+      "chars": 57936,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202105-1652-001",
+    "path": "mission-3/sources/202105-1652-001/record.txt",
+    "sha256_raw": "93a23099dcde9e88b3b404b798727e2b25ce7923627ff07f048331036bdf1267",
+    "sha256_text": "79072d54218223c945cefae4c5c12fc9200f862cad0240bfce25a8d44a75b0ea"
+  },
+  "previous_ref": "201906-1652-004",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202105-1652-001",
+    "path": "mission-3/sources/202105-1652-001/document_index.txt",
+    "sha256_raw": "b74027bd18d04dae5a425ec8eb0fddc904544d9b9cc525444b2a0a4490e51ab4",
+    "sha256_text": "92a5b7140af53f5efb170760c0d2473243d13b972cb90113d944ac6e24ea9c46"
+  }
+}

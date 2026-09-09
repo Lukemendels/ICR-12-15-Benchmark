@@ -1,0 +1,438 @@
+PART word/document.xml
+Explain the circumstances that make the collection of information necessary. Identify any legal or administrative requirements that necessitate the collection. Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information. (Annotate the CFR parts/sections affected).
+
+The Transportation Security Administration (TSA) has implemented a voluntary enrollment program for individuals to apply for the TSA PreCheck™ (also known as TSA Pre✓®) Application Program, which determines whether passengers are low-risk and thus eligible to receive expedited screening at participating U.S. airport security checkpoints. The TSA PreCheck Application Program enhances aviation security by permitting TSA to more effectively focus its limited security resources on passengers for whom TSA has little information, while also facilitating and improving the commercial aviation travel experience for the public.
+
+Section 109(a)(3) of the Aviation and Transportation Security Act (ATSA), Pub. L. 107-71 (115 Stat. 597; Nov. 19, 2001), codified at 49 U.S.C. § 114 note, provides TSA with the authority to “establish requirements to implement trusted passenger programs and use available technologies to expedite security screening of passengers who participate in such programs, thereby allowing security screening personnel to focus on those passengers who should be subject to more extensive screening.” In addition, TSA has a statutory mandate to establish and collect a fee for any registered traveler program by publication of a notice in the Federal Register, as outlined in section 540 of the Department of Homeland Security (DHS) Appropriations Act, 2006, Pub. L. 109-90 (Oct. 18, 2005). Furthermore, TSA is revising the collection of information to reflect additional enrollment and enrollment provider options in accordance with the TSA Modernization Act, Division K of the FAA Reauthorization Act of 2018, Pub. L. 115-254 (132 Stat. 3185; Oct. 5, 2018) at section 1937, codified at 49 U.S.C. 44919.
+
+Indicate how, by whom, and for what purpose the information is to be used. Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+In accordance with the TSA Modernization Act, TSA is providing the traveling public with expanded opportunities to enroll in the TSA PreCheck Application Program through additional enrollment and enrollment provider options. This expansion effort will likely reduce burden and bring innovation to the enrollment process. Regardless of the enrollment provider an applicant chooses, TSA collects the same biographic and biometric information submitted by applicants to conduct security threat assessments (STAs) of the applicants. STAs comprise a check of applicants’ criminal history, U.S. citizenship or lawful permanent residence, regulatory violations, and any ties to terrorism. The STA process includes enrollment (biometric and biographic information and fee collection); conducting the criminal, immigration, terrorist and regulatory checks; and notifying successful applicants and issuing them KTNs. Travelers determined by TSA to present a low risk to transportation security receive a Known Traveler Number (KTN) pursuant to this initiative and are eligible for expedited screening at participating U.S. airports for an eligibility period of up to five years. TSA also retains the authority to perform random screening on travelers authorized to receive expedited physical screening. Applicants also provide TSA with information through optional surveys that TSA currently offers and may offer in the future.
+
+Enrollment
+Those seeking eligibility for the voluntary TSA PreCheck Application Program currently have several avenues to provide necessary biographic information: Pre-enrollment online before in-person enrollment, in-person enrollment, and post-enrollment via mail, email, or fax. Applicants currently must submit their biometric data at an enrollment location; those who choose to pre-enroll online must still complete their enrollment by submitting biometric data and identity and citizenship/immigration documents in person, and they may correct and verify any information they submitted during online pre-enrollment. Alternatively, applicants may choose to enroll entirely in person without pre-enrolling, where they may submit their information at a workstation, via tablet, or other enrollment device (e.g., kiosk). In any case, applicants must present a REAL ID-compliant ID if they enroll with a state-issued ID such as a driver’s license once REAL ID is in effect for those seeking to board commercial flights (currently scheduled for October 1, 2021).
+
+In the future, TSA intends to offer applicants new methods of capturing enrollment data, such as a mobile capability to submit biographic and/or biometric information before or after an applicant’s in-person enrollment. As TSA adds enrollment vendors, enrollment processes may change, but the biographic and biometric information TSA collects will remain the same. TSA expects the burden on applicants to likely decrease due to streamlined enrollment processes and additional enrollment locations.
+
+Biometric Capture
+Enrollment providers collect biometric data from applicants and submit fingerprints to the Federal Bureau of Investigation (FBI) for a criminal history records check. The FBI may retain applicants’ fingerprints and associated information in its Next Generation Identification (NGI) system after the completion of their application and, while retained, their fingerprints may continue to be compared against other fingerprints submitted to or retained by NGI as part of the FBI’s Rap Back program. In retaining applicants’ fingerprints, the FBI will conduct recurrent vetting of applicants’ criminal history until the expiration date of the applicant’s STA. Similarly, TSA also transmits applicants’ information, to include biometrics, to other DHS systems to complete TSA’s security threat assessment, such as DHS’ Security Automated Biometrics Identification System (IDENT). IDENT and its successor systems are utilized for initial and recurrent biometric-based vetting of applicants’ criminal history, lawful presence, and ties to terrorism. 
+
+Security Threat Assessment Process
+Referencing law enforcement, citizenship or immigration, regulatory violation, and intelligence databases, TSA uses applicants’ biographic and biometric information (and passport-related information, if provided) during pre-enrollment, enrollment, or post-enrollment to conduct STAs and to verify applicants’ identity and citizenship/lawful permanent resident status.  TSA uses U.S. Citizenship and Immigration Services’ Systematic Alien Verification for Entitlements database to verify the status of lawful permanent residents and naturalization for individuals who provide a certificate of naturalization. In the future, TSA intends to use DHS components’ services, provided via U.S. Customs and Border Protection (CBP), to support verification of identity and citizenship using travel document (e.g., passport) data provided to CBP by the Department of State.
+
+Eligibility Notification and Use of KTN
+After completion of the STA, TSA notifies individuals who apply to the TSA PreCheck Application Program of their eligibility for the program and issues them a KTN to use when making travel reservations. Currently, TSA provides the KTN to the applicant via mail and website. In addition, the applicant receives an email notification that TSA has finished an applicant’s STA if the applicant has provided an email address. TSA intends to add the capability to notify applicants via text and/or phone in the future. When issuing the KTN, TSA provides the applicant with information explaining the roles and responsibilities associated with the use of the KTN. TSA PreCheck Application Program participants who submit their KTN when making flight reservations for transmission by an airline to TSA are eligible for expedited screening on flights originating from participating U.S. airports, unless randomly selected for standard or enhanced screening. TSA bases applicants’ eligibility for TSA PreCheck expedited screening via the TSA PreCheck Application Program on an STA that is valid for no more than five years, unless a disqualification occurs or as stated by the terms and conditions of their enrollment. 
+
+Identity Verification
+Identity verification is a critical step in TSA’s STA process to ensure the individual undergoing the STA is the same person who applied. Enrollment providers may use public records, commercial sources, or other databases containing identity information to enhance current identity verification completed by verifying physical identity documents. Some enrollment providers may charge a supplemental fee for these identity verification sources. For example, Idemia Identity & Security USA, LLC, one of TSA’s enrollment providers, currently offers a service, Birth Certify, that provides real-time electronic certification of birth certificates for applicants who do not bring documents proving U.S. citizenship to their in-person enrollment. This option is offered as a service of and managed by the enrollment provider and thus is not included in TSA’s burden estimate analysis. To use the birth certificate certification service, the applicant must pay a supplemental fee to the enrollment vendor and provide an additional data element (mother’s maiden name) currently not required as part of the application for TSA PreCheck. Applicants who choose to use this service will pay a supplemental fee directly to the enrollment provider to cover the enrollment provider’s costs of providing the service. Other enrollment providers may offer similar services such as Birth Certify. In the future, TSA may allow applicants to upload their identity documents online.
+
+Identity verification is also essential at airport security checkpoints. To enhance identity verification in the future, TSA is revising this information collection request to include TSA’s intent to use its technology and DHS components’ services, provided via CBP and the Office of Biometric Identity Management, to support TSA’s biometric-based identification at airport checkpoints. TSA is conducting several pilots that use biometrics to improve performance and increase security at checkpoints by incorporating identity assurance technologies with the goal of implementing biometric-based identification at many TSA PreCheck lanes. TSA verifies identity by comparing facial images from identity verification documents, such as passport documents, or previously submitted facial images from TSA PreCheck Application Program enrollments, against photographs taken at the TSA PreCheck checkpoint for identity verification. 
+
+Fees and Enrollment Locations
+All applicants pay an application fee to TSA’s enrollment providers, and enrollment providers are responsible for remitting a portion of each applicant’s fee to the FBI and to TSA, which covers TSA’s costs in conducting an STA and authorized innovation activities supporting the program. TSA’s enrollment providers have multiple enrollment locations across the United States and its territories and offer temporary enrollment locations as well. 
+
+Renewals
+Applicants who wish to continue participating in the program must renew their TSA PreCheck enrollment periodically with one of its enrollment providers in order to maintain their TSA PreCheck eligibility. For renewals, TSA uses a combination of some previously provided biographic and biometric data along with any updated applicant data (e.g., address, alien registration number/passport number, identity documentation, eligibility questions, updated biometrics if applicable, etc.) and any associated fees to conduct a new STA. For those individuals eligible to renew, most applicants are able to complete their renewal online unless they do not meet TSA’s online enrollment criteria (e.g., applicants must have their current name updated in TSA’s system prior to online renewal if their name has changed since their last enrollment). TSA requires enrollees who do not meet the online enrollment criteria to renew in person.
+
+For individuals who completed an online renewal and did not provide a facial image during their initial TSA PreCheck Application Program enrollment, TSA may offer a capability to provide biometric data post-enrollment. For enrollees who choose to renew with an enrollment provider other than their most recent one, TSA will share previously collected biographic and biometric data with the new enrollment provider so that the new enrollment provider can submit required data to the FBI, along with any required fee. In the future, TSA may allow applicants to upload their identity documents online. Travelers who choose not to enroll or renew are not subject to any limitations on their travel because of their choice; they will continue to be screened at airport security checkpoints according to TSA’s screening protocols.
+
+Surveys and Marketing
+After enrollment and renewal processes, TSA offers an optional customer satisfaction survey. The survey is designed to gauge the experience and customer satisfaction of applicants during the enrollment process and measure applicants’ potential utility and frequency of KTN usage. TSA also uses the information to determine whether any trends exist regarding customer service at a particular enrollment location or particular enrollment activity and takes steps to improve customer service. 
+
+TSA will also implement three new surveys. TSA will direct one survey to applicants who choose not to renew their TSA PreCheck enrollment, and the additional two surveys will be used to improve the TSA PreCheck experience and evaluate marketing (i.e., promotion and ad campaigns). See Supporting Statement Part B.  
+
+Lastly, TSA’s expansion of the program to additional enrollment providers allows enrollment providers to market to applicants and use their data for other purposes such as promotional efforts, but only with the applicant’s explicit permission (i.e., the applicant must opt-in).
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection. Also describe any consideration of using information technology to reduce burden.
+
+In compliance with the Government Paperwork Elimination Act (GPEA), applicants have the option to submit biographic and payment information in person via an enrollment device or online. All applicants currently submit biometric data in person, and enrollment providers submit all information to TSA electronically. Based on current data, for applicants completing an initial enrollment (i.e., not renewing an existing enrollment in the program), TSA estimates that about 80 percent of applicants will submit their biographic information online before going in person to an enrollment location to complete the application process and about 20 percent will submit their biographic information in person without providing pre-enrollment information before arriving at an enrollment location.
+
+Additionally, from a post-enrollment perspective, TSA estimates that 20 percent of applicants will return to an enrollment location after their initial in-person enrollment to provide additional biometric data such as a facial image and/or iris scans if not provided initially. TSA estimates that 20 percent of applicants will provide citizenship or immigration data or documents online and 10 percent of applicants will provide this information via mail or fax. 
+
+Finally, TSA estimates that approximately 95 percent of renewals will continue to occur online and that approximately five percent of applicants will either choose to renew in person or will be required to renew in person due to criteria such as a name change since their prior enrollment or renewal.
+
+Describe efforts to identify duplication. Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above.
+
+In designing and implementing the TSA PreCheck Application Program, TSA took a number of steps to reduce duplication of effort and leverage both this and other programs whenever possible. TSA evaluated the STA performed by CBP, another component of the DHS, for its trusted traveler programs for international travelers, such as the Global Entry Program. TSA determined that CBP Trusted Traveler Programs involve the use of a similar STA to identify low-risk travelers. To avoid duplication, TSA made participants of DHS Trusted Traveler programs eligible for TSA PreCheck expedited screening on flights originating from U.S. airports. In addition, TSA avoided duplication of effort by providing KTNs and expedited screening eligibility to other classes of travelers who have been subject to other forms of threat assessments, such as members of the Armed Forces, Federal judges, and Executive Branch personnel with certain security clearances. TSA’s efforts to add additional government personnel continue. 
+
+TSA also leveraged existing information technology infrastructure and established processes used for its TWIC® and HME Threat Assessment programs to collect information and conduct the STA for the TSA PreCheck Application Program. Leveraging this existing infrastructure and processes permitted TSA to implement the TSA PreCheck Application Program at much lower costs. Indeed, because TSA uses the technical architecture and vetting processes from its similar vetting programs, such as the TWIC® and HME Threat Assessment programs, TSA may to allow certain applicants to those programs who meet TSA PreCheck eligibility criteria to receive TSA PreCheck screening in the future.
+
+When TSA created the TSA PreCheck Application Program, it considered using the processes from the CBP Global Entry Program, but decided against using them for several reasons. First, the TSA PreCheck Application Program differs from the CBP Global Entry Program in that it does not require applicants to complete an in-person interview. TSA also collects data relating primarily to citizenship/immigration information and biometrics that the CBP Global Entry Program does not. CBP Global Entry requires a U.S. passport or machine-readable Lawful Permanent Resident (LPR) card, but TSA PreCheck Application Program applicants may provide other data or documents that demonstrate citizenship or immigration eligibility.
+
+TSA also asks for additional optional information, such as the Social Security Number (SSN). TSA can conduct STAs without an SSN, but having the information can help expedite the review process by de-conflicting potential matched individuals with similar biographic information. TSA also collects certain physical descriptor information, such as hair color and weight, because it is part of the biographic information submitted with fingerprints to the FBI for a criminal history records check and may assist in positive or negative identification of the applicant during the STA process.
+
+As noted above, TSA leverages the STA conducted for applicants to DHS Trusted Traveler programs to provide those individuals with TSA PreCheck expedited screening on flights originating from U.S. airports. Finally, the TSA, CBP, and DHS web sites all include information for travelers to help them decide which DHS trusted traveler program best suits their needs, including a chart that compares these programs found at https://ttp.dhs.gov.
+
+Because TSA was able to leverage the existing STA technology and collection procedures from its similar security threat assessment programs with minimal modification to meet TSA PreCheck Application Program requirements, anything outside this approach, such as adapting the CBP Global Entry program to meet the TSA PreCheck Application Program requirements, would have required significant effort and resources from both CBP and TSA.
+
+As the TSA PreCheck Application Program expands, it will allow multiple enrollment providers to offer enrollment and renewal services. TSA will allow persons renewing with a different enrollment provider the opportunity to maintain their same KTN across providers. Additionally, once TSA has verified a person as having an existing KTN, the person will have to provide only certain data elements upon renewal online and will not be required to complete the enrollment in person, as TSA will use data originally provided during their prior enrollment where possible. 
+
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden.
+
+There is no significant impact on a substantial number of small businesses.
+
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+Without gathering the information needed to enroll individuals in the TSA PreCheck Application Program, TSA cannot verify an individual’s identity, conduct an STA, or issue a KTN. Once an individual is deemed eligible for the TSA PreCheck Application Program, the individual is eligible for TSA PreCheck expedited screening for the term of their enrollment or renewal period. TSA has determined that in order to reduce applicant burden, most applicants will be allowed to renew online with any enrollment provider in order to continue to be eligible for TSA PreCheck expedited screening via the TSA PreCheck Application Program. 
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+There are no special circumstances requiring the collection of information to be inconsistent with 5 CFR 1320.5(d)(2).
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported. If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB. Summarize public comments received in to that notice and describe actions taken by the agency in response to these comments. Specifically address comments received on cost and hour burden.
+
+TSA published a 60-day notice and a 30-day notice in the Federal Register to solicit public comment on the revised information collection for the TSA PreCheck Application Program. See 84 FR 59401 (November 4, 2019) and 85 FR 30979 (May 21, 2020), respectively.  Consistent with the requirements of Executive Order (E.O.) 13771, Reducing Regulation and Controlling Regulatory Costs, and E.O. 13777, Enforcing the Regulatory Reform Agenda, the notices included a specific request for comments on the extent to which this request for information could be modified to reduce the burden on respondents.  TSA received no public comment on this revised information collection.
+
+
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+TSA does not provide any payment or gift to respondents. However, enrollment providers may provide incentives to persons who choose to enroll in the TSA PreCheck Application Program. The incentives may come in a variety of forms to include bundles with other services or promotions not related to the TSA PreCheck Application Program or other governmental programs. 
+
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+Although there is no assurance of confidentiality to any respondent, TSA will handle all records concerning TSA PreCheck Application Program applicants in accordance with the Privacy Act of 1974, and maintain the security of the information technology systems that transmit, process, and/or store the personal information in accordance with Federal Information Security Management Act (FISMA) requirements. TSA published a Privacy Act system of records notice in the Federal Register, DHS/TSA-021 TSA PreCheck Application Program System of Records. See 78 FR 55274 (September 10, 2013). TSA also published a PIA for the program. See DHS/TSA/PIA-041 TSA PreCheck Application Program (Sep. 4, 2013).
+
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+TSA does not ask any questions that relate to sexual behavior or attitudes, religious beliefs, or other commonly considered private matters. TSA does require criminal history information from applicants (including whether applicants have been convicted or found not guilty by reason of insanity), as well as whether they ever have been found by a court or other lawful authority as lacking mental capacity or involuntarily committed to a mental institution. This information is critical to determining whether the applicant is low risk, and TSA has long collected this kind of information for transportation security vetting purposes from other populations (for example, TWIC®, HME holders, and aviation workers with unescorted access to sensitive areas of airports). TSA understands the importance of protecting all applicant information and has robust privacy protections in place. 
+
+Provide estimates of hour burden of the collection of information.
+
+TSA uses historical data to project an estimated three-year total initial enrollments and renewals of 9,196,018 and average of 3,065,339 initial enrollments and renewals per year. TSA used historical data and applied a renewal rate of 68.4 percent to its expiring population from five years prior to each projected year to estimate the number of online and in-person renewals in each projected annual population. TSA assumed five percent of renewals would be in person.  Table 1 displays the current estimated population of enrollments and renewals for the TSA PreCheck Application Program. Table 1 also displays the cumulative population in TSA PreCheck in column E each year, which includes populations from years prior to 2021 that would be enrolled members in the TSA PreCheck Application Program.
+
+Table 1: Estimated Three-Y ear  P rojection for TSA PreCheck  Application Enrollment Respondents 
+Calendar Year | Total TSA Pre Check  Application Program Initial Enrollments | Total TSA  PreCheck  Application Program Online Renewal Enrollments | In-Person Renewals | Total TSA  PreCheck  Application Program Annual Enrollments | Total   TSA PreCheck   Enrollments minus non-renewals
+ | A | B = expiring population ×  0.684 × 0.95 | C   = expiring population ×  0.684 × 0.05 | D = A + B + C | E
+2021 | 1,951,994 | 1,457,844 | 61,067 | 3,470,905 | 12,127,299
+2022 | 1,751,994 | 1,077,586 | 45,139 | 2,874,719 | 13,360,608
+2023 | 1,600,000 | 1,200,122 | 50,272 | 2,850,393 | 14,382,941
+Total | 5,303,988 | 3,735,552 | 156,478 | 9,196,018 | 15,175,262
+A verage | 1,767,996 | 1,245,184 | 52,159 | 3,065,339 | 13,290,283
+*Note: Table may not sum due to rounding.  
+
+Based on historical data from the TSA PreCheck Application Program, TSA estimates that applicants will provide biographic and biometric data as follows with the below listed burdens. In addition, TSA has also included time that an applicant may wait on average at an enrollment location before beginning the in-person portion of the application process. 
+
+
+Table 2: Estimated Time and Percentage of Applicants for Providing Enrollment Data
+Type of Enrollment Data Submission | Estimated % of Applicants | Estimated Time Burden per Applicant (not including travel time, discussed below)
+Online pre-application/pre-enrollment followed by in-person visit to an enrollment  location | 80% (initial applicants) |    29 minutes total based on: 10 min online pre-application 9 min in - person application completion at enrollment  location 10 min wait time at enrollment  location
+In-person at an enrollment  location  with no pre-enrollment | 20% (initial applicants) | 22 minutes total based on: 12 min in - person application completion at enrollment  location 10 min wait time at enrollment  location
+Online renewal  | 95% (renewals) | 10 min utes total based on 10 min online renewal  application
+In-person renewal at an enrollment  location | 5% (renewals) | 22 minutes total based on: 12 min in - person application completion at enrollment  location 10 min wait time at enrollment  location
+Provide Enrollment Feedback via Customer Satisfaction Survey | 25% (all applicants) | 5 minutes
+In-person post-enrollment at an enrollment  location  to provide additional biometric data | 2 0%  (all applicants) | 5 minutes
+Online post-enrollment to upload valid identity and citizenship or immigration data or documents | 20%  (all applicants) | 5 minutes
+Mail or fax of valid identity and citizenship or immigration documents | 10%  (all applicants) | 5 minutes
+
+Applying the above estimated percentages of how applicants choose to provide information to TSA, the tables below reflect TSA’s calculations for the TSA PreCheck Application Program enrollment burden. For in-person enrollment TSA estimates the wait time average is 10 minutes.  TSA estimates a round-trip travel time of 54 minutes. Actual travel time may vary depending on each applicant’s specific circumstances, regional location, and proximity to a TSA enrollment location. With the addition of enrollment vendors, TSA will see additional enrollment locations and possible changes to enrollment processes, which should reduce the burden on applicants and make enrollments and renewals more convenient. 
+
+
+Initial Applicant Online Pre-Enrollment Followed by In-Person Enrollment Burden
+
+Currently, 80 percent of initial applicants pre-apply or pre-enroll online before visiting an enrollment location. 
+For those individuals, TSA estimated the time burden as 19 minutes, which is the sum of the average online pre-enrollment time of 10 minutes and the average in-person enrollment time of 9 minutes for the collection of additional data elements such as fingerprint and facial image capture and an applicant verification of biographic information provided during online pre-enrollment.
+In addition to these time burden estimates, TSA added 10 minutes of time to the total estimate in order to account for possible wait time at the enrollment location and 54 minutes for a roundtrip commute time for a total time of 83 minutes or 1.38 hours. 
+
+Table 3 presents the calculation of the estimated total hour burden for applicants that choose online pre-application/pre-enrollment followed by in-person visit to an enrollment location.
+
+Table 3: Estimates for applicants that choose online pre-application/pre-enrollment followed by in-person visit to an enrollment  location
+Calendar Year  | Pre-Enrollment Applicants  | Hours to Pre-Enroll per Applicant  | Total Hours
+ | A  = 0.8 × initial enrollments | B   =  (83 minutes = 1.38 hours)    | C = A ×  B
+2021 | 1,561,595 | 1.3833 | 2,160,207
+2022 | 1,401,595 |  | 1,938,874
+2023 | 1,280,000 |  | 1,770,667
+Total | 4,243,191 |  | 5,869,747
+*Note:  Table may not sum due to rounding.
+
+Initial and Renewal Applicant In-Person Enrollment without Pre-Enrollment Burden
+
+Currently, approximately 20 percent of initial applicants apply by proceeding directly to an enrollment location on a walk-in or walk-by basis without providing biographic pre-enrollment information in advance. Approximately five percent of applicants eligible for renewal are either required to renew in-person at an enrollment location or choose to renew in-person. The time burden for in-person renewals is similar to the time burden for in-person enrollment without pre-enrollment burden. Applicant data may be captured and submitted at an enrollment location.
+TSA estimates that the collection of additional data elements such as biometric facial image or an iris scan and submission and verification of biographic information will continue to take an enrollment time of approximately 12 minutes.
+In addition to these estimates, TSA added 10 minutes of time to the total estimate in order to account for possible wait time at the enrollment facility and 54 minutes for a roundtrip commute time for a total time of 76 minutes or 1.27 hours. This information is captured in Table 4 below.
+
+
+Table 4: Estimates for applicants that choose not to pre-apply/pre-enroll and   provide data in-person at an enrollment  location
+Calendar Year  | In Person  Initial  Enrollments with no Pre-Enrollment  | In Person  Renewals   | In Person Enrollments   with no Pre-Enrollment  and  In Person  Renewals   | Hours to Enroll per Applicant  | Total Hours
+ | A = 0.2 × initial enrollments | B = 0.05 × renewals | C = A + B | D = (76 minutes = 1.27 hours    ) | E = C ×  D
+2021 | 390,399 | 61,067 | 451,466 | 1.2667 | 571,857
+2022 | 350,399 | 45,139 | 395,538 |  | 501,014
+2023 | 320,000 | 50,272 | 370,272 |  | 469,011
+Total | 1,060,798 | 156,478 | 1,217,275 |  | 1,541,882
+*Note:  Table may not sum due to rounding.
+
+Online Renewal 
+
+Currently, approximately 95 percent of applicants deciding to renew complete their renewal application online, and TSA expects this to continue. This process is a similar length of time as the pre-enrollment process. The additional time required to process payment is made up by a reduction in the amount of biographic data collected. This information is captured in Table 5 below.
+
+Table 5: Estimates for  online  renewal applicants 
+Calendar Year  | Online  Renewals   | Hours to Enroll Online per  Applicant  | Total Hours
+ | A = 0.95 × renewals | B = (10 minutes = 0.1667 hours    ) | C = A × B
+2021 | 1,457,844 | 0.1667 | 242,974
+2022 | 1,077,586 |  | 179,598
+2023 | 1,200,122 |  | 200,020
+Total | 3,735,552 |   | 622,592
+*Note:  Table may not sum due to rounding.
+
+Post-Enrollment Biometric Submission Burden
+
+In the future, individuals may return to an enrollment location after their enrollment to provide biometrics that may not have been captured during their initial enrollment or renewal. During the launch of the TSA PreCheck Application Program, fingerprints were the only required biometric for an individual’s application. TSA may use additional biometrics, such as a facial image, at the airport checkpoint for identity verification to ensure the individual is the applicant granted eligibility for the program. TSA estimates certain individuals, such as those enrolled in the TSA PreCheck Application Program prior to the collection of the facial image and/or iris scan biometric or in other TSA PreCheck-eligible populations without the additional biometrics requirements, may choose to come back to provide additional biometrics. The time submission burden is derived from the estimated number of online renewals multiplied by the percentage of those providing biometrics post-enrollment (20%) and the estimated time for submission (five minutes) plus travel (54 minutes), or 59 minutes. Table 6 provides the estimated total hours for applicants that provide biometrics post-enrollment. 
+
+Table 6 : Estimates for applicants that provide biometrics post-enrollment
+Calendar Year  | Online Renewal Population* * |  Post-Online Renewal Providing of Biometrics | Hours to Provide Biometrics per Applicant  | Total Hours
+ | A | B  = 0. 20 ×  A | C  = (59 minutes = 0.9833 hours) | D =  B  × C
+2021 | 2,742,930 | 548,586 | 0.9833 | 539,443
+2022 | 1,077,586 | 215,517 |  | 211,925
+2023 | 1,200,122 | 240,024 |  | 236,024
+Total |   | 1,004,128 |  | 987,392
+**Note:  Column A of Year 2021 includes individuals that renewed their PreCheck online in 2019 (527,881) and 2020 (757,205) in addition to 2021 online renewals (1,457,844), as these individuals may enter the checkpoint in 2021 and may opt into using facial recognition technology. TSA assumes 20 percent of these online renewals do not have a recent passport photo on file or other biometric data and TSA did not collect their photo during their initial enrollment and online renewal. In Column A Year 2022, TSA only includes online renewals for year 2022, as prior years renewals have already gathered photos by 2022. Column A Year 2023 only includes online renewals for 2023. Table may not sum due to rounding.
+
+Post-Enrollment Identity and Citizenship or Immigration Data/Document Submission Burden
+
+Since the launch of the TSA PreCheck Application Program, TSA has turned away applicants who have not brought valid or sufficient identity and citizenship or immigration documents at the time of in-person enrollment. This occurs primarily for individuals who inquire about applying on a walk-in basis, mostly at airport enrollment locations, but do not have all the required identity and/or proof of citizenship or immigration eligibility documentation with them. The optional Birth Certify service referenced in the answer to question two is one way a TSA enrollment provider has assisted applicants who would otherwise be denied enrollment at their time of interest. Due to the significant number of applicants who have been turned away in the past, TSA may allow individuals who did not provide or bring their citizenship or immigration data or documents to an enrollment location and who may not use optional services such as Birth Certify to provide this information pre- or post-enrollment. TSA estimates that 20 percent of applicants may elect to provide this information online while 10 percent will choose to mail, email, or fax the information. The corresponding hour burden estimates are reflected in Tables 7 and 8.
+
+Table 7 : Estimates for applicants that provide identity and citizenship or immigration data or documents online post-enrollment
+Calendar Year  | Online  Pre- or  Post-Enrollment Providing of Identity, Citizenship, Immigration Data Documents   | Hours to Provide Data or Documents per Applicant  | Total Hours
+ | A   = 0.2 × initial enrollments | B     =  (5 minutes = 0.0833 hours) | C = A ×  B
+2021 | 390,399 | 0.0833 | 32,533
+2022 | 350,399 |  | 29,200
+2023 | 320,000 |  | 26,667
+Total | 1,060,798 |   | 88,400
+*Note:  Table may not sum due to rounding.
+
+Table  8 : Estimates for applicants that provide identity and citizenship or immigration data or documents via mail or fax post-enrollment
+Calendar Year  | Mail   or Fax Post-Enrollment Providing of Identity, Citizenship, Immigration Data Documents   | Hours to Provide Data or Documents per Applicant  | Total Hours
+ | A   = 0.1 × initial enrollments | B  =  (5 minutes =  0 .08 33  hours) | C   = A  ×  B
+2021 | 195,199 | 0.0833 | 16,267
+2022 | 175,199 |  | 14,600
+2023 | 160,000 |  | 13,333
+Total | 530,399 |   | 44,200
+*Note:  Table may not sum due to rounding.
+
+Table 9 provides the calculated total enrollment burden hours. This estimate was calculated by adding the total enrollment burden hours for online pre-enrollments, online renewals, in-person enrollments and renewals, and post-enrollment data submission burdens for each period. The customer satisfaction survey burden hours are estimated in conjunction with other surveys in this collection described below. 
+
+
+Table 9:  Total Esti mated Enrollment Time Burden ( Hours )
+Calendar Year  | Enrollment with  Online Pre-Enrollments   | In i tial and Renewal In-Person Enrollment with no Pre-Enrollment  | Online Renewals  | Post-Enrollment Biometric Submission  | Pre- or  Post-Enrollment Online Data and Document Submission  | Post-Enrollment Mail/ Email/  Fax Data and Document Submission  | Total Application Enrollment 
+ | A | B | C | D | E | F | G=A+B+C+D+E+F
+2021 | 2,160,207 | 571,857 | 242,974 | 539,443 | 32,533 | 16,267 | 3,563,281
+2022 | 1,938,874 | 501,014 | 179,598 | 211,925 | 29,200 | 14,600 | 2,875,211
+2023 | 1,770,667 | 469,011 | 200,020 | 236,024 | 26,667 | 13,333 | 2,715,755
+Total | 5,869,747 | 1,541,882 | 622,592 | 987,392 | 88,400 | 44,200 | 9,154,213
+Average | 1,956,582 | 513,961 | 207,531 | 329,131 | 29,467 | 14,733 | 3,051,404
+*Note:  Table may not sum due to rounding.
+
+
+
+Estimated Number of Applicants and Associated Time Burden by Year for Correction of Records
+
+After individuals provide biographic and biometric information and payment to TSA, TSA conducts the STA to determine eligibility for the TSA PreCheck Application Program. If initially deemed ineligible, applicants have an opportunity to correct cases of misidentification or inaccurate criminal records.
+
+Based on current data, approximately 0.07 percent of TSA PreCheck Application Program applicants are deemed initially ineligible. TSA sends a letter to the applicant with information regarding their potential disqualification along with instructions for applying for a correction of record. Of this 0.07 percent, approximately 35 percent of individuals contact TSA in writing and request a correction of record before TSA makes a final determination. 
+
+Individuals who request a correction of record must do a variety of activities. At the very least, individuals must write a letter to TSA, and they also must collect information about any criminal convictions from courts or local jurisdictions regarding criminal history-related disqualifying factors. TSA does not have full visibility into the time that individuals spend to request corrections for TSA STA programs. The time taken by applicants to gather information will vary depending on each individual’s specific circumstances. For example, some individuals may need to request additional documents from multiple jurisdictions and entities if there are multiple items (such as criminal history events) to address and the individual does not have historical records on hand. However, TSA estimated an average of six hours of burden after extrapolating data based on customer service inquiries and TSA support provided to applicants who requested assistance for submitting requests to TSA. This information is presented in Table 10 below.
+
+Table 10 : Estimated Correction of Record Burden by Year
+Calendar Year  | Initial Enrollments and Renewals |   Percentage of  Applicants Initially Deemed Ineligible | Percentage of  Applicants Initially Deemed Ineligible that  request a Correction of Records | Estimated Total # of Applicants to Request a Correction of Record | Estimated Time Burden in hours per Applicant for Correction of Records | Total Correction of Records Hours
+  | A | B  =  0. 00 07  | C  = 0.35 | D  = (A× B × C) | E = 6 hours | F  = (D× E)
+2021 | 3,470,905 | 0.07% | 35% | 850 | 6 | 5,102
+2022 | 2,874,719 |  |  | 704 |  | 4,226
+2023 | 2,850,393 |  |  | 698 |  | 4,190
+Total | 9,196,018 |   |   | 2,253 |   | 13,518
+A verage | 3,065,339 |   |   | 751 |   | 4,506
+*Note: Table may not sum due to rounding. 
+
+Surveys
+
+Enrollment Customer Satisfaction Survey Burden
+
+After completing enrollment or renewal, applicants are provided the option to respond to a customer satisfaction survey. Based on current data, approximately 25 percent of applicants will choose to respond to the survey questions. TSA estimates the survey takes an average of five minutes to complete. The survey burden is derived from the estimated number of enrollments from Table 1, multiplied by percentage of participation (25 percent) and by five minutes per survey. Table 11 presents the calculation of the estimated total hour burden for applicants who choose to respond to the customer satisfaction survey.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 11: Burden Hour Estimates for the Post Enrollment Customer Satisfaction Survey
+Calendar Year  | Post Enrollment Customer Survey Participants  | Hours to Complete Survey per Applicant  | Total Hours
+ | A = 0.25 × initial enrollments, online and in-person renewals | B =  (5 minutes =  0.0833  hours   ) | C=  A × B
+2021 | 867,726 | 0.0833 | 72,311
+2022 | 718,680 |  | 59,890
+2023 | 712,598 |  | 59,383
+Total | 2,299,004 |   | 191,584
+*Note:  Table may not sum due to rounding.
+
+Non-Renewal Survey Burden
+
+For individuals who choose not to renew their TSA PreCheck eligibility, TSA will ask why they chose not to renew to understand how to improve TSA PreCheck. TSA estimates the survey will take an average of one minute to complete, that 100 percent of the non-renewal population will get the survey, and 10 percent of those who received the survey will respond. The survey burden is derived from the number of individuals who choose not to renew but receive a survey and respond, multiplied by one minute per survey. Table 12 presents the calculation of the estimated total hour burden for individuals that choose to respond to the non-renewal survey.
+
+Table 12: Burden Hour Estimates for the Non-renewal  Survey
+Calendar Year  | Non-Renewal Survey Customer Survey Participants  | Hours to Complete Survey | Total Hours
+ | A = 0.1 × non-renewal population  | B = ( 1 minute  = 0. 016667  hours   ) | C= A × B
+2021 | 70,172 | 0. 0167 | 1,170
+2022 | 51,869 |  | 864
+2023 | 57,767 |  | 963
+Total | 179,807 |   | 2,997
+*Note:  Table may not sum due to rounding.
+
+Experience Survey Burden
+
+For TSA PreCheck members, TSA will randomly survey half the active TSA PreCheck members each year to get information on their experience (Column E in Table 1). TSA estimates the survey will take an average of five minutes to complete and that 25 percent of those who receive the survey will respond to the survey. The survey burden is derived from the number of individuals who receive a survey and respond, multiplied by five minutes per survey. Table 13 presents the calculation of the estimated total hour burden for individuals that choose to respond to the experience survey.
+
+Table 13: Burden Hour Estimates for the Experience Survey
+Calendar Year  | Experience Survey Participants  | Hours to Complete Survey   | Total Hours
+ | A = 0.5 (receiving survey) × 0.25 (responding to survey)  ×  active  members | B = (5 minutes = 0.0833 hours   ) | C= A × B
+2021 | 1,515,912 | 0.0833 | 126,326
+2022 | 1,670,076 |  | 139,173
+2023 | 1,797,868 |  | 149,822
+Total | 4,983,856 |   | 415,321
+*Note:  Table may not sum due to rounding.
+
+Ad Campaign Survey Burden
+
+TSA will randomly survey a sample of active TSA PreCheck members (Column E in Table 1) to ask about its current and future ad campaigns. TSA estimates the survey takes an average of 5 minutes to complete and that 50 percent of the TSA PreCheck population will get the survey and 25 percent of those who receive the survey will respond. The survey burden is derived from the number of individuals who receive a survey and respond, multiplied by five minutes per survey. Table 14 presents the calculation of the estimated total hour burden for individuals that choose to respond to the ad campaign survey.
+
+Table 14:  Burden Hour Estimates for the  Ad Campaign Surveys | 
+Calendar Year  | Ad Campaigns Survey Participants  | Hours to Complete Survey   | Total Hours
+ | A = 0.5 (receiving survey) × 0.25 (responding to survey)  ×  active  members | B =  (5 minutes =  0.0833  hours   ) | C = A × B
+2021 | 1,515,912 | 0.0833 | 126,326
+2022 | 1,670,076 |  | 139,173
+2023 | 1,797,868 |  | 149,822
+Total | 4,983,856 |   | 415,321
+*Note:  Table may not sum due to rounding.
+
+Total Annual Burden:  TSA estimates the annual total burden for all collection pieces of this ICR is approximately 3,397,652 hours.
+
+Table 15: Estimated Total Hourly Burden |  | 
+Calendar Year  | Total Application Enrollment Burden in Hours | Total Correction of Records Burden in Hours | Surveys | Total Time Burden in Hours
+  | A | B | C | D   = A   +   B   +   C
+2021 | 3, 563,281 | 5,102 | 326,132 | 3, 894,515
+2022 | 2,875,211 | 4,226 | 339,100 | 3, 218,537
+2023 | 2, 715,722 | 4,190 | 359,991 | 3, 079,902
+Total | 9, 154,213 | 13,518 | 1, 025,223 | 10, 192,955
+Average | 3, 051,404 | 4,506 | 341,741 | 3,397,652
+*Note:  Table may not sum due to rounding.
+
+Total Annual Number of Responses:  The projected total number of responses for all aspects of this program is 24,240,119 responses. The projected average annual number of responses is 8,080,040.
+
+Table 16: Estimated Total Number of Responses |  |  |  |  |  | 
+Calendar Year  (CY) | Pre-Enrollment Applicants | In Person Enrollments with no Pre-Enrollment | Online Renewals  |  Post-Enrollment Providing of Biometrics | Online Post-Enrollment Providing of Identity, Citizenship, Immigration Data Documents  | Mail or Fax Post-Enrollment Providing of Identity, Citizenship, Immigration Data Documents  (10% of Enrollments) | Estimated Total # of Applicants to Request a Correction of Record | Surveys | Total # of Responses
+  | A | B | C | D | E | F | G | H | I=A+B+C+D+E+F+G+H
+2021 | 1,561,595 | 451,466 | 1,457,844 | 548,586 | 390,399 | 195,199 | 850 | 3,969,723 | 8,575,663
+2022 | 1,401,595 | 395,538 | 1,077,586 | 215,517 | 350,399 | 175,199 | 704 | 4,110,700 | 7,727,240
+2023 | 1,280,000 | 370,272 | 1,200,122 | 240,024 | 320,000 | 160,000 | 698 | 4,366,100 | 7,937,216
+Total | 4,243,191 | 1,217,275 | 3,735,552 | 1,004,128 | 1,060,798 | 530,399 | 2,253 | 12,446,524 | 24,240,119
+A verage | 1,414,397 | 405,758 | 1,245,184 | 334,709 | 353,599 | 176,800 | 751 | 4,148,841 | 8,080,040
+*Note:  Table may not sum  due to rounding in the table.
+
+TSA assumes applicants for the TSA PreCheck Application Program can be employed in various industries and occupations. Therefore, TSA uses a fully loaded compensation rate of $36.63, including both wages and benefits, for each respondent.
+
+TSA estimates the total cost burden for TSA PreCheck Application Program respondents by multiplying the number of application enrollees by the compensation rate for each respondent. Multiplying the total time burden in hours, 10,192,955, by the loaded wage rate of $36.63, TSA estimates a total hourly cost burden estimate of $373,367,928 for TSA PreCheck Application Program respondents. TSA multiplies the average time burden in hours, 3,397,652, by the hourly rate of $36.63 to estimate an average hourly cost burden of $124,455,976. Table 17 below displays both three-year total hourly cost burden and average hourly cost burden for TSA PreCheck Application Program respondents.
+
+Table 17: Estimated Total Hourly Cost Burden By Year | 
+Calendar Year  | Total Time Burden in Hours | Hourly  Compensation Wage Rate | Total  Time  Cost Burden
+  | A | B | C = A  ×  B
+2021 | 3,894,515 | $36.63 | $142,656,089
+2022 | 3,218,537 |  | $117,895,016
+2023 | 3,079,902 |  | $112,816,823
+Total | 10,192,955 |   | $373,367,928
+Average | 3,397,652 |   | $124,455,976
+*Note:  Table may not sum due to rounding.
+
+Provide an estimate of the total annual cost burden to respondents or record keepers resulting from the collection of information.
+
+Applicants who enroll through TSA’s current program are required to pay a non-refundable fee of approximately $85 when enrolling.  Renewal applicants who renew will be required to pay approximately $75. In the future, TSA expects there may be a differentiation in cost between in-person and online renewals.  Lastly, TSA estimates a charge of approximately $15.00 for individuals who only visit an enrollment location to submit additional biometrics to cover enrollment providers’ costs to collect the information.
+
+TSA estimates the total annual cost burden to respondents resulting from the collection of information based on the sum of the application enrollment fee costs and the correction of record fee costs. Table 18 presents the total fee costs.
+
+
+Table 18: Estimated Application Enrollment Cost Burden |  |  |  |  |  | 
+Calendar Year  | Total TSA Pre Check  Application Program Initial Enrollments | TSA Pre Check  Application Program Annual Enrollment Fee s  (Initial) | Total TSA Pre Check  Application Program  (In-person Renewals) | TSA Pre Check  Application Program Annual  Enrollment Fe es  ( In-person Renewals) | Total TSA Pre Check  Application Program Online Renewal Enrollments | TSA Pre Check  Application Program On-Line Annual Enrollmen t  Fee s | Post-Enrollment Biometric Enrollees | Post-Enrollment Biometric Fee s * | Total Program Estimated Fee
+  |   | $8 5 .00  |   | $7 5 .00  |   | $ 75 .00  |   | $15.00  |  
+  | A | B= A  ×  $8 5 | C | D= C  ×  $7 5 | E | F =   E   ×  $ 75 | G | H   =   G  ×   $15 | I = B +D+F+ H
+2021 | 1,951,994 | $165,919,510  | 61,067 | $4,580,049  | 1,457,844 | $109,338,270  | 548,586 | $8,228,790  | $288,066,619 
+2022 | 1,751,994 | $148,919,510  | 45,139 | $3,385,410  | 1,077,586 | $80,818,974  | 215,517 | $3,232,759  | $236,356,653 
+2023 | 1,600,000 | $136,000,000  | 50,272 | $3,770,375  | 1,200,122 | $90,009,132  | 240,024 | $3,600,365  | $233,379,873 
+Total | 5,460,466 | $450,839,020 | 156,478 | $11,735,834 | 3,735,552 | $280,166,376 | 1,004,128 | $15,061,914  | $757,803,145
+Average | 1,767,996  | $150,279,673 | 52,159 | $3,911,945 | 1,245,184 | $93,388,792 | 334,709 | $5,020,638 | $252,601,048
+*Note:  Table may not sum due to rounding.
+
+For individuals who choose to request a Correction of Record after TSA notifies them of its preliminary determination of ineligibility, TSA estimates the cost to be $1.00 per applicant request to include costs for mailing a request to TSA and the potential average costs for printing, photocopying, or requesting additional supporting documentation if necessary. As mentioned in Question 12, TSA does not have full visibility to the cost individuals will incur to request corrections for the program, but it extrapolated data based on customer service inquiries and TSA support provided to applicants who requested assistance for submitting requests to TSA. As a result, the costs will vary since some individuals may need to request additional documents from multiple jurisdictions and entities if there are multiple items to address (such as criminal history events) and the individual does not have historical records on hand. 
+
+
+Table  19 : Estimated Correction of Record Cost Burden
+Calendar Year | Correction of Records Requests | Average Cost for a Correction of Record Request: $1 | Total Correction of Record Cost Burden
+  | A |  B | C = A × B
+2021 | 850 | $1  | $850 
+2022 | 704 |  | $704 
+2023 | 698 |  | $698 
+Total | 2,253 |   | $2,253
+Average | 751 |   | $751
+*Note:  Table may not sum due to rounding.
+
+The three-year total cost burden for the TSA PreCheck Application Program is estimated to be $757,805,398 based on the sum of total application enrollment costs and total correction of record costs. The average annual total cost burden is estimated to be $252,601,799, as displayed in Table 20.
+
+
+
+Table 20: Estimated Total Application Enrollment Cost Burden | 
+Calendar Year  | Total Application Enrollment Cost Burden | Total Correction of Record Cost Burden | Total Cost Burden
+  | A | B | C = A   +   B
+2021 | $288,066,619  | $850  | $288,067,469 
+2022 | $236,356,653  | $704  | $236,357,358 
+2023 | $233,379,873  | $698  | $233,380,571 
+Total | $757,803,145  | $2,253  | $757,805,398 
+A verage | $252,601,048  | $751  | $252,601,799 
+*Note:  Table may not sum due to rounding.
+
+Provide estimates of annualized cost to the Federal Government. Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information.
+
+The cost to the Government for STAs is recovered in the fee charged to TSA PreCheck Application Program applicants (estimates are reflected in Table 20 above). Fees collected must cover not only initial costs but also the technology and operational costs over the period that the applicant’s STA is valid. As noted above in the response to question #4, in relation to start-up costs, TSA leveraged existing information technology infrastructure and systems, and other established processes to collect information and conduct the STA for the TSA PreCheck Application Program.
+
+Due to the possibility of multiple enrollment providers with different prices, TSA estimates the average initial enrollment cost would be $85 per person and the renewal cost would be $75 per person. In the future, TSA expects there may be a differentiation in cost between in-person and online renewals.
+
+The fee comprises three components: the enrollment provider fee, the TSA fee, and the FBI fee when required. The enrollment provider fee component is designed to fully recover the estimated costs the enrollment provider incurs to enroll applicants.  The enrollment provider fee will vary for each enrollment provider based on the provider’s costs as well as additional offerings, bundles, or promotions offered by the enrollment provider.  
+
+The TSA fee is designed to cover the cost of processing applications, including the development, maintenance, and operation of the information technology platforms that are used to conduct a security threat assessment; verification of identity and U.S. citizenship or other permissible immigration status of the applicants; adjudication of the results of the various background checks conducted during the vetting process; and overall management and oversight of the enrollment and vetting program.
+
+The FBI Fee component is designed to fully recover the cost that the FBI imposes to conduct a CHRC. As part of the STA, the enrollment providers submit fingerprints to the FBI on behalf of TSA so that TSA may obtain any criminal history records that correspond to the fingerprints. The FBI is authorized to establish and collect fees to process fingerprint identification records. See 28 U.S.C. § 534 note. The FBI has set the fee for an initial criminal history records check at $11.25 and the fee for recurrent vetting and renewals at $0 when conducted via the FBI’s Rap Back service. See Notice, FBI Criminal Justice Information Services Division; Revised User Fee Schedule, 83 FR 48335 (Sep. 24, 2018).   As such, TSA expects applicants will only be responsible for paying the $11.25 FBI fee upon initial enrollment.
+
+The enrollment provider collects the total fee at the time of application in accordance with TSA-approved payment methods. TSA generally does not issue fee refunds once vetting services have commenced but may do so if enrollment providers mistakenly enroll applicants with insufficient or invalid enrollment documentation (TSA does not complete the STA process for applicants in this situation). TSA may also allow partial refunds of the TSA fee if TSA has not begun vetting an applicant. Further, TSA does not refund the fee, in whole or in part, to individuals who are not approved for participation in the program based upon the results of TSA’s assessment. The TSA PreCheck Application Program KTN, and the underlying STA, are valid for a maximum of five years, unless a disqualification occurs or as stated by the terms and conditions of their enrollment. Disqualifications are found through recurrent daily vetting conducted on existing, approved participants of the TSA PreCheck Application Program as well as through external notification of potential disqualifications or individuals who self-report that they committed disqualifying offenses to TSA.
+
+Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+TSA adjusted the burden estimates based on enrollment process changes, additional voluntary surveys, estimated fee changes, and estimated populations since the previously submitted ICR.
+
+For collections of information whose results will be published, outline plans for tabulation and publication. Address any complex analytical techniques that will be used. Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+TSA will not publish or release results from this information collection, including information gained through the surveys.
+
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+TSA is not seeking such approval.
+
+Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+TSA does not seek any exception to the certification statement.
+PART word/footnotes.xml
+
+
+
+ Unless otherwise specified, for the purposes of this document, “biometrics” refers to fingerprints, facial imagery and/or iris scans.
+TSA’s fingerprint collection procedures conform with FBI criminal history records check request requirements, which include standards and guidance for submitting requests for individuals with amputations and other circumstances that prevent a 10-finger biometric submission. 
+ Table 1 includes an estimated reenrollment population, since all current enrollees have a five-year renewal period. 
+ This population consists of TSA PreCheck Application Program enrollments from 2013 through the listed year minus non-renewals.
+ 84 minutes = 10 minutes (online pre-enrollment time) + 9 minutes (collection of additional data elements) + 10 minutes (wait time) +54 minutes (round trip-travel time)
+ 76 minutes = 12 minutes (collection of additional data elements such as biometric time) + 10 minutes (wait time) + 54 minutes (round trip-travel time).
+ Collection of facial images did not start until the last quarter of 2018. 
+ Employer Costs for Employee Compensation (ECEC), a product of the National Compensation Survey, measures employer costs for wages, salaries, and employee benefits for nonfarm private and state and local government workers. Bureau of Labor Statistics, Employer Costs for Employee Compensation News Release, Table 1, (Total Compensation for Civilians, Private Sector, Local and State Government Employees). Data as of September 2018, Released December 2018. https://www.bls.gov/news.release/archives/ecec_12142018.pdf
+ TSA intends to allow new TSA PreCheck enrollment providers to set enrollment fees, provided they provide TSA and the FBI with their portions of the enrollment fee as defined in the Federal Register.  As such, each enrollment provider can set a unique fee/fees.  Based on pricing from TSA’s current operational enrollment provider, TSA estimates that the TSA PreCheck fee will be approximately $85. Other enrollment providers may set different prices.
+ TSA estimates a cost reduction for in-person renewals compared to initial enrollments after removing the FBI fee for renewals, resulting in a $75 fee for renewals.
+ TSA PreCheck enrollment providers may set different fees for online versus in-person renewals, and there is uncertainty on price points for the different providers.  Additionally, TSA removed the FBI fee in the online renewal fee range. TSA estimates a range of $65 to $85 for renewal, with the midpoint of $75 for the cost estimates.
+PART word/endnotes.xml
+
+

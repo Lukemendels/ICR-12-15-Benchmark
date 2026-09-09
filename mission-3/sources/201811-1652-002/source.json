@@ -1,0 +1,32 @@
+{
+  "ref": "201811-1652-002",
+  "retrieved_at": "2026-09-09T17:29:43.474031+00:00",
+  "documents": [
+    {
+      "id": "da7f224db64c2e39",
+      "title": "1652-0039 TSAClaimsApp SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=87688601",
+      "path": "mission-3/sources/201811-1652-002/da7f224db64c2e39.txt",
+      "sha256_raw": "6ef5566cf3da49e83d8644ae9393c1cff08430b384d4b3f258a5a93d8023a8f8",
+      "sha256_text": "5eff798f87c9aff58a04d3c13f4f6a7b83141d21cd500fa363181ced15c3a868",
+      "format": ".docx",
+      "chars": 17848,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=201811-1652-002",
+    "path": "mission-3/sources/201811-1652-002/record.txt",
+    "sha256_raw": "b8db80d4f1de88a57e22552af752dfb14a7844411e36510c75cbef9c9dea9366",
+    "sha256_text": "9c9ee84d80dcabfa805c2278d78f062b620dd7bde221c36ddee811cf115ede62"
+  },
+  "previous_ref": "201506-1652-002",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201811-1652-002",
+    "path": "mission-3/sources/201811-1652-002/document_index.txt",
+    "sha256_raw": "543b432a63eddc61a63f2b5537d1e6ed29d94667ea9e38e39a0b958c34d64e06",
+    "sha256_text": "6982525d554baf7d3e5e2805abff4367ac3688331f7da844dd4ca6e15c132afb"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ref": "201912-1652-003",
+  "retrieved_at": "2026-09-09T17:30:49.208340+00:00",
+  "documents": [
+    {
+      "id": "659343e43b94c674",
+      "title": "1652-NEW LEOsFlyingArmed SS (2.20.2019).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=96863101",
+      "path": "mission-3/sources/201912-1652-003/659343e43b94c674.txt",
+      "sha256_raw": "7b44bc4cd05f2a379d92d35bd6c756278a3f83efc8abe0e0ac9d488838b7d673",
+      "sha256_text": "4f75898f0cfb72547d68ffa6d780916a09183971587b8f121bf8d3f97253b48f",
+      "format": ".docx",
+      "chars": 14083,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=201912-1652-003",
+    "path": "mission-3/sources/201912-1652-003/record.txt",
+    "sha256_raw": "950f312c815c235486711caf69721f7b3d0b7ce5c79e5f6312db86fb11d8762d",
+    "sha256_text": "1ece4e9ae9b881d307aa7f5592f32d9609d73413acf4080c4610833ad79f0c24"
+  },
+  "previous_ref": "201902-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201912-1652-003",
+    "path": "mission-3/sources/201912-1652-003/document_index.txt",
+    "sha256_raw": "c00975ee32374a1026a951775a232525f5b74cd8e2c949b244dd49e1a692a777",
+    "sha256_text": "dcfe7f9b58ae0ca23b4dca62f5152a778a4962e8a2f9b0079bcfc104b594a5bc"
+  }
+}

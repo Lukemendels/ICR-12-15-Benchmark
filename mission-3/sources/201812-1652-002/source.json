@@ -1,0 +1,32 @@
+{
+  "ref": "201812-1652-002",
+  "retrieved_at": "2026-09-09T17:30:07.094723+00:00",
+  "documents": [
+    {
+      "id": "c82103e88619211b",
+      "title": "1652 0013 Aviatn Sec Cust SS Part A 12.10.2018.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=88165701",
+      "path": "mission-3/sources/201812-1652-002/c82103e88619211b.txt",
+      "sha256_raw": "bb8c1503a768ee3550714c79f73d5b949359f8ad88e471e6f72f01aca02085c9",
+      "sha256_text": "0bfa0c6b5c005f62d35fcaea0d4ef0eb2ec3e9958c304a3fd49d28b54048f7ec",
+      "format": ".docx",
+      "chars": 24561,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=201812-1652-002",
+    "path": "mission-3/sources/201812-1652-002/record.txt",
+    "sha256_raw": "26f1a43afce57819e1923fc860b20300e3c375f0474a83babf501bf2066fbd0b",
+    "sha256_text": "b7b28ce55d93f1d2044fd22c95f1a175fabcd2b56d5aedc79afaffb55f642f89"
+  },
+  "previous_ref": "201608-1652-003",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201812-1652-002",
+    "path": "mission-3/sources/201812-1652-002/document_index.txt",
+    "sha256_raw": "96ae4da937291414ac8628c37740c2144a85d7b87daa82c6bd23578bf49b0361",
+    "sha256_text": "a95d0ba510e00c13b5437f2a3bce3fffcb5f75908101587fcd99fc6dfe6f5c11"
+  }
+}

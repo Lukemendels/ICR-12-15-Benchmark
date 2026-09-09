@@ -1,0 +1,32 @@
+{
+  "ref": "201911-1652-001",
+  "retrieved_at": "2026-09-09T17:30:32.337252+00:00",
+  "documents": [
+    {
+      "id": "da92593b1736022c",
+      "title": "1652-0065 TSA infoBoards SS (11.26.2019).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=96480201",
+      "path": "mission-3/sources/201911-1652-001/da92593b1736022c.txt",
+      "sha256_raw": "473600a530168ab70eeabf449976395cd362641b59b572ceeacedcd11cf3c1ef",
+      "sha256_text": "f2231bf84fd5a9710e017bdfd6b4059dd6c15257e3be2098773e91ce2868b0c0",
+      "format": ".docx",
+      "chars": 18155,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=201911-1652-001",
+    "path": "mission-3/sources/201911-1652-001/record.txt",
+    "sha256_raw": "086cd23c82a135a2739244c2245de1c3018f469af8f30b4bb3e31685bc128e1b",
+    "sha256_text": "83d870c7deedfb80ad035c384d64626d83bead59ba15ba8ec203b650acfebc50"
+  },
+  "previous_ref": "201610-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=201911-1652-001",
+    "path": "mission-3/sources/201911-1652-001/document_index.txt",
+    "sha256_raw": "64a3c2159dab93cb7dba338a039df933fd404e5fc54b8290b9c706a33ff9d3f8",
+    "sha256_text": "5081bb97c778a6538a431e3d194b81fb9d175cbdf2411391caedb2ad46f988ea"
+  }
+}

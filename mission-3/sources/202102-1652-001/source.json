@@ -1,0 +1,32 @@
+{
+  "ref": "202102-1652-001",
+  "retrieved_at": "2026-09-09T17:30:56.517393+00:00",
+  "documents": [
+    {
+      "id": "f6472f7c7abc9a6a",
+      "title": "1652-0042 SSI TA App. SS _4Mar2022.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=108565302",
+      "path": "mission-3/sources/202102-1652-001/f6472f7c7abc9a6a.txt",
+      "sha256_raw": "d807e0720aebf2b0ebae613d96d9cdf09e2c33bf79f1c177d1ff7ae85f05c14d",
+      "sha256_text": "2f199666fc66029aca3af7917a770720e03f956eb9bb51d7c1aa1cbd155b2d5a",
+      "format": ".docx",
+      "chars": 28036,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202102-1652-001",
+    "path": "mission-3/sources/202102-1652-001/record.txt",
+    "sha256_raw": "c7f54c3ae03f1efe6423ab4dc225f1a5dcd1570f6123177b903a466d5374f18e",
+    "sha256_text": "fd3c0b189db459414a1c62bc57547b2b78fcafa68e3a6aa24e477afb876c2736"
+  },
+  "previous_ref": "201706-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202102-1652-001",
+    "path": "mission-3/sources/202102-1652-001/document_index.txt",
+    "sha256_raw": "c77dfbc777ef432d7220ec5e18cb643001825f2241647fcec8bebe029a27315e",
+    "sha256_text": "80b4a15bdf1614bb961d43b4e38d783dceaaba13975aedd9cf6dc57223f226c3"
+  }
+}

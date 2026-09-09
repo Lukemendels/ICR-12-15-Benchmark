@@ -1,0 +1,153 @@
+PART word/document.xml
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.  (Annotate the CFR parts/sections affected).
+
+Under the Aviation and Transportation Security Act (ATSA) (Pub. L. 107-71, 115 Stat. 597 (November 19, 2001)), and delegated authority from the Secretary of Homeland Security, TSA has broad responsibility and authority for “security in all modes of transportation including security responsibilities over modes of transportation that are exercised by the Department of Transportation.”  See 49 U.S.C. 114(d).
+
+Section 403(2) of the Homeland Security Act (HSA) of 2002 (Pub. L. 107-296, 116 Stat. 2178 (November 25, 2002)) transferred all functions of TSA, including those of the Secretary of Transportation and the Under Secretary of Transportation related to TSA, to the Secretary of Homeland Security.  Pursuant to DHS Delegation Number 7060.2, the Secretary delegated to the Administrator of TSA, subject to the Secretary’s guidance and control, the authority vested in the Secretary with respect to TSA, including that in section 403(2) of the HSA.
+
+Pipeline transportation is a mode over which TSA has jurisdiction.  As part of its efforts to enhance the security of the nation’s pipeline systems, TSA issued Pipeline Security Guidelines in April 2011 and subsequently update the Guidelines in 2018 and 2021.  See https://www.tsa.gov/sites/default/files/pipeline_security_guidelines.pdf
+https://www.tsa.gov/for-industry/surface-transportation.  These voluntary guidelines, which provide explicit agency recommendations for pipeline industry security practices, were developed with the assistance of industry and government members of the Pipeline Sector and Government Coordinating Councils, industry association representatives, and other interested parties.  Included in the guidelines are recommendations for submission of information to TSA.  In order to execute its security responsibilities within the pipeline industry, it is important for TSA to have knowledge of potential security incidents and suspicious activity within the mode.
+
+Section 227 of the Homeland Security Act, as amended, established the national cybersecurity and communications integration center (NCCIC) to function as “a Federal civilian interface for the multi-directional and cross-sector sharing of information related to cyber threat indicators,  defensive measures, cybersecurity risks, incidents, analysis, and warnings for Federal and non-Federal entities.”  Consistent with Homeland Security Presidential Directive (HSPD)-23, the United States Computer Emergency Readiness Team (US-CERT), within the NCCIC, generally functions as the federal information security incident center.  The Cybersecurity Information Sharing Act of 2015 requires DHS, in consultation with interagency partners, to establish the Federal Government’s capability and process for receiving cyber threat indicators and defensive measures, and directs DHS to further share cyber threat indicators and defensive measures it receives with certain federal entities in an automated and real-time manner.  The US-CERT website is a primary tool used by constituents to report incident information, access information sharing products and services, and interact with US-CERT and its partners within the NCCIC. Constituents, which may include anyone or any entity in the public, use forms located on the website to complete these activities.  OMB control number 1670-0037 covers voluntary reporting to the Cybersecurity and Infrastructure Security Agency (CISA) through the US-CERT website.
+
+Emergency Request
+
+As a result of the recent ransomware attack on one of the Nation’s top pipeline supplies and other emerging threat information, TSA is preparing to issue a Security Directive (SD) with requirements for TSA-specified critical pipeline Owner/Operators of hazardous liquid and natural gas pipelines and liquefied natural gas facilities.  This SD includes three information collections, one of which will be covered by a separate emergency submission of OMB control number 1652-0050.  In order to address the ongoing cybersecurity threat to pipeline systems and associated infrastructure, TSA is seeking emergency approval to amend this collection to require all Owner/Operators subject to the SD’s requirements to report cybersecurity incidents or potential cybersecurity incidents on their IT and OT systems to the CISA within 12 hours of discovery using the CISA Reporting System   In addition, the SD requires critical pipeline owner operators to appoint cybersecurity coordinators and to provide contact information for the coordinators to TSA.  TSA is encouraging the use of CISA’s US-CERT website.  To ensure that information reported pursuant to the SD is identifiable within the system, TSA will require owner/operators to indicate that they are providing the information pursuant the SD.
+
+Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+As the lead Federal agency for pipeline security, TSA needs to be notified of all security incidents involving pipeline facilities or systems.  TSA currently asks pipeline owner operators to report suspicious activities or security incident data to the TSA Transportation Security Operations Center (TSOC).  The scope of the request includes all incidents that are indicative of a possible deliberate attempt to disrupt pipeline operations or activities that could be precursors to such an attempt.  Examples of the types of incidents are provided in the guidelines.  The scope of the voluntary reporting applies to any type of security incident affecting the pipeline system or facilities. TSA uses the information voluntarily submitted, including the security incident and suspicious activity information, for vulnerability identification/analysis and trend analysis.  The information, with company-specific data redacted, may also be included in TSA’s intelligence-derived reports. 
+
+TSA is seeking emergency approval to revise the collection to mandate appointment of a Cybersecurity Coordinator and reporting of cybersecurity incidents.  Pursuant to the SD, TSA will require pipeline owner/operators to appoint a U.S. Citizen Cybersecurity Coordinator who must submit contact information.  The Cybersecurity Coordinator will serve as the primary contact for cyber-related intelligence information and cybersecurity-related activities and communications with TSA and CISA; be accessible to TSA and CISA 24 hours a day, seven days a week; coordinate cyber and related security practices and procedures internally; and work with appropriate law enforcement and emergency response agencies.  
+
+Pipeline owner/operators will have to report actual and potential cybersecurity incidents to the CISA within 12 hours of discovery.  The information provided to CISA pursuant to the SD will be shared with TSA and may also be shared with the National Response Center (NRC).  Conversely, information provided to TSA pursuant to this directive will be shared with CISA and may also be shared with the NRC.
+
+TSA may also use this information to identify the need to impose additional security measures as appropriate or necessary.  TSA may also use the information, with company-specific data redacted, for TSA’s intelligence-derived reports.  TSA and CISA may use information submitted for vulnerability identification, trend analysis, or to generate anonymized indicators of compromise or other cybersecurity products to prevent other cybersecurity incidents.  All reported information will be protected in a manner appropriate for the sensitivity and criticality of the information.
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.  [Effective 03/22/01, your response must SPECIFICALLY reference the Government Paperwork Elimination Act (GPEA), which addresses electronic filing and recordkeeping, and what you are doing to adhere to it.  You must explain how you will provide a fully electronic reporting option by October 2003, or an explanation of why this is not practicable.]
+
+TSA, pursuant to the SD, will collect Pipeline Cybersecurity Coordinator contact information, submitted to TSA via email or regular mail.  
+
+Cybersecurity incident reports will be submitted using the CISA Reporting System form at: https://us-cert.cisa.gov/forms/report.  Incident reports can also be reported by calling (888) 282-0870. 
+
+In compliance with GPEA, a fully electronic reporting option is available for pipeline operators to provide suspicious incident information to TSA.  Information regarding incidents which are indicative of a possible deliberate attempt to disrupt pipeline operations or activities that could be precursors to such an attempt may be submitted to the TSOC by email at TSOC.ST@dhs.gov.
+
+Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above.
+
+This collection effort will not duplicate the efforts of other agencies.
+
+TSA desires information regarding all incidents that indicate a possible deliberate attempt to disrupt pipeline operations or activities that could be precursors to such an attempt.  TSA’s Pipeline Security Guidelines recommend that pipeline companies notify the TSOC of security incidents and suspicious activities involving their systems.  
+
+The NRC serves as the national point of contact for reporting all oil, chemical, radiological, biological, and etiological discharges into the environment anywhere in the United States and its territories.  A limited number of pipeline facilities falling under the provisions of the Maritime Transportation Security Act (MTSA) are required to report suspicious activities to the NRC.  Duplicative reporting could occur if an operator chose to make a voluntary report to TSOC in addition to the mandated NRC report.  Given the small population of pipeline facilities that are subject to MTSA requirements, TSA does not anticipate a large volume of duplicate reporting to TSOC and NRC.  That expectation is based on the actual incident reporting patterns TSA has observed from MTSA- regulated pipeline facilities.  TSOC has coordinated with the NRC to obtain pipeline incident reports that may be of concern to TSA, in the event that a MTSA-regulated pipeline operator submits a report only to the NRC.
+
+The NRC also receives reportable incidents involving hazardous materials regulated by the Pipeline and Hazardous Materials Safety Administration (PHMSA) of the Department of Transportation under 49 CFR part 191 for natural gas and other gases transported by pipeline and 49 CFR part 195 for liquids transported by pipeline.  Although the NRC does accept suspicious activity reports, this reporting is not the type of incident for which reporting is mandated under the pipeline regulations.  To the extent that terrorist activity resulted in an incident meeting the reporting criteria of the PHMSA regulations, duplicative reporting could occur should an operator choose to contact both the NRC and TSOC.  TSA does not anticipate that this will be a common event.  
+
+Regarding the emergency request, the revised collection will require reporting cybersecurity incidents and potential cybersecurity incidents to the CISA.  To avoid duplicate reporting, information provided to CISA pursuant to this directive will be shared with TSA and may also be shared with the NRC. The owner/operator is only obligated to share such information with CISA.  Similarly, information provided to TSA pursuant to this directive will be shared with CISA and may also be shared with the NRC and other agencies as appropriate.   All reported information will be protected using appropriate system controls.  
+
+TSA may use the information, with company-specific data redacted, for TSA’s intelligence-derived reports.  TSA and CISA also may use information submitted for vulnerability identification, trend analysis, or to generate anonymized indicators of compromise or other cybersecurity products to prevent other cybersecurity incidents.   
+
+The Cybersecurity Information Sharing Act of 2015 requires DHS, in consultation with interagency partners, to establish the Federal Government’s capability and process for receiving cyber threat indicators and defensive measures, and directs DHS to further share cyber threat indicators and defensive measures it receives with certain federal entities in an automated and real-time manner. 6 U.S.C. § 1504(c).
+
+TSA’s SD also requires appointment of a cybersecurity coordinator and submission of contact information to TSA.  As there is currently no requirement for owner/operators to appoint a cybersecurity coordinator, a consolidated listing of contact information for pipeline Cybersecurity Coordinators is not available.  This collection effort will not duplicate the efforts of other agencies.
+
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden.
+
+This collection is not expected to have a significant impact on small businesses or other small entities.
+
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+As the lead Federal agency for pipeline security, TSA must maintain situational awareness of the industry in order to execute its security responsibilities.  TSOC is TSA's 24/7 coordination center during security incidents.  If incident information is not reported, the ability of the TSOC to coordinate any required agency involvement/response to the event may be inhibited.  
+With regard to cybersecurity incident reporting, it is critical that CISA and TSA are aware of cybersecurity incidents and potential cybersecurity incidents which may impact critical infrastructure and pipeline product delivery.  CISA is DHS’s 24/7 coordination center for cyber security incidents.  If incident information is not reported, the ability of CISA to coordinate any required agency involvement/response to the event may be inhibited.  Information received by CISA may be shared with other agencies as necessary to support.  
+TSA must be able to coordinate cybersecurity incident information quickly and accurately with a pipeline owner/operator.  For this reason, TSA must have a point of contact at each critical pipeline company to ensure communication regarding cybersecurity.  
+Additionally, if the information were not reported, TSA may not otherwise become aware of security incidents, which would affect the ability of the agency to meet its statutory obligation to analyze potential threats across all modes.  In turn, loss of this information would reduce the efficacy of the intelligence products developed by TSA for its industry and government partners.  Currently, industry suspicious incident reported information is used by TSA for several reports, including the Transportation Security and Industry Report, Pipeline Threat Assessments, and Transportation Intelligence Notes.  If the collection of suspicious incident information is not conducted, it may hinder TSA’s ability to produce intelligence documents of benefit to the pipeline industry as well as other transportation and government stakeholders.   The Cybersecurity Information Sharing Act of 2015 requires DHS, in consultation with interagency partners, to establish the Federal Government’s capability and process for receiving cyber threat indicators and defensive measures, and directs DHS to further share cyber threat indicators and defensive measures it receives with certain federal entities in an automated and real-time manner. 6 U.S.C. § 1504(c).  If the information is not reported, CISA will not be able to alert other agencies that need the information to identify 
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+This collection will be conducted consistent with the information collection guidelines, except for:
+
+(d)(2)(i): requiring respondents to report information to the agency more often than quarterly;
+
+Regarding the emergency request, owner operators must report cybersecurity incident information as soon as practicable, but no later than 12 hours after a cybersecurity incident is discovered, or within 12 hours of recognition of a potential cybersecurity incident.  
+
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+In the Enhancing Pipeline Cybersecurity security directive regarding cybersecurity incident reporting and the appointment of pipeline Cybersecurity Coordinators, TSA provided detailed definitions, requirements and instructions.  
+
+TSA is currently seeking an Emergency Approval of this collection.  In light of the ongoing cybersecurity threat, TSA is seeking a waiver to the requirement in 5 CFR 1320.13(d) to publish a Federal Register notice announcing TSA is seeking emergency processing of this ICR.  Upon approval of the Emergency Request, TSA will seek public comment on the collection following the normal clearance process providing a 60 and 30-day comment period.
+
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+No payment or gift will be provided to respondents.
+
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+While there is no assurance of confidentiality provided to Cybersecurity Coordinators, TSA protects information collected from disclosure to the extent appropriate under applicable provisions of the Freedom of Information Act, Federal Information Security Management Act, E-Government Act, and Privacy Act of 1974.  TSA would also appropriately treat any information collected that it determines is Sensitive Security Information (SSI) and/or Personally Identifiable Information (PII), consistent with the requirements of 49 CFR part 1520 and OMB Guidance, M-07-16.  
+
+To the extent permissible under the law, DHS will seek to protect the trade secrets and commercial and financial information of the pipeline owner/operators.
+
+TSA assures respondents that any portion of the collection that is deemed Sensitive Security Information (SSI) will be handled appropriately as described in 49 CFR parts 15 and 1520.  Per the Privacy Act of 1974, contact information for pipeline security managers is handled and maintained in accordance with the System of Records Notices (SORNs) for DHS/TSA-001 Transportation Security Enforcement Record System 79 FR 6609 (February 4, 2014) and; and DHS/TSA 011 - Transportation Security Intelligence Service Files, 75 FR 18867 (April 13, 2010).  The collection is covered by Privacy Impact Assessment (PIA), DHS/TSA/PIA-029 - Operations Center Incident Management System Update (July 7, 2008), and DHS/ALL/PIA-006 DHS General Contacts (June 15, 2007).  There is no assurance of confidentiality provided to the respondents.
+
+For defensive measures and indicators shared under CISA, Federal entities are required to apply appropriate controls to protect the confidentiality of cyber threat indicators that contain personal information of a specific individual or information that identifies a specific individual that is directly related to a cybersecurity threat or a use authorized under CISA to the greatest extent practicable. 6 U.S.C. § 1504(b). The information collected may be disclosed as generally permitted under 5 U.S.C. § 552a(b) of the Privacy Act of 1974, as amended. This includes using the information as necessary and authorized by the routine uses published in DHS/ALL-002 - Department of Homeland Security (DHS) Mailing and Other Lists System November 25, 2008, 73 FR 71659.
+
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+No personal questions of a sensitive nature are posed.
+
+Provide estimates of hour burden of the collection of information.
+
+Based on previous reporting under OMB approval, TSA anticipates reporting of pipeline security incidents will occur on an irregular basis.  TSA estimates that approximately 32 incidents will be reported annually, requiring a maximum of 30 minutes (0.5 hours) to collect, review, and submit event information by the respondent’s Corporate Security Manager or equivalent.  The annual burden hours are estimated at 16 hours (48 over three years).  Based on the respondent’s Corporate Security Manager’s fully-loaded average hourly loaded wage rate of $102.15, TSA estimates a total cost of $1,634 annually ($4,903 over three years). Table 1 summarizes this these calculations.
+
+Table 1 Public Hour Burden and Cost |  | 
+Number of Reported Security Incidents | Hour Burden per Report | Annual Hour Burden | Annual Hour Burden Cost
+A | B | C = A x B | D = C x $102.15
+32 | 0.5 | 16 | $1,634.34
+
+
+Regarding the emergency request, TSA will submit revised burden estimates in the next renewal for this ICR.
+
+Provide an estimate of the total annual cost burden to respondents or recordkeepers resulting from the collection of information.  (Do not include the cost of any hour burden shown in Items 12 and 14).
+
+TSA does not estimate a cost to the industry beyond the burden detailed in answer 12.
+
+Provide estimates of annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information.
+
+Based on previous reporting under OMB approval, TSA estimates that approximately 32 incidents will be reported annually to TSOC, requiring a maximum of 30 minutes (0.5 hours) to process the information provided by the respondents, for a total TSA hour burden of 16 hours (48 over three years).  The report is taken and processed by an H-Band TSA employee. The fully-loaded wage rate for an H-Band employee is $40.44. TSA estimates the total TSA burden to be $647 per year ($1,941 over three years). Table 2 summarizes these calculations.
+
+Table 2. Federal Government Hour Burden and Cost | 
+Number of Reported Security Incidents | Hour Burden per Report | Annual Hour Burden | Annual Hour Burden Cost
+A | B | C = A x B | D = C x $40.44
+32 | 0.5 | 16 | $647.05
+
+Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+There are no program changes from the previously reported information; however, TSA is adding the requirements under the emergency request as outlined above. 
+
+For collections of information whose results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+
+Suspicious activity and security incident information, in redacted form, may be published in TSA intelligence-derived reports, which are distributed to pipeline industry and government stakeholders with a need-to-know.
+
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+Not applicable.
+
+Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+No exceptions noted.
+
+PART word/footnotes.xml
+
+
+ 6 U.S.C. 148(c)(1).
+ HSPD-23, at ¶¶ 15, 30.
+ 6 U.S.C. 1504(c). 
+ Under section 1557(b) of the Implementing Recommendations of the 9/11 Commission Act Pub. L. 110-53 (121 Stat. 266; Aug. 3, 2007) (9/11 Act), TSA is required to identify the 100 most critical pipeline operators.  The criteria used to identify these systems and facilities is being used to designate the owner/operators subject to TSA’s security directive.  Due to the sensitive nature of this information, TSA is individually notifying each Owner/Operator that they are a designated critical operation subject to the security directive’s requirements.
+ Under the SD, TSA also will require CP Owner/Operators to review Section 7 of TSA’s Pipeline Security Guidelines and assess current activities to address cyber risk, and identify remediation measures that will be taken to fill those gaps and a time frame for achieving those measures. The CP Owner/Operators would be required to report the results of this assessment within 30 days of issuance of the SD to TSA, so that TSA may make a global assessment of the cyber risk posture of the industry.   
+ For purposes of the PHMSA regulations, incidents are primarily related to safety concerns, including:  release of hazardous materials that results in death or serious injury, property damage, and unintentional loss as well as events that result in an emergency shutdown and other significant events.   See 49 CFR 191.3.
+
+ A fully-loaded wage rate account for non-wage components of employee compensation, such as healthcare and retirement benefits.
+ The unloaded wage rate for an Operations Specialties Manager is $67.51. BLS. May 2017 National Industry-Specific Occupational Employment and Wage Estimates. NAICS 486000 - Pipeline Transportation. OCC 11-3000 Operations Specialties Managers. Last modified March 30, 2018 (accessed August 9, 2018). https://www.bls.gov/oes/2017/May/naics3_486000.htm 
+TSA calculates a load factor to increase the unloaded wage to account for non-wage compensation. TSA calculates this factor by dividing the total compensation ($28.40) by the wage and salary component ($18.77) of compensation to get a load factor of 1.51305. BLS. Employer Costs for Employee Compensation - March 2018. Table 5. Employer costs per hour worked for employee compensation and costs as a percent of total compensation: private industry workers. Production, transportation and material moving occupations. Last modified June 8, 2018 (accessed July 24, 2018). https://www.bls.gov/news.release/archives/ecec_06082018.htm 
+The fully loaded wage rate is calculated by multiplying the unloaded wage rate by the load factor. $102.15 = $67.51 x 1.51305.
+ TSA, Office of Finance and Administration, Personnel Modular Cost Data (FY18).
+PART word/endnotes.xml
+

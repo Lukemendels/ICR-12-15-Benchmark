@@ -1,0 +1,32 @@
+{
+  "ref": "202105-1652-003",
+  "retrieved_at": "2026-09-09T17:31:20.275250+00:00",
+  "documents": [
+    {
+      "id": "f16729d6be995fb2",
+      "title": "1652-0050 CFI Pipelines_SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=111923701",
+      "path": "mission-3/sources/202105-1652-003/f16729d6be995fb2.txt",
+      "sha256_raw": "0079a314a2b4a5eb6b69bf1761b1d03d3d78515d26ed594eaf5a618f182354b6",
+      "sha256_text": "7b8bc2e04d45817ba9fd5b0552bc22c57f73e8b4941506895dce7b8a76c9c79d",
+      "format": ".docx",
+      "chars": 24207,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202105-1652-003",
+    "path": "mission-3/sources/202105-1652-003/record.txt",
+    "sha256_raw": "04e1b8d958344eb82b543146b5e74b163bf0bd306fe8cdf167176d50bebc67b2",
+    "sha256_text": "880239d3bf24f34e468ed31c5480a2401e02edf9f1d98855988f470742b8bd1e"
+  },
+  "previous_ref": "201711-1652-002",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202105-1652-003",
+    "path": "mission-3/sources/202105-1652-003/document_index.txt",
+    "sha256_raw": "a03ad971519e1aa5b815dc060e3d6776cd9159c30a7e7f8ee3f943afb68e00b1",
+    "sha256_text": "b9a4006098b297412d28fc09cf883ed6828a408e8d90b1f91c202c318d6e5add"
+  }
+}

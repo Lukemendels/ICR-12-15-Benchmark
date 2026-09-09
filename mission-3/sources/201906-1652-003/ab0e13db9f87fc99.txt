@@ -1,0 +1,182 @@
+PART word/document.xml
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.  (Annotate the Code of Federal Regulations (CFR) parts/sections affected.)
+
+The Transportation Security Administration (TSA) established this information collection in accordance with Sec. 4012(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Pub. L. 108-458, 118 Stat. 3638, Dec. 17, 2004), which requires the Department of Homeland Security (DHS) and TSA to assume (from aircraft operators) the function of conducting pre-flight comparisons of airline passenger information to the Federal Government’s watch lists.  TSA developed the Secure Flight program, codified at 49 CFR part 1560,  to implement this Congressional mandate. 
+
+Under the Secure Flight program, certain U.S. aircraft operators and foreign air carriers (collectively, “covered aircraft operators”) must provide to TSA Secure Flight Passenger Data (SFPD) for each passenger and non-traveler information for covered flights.   The SFPD includes the passenger’s full name, date of birth, gender, and, to the extent available, Redress Number or Known Traveler Number (KTN), information from the passenger’s passport (full name, passport number, country of issuance, and expiration date), as well as certain non-personally identifiable information used to manage messages, including itinerary information.  The non-personally identifiable information is necessary to allow TSA to effectively prioritize watchlist-matching efforts and communicate with the covered aircraft operator.
+
+In the vast majority of cases, this information is sufficient to eliminate the possibility that the passenger is a person on a Federal Government watchlist.  In the event that TSA is unable to distinguish the passenger from an individual on a watchlist with the information initially transmitted, TSA requests that the covered aircraft operator provide additional information, such as identification presented or other identifying information, to continue the watchlist screening process.  
+
+After receiving the information, TSA conducts passenger prescreening, including watchlist-matching.  TSA matches identifying information of aviation passengers and certain non-travelers against the watchlist maintained by the Federal Government and low-risk lists/known traveler lists in a consistent and accurate manner, while minimizing false matches and protecting personally identifiable information.  TSA also requires covered aircraft operators and U.S. airport operators to transmit information on non-traveling individuals seeking authorization to enter a U.S. airport sterile area for watchlist-matching purposes.  Passengers who are a match to a watchlist receive appropriate enhanced screening.  
+
+The Secure Flight passenger prescreening computer system also conducts a risk-based analysis of passenger data using: 1) the SFPD, including KTNs that TSA receives from aircraft operators, if available, pursuant to Secure Flight regulations; 2) lists of low-risk passengers provided by both federal and non-federal entities who are eligible for expedited screening; and 3) other prescreening data available to TSA.  The Secure Flight risk-based analysis will determine whether passengers will receive modified expedited screening via the TSA Future Lane Experience (FLEx) greens lanes, expedited, standard, or enhanced screening, and the results will be indicated on the passenger’s boarding pass. 
+
+For non-traveling individuals that an airport operator or aircraft operator seeks to authorize to enter a sterile area for a TSA-approved purpose, the airport or aircraft operator must transmit the full name, date of birth, gender, and TSA Redress Number or known traveler number (if available) as well as the airport code for the airport sterile area the non-traveling individual seeks to enter.  
+Section 4012(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 also requires TSA to establish a process by which operators of private charters over 12,500 pounds, or lessors of those aircraft, may request use of TSA’s advanced passenger prescreening system to conduct watchlist-matching of passengers and lessors.  To meet that requirement, TSA added operators of private charters over 12,500 pounds into a pilot program (Twelve-Five and Private Charter Pilot Program), which included these operators in the population of carriers from whom TSA collects passenger reservation data similar to what has been described above.  The pilot, which included six Twelve-Five and Private Charter participants, concluded.  Currently, one Twelve-Five and Private Charter operator is authorized to participate in the Secure Flight program.  Growth within this population will remain very low unless there is a policy change or rule-making that directs these operators to submit passenger data for passenger prescreening by Secure Flight.  The Airport Sterile Area Access Pass Program (ASAAPP), implemented under the modified Airport Security Program, replaced the pilot program, the Airport Access Authorization to Commercial Establishments (AAACE) Beyond the Screening Checkpoint Program.  In 2018, the ASAAPP ended with the publication of NA-18-01.  Under this national amendment, most TSA-regulated airports on boarded to Secure Flight by the end of FY18.  The national amendment included exceptions for airports unable to comply with NA-18-01.  Many of these excepted airports opted out or did not have the need to onboard (e.g., the airport did not have a sterile area or the airport did not issue gate passes).  TSA will leverage Secure Flight capabilities for prescreening of the various populations covered by NA-18-01.  The collection required under NA-18-01 is covered by the Information Collection Request (ICR) for Airport Security, 1652-0002, and is not part of the Secure Flight Collection.
+Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+Secure Flight is currently designed to receive SFPD through either the DHS router or the electronic Secure Flight (eSF) web application from covered aircraft operators and airport operator participants with compatible systems.
+
+TSA uses the information to enhance the security of air travel and support the Federal Government’s counterterrorism efforts by enabling TSA to conduct passenger prescreening through the Secure Flight program.  The Secure Flight program identifies individuals who warrant further scrutiny prior to entering an airport sterile area or boarding an aircraft; who warrant denial of boarding or access to an airport sterile area on security grounds; or, who have been identified as eligible for expedited screening.  To identify those individuals, TSA compares their identifying data to information about individuals identified on government watch lists, low risk lists, and to intelligence-driven rules as part of risk-based analysis.
+
+TSA requires individuals seeking a reservation on a covered flight or authorization to enter a U.S. airport’s sterile area to provide their full names as they appear on their Verifying Identity Document (VID), their dates of birth, and their gender.  TSA prohibits covered aircraft operators from issuing either a boarding pass to a passenger on a covered flight or an authorization form to enter a sterile area to a non-traveler who does not provide a full name, date of birth, and gender.
+
+Many names do not indicate gender, because they can be used by either gender.  Additionally, names not derived from the Latin alphabet, when transliterated into English, often do not denote gender.  Providing information on gender reduces the number of false positive watchlist-matches and otherwise improves passenger identification because the information will distinguish persons who have the same or similar names, but who are of different gender.  Date of birth is also helpful in identity verification.  It can distinguish a passenger from an individual on the watchlist with the same or similar name, thus reducing the number of false positive watchlist-matches, or it can identify passengers with KTNs who have the same name as those without KTNs. 
+
+Secure Flight uses additional SFPD elements to reduce the chance of misidentification.  Individuals who have used the redress process provided by DHS are assigned a unique Redress Number and may use it while making a reservation.  Individuals who are a member of a known traveler program are assigned a unique KTN by the program provider and may use it while making reservations to identify themselves as eligible for expedited screening.  Passport information also assists TSA analysts in resolving possible false positive matches and makes the passenger prescreening process more accurate.  Covered aircraft operators are not required by TSA to request passport information from passengers, and TSA recognizes that this information will not be available for all passengers.  However, covered aircraft operators must transmit this information to TSA if it was previously collected during the normal course of business and stored in a passenger profile.  Finally, TSA Secure Flight also receives certain non-personally identifiable information, including itinerary information, in order to effectively prioritize watchlist-matching efforts, communicate with the covered aircraft operator, and facilitate an operational response, if necessary, to an individual who is on a Federal Government watchlist.
+
+For the Twelve-Five and Private Charter participants, TSA collects the same information for the same purposes as described above.  Twelve-Five and Private Charter operators who have the technical capability to submit SFPD through either the DHS router or the e-Secure Flight web application participate in the program.  For covered airlines and airport operators that grant access to the sterile area of the airport to non-traveling individuals who request access, TSA collects SFPD through the e-Secure Flight web application.
+
+With TSA Pre®, TSA implemented expedited screening of known or low-risk travelers.  Federal and non-federal entities provide TSA with lists of eligible low-risk individuals.  Secure Flight identifies individuals who should receive low-risk screening and transmits the appropriate boarding pass printing result to the aircraft carriers.  Use of the information is governed by stringent privacy protections, including data security mechanisms and limitations on use, strict firewalls, and data access limitations.
+Describe whether (and to what extent) the collection of information involves the use of automated, electronic, mechanical, other technological collection techniques or other forms of information technology (e.g., permitting electronic submission of responses), and the basis for the decision for adopting this means of collection.  Also, describe any consideration of using information technology to reduce burden.  Effective 03/22/01, your response must SPECIFICALLY reference the Government Paperwork Elimination Act (GPEA), which addresses electronic filing and recordkeeping, and what you are doing to adhere to it.  You must explain how you will provide a fully electronic reporting option by October 2003, or an explanation of why this is not practicable.
+
+Consistent with the Government Paperwork Elimination Act, TSA is using technology to reduce the burden of this collection.  Aircraft operators currently covered by a security program submitting information to Secure Flight submit data required under this collection entirely through electronic means.  Covered aircraft operators submit passenger information to TSA electronically through the DHS Router or through the e-Secure Flight web application.  Covered aircraft operators also submit the registration information via email.  There is no standard method in which TSA requires the information to be submitted.
+
+The above also applies to the Twelve-Five and Private Charter population and covered airlines and airport operators that grant access to the sterile area of the airport to non-traveling individuals who request it. 
+Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above.
+
+The information in passenger reservation data maintained by covered aircraft operators is the primary source of recorded information about the more than two million passenger enplanements on covered flights each day.  The passenger reservation data is a unique source of passenger and flight information and serves as the best information source for use in screening airline passengers against Federal watch lists and low-risk passenger lists on an operational and real-time basis.  Consequently, there is no available substitute for passenger reservation data in carrying out the passenger prescreening process.  
+
+Similarly, information about non-traveling individuals that is collected by covered aircraft and airport operators is a unique source of information about non-traveling individuals who seek authorization to enter a sterile area.  The same caveats apply to the Twelve-Five and Private Charter Program population covered airlines.
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden.
+
+Domestic U.S. airlines with fewer than 1,500 full-time employees are defined as small businesses and 33 of the affected U.S. airlines meet this definition.  Those airlines may deem this impact to be significant for them.  However, TSA has reduced the impact to those airlines by providing eSF, a web-based alternative data submission mechanism.  The above applies also to the Twelve-Five and Private Charter population, and to airport operators.  
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+TSA is collecting this information because TSA has assumed responsibility from the private sector for pre-flight screening of passengers and certain non-traveling individuals against Federal Government watch lists, as required by section 4012(a) of the Intelligence Reform and Terrorism Prevention Act.  Congress also required the consolidation of the aviation passenger watchlist-matching function within one agency of the Federal Government.  If TSA were not to conduct this information collection, it would not be compliant with the Congressional mandate to assume operation of watchlist-matching from aircraft operators.  
+In section 136 of the Aviation and Transportation Security Act (ATSA) (codified at 49 U.S.C. 44903(j)(2)(C)), Congress directed that aircraft operators use the Computer Assisted Passenger Prescreening System (CAPPS) or any successor system to screen all aircraft passengers, not just those who are checking bags.  See also Security of Checked Baggage on Flights Within the United States; Certification of Screening Companies; Notice of Rulemaking Status, 67 FR 67382, 67383 (Nov. 5, 2002).  In addition, ATSA continued to carry out all “orders, determinations, rules, [and] regulations” of the FAA “until modified, terminated, superseded, set aside, or revoked in accordance with law by the [TSA Administrator], any other authorized official, a court of competent jurisdiction, or operation of law.”  See ATSA, section 141(b).  ATSA also explicitly recognized the continuance of CAPPS when it exempted CAPPS from the requirement that the screening of passengers and property before boarding flights originating in the United States be carried out by a Federal Government employee.  See 49 U.S.C. 44901(a).  
+
+With regard to technical and legal obstacles to reducing burden, TSA believes that because collection of information from covered aircraft operators calls for electronic transmission of information from a source that is already collecting this information, the burden has been reduced as much as possible.  TSA has taken reasonable steps to ensure that the collection is the least burdensome necessary to achieve program objectives.  
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+Covered aircraft operators provide air transport to more than two million passenger enplanements per day.  Covered aircraft operators accept reservations for transport on a continuous basis.  In order to be effective as a security measure, watchlist-matching of passengers and other risk assessments are carried out on a near real-time basis.  If passenger information from respondents were collected less frequently than on a daily basis, it would not allow TSA to complete watchlist-matching and other passenger prescreening prior to a passenger’s arrival at an airport security checkpoint.  TSA collects information from respondents on at least a daily basis, if not more frequently, in order to take into account new or changed reservations for air travel.
+
+For the Twelve-Five, Private Charter Program and covered airlines and airport operators that grant access to the sterile area of the airport to non-traveling individuals who request access, it is necessary to collect a passenger’s and/or a non-travelling individual’s information from respondents on a near real-time basis.  This allows TSA to complete watchlist-matching and other prescreening of every passenger or non-traveling individual prior to access to the aircraft.  There are no other known special circumstances requiring any of the other collection requirements listed above that apply to the Secure Flight program.
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency’s notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+TSA originally provided notice of this information collection in its Secure Flight Final Rule, published in the Federal Register on October 28, 2008 (72 FR 48356).  As required by 5 CFR 1320.8(d), TSA published a 60-day notice to seek approval of the information collection in the Federal Register.  See 83 FR 62880 (December 6, 2018).  Additionally, TSA published a 30-day notice in the Federal Register.  See 84 FR 23063 (May 21, 2019).  Consistent with the requirements of Executive Order (EO) 13771, Reducing Regulation and Controlling Regulatory Costs, and EO 13777, Enforcing the Regulatory Reform Agenda, the notices included a specific request for comments on the extent to which this request for information could be modified to reduce the burden on respondents. TSA received no comments in response to this notice.  
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+No payment or gift is provided to respondents.
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+TSA does not provide any assurance of confidentiality to the respondents; however, information will be maintained in accordance with the Privacy Act of 1974, 5 U.S.C. 552a., the Freedom of Information Act; and 49 U.S.C. 114(r) as implemented by 49 CFR part 1520, which limits the disclosure of Sensitive Security Information.  Data is collected and transmitted in accordance with the Privacy Act System of Records Notice published for the Secure Flight program: Secure Flight Records DHS/TSA019 and DHS/TSA-011 Transportation Security Intelligence Service Files.  See 80 FR 233 (January 5, 2015) and 75 FR 18867 (April 13, 2010), respectively.  The applicable Privacy Impact Assessment (PIA) for the collection is DHS/TSA/PIA-18 TSA Secure Flight Program (August 9, 2007). 
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+The collection does not include any questions of a sensitive nature.
+Provide estimates of hour burden of the collection of information.
+
+Aircraft Operators covered under this program must submit information for all passengers to Secure Flight in the form of Secure Flight Passenger Data (SFPD).  The vast majority of SFPD messages submitted by the Aircraft Operators are identified as a low or neutral risk by the Secure Fight automated engine.  Those records identified as requiring additional review are inhibited by the Secure Flight engine, and the passengers with inhibited boarding pass must go the Aircraft Operator ticket counter for additional assistance.  Aircraft Operators must submit additional information on inhibited passengers to TSA.  Generally, this information is gathered from the passenger’s verifying identity document (VID) and submitted electronically to TSA (a VID submission).  There are 323 Aircraft Operators covered by this collection.  TSA estimates 951 annual VID submissions per covered Aircraft Operator, for a total of 307,173 VID submissions.  TSA estimates 130 seconds (0.0361 hours) per response, for an annual hour burden of 11,091 hours.  Certain submissions may require a Resolution Call to TSA to provide additional information.  TSA estimates that each carrier will be required to make an average of 230 calls per year, for a total of 74,290 calls per year. TSA estimates a Resolution Call will require 12 minutes (0.2 hours), for an annual hour burden of 14,858 hours.  The total annual hour burden for covered Aircraft Operators is 25,971 hours.  Table 1 summarizes these estimates.
+
+Table 1. Public Hour Burden for Commercial Aircraft Operators
+
+Information  Collection  | Number of Respondents | Number of Responses per Respondent | Hour Burden per Response | Annual Hour Burden
+ | A | B | C | D = A x B x C
+VID Submission | 323 | 951 | 0.0361 | 11,091
+Resolution Calls |  | 230 | 0.2000 | 14, 8 58
+Total | 323 |  |  | 25,971
+
+Similarly, Aircraft Operators under the Twelve-Five and Private Charter Program participate in this collection.  There are 10 covered Aircraft Operators under these programs with 17,540 average annual responses per carrier, for a total of 175,400 per year.  TSA estimates each response will require three minutes (0.05 hours), for an annual hour burden of 8,770 hours.  Table 2 summarizes these estimates. 
+
+Table 2. Public Hour Burden for Twelve-Five/Private Charter Aircraft Operators
+
+Number of Respondents | Number of Responses per Respondent | Hour Burden per Response | Annual Hour Burden
+A | B | C | D = A x B x C
+10 | 17,540 | 0.05 | 8,770
+
+Finally, Gate Passes and non-federal Low-Risk Traveler list providers also submit information to TSA.  There are 68 Gate Pass providers with 68,529.42 average annual gate pass requests per respondent, for a total of 4,660,000 responses per year.  TSA estimates each response requires 25 seconds (0.006944 hours), for an annual hour burden of 32,361 hours. There are 10 non-federal Low-Risk Traveler list providers with 3 responses per providers, for a total of 30 responses.  TSA estimates each response requires 1.5 hours, for an annual hour burden of 45 hours. Table 3 summarizes these estimates. 
+
+Table 3. Public Hour Burden and Costs for Airport Sterile Access Pass Program and non-Federal Low-Risk Passenger List Providers
+
+Information Collection | Number of Respondents | Number of Responses Per Respondent | Hour Burden per Response | Annual Hour Burden
+ | A | B | C | D   = A x B  x C
+Gate Passes | 68 | 68,529 .42 | 0.006944 | 32,361
+Low-Risk List Providers | 10 | 3 | 1.5 | 45
+Total | 78 | 68,532.42 |  | 32,406
+
+TSA estimates a total average annual hour burden of 67,125 hours (25,971 + 8770 + 32,406) for this information collection request.
+
+The cost associated with submitting information to TSA is built into system costs and is covered under the annual cost burden to the respondents as provided in the response to Q13.  As such, there is no opportunity cost associated with the time burdens discussed above to the aircraft operators for the submission of passenger information to TSA for Covered Secure Flight Carriers, or for Twelve-five and Private Charter carriers.
+
+Although most of the collections from aircraft operators and carriers are collected through an automated system, the responses provided from Non-Federal Low Risk List Providers are not.  Thus, TSA estimates an estimated annual hour burden cost to respondents for purposes of this ICR. 
+
+TSA assumes that a Non-Federal Low-Risk List Provider will spend about 1.5 hours per year per response.  Based on historical data, TSA assumes a total of three responses per respondent will occur annually, resulting in a total of 45 hours annually (10 respondents x 3 responses x 1.5 hours per response).  TSA calculates  the annual cost for non-federal low-risk-list providers by multiplying this time burden by the list provider’s annual compensation rate of $78.65.  TSA then multiplies this times the total number of existing non-federal low-risk list providers to estimate an annual hour burden cost of $3,539.
+
+Table 4. Total Collection Numbers
+Information Collection | Average Annual Respondents | Average Annual Responses | Total Annual Hour Burden
+VID Submission | 323 | 307,173 | 11,091
+Resolution Calls |  | 74,290 | 14,8 58
+Twelve-Five/Private Charter Aircraft Operators | 10 | 175 , 4 0 0 | 8,770
+Gate Passes | 68 | 4,660,000 | 32,361
+Non-Federal Low Risk Traveler List Providers | 10 | 3 0 | 45
+Total | 411 | 5 , 216 , 893 | 67,1 25
+
+
+
+
+
+
+Provide an estimate of the total annual cost burden to respondents or recordkeepers resulting from the collection of information.
+
+TSA estimates the total annual cost burden to respondents or record-keepers to be $6,818,957.  TSA uses government costs to estimate the record-keeping costs associated with this collection.  Table 4 summarizes these estimates. 
+
+Table 5. Capital Expenditures by Activity
+
+  | Number of  Covered Entities | Cost per Entity | Total Cost
+New Carrier Costs | 20 | $2,889 | $57,772
+Secure Flight Carrier  Operations and Maintenance ( O&M ) | 323 | $20,818 | $6,724,375
+ |  |  | 
+Twelve-Five and Private  Charter O&M | 10 | $2,775 | $27,750
+Gate Passes | 95 | $95 | $9,060
+Total |  |  | $6,818,957
+
+
+
+
+Provide estimates of annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information.
+
+The annualized total cost to the Federal Government for the Secure Flight program  is $110,219.57 as described in the chart below.  The cost estimation took into account the need to obtain, format, and compare passenger and non-traveler information against data maintained by the Terrorist Screening Center and against low-risk lists.
+
+ Table 6. Federal Cost Estimates  
+ | FY 2019 | FY 2020 | FY 2021
+Payroll Cost and Benefits ( PC&B )   (Federal Pay) | $33,746.00 | $33,145.00 | $33,505.00
+Secure Flight  Management and Admin. Contracts (Non System Ops. & SW/HW) | $9,319.10 | $7,596.66 | $2,912.69
+Secure Flight  System  Sustainment Contracts | $43,536.88 | $44,353.62 | $48,954.69
+Secure Flight  IT Operations and Maintenance Support Contracts | $8,962.85 | $9,142.11 | $9,324.95
+Information and Technology Infrastructure Contracts | $14,248.08 | $16,010.91 | $15,900.17
+TOTAL | $109,812.92 | $110,248.30 | $110,597.50
+Annualized     $110,219.57 |  |  | 
+
+
+Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+The changes reflect additional aircraft operators that have migrated to Secure Flight as covered carriers.  The total number of covered Secure Flight carriers has grown from 211 in 2011 to 262 covered carriers in 2015 and from 262 in 2015 to 323 in 2018.  Going forward, TSA also anticipates 15 to 20 new covered aircraft operators to cutover to Secure Flight annually.  The changes also cover the transmission of lists of low-risk passengers who are eligible for expedited screening that are received from non-federal entities. 
+
+The changes also reflect:
+In 2018, via a security program amendment, TSA ended the Airport Sterile Area Access Pass Program (ASAAPP).  Previously, in 2016, ASAAPP had replaced the Airport Access Authorization to Commercial Establishments (AAACE) Beyond the Screening Checkpoint pilot, which was implemented in 2011.
+Increased requests for Gate Passes by covered airlines and aircraft operators for individuals seeking access to the sterile areas.
+TSA’s phase out of the use of the Frequent Flier Code Word (FFCW) and the CAPPS Assessment sent by the covered airlines. 
+For collections of information whose results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+The results of the proposed collection are not published.
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+TSA is seeking approval not to display the OMB control number and expiration date for the data transmission by covered aircraft operators of passenger information to TSA.  As this collection is an automatic transmission of the passenger data to TSA’s system and does not use a collection instrument, display would be inappropriate 
+Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+No exceptions are claimed.
+
+PART word/footnotes.xml
+
+
+
+ “Covered flights” means flights operated by covered U.S. aircraft operators under 49 CFR 1544.101(a) and flights to, from, and overflying the United States operated by covered foreign air carriers.
+ A VID is an identification document that has been issued by a U.S. Federal, State, or tribal government that: (1) contains the individual’s full name, photo, and date of birth; and (2) has not expired.  The VID may also be an unexpired passport issued by a foreign government. 
+ Bureau of Transportation Statistics as of December 2018, https://www.transtats.bts.gov/Employment/
+
+ TSA estimates that a list provider (based on a fully loaded J band average hourly compensation rate) spends 1.5 hours per year per response (generation, maintenance, sharing, and reconciliation) for a total for 45 hours.
+ $110,219.57 = $109,812.92 + $110,248.30 + $110,597.50 = $330,658.72 / 3 
+PART word/endnotes.xml
+
+
