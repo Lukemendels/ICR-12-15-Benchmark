@@ -1,6 +1,6 @@
 # Batch 7: formula headers and transition checks
 
-93 explicit formula-header coefficients preserve percentages as fractions and hours as minutes, original formula strings, column headers and grid locators. These are source-specific rates, not universal assumptions. 38 curated transition/cohort rows retain alternative year and annualized representations; ten checks are replayable.
+93 explicit formula-header coefficients preserve percentages as fractions and hours as minutes, original formula strings, column headers and grid locators. These are source-specific rates, not universal assumptions. 36 curated transition/cohort rows retain alternative year and annualized representations; ten checks are replayable.
 
 HME 202502-1652-005 Table 5 uses an in-person subset: pre-enrollment + no-pre-enrollment + online renewals equals all TSA-agent applicants in each of 2021–2023. HME 202606-1652-002 Table 5 uses all applicants as the base of the 44% and 56% in-person paths and separately adds online renewals: residuals 53,182 / 54,840 / 53,816 in 2026–2028. Table 4 and narrative L192/L217 explicitly distinguish paths and describe avoided visits. This is a candidate scope conflict, not an inference about actual time spent or internal causes. Prior-version counterevidence rules out a claim that every HME version makes the same error. TWIC 202504-1652-008 Table 3 reconciles online and in-person renewals for each year and annualized row. Its 68%/32% shares are not expected to equal HME's 60%/40%; population and program eligibility differ.
 

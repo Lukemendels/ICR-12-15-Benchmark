@@ -21,9 +21,10 @@
     "Batch05: cyber/surface assessment versions indexed; all ten frozen TSA models now reused. 44 immediate prior packages retrieved; one no-statement administrative package requires its predecessor.",
     "Batch06: independently recovered 26 credentialing documents / 186 OOXML tables with explicit merged-cell origins and no geometry violations; normalized 45 scalar activity/cohort rows in 11 tables. Remaining table semantics explicitly queued.",
     "Batch07: 93 formula-header coefficients normalized across seven credential versions; curated HME 2025/2026 and TWIC 2025 transitions and ten replayable partition checks. HME 2025 reconciles; 2026 scope overlap candidate isolated; TWIC renewal partition reconciles.",
-    "Batch08: indexed 15 remaining operational/fee/system versions and reviewed 33 task boundaries with period, actor and scope; explicit numeric/narrative conflicts retained as candidates."
+    "Batch08: indexed 15 remaining operational/fee/system versions and reviewed 33 task boundaries with period, actor and scope; explicit numeric/narrative conflicts retained as candidates.",
+    "Batch09: remaining 23 other-family versions indexed; alternate generic-clearance headings resolved; 36 narrative task boundaries and 72 merged-grid generic/cyber task rows curated. All90 recent packages have Item12\u201315 section coverage; semantic coverage and comparison gates remain open."
   ],
-  "next": "Remaining administrative/claims/survey/other collection families, then predecessor lineage and assumption/comparison coverage audit.",
+  "next": "Resolve no-statement predecessor and index needed lineage; review semantic extraction coverage and build recurring assumption families.",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,

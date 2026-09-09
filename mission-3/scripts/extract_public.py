@@ -6,6 +6,8 @@ ROOT=pathlib.Path(__file__).resolve().parents[2]
 def ident(*parts):return hashlib.sha256('|'.join(map(str,parts)).encode()).hexdigest()[:18]
 def heading(s):
  x=s.lower().strip();x=re.sub(r'^\d+[.\s)]+','',x)
+ aliases={'burden of information collection':12,'costs to respondents':13,'costs to federal government':14,'reason for change':15,'tabulation of results, schedule, analysis plans':16}
+ if x in aliases:return aliases[x]
  if len(x)>1100:return None
  if x.startswith('provide') and ('annual cost burden to' in x or 'capital' in x):return 13
  if re.match(r'(?:provide|12[.\s])',x) and ('hour' in x) and ('burden' in x) and 'federal government' not in x and ('estimat' in x):return 12
