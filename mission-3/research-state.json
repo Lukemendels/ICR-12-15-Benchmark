@@ -22,16 +22,17 @@
     "Batch06: independently recovered 26 credentialing documents / 186 OOXML tables with explicit merged-cell origins and no geometry violations; normalized 45 scalar activity/cohort rows in 11 tables. Remaining table semantics explicitly queued.",
     "Batch07: 93 formula-header coefficients normalized across seven credential versions; curated HME 2025/2026 and TWIC 2025 transitions and ten replayable partition checks. HME 2025 reconciles; 2026 scope overlap candidate isolated; TWIC renewal partition reconciles.",
     "Batch08: indexed 15 remaining operational/fee/system versions and reviewed 33 task boundaries with period, actor and scope; explicit numeric/narrative conflicts retained as candidates.",
-    "Batch09: remaining 23 other-family versions indexed; alternate generic-clearance headings resolved; 36 narrative task boundaries and 72 merged-grid generic/cyber task rows curated. All90 recent packages have Item12\u201315 section coverage; semantic coverage and comparison gates remain open.",
-    "Batch10: retrieved missing usable2018 LEOSA predecessor behind2019 administrative package; all84 recent packages with previous links reach usable statements, six have none. Indexed44 prior statements with no missing Item12\u201315 boundaries; numerical Item15 baselines remain separately unverified.",
+    "Batch09: remaining 23 other-family versions indexed; alternate generic-clearance headings resolved; 36 narrative task boundaries and 72 merged-grid generic/cyber task rows curated. All90 recent packages have Item12–15 section coverage; semantic coverage and comparison gates remain open.",
+    "Batch10: retrieved missing usable2018 LEOSA predecessor behind2019 administrative package; all84 recent packages with previous links reach usable statements, six have none. Indexed44 prior statements with no missing Item12–15 boundaries; numerical Item15 baselines remain separately unverified.",
     "Batch11:17 recurring assumption-family discovery indexes across134 statements, explicitlyINFERRED;40 separately reviewed scalar assumptions cover loading, turnover, pathways, recordkeeping, renewal, legal/Federal review, purchases and construction.",
     "Batch12:59 additional source-specific task durations across32 previously untyped recent versions; all90 recent versions now have principal task normalization. Bundled processes, annual recordkeeping and per-event time remain distinct.",
     "Batch13: 15 inspectable comparisons adjudicated with actor/task/unit/period rationale and explanation challenges; medical travel primary sources checked. No numeric difference classified as inconsistency without adequate comparability.",
     "Batch14:22 source-specific quantitative checks, seven challenged findings, and one fully reconciled TWIC component bridge with independently verified prior baseline;41 frozen TSA checks reused by reference. No schema/comparison-rule novelty in second post-coverage analytical batch.",
     "Batch15:29 additional reviewed manager/analyst/grade/fee/wage assumptions;18 comparisons include explicit negative match; current pipeline Federal review-cost calculation challenged and retained. Same ontology and comparison rules.",
-    "Final analysis A: inherited 18 comparisons made inspectable with explicit component values, units, similarity, confidence and practitioner significance."
+    "Final analysis A: inherited 18 comparisons made inspectable with explicit component values, units, similarity, confidence and practitioner significance.",
+    "Final analysis B: 10 additional family comparisons; source-defined lifecycle, annual/per-event, legal-review and verification boundaries adjudicated."
   ],
-  "next": "Extend reviewed assumption-family and activity comparisons; consolidate within-ICR QA and challenge.",
+  "next": "Consolidate deterministic QA and challenge every major finding with prior-version evidence.",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,
