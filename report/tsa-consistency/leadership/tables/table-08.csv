@@ -1,0 +1,8 @@
+Stage,What it carries forward
+**Sources**,"Document identity, source locator, reference period, and original value"
+↓ **Structured inputs**,"Units, population/event identity, and evidence status"
+↓ **Assumptions**,"Rationale, applicability, proxy choices, and justified exceptions"
+↓ **Calculations**,"Formula lineage, full precision, and scenario identity"
+↓ **Validation**,"Arithmetic, scope, period, partition, wage, and baseline checks"
+↓ **Output tables**,Values and labels obtained from validated results
+↓ **Items 12–15 narrative**,Draft numerical statements and references tied to the same results

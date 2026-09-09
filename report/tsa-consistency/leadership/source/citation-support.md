@@ -19,4 +19,5 @@ The six open questions are copied in compressed form from the completed unresolv
 
 Editorial omissions: full portfolio/status tables, exhaustive case descriptions, assumption-family inventory, federal analogues, technical methodology detail and appendices. The brief directs the reader to the technical evidentiary record. No omitted material changes the central finding or its bounds.
 
-Final typeset citation and source-locator validation remains pending with PDF production.
+Final typeset citation review completed: all eight notes match the completed technical report sections. All eight brief pages visually inspected. No source evidence was modified.
+

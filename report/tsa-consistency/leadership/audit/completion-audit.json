@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "pdf_sha256": "a1b12de303b012ed751bba3ceacdc8b07f3acaa5c7dfd3057d9fc46af614953b",
+  "pages": 8,
+  "inspected_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "visual_review": "All eight final page PNGs inspected. No clipping, broken tables, orphan headings, malformed citations or spillover pages. Body 10 pt; tables 9 pt; compact reference notes 8.2 pt.",
+  "repairs": [
+    "Eliminated isolated continuation pages",
+    "Placed analytically distinct registers in separate side-by-side panels",
+    "Condensed proposed-role paragraph to keep complete source notes on page 8"
+  ],
+  "evidence_compression": "PASS: all required counts, denominators, caveats, unresolved questions and counterevidence retained. No new research or re-adjudication.",
+  "institutional_tone": "PASS: systems and controls; analyst judgment retained; no personal evaluation.",
+  "causal_boundary": "PASS: no undocumented cause, official correction, prevalence, measured savings or staffing claim.",
+  "citation_review": "PASS: eight numbered source notes match completed report sections; internal locator support retained.",
+  "protected_materials": "Only leadership directory will be included in publication tree. Verify remote comparison after commit.",
+  "circulation_readiness": "Ready for EAB circulation as an analytical leadership brief."
+}

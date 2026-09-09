@@ -1,0 +1,5 @@
+Direction,EAB action,Evidence of completion
+**KEEP**,"Preserve coherent activity decomposition, component estimation, source-backed wage and workload inputs, legitimate differentiation, and analyst judgment","Reused components retain their source, task boundary, and applicability"
+**STANDARDIZE**,"Adopt common activity archetypes, source identity fields, units, periods, population/event definitions, assumption records, wage transformations, baseline ledgers, and formula lineage",A reviewer can determine whether an input applies without reconstructing its meaning from scattered prose
+**CONTROL — first priority**,"Make arithmetic, subtotals, population partitions, pathway shares, units, periods, wage transformations, Federal workload, Item 15 bridges, and table/narrative reconciliation deterministic","Reproducible checks show inputs, results, tolerance, and disposition; outputs trace to one reviewed model"
+**INVESTIGATE**,Resolve the six method questions and other unclear scope or valuation rules with analyst/program context,Missing evidence and decisions are recorded; unresolved questions remain distinct from errors

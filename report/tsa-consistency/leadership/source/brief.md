@@ -211,7 +211,7 @@ Can a second analyst trace each material number to its source and formula? Can t
 
 Test both positive and negative cases. The controls should detect a displayed-input cost mismatch while accepting a coherent pathway partition and a valid component bridge. A justified difference must remain acceptable rather than being forced into numerical uniformity.
 
-Suggested responsibilities are prospective: an EAB analytical lead defines the model and acceptance checks; program partners clarify obligations and assumptions; appropriate Paperwork Reduction Act reviewers participate in statement review. Leadership would confirm actual assignments when selecting the pilot.
+Proposed roles: EAB defines the model and checks; program partners clarify assumptions; Paperwork Reduction Act reviewers review the statement. Leadership confirms assignments.
 
 After the pilot, assess reconstruction quality, unresolved review issues, and practical maintenance demands before deciding whether to expand reusable structures. Operational performance and resource requirements have not been measured by this study.
 
@@ -227,3 +227,4 @@ This brief synthesizes *Consistency and Defensibility of Burden and Cost Estimat
 [6] Section 7.10, “Item 15: a verified bridge and a bounded conclusion.”  
 [7] Sections 8, 10, and 11.  
 [8] Section 12, especially implementation sequencing in section 12.5.
+
