@@ -28,7 +28,7 @@ lines+=['\nItem12 spans reproducibility, provenance, segmentation and labor; do 
 # Keep locally archived text paths valid when original HTML is omitted from remote text tree.
 p=R/'data/sources.jsonl';sources=[json.loads(l) for l in p.read_text().splitlines()]
 for s in sources:
- lp=s.get('local_path','')
+ lp=s.get('local_path') or ''
  if lp.endswith('.html') and (R/lp).with_suffix('.txt').exists():s['local_path']=str(Path(lp).with_suffix('.txt'));s['archive_format']='Extracted text of official HTML; retrieval manifest retains URL.'
 p.write_text(''.join(json.dumps(s,ensure_ascii=False)+'\n' for s in sources))
 errors=[]

@@ -1,0 +1,1187 @@
+[
+  {
+    "file": "icrs/202602-2060-006/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "40 CFR Part 63, Subpart EEE",
+        "SIC Codes",
+        "NAICS Codes"
+      ],
+      [
+        "Petroleum and  c oal  p roducts  m anufacturing",
+        "2911",
+        "324"
+      ],
+      [
+        "Chemical  m anufacturing",
+        "2869, 2899",
+        "325 "
+      ],
+      [
+        "Cement and concrete product manufacturing",
+        "3241",
+        "3273"
+      ],
+      [
+        "Other nonmetallic mineral product manufacturing",
+        "3295",
+        "3279"
+      ],
+      [
+        "Waste treatment and disposal",
+        "4953",
+        "5622"
+      ],
+      [
+        "Remediation and other waste management services",
+        "4959",
+        "5629"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202602-2060-006/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Year",
+        "(A)  Number of New Respondents  That Submit Reports 2",
+        "(B)  Number of Existing Respondents  That Submit Reports",
+        "(C)  Number of Existing Respondents that  K eep  R ecords but do not  S ubmit  R eports",
+        "(D)  Number of Existing Respondents That Are Also New Respondents",
+        "(E)  Number of Respondents (E=A+B+C-D) 1"
+      ],
+      [
+        "1 ",
+        "1 ",
+        "163 ",
+        "0 ",
+        "0 ",
+        "164 "
+      ],
+      [
+        "2 ",
+        "1 ",
+        "164 ",
+        "0 ",
+        "0 ",
+        "165 "
+      ],
+      [
+        "3 ",
+        "1 ",
+        "165 ",
+        "0 ",
+        "0 ",
+        "166 "
+      ],
+      [
+        "Average Total Respondents",
+        "1 ",
+        "164 ",
+        "0 ",
+        "0 ",
+        "165 "
+      ],
+      [
+        "Avg. Respondents with Reporting & Recordkeeping each year 3",
+        "1 ",
+        "55",
+        "0",
+        "0",
+        "55"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202602-2060-006/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        " (A)  Information Collection Activity",
+        "(B)  No. of  Responses Submitted  Per Year",
+        " (C)  Number of Existing Respondents That Keep Records But Do Not Submit Responses",
+        "(D) Total Annual Responses (D) = (B+C)"
+      ],
+      [
+        "Notifications (construction/modification, start-up, initial/repeat performance test, CEMS start/stop, exemptions) ",
+        "92",
+        "0",
+        "92"
+      ],
+      [
+        "Removal of particulate matter CEMS correlation test plan",
+        "-12",
+        "0",
+        "-12"
+      ],
+      [
+        " ",
+        " ",
+        "Total",
+        "                                                 80 "
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202602-2060-006/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Notifications"
+      ],
+      [
+        "Application for construction or reconstruction.",
+        "§63.5(d)"
+      ],
+      [
+        "Initial notifications that you are subject to Subpart EEE of this Part (including reclassification to area source status or to revert to major source status) (electronic submission)",
+        "§63.9(b)"
+      ],
+      [
+        "Notification that you are subject to special compliance requirements.",
+        "§63.9(d)"
+      ],
+      [
+        "Notification and documentation of any change in information already provided under §63.9 (including reclassification to area source status or to revert to major source status) (electronic submission)",
+        "§63.9(j)"
+      ],
+      [
+        "Notification of changes in design, operation, or maintenance.",
+        "§63.1206(b)(5)(i)"
+      ],
+      [
+        "Notification of excessive bag leak detection system exceedances.",
+        "§63.1206(c)(8)(iv)"
+      ],
+      [
+        "Notification of excessive particulate matter detection system exceedances.",
+        "§63.1206(c)(9)(viii)"
+      ],
+      [
+        "Notification of performance test and continuous monitoring system evaluation, including the performance test plan and CMS performance evaluation plan.",
+        "§§63.1207(e), 63.1209(d), 63.8(e)(2) and (3), 63.7(b), 63.9(e), 63.9(g)(1) and (3)"
+      ],
+      [
+        "Notification of use of COMS data for compliance with the opacity emission standard during a performance test and whether the criterion necessary to continue use of an alternative to relative accuracy testing has been exceeded.",
+        "§§63.9(g)(2) and (3) "
+      ],
+      [
+        "Notification of intent to comply.",
+        "§63.1210(b) and (c)"
+      ],
+      [
+        "Notification of compliance, including results of performance tests and continuous monitoring system performance evaluations.",
+        "§§63.1210(d), 63.1207(j), 63.1207(k), 63.1207(l), 63.8(e)(5), 63.9(h), 63.10(d)(2), 63.10(e)(2), 63.7(g)"
+      ],
+      [
+        "Adjustment to time periods or postmark deadlines for submittal and review of required information.",
+        "§63.9(i)"
+      ],
+      [
+        "Request to reduce the frequency of excess emissions and CMS performance reports.",
+        "§63.10(e)(3)(ii)"
+      ],
+      [
+        "Request to waive recordkeeping or reporting requirements.",
+        "§63.10(f)"
+      ],
+      [
+        "Notification to comply with the emission averaging requirements for cement kilns with in-line raw mills.",
+        "§§63.1204(d)(2)(iii), 63.1220(d)(2)(iii)"
+      ],
+      [
+        "Notification to comply with the emission averaging requirements for preheater or preheater/precalciner kilns with dual stacks.",
+        "§§63.1204(e)(2)(iii), 63.1220(e)(2)(iii)"
+      ],
+      [
+        "Extension of the compliance date for up to one year.",
+        "§§63.1206(b)(4), 63.1213, 63.6(i), 63.9(c)"
+      ],
+      [
+        "Request to burn hazardous waste for more than 720 hours and for purposes other than testing or pretesting.",
+        "§63.1206(b)(5)(i)(C)"
+      ],
+      [
+        "Submittal of PM CEMS correlation test plan for review and approval.",
+        "§63.1206(b)(8)(iii)(B)"
+      ],
+      [
+        "Request approval for waiver of particulate matter and opacity standards and associated operating limits and conditions.",
+        "§63.1206(b)(8)(v)"
+      ],
+      [
+        " Request approval of alternative emission standards for mercury, semivolatile metal, low volatile metal, and hydrogen chloride/chlorine gas for lightweight aggregate kilns or cement kilns.",
+        "§63.1206(b)(9), §63.1206(b)(10)"
+      ],
+      [
+        "Request to comply with an alternative to the particulate matter standard (incinerators only).",
+        "§63.1206(b)(14)"
+      ],
+      [
+        "Request to comply with the alternative to the interim standards for mercury (cement and lightweight aggregate kilns).",
+        "§63.1206(b)(15)"
+      ],
+      [
+        "Request changes to the startup, shutdown, and malfunction plan.",
+        "§63.1206(c)(2)(ii)(C)"
+      ],
+      [
+        "Request an alternative means of control for combustion system leaks.",
+        "§63.1206(c)(5)(i)(C)"
+      ],
+      [
+        "Request other techniques to prevent fugitive emissions without use of instantaneous pressure limits.",
+        "§63.1206(c)(5)(i)(D)"
+      ],
+      [
+        "Request to base initial compliance on data in lieu of a comprehensive performance test.",
+        "§63.1207(c)(2)"
+      ],
+      [
+        "Request more than 60 days to complete a performance test.",
+        "§63.1207(d)(3)"
+      ],
+      [
+        "Request a time extension if the Administrator fails to approve or deny the test plan.",
+        "§§63.1207(e)(3), 63.7(h)"
+      ],
+      [
+        "Request to waive current operating parameter limits during pretesting for more than 720 hours.",
+        "§63.1207(h)(2)"
+      ],
+      [
+        "Request a reduced hazardous waste feedstream analysis for organic hazardous air pollutants.",
+        "§63.1207(f)(1)(ii)(D)"
+      ],
+      [
+        "Request to operate under a wider operating range for a parameter during confirmatory performance testing.",
+        "§63.1207(g)(2)(v)"
+      ],
+      [
+        "Request up to a one-year time extension for conducting a performance test (other than the initial comprehensive performance test).",
+        "§63.1207(i)"
+      ],
+      [
+        "Request more than 90 days to submit a Notification of Compliance after completing a performance test.",
+        "§63.1207(j)(4)"
+      ],
+      [
+        "Request to burn hazardous waste for more than 720 hours and for purposes other than testing or pretesting.",
+        "§63.1207(l)(3)"
+      ],
+      [
+        "Request approval of alternative monitoring methods for compliance with standards that are monitored with a CEMS and approval to use CEMS in lieu of operating parameter limits.",
+        "§§63.1209(a)(5), 63.8(f)"
+      ],
+      [
+        "Request approval of alternatives to operating parameter monitoring requirements or a waiver of an operating parameter limit.",
+        "§63.1209(g)(1)"
+      ],
+      [
+        "Request to extrapolate mercury feedrate limits.",
+        "§63.1209(l)(1)"
+      ],
+      [
+        "Request to extrapolate semivolatile and low volatile metal feedrate limits.",
+        "§63.1209(n)(2)"
+      ],
+      [
+        "Request to use data compression techniques to record data on a less frequent basis than required by §63.1209.",
+        "§63.1211(d)"
+      ],
+      [
+        "Request and eligibility demonstration for alternative risk-based limits for total chlorine. ",
+        "§63.1215(a)(1)(v)"
+      ],
+      [
+        "Request to use an alternative CEMS span or range for CO, O 2 , and HC CEMS.",
+        "Appendix to Subpart EEE, Section 6.3.5"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202602-2060-006/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Reports"
+      ],
+      [
+        "Compliance progress reports, if required as a condition of an extension of the compliance date granted under §63.6(i).",
+        "§63.10(d)(4)"
+      ],
+      [
+        "Periodic startup, shutdown, and malfunction reports.",
+        "§63.10(d)(5)(i)"
+      ],
+      [
+        "Immediate startup, shutdown, and malfunction reports.",
+        "§63.10(d)(5)(ii)"
+      ],
+      [
+        "Excessive emissions and continuous monitoring system performance report and summary report.",
+        "§63.10(e)(3)"
+      ],
+      [
+        "Startup, shutdown, and malfunction plan.",
+        "§63.1206(c)(2)(ii)(B), 63.6(e)(3)"
+      ],
+      [
+        "Excessive exceedances reports.",
+        "§63.1206(c)(3)(vi)"
+      ],
+      [
+        "Emergency safety vent opening reports.",
+        "§63.1206(c)(4)(iv)"
+      ],
+      [
+        "Performance test and performance evaluation reports*",
+        "§63. 1211(f)"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202602-2060-006/raw/supporting-statement-a-1.docx",
+    "table": 6,
+    "rows": [
+      [
+        "Recordkeeping"
+      ],
+      [
+        "Documentation of information required for compliance, including data recorded by CMS, and copies of all notifications, reports, plans, and other documents submitted to the Administrator.",
+        "§§63.1200, 63.10(b) and (c)"
+      ],
+      [
+        "Documentation of mode of operation changes for cement kilns with in-line raw mills.",
+        "§§63.1204(d)(1)(ii), §63.1220(d)(1)(ii)"
+      ],
+      [
+        "Documentation of compliance with the emission averaging requirements for cement kilns with in-line raw mills.",
+        "§§63.1204(d)(2)(ii), 63.1220(d)(2)(ii)"
+      ],
+      [
+        "Documentation of compliance with the emission averaging requirements for preheater or preheater/precalciner kilns with dual stacks.",
+        "§§63.1204(e)(2)(ii), 63.1220(e)(2)(ii)"
+      ],
+      [
+        "Documentation of compliance with all applicable Clean Air Act Sections 112 and 129 requirements in lieu of the requirements of Subpart EEE when not burning hazardous waste.",
+        "§63.1206(b)(1)(ii)"
+      ],
+      [
+        "Documentation that a change will not adversely affect compliance with the emission standards or operating requirements.",
+        "§63.1206(b)(5)(ii)"
+      ],
+      [
+        "Documentation of compliance with the Destruction and Removal Efficiency (DRE) standard.",
+        "§63.1206(b)(7)"
+      ],
+      [
+        "Calculation of hazardous waste residence time.",
+        "§63.1206(b)(11)"
+      ],
+      [
+        "Startup, shutdown, and malfunction plan.",
+        "§63.1206(c)(2)"
+      ],
+      [
+        "Documentation of your investigation and evaluation of excessive exceedances during malfunctions.",
+        "§63.1206(c)(2)(v)(A)"
+      ],
+      [
+        "Corrective measures for any automatic waste feed cutoff that results in an exceedance of an emission standard or operating parameter limit.",
+        "§63.1206(c)(3)(v)"
+      ],
+      [
+        "Documentation and results of the automatic waste feed cutoff operability testing.",
+        "§63.1206(c)(3)(vii)"
+      ],
+      [
+        "Documentation of waste feed ramp down procedures in the operating and maintenance plan. ",
+        "§63.1206(c)(3)(viii)"
+      ],
+      [
+        "Emergency safety vent operating plan.",
+        "§63.1206(c)(4)(ii)"
+      ],
+      [
+        "Corrective measures for any emergency safety vent opening.",
+        "§63.1206(c)(4)(iii)"
+      ],
+      [
+        "Method used for control of combustion system leaks.",
+        "§63.1206(c)(5)(ii)"
+      ],
+      [
+        "Operator training and certification program.",
+        "§63.1206(c)(6)"
+      ],
+      [
+        "Operation and maintenance plan.",
+        "§63.1206(c)(7)(iv)"
+      ],
+      [
+        "Feedrate of mercury, semivolatile metals, low volatile metals, and total chlorine from all feedstreams.",
+        "§63.1207(m)"
+      ],
+      [
+        "Documentation of quality assurance (QA) and quality control (QC) program and data collected as a result of the QA and QC program.",
+        "§ 63.1209(a)(2) and (d)(2), Appendix to Subpart EEE"
+      ],
+      [
+        "Feedstream analysis plan.",
+        "§63.1209(c)(2)"
+      ],
+      [
+        "CMS quality control program.",
+        "§§63.1209(d), 63.8(d)"
+      ],
+      [
+        "Documentation that a substitute activated carbon, dioxin/furan formation reaction inhibitor, or dry scrubber sorbent will provide the same level of control as the original material.",
+        "§§63.1209(k)(6)(iii), 63.1209(k)(7)(ii), 63.1209(k)(9)(ii), 63.1209(o)(4)(iii)"
+      ],
+      [
+        "Results of carbon bed performance monitoring.",
+        "§63.1209(k)(7)(i)(C)"
+      ],
+      [
+        "Documentation of changes in modes of operation.",
+        "§63.1209(q)"
+      ],
+      [
+        "Documentation of compliance.",
+        "§63.1211(c)"
+      ],
+      [
+        "Documentation of startups, shutdowns, malfunctions, and failures to meet applicable standards.*",
+        "§63.1211( e )"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202602-2060-006/raw/supporting-statement-a-1.docx",
+    "table": 7,
+    "rows": [
+      [
+        "Industry Worker Category  a",
+        "Labor Rates, $/hr  a",
+        "110% Overhead",
+        "Total, $/hr"
+      ],
+      [
+        "Managerial (11- 3051 )",
+        "$ 71.15",
+        "$ 78.27",
+        "$ 149.42"
+      ],
+      [
+        "Technical ( 17-112 )",
+        "$ 54.33",
+        "$ 59.76",
+        "$ 70.31"
+      ],
+      [
+        "Clerical (43- 9061 )",
+        "$2 3.66",
+        "$ 26.03",
+        "$ 49.69"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202602-2060-006/raw/supporting-statement-a-1.docx",
+    "table": 8,
+    "rows": [
+      [
+        "Average Annual  Capital/Startup vs. Operation and Maintenance (O&M) Costs"
+      ],
+      [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)",
+        "(E)",
+        "(F)",
+        "(G)"
+      ],
+      [
+        "Continuous Monitoring Device",
+        "Capital/Startup Cost for One Respondent",
+        "Number of New Respondents ",
+        "Total Capital/Startup Cost, (B X C)",
+        "Annual O&M Costs for One Respondent",
+        "Number of Respondents with O&M",
+        "Total O&M,  (E X F)"
+      ],
+      [
+        "HF  p erformance  t ests",
+        "$0",
+        "1",
+        "$0",
+        "$ 1,700",
+        "1",
+        "$ 1,700"
+      ],
+      [
+        "HCN  p erformance  t ests",
+        "$0",
+        "1 ",
+        "$0",
+        "$ 1,100",
+        "13  ",
+        "$ 14,300"
+      ],
+      [
+        "Removal of mailing cost for  n otifications and  r eports a",
+        "$0",
+        "0 ",
+        "$0",
+        "-$ 40",
+        "93  ",
+        "-$3, 710"
+      ],
+      [
+        "Removal of CEMS costs from 1 new source a",
+        "-$158,000",
+        "1 ",
+        "-$158,000",
+        "-$34,165",
+        "1 ",
+        "-$34,165"
+      ],
+      [
+        "Removal of particulate matter CEMS mailing cost for existing sources a",
+        "$0",
+        "0",
+        "$0",
+        "-$8",
+        "12",
+        "- $96"
+      ],
+      [
+        "Total (Rounded) b",
+        " ",
+        " ",
+        "-$158,000",
+        " ",
+        " ",
+        "-$2 2 , 000"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202602-2060-006/raw/supporting-statement-a-1.docx",
+    "table": 9,
+    "rows": [
+      [
+        "Agency Worker Categories  a",
+        "Labor Rates, $/hr  a",
+        "60% Overhead",
+        "Total, $/hr"
+      ],
+      [
+        "Managerial (GS-1 3 , step 5)",
+        "$ 48.89",
+        "$2 9.33",
+        "$ 78.22"
+      ],
+      [
+        "Technical (GS-1 2 , step  1 ) ",
+        "$3 6.28",
+        "$ 21.77",
+        "$ 58.05"
+      ],
+      [
+        "Clerical (GS-6, step 3)",
+        "$1 9.63",
+        "$1 1.78",
+        "$ 31.41"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202602-2060-006/raw/supporting-statement-a-1.docx",
+    "table": 10,
+    "rows": [
+      [
+        " ",
+        "Person Hours Per Year (by Labor Category)",
+        "Total Person Hours per Respondent",
+        "Total Labor Costs Per Respondent",
+        "Capital/ Startup Costs",
+        "O&M Costs",
+        "Total Hours and Costs"
+      ],
+      [
+        "",
+        "Management",
+        "Technical",
+        "Clerical",
+        "",
+        "",
+        "",
+        "",
+        "# of Respondents",
+        "Total Hours",
+        "Capital/ Startup ($/yr)",
+        "O&M Cost ($/yr)",
+        "Total Labor Cost ($/yr)"
+      ],
+      [
+        "",
+        "$149.42",
+        "$114.09",
+        "$49.69",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1.  New Standard Requirements",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        ""
+      ],
+      [
+        "HF Work Practice Standard and associated Recordkeeping",
+        " ",
+        "5.5",
+        " ",
+        "5.5",
+        "$627",
+        "$0",
+        "$0",
+        "43",
+        "236",
+        "$0",
+        "$0",
+        "$26,945",
+        ""
+      ],
+      [
+        "HF Performance Tests",
+        " ",
+        "2.0",
+        " ",
+        "2",
+        "$228",
+        "$0",
+        "$ 1,700",
+        "1",
+        "2",
+        "$0",
+        "$ 1,700",
+        "$228",
+        ""
+      ],
+      [
+        "HCN Performance Tests",
+        " ",
+        "2.0",
+        " ",
+        "2",
+        "$228",
+        "$0",
+        "$ 1,100",
+        "13",
+        "26",
+        "$0",
+        "$ 14,300",
+        "$2,966",
+        ""
+      ],
+      [
+        "Subtotal for MACT Floor Requirements",
+        "0.0",
+        "9.5",
+        "0.0",
+        "9.5",
+        "$1,083",
+        " ",
+        " ",
+        " ",
+        "264",
+        "$0",
+        "$ 16,000",
+        "$30,140",
+        ""
+      ],
+      [
+        "2.  e-Reporting Requirements",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        ""
+      ],
+      [
+        "Familiarize with regulatory requirements",
+        "0.2",
+        "4.0",
+        "0.4",
+        "4.6",
+        "$506",
+        "  $0",
+        "$0  ",
+        "31",
+        "144",
+        "  $0",
+        "  $0",
+        "$15,859",
+        ""
+      ],
+      [
+        "Notifications (construction/modification, start-up, initial/repeat performance test, CEMS start/stop, exemptions) ",
+        "0.3",
+        "5.0",
+        "0.5",
+        "5.75",
+        "$633",
+        "  $0",
+        "  $0",
+        "93",
+        "535",
+        "  $0",
+        "  $0",
+        "$58,838",
+        ""
+      ],
+      [
+        "Performance test reports (initial/repeat and annual compliance)",
+        "0.0",
+        "0.5",
+        "0.1",
+        "0.575",
+        "$63",
+        "  $0",
+        "  $0",
+        "93",
+        "53",
+        "  $0",
+        "  $0",
+        "$5,884",
+        ""
+      ],
+      [
+        "Familiarize with CEDRI: existing source",
+        "0.1",
+        "2.0",
+        "0.2",
+        "2.3",
+        "$253",
+        "  $0",
+        "  $0",
+        "93",
+        "214",
+        "  $0",
+        "  $0",
+        "$23,535",
+        ""
+      ],
+      [
+        "Familiarize with CEDRI: new source",
+        "0.2",
+        "4.0",
+        "0.4",
+        "4.6",
+        "$506",
+        "  $0",
+        "  $0",
+        "1",
+        "5",
+        "  $0",
+        "  $0",
+        "$506",
+        ""
+      ],
+      [
+        "Electronic data submittal (and savings from submitting paper reports)",
+        "0.1",
+        "1.5",
+        "0.2",
+        "1.725",
+        "$190",
+        "  $0",
+        "-$40",
+        "93",
+        "160",
+        "  $0",
+        "-$3,710",
+        "$17,651",
+        ""
+      ],
+      [
+        "Reviewing and revising O&M plans",
+        "0.6",
+        "12.0",
+        "1.2",
+        "13.8",
+        "$1,518",
+        "  $0",
+        "  $0",
+        "93",
+        "1,283",
+        "  $0",
+        "  $0",
+        "$141,210",
+        ""
+      ],
+      [
+        "Subtotal for e-reporting",
+        "1.5",
+        "29.0",
+        "2.9",
+        "33.35",
+        "$3,669",
+        " ",
+        " ",
+        " ",
+        "2,395",
+        "  $0",
+        "  -$3,710",
+        "$263,483",
+        ""
+      ],
+      [
+        "3.  Removals and Cost Reductions",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        ""
+      ],
+      [
+        "Removal of PM CEMS capital and O&M costs from 1 new source a",
+        " ",
+        " ",
+        " ",
+        "0",
+        "$0",
+        "-$158,000",
+        "-$34,165",
+        "1",
+        "0",
+        "-$158,000",
+        "-$34,165",
+        "$0",
+        ""
+      ],
+      [
+        "Removal of PM CEMS labor for existing sources a",
+        "-2.0",
+        "-16.1",
+        "-2.0",
+        "-20.1",
+        "-$2,235",
+        "$0",
+        "-$8",
+        "12",
+        "-242",
+        "$0",
+        "-$96",
+        "-$26,958",
+        ""
+      ],
+      [
+        "Subtotal for Removals and Cost Reductions",
+        "-2.0",
+        "-16.1",
+        "-2.0",
+        "-20.1",
+        "-$2,235",
+        "-$158,000",
+        "-$34,173",
+        " ",
+        "-242",
+        "-$158,000",
+        "-$34,261",
+        "-$26,958",
+        ""
+      ],
+      [
+        "TOTAL CATEGORY BURDEN AND COSTS",
+        "-0.6",
+        "22.4",
+        "0.9",
+        "22.7",
+        "$2,517",
+        " ",
+        " ",
+        " ",
+        "2,416",
+        "-$158,000",
+        "-$ 21,971",
+        "$266,665",
+        ""
+      ],
+      [
+        "TOTAL LABOR BURDEN AND COSTS  (ROUNDED) b",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "2,416",
+        " ",
+        " ",
+        "$26 7 , 000",
+        ""
+      ],
+      [
+        "TOTAL CAPITAL AND O&M COST  (ROUNDED) b",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "-$1 80 , 000",
+        ""
+      ],
+      [
+        "GRAND TOTAL (ROUNDED)  b",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "$ 86 , 7 00",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202602-2060-006/raw/supporting-statement-a-1.docx",
+    "table": 11,
+    "rows": [
+      [
+        "Information Collection Activity",
+        "Person Hours Per Year  (by Labor Category)",
+        "Total Person Hours Per Respondent",
+        "Total Labor Cost Per Respondent",
+        "Capital/ Startup Costs",
+        "O&M (Mailing) Costs",
+        "Total Hours and Costs"
+      ],
+      [
+        "",
+        "Management $78.22",
+        "Technical $58.05",
+        "Clerical $31.41",
+        "",
+        "",
+        "",
+        "",
+        "# of Respondents a",
+        "Total Labor Hours",
+        "Total Labor Costs",
+        "Total O&M (Mailing) Costs",
+        "Total Costs"
+      ],
+      [
+        "1.  New Standard Requirements",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "HF Work Practice",
+        " ",
+        "0 ",
+        " ",
+        "0.0",
+        "$0",
+        "$0",
+        "$0",
+        "43 ",
+        "0.0",
+        "$0",
+        "$0",
+        "$0"
+      ],
+      [
+        "HF Performance Test",
+        "0.025 ",
+        "0.5 ",
+        "0.05 ",
+        "0.6",
+        "$3 3",
+        "$0",
+        "$0",
+        "1 ",
+        "0.6",
+        "$33",
+        "$0",
+        "$33"
+      ],
+      [
+        "HCN Performance Test",
+        "0.025 ",
+        "0.5 ",
+        "0.05 ",
+        "0.6",
+        "$3 3",
+        "$0",
+        "$0",
+        "13 ",
+        "7.5",
+        "$423",
+        "$0",
+        "$423"
+      ],
+      [
+        "2.  Removals and Cost Reductions",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "Removal of PM CEMS from existing sources c",
+        "-0.5 ",
+        "-10 ",
+        "-0.25 ",
+        "-10.8",
+        "-$627",
+        "$0",
+        "- $ 1 ",
+        "12",
+        "-129.7",
+        "-$7,568",
+        "-$12",
+        "-$7,580"
+      ],
+      [
+        "TOTAL ANNUAL BURDEN AND COST",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "-122",
+        "-$7,112",
+        "-$12",
+        "-$7,124"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202602-2060-006/raw/supporting-statement-a-1.docx",
+    "table": 12,
+    "rows": [
+      [
+        "",
+        "Previously Approved ICR",
+        "Change by This Action",
+        "ICR After Change"
+      ],
+      [
+        "Respondents (Number of HWC Units)",
+        "170",
+        "(5)",
+        "165"
+      ],
+      [
+        "Number of Annual Responses",
+        "1,467",
+        "80",
+        "1,547"
+      ],
+      [
+        "Annual Time Burden (Hours)",
+        "59,100",
+        "2,420",
+        "61,520"
+      ],
+      [
+        "Annual Capital/O&M Cost Burden (Dollars)",
+        "2,770,000",
+        "(180,000)",
+        "2,590,000"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "file": "icrs/202412-1205-002/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Contact",
+        "Organization",
+        "Email",
+        "Phone"
+      ],
+      [
+        "Breyanna Hanson",
+        "Wyoming Department of Workforce Services",
+        "breyanna.hanson@wyo.gov",
+        "(307) 233-4657"
+      ],
+      [
+        "Samuel Havens",
+        "Washington Employment Security Department  ",
+        "samuel.havens@esd.wa.gov",
+        "(360) 809- 8849"
+      ],
+      [
+        "Brian McLoughlin",
+        "Ohio Department of Job and Family Services ",
+        "Brian.McLoughlin@jfs.ohio.gov",
+        "N/A"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202412-1205-002/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Activity",
+        "No.  of Respondents",
+        "No. of Responses  per  Respondent",
+        "Total Responses",
+        "Average Burden (H our s)",
+        "Total Burden (Hours)",
+        "Hourly Wage Rate",
+        "Total Burden Cost"
+      ],
+      [
+        "Reporting of Regular 5159",
+        "53",
+        "12",
+        "636",
+        "2 .5",
+        "1, 590",
+        "$ 5 3",
+        "$ 8 4,270"
+      ],
+      [
+        "Reporting of EB 5159",
+        "53",
+        "12",
+        "636",
+        "2",
+        "1,272",
+        "$ 5 3",
+        "$ 6 7,416"
+      ],
+      [
+        "Reporting of STC 5159",
+        "53",
+        "12",
+        "636",
+        "2",
+        "1,272",
+        "$ 5 3",
+        "$ 67,416"
+      ],
+      [
+        "Record Keeping Burden for ongoing STC Element",
+        "53",
+        "12",
+        "636",
+        "5",
+        "3,180",
+        "$ 5 3",
+        "$ 1 68,540"
+      ],
+      [
+        "Unduplicated Totals",
+        "--",
+        "--",
+        "2,544",
+        "--",
+        "7,314",
+        "--",
+        "$ 387,642"
+      ]
+    ]
+  }
+]

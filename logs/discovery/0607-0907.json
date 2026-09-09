@@ -1,0 +1,15 @@
+{
+  "query": "0607-0907",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&ombControlNumber=0607-0907",
+  "rows": [
+    {
+      "refs": [
+        "202403-0607-001"
+      ],
+      "text": "0607-0907\n|\nDOC/CENSUS\n|\nQuarterly Services Survey\n|\nExtension without change of a currently approved collection\n|\n03/11/2024\n|\n05/30/2024\n|\nApproved with change\n|\n05/31/2027\n|\n1\n|\n1\n|"
+    }
+  ],
+  "all_refs": [
+    "202403-0607-001"
+  ]
+}

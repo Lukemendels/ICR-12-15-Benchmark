@@ -1,0 +1,170 @@
+{
+  "icr_id": "202502-2060-039",
+  "omb_control_number": "2060-0719",
+  "agency": "EPA/OAR",
+  "title": "National Emission Standards for Hazardous Air Pollutants (NESHAP) from Manufacturing of Nutritional Yeast (40 CFR Part 60, CCCC) (Renewal)",
+  "submission_date": "02/28/2025",
+  "archetype": "nutritional yeast continuous monitoring",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 7,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0145",
+    "SRC-0146",
+    "SRC-0160",
+    "SRC-0161",
+    "SRC-0162"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 10,
+    "segmentation": 13,
+    "labor": 5,
+    "item13": 5,
+    "item14": 6,
+    "item15": 7,
+    "validation": 3,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Task/role equations reconstruct hours; federal sum and nonlaborunitcostsconflict.",
+    "provenance": "ECEC2023,OPM2024/2023conflict and2017costmemoidentified.",
+    "segmentation": "Monitoring, reporting, records and equipment components explicit.",
+    "labor": "ECEC totalcomp multiplied2.1 forindustryvariation/overhead withoutempiricalfactor support.",
+    "item13": "Ten-yearlife/7%methodidentified butrecenttablemixesannualizedcapital andO&M; RATArateconflict.",
+    "item14": "GSgrades andtaskhours explicit; annualsummarycostomittedfromtotal.",
+    "item15": "Nohour/nonlaborchange andwageupdate stated.",
+    "validation": "Historicalcostmodelandfour knownfacilities; currentprices/validationlimited.",
+    "consistency": "Federalcost andRATA unitprice conflicts; sourcecostscopenotcleanlymapped."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Reporting",
+        null,
+        null,
+        124
+      ],
+      [
+        "Recordkeeping",
+        null,
+        null,
+        1286
+      ]
+    ],
+    "labor": {
+      "base_total_comp": [
+        82.1,
+        67.5,
+        33.98
+      ],
+      "loaded": [
+        172.41,
+        141.75,
+        71.36
+      ],
+      "factor": 2.1,
+      "year": 2023,
+      "reported": 193000,
+      "manager_share_of_technical": 0.05,
+      "clerical_share_of_technical": 0.1
+    },
+    "item13": {
+      "capital": 0,
+      "cems_annual_unit": 186860,
+      "cems_facilities": 4,
+      "rata_unit_per_facility": 21216,
+      "rata_facilities_annual": 1.33,
+      "reported_om": 776000,
+      "rata_footnote_per_monitor": 3624,
+      "monitors_per_facility": 6.5,
+      "source_life": 10,
+      "source_discount": 0.07,
+      "source_price_year": 2015,
+      "historical_memo_principal": 510899
+    },
+    "item14": {
+      "rates": [
+        76.92,
+        57.07,
+        30.88
+      ],
+      "technical_hours": 97.315,
+      "reported_hours": 112,
+      "reported_cost": 5590
+    },
+    "item15": {
+      "hours_unchanged": 1410,
+      "nonlabor_unchanged": 776000,
+      "labor_change": "Updatedcompensation"
+    },
+    "assumptions": [
+      "Fourfacilities,nogrowth.",
+      "Manager5%andclerk10%oftechnicalhours.",
+      "RATAeverythreeyears."
+    ]
+  },
+  "reconstruction_issues": [
+    "Federalrowcosts42.56+425.63+5120.32+640.04=6228.55not5590; totalomitsannualsummarycostbutincludeshours.",
+    "RATAfootnote3624*6.5=23556, not21216unitcost.",
+    "Historical86770 isincrementalannualresourcecostincludinglaborandcapitalrecovery, notpurchaseprice; recenttablelabelcapital/startup ismisleading.",
+    "2017memoand2007costmodelaremethodexemplars, notcurrentpricevalidation."
+  ],
+  "methods_worth_testing": [
+    "Explicitlife/discountandsharedsetupcostsinhistoricalregulatorysupport.",
+    "Separatefirstmonitorandadditionalmonitorpurchasedtestingcosts."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "124+1286",
+      "calculated": 1410,
+      "reported": 1410,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exactdisplayedsubtotals.",
+      "source_id": "SRC-0146"
+    },
+    {
+      "label": "Federal cost",
+      "formula": "42.56+425.63+5120.32+640.04",
+      "calculated": 6228.549999999999,
+      "reported": 5590,
+      "difference": 638.5499999999993,
+      "unit": "USD",
+      "interpretation": "638.55difference.",
+      "source_id": "SRC-0146"
+    },
+    {
+      "label": "RATAunit",
+      "formula": "3624*6.5",
+      "calculated": 23556.0,
+      "reported": 21216,
+      "difference": 2340.0,
+      "unit": "USD",
+      "interpretation": "2340difference.",
+      "source_id": "SRC-0146"
+    },
+    {
+      "label": "Capital recovery exemplar",
+      "formula": "510899*.07/(1-(1.07)**-10)",
+      "calculated": 72740.52376590787,
+      "reported": 72752,
+      "difference": -11.476234092129744,
+      "unit": "USD/year",
+      "interpretation": "Historicalannuityreplicateswithinrounding; notentirelyItem13nonlabor.",
+      "source_id": "SRC-0146"
+    }
+  ],
+  "total_score": 67
+}

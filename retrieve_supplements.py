@@ -12,7 +12,7 @@ for rel,name in re.findall(r'downloadBtnOnClickHandler\("([^\"]+)"\)[^>]*>\s*(.*
  url='https://www.reginfo.gov'+rel
  if url in byurl:print('cached',name);continue
  b=get(url);ext=Path(name).suffix.lower();p=d/('supplement-'+re.search(r'objectID=(\d+)',url).group(1)+ext);p.write_bytes(b)
- if ext=='.xlsx':
+ if ext in ['.xlsx','.xlsm']:
   z=zipfile.ZipFile(io.BytesIO(b));ns={'s':'http://schemas.openxmlformats.org/spreadsheetml/2006/main'};strings=[''.join(x.itertext()) for x in E.fromstring(z.read('xl/sharedStrings.xml'))] if 'xl/sharedStrings.xml' in z.namelist() else [];cells=[]
   for part in z.namelist():
    if re.fullmatch(r'xl/worksheets/sheet\d+.xml',part):

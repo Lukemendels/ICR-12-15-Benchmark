@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202602-2060-006",
+  "retrieved_at": "2026-09-09T11:53:26.506018+00:00",
+  "documents": [
+    {
+      "title": "1773ss14.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=166545001",
+      "path": "icrs/202602-2060-006/raw/supporting-statement-a-1.docx",
+      "sha256": "d071dd31bc33758d83b25bc60377e195fcae3e688596d9a830891892c96e497b",
+      "text_chars": 65865
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202602-2060-006",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202602-2060-006",
+  "agency": "EPA/OAR",
+  "title": "NESHAP for Hazardous Waste Combustors (40 CFR Part 63, Subpart EEE) (Proposed Rule)",
+  "omb_control_number": "2060-0743",
+  "submission_date": "02/27/2026",
+  "record_source_id": "SRC-0153",
+  "supporting_statement_source_ids": [
+    "SRC-0154"
+  ]
+}

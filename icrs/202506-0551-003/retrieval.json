@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202506-0551-003",
+  "retrieved_at": "2026-09-09T11:53:48.295549+00:00",
+  "documents": [
+    {
+      "title": "0551-0038 Supporting Statement (TASC) 7-31-25.pdf",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=161017102",
+      "path": "icrs/202506-0551-003/raw/supporting-statement-a-1.pdf",
+      "sha256": "f8fa2aa88d6025442be1d83ceb3abe4456d621aa6993f1c88405fa717236cf88",
+      "text_chars": 30368
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202506-0551-003",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202506-0551-003",
+  "agency": "USDA/FAS",
+  "title": "Technical Assistance for Specialty Crops",
+  "omb_control_number": "0551-0038",
+  "submission_date": "08/08/2025",
+  "record_source_id": "SRC-0151",
+  "supporting_statement_source_ids": [
+    "SRC-0152"
+  ]
+}

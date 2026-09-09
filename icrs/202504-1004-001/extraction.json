@@ -1,0 +1,376 @@
+{
+  "icr_id": "202504-1004-001",
+  "omb_control_number": "1004-0121",
+  "agency": "DOI/BLM",
+  "title": "Leasing of Solid Minerals Other Than Coal and Oil Shale (43 CFR 3500-3590)",
+  "submission_date": "07/17/2025",
+  "archetype": "mineral leases and exploration plans",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 7,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0147",
+    "SRC-0148"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 10,
+    "segmentation": 14,
+    "labor": 7,
+    "item13": 7,
+    "item14": 5,
+    "item15": 9,
+    "validation": 3,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "CFR activity table shows every respondent workload, but removed20-hour row remains.",
+    "provenance": "SOC codes,2025RUS pay, fee rule and historical fees cited; wage vintage not fixed.",
+    "segmentation": "32 obligations and10/80/10 occupational mix; one mix reused across all tasks.",
+    "labor": "Explicit weighted labor, but text1.3 versus table1.4 benefits conflict.",
+    "item13": "Fixed fees and case-specific historical average fees distinguished; some stale rows.",
+    "item14": "Federal grades/weights and task hours explicit, but most dollars retain64.29 despite74.27 displayed.",
+    "item15": "Exact three-measure baseline/program/adjustment bridge; implementation tables not fully updated.",
+    "validation": "Respondent consultation and experienced workload estimates, no measured timing data.",
+    "consistency": "Deleted obligation retained and widespread federal cost-rate mismatch."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Request for Effective Date 43 CFR 3501.20",
+        10.0,
+        1.0,
+        10.0
+      ],
+      [
+        "Qualification Requirements / Individuals or Households, Guardians or Trustees, Heirs, and Devisees 43 CFR 3502.27, 3502.29, 3502.33, 3502.34, and 3502.40",
+        3.0,
+        2.0,
+        6.0
+      ],
+      [
+        "Qualification Requirements / Associations and Partnerships 43 CFR 3502.28, 3502.33, and 3502.34",
+        3.0,
+        2.0,
+        6.0
+      ],
+      [
+        "Qualification Requirements / Corporations 43 CFR 3502.30, 3502.33, and 3502.34",
+        44.0,
+        2.0,
+        88.0
+      ],
+      [
+        "Surface Owner Consultation / State or Local Government 43 CFR 3503.21(b)",
+        1.0,
+        2.0,
+        2.0
+      ],
+      [
+        "Surface Owner Consultation / Educational, Charitable, or Religious Organization 43 CFR 3503.21(b)",
+        2.0,
+        2.0,
+        4.0
+      ],
+      [
+        "Applicant’s Land Description 43 CFR 3503.30 through 3503.32",
+        50.0,
+        2.0,
+        100.0
+      ],
+      [
+        "Bonding 43 CFR 3504.50 through 3504.71 Forms 3504-1, 3504-3, and 3504-4",
+        40.0,
+        4.0,
+        160.0
+      ],
+      [
+        "Application for a Prospecting Permit 43 CFR 3505.12 and 3505.13 Form 3510-1",
+        55.0,
+        10.0,
+        550.0
+      ],
+      [
+        "Amendment or Withdrawal of an Application for Prospecting Permit 43 CFR 3505.30 and 3505.31",
+        10.0,
+        5.0,
+        50.0
+      ],
+      [
+        "Exploration Plan 43 CFR 3505.40, 3505.45, and 3592.1(a)",
+        25.0,
+        400.0,
+        10000.0
+      ],
+      [
+        "Application to Extend a Prospecting Permit 43 CFR 3505.60 through 3505.66",
+        5.0,
+        40.0,
+        200.0
+      ],
+      [
+        "Application for an Exploration License 43 CFR 3506.11 through 3506.25",
+        5.0,
+        10.0,
+        50.0
+      ],
+      [
+        "Application for a Preference Right Lease 43 CFR 3507.11 through 3507.19 Form 3520-7",
+        30.0,
+        300.0,
+        9000.0
+      ],
+      [
+        "Application for a Competitive Lease 43 CFR 3508.12 through 3508.22 Form 3520-7",
+        5.0,
+        20.0,
+        100.0
+      ],
+      [
+        "Application for a Fractional or Future Interest Lease 43 CFR 3509.10 through 3509.51 Form 3520-7",
+        1.0,
+        80.0,
+        80.0
+      ],
+      [
+        "Application for a Fringe Acreage Lease or Lease Modification 43 CFR 3510.12",
+        10.0,
+        20.0,
+        200.0
+      ],
+      [
+        "Objection to Proposed Readjustment of Lease Terms and Conditions 43 CFR 3511.25 and 3511.26",
+        20.0,
+        2.0,
+        40.0
+      ],
+      [
+        "Request for Renewal of a Lease 43 CFR 3511.27",
+        20.0,
+        2.0,
+        40.0
+      ],
+      [
+        "Assignment, Sublease, or Transfer 43 CFR 3512.11 through 3512.17",
+        30.0,
+        6.0,
+        180.0
+      ],
+      [
+        "Application for Reduction of Rental, Royalties, or Minimum Production 43 CFR 3513.15 and 3513.16",
+        1.0,
+        90.0,
+        90.0
+      ],
+      [
+        "Application for Suspension43 CFR 3513.16, 3513/22 through 3513.32",
+        1.0,
+        100.0,
+        100.0
+      ],
+      [
+        "Lease Relinquishment 43 CFR 3514.11 through 3514.21",
+        10.0,
+        40.0,
+        400.0
+      ],
+      [
+        "Mineral Lease Exchange 43 CFR 3515.23 through 3515.27",
+        1.0,
+        40.0,
+        40.0
+      ],
+      [
+        "Application for Approval of a Hardrock Mineral Development Contract or Processing or Milling Arrangement 43 CFR 3517.15",
+        1.0,
+        20.0,
+        20.0
+      ],
+      [
+        "Application for a Gold, Silver, or Quicksilver Lease in a Confirmed Private Land Grant 43 CFR 3581.3 and 3581.4 Form 3520-7",
+        1.0,
+        20.0,
+        20.0
+      ],
+      [
+        "Application for a Hardrock Mineral Lease in the Shasta and Trinity Units of the Whiskeytown-Shasta-Trinity National Recreation Area 43 CFR 3583.3",
+        1.0,
+        20.0,
+        20.0
+      ],
+      [
+        "Application for a Mineral Lease in the White Mountains National Recreation Area 43 CFR 3585.3-2",
+        1.0,
+        20.0,
+        20.0
+      ],
+      [
+        "Mining Plan 43 CFR 3592.1 through 3592.3",
+        5.0,
+        800.0,
+        4000.0
+      ],
+      [
+        "Modification of an Exploration or Mining Plan 43 CFR 3592.1(d)",
+        10.0,
+        150.0,
+        1500.0
+      ],
+      [
+        "Data on Bore Holes and Samples 43 CFR 3593.1",
+        25.0,
+        2.0,
+        50.0
+      ],
+      [
+        "Production Records 43 CFR 3597.1 and 3597.2",
+        80.0,
+        2.0,
+        160.0
+      ]
+    ],
+    "labor": {
+      "soc": [
+        "43-9061",
+        "17-2151",
+        "11-9041"
+      ],
+      "wages": [
+        20.94,
+        50.7,
+        82.83
+      ],
+      "weights": [
+        0.1,
+        0.8,
+        0.1
+      ],
+      "table_load": 1.4,
+      "prose_load": 1.3,
+      "loaded": 71.31,
+      "reported": 1945765
+    },
+    "item13": {
+      "fees_reported": 2051690,
+      "fixed_price_source": "89FR77171 September20,2024",
+      "variable_price_source": "Three-year mean observed processing fees",
+      "capital": 0
+    },
+    "item14": {
+      "rates": [
+        21.9,
+        48.13,
+        57.23
+      ],
+      "grades": [
+        "GS5/5",
+        "GS12/5",
+        "GS13/5"
+      ],
+      "weights": [
+        0.1,
+        0.8,
+        0.1
+      ],
+      "loading": 1.6,
+      "loaded": 74.27,
+      "reported": 5708207,
+      "legacy_dollars_implied_rate": 64.29
+    },
+    "item15": {
+      "old": [
+        507,
+        27296,
+        2051105
+      ],
+      "program": [
+        -1,
+        -20,
+        -40
+      ],
+      "adjustment": [
+        0,
+        0,
+        625
+      ],
+      "new": [
+        506,
+        27276,
+        2051690
+      ],
+      "columns": [
+        "responses",
+        "hours",
+        "nonlabor"
+      ],
+      "removed": "43CFR3517.15"
+    },
+    "assumptions": [
+      "80% engineer time common across obligations.",
+      "Case-specific fee mean based on three previous years."
+    ]
+  },
+  "reconstruction_issues": [
+    "Table12-2 still includes removed43CFR3517.15,20hours, although total andItem15exclude it.",
+    "Federal exploration plan10000hours*74.27=742700, while table642900 retains64.29.",
+    "Text says1.3benefits; respondent tableuses1.4.",
+    "Fee table includes use permit in place of removed contract and mineral exchange45fee/40total mismatch."
+  ],
+  "methods_worth_testing": [
+    "Three-column exact program-change and adjustment bridge.",
+    "Separate fee schedule from variable historical processing prices."
+  ],
+  "checks": [
+    {
+      "label": "Displayed row hours",
+      "formula": "27286.0",
+      "calculated": 27286.0,
+      "reported": 27276,
+      "difference": 10.0,
+      "unit": "hours",
+      "interpretation": "Retained removed activity causes20-hour excess.",
+      "source_id": "SRC-0148"
+    },
+    {
+      "label": "Federal exploration",
+      "formula": "10000*74.27",
+      "calculated": 742700.0,
+      "reported": 642900,
+      "difference": 99800.0,
+      "unit": "USD",
+      "interpretation": "99800 difference; stale prior rate.",
+      "source_id": "SRC-0148"
+    },
+    {
+      "label": "Change bridge",
+      "formula": "2051105-40+625",
+      "calculated": 2051690,
+      "reported": 2051690,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0148"
+    },
+    {
+      "label": "Respondent mix",
+      "formula": "(20.94*.1+50.70*.8+82.83*.1)*1.4",
+      "calculated": 71.3118,
+      "reported": 71.31,
+      "difference": 0.0018000000000029104,
+      "unit": "USD/hour",
+      "interpretation": "Rounding.",
+      "source_id": "SRC-0148"
+    }
+  ],
+  "total_score": 73
+}

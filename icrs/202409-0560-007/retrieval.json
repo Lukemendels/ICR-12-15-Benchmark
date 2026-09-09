@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202409-0560-007",
+  "retrieved_at": "2026-09-09T11:53:26.506579+00:00",
+  "documents": [
+    {
+      "title": "Supporting_Document_0560-0233_2024_3.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=147063201",
+      "path": "icrs/202409-0560-007/raw/supporting-statement-a-1.docx",
+      "sha256": "6c7b4e0f3fcc638f704b1732efb1587a1ac459d2ac43edd363584db2bd9f790a",
+      "text_chars": 71376
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202409-0560-007",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202409-0560-007",
+  "agency": "USDA/FSA",
+  "title": "Farm Loan Programs - Direct Loan Servicing - Special ( 7 CFR 766)",
+  "omb_control_number": "0560-0233",
+  "submission_date": "10/08/2024",
+  "record_source_id": "SRC-0141",
+  "supporting_statement_source_ids": [
+    "SRC-0142"
+  ]
+}

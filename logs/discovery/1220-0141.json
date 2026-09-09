@@ -1,0 +1,22 @@
+{
+  "query": "1220-0141",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&ombControlNumber=1220-0141",
+  "rows": [
+    {
+      "refs": [
+        "202405-1220-001"
+      ],
+      "text": "1220-0141\n|\nDOL/BLS\n|\nCognitive and Psychological Research\n|\nExtension without change of a currently approved collection\n|\n06/10/2024\n|\n07/31/2024\n|\nApproved without change\n|\n07/31/2027\n|\n6\n|\n23\n|"
+    },
+    {
+      "refs": [
+        "202502-1220-005"
+      ],
+      "text": "1220-0141\n|\nDOL/BLS\n|\nCognitive and Psychological Research\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n02/03/2025\n|\n02/18/2025\n|\nApproved without change\n|\n07/31/2027\n|\n15\n|\n38\n|"
+    }
+  ],
+  "all_refs": [
+    "202405-1220-001",
+    "202502-1220-005"
+  ]
+}

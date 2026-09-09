@@ -11,10 +11,10 @@
   "review_iteration": 5,
   "rubric_version": "1.0.0",
   "source_ids": [
-    "SRC-0072",
     "SRC-0071",
-    "SRC-0112",
-    "SRC-0111"
+    "SRC-0072",
+    "SRC-0111",
+    "SRC-0112"
   ],
   "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
   "score": {

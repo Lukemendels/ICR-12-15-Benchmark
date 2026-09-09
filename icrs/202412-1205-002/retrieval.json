@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202412-1205-002",
+  "retrieved_at": "2026-09-09T11:53:26.506339+00:00",
+  "documents": [
+    {
+      "title": "1205-0010 Supporting Statement_clean_2025.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150266202",
+      "path": "icrs/202412-1205-002/raw/supporting-statement-a-1.docx",
+      "sha256": "76e8c50142eb68be0eb37b200ad9d2579f20b0d182f36089ca78e28e77919b4c",
+      "text_chars": 25232
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202412-1205-002",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202412-1205-002",
+  "agency": "DOL/ETA",
+  "title": "Claims and Payment Activities",
+  "omb_control_number": "1205-0010",
+  "submission_date": "01/15/2025",
+  "record_source_id": "SRC-0143",
+  "supporting_statement_source_ids": [
+    "SRC-0144"
+  ]
+}

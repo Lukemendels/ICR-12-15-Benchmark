@@ -1,0 +1,197 @@
+{
+  "icr_id": "202504-3235-016",
+  "omb_control_number": "3235-0241",
+  "agency": "SEC",
+  "title": "Rule 206(4)-2, Custody of Funds or Securities of Clients by Investment Advisers",
+  "submission_date": "08/01/2025",
+  "archetype": "investment-adviser custody and audit",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 7,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0149",
+    "SRC-0150"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 15,
+    "provenance": 11,
+    "segmentation": 14,
+    "labor": 5,
+    "item13": 7,
+    "item14": 5,
+    "item15": 7,
+    "validation": 3,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "Footnote equations detailed but stale subgroup counts, rounded minutes and summary dollars do not reconcile.",
+    "provenance": "IARD December2024 precise FormADV fields and99th-percentile winsorization; SIFMA2013 wage baseline opaque.",
+    "segmentation": "Three adviser groups and audit/notice obligations segmented, including nonduplicative internal-control reports.",
+    "labor": "Two occupations and loading factors, but inflation multiplier and underlying SIFMA rates unavailable.",
+    "item13": "Tiered audit fees and internal-control exclusions explicit; price provenance and subgroup definitions inconsistent.",
+    "item14": "No additional federal cost asserted; plausible private third-party audit scope but not explained in detail.",
+    "item15": "Old/new totals and activity changes stated, but input contributions not isolated.",
+    "validation": "Administrative population and earlier accountant consultations; assumptions and winsorized totals not validated.",
+    "consistency": "Multiple population and cost contradictions, including1.217million labor difference."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Custodian contact lists",
+        3951868,
+        0.02,
+        79037
+      ],
+      [
+        "Broad-authority contacts",
+        668672,
+        0.02,
+        13373
+      ],
+      [
+        "Pooled contacts",
+        null,
+        null,
+        9020
+      ],
+      [
+        "Accountant agreement",
+        1875,
+        0.25,
+        469
+      ],
+      [
+        "Annual audited statements",
+        2072000,
+        0.017,
+        35224
+      ],
+      [
+        "Liquidation statements",
+        null,
+        null,
+        1761
+      ],
+      [
+        "Client notice",
+        1041420.0,
+        0.17,
+        177041
+      ]
+    ],
+    "labor": {
+      "compliance_manager": 381,
+      "compliance_clerk": 86,
+      "basis": "SIFMA2013,1800hours, inflation unspecified,5.35/2.93loading",
+      "narrative_total": 27307905,
+      "table_total": 28525065
+    },
+    "item13": {
+      "surprise_audit_fees": [
+        [
+          270,
+          183000
+        ],
+        [
+          114,
+          30000
+        ],
+        [
+          1491,
+          15000
+        ]
+      ],
+      "internal_control_reports": [
+        277,
+        366000
+      ],
+      "reported": 176577000,
+      "excluded_other_purpose_share": 0.1,
+      "shared_custodian_reduction_share": 0.15
+    },
+    "item14": {
+      "reported": 0,
+      "scope": "No additional cost asserted"
+    },
+    "item15": {
+      "old_hours": 288202,
+      "new_hours": 315925,
+      "old_nonlabor": 174367000,
+      "new_nonlabor": 176577000,
+      "reasons": [
+        "investor/client population",
+        "audit population",
+        "inflation"
+      ]
+    },
+    "assumptions": [
+      "Winsorize client counts at99th percentile; no raw-versus-trimmed total comparison.",
+      "5%affectedclientaccounts;5%off-cycleliquidations.",
+      "Accountantsurvey supports10%usual-business and15%shared-report exclusions."
+    ]
+  },
+  "reconstruction_issues": [
+    "Pooled-contact footnote26 uses100advisers, while subgroup prose13+123=136exclusive advisers.",
+    "Notice prose4084 differs fromfootnote4080; supporting arithmetic5105/5100also conflicts.",
+    "TableIC1 labor9940140 differs from101430*86=8722980; entire table exceeds narrative by1217160.",
+    "One minute represented as.017 andtenminutesas.17, adding2%beforepopulationmultiplication.",
+    "Winsorization may reduce aggregateburdenbyremovingreal large-cliententities; transparent method alone doesnotvalidateit."
+  ],
+  "methods_worth_testing": [
+    "Precisely identify administrative fields and outlier transformation.",
+    "Subtract usual-business and shared-audit services with explicit assumptions."
+  ],
+  "checks": [
+    {
+      "label": "Narrative labor",
+      "formula": "469*381+315456*86",
+      "calculated": 27307905,
+      "reported": 27307905,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0150"
+    },
+    {
+      "label": "Table minus narrative",
+      "formula": "28525065-27307905",
+      "calculated": 1217160,
+      "reported": 1217160,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Material conflict.",
+      "source_id": "SRC-0150"
+    },
+    {
+      "label": "Purchased services",
+      "formula": "270*183000+114*30000+1491*15000+277*366000",
+      "calculated": 176577000,
+      "reported": 176577000,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0150"
+    },
+    {
+      "label": "Annual statement precise minutes",
+      "formula": "2072000/60",
+      "calculated": 34533.333333333336,
+      "reported": 35224,
+      "difference": -690.6666666666642,
+      "unit": "hours",
+      "interpretation": "Rounding atunit-timelevel raises697.33hours.",
+      "source_id": "SRC-0150"
+    }
+  ],
+  "total_score": 68
+}

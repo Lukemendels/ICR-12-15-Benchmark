@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202405-0704-002",
+  "retrieved_at": "2026-09-09T11:53:26.506848+00:00",
+  "documents": [
+    {
+      "title": "CMMC Program SSA_0704-0677_10.18.2024.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143921305",
+      "path": "icrs/202405-0704-002/raw/supporting-statement-a-1.docx",
+      "sha256": "eb3e72d1621adbf17c5d32ff5eb502c6d2b9c9f8efbb96bdae48a8e3b54a1a9b",
+      "text_chars": 18564
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202405-0704-002",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202405-0704-002",
+  "agency": "DOW/DODDEP",
+  "title": "Cybersecurity Maturity Model Certification (CMMC) Program Reporting and Recordkeeping Requirements Information Collection",
+  "omb_control_number": "0704-0677",
+  "submission_date": "06/25/2024",
+  "record_source_id": "SRC-0139",
+  "supporting_statement_source_ids": [
+    "SRC-0140"
+  ]
+}

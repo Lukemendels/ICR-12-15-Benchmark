@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202502-2060-039",
+  "retrieved_at": "2026-09-09T11:53:48.296226+00:00",
+  "documents": [
+    {
+      "title": "2568ss04.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=153520301",
+      "path": "icrs/202502-2060-039/raw/supporting-statement-a-1.docx",
+      "sha256": "e93f71688e89e7628182e2c5e9cc02a3d313f65aedce44146278a176c3c211cb",
+      "text_chars": 42328
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202502-2060-039",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202502-2060-039",
+  "agency": "EPA/OAR",
+  "title": "National Emission Standards for Hazardous Air Pollutants (NESHAP) from Manufacturing of Nutritional Yeast (40 CFR Part 60, CCCC) (Renewal)",
+  "omb_control_number": "2060-0719",
+  "submission_date": "02/28/2025",
+  "record_source_id": "SRC-0145",
+  "supporting_statement_source_ids": [
+    "SRC-0146"
+  ]
+}

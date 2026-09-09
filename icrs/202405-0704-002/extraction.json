@@ -1,0 +1,202 @@
+{
+  "icr_id": "202405-0704-002",
+  "omb_control_number": "0704-0677",
+  "agency": "DOW/DODDEP",
+  "title": "Cybersecurity Maturity Model Certification (CMMC) Program Reporting and Recordkeeping Requirements Information Collection",
+  "submission_date": "06/25/2024",
+  "archetype": "cybersecurity certification and implementation",
+  "complexity": "very high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 7,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0139",
+    "SRC-0140",
+    "SRC-0156",
+    "SRC-0157",
+    "SRC-0163",
+    "SRC-0164"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 11,
+    "segmentation": 15,
+    "labor": 8,
+    "item13": 4,
+    "item14": 7,
+    "item15": 7,
+    "validation": 3,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "SSA aggregates link to detailed RIA phases, occupations and cost categories; composite/phase-in mapping incomplete.",
+    "provenance": "Final-rule2024 cost analysis and internal contractor comparators, but underlying observations restricted.",
+    "segmentation": "Level2/3, size, assessment phases and internal/outsourced labor meaningfully separated.",
+    "labor": "RIA distinguishes30% internal loading from vendor prices including profit and51% federal loading; composite still difficult to recreate.",
+    "item13": "Hardware/software/implementation totals reconstruct from unit totals, but no itemized assets, useful life, cohort or noncollection boundary.",
+    "item14": "Level3 workload by size and composite government rates; RIA adds grade/step/load method.",
+    "item15": "New collection with cross-control scope; no prior burden baseline.",
+    "validation": "Internal expertise, previous assessments and adverse comments; first-pass assumption limits uncertainty.",
+    "consistency": "Aggregate arithmetic close; RIA includes transcription issues and composite-source mapping is incomplete."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Level2 small",
+        8098,
+        417.83,
+        3383587.34
+      ],
+      [
+        "Level2 other",
+        2844,
+        833.83,
+        2371412.52
+      ],
+      [
+        "Level3 small",
+        190,
+        42.08,
+        7995.2
+      ],
+      [
+        "Level3 other",
+        23,
+        384.08,
+        8833.84
+      ]
+    ],
+    "labor": {
+      "composite_rates": [
+        239.89,
+        131.44,
+        170.48,
+        94.53
+      ],
+      "reported": 1125585314,
+      "ria_internal_rates": {
+        "MGMT5": 190.52,
+        "MGMT2": 95.96,
+        "IT4": 97.49,
+        "IT3": 81.96,
+        "IT2": 54.27,
+        "IT1": 36.32,
+        "IT4_small": 86.24
+      },
+      "external_provider": 260.28,
+      "internal_loading": 1.3,
+      "vendor_price_includes_profit": true
+    },
+    "item13": {
+      "small": {
+        "entities": 190,
+        "nonrecurring_unit": 2700000,
+        "recurring_unit": 490000
+      },
+      "other": {
+        "entities": 23,
+        "nonrecurring_unit": 21100000,
+        "recurring_unit": 4120000
+      },
+      "reported": 1186160000,
+      "life": null,
+      "components": "Hardware/software and implementation labor combined; assessor travel acknowledged but unquantified."
+    },
+    "item14": {
+      "rows": [
+        [
+          "small",
+          190,
+          117.75,
+          108.47,
+          2426745
+        ],
+        [
+          "other",
+          23,
+          435.75,
+          81.01,
+          811902
+        ]
+      ],
+      "reported": 3238647,
+      "reported_hours": 32394.75,
+      "ria_basis": "DCMA workload; WashingtonDC GS11–15 average steps1/5/10, approximately51%benefits/overhead"
+    },
+    "item15": {
+      "new_collection": true,
+      "related_controls": [
+        "0704-0676",
+        "0750-0004"
+      ]
+    },
+    "assumptions": [
+      "Small firms outsource technical work; larger firms use in-house staff.",
+      "Assessment passed on first attempt, possibly conditional POA&M.",
+      "RIA implementation spending occurs once; SSA average assessment population needs cohort mapping for nonrecurring engineering."
+    ]
+  },
+  "reconstruction_issues": [
+    "1.186billion engineering total lacks asset/labor split and a clear boundary between information collection and substantive cybersecurity compliance.",
+    "Vendor assessment labor is included inItem12; preserve agency treatment and separately map purchased-service classification.",
+    "RIA Level3 small POA&M line48hours*86.24 is printed345;345 corresponds4hours.",
+    "No direct published bridge from detailed phases and phase-in cohorts to all SSA composite rates."
+  ],
+  "methods_worth_testing": [
+    "RIA-linked occupation/phase model is a close TSA-relevant methodological challenger.",
+    "Distinguish in-house resource cost from vendor price including profit.",
+    "Reuse certification across contracts to avoid counting by contract."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "8098*417.83+2844*833.83+190*42.08+23*384.08",
+      "calculated": 5771828.899999999,
+      "reported": 5771828.9,
+      "difference": -9.313225746154785e-10,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0140"
+    },
+    {
+      "label": "Engineering",
+      "formula": "190*(2700000+490000)+23*(21100000+4120000)",
+      "calculated": 1186160000,
+      "reported": 1186160000,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact aggregate; validates arithmetic not scope/cohorts.",
+      "source_id": "SRC-0140"
+    },
+    {
+      "label": "Federal hours",
+      "formula": "190*117.75+23*435.75",
+      "calculated": 32394.75,
+      "reported": 32394.75,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0140"
+    },
+    {
+      "label": "RIA POAM printed equation",
+      "formula": "48*86.24",
+      "calculated": 4139.5199999999995,
+      "reported": 345,
+      "difference": 3794.5199999999995,
+      "unit": "USD",
+      "interpretation": "Printed48hours inconsistent with cost; likely4hours but not silently corrected.",
+      "source_id": "SRC-0140"
+    }
+  ],
+  "total_score": 75
+}

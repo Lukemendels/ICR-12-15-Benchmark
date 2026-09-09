@@ -1,0 +1,921 @@
+[
+  {
+    "file": "icrs/202502-2060-039/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Notifications"
+      ],
+      [
+        "Notification of construction and modification",
+        "§ 63.5(d)"
+      ],
+      [
+        "Initial notification",
+        "§ 63.9(b),  § 63.9(d)"
+      ],
+      [
+        "Notification of performance test",
+        "§ § 63.7(b)  and (c) ,  § 63.9( e ),  §63.2180(c)"
+      ],
+      [
+        "Notification of performance evaluation",
+        "§ 63.8(e),  §63.2180(d)"
+      ],
+      [
+        "Request for alternative monitoring procedures or alternatives to RATA",
+        "§§ 63.8(f)(4) and (6)"
+      ],
+      [
+        "Notifications for  sources with continuous monitoring systems",
+        "§ 63.9(g)"
+      ],
+      [
+        "Notification of  c ompliance  s tatus",
+        "§63.2180(e)-(f), §63.9(h)"
+      ],
+      [
+        "Notification of  changes in information ( reclassification to area source status or to revert to major source status )  (electronic submission)",
+        "§63.9(b),  § 63.9(j)"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202502-2060-039/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Reports"
+      ],
+      [
+        "Performance test report s (electronic submission)",
+        "§63.2181(a)"
+      ],
+      [
+        "Performance evaluation report  (electronic submission)",
+        "§63.2181(a)"
+      ],
+      [
+        "Semiannual compliance report",
+        "§63.2181(b)-(c)"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202502-2060-039/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Recordkeeping"
+      ],
+      [
+        "Copies of notifications and reports",
+        "§63.2182(a)( 1 )"
+      ],
+      [
+        "Records of failures to meet a standard",
+        "§63.2182(a)(2)"
+      ],
+      [
+        "Performance test and performance evaluation records",
+        "§63.10(b)(2)(viii) - (ix),  § 63.2182(a)(3)"
+      ],
+      [
+        "Records of the calculation of brew-to-exhaust correlations",
+        "§63.2182(b)"
+      ],
+      [
+        "Monitoring records (from CEMS and brew ethanol monitors)",
+        "§63.8(d)(3),  § 63.10(b)(2)(vi)   -   ( x ),   63.2182(c)"
+      ],
+      [
+        "Continuous compliance data and calculations",
+        "§63.2182(d)"
+      ],
+      [
+        "Fermentation and batch data",
+        "§63.2182(e)"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202502-2060-039/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Respondent Activities"
+      ],
+      [
+        "Familiarization with the regulatory requirements."
+      ],
+      [
+        "Install, calibrate, maintain, and operate C E MS ."
+      ],
+      [
+        "Perform initial performance test and repeat performance tests if necessary."
+      ],
+      [
+        "Write the notifications and reports listed above."
+      ],
+      [
+        "Enter information required to be recorded above."
+      ],
+      [
+        "Submit the required reports developing, acquiring, installing, and utilizing technology and systems for collecting, validating, and verifying information."
+      ],
+      [
+        "Develop, acquire, install, and utilize technology and systems for processing and maintaining information."
+      ],
+      [
+        "Develop, acquire, install, and utilize technology and systems for disclosing and providing information."
+      ],
+      [
+        "Train personnel to be able to respond to a collection of information."
+      ],
+      [
+        "Transmit, or otherwise disclose the information."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202502-2060-039/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Burden Item",
+        "(A) Person hours per occurrence",
+        "(B) No. of occurrences per respondent per year",
+        "(C)  Person hours per respondent per year  (C= AxB )",
+        "(D) Respondents per year  a",
+        "(E)  Technical person- hours per year (E= CxD )",
+        "(F) Management person hours per year (Ex0.05)",
+        "(G) Clerical person hours per year (Ex0.1)",
+        "(H) Cost, $  b"
+      ],
+      [
+        "1.   Reporting requirements",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "A.   Familiarization with regulatory requirements  c",
+        "15",
+        "1",
+        "15",
+        "4",
+        "60",
+        "3",
+        "6",
+        "$9,450.39 "
+      ],
+      [
+        "B.   Required Activities",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "i .   VOC CEMS  d",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "a.   Capital Cost",
+        "0",
+        "1",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "$0.00 "
+      ],
+      [
+        "b.   Annualized Cost  e",
+        "0",
+        "1",
+        "0",
+        "4",
+        "0",
+        "0",
+        "0",
+        "$0.00 "
+      ],
+      [
+        "ii.   Performance evaluation  f",
+        "8",
+        "1",
+        "8",
+        "1.33",
+        "10.6",
+        "0.5",
+        "1.1",
+        "$1,675.87 "
+      ],
+      [
+        "a.   CEMS RATA  g",
+        "0",
+        "6.5",
+        "0",
+        "1.33",
+        "0",
+        "0",
+        "0",
+        "$0.00 "
+      ],
+      [
+        "3.   Brew Ethanol Correlation",
+        "10",
+        "3",
+        "30",
+        "0",
+        "0",
+        "0",
+        "0",
+        "$0.00 "
+      ],
+      [
+        "C.   Create Information",
+        "See 3B",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "D.   Gather Information",
+        "See 3E",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "E.   Report Preparation",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "i .   Develop Performance Evaluation Plan",
+        "15",
+        "1",
+        "15",
+        "0",
+        "0",
+        "0",
+        "0",
+        "$0.00 "
+      ],
+      [
+        "ii.   Notification of Performance Evaluation",
+        "2",
+        "1",
+        "2",
+        "1.33",
+        "2.7",
+        "0.1",
+        "0.3",
+        "$418.97 "
+      ],
+      [
+        "iii.   Performance Evaluation Report",
+        "2",
+        "1",
+        "2",
+        "1.33",
+        "2.7",
+        "0.1",
+        "0.3",
+        "$418.97 "
+      ],
+      [
+        "iv.   Notification of Performance Test",
+        "2",
+        "1",
+        "2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "$0.00 "
+      ],
+      [
+        "v.   Notification of Compliance Status",
+        "4",
+        "1",
+        "4",
+        "0",
+        "0",
+        "0",
+        "0",
+        "$0.00 "
+      ],
+      [
+        "vi.   Semiannual Compliance Report",
+        "4",
+        "2",
+        "8",
+        "4",
+        "32",
+        "1.6",
+        "3.2",
+        "$5,040.21 "
+      ],
+      [
+        "Subtotal for Reporting Requirements",
+        "124",
+        "$17,004 "
+      ],
+      [
+        "2.   Recordkeeping Requirements",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "A.   Read Instructions",
+        "See 3A",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "B.   Implement Activities",
+        "NA",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "C.   Develop Record System",
+        "NA",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "i .   Compliance Calculation Tracking",
+        "20",
+        "1",
+        "20",
+        "0",
+        "0",
+        "0",
+        "0.0",
+        "$0.00 "
+      ],
+      [
+        "D.   Record information",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "i .   Performance Evaluations",
+        "2",
+        "1",
+        "2",
+        "1.33",
+        "2.7",
+        "0.1",
+        "0.3",
+        "$418.97 "
+      ],
+      [
+        "ii.   CEMS Measurements",
+        "0.5",
+        "350",
+        "175",
+        "4",
+        "700",
+        "35",
+        "70.0",
+        "$110,254.55 "
+      ],
+      [
+        "iii.   Compliance Calculation",
+        "4",
+        "12",
+        "48",
+        "4",
+        "192",
+        "9.6",
+        "19.2",
+        "$30,241.25 "
+      ],
+      [
+        "iv.   CEMS Calibration and Maintenance",
+        "See 3B",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "v.   Store, File, and Maintain Records",
+        "12",
+        "1",
+        "12",
+        "4",
+        "48",
+        "2.4",
+        "4.8",
+        "$7,560.31 "
+      ],
+      [
+        "vi.   Retrieve Records/Reports",
+        "20",
+        "1",
+        "20",
+        "4",
+        "80",
+        "4",
+        "8.0",
+        "$12,600.52 "
+      ],
+      [
+        "E.   Personnel Training",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "i .   Acquisition, Installation, & Training",
+        "20",
+        "1",
+        "20",
+        "4",
+        "80",
+        "4",
+        "8.0",
+        "$12,600.52 "
+      ],
+      [
+        "ii.   CEMS Inspection and Monitoring",
+        "4",
+        "1",
+        "4",
+        "4",
+        "16",
+        "0.8",
+        "1.6",
+        "$2,520.10 "
+      ],
+      [
+        "F.   Time for Audits",
+        " ",
+        " ",
+        "0",
+        "4",
+        "0",
+        "0",
+        "0.0",
+        "$0.00 "
+      ],
+      [
+        "Subtotal for Recordkeeping Requirements  ",
+        " ",
+        "1,286",
+        "$176,196 "
+      ],
+      [
+        "Total Labor Burden and Costs (rounded)  h",
+        " ",
+        "1,410",
+        "$193,000 "
+      ],
+      [
+        "Total Capital and O&M Cost (rounded)  h",
+        " ",
+        "$776,000 "
+      ],
+      [
+        "GRAND TOTAL (rounded)  h",
+        " ",
+        "$969,000 "
+      ],
+      [
+        ""
+      ],
+      [
+        "Assumptions:"
+      ],
+      [
+        "a   We assume that an average of 4 respondents will be subject to this rule, and that no new source will become subject to the rule each year over the three-year period of the ICR."
+      ],
+      [
+        "b   This ICR uses the following labor rates: Managerial $172.41 ($82.10 + 110%); Technical $141.75 ($67.50 + 110%); and Clerical $71.36 ($33.98 + 110%). These rates are from the United States Department of Labor, Bureau of Labor Statistics, December 2023, “Table 2. Civilian Workers, by occupational and industry group.” The rates are from column 1, “Total compensation.” The rates are increased by 110 percent to account for varying industry wage rates and the additional overhead business costs of employing workers beyond their wages and benefits, including business expenses associated with hiring, training, and equipping their employees."
+      ],
+      [
+        "c  We assume that  all of  the respondents will have to familiarize with the regulatory requirements each year."
+      ],
+      [
+        "d  All facilities must use VOC CEMS."
+      ],
+      [
+        "e  Annualized cost equals the average of all facility annualized costs (based on number of fermenters). Includes operation, maintenance, and repairs of  CEMS."
+      ],
+      [
+        "f  Labor hours to conduct performance evaluation of CEMS. Assumes 4 respondents will complete over 12 quarters or 3 years for average of 1.33/year."
+      ],
+      [
+        "g  Line item for annual non-labor cost to conduct RATA. Number of occurrences per respondent equals the average number of CEMS (i.e., fermenters) per facility. Assumes 4 sources will complete over 12 quarters or 3 years for average of 1.33/year."
+      ],
+      [
+        "h   Totals have been rounded to 3 significant figures. Figures may not add exactly due to rounding."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202502-2060-039/raw/supporting-statement-a-1.docx",
+    "table": 6,
+    "rows": [
+      [
+        "Burden item",
+        "(A)  Person hours per occurrence",
+        "(B)  No. of occurrences per respondent per year",
+        "(C)  Person hours per respondent per year (C= AxB )",
+        "(D)  Respondents per year   a",
+        "(E)  Technical person- hours per year (E= CxD )",
+        "(F)  Management person hours per year (Ex0.05)",
+        "(G)  Clerical person hours per year (Ex0.1)",
+        "(H)  Cost, $  b"
+      ],
+      [
+        "Report review",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "Review Notification of Performance Evaluation",
+        "0.5",
+        "1",
+        "0.5",
+        "1.33",
+        "0.7",
+        "0.0",
+        "0.1",
+        "$42.56 "
+      ],
+      [
+        "Review Notification of Performance Test",
+        "0.5",
+        "1",
+        "0.5",
+        "0",
+        "0.0",
+        "0.0",
+        "0.0",
+        "$0.00 "
+      ],
+      [
+        "Review Performance Evaluation Report",
+        "5",
+        "1",
+        "5",
+        "1.33",
+        "6.7",
+        "0.3",
+        "0.7",
+        "$425.63 "
+      ],
+      [
+        "Review Performance Test Report",
+        "5",
+        "1",
+        "5",
+        "0",
+        "0",
+        "0",
+        "0",
+        "$0.00 "
+      ],
+      [
+        "Review Semiannual Compliance Report",
+        "10",
+        "2",
+        "20",
+        "4",
+        "80",
+        "4",
+        "8",
+        "$5,120.32 "
+      ],
+      [
+        "Prepare annual summary report",
+        "10",
+        "1",
+        "10",
+        "1",
+        "10",
+        "0.5",
+        "1",
+        "$640.04 "
+      ],
+      [
+        "TOTAL (rounded)  c",
+        " ",
+        "112",
+        "$5,590 "
+      ],
+      [
+        " "
+      ],
+      [
+        "Assumptions:"
+      ],
+      [
+        "a   We assume that an average of 4 respondents will be subject to this rule, and that no new sources will become subject to the rule each year over the three-year period of the ICR."
+      ],
+      [
+        "b   This cost is based on the average hourly labor rate as follows: Managerial $76.92 (GS-13, Step 5, $48.07 + 60%); Technical $57.07 (GS-12, Step 1, $35.67 + 60%); and Clerical $30.88 (GS-6, Step 3, $19.30+ 60%). This ICR assumes that Managerial hours are 5 percent of  Technical  hours, and Clerical hours are 10 percent of Technical hours. These rates are from the Office of Personnel Management (OPM), 2023 General Schedule, which excludes locality, rates of pay. The rates have been increased by 60 percent to account for the benefit packages available to government employees."
+      ],
+      [
+        "c   Totals have been rounded to 3 significant figures. Figures may not add exactly due to rounding."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202502-2060-039/raw/supporting-statement-a-1.docx",
+    "table": 7,
+    "rows": [
+      [
+        "Number of Respondents"
+      ],
+      [
+        " ",
+        "Respondents That Submit Reports",
+        "Respondents That Do Not Submit Any Reports",
+        " "
+      ],
+      [
+        " ",
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)",
+        "(E)"
+      ],
+      [
+        "Year",
+        "Number of New Respondents  a",
+        "Number of Existing Respondents",
+        "Number of Existing Respondents that keep records but do not submit reports",
+        "Number of Existing Respondents That Are Also New Respondents",
+        "Number of Respondents (E=A+B+C-D)"
+      ],
+      [
+        "1",
+        "0",
+        "4",
+        "0",
+        "0",
+        "4"
+      ],
+      [
+        "2",
+        "0",
+        "4",
+        "0",
+        "0",
+        "4"
+      ],
+      [
+        "3",
+        "0",
+        "4",
+        "0",
+        "0",
+        "4"
+      ],
+      [
+        "Average",
+        "0",
+        "4",
+        "0",
+        "0",
+        "4"
+      ],
+      [
+        "a   New  respondents include sources with constructed and reconstructed affected facilities.",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202502-2060-039/raw/supporting-statement-a-1.docx",
+    "table": 8,
+    "rows": [
+      [
+        "Total Annual Responses"
+      ],
+      [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)",
+        "(E)"
+      ],
+      [
+        "Information Collection Activity",
+        "Number of Respondents  a",
+        "Number of Responses",
+        "Number of Existing Respondents That Keep Records  But  Do Not Submit Reports",
+        "Total Annual Responses E=( BxC )+D"
+      ],
+      [
+        "Notification of Performance Evaluation",
+        "1.33",
+        "1",
+        "0",
+        "1.33"
+      ],
+      [
+        "Performance Evaluation Report",
+        "1.33",
+        "1",
+        "0",
+        "1.33"
+      ],
+      [
+        "Notification of Performance Test",
+        "0",
+        "1",
+        "0",
+        "0"
+      ],
+      [
+        "Performance Test Report",
+        "0",
+        "1",
+        "0",
+        "0"
+      ],
+      [
+        "Notification of Compliance Status",
+        "0",
+        "1",
+        "0",
+        "0"
+      ],
+      [
+        "Semiannual Report",
+        "4",
+        "2",
+        "0",
+        "8"
+      ],
+      [
+        " ",
+        " ",
+        " ",
+        "Total",
+        "11"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202502-2060-039/raw/supporting-statement-a-1.docx",
+    "table": 9,
+    "rows": [
+      [
+        "Capital/Startup vs. Operation and Maintenance (O&M) Costs  "
+      ],
+      [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)",
+        "(E)",
+        "(F)",
+        "(G)"
+      ],
+      [
+        "Continuous Monitoring Device",
+        "Capital/Startup Cost for One Respondent",
+        "Number of New   Respondents ",
+        "Total Capital/Startup Cost,   (B X C)",
+        "Annual O&M Costs for One Respondent  d",
+        "Number of Respondents with O&M  ",
+        "Total O&M,  (E X F)"
+      ],
+      [
+        "VOC  CEMs a",
+        "$86,770 ",
+        "0",
+        "$0 ",
+        "$186,860 ",
+        "4",
+        "$747,440 "
+      ],
+      [
+        "CEMS  RATA b",
+        "$0 ",
+        "0",
+        "$0 ",
+        "$21,216 ",
+        "1.33",
+        "$28,217 "
+      ],
+      [
+        "Brew Ethanol  Correlation c",
+        "$0 ",
+        "0",
+        "$0 ",
+        "$19,500 ",
+        "0",
+        "$0 "
+      ],
+      [
+        "Totals  (rounded)   e",
+        " ",
+        " ",
+        "$0 ",
+        " ",
+        " ",
+        "$776,000 "
+      ],
+      [
+        "a  Assumes all facilities have installed CEMS to comply with the rule. Annual costs include operation, maintenance, and repair of CEMS."
+      ],
+      [
+        "b  Assumes an annual O&M cost of $3,624 to conduct RATA per CEMS and an average of 6.5 CEMs per facility. Assumes 4 respondents will complete over 12 quarters or 3 years for average of 1.33 respondents/year."
+      ],
+      [
+        "c  Assumes no facilities will conduct brew ethanol correlation."
+      ],
+      [
+        "d  Annualized capital costs were calculated based on 2015 dollars using an equipment life of 10 years and a 7 percent discount rate."
+      ],
+      [
+        "e  Totals have been rounded to 3 significant figures. Figures may not add exactly due to rounding."
+      ]
+    ]
+  }
+]

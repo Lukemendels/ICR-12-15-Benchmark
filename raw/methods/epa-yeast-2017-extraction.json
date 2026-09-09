@@ -1,0 +1,26 @@
+{
+  "source_id": "SRC-0162",
+  "access": "Official PDF text through web retrieval; direct download and screenshot403",
+  "capital": 510899,
+  "life_years": 10,
+  "discount_rate": 0.07,
+  "reported_annual_capital_recovery": 72752,
+  "recomputed": 72740.52376590787,
+  "shared_once": [
+    "equipment selection",
+    "data acquisition system",
+    "training",
+    "QA/QC plan"
+  ],
+  "rata_first_monitor": 10103,
+  "rata_additional_monitor_multiplier": 0.2,
+  "rata_interval_years": 3,
+  "monitor_counts": [
+    7,
+    6,
+    9,
+    4
+  ],
+  "reported_rata_annual_total": 28288,
+  "method_qualification": "Regulatory incremental resource-cost model includes labor in capital/annual amounts; do not paste wholesale intoItem13."
+}

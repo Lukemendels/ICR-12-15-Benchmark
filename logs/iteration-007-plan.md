@@ -1,0 +1,5 @@
+# Iteration 7 plan
+
+Read canonical state at52 reviews, rubric1.0.0, model0.5.0, leaders, open questions and saturation record. No saturation streak. Nine targets test whether a more complete capital or federal-cost architecture exists: DoD CMMC reporting and eMASS (distinct controls but related program, not independent agency replications); EPA hazardous-waste combustors and nutritional yeast; ETA claims/payments; FSA special loan servicing; BLM solid-mineral leasing; SEC custody; FAS specialty-crop assistance.
+
+CMMC is a close security/compliance challenger. EPA yeast was selected because its regulatory support explicitly describes10-year equipment life and7% capital recovery; retrieve the cited model rather than accepting a unit annual cost. Federal forms/workload are promising in benefit, grant and leasing programs. SEC tests audit/service costs with administrative populations. All selected actual OIRA receipt dates are within the window. Proposed and approved packages remain distinguished. The batch may reveal new findings; saturation is assessed after extraction, not presumed.

@@ -1,0 +1,203 @@
+{
+  "icr_id": "202602-2060-006",
+  "omb_control_number": "2060-0743",
+  "agency": "EPA/OAR",
+  "title": "NESHAP for Hazardous Waste Combustors (40 CFR Part 63, Subpart EEE) (Proposed Rule)",
+  "submission_date": "02/27/2026",
+  "archetype": "hazardous-waste combustor amendment",
+  "complexity": "very high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 7,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0153",
+    "SRC-0154",
+    "SRC-0158",
+    "SRC-0159"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 10,
+    "segmentation": 15,
+    "labor": 6,
+    "item13": 6,
+    "item14": 6,
+    "item15": 9,
+    "validation": 3,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Fullbaseline retrieved; incrementtasks andscope clear, but rounding/staleratecells.",
+    "provenance": "OEWS2024industryNAICS/SOC,OPM2025,baseline2023; legacytechnicalcoefficients.",
+    "segmentation": "Newstandards,e-reporting andremovedmonitorobligationssegmented.",
+    "labor": "Wage*2.1methodexplicit;technicaltotal70.31typo versus114.09usedintables; overheadsupportweak.",
+    "item13": "Positiveperformance testsandnegativeequipment/O&M changesseparate; legacycapitalunit costnotannualized.",
+    "item14": "Federalincrementbyrole/grade; fullbaselinecostexistsseparately, removalrowinconsistencies.",
+    "item15": "Exactoldplusprogramdelta=newinventoryforthreemeasures; incrementroundingdocumented.",
+    "validation": "Engineering/programknowledge; limitedpublictimingvalidation.",
+    "consistency": "Overallinventorybridgecoherent, detailedrole/hourandwagecells conflict."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Baseline obligations",
+        null,
+        null,
+        59100
+      ],
+      [
+        "New standards increment",
+        null,
+        null,
+        264
+      ],
+      [
+        "Electronic reporting increment",
+        null,
+        null,
+        2395
+      ],
+      [
+        "Removed CEMS labor",
+        null,
+        null,
+        -242
+      ]
+    ],
+    "labor": {
+      "current_wages": [
+        71.15,
+        54.33,
+        23.66
+      ],
+      "loaded": [
+        149.42,
+        114.09,
+        49.69
+      ],
+      "factor": 2.1,
+      "industry": "NAICS562200",
+      "vintage": 2024,
+      "increment_cost": 266665,
+      "baseline_compensation_year": 2021
+    },
+    "item13": {
+      "old": 2770000,
+      "new_tests": 16000,
+      "removed_capital": -158000,
+      "removed_om_and_mail": -37971,
+      "net": -179971,
+      "new_rounded": 2590000,
+      "baseline_source": "202301-2060-013"
+    },
+    "item14": {
+      "increment_hours": -122,
+      "increment_labor": -7112,
+      "increment_mail": -12,
+      "grades": [
+        "GS13/5",
+        "GS12/1",
+        "GS6/3"
+      ],
+      "rates": [
+        78.22,
+        58.05,
+        31.41
+      ],
+      "baseline_source": "202301-2060-013"
+    },
+    "item15": {
+      "old": [
+        170,
+        1467,
+        59100,
+        2770000
+      ],
+      "delta": [
+        -5,
+        80,
+        2420,
+        -180000
+      ],
+      "new": [
+        165,
+        1547,
+        61520,
+        2590000
+      ],
+      "columns": [
+        "units",
+        "responses",
+        "hours",
+        "nonlabor"
+      ],
+      "classification": "program amendment"
+    },
+    "assumptions": [
+      "Familiarizationandinitialimplementationspreadacrossthree-yearhorizon.",
+      "ExistingCEMSremovalreducesbothprivateandgovernmentwork."
+    ]
+  },
+  "reconstruction_issues": [
+    "Technicalwage54.33+59.76=114.09not70.31inwagetable.",
+    "Displayedincrementhours264+2395-242=2417vs2416detailedtotal; roundingexplainsapproximatelyonehour, inventoryuses2420.",
+    "Priorbaselineincludesrecordkeepingcapital171*200reported11401ratherthan34200; underlyingannualizationneedsclarification.",
+    "Fullcurrentfederalcostnotrestatedwithincrement; modelmustretainbaselineandamendmentseparately."
+  ],
+  "methods_worth_testing": [
+    "Explicitnegativeactivityrowsandthree-measureprogrambridge.",
+    "Retrieveincorporatedbaselinebeforeevaluatingincrement-onlySSAs."
+  ],
+  "checks": [
+    {
+      "label": "Hourbridge",
+      "formula": "59100+2420",
+      "calculated": 61520,
+      "reported": 61520,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0154"
+    },
+    {
+      "label": "Costbridge",
+      "formula": "2770000-180000",
+      "calculated": 2590000,
+      "reported": 2590000,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0154"
+    },
+    {
+      "label": "Technicalrate",
+      "formula": "54.33*2.1",
+      "calculated": 114.093,
+      "reported": 70.31,
+      "difference": 43.783,
+      "unit": "USD/hour",
+      "interpretation": "43.783differencefrommisprintedwagetable; workloaduses114.09.",
+      "source_id": "SRC-0154"
+    },
+    {
+      "label": "Baseline record capital",
+      "formula": "171*200",
+      "calculated": 34200,
+      "reported": 11401,
+      "difference": 22799,
+      "unit": "USD",
+      "interpretation": "Displayedpopulationandpricecannotreproduceannualcapital.",
+      "source_id": "SRC-0154"
+    }
+  ],
+  "total_score": 74
+}

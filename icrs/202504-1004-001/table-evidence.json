@@ -1,0 +1,965 @@
+[
+  {
+    "file": "icrs/202504-1004-001/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Position and BLS Occupation Code",
+        "Mean Hourly Wage",
+        "Benefits Mul tiplier",
+        "Hourly Rate with Benefits ",
+        "Percent of Collection Time Completed by Each Occupation",
+        "Weighted Avg. "
+      ],
+      [
+        "General Office Clerk - 43-9061",
+        "$20.94",
+        "1.4",
+        "$29.32 ",
+        "10%",
+        "$2.93 "
+      ],
+      [
+        "Mining Engineer - 17-2151",
+        "$50.70",
+        "1.4",
+        "$70.98 ",
+        "80%",
+        "$56.78 "
+      ],
+      [
+        "Supr. Mining Engineer - 11-9041",
+        "$82.83",
+        "1.4",
+        "$115.96 ",
+        "10%",
+        "$11.60 "
+      ],
+      [
+        "Totals",
+        "—",
+        "—",
+        "—",
+        "100%",
+        "$ 71.31"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1004-001/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Type of Response",
+        "Number of Responses",
+        "Hours Per Response",
+        "Total Hours",
+        "Hourly Wage Rate",
+        "Dollar Equivalent"
+      ],
+      [
+        "Request for Effective Date 43 CFR 3501.20",
+        "10",
+        "1",
+        "10",
+        "$71.31",
+        "$713 "
+      ],
+      [
+        "Qualification Requirements / Individuals or Households, Guardians or Trustees, Heirs, and Devisees 43 CFR 3502.27, 3502.29, 3502.33, 3502.34, and 3502.40",
+        "3",
+        "2",
+        "6",
+        "$71.31",
+        "$428 "
+      ],
+      [
+        "Qualification Requirements / Associations and Partnerships 43 CFR 3502.28, 3502.33, and 3502.34",
+        "3",
+        "2",
+        "6",
+        "$71.31",
+        "$428 "
+      ],
+      [
+        "Qualification Requirements / Corporations 43 CFR 3502.30, 3502.33, and 3502.34",
+        "44",
+        "2",
+        "88",
+        "$71.31",
+        "$6,275 "
+      ],
+      [
+        "Surface Owner Consultation / State or Local Government 43 CFR 3503.21(b)",
+        "1",
+        "2",
+        "2",
+        "$71.31",
+        "$143 "
+      ],
+      [
+        "Surface Owner Consultation / Educational, Charitable, or Religious Organization 43 CFR 3503.21(b)",
+        "2",
+        "2",
+        "4",
+        "$71.31",
+        "$285 "
+      ],
+      [
+        "Applicant’s Land Description 43 CFR 3503.30 through 3503.32",
+        "50",
+        "2",
+        "100",
+        "$71.31",
+        "$7,131 "
+      ],
+      [
+        "Bonding 43 CFR 3504.50 through 3504.71 Forms 3504-1, 3504-3, and 3504-4",
+        "40",
+        "4",
+        "160",
+        "$71.31",
+        "$11,410 "
+      ],
+      [
+        "Application for a Prospecting Permit 43 CFR 3505.12 and 3505.13 Form 3510-1",
+        "55",
+        "10",
+        "550",
+        "$71.31",
+        "$39,221 "
+      ],
+      [
+        "Amendment or Withdrawal of an Application for Prospecting Permit 43 CFR 3505.30 and 3505.31",
+        "10",
+        "5",
+        "50",
+        "$71.31",
+        "$3,566 "
+      ],
+      [
+        "Exploration Plan 43 CFR 3505.40, 3505.45, and 3592.1(a)",
+        "25",
+        "400",
+        "10,000",
+        "$71.31",
+        "$713,100 "
+      ],
+      [
+        "Application to Extend a Prospecting Permit 43 CFR 3505.60 through 3505.66",
+        "5",
+        "40",
+        "200",
+        "$71.31",
+        "$14,262 "
+      ],
+      [
+        "Application for an Exploration License 43 CFR 3506.11 through 3506.25",
+        "5",
+        "10",
+        "50",
+        "$71.31",
+        "$3,566 "
+      ],
+      [
+        "Application for a Preference Right Lease 43 CFR 3507.11 through 3507.19 Form 3520-7",
+        "30",
+        "300",
+        "9,000",
+        "$71.31",
+        "$641,790 "
+      ],
+      [
+        "Application for a Competitive Lease 43 CFR 3508.12 through 3508.22 Form 3520-7",
+        "5",
+        "20",
+        "100",
+        "$71.31",
+        "$7,131 "
+      ],
+      [
+        "Application for a Fractional or Future Interest Lease 43 CFR 3509.10 through 3509.51 Form 3520-7",
+        "1",
+        "80",
+        "80",
+        "$71.31",
+        "$5,705 "
+      ],
+      [
+        "Application for a Fringe Acreage Lease or Lease Modification 43 CFR 3510.12",
+        "10",
+        "20",
+        "200",
+        "$71.31",
+        "$14,262 "
+      ],
+      [
+        "Objection to Proposed Readjustment of Lease Terms and Conditions 43 CFR 3511.25 and 3511.26",
+        "20",
+        "2",
+        "40",
+        "$71.31",
+        "$2,852 "
+      ],
+      [
+        "Request for Renewal of a Lease 43 CFR 3511.27",
+        "20",
+        "2",
+        "40",
+        "$71.31",
+        "$2,852 "
+      ],
+      [
+        "Assignment, Sublease, or Transfer 43 CFR 3512.11 through 3512.17",
+        "30",
+        "6",
+        "180",
+        "$71.31",
+        "$12,836 "
+      ],
+      [
+        "Application for Reduction of Rental, Royalties, or Minimum Production 43 CFR 3513.15 and 3513.16",
+        "1",
+        "90",
+        "90",
+        "$71.31",
+        "$6,418 "
+      ],
+      [
+        "Application for Suspension43 CFR 3513.16, 3513/22 through 3513.32",
+        "1",
+        "100",
+        "100",
+        "$71.31",
+        "$7,131 "
+      ],
+      [
+        "Lease Relinquishment 43 CFR 3514.11 through 3514.21",
+        "10",
+        "40",
+        "400",
+        "$71.31",
+        "$28,524 "
+      ],
+      [
+        "Mineral Lease Exchange 43 CFR 3515.23 through 3515.27",
+        "1",
+        "40",
+        "40",
+        "$71.31",
+        "$2,852 "
+      ],
+      [
+        "Application for Approval of a Hardrock Mineral Development Contract or Processing or Milling Arrangement 43 CFR 3517.15",
+        "1",
+        "20",
+        "20",
+        "$71.31",
+        "$1,426 "
+      ],
+      [
+        "Application for a Gold, Silver, or Quicksilver Lease in a Confirmed Private Land Grant 43 CFR 3581.3 and 3581.4 Form 3520-7",
+        "1",
+        "20",
+        "20",
+        "$71.31",
+        "$1,426 "
+      ],
+      [
+        "Application for a Hardrock Mineral Lease in the Shasta and Trinity Units of the Whiskeytown-Shasta-Trinity National Recreation Area 43 CFR 3583.3",
+        "1",
+        "20",
+        "20",
+        "$71.31",
+        "$1,426 "
+      ],
+      [
+        "Application for a Mineral Lease in the White Mountains National Recreation Area 43 CFR 3585.3-2",
+        "1",
+        "20",
+        "20",
+        "$71.31",
+        "$1,426 "
+      ],
+      [
+        "Mining Plan 43 CFR 3592.1 through 3592.3",
+        "5",
+        "800",
+        "4,000",
+        "$71.31",
+        "$285,240 "
+      ],
+      [
+        "Modification of an Exploration or Mining Plan 43 CFR 3592.1(d)",
+        "10",
+        "150",
+        "1,500",
+        "$71.31",
+        "$106,965 "
+      ],
+      [
+        "Data on Bore Holes and Samples 43 CFR 3593.1",
+        "25",
+        "2",
+        "50",
+        "$71.31",
+        "$3,566 "
+      ],
+      [
+        "Production Records 43 CFR 3597.1 and 3597.2",
+        "80",
+        "2",
+        "160",
+        "$71.31",
+        "$11,410 "
+      ],
+      [
+        "Totals",
+        "50 6",
+        "—",
+        "27,2 7 6",
+        "—",
+        "$ 1,945,765"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1004-001/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Type of Response",
+        "Number of Responses",
+        "Amount of Fee Per Response",
+        "Total Fees",
+        "Type of Fee"
+      ],
+      [
+        "Request for Effective Date 43 CFR 3501.20",
+        "10",
+        "$4 5 .00",
+        "$4 5 0",
+        "Fixed"
+      ],
+      [
+        "Qualification Requirements / Individuals, Households, Guardians, Trustees, Heirs, and Devisees 43 CFR 3502.27, 3502.29, 3502.33, 3502.34, and 3502.40",
+        "3",
+        "$0.00",
+        "$0",
+        "N/A"
+      ],
+      [
+        "Qualification Requirements / Associations and Partnerships 43 CFR 3502.28, 3502.33, and 3502.34",
+        "3",
+        "$0.00",
+        "$0",
+        "N/A"
+      ],
+      [
+        "Qualification Requirements / Corporations 43 CFR 3502.30, 3502.33, and 3502.34",
+        "44",
+        "$0.00",
+        "$0",
+        "N/A"
+      ],
+      [
+        "Surface Owner Consultation / Surface Owner Consultation / State or Local Government 43 CFR 3503.21(b)",
+        "1",
+        "$0.00",
+        "$0",
+        "N/A"
+      ],
+      [
+        "Surface Owner Consultation / Educational, Charitable, or Religious Organization 43 CFR 3503.21(b)",
+        "2",
+        "$0.00",
+        "$0",
+        "N/A"
+      ],
+      [
+        "Applicant’s Land Description 43 CFR 3503.30 through 3503.32",
+        "50",
+        "$0.00",
+        "$0",
+        "N/A"
+      ],
+      [
+        "Bonding 43 CFR 3504.50 through 3504.71 Forms 3504-1, 3504-3, and 3504-4",
+        "40",
+        "$0.00",
+        "$0",
+        "N/A"
+      ],
+      [
+        "Application for a Prospecting Permit 43 CFR 3505.12 and 3505.13 Form 3510-1",
+        "55",
+        "$2,500.00",
+        "$137,500",
+        "Case-By-Case"
+      ],
+      [
+        "Amendment or Withdrawal of an Application for Prospecting Permit 43 CFR 3505.30 and 3505.31",
+        "10",
+        "$ 85 .00",
+        "$ 850",
+        "Fixed"
+      ],
+      [
+        "Exploration Plan 43 CFR 3505.40, 3505.45, and 3592.1(a)",
+        "25",
+        "$0.00",
+        "$0",
+        "N/A"
+      ],
+      [
+        "Application to Extend a Prospecting Permit 43 CFR 3505.60 through 3505.66",
+        "5",
+        "$1 40 .00",
+        "$ 700",
+        "Fixed"
+      ],
+      [
+        "Application for an Exploration License 43 CFR 3506.11 through 3506.25",
+        "5",
+        "$4 5 .00",
+        "$2 25",
+        "Fixed"
+      ],
+      [
+        "Application for a Preference Right Lease 43 CFR 3507.11 through 3507.19 Form 3520-7",
+        "30",
+        "$53,000.00",
+        "$1,590,000",
+        "Case-by-case"
+      ],
+      [
+        "Application for a Competitive Lease 43 CFR 3508.12 through 3508.22 Form 3520-7",
+        "5",
+        "$53,000.00",
+        "$265,000",
+        "Case-by-case"
+      ],
+      [
+        "Application for a Fractional or Future Interest Lease 43 CFR 3509.10 through 3509.51 Form 3520-7",
+        "1",
+        "$26,500.00",
+        "$26,500",
+        "Case-by-case"
+      ],
+      [
+        "Application for a Fringe Acreage Lease or Lease Modification 43 CFR 3510.12",
+        "10",
+        "$ 40 .00",
+        "$ 400",
+        "Fixed"
+      ],
+      [
+        "Objection to Proposed Readjustment of Lease Terms and Conditions 43 CFR 3511.25 and 3511.26",
+        "20",
+        "$0.00",
+        "$0",
+        "N/A"
+      ],
+      [
+        "Request for Renewal of a Lease 43 CFR 3511.27",
+        "20",
+        "$560.00",
+        "$11,200",
+        "Fixed"
+      ],
+      [
+        "Assignment, Sublease, or Transfer 43 CFR 3512.11 through 3512.17",
+        "30",
+        "$ 40 .00",
+        "$1, 200",
+        "Fixed"
+      ],
+      [
+        "Application for Reduction of Rental, Royalties, or Minimum Production 43 CFR 3513.15 and 3513.16",
+        "1",
+        "$8,500",
+        "$8,500",
+        "Case-by-case"
+      ],
+      [
+        "Application for Suspension 43 CFR 3513.16, 3513.22 and 3513.32",
+        "1",
+        "$8,500",
+        "$8,500",
+        "Case-by-case"
+      ],
+      [
+        "Lease Relinquishment 43 CFR 3514.11 through 3514.21",
+        "10",
+        "$4 5 .00",
+        "$4 50",
+        "Fixed"
+      ],
+      [
+        "Mineral Lease Exchange 43 CFR 3515.23 through 3515.27",
+        "1",
+        "$4 5 .00",
+        "$40",
+        "Fixed"
+      ],
+      [
+        "Application for Use Permit 43 CFR 3516.15 through 3516.30 Form 3510-2",
+        "1",
+        "$ 40 .00",
+        "$ 40",
+        "Fixed"
+      ],
+      [
+        "Application for Gold, Silver, or Quicksilver Lease in a Confirmed Private Land Grant 43 CFR 3581.3 and 3581.4 Form 3520-7",
+        "1",
+        "$4 5 .00",
+        "$4 5",
+        "Fixed"
+      ],
+      [
+        "Application for a Hardrock Mineral Lease in the Shasta and Trinity Units of the Whiskeytown-Shasta-Trinity National Recreation Area 43 CFR 3583.3",
+        "1",
+        "$ 45 .00",
+        "$ 45",
+        "Fixed"
+      ],
+      [
+        "Application for a Mineral Lease in the White Mountains National Recreation Area 43 CFR 3585.3-2",
+        "1",
+        "$4 5 .00",
+        "$4 5",
+        "Fixed"
+      ],
+      [
+        "Mining Plan 43 CFR 3592.1 through 3592.3",
+        "5",
+        "$0.00",
+        "$0",
+        "N/A"
+      ],
+      [
+        "Modification of an Exploration or Mining Plan 43 CFR 3592.1(d)",
+        "10",
+        "$0.00",
+        "$0",
+        "N/A"
+      ],
+      [
+        "Data on Bore Holes and Samples 43 CFR 3593.1",
+        "25",
+        "$0.00",
+        "$0",
+        "N/A"
+      ],
+      [
+        "Production Records 43 CFR 3597.1 and 3597.2",
+        "80",
+        "$0.00",
+        "$0",
+        "N/A"
+      ],
+      [
+        "Total  Cost:",
+        "$ 2,051, 69 0",
+        "—"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1004-001/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Position and Pay Grade",
+        "Hourly Pay Rate",
+        "Benefits Multiplier",
+        "Hourly Rate with Benefits",
+        "Percent of the Information Collection Completed by Each Occupation",
+        "Weighted Avg. ($/hour)"
+      ],
+      [
+        "Clerical - GS-5/5",
+        "$21. 90",
+        "1.6",
+        "$ 35.04  ",
+        "10%",
+        "$3. 50  "
+      ],
+      [
+        "Mining Engineer - GS-12/5",
+        "$ 48.13",
+        "1.6",
+        "$ 77.01  ",
+        "80%",
+        "$ 61.61  "
+      ],
+      [
+        "Supr. Mining Engineer - GS-13/5",
+        "$ 57.23",
+        "1.6",
+        "$ 91.57  ",
+        "10%",
+        "$ 9.16  "
+      ],
+      [
+        "Totals",
+        "—",
+        "—",
+        "—",
+        "100%",
+        "$ 74.27"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1004-001/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Type of Response",
+        "Number of Responses",
+        "Hours Per Response",
+        "Total Staff  Hours",
+        "Hourly Rate",
+        "Dollar Equivalent"
+      ],
+      [
+        "Request for Effective Date 43 CFR 3501.20",
+        "10",
+        "1",
+        "10",
+        "74.27",
+        "$729"
+      ],
+      [
+        "Qualification Requirements / Individuals, Households, Guardians, Trustees, Heirs, and Devisees 43 CFR 3502.27, 3502.29, 3502.33, 3502.34, and 3502.40",
+        "3",
+        "2",
+        "6",
+        "74.27",
+        "$385.74",
+        ""
+      ],
+      [
+        "Qualification Requirements / Associations and Partnerships 43 CFR 3502.28, 3502.33, and 3502.34",
+        "3",
+        "2",
+        "6",
+        "74.27",
+        "$437",
+        ""
+      ],
+      [
+        "Qualification Requirements / Corporations 43 CFR 3502.30, 3502.33, and 3502.34",
+        "44",
+        "2",
+        "88",
+        "74.27",
+        "$5,658",
+        ""
+      ],
+      [
+        "Surface Owner Consultation / State or Local Government 43 CFR 3503.21(b)",
+        "1",
+        "2",
+        "2",
+        "74.27",
+        "$130",
+        ""
+      ],
+      [
+        "Surface Owner Consultation / Educational, Charitable, or Religious Organization 43 CFR 3503.21(b)",
+        "2",
+        "2",
+        "4",
+        "74.27",
+        "$257",
+        ""
+      ],
+      [
+        "Applicant’s Land Description 43 CFR 3503.30 through 3503.32",
+        "50",
+        "2",
+        "100",
+        "74.27",
+        "$6,429",
+        ""
+      ],
+      [
+        "Bonding 43 CFR 3504.50 through 3504.71 Forms 3504-1, 3504-3, and 3504-4",
+        "40",
+        "4",
+        "160",
+        "74.27",
+        "$10,286",
+        ""
+      ],
+      [
+        "Application for Prospecting Permit 43 CFR 3505.12 and 3505.13 Form 3510-1",
+        "55",
+        "80",
+        "4,400",
+        "74.27",
+        "$282,876",
+        ""
+      ],
+      [
+        "Amendment or Withdrawal of an Application for Prospecting Permit 43 CFR 3505.30 and 3505.31",
+        "10",
+        "5",
+        "50",
+        "74.27",
+        "$3,215",
+        ""
+      ],
+      [
+        "Exploration Plan 43 CFR 3505.40, 3505.45, and 3592.1(a)",
+        "25",
+        "400",
+        "10,000",
+        "74.27",
+        "$642,900",
+        ""
+      ],
+      [
+        "Application to Extend a Prospecting Permit 43 CFR 3505.60 through 3505.66",
+        "5",
+        "40",
+        "200",
+        "74.27",
+        "$12,858",
+        ""
+      ],
+      [
+        "Application for an Exploration License 43 CFR 3506.11 through 3506.25",
+        "5",
+        "80",
+        "400",
+        "74.27",
+        "$25,716",
+        ""
+      ],
+      [
+        "Application for a Preference Right Lease 43 CFR 3507.11 through 3507.19 Form 3520-7",
+        "30",
+        "1,000",
+        "30,000",
+        "74.27",
+        "$1,928,700",
+        ""
+      ],
+      [
+        "Application for a Competitive Lease 43 CFR 3508.12 through 3508.22 Form 3520-7",
+        "5",
+        "1,000",
+        "5,000",
+        "74.27",
+        "$321,450",
+        ""
+      ],
+      [
+        "Application for a Fractional or Future Interest Lease 43 CFR 3509.10 through 3509.51 Form 3520-7",
+        "1",
+        "500",
+        "500",
+        "74.27",
+        "$32,145",
+        ""
+      ],
+      [
+        "Application for a Fringe Acreage Lease or Lease Modification 43 CFR 3510.12",
+        "10",
+        "1,000",
+        "10,000",
+        "74.27",
+        "$642,900",
+        ""
+      ],
+      [
+        "Request for Renewal of a Lease 43 CFR 3511.27",
+        "20",
+        "80",
+        "1,600",
+        "74.27",
+        "$102,864",
+        ""
+      ],
+      [
+        "Objection to Proposed Readjustment of Lease Terms and Conditions 43 CFR 3511.25 and 3511.26",
+        "20",
+        "80",
+        "1,600",
+        "74.27",
+        "$102,864",
+        ""
+      ],
+      [
+        "Assignment, Sublease, or Transfer 43 CFR 3512.11 through 3512.17",
+        "30",
+        "40",
+        "1,200",
+        "74.27",
+        "$77,148",
+        ""
+      ],
+      [
+        "Application for Waiver, Suspension, or Reduction of Rental or Minimum Royalties, or for a Reduction in the Royalty Rate 43 CFR 3513.11 through 3513.32",
+        "2",
+        "160",
+        "320",
+        "74.27",
+        "$20,573",
+        ""
+      ],
+      [
+        "Application for Reduction of Rental, Royalties, or Minimum Production 43 CFR 3513.15 and 3513.16",
+        "1",
+        "160",
+        "160",
+        "74.27",
+        "$10,286",
+        ""
+      ],
+      [
+        "Application for Suspension 43 CFR 3513.16, 3513.22 and 3513.32",
+        "1",
+        "160",
+        "160",
+        "74.27",
+        "$10,286",
+        ""
+      ],
+      [
+        "Lease Relinquishment 43 CFR 3514.11 through 3514.21",
+        "10",
+        "40",
+        "400",
+        "74.27",
+        "$25,716",
+        ""
+      ],
+      [
+        "Mineral Lease Exchange 43 CFR 3515.23 through 3515.27",
+        "1",
+        "40",
+        "40",
+        "74.27",
+        "$2,518",
+        ""
+      ],
+      [
+        "Application for Use Permit 43 CFR 3516.15 through 3516.30 Form 3510-2",
+        "1",
+        "160",
+        "160",
+        "74.27",
+        "$10,286",
+        ""
+      ],
+      [
+        "Application for Gold, Silver, or Quicksilver Lease in a Confirmed Private Land Grant 43 CFR 3581.3 and 3581.4 Form 3520-7",
+        "1",
+        "20",
+        "20",
+        "74.27",
+        "$1,286",
+        ""
+      ],
+      [
+        "Application for a Hardrock Mineral Lease in the Shasta and Trinity Units of the Whiskeytown-Shasta-Trinity National Recreation Area 43 CFR 3583.3",
+        "1",
+        "20",
+        "20",
+        "74.27",
+        "$1,286",
+        ""
+      ],
+      [
+        "Application for a Mineral Lease in the White Mountains National Recreation Area 43 CFR 3585.3-2",
+        "1",
+        "20",
+        "20",
+        "74.27",
+        "$1,286",
+        ""
+      ],
+      [
+        "Mining Plan 43 CFR 3592.1 through 3592.3",
+        "5",
+        "1,000",
+        "5,000",
+        "74.27",
+        "$321,450",
+        ""
+      ],
+      [
+        "Modification of an Exploration or Mining Plan 43 CFR 3592.1(d)",
+        "10",
+        "500",
+        "5,000",
+        "74.27",
+        "$321,450",
+        ""
+      ],
+      [
+        "Data on Bore Holes and Samples 43 CFR 3593.1",
+        "25",
+        "2",
+        "50",
+        "74.27",
+        "$3,215",
+        ""
+      ],
+      [
+        "Production Records 43 CFR 3597.1 and 3597.2",
+        "80",
+        "2",
+        "160",
+        "74.27",
+        "$10,286",
+        ""
+      ],
+      [
+        "Total  Federal Cost:",
+        "$ 5,708,207",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1004-001/raw/supporting-statement-a-1.docx",
+    "table": 6,
+    "rows": [
+      [
+        "Type of Change",
+        "Annual Responses",
+        "Annual Burden Hours",
+        "Annual Non-hour Cost Burden"
+      ],
+      [
+        "Current Burden Under OMB# 1004-0121",
+        "507",
+        "27,296",
+        "$2,051,105"
+      ],
+      [
+        "Program Change Due to Direct Final Rule RIN 1004- AF18",
+        "-1",
+        "-20",
+        "-$40"
+      ],
+      [
+        "Adjustment to Filing Fees",
+        "----",
+        "----",
+        "+$625"
+      ],
+      [
+        "New Burdens Under OMB# 1004-0121",
+        "50 6",
+        "27,2 7 6",
+        "$ 2,051,6 9 0"
+      ]
+    ]
+  }
+]

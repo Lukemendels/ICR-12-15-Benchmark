@@ -1,0 +1,159 @@
+{
+  "icr_id": "202506-0551-003",
+  "omb_control_number": "0551-0038",
+  "agency": "USDA/FAS",
+  "title": "Technical Assistance for Specialty Crops",
+  "submission_date": "08/08/2025",
+  "archetype": "export technical-assistance grants",
+  "complexity": "moderate",
+  "tsa_relevance": "low",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 7,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0151",
+    "SRC-0152"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 9,
+    "segmentation": 12,
+    "labor": 5,
+    "item13": 7,
+    "item14": 8,
+    "item15": 6,
+    "validation": 2,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Five respondent activities and seven government rows reproduce totals.",
+    "provenance": "Occupation and2025GS13/10 specified; respondent wage vintage/loading missing.",
+    "segmentation": "Application, agreement, evaluation, reimbursement and records separated.",
+    "labor": "76.21 said includesfringe withoutwage/load derivation.",
+    "item13": "NoadditionalcapitalorO&M stated;existinggrant recordscope plausible.",
+    "item14": "740hours by office/task at72.90, GS13/10plus30%; hoursperapplicationnotshown.",
+    "item15": "Old/newandresponses statedbutclaims350ratherthan400-hourincrease.",
+    "validation": "Program experience, little measuredtimeevidence.",
+    "consistency": "Main tablescoherent;Item15arithmeticerror."
+  },
+  "thoroughness": "moderate",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Proposal",
+        25,
+        40,
+        1000
+      ],
+      [
+        "Agreement",
+        25,
+        2,
+        50
+      ],
+      [
+        "Assessment",
+        25,
+        10,
+        250
+      ],
+      [
+        "Reimbursement",
+        25,
+        8,
+        200
+      ],
+      [
+        "Office records",
+        25,
+        6,
+        150
+      ]
+    ],
+    "labor": {
+      "loaded": 76.21,
+      "occupation": "Administrative Services and Facilities Managers",
+      "source": "OEWS, unspecified vintage andbenefits calculation",
+      "reported": 125746.5
+    },
+    "item13": {
+      "reported": 0,
+      "reason": "No additional capital orO&M associated"
+    },
+    "item14": {
+      "hours": [
+        20,
+        320,
+        40,
+        80,
+        20,
+        160,
+        100
+      ],
+      "base_rate": 56.08,
+      "load": 1.3,
+      "loaded": 72.9,
+      "reported": 53946,
+      "grade": "2025GS13step10"
+    },
+    "item15": {
+      "old_hours": 1250,
+      "new_hours": 1650,
+      "claimed_delta": 350,
+      "old_responses": 25,
+      "new_responses": 125,
+      "classification": "adjustment"
+    },
+    "assumptions": [
+      "25participants allcompletefiveactivities annually.",
+      "Same managerrolefor allrespondentwork."
+    ]
+  },
+  "reconstruction_issues": [
+    "1650-1250=400, not350inItem15.",
+    "Respondent76.21rate lacksidentifiedyear andfringe calculation."
+  ],
+  "methods_worth_testing": [
+    "Compact taskand office tablesmake review efficient."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "25*(40+2+10+8+6)",
+      "calculated": 1650,
+      "reported": 1650,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0152"
+    },
+    {
+      "label": "Federal",
+      "formula": "sum([20,320,40,80,20,160,100])*72.9",
+      "calculated": 53946.00000000001,
+      "reported": 53946,
+      "difference": 7.275957614183426e-12,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0152"
+    },
+    {
+      "label": "Change",
+      "formula": "1650-1250",
+      "calculated": 400,
+      "reported": 350,
+      "difference": 50,
+      "unit": "hours",
+      "interpretation": "50-hour error.",
+      "source_id": "SRC-0152"
+    }
+  ],
+  "total_score": 70
+}

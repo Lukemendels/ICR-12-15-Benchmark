@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202504-3235-016",
+  "retrieved_at": "2026-09-09T11:53:48.294607+00:00",
+  "documents": [
+    {
+      "title": "Rule_206(4)-2 (2025) Supporting_Statement.pdf",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156749101",
+      "path": "icrs/202504-3235-016/raw/supporting-statement-a-1.pdf",
+      "sha256": "561360dd2ed442e7cba7530cd1bb53f9461eb7646905c515156dd23747049334",
+      "text_chars": 36285
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-3235-016",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202504-3235-016",
+  "agency": "SEC",
+  "title": "Rule 206(4)-2, Custody of Funds or Securities of Clients by Investment Advisers",
+  "omb_control_number": "3235-0241",
+  "submission_date": "08/01/2025",
+  "record_source_id": "SRC-0149",
+  "supporting_statement_source_ids": [
+    "SRC-0150"
+  ]
+}

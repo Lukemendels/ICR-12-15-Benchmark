@@ -11,8 +11,8 @@
   "review_iteration": 3,
   "rubric_version": "1.0.0",
   "source_ids": [
-    "SRC-0058",
-    "SRC-0057"
+    "SRC-0057",
+    "SRC-0058"
   ],
   "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
   "score": {

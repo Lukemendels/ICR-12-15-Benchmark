@@ -1,0 +1,125 @@
+{
+  "icr_id": "202405-0704-001",
+  "omb_control_number": "0704-0676",
+  "agency": "DOW/DODDEP",
+  "title": "Cybersecurity Maturity Model Certification (CMMC) Enterprise Mission Assurance Support-Service (eMASS) Instantiation Information Collection",
+  "submission_date": "06/26/2024",
+  "archetype": "cybersecurity assessment data uploads",
+  "complexity": "moderate",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 7,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0137",
+    "SRC-0138",
+    "SRC-0163",
+    "SRC-0164"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 10,
+    "segmentation": 12,
+    "labor": 6,
+    "item13": 8,
+    "item14": 6,
+    "item15": 7,
+    "validation": 3,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Two upload equations explicit; respondent identity and composite aggregation obscure the population.",
+    "provenance": "Detailed final-rule cost analysis supplements the statement, but no accessible underlying rate database.",
+    "segmentation": "Accreditation-body and C3PAO submissions separated; certifying entities substituted for actual uploading organizations.",
+    "labor": "GS proxy for accreditation body and composite assessor rate; RIA explains internal versus vendor loading but exact211.70 derivation absent.",
+    "item13": "Electronic upload has no additional respondent equipment cost; scope reasonably justified.",
+    "item14": "System O&M total linked to historical cost method in RIA;2731861 not directly bridged to its public series.",
+    "item15": "New control and cross-control scope explicit; no previous inventory to decompose.",
+    "validation": "DoD cost expertise, historical eMASS costs and consultation; time assumptions not tested publicly.",
+    "consistency": "Arithmetic exact but10942 organizations seeking certification are not necessarily10942 distinct C3PAOs."
+  },
+  "thoroughness": "moderate",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Accreditation-body status upload",
+        240,
+        0.08333333333333333,
+        20
+      ],
+      [
+        "Certification assessment upload",
+        10942,
+        0.25,
+        2735.5
+      ]
+    ],
+    "labor": {
+      "rates": [
+        84.91,
+        211.7
+      ],
+      "reported": 580804,
+      "basis": "SSA composite; RIA internal contractor labor+30%; external provider rate includes overhead,G&A,profit; federal averageGS steps1,5,10 plusapproximately51%"
+    },
+    "item13": {
+      "reported": 0,
+      "scope": "Incremental electronic upload"
+    },
+    "item14": {
+      "reported_om": 2731861,
+      "processing_labor": 0,
+      "ria_method": "2020/2021 actual recurring system costs updated; later years average; one-time initial development4631213 treated separately"
+    },
+    "item15": {
+      "new_collection": true,
+      "related_controls": [
+        "0704-0677",
+        "0750-0004"
+      ]
+    },
+    "assumptions": [
+      "Five-minute daily accreditation upload over240workingdays.",
+      "15-minute assessment upload.",
+      "Average phase-in population10942."
+    ]
+  },
+  "reconstruction_issues": [
+    "Number of assessments/OSCs is used as number of C3PAO respondents; retain events and unique organizations separately.",
+    "Public RIA improves methodological context but does not expose exact211.70 composite or2731861 annual system bridge."
+  ],
+  "methods_worth_testing": [
+    "Use related regulatory cost analysis to audit a concise Supporting Statement.",
+    "Separate automated processing from positive system O&M."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "240*5/60+10942*.25",
+      "calculated": 2755.5,
+      "reported": 2755.5,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0138"
+    },
+    {
+      "label": "Labor",
+      "formula": "20*84.91+2735.5*211.70",
+      "calculated": 580803.5499999999,
+      "reported": 580804,
+      "difference": -0.4500000000698492,
+      "unit": "USD",
+      "interpretation": "Dollar rounding.",
+      "source_id": "SRC-0138"
+    }
+  ],
+  "total_score": 72
+}

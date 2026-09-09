@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202405-0704-001",
+  "retrieved_at": "2026-09-09T11:53:26.504806+00:00",
+  "documents": [
+    {
+      "title": "CMMC eMASS SSA_0704-0676_10.15.2024.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143919603",
+      "path": "icrs/202405-0704-001/raw/supporting-statement-a-1.docx",
+      "sha256": "649ee974194c284339997d51c693f5e319c48e76cfc541c50d3ceb9e014282a3",
+      "text_chars": 13777
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202405-0704-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202405-0704-001",
+  "agency": "DOW/DODDEP",
+  "title": "Cybersecurity Maturity Model Certification (CMMC) Enterprise Mission Assurance Support-Service (eMASS) Instantiation Information Collection",
+  "omb_control_number": "0704-0676",
+  "submission_date": "06/26/2024",
+  "record_source_id": "SRC-0137",
+  "supporting_statement_source_ids": [
+    "SRC-0138"
+  ]
+}

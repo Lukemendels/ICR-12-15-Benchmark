@@ -1,0 +1,29 @@
+{
+  "query": "0960-0618",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&ombControlNumber=0960-0618",
+  "rows": [
+    {
+      "refs": [
+        "202411-0960-002"
+      ],
+      "text": "0960-0618\n|\nSSA\n|\nSocial Security Benefits Application\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n11/06/2024\n|\n11/14/2024\n|\nApproved without change\n|\n04/30/2025\n|\n16\n|\n3\n|"
+    },
+    {
+      "refs": [
+        "202411-0960-011"
+      ],
+      "text": "0960-0618\n|\nSSA\n|\nSocial Security Benefits Application\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n11/26/2024\n|\n12/19/2024\n|\nApproved without change\n|\n05/31/2025\n|\n16\n|\n3\n|"
+    },
+    {
+      "refs": [
+        "202502-0960-015"
+      ],
+      "text": "0960-0618\n|\nSSA\n|\nSocial Security Benefits Application\n|\nRevision of a currently approved collection\n|\n03/18/2025\n|\n05/19/2025\n|\nApproved without change\n|\n05/31/2028\n|\n15\n|\n3\n|"
+    }
+  ],
+  "all_refs": [
+    "202411-0960-002",
+    "202411-0960-011",
+    "202502-0960-015"
+  ]
+}

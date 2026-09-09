@@ -9,3 +9,5 @@ New in iteration 4: statistical burden-model architecture (IRS), burden measurem
 Next: finish deliberate MSHA/SEC challengers and EPA/FERC baseline reconstruction. Review coverage and scoring calibration before post-minimum saturation testing. Validate source archival paths and remaining underlying citations. Then conduct two qualifying saturated batches and the separate adversarial round if supported by evidence.
 
 Iteration6:52 reviewed;8 TSA; status IN_PROGRESS; saturation0. See logs/iteration-006-results.md.
+
+Iteration7:61reviewed;8TSA; first saturated batch. IN_PROGRESS.

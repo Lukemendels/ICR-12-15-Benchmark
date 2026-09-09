@@ -1,0 +1,15 @@
+{
+  "query": "Nutritional Yeast",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&terms=Nutritional+Yeast",
+  "rows": [
+    {
+      "refs": [
+        "202502-2060-039"
+      ],
+      "text": "2060-0719\n|\nEPA/OAR\n|\nNational Emission Standards for Hazardous Air Pollutants (NESHAP) from Manufacturing of Nutritional Yeast (40 CFR Part 60, CCCC) (Renewal)\n|\nExtension without change of a currently approved collection\n|\n02/28/2025\n|\n06/22/2026\n|\nApproved without change\n|\n06/30/2029\n|\n1\n|\n0\n|"
+    }
+  ],
+  "all_refs": [
+    "202502-2060-039"
+  ]
+}

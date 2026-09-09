@@ -1,0 +1,157 @@
+{
+  "icr_id": "202412-1205-002",
+  "omb_control_number": "1205-0010",
+  "agency": "DOL/ETA",
+  "title": "Claims and Payment Activities",
+  "submission_date": "01/15/2025",
+  "archetype": "state unemployment reporting",
+  "complexity": "moderate",
+  "tsa_relevance": "medium",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 7,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0143",
+    "SRC-0144"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 11,
+    "segmentation": 12,
+    "labor": 8,
+    "item13": 6,
+    "item14": 7,
+    "item15": 8,
+    "validation": 3,
+    "consistency": 4
+  },
+  "score_rationale": {
+    "reproducibility": "Four report/record equations reproduce7314hours; upper-bound universe explicit.",
+    "provenance": "FY2025 UI grant advisory, accounting salary and1711 productive hours identified.",
+    "segmentation": "Regular, extended-benefit, short-time compensation and its records separated.",
+    "labor": "Program-specific compensation divided by productive hours, clear rounding; fiscal-year label inconsistent.",
+    "item13": "Established systems support zero startup; federally funded cost is not itself proof of zero respondent resource cost.",
+    "item14": "Shared920436.80 system allocated across30ICRs; equal-share assumption explicit though not workload-based.",
+    "item15": "Regular report2->2.5hours gives318-hour program effect, other rows stable.",
+    "validation": "State consultation and program accounting, but no observed timing distribution.",
+    "consistency": "Main totals agree; recordkeeping counted as additional response and FY2024/25 prose conflict."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Regular5159",
+        636,
+        2.5,
+        1590
+      ],
+      [
+        "Extended benefits",
+        636,
+        2,
+        1272
+      ],
+      [
+        "Short-time compensation",
+        636,
+        2,
+        1272
+      ],
+      [
+        "STC records",
+        636,
+        5,
+        3180
+      ]
+    ],
+    "labor": {
+      "annual_compensation": 90282,
+      "productive_hours": 1711,
+      "rounded_rate": 53,
+      "reported": 387642,
+      "source": "UIPL19-24; FY2025 UI administrative grants"
+    },
+    "item13": {
+      "reported": 0,
+      "reason": "Established systems, no startup; reports funded by federal grants"
+    },
+    "item14": {
+      "shared_system": 920436.8,
+      "number_icrs": 30,
+      "allocated": 30681.22,
+      "allocation": "Equal share, administrative convention",
+      "labor": 0
+    },
+    "item15": {
+      "regular_time_old": 2,
+      "regular_time_new": 2.5,
+      "responses": 636,
+      "implied_program_delta": 318,
+      "old_hours_implied": 6996,
+      "new_hours": 7314
+    },
+    "assumptions": [
+      "All53 jurisdictions assumed to submit all3 programs monthly, explicitly maximum rather than expected burden.",
+      "1711productive hours denominator differs from2080paid hours."
+    ]
+  },
+  "reconstruction_issues": [
+    "Federal financing does not by itself eliminate state resource costs; distinguish transfers.",
+    "Hourly source footnote mixesFY2025 advisory andFY2024 calculation label.",
+    "Equal system allocation is reproducible but not demonstrated to reflect causal usage."
+  ],
+  "methods_worth_testing": [
+    "Administrative grant compensation with explicit productive-hours denominator.",
+    "Transparent shared-system allocation and upper-bound universe."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "53*12*(2.5+2+2+5)",
+      "calculated": 7314.0,
+      "reported": 7314,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0144"
+    },
+    {
+      "label": "Labor",
+      "formula": "7314*53",
+      "calculated": 387642,
+      "reported": 387642,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0144"
+    },
+    {
+      "label": "System allocation",
+      "formula": "920436.8/30",
+      "calculated": 30681.22666666667,
+      "reported": 30681.22,
+      "difference": 0.006666666668024845,
+      "unit": "USD",
+      "interpretation": "Cent truncation/rounding difference.",
+      "source_id": "SRC-0144"
+    },
+    {
+      "label": "Change",
+      "formula": "53*12*.5",
+      "calculated": 318.0,
+      "reported": 318,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Directly inferred from disclosed time change.",
+      "source_id": "SRC-0144"
+    }
+  ],
+  "total_score": 77
+}

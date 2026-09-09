@@ -1,0 +1,108 @@
+PART word/document.xml
+PAPERWORK REDUCTION ACT REQUEST for 32 CFR
+SUPPORTING STATEMENT - PART A
+Cybersecurity Maturity Model Certification (CMMC) 
+Enterprise Mission Assurance Support-Service (eMASS) Instantiation 
+Information Collection – 0704-0676
+1.  Need for the Information Collection
+This collection supports the Department of Defense’s (DoD) program rule for the Cybersecurity Maturity Model Certification (CMMC). CMMC Enterprise Mission Assurance Support-Service (eMASS) collects program data, providing the DoD visibility into Levels 2 and 3 certification assessment results.  Materials collected include pre-assessment and planning materials, contact information, artifact information (list of artifacts, hash of artifacts, and hashing algorithm used), final assessment reports, CMMC certificates of assessment, and assessment appeal information.  
+This information collection is necessary to support the implementation of the final program rule as discussed in 32 CFR 170.17 and 170.18 respectively.  
+Level 2 certification is conducted by CMMC Certified Assessors (CCAs), employed by CMMC Third-Party Assessment Organizations (C3PAOs).  During the assessment process, Organizations Seeking Certification (OSCs) hire C3PAOs to conduct the third-party assessment required for certification.  As part of this process, C3PAOs must upload assessment data and results into CMMC eMASS.
+Additionally, 32 CFR 170.8(b) requires the Accreditation Body (AB), which is responsible for authorizing and ensuring the accreditation of C3PAOs, to establish, maintain, and manage an up-to-date list of authorized and accredited C3PAOs and provide the list of these entities and their status to the DoD through submission in eMASS.  The AB must also provide the CMMC Program Management Office (PMO) with current accreditation data on C3PAOs in eMASS.
+2.  Use of the Information
+Use of the CMMC instantiation of eMASS provides DoD visibility into the cybersecurity posture of the defense contractor supply chain and is the mechanism to generate reports on the health of the CMMC Ecosystem.  CMMC eMASS communicates directly with the Supplier Performance Risk System (SPRS), which is the DoD's authoritative source for supplier and product performance information.  Use of eMASS to collect CMMC information eliminates the need for contractors to respond directly to multiple DoD requiring activities.  
+With the information collected via eMASS, SPRS serves as a single repository for Government access to CMMC assessment results.  DoD Program Managers use this information to confirm the validity status of an Organization Seeking Assessment’s (OSA) CMMC self-assessment or certification assessment prior to contract award. Rather than taking a contract-by-contract approach to securing Federal Contract Information (FCI) and Controlled Unclassified Information (CUI), the OSA may obtain multiple contracts with a single CMMC self-assessment or certification assessment, thereby reducing the cost to both DoD and industry.  
+Finally, the CMMC PMO will use eMASS for reporting and tracking metrics of the CMMC Program, including but not limited to, the number of OSCs, the number of certifications, the number of assessments conducted, and the number of POA&M successfully closed within the 180-day timeframe. The CMMC PMO will also track the accreditation status of C3PAOs using information submitted in eMASS.
+C3PAOs and CMMC Level 2 Certification Assessment Submissions in eMASS
+Certified Assessors assigned by C3PAOs follow requirements and procedures as defined in 32 CFR 170.17 to conduct CMMC assessments on defense contractor information systems to determine conformance with the information safeguarding requirements associated with CMMC Level 2.  As part of this process, C3PAOs must submit information into eMASS, including pre-assessment and planning material, final assessment reports, and CMMC certificates of assessment.  C3PAOs upload the data they collect into eMASS in a format compliant with the CMMC assessment data standard as set forth in eMASS CMMC Assessment Import Templates on the CMMC eMASS website (https://cmmc.emass.apps.mil) and described in 32 CFR 170.9(b)(17). 
+C3PAO assessment teams generate assessment data compliant with the CMMC assessment data standard, which comprises two JavaScript Object Notation (JSON) schemas:  one for “pre-assessment” or planning data, and one for the assessment results.  C3PAOs may develop or purchase any tool that is compliant with the data standard and DoD security requirements that generates pre-assessment data and assessment results in the required JSON file format.  C3PAOs may also use spreadsheets that are compliant with the assessment data standard to submit the data.  C3PAOs must also use eMASS to upload the hashed artifacts used as evidence for the assessment.  The OSC must provide the C3PAO with a list of the artifact names, the return value of the hashing algorithm, and the hashing algorithm for upload into eMASS.  Finally, when an OSC does not agree with assessment results and initiates an appeal, C3PAOs will use eMASS to submit assessment appeals, review records, and decision results of assessment appeals. 
+Accreditation Body Submission of C3PAO Information
+The AB will provide an up-to-date list of authorized and accredited C3PAOs and their status to the DoD through submission in eMASS.  The AB must also provide the CMMC PMO with current accreditation data on C3PAOs in eMASS, allowing the CMMC PMO to track their accreditation status.
+3.  Use of Information Technology 
+C3PAOs electronically upload assessment data and results into eMASS, which then electronically transfers certification results to SPRS. The AB also uploads all C3PAO accreditation status in eMASS electronically.
+4.  Non-duplication 
+The information obtained through this collection is unique and is not already available for use or adaptation from another cleared source. 
+5.  Burden on Small Businesses 
+A C3PAO may also be a small business.  Efforts to minimize the burden on C3PAOs include the electronic collection of data using eMASS and providing Microsoft Excel spreadsheet templates.  
+6.  Less Frequent Collection 
+CMMC certifications last up to three years.  The assessment frequency for each level was determined by the DoD based on the sensitivity of information processed, stored, or transmitted by the OSA at each CMMC Status.
+
+7.  Paperwork Reduction Act Guidelines 
+This collection of information does not require collection to be conducted in a manner inconsistent with the guidelines delineated in 5 CFR 1320.5(d)(2).
+8.  Consultation and Public Comments  
+The Department consulted with members of the Defense Industrial Base (DIB) Sector Coordinating Council (SCC), and government organizations including the Defense Contract Management Agency (DCMA) Defense Industrial Base Cybersecurity Assessment Center (DIBCAC) and the Missile Defense Agency (MDA) in determining what data to collect in  eMASS.    
+The 60-Day Federal Register Notice (FRN) was published as part of the proposed rule, which published on Tuesday, December 26, 2023. The proposed rule citation is 88 FR 89058. Public comments received were adjudicated as part of the final rule.  
+The 30-Day FRN was published on Friday, June 21, 2024. The FRN citation is 89 FR 52032. No public comments were received.
+The CMMC Program Final Rule published on Tuesday, October 15, 2024. The FRN citation is 89 FR 83092.
+9.  Gifts or Payment 
+No payments or gifts are being offered to respondents as an incentive to participate in the collection.
+10. Confidentiality 
+The Privacy Impact Assessment associated with these collection requirements, Enterprise Mission Assurance Support Service (eMASS), can be viewed at https://disa.mil/-/media/Files/DISA/About/Legal/PIA/PIA_eMASS_signed_Section1_29Jan2024_v1_508acc_rpt.pdf.    
+The System of Records Notice associated with these collection requirements (K890.16 DoD, Enterprise Mission Assurance Support Service (eMASS)) is available at https://dpcld.defense.gov/Privacy/SORNsIndex/DOD-wide-SORN-Article-View/Article/570754/k89016-dod/. 
+Records produced from this information collection are retained and disposed of according to the National Archives and Records Administration (NARA) approved Records Retention and Disposition Schedule for eMASS that includes the CMMC program under Records Schedule Number DAA-0371-2021-0001. 
+11. Sensitive Questions 
+No questions considered sensitive are being asked in this collection.
+12. Respondent Burden and Associated Labor Costs (Parts A & B)
+Accreditation Body submission of C3PAO information in eMASS.  The Accreditation Body is one respondent, and it is estimated to make one response per day.  This results in 240 annual responses (5 responses per week multiplied by (x) 48 working weeks per year).  It is estimated that the burden for the Accreditation Body to submit C3PAO information to the CMMC PMO in eMASS is approximately five minutes per response, or 20 hours annually (240 responses per year x 5 minutes per response).  The hourly rate for this response is $84.91 per hour which is estimated based on the average of a GS-13 Step 1, Step 5, and Step 10, with a percentage added for fringe costs (employee benefits) and for minor overhead expenses (e.g., supervision and training).  This results in a total estimated annual public cost of $1,698.20 = 240 annual responses x 5 minutes per response x $84.91/hour.
+
+Estimation of Respondent Burden
+Number of respondents  | 1
+Responses per respondent  | 240
+Number of responses  | 240
+Time   per response  | 5 minutes
+Estimated hours | 20
+Cost per hour  | $84.91
+Annual public burden  | $1, 6 98.20
+Cost per response | $7 .08
+
+C3PAO submission of assessment data and results in eMASS.  The number of respondents is equal to the average number of entities expected to complete Level 2 certification assessments annually, or 10,942, with one response being provided per respondent.  This results in 10,942 annual responses (10,942 respondents x one response per respondent).  It is estimated that the burden to submit assessment data and results in eMASS for Level 2 certification assessments is 15 minutes per response (0.25 hours), or 2,735.50 hours annually (10,942 annual responses x 0.25 hours per response).  The hourly rate for this response is $211.70 per hour which is a composite hourly rate derived from the detailed estimates in the CMMC cost estimate model.  While the cost estimates in the model incorporates a variety of details (i.e., discrete numbers of entities by year and by type, detailed labor rates, fringe factors, and overhead factors), for purpose of this PRA estimate, one composite annual rate was derived from those details.  This results in a total estimated annual public cost of $579,105.35 = 10,942 annual responses x 0.25 hours/response x $211.70/hour.
+
+
+Estimation of Respondent Burden
+Number of respondents  | 10,942
+Responses per respondent  | 1
+Number of responses  | 10,942
+Hours per response  | . 25
+Estimated hours | 2,735.50
+Cost per hour  | $ 211.7 0  
+Annual public burden  | $ 579, 105.35  
+Cost per response | $ 52.93
+
+13. Respondent Costs Other Than Burden Hour Costs
+
+There are no annualized costs to respondents other than the labor burden costs addressed in Section 12 of this document to complete this collection. 
+ 14. Cost to the Federal Government      
+This section includes costs to the federal government that are applicable to process responses to the public information collection requirements covered by the request.  There is no labor necessary to process responses, so federal costs below reflect only the operational and maintenance costs for the CMMC instantiation of eMASS.  The estimated average annual amount is $2,731,861, as included in the table below.    
+
+
+
+
+
+
+
+
+
+
+
+ESTIMATION OF TOTAL PUBLIC AND GOVERNMENT BURDEN AND COST   Estimation of Total Public and Government Burden:  Level 2 and Level 3 Certification Assessments
+Total Estimated Public Burden Hours   (AB and C3PAO) | 2 , 75 5.5
+Total Estimated Government Burden Hours | 0
+Total Burden Hours | 2 , 75 5 . 5
+Total Annual Public Labor Cost  (AB and C3PAO)   (Average Over Phase-In Period) | $ 580,804
+Total Annual Government Labor Cost | $ 0
+Government Operational and Maintenance (Average Annual) | $2,731,861
+Total Cost   | $ 3,312,665
+15. Reasons for Change in Burden 
+This is a new collection with a new associated burden.
+16. Publication of Results. 
+The results of this information collection will not be published.  Aggregate information such as the total number of completed assessments submitted to DoD may be provided in Congressional justification materials or to the Office of Management and Budget (OMB).
+17. Non-Display of OMB Expiration Date 
+DoD does not seek approval to omit the display of the expiration date for OMB approval of the information collection.
+18. Exceptions to “Certification for Paperwork Reduction Submissions” 
+DoD is not requesting any exceptions to the provisions stated in 5 CFR 1320.9.
+PART word/footnotes.xml
+
+
+
+ An Organization Seeking Certification (OSC) means the entity seeking to undergo certification assessment for a given information system for the purposes of achieving and maintaining the CMMC Status of Level 2 (C3PAO) or Level 3 (DIBCAC). An OSC is also an OSA.
+ The Level 1 and the Level 2 self-assessment information collection reporting and recordkeeping requirements will be included in a modification of an existing DFARS collection approved under OMB Control Number 0750-0004, Assessing Contractor Implementation of Cybersecurity Requirements.  Modifications to this DFARS collection will be addressed as part of the final  acquisition rule see – provide link the FRN notice for the proposed acquisition rule. 

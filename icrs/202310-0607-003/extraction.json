@@ -11,8 +11,8 @@
   "review_iteration": 4,
   "rubric_version": "1.0.0",
   "source_ids": [
-    "SRC-0076",
     "SRC-0075",
+    "SRC-0076",
     "SRC-0097",
     "SRC-0098",
     "SRC-0099"

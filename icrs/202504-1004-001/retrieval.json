@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202504-1004-001",
+  "retrieved_at": "2026-09-09T11:53:45.148484+00:00",
+  "documents": [
+    {
+      "title": "1004-0121 Supporting Statement (2025 renewal + DFR AF18 OMB.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156987201",
+      "path": "icrs/202504-1004-001/raw/supporting-statement-a-1.docx",
+      "sha256": "2b2207a0bf650a5aa9a446e8289da556682b4c0141c14d6e5da7a1ff42abb839",
+      "text_chars": 91059
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-1004-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202504-1004-001",
+  "agency": "DOI/BLM",
+  "title": "Leasing of Solid Minerals Other Than Coal and Oil Shale (43 CFR 3500-3590)",
+  "omb_control_number": "1004-0121",
+  "submission_date": "07/17/2025",
+  "record_source_id": "SRC-0147",
+  "supporting_statement_source_ids": [
+    "SRC-0148"
+  ]
+}

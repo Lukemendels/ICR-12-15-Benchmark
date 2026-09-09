@@ -1,0 +1,334 @@
+{
+  "icr_id": "202409-0560-007",
+  "omb_control_number": "0560-0233",
+  "agency": "USDA/FSA",
+  "title": "Farm Loan Programs - Direct Loan Servicing - Special ( 7 CFR 766)",
+  "submission_date": "10/08/2024",
+  "archetype": "farm loan special servicing",
+  "complexity": "high",
+  "tsa_relevance": "medium",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 7,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0141",
+    "SRC-0142",
+    "SRC-0155"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 10,
+    "segmentation": 14,
+    "labor": 5,
+    "item13": 3,
+    "item14": 7,
+    "item15": 6,
+    "validation": 3,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "34-row workbook reconstructs nearly all form burden; one.75-hour row error.",
+    "provenance": "OEWS2023 SOCs and2024RUS federal pay; workload report not public here.",
+    "segmentation": "Farmer and creditor roles with individual forms and nonform activities.",
+    "labor": "Two unadjusted occupational wages; farmers called household income; no benefits.",
+    "item13": "36000 appraisal purchases disclosed but Item13 denies purchases and ROCIS needs reconciliation.",
+    "item14": "287810 workload hours and GS9–12 average+33.3% explicit; source workload report not attached.",
+    "item15": "No change explained using pre-moratorium activity as forecast baseline.",
+    "validation": "Prior workload and servicing experience; forecast restart assumptions uncertain.",
+    "consistency": "Workbook total matches SSA, but appraisal scope and one row conflict."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Bill of Sale",
+        388.0,
+        0.25,
+        97.0
+      ],
+      [
+        "Addendum to Promissory Note or Assumption Agreement for Set-Aside",
+        8692.0,
+        0.25,
+        2173.0
+      ],
+      [
+        "Delinquent Borrower Response to Notice of Loan Servicing",
+        3871.0,
+        0.5,
+        1935.5
+      ],
+      [
+        "Current/Distressed Borrower Response to Notice of Servicing",
+        2845.0,
+        0.5,
+        1422.5
+      ],
+      [
+        "Nonmonetary Borrower Response to Notice of Loan Servicing",
+        197.0,
+        0.5,
+        98.5
+      ],
+      [
+        "Delinquent Borrower Acceptance of Offer for Loan Servicing",
+        2845.0,
+        0.5,
+        1422.5
+      ],
+      [
+        "Current/Distressed Borrower Acceptance of Servicing Offer",
+        1101.0,
+        0.5,
+        550.5
+      ],
+      [
+        "Delinquent Borrower Response to Denial of Loan Servicing",
+        218.0,
+        1.0,
+        218.0
+      ],
+      [
+        "Current/Distressed Borrower Response to Denial of Servicing",
+        432.0,
+        1.0,
+        432.0
+      ],
+      [
+        "Borrower Response to Notice of Intent to Accelerate Farmer",
+        662.0,
+        0.16666,
+        110.32892
+      ],
+      [
+        "Negotiated Appraisal Agreement Farmer",
+        5.0,
+        0.5,
+        2.5
+      ],
+      [
+        "Conservation Contract",
+        136.0,
+        1.0,
+        136.0
+      ],
+      [
+        "Response to Notification of Homestead Protection",
+        9.0,
+        0.083,
+        0.747
+      ],
+      [
+        "Homestead Protection Agreement",
+        1.0,
+        0.25,
+        1.0
+      ],
+      [
+        "Shared Appreciation Agreement",
+        85.0,
+        0.33,
+        28.05
+      ],
+      [
+        "Warranty Deed",
+        21.0,
+        0.25,
+        5.25
+      ],
+      [
+        "Offer to Convey Security\n",
+        21.0,
+        0.25,
+        5.25
+      ],
+      [
+        "Voluntary Liquidation of Chattel Security - Borrower",
+        256.0,
+        1.0,
+        256.0
+      ],
+      [
+        "Voluntary Liquidation of Chattel Security - Lienholder",
+        769.0,
+        0.25,
+        192.25
+      ],
+      [
+        "Agreement of Secured Parties to Sale of Security Property",
+        23.0,
+        0.25,
+        5.75
+      ],
+      [
+        "Lease of Real Property",
+        27.0,
+        0.25,
+        6.75
+      ],
+      [
+        "Claimants With Closed Settlement Claims – No Appeal",
+        86.0,
+        0.083,
+        7.138000000000001
+      ],
+      [
+        "Claimants With Closed Settlement Claims – Appeal",
+        17.0,
+        0.083333,
+        1.4166610000000002
+      ],
+      [
+        "Written request for disaster set-aside     ",
+        8693.0,
+        0.25,
+        2173.25
+      ],
+      [
+        "Additional Info. Needed to Determine Eligibility for DSA",
+        435.0,
+        0.25,
+        108.75
+      ],
+      [
+        "Aerial Photo for Conservation Contract Request",
+        145.0,
+        0.33,
+        47.85
+      ],
+      [
+        "Copy of Divorce Decree and Evidence of Conveyance",
+        17.0,
+        0.5,
+        8.5
+      ],
+      [
+        "Borrower Selection of Conservation Contract Term",
+        135.0,
+        0.5,
+        67.5
+      ],
+      [
+        "Independent Appraisal ",
+        17.0,
+        0.5,
+        8.5
+      ],
+      [
+        "Identification of Acreage - Pre and Post-Acquisition HP",
+        36.0,
+        0.33,
+        11.88
+      ],
+      [
+        "Exercise Option to Purchase with Homestead Protection",
+        16.0,
+        0.25,
+        4.0
+      ],
+      [
+        "Selection of Appraiser for Homestead Protection",
+        52.0,
+        0.16,
+        8.32
+      ],
+      [
+        "Identification of Capital Improvements for SA",
+        85.0,
+        0.5,
+        42.5
+      ],
+      [
+        "Refute Finding of Unauthorized Assistance",
+        158.0,
+        4.0,
+        632.0
+      ]
+    ],
+    "labor": {
+      "farmer": 43.35,
+      "creditor": 40.62,
+      "year": 2023,
+      "soc": [
+        "11-9013",
+        "13-2072"
+      ],
+      "reported": 529239,
+      "creditor_hours": 198
+    },
+    "item13": {
+      "appraisal_unit": 2000,
+      "independent_appraisals": 15,
+      "half_share_appraisals": 6,
+      "appraisal_total": 36000,
+      "item13_assertion": 0
+    },
+    "item14": {
+      "hours": 287810,
+      "salary": 82085,
+      "loading": 1.333,
+      "annual_loaded_reported": 109444,
+      "hourly": 52.62,
+      "reported": 15144562.2,
+      "source": "County Office Workload Report;2024RUS GS9–12"
+    },
+    "item15": {
+      "old_equals_new_hours": 12221,
+      "responses": 32496,
+      "reason": "Pre-moratorium activity retained in anticipation of servicing restart; newDBSAusesexistingDSAforms"
+    },
+    "assumptions": [
+      "Pre-pandemic servicing activity better forecast than moratorium-period activity.",
+      "Farmer may submit multiple forms; sum of form respondents not independently deduplicated."
+    ]
+  },
+  "reconstruction_issues": [
+    "Item12 appraisal expense36000 contradicts Item13 statement of no purchased services.",
+    "Workbook row33 Homestead Protection Agreement1*.25=.25 but reported1hour.",
+    "Reported32496 respondents equals summed form responses, not demonstrated unique borrowers."
+  ],
+  "methods_worth_testing": [
+    "Publish form-level spreadsheet and explicit reason for selecting a historical baseline.",
+    "Distinguish farmer and financial-institution labor."
+  ],
+  "checks": [
+    {
+      "label": "Form hours",
+      "formula": "12220.230581",
+      "calculated": 12220.230581,
+      "reported": 12220.980581,
+      "difference": -0.75,
+      "unit": "hours",
+      "interpretation": "Independently multiplying rows yields.75hour less than reported cache.",
+      "source_id": "SRC-0142"
+    },
+    {
+      "label": "Appraisals",
+      "formula": "15*2000+6*2000*.5",
+      "calculated": 36000.0,
+      "reported": 36000,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact purchased cost.",
+      "source_id": "SRC-0142"
+    },
+    {
+      "label": "Federal",
+      "formula": "287810*52.62",
+      "calculated": 15144562.2,
+      "reported": 15144562.2,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0142"
+    }
+  ],
+  "total_score": 69
+}

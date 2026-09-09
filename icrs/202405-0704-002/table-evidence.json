@@ -1,0 +1,168 @@
+[
+  {
+    "file": "icrs/202405-0704-002/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "",
+        "",
+        "LEVEL 2  AND LEVEL 3  CERTIFICATION ASSESSMENT  PUBLIC RESPONDENT BURDEN AND LABOR COSTS"
+      ],
+      [
+        "Collection Instrument and Rule Citation",
+        "Entity Type",
+        "Number of Responses  ",
+        "Hours per Response",
+        "Burden  Hours",
+        "Hourly  Rate",
+        "Burden Per Response",
+        "Total  Burden"
+      ],
+      [
+        "Level 2  certification assessment  §170.17 (a)",
+        "OSC  (&  hired  C3PAO )  -  Small",
+        "8,098",
+        "417.83",
+        "      3,38 3 , 587 .34  ",
+        "$239.89 ",
+        "$100,2 3 3 ",
+        "$81 1 , 688 , 767  "
+      ],
+      [
+        "",
+        "OSC  (&  hired  C3PA O 6 )   -  Other Than Small",
+        "2,844",
+        "833.83",
+        "      2,37 1 , 41 2.52  ",
+        "$131.44 ",
+        "$109, 599  ",
+        "$311, 698,462  "
+      ],
+      [
+        "Level 3 c ertification  a ssessment §170.18 (a)",
+        "OSC -  Small",
+        "190",
+        "42.08",
+        "              7,995 .20  ",
+        "$170.48 ",
+        "$ 7,174 ",
+        "$      1,363,0 22  "
+      ],
+      [
+        "",
+        "OSC -  Other Than Small",
+        "23",
+        "384.08",
+        "              8,83 3.84  ",
+        "$ 94.53 ",
+        "$36,307 ",
+        "$         835,06 3  "
+      ],
+      [
+        "TOTAL",
+        "",
+        "11,155",
+        "",
+        "5,771,82 8.90",
+        "",
+        "",
+        "$1,125,585,31 4"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202405-0704-002/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "RESPONDENT COSTS OTHER THAN BURDEN"
+      ],
+      [
+        "Rule Citation",
+        "Collection Requirement",
+        "Entity Type",
+        "Non-Recurring Cost",
+        "Recurring  Cost",
+        "Total Costs"
+      ],
+      [
+        "§170.18 (a)",
+        "Level 3",
+        "OSC -  Small",
+        " $ 513,000,000 ",
+        " $ 93,100,000 ",
+        " $ 606,100,000 "
+      ],
+      [
+        "",
+        "Certification",
+        "OSC -  Other Than Small",
+        " $ 485,300,000 ",
+        " $ 94,760,000 ",
+        " $ 580,060,000 "
+      ],
+      [
+        "",
+        "",
+        "",
+        "TOTAL",
+        "",
+        " $ 1,186,160,000 "
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202405-0704-002/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "",
+        "",
+        "LEVEL 3 CERTIFICATION ASSESSMENT GOVERNMENT  RESPONDENT BURDEN AND LABOR COSTS"
+      ],
+      [
+        "Collection Instrument and Rule Citation",
+        "Entity Type",
+        "Number of Responses  ",
+        "Hours per Response",
+        "Burden  Hours",
+        "Hourly  Rate",
+        "Burden Per Response",
+        "Total  Burden"
+      ],
+      [
+        "Level 3  certification assessment  §170.18 (a)",
+        "OSC  (& DCMA DIBCAC )  -  Small",
+        "190",
+        "11 7.75",
+        "22, 372 .5",
+        "$ 108.47  ",
+        "$ 12,7 72  ",
+        "$ 2,4 26 , 745  "
+      ],
+      [
+        "",
+        "OSC  (& DCMA  DIBCAC 10 )  -   Other Than Small",
+        "23",
+        "43 5.75",
+        "10,02 2. 2 5",
+        "$   81.01  ",
+        "$ 35,3 0 0  ",
+        "$      81 1 , 902"
+      ],
+      [
+        "TOTAL",
+        "",
+        "213",
+        "",
+        "32, 39 4. 7 5",
+        "",
+        "",
+        "$ 3,2 38 , 647"
+      ]
+    ]
+  }
+]
