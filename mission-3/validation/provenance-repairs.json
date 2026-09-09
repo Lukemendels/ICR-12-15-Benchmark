@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "basis_commit": "73388877334015238d7f615a27981c7f81c0973b",
+  "repairs": [
+    {
+      "old_locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L192",
+      "new_locators": [
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L176",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L189",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L195",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L201",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L209",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L210",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L211",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L212",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L217",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L218",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L219",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L220",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L225",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L226",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L227",
+        "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L228"
+      ],
+      "reason": "Replace empty/document-container locator with existing substantive source evidence"
+    },
+    {
+      "old_locator": "mission-3/sources/202407-1652-001/d34f137d5c9271f3.txt:L1",
+      "new_locators": [
+        "mission-3/sources/202407-1652-001/d34f137d5c9271f3.txt:L289",
+        "mission-3/sources/202407-1652-001/d34f137d5c9271f3.txt:L298",
+        "mission-3/sources/202407-1652-001/d34f137d5c9271f3.txt:L315",
+        "mission-3/sources/202407-1652-001/d34f137d5c9271f3.txt:L324"
+      ],
+      "reason": "Replace empty/document-container locator with existing substantive source evidence"
+    }
+  ],
+  "comparison_repairs": [
+    "CMP-22 original values now 20/5 published hours, separate from 1200/300 normalized minutes; per-event period restored.",
+    "Source-explicit per-event and annual-bundle periods completed for CMP-19/20/23–28; no annualization or new coefficient.",
+    "Explicit field-level provenance and transformation descriptions added to comparison observations."
+  ],
+  "classification_changes": 0,
+  "source_text_changes": 0,
+  "methodology_changes": 0
+}

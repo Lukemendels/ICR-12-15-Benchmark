@@ -34,10 +34,11 @@
     "Final analysis C: all inherited equations replayed, 41 M1 TSA checks preserved, activity-row QA consolidated, precision correction documented.",
     "Final analysis D: eight within-ICR findings completed with explicit observations; seven major candidates challenged using prior statements; negative and unresolved outcomes retained.",
     "Final analysis E: deterministic graph and consistency matrix built from468 activity representations,162 assumption observations,36 adjudications and341 checks.",
+    "Final completion provenance: content-level replay passed; blank/header challenge locators repaired from archived evidence; comparison value/period distinctions clarified.",
     "Final analysis F: two held-out application comparisons adjudicated; source paragraph checks preserve DASSP field-scope caveat. First stable final analytical batch.",
     "Final analysis G: held-out identity-transmission and application comparisons stable; two successive analytical batches complete without major finding or framework change."
   ],
-  "next": "Refresh graph and challenge indexes; execute deterministic query catalog; assess freeze gates and prepare handoff.",
+  "next": "Validate source locators, graph endpoints and epistemic labels; complete query catalog and two stable analytical review batches.",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,
@@ -62,5 +63,6 @@
   },
   "continuation_base_commit": "23074f3d4927c42b15f552f79368496aa8772f48",
   "final_analysis_base_commit": "d17ed03d740f7c52abfa00cac53f7b8c4fdbb34c",
-  "integrated_checkpoint": "a3345edf633b0fcc3309256acb8277ff1e20a891"
+  "integrated_checkpoint": "a3345edf633b0fcc3309256acb8277ff1e20a891",
+  "concurrent_checkpoint_integrated": "9e29c5620465c879b4c35039f3d3dc0a04d7bc28"
 }

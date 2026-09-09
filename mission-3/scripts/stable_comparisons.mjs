@@ -13,3 +13,4 @@ return {id:"CMP-"+n,finding_id:"CMP-"+n,comparison_group:"GRP-"+n,title,family,l
 }).map(r=>{if(r.id==="CMP-29"){r.similarity.strength="moderate";r.similarity.unknowns="Earlier paragraph names passengers as well as coordinators and crew; later paragraph names coordinators and crew only. Equal duration does not establish unchanged form content.";r.material_differences="Published population and wage change, and passenger-information wording is absent in later paragraph.";r.evidence_assessed+=" Consistency is limited to the retained one-hour initial operator application coefficient; field scope is not proven identical.";r.confidence.level="moderate";}if(r.id==="CMP-31"){for(const o of r.observations){o.original_value=130;o.original_unit="seconds";}r.original_values=r.observations.map(o=>o.original_value);}return r;});
 }
 export {adjudicateStableBatch};
+

@@ -1,16 +1,16 @@
 {
   "status": "PASS",
-  "nodes": 2528,
-  "edges": 3989,
-  "unique_node_ids": 2528,
-  "unique_edge_ids": 3989,
+  "nodes": 2546,
+  "edges": 4077,
+  "unique_node_ids": 2546,
+  "unique_edge_ids": 4077,
   "source_text_hashes_verified": 134,
   "representation_overlap_groups": 27,
   "errors": [],
   "epistemic_status_counts": {
-    "NORMALIZED": 1063,
+    "NORMALIZED": 1073,
     "CALCULATED": 1039,
-    "INFERRED": 96,
+    "INFERRED": 104,
     "PUBLISHED": 330
   },
   "limitations": [
