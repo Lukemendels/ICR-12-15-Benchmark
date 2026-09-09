@@ -1,0 +1,32 @@
+{
+  "ref": "202403-1652-002",
+  "retrieved_at": "2026-09-09T17:24:33.741669+00:00",
+  "documents": [
+    {
+      "id": "5dc510e334685364",
+      "title": "1652-NEW Cyber CRM SS_4.18..2024.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=141763801",
+      "path": "mission-3/sources/202403-1652-002/5dc510e334685364.txt",
+      "sha256_raw": "37864a5c0a82b512fa953a0aba7c32f5851824bacbdb5c462f67105cfc2eadf9",
+      "sha256_text": "339a9d432ecacfc6c0df92d06feec166c394d3162a40ebe3e4a6ce4086300646",
+      "format": ".docx",
+      "chars": 70990,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202403-1652-002",
+    "path": "mission-3/sources/202403-1652-002/record.txt",
+    "sha256_raw": "9c7ae5f7528b339d180a7703cd088743ae0b884d6b4ffbd1cb37b476fab1fb10",
+    "sha256_text": "dc070b9a6848216274a4b5e1d909b2c33dc464a30333a0c52ab1427fed4b32de"
+  },
+  "previous_ref": null,
+  "status": "Historical Inactive",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202403-1652-002",
+    "path": "mission-3/sources/202403-1652-002/document_index.txt",
+    "sha256_raw": "826b74b266dc9ab240145d125990f1f102274f7bc6ff3b48298dd905939d8626",
+    "sha256_text": "ac619b2fd9892cbd4ef85c65133282bc4fc81940290c42de2272229143902004"
+  }
+}

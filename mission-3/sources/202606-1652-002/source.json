@@ -1,0 +1,32 @@
+{
+  "ref": "202606-1652-002",
+  "retrieved_at": "2026-09-09T17:25:21.601803+00:00",
+  "documents": [
+    {
+      "id": "00a9c8c3eeb406bf",
+      "title": "1652-0027 STA HME SS Pt.A.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=169514100",
+      "path": "mission-3/sources/202606-1652-002/00a9c8c3eeb406bf.txt",
+      "sha256_raw": "0873bc1bfbb8338a3a8a2f2083f7d7ba64022ad0c857c972755a5310f6b68981",
+      "sha256_text": "5dfa0704bd3681da1d2d56481fe3135b38288c3adbd92dd2bec8a16f06f386de",
+      "format": ".docx",
+      "chars": 59254,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202606-1652-002",
+    "path": "mission-3/sources/202606-1652-002/record.txt",
+    "sha256_raw": "db834bc0024040e131063a49bb1a6a2740219041c2d846c5b8ff37c437fd4f2c",
+    "sha256_text": "ac5a3857f697be93a69cafe23beef1b820f87156feb20bb7ae83f014382fbdfb"
+  },
+  "previous_ref": "202502-1652-005",
+  "status": "Received in OIRA",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202606-1652-002",
+    "path": "mission-3/sources/202606-1652-002/document_index.txt",
+    "sha256_raw": "1ee2c1ad001dfdecec18546eb59d6a33bf3da7fd6b95d4e361469381ecc38f9d",
+    "sha256_text": "46a7c3195c912213b6cadc16c988ee16f657b003c09dfc3080f1381bb5deb43b"
+  }
+}

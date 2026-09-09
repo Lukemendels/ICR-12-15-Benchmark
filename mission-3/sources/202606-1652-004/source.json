@@ -1,0 +1,32 @@
+{
+  "ref": "202606-1652-004",
+  "retrieved_at": "2026-09-09T17:24:33.742776+00:00",
+  "documents": [
+    {
+      "id": "f42cff043f4b2255",
+      "title": "1652-NEW RTWT SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=169930400",
+      "path": "mission-3/sources/202606-1652-004/f42cff043f4b2255.txt",
+      "sha256_raw": "f3e91e83374e9dfe5b70d7f01eeba1984dbe8368ec8df3cc9e7b1a9866eddb43",
+      "sha256_text": "9db8df00101dbdc90c593e570ee1160d220db6ee8b3f7be8dc2fd8c0ff79e9ac",
+      "format": ".docx",
+      "chars": 11824,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202606-1652-004",
+    "path": "mission-3/sources/202606-1652-004/record.txt",
+    "sha256_raw": "a5a168fdca4c8fa33ec6cb863fe0cf12129cb38b37a1d67cd7923972bd64d020",
+    "sha256_text": "d0ead9dad01bf389b55c40d9a59b83ce311a37cfae3c8d997790a7af6f15054a"
+  },
+  "previous_ref": null,
+  "status": "Received in OIRA",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202606-1652-004",
+    "path": "mission-3/sources/202606-1652-004/document_index.txt",
+    "sha256_raw": "9c03438794c1eb5e85e91fce817b85b130f133c8c83f9a342c3be6b76eeb9472",
+    "sha256_text": "9c31095b6cb8e65a8da6a06df2be4dce9237cef144b4b1c50a702d54562e87aa"
+  }
+}

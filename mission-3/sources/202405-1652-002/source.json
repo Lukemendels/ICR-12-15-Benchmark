@@ -1,0 +1,32 @@
+{
+  "ref": "202405-1652-002",
+  "retrieved_at": "2026-09-09T17:25:21.633990+00:00",
+  "documents": [
+    {
+      "id": "c13c5210a425ffaf",
+      "title": "1652-0028 CMSDT_SS (9.11.2024).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=142853801",
+      "path": "mission-3/sources/202405-1652-002/c13c5210a425ffaf.txt",
+      "sha256_raw": "e4f4e192b4ef5a2b066deef25b83f7ef6c606032a96df2a85cf4d4f2f0968594",
+      "sha256_text": "3b79a463e1ba0b2991c4877a9733cc5986d6a343e2795eae9c401ee482d8e37b",
+      "format": ".docx",
+      "chars": 21348,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202405-1652-002",
+    "path": "mission-3/sources/202405-1652-002/record.txt",
+    "sha256_raw": "b61c0398b9afb46f05a64e70059e3ee42fcba40b8c7a3826d8c8282f8ea16ede",
+    "sha256_text": "f9746ec787b7a29243764322748be9123ec8b952bef1235e21e5612bdb2e8860"
+  },
+  "previous_ref": "202109-1652-004",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202405-1652-002",
+    "path": "mission-3/sources/202405-1652-002/document_index.txt",
+    "sha256_raw": "55d446f18992af4a9e0b847e092bac41b6932d57e0e31b6764ba3ba784c36847",
+    "sha256_text": "a70b300f32db84f94548a060941a7c11d23a0c33f0007747d365f6146120be3f"
+  }
+}

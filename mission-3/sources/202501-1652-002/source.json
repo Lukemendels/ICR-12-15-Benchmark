@@ -1,0 +1,32 @@
+{
+  "ref": "202501-1652-002",
+  "retrieved_at": "2026-09-09T17:25:21.809622+00:00",
+  "documents": [
+    {
+      "id": "8af37d2513d06399",
+      "title": "1652-0029 MD-3 SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=151901401",
+      "path": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt",
+      "sha256_raw": "e70baa7ff41590e2aaa5fb78ec7b22c24868280823c599184de8b7fdbc729111",
+      "sha256_text": "b013ecbb3ce5aa794b4d87824b4421237505aa88a00fb3085aa607f39faea3dd",
+      "format": ".docx",
+      "chars": 18176,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202501-1652-002",
+    "path": "mission-3/sources/202501-1652-002/record.txt",
+    "sha256_raw": "2256caa70c69070813da7e7db1e8ba0e9530b2b6f91f550908d31c730f3e391f",
+    "sha256_text": "5115bd9b047ecb239b7de2a11fb69be4acd82c6d8cbf737573ac5828ef83b715"
+  },
+  "previous_ref": "202112-1652-002",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202501-1652-002",
+    "path": "mission-3/sources/202501-1652-002/document_index.txt",
+    "sha256_raw": "63f98d31a8669834829beda5d99d7eae98a6016a5c2cd420b51ef1a7426b3ba8",
+    "sha256_text": "4a958305f81bc06c9e66a946343de5b4a486e570ebad7235b61a1a0d35deaa43"
+  }
+}

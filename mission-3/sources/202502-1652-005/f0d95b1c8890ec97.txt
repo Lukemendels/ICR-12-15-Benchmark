@@ -1,0 +1,391 @@
+PART word/document.xml
+
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.  (Annotate the CFR parts/sections affected).
+
+This collection supports the implementation of section 1012 of the USA PATRIOT Act, Pub. L. 107-56 (115 Stat. 272, 396; Oct. 26, 2001), as codified at 49 U.S.C. § 5103a, which mandates that no State or the District of Columbia may issue a hazardous materials endorsement (HME) on a commercial driver’s license (CDL) unless TSA has first determined the driver is not a threat to transportation security.  Title 49 of the U.S. Code § 5103a and its implementing regulation, found at 49 CFR part 1572, are attached to this application.
+
+TSA’s regulations provide the procedures, standards, and eligibility criteria for security threat assessments (STAs) of individuals seeking to obtain, renew, or transfer an HME on a State-issued CDL.  In order to conduct the STA, States (or a TSA designated agent in States that elect to have TSA perform the collection of information, hereinafter referred to as TSA agent States) must collect information in addition to that already collected for the purpose of HME applications.  The duration of TSA’s STA is five years, and individuals must enroll to renew the STA for the HME.  The driver is required to submit an application that includes personal biographic information (such as, name, height, weight, eye and hair color, date of birth); information concerning immigration status, mental health history, and criminal history; as well as biometrics such as fingerprints and/or photographs.  In addition, 49 CFR part 1572 requires States to maintain a copy of the driver application for a period of one year.
+
+TSA also invites all HME applicants to complete an optional survey to gather information on the applicants’ overall customer satisfaction with the service received at the enrollment center.  The optional survey is provided only in TSA-agent States (see Part B for more information).
+
+Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+Enrollment
+Commercial drivers seeking an HME are required to provide biographic and biometric information for the purpose of conducting an STA.  State Motor Vehicle Agencies, or a TSA designated contractor in TSA-agent States, collect this information as part of the procedure to obtain, renew or transfer an HME on a CDL, and must be renewed every five years.  Individuals applying through a TSA-agent State have the option to provide biographic information online before enrollment (also known as pre-enrollment), in-person, online after enrollment (post-enrollment), or via mail or fax.  Applicants who choose to pre-enroll online must still go to an enrollment center to complete the enrollment process by submitting biometric data (e.g., fingerprints, facial photograph, and iris) and identity and citizenship or immigration documents/data to TSA’s agent if they did not provide this information online.  Alternatively, applicants can choose to enroll entirely in-person at an enrollment center without pre-enrolling.  If applicants are not able to provide identity and citizenship or immigration documents/data during in-person enrollment, they may provide this information post-enrollment either online or via mail/fax.
+
+Since calendar year 2015, TSA’s enrollment provider has offered an additional service to applicants that allows for the real-time electronic certification of birth certificates from most States for applicants who did not bring US citizenship-proving documents to in-person enrollment.  To use the birth certificate certification service, the applicant must pay a supplemental fee to TSA’s enrollment provider and provide an additional data element (mother’s maiden name) that is not required as part of the actual HME STA process.  The supplemental fee for birth certificate certification is provided directly to the TSA agent and is not remitted to TSA.
+
+TSA may use the information to determine an HME applicant’s eligibility to participate in TSA’s expedited screening program for air travel and the TSA PreCheck® Application Program, without requiring an additional background check.  TSA is revising the collection of information to expand enrollment options and the potential use of biographic and biometric (e.g., fingerprints, iris scans, and/or photo) information.  This revision would allow for facilitation of the security threat assessment and future use of the information collected for additional comparability determinations, such as allowing the HME applicant to obtain a Transportation Worker Identification Credential (TWIC®) without requiring an additional background check.
+
+Security Threat Assessment Process
+TSA uses applicants’ biographic and biometric information during pre-enrollment, enrollment, or post-enrollment to conduct STAs to determine whether the applicant may pose a security threat and to verify applicants’ identity and citizenship/immigration status.  TSA uses multiple databases for this purpose, including law enforcement, citizenship or immigration, and intelligence databases.  TSA also uses the U.S. Citizenship and Immigration Services’ Systematic Alien Verification for Entitlements database to verify lawful presence in the U.S.  In the future, TSA intends to use DHS components’ services, provided via U.S. Customs and Border Protection (CBP), to support verification of identity and citizenship using travel document data (e.g., passport) provided to CBP by the U.S. Department of State.
+
+After TSA conducts an STA to determine the applicant’s eligibility for the HME, a small percentage of applicants will be found to be ineligible based on the disqualifying criteria published in 49 CFR part 1572.  Applicants who were initially deemed ineligible have an opportunity to correct cases of misidentification or inaccurate criminal or immigration records by applying for an appeal.  Often, additional information is required to verify that disqualifying criteria have been satisfactorily addressed (e.g., documents proving current court case disposition, or satisfaction of all court-ordered penalties).  Once all disqualifying criteria have been satisfactorily addressed, the appeal may be granted.
+
+Biometric Capture & Recurrent Vetting
+The collection of biometric information (e.g., fingerprints, facial photographs or iris) allows TSA to perform identity assurance, conduct vetting, and determine a HME applicant’s eligibility for the security threat assessment as well as participate in other TSA vetting programs, such as TWIC.  Also, the collection of information allows for recurrent biometric and criminal history vetting.  Since the program was established, TSA conducted recurrent terrorism vetting on active HME STA holders.  TSA will conduct recurrent criminal history and immigration vetting as part of planned upgrades to its information technology systems.  TSA is revising the collection of biometric fingerprints in States serviced by TSA’s enrollment contractor to subscribe HME holders in Rap Back, a service provided by the Federal Bureau of Investigation (FBI).  Applicants’ fingerprints and associated information will be provided to the FBI for the purpose of comparing their fingerprints to other fingerprints in the FBI’s Next Generation Identification (NGI) system, or its successor systems including civil, criminal, and latent fingerprint repositories to identify additional activity that may occur after the initial application.  The FBI retains applicants’ fingerprints and associated information in NGI after the completion of their application and, while retained, their fingerprints may continue to be compared against other fingerprints submitted to or retained by NGI.  Once an individual is subscribed in Rap Back, TSA will not have to collect new fingerprints from the individual every five years or collect a fee from the individual for the submission of new fingerprints to the FBI.  The implementation of Rap Back recurrent criminal history vetting for HME holders will mitigate certain security risks posed by individuals who commit a disqualifying offense after their STA is completed and the HME is issued.   Due to the subscription of the applicant’s fingerprints in Rap Back and a reduction in the transaction costs for online renewals, the renewal fee for an HME STA will decrease.
+
+TSA will transmit applicants’ information, to include biometrics, to other DHS systems to complete TSA’s STA, such as DHS’ Automated Biometric Identification System (IDENT).  IDENT and its successor systems are utilized for initial and recurrent biometric-based vetting of applicants’ criminal history, lawful presence, and ties to terrorism.
+
+Fees and Enrollment Locations
+All applicants who use TSA’s designated enrollment contractor pay an application fee to the enrollment provider, and the enrollment provider is responsible for remitting a portion of each applicant’s fee to the FBI to process the fingerprints, and to TSA to cover TSA’s costs to conduct the STA.  TSA’s enrollment provider has multiple enrollment locations across the United States and its territories and offers temporary enrollment locations as well.
+
+Renewals
+TSA is revising the collection to allow online renewals for both active HME holders before their STA expires and HME holders who have a recently expired STA.  Since the program was established, all HME applicants using TSA’s enrollment contractor in TSA-agent States were required to visit an enrollment center in-person to renew their HME STA.  Approximately 60 percent of active HME holders renew their HME when it expires every five years.  For online renewals, TSA will use a combination of some previously provided biographic data, updated applicant data (e.g., address, alien registration number/passport number, identity documentation, eligibility questions, updated biometrics, if applicable, etc.), and HME CDL information (e.g., State of issuance and CDL number) and any associated fees to conduct a new STA.  TSA will use the biometric data provided during the applicant’s initial in-person enrollment to continue criminal history vetting.  
+
+HME applicants in TSA-agent States may renew their HME STA online; however, TSA may require applicants who do not meet certain online enrollment criteria to renew in person.  For example, applicants with fingerprint quality issues or revisions to citizenship and identity documents may need to renew in-person.  
+
+TSA may expand online renewals to all HME applicants in TSA-agent States as technology solutions permit.  For example, enhancements to enrollment technology may allow applicants in TSA-agent States to provide quality biometric data post-enrollment via electronic or remote submission.  In the future, TSA may allow applicants to upload their identity documents online.
+
+Customer Survey
+TSA and its enrollment service provider review the customer satisfaction results and enrollment center operations reporting, among other measures, designed to gauge the effectiveness and efficiency of the program on a weekly and monthly basis as part of STA program enrollment service reviews.  The optional customer satisfaction survey offered to those who enroll through TSA-agent States is designed to gauge the experience and customer satisfaction of applicants at enrollment centers.  The survey currently is administered in-person at the conclusion of the enrollment process.  TSA is revising the collection to allow the survey to be administered at the conclusion of the enrollment process via hyperlink sent to the applicant's e-mail address, where available.  The survey will also be sent to those applicants who use the online renewal process, where applicable.  The optional survey is used only in States serviced by TSA’s designated enrollment contractor.  TSA will use the information to determine whether any trends exist regarding customer service at a particular enrollment center or particular application enrollment activity and to take steps to improve service.
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.  [Effective 03/22/01, your response must SPECIFICALLY reference the Government Paperwork Elimination Act (GPEA), which addresses electronic filing and recordkeeping, and what you are doing to adhere to it.  You must explain how you will provide a fully electronic reporting option by October 2003, or an explanation of why this is not practicable.]
+
+All data is collected, stored, scanned, and transmitted electronically in TSA-agent States by TSA’s enrollment contractor with secure, authorized, channeling services.  
+
+Pre-Enrollment and Initial Enrollment
+
+If applicants choose to pre-enroll, an enrollment record is created for them that will be retrieved when they complete the in-person enrollment process.  Trusted Agents (representatives of the HME enrollment service provider, which provides enrollment functions) administer in-person enrollment, which involves the creation of an electronic enrollment record.  Biometrics, including fingerprints, are captured electronically and are part of the enrollment record.  Proof-of-identity and immigration status documents are scanned and stored electronically.  When all data has been collected, the enrollment record is transmitted to TSA’s vetting and credentialing systems for processing and secure storing of information.  Once this transmission occurs, all information is automatically deleted from the enrollment station.  
+
+Online Renewals
+
+For HME online renewals, the enrollment service provider will create an enrollment record with biographic and CDL information provided by the applicant.  When the applicant’s data has been collected, the renewal enrollment record will be transmitted to TSA for storage and case management purposes.  The HME data collection fulfills the requirements of the Government Paperwork Elimination Act.  
+
+Customer Survey
+
+The optional survey is administered at the end of the service (enrollment or renewal) for which the applicant is seeking at the enrollment center.  The survey may be offered at the enrollment location, provided online, or offered via e-mail or web site following enrollment or activation.  The survey is displayed on the computer monitor facing the applicant, and the applicant enters their survey response via a numeric keypad.  For surveys offered via e-mail or website after the enrollment, the survey may be displayed on a desktop, laptop or mobile device.  Providing the survey at the end of service in-person or via email allows the applicant to provide immediate feedback.
+
+Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above.
+
+A key security objective of the HME security threat assessment is to verify an applicant’s claimed identity and to identify whether they pose a transportation or security threat, or of terrorism.  For cases in which an applicant has already received a comparable threat assessment from DHS, including those for a TWIC, or a Free and Secure Trade card holder, the biographic and biometric information is collected in order for the TSA to ensure that applicants do not apply for multiple STAs under the same or a different claimed identity.  In such cases, the previous DHS threat assessment is leveraged and the fee to the applicant is reduced since the full assessment does not have to be performed.
+
+In FY 2018, DHS commissioned a comprehensive security assessment of the TSA TWIC Program, as required by Public Law 114-278.  The assessment included analysis and findings on TWIC’s redundancy or duplication with other transportation credentials.  In a report published by the Homeland Security Operational Analysis Center (HSOAC), a DHS Federally Funded Research and Development Center, researchers did not identify duplicative federal- or state-issued credentials or programs.  HSOAC did not find TWIC as unnecessarily redundant as compared to the HME, or providing a risk-reduction effect similar to TWIC’s without providing additional benefits.  TSA acknowledges that certain redundancies exist between the programs, but has taken appropriate steps to reduce the burden of these redundancies where possible under the governing statutes.  There are some aspects of these programs that TSA cannot eliminate or change, due to statutory requirements.  For example, the HME is part of the licensing process for commercial drivers, which is an inherently State function.  Individuals apply to the state and must successfully complete knowledge-based testing on the transportation of hazardous materials, before receiving an HME.
+
+In recent years, TSA has prioritized projects to eliminate redundancies and allow for interoperability of such credentials, where possible.  For example, given the similarity between the HME and TSA PreCheck STAs, qualifying CDL holders with an active HME STA are eligible for TSA PreCheck at no cost and no additional enrollment.  In addition to maintaining a valid STA, the CDL holder must meet citizenship and immigration requirements for TSA PreCheck, and the CDL holder must have been approved for the HME STA without a waiver.
+
+Section 1978 of the TSA Modernization Act, Pub. L. 115-254 (132 Stat. 3186; Oct. 5, 2018), authorized States to issue an HME on a state-issued CDL to an individual who holds a valid TWIC.  In March 2020, TSA issued a regulatory exemption, Exemption from Certain Security Threat Assessment and Fee Requirements Codified in 49 CFR Part 1572, to relieve states from requiring an additional HME application from individuals, and relieve individuals from having to submit certain information and fees to receive a state issued HME if they hold a valid TWIC.  TSA is supporting States with the implementation of the provision.  A state must verify the validity of the TWIC using methods prescribed by TSA prior to issuing the HME.  The expiration date of any HME issued through this process will not extend past the expiration date of the relevant TWIC.
+
+FBI Rap Back Services for the HME population, as described in question two above, will reduce duplicative biometric collection for eligible individuals enrolling to renew their HME STA.  As stated above, TSA is revising the collection of biometric fingerprints in States serviced by TSA’s enrollment contractor to subscribe HME holders in Rap Back.  The FBI retains applicants’ fingerprints and associated information in NGI after the completion of their application and, while retained, their fingerprints may continue to be compared against other fingerprints submitted to or retained by NGI.  Once an individual is subscribed in Rap Back, TSA will not have to collect new fingerprints from the individual every five years or collect a fee from the individual for the submission of new fingerprints to the FBI.  The implementation of Rap Back recurrent criminal history vetting for HME holders will reduce the enrollment burden and mitigate certain security risks posed by individuals who commit a disqualifying offense after their STA is completed and the HME is issued.
+
+As a DHS component, TSA is a stakeholder and active participant in DHS-wide efforts to enhance identity standards, identity validation & verification and person-centric identity management.  TSA collaborates with the DHS Office of Biometric Identity Management (OBIM) on identity management applications, initiatives, and programs, among other use cases.  OBIM is leading departmental efforts to establish common identity standards and an enterprise strategy to enable a more standardized approach to identity management, including governance, data sharing, and expanded biometrics and identity resolution.  To augment such departmental efforts, TSA is reviewing its STA program identity practices and considering procedures to enhance identity assurance for its populations to ensure consistency in identity validation and verification and increase the maturity level of all programs from an identity assurance level.  TSA is engaged with the National Institute of Standards and Technology and National Information Exchange Model Program Management Office, among others, on biometric and biographic capture, as well as storage and data sharing requirements and practices.
+
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden.
+
+While respondents may be associated with or employed by small businesses, TSA has determined that the collection will not have a significant impact on a substantial number of small businesses because the collection, as well as TSA’s regulations, are directed at respondents individually.
+
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+If this information is not collected, TSA cannot fulfill its statutory mandate.  Without collection of the information, it would be impossible to conduct STAs on individuals who require HMEs on their CDL.  Likewise, if the survey is not conducted, TSA will be unable to measure applicant customer satisfaction and the service provider will be unable to assess and report performance for HME enrollment service reviews.
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+There are no special circumstances requiring the collection of information to be inconsistent with 5 CFR 1320.5(d)(2).  To make the survey more convenient and personal for the enrollees, TSA captures the information immediately from the workers as they are departing the enrollment center or online after they complete their enrollment, renewal or activation.  This allows for an assessment of the entire enrollment and activation process as well minimizes the burden on the individual applicant.
+
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+TSA published a 60-day notice to seek approval of a revised information collection for the Hazardous Material Endorsement Program in the Federal Register on April 8, 2021 (86FR 18293), and a 30-day notice on December 27, 2021 (86 FR 73311).  TSA received no comments.
+
+TSA collaborates with the U.S. Department of Transportation Federal Motor Carrier Safety Administration and solicits input from State Drivers Licensing Agencies and other stakeholders to assess the population for initial enrollments as well as renewals; however, the transient nature of this critical workforce presents a challenges to its estimation.
+
+
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+TSA does not provide any payment or gift to respondents.
+
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+Although there is no assurance of confidentiality to any respondent, TSA handles all records concerning HME applicants in accordance with the Privacy Act of 1974, and maintains the security of the information technology systems that transmit, process, and/or store the personal information in accordance with Federal Information Security Management Act requirements.  TSA published a system of records notice in the Federal Register on May 19, 2010, DHS/TSA-002 Transportation Security Threat Assessment System of Records (75 FR 28046).  In addition, this collection is covered under two Privacy Impact Assessments (PIAs), the DHS/TSA/PIA-002 Hazardous Materials Endorsement (September 16, 2005) and DHS/TSA/PIA-001 Vetting and Credentialing Screening Gateway (January 14, 2005).
+
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+TSA does not ask any questions that relate to sexual behavior or attitudes, religious beliefs, or other private matters.  TSA does require criminal history information on applicants (including whether applicants have been convicted or found not guilty by reason of insanity), as well as whether they ever have been found by a court or other lawful authority as lacking mental capacity or involuntarily committed to a mental institution.  This information is critical to determining whether the applicant poses a potential threat or threat to transportation security, and TSA has long collected this kind of information for transportation security vetting purposes from other populations (for example, TWIC holders, aviation workers with unescorted access to secured areas of airports, and TSA PreCheck travelers).  TSA understands the importance of protecting all applicant information and has robust privacy protections in place.
+
+Provide estimates of hour and cost burden of the collection of information.
+
+Applicants enroll either through: (i) TSA agent states, or (ii) non-TSA agent states.  Those who enroll through TSA-agent states can apply using an online pre-application followed by in-person application, or opt for an entirely in-person application.  TSA does not accept physical or paper applications.  TSA estimates the hour and cost burden to HME applicants and States based on the following programmatic requirements and voluntary collections:
+
+To conduct the STA, both TSA-agent States and non-TSA states must collect information in addition to that already collected for the purpose of HME enrollment.  The driver is required to submit personal biographic information (such as height, weight, eye and hair color, date of birth) fingerprints, and formation concerning immigration status, criminal history (including findings of not-guilty-by reason-of insanity), as well as fingerprints.
+Applicants that enroll through TSA-agent States are also invited to complete an optional survey to gather information on the applicants’ overall customer satisfaction with the service received at the enrollment center.  The optional survey is administered at the end of the in-person enrollment service.
+In addition, 49 CFR part 1572 requires states to maintain a copy of the driver application or enrollment record for a period of one year.
+
+TSA provides estimates of the three-year total and average annual number of respondents, responses, hour and cost burdens due to this information collection.  TSA estimates that the total number of respondents to this information collection process is 743,856 over three years (approximately 247,952 annually).  TSA also estimates that the estimated hour burden is 998,935 hours over the three-year period (or 332,978 hours per year).  The total annual hour burden cost of this information collection is estimated to be $31.15 million for the three-year period (or $10.38 million per year).  See Table 11 below.
+
+A. Applicants for New or Renewal of HME
+
+(1) Number of HME Respondents/Applicants
+
+The average number of individual respondents is determined based on the number of drivers that are required to obtain a STA before applying for a new endorsement or an HME renewal, which occurs about every five years.  Table 1 shows the actual number of individuals applying for a new endorsement or HME renewal each year from 2016 to2019.  TSA uses data from the Enrollment Services and Vetting Programs (ESVP) Office to project future HME populations for the period 2021-2023; TSA calculates a growth rate of 1.0249 percent for TSA-agent state enrollments and a negative growth rate of 3.3968 percent for non-TSA-agent state enrollments.  TSA multiplies the respective growth rates plus one to the preceding year’s population to estimate the following year to project the population over the next three years.
+Table 1: Total HME Enrollments
+Year | TSA Agent State Enrollments | NON-TSA Agent State Enrollments | Total HME Enrollments
+ | A | B | C = A + B
+2016 | 169,584 | 82,993 | 252,577
+2017 | 169,739 | 74,235 | 243,974
+2018 | 175,076 | 75,047 | 250,123
+2019 | 174,794 | 74,498 | 249,292
+Projected Percent Change: | 1.02% | -3.40% |  
+2021 | 176,585  | 71,967  | 248,553 
+2022 | 178,395   | 69,523   | 247,918 
+2023 | 180,223   | 67,161   | 247,385 
+Total (2021-2023) | 535,204  | 208,652  | 743,856 
+Average (2021-2023) |                178,401  |              69,551  |              247,952 
+
+
+(2) Individual Applicants’ Hour Burden During Enrollment
+
+TSA-Agent State.  Applicants who enroll through a TSA-agent state may provide biographic, biometric, and payment information to TSA through any of the methods listed below:
+Online pre-application (or pre-enrollment) before appearing at an enrollment center to complete the process.
+Pre-application with TSA telephone customer service support before appearing at an enrollment center.
+In-person application at an enrollment center without online pre-enrollment to provide biographic data.
+In-person with or without online pre-enrollment at an enrollment center to provide biometric data.
+Post-enrollment mail, e-mail, or fax of valid identity and citizenship or immigration documents.
+Non-TSA-Agent State.  Applicants who enroll through a non-TSA-agent state must submit their applications only in-person.
+
+As state above, biographic data may be provided through pre-enrollment or in-person at the enrollment center.  However, all applicants must visit an enrollment center in person to submit biometric information.  Valid identity and citizenship or immigration data or documents must be provided during pre-enrollment, in-person enrollment, or post-enrollment.  At the end of the in-person enrollment application process, applicants are also given the option to respond to a customer satisfaction survey
+
+The proportion of applicants through each of the above options and the associated time burdens are summarized in Table 2.  These estimates are made based on historical data from the HME program.  Table 2 also includes the time that an applicant may wait on average at an enrollment center before beginning the in-person portion of the application process.  It should be noted that the estimates for wait time at the enrollment facility may vary depending on the location, as TSA operates over 300 enrollment locations to complete in-person enrollment across the United States.  The current national wait time average is 10 minutes.
+
+Table 2: Summary of Percentage of Applicants and Estimated Time Burden for Providing Enrollment Data
+(i) Applicants  Through TSA-Agent States
+Type of Enrollment Data Submission | Estimated % of Applicants | Estimated Time Burden per Applicant
+Online pre-application/pre-enrollment followed by in-person visit to an enrollment center | 44% | 29 minutes total based on: 10 min online pre-application 9 min in person application completion at enrollment center 10 min wait time at enrollment center 86 minutes roundtrip travel time to enrollment center
+In-person at an enrollment center with no pre-enrollment | 56% | 22 minutes total based on: 12 min in person application completion at enrollment center 10 min wait time at enrollment center 86 minutes roundtrip travel time to enrollment center
+Provide Enrollment Feedback via Customer Satisfaction Survey (only in-person applicants) |  50% | 7.5   Minutes
+Conduct on-line renewal of HME (NEW) | 99 % | 19 minutes
+Conduct in-person renewal of HME | 1% | 22 minutes total based on: 12 min in person application completion at enrollment center 10 min wait time at enrollment center 86 minutes roundtrip travel time to enrollment center
+
+(ii) Applicants  Through Non -TSA - Agent  States
+Type of Enrollment Data Submission | Estimated % of Applicants | Estimated Time Burden per Applicant
+In-person at an enrollment center with no pre-enrollment | 100% | 22 minutes total based on: 12 min in person application completion at enrollment center 10 min wait time at enrollment center 86 minutes roundtrip travel time to enrollment center
+
+Using the information in Tables 1 and 2, TSA estimates the hour burden costs for all applicants who enroll through TSA-agent States and non-TSA-agent States.  Table 3 summarizes the enrollment options and hour burden.
+
+Table 3: Summary of Enrollment Methods and Hour Burden
+  | Two Enrollment Methods
+ | Through TSA - Agent  State  | Through Non-TSA - Agent  State
+ | On-line pre-application, then in person | In person application | On-line pre-application, then in person | In person application
+Proportion of applicants | 44% | 56% | 0 | 100%
+Enrollment time burden (hours) | 0.48 | 0.37 | N/A | 0.37
+Roundtrip travel time (hours) | 1.43 | 1.43 | N/A | 1.43
+Participate in customer satisfaction survey | 50 % | 50 % | N/A | N/A
+Survey burden time (hours) | 0.125 | 0.125 | N/A | N/A
+Note: N/A denotes not applicable.
+
+For Enrollments Through TSA-Agent States
+
+Applicants who enroll or renew in a TSA-Agent State consist of three types of respondents: new enrollments, online renewals, and in-person renewals.  TSA estimates 42 percent of applicants will be new enrollments, and 58 percent will be renewals.  All new enrollments must be done in person, with the option of conducting an online pre-enrollment, while renewals may be done online.  TSA estimates 99 percent of the renewals will be done online, while the remaining 1 percent will be done in person.  Table 4 shows the calculations.
+
+
+Table 4: Summary of TSA-Agent State Enrollments and by Method
+  | TSA Agent State New Enrollments & Renewals | New Enrollments (100% In-Person) | TSA-Agent State Renewals | Online Renewals | In-person Renewals
+ | A | B = A  ×  42% | C = A  ×  58% | D = C  ×  99% | E = C  ×  1%
+2021 | 176,585 | 74,166 | 102,420 | 101,395 | 1,024
+2022 | 178,395 | 74,926 | 103,469 | 102,434 | 1,035
+2023 | 180,223 | 75,694 | 104,530 | 103,484 | 1,045
+Total | 535,204 | 224,786 | 310,418 | 307,314 | 3,104
+Average | 178,401 | 74,929 | 103,473 | 102,438 | 1,035
+(a) In-person enrollment applicants with on-line pre-enrollment:
+
+TSA calculates the number of individuals who would choose to enroll on-line under TSA-agent States by multiplying the number of TSA-agent State enrollments in Table 1 by 44 percent (from Table 3).  This calculation is shown in columns (A) and (B) of Table 5(a).
+
+TSA estimates the total hour burden by multiplying the total number of pre-enrollment applicants by the hour burden per applicant, 1.92 hours (0.48 + 1.43).  This calculation is shown in column (D) of Table 5(a).  TSA also estimates the hour burden cost by multiplying the total hour burden obtained by the fully loaded average hourly wage of $31.18 per applicant,4 as shown in column (E) of Table 5(a).
+
+(b) In-person applicants:
+
+TSA calculates the number of individuals who would choose to enroll in-person under TSA-agent States by multiplying the number of TSA-agent State enrollments in Table 1 by 56 percent (see Table 3).  This calculation is shown in column (G) of Table 5(b).
+
+TSA estimates the total hour burden by multiplying the total number of in-person applicants by the hour burden per applicant, 1.80 hours (0.37 + 1.43).  This calculation is shown in column (I) of Table 4(b).  TSA also estimates the hour burden cost by multiplying the total hour burden obtained by the fully loaded average hourly wage of $31.18 per applicant, as shown in column (J) of Table 5(b).
+
+(c) Online renewals:
+
+TSA is revising the collection to reflect the implementation of an online renewal or re-enrollment capability for those applicants.  Active HME holders will be able to renew online before their STA expires; HME holders who have a recently expired STA will be able to re-enroll online.  Approximately 60 percent of active HME holders enroll to renew their HME when it expires every five years.  Online HME renewals will reduce the applicant’s cost and hour burden by avoiding visiting a TSA enrollment center for the renewal of a STA.  TSA estimates the online renewal time burden to be 19 minutes (0.32 hours), and calculates the total time burden by multiplying the as shown in column (N) of Table 5(c).  Also, due to the reduced cost of the online enrollment transaction, the renewal fee for an HME STA will decrease.  TSA estimates 99% of renewals through TSA-Agent States will be done online.  The calculations are summarized in Table 5(c). 
+
+(d) All Applicants Through TSA-Agent States:
+
+TSA calculates the total hour burden by adding the hour burdens for pre-enrollment and in-person applicants shown above.  Similarly, the total hour cost is calculated by adding the hour burden costs for pre-enrollment and in-person applicants shown above.  These calculations are summarized in Table 5(d).
+Table  5 : Applicants' Hour Burden Cost for Enrollment Through TSA Agent States
+Table   5  (a) Pre-Enrollment  and In-person  Applicants (44%)
+Year | Average Annual Respondents | Average Annual Responses | Hour Burden per Response | Annual Hour Burden | Annual Hour Burden Cost
+ | A | B = A × 44% | C | D = B × C | E = D × $31.18
+2021 | 75,190 | 33,084 | 1.92 | 63,410 | $1,977,278
+2022 | 75,961 | 33,423 |  | 64,060 | $1,997,542
+2023 | 76,739 | 33,765 |  | 64,717 | $2,018,014
+Total  | 227,890 | 100,272 |   | 192,187 | $5,992,834
+Average | 75,963 | 33,424 |   | 64,062 | $1,997,611
+Table  5 (b)  No Pre-Enrollment  In [ Person  Enrollment and In-Person    Renewal  Applicants (56%)
+Year | Average Annual Respondents | Average Annual Responses | Hour Burden per Response | Annual Hour Burden | Annual Hour Burden Cost
+ | F | G = F × 56% | H | I = G × H | J = I × $31.18
+2021 | 75,190 | 42,106 | 1.80 | 75,792 | $2,363,355
+2022 | 75,961 | 42,538 |  | 76,568 | $2,387,576
+2023 | 76,739 | 42,974 |  | 77,353 | $2,412,045
+Total  | 227,890 | 127,618 |   | 229,713 | $7,162,977
+Average | 75,963 | 42,539 |   | 76,571 | $2,387,659
+Table  5  (c) Online Renewals ( 99 % of Renewals Through TSA Agent States) 
+Year | Renewals Through TSA Agent States | Average Annual Responses | Hour Burden per Response | Annual Hour Burden | Annual Hour Burden Cost
+ | K | L = K × 99% | M  | N = L × M | O = N × $31.18
+2021 | 102,420  | 101,395  | 0.32  | 32,109  | $1,001,217
+2022 | 103,469  | 102,434  |  | 32,438  | $1,011,478
+2023 | 104,530  | 103,484  |  | 32,770  | $1,021,845
+Total  | 310,418  | 307,314  |   | 97,316  | $3,034,540
+Average  | 103,473  | 102,438  |  | 32,439  | $1,011,513
+
+For Enrollments Through non-TSA-Agent States
+
+All applicants who enroll through non-TSA-agent States (with no pre-enrollment option) can submit their applications only in person.  Hence, the average number of annual responses is equal to the average number of annual respondents, as shown in columns (A) and (B) of Table 6.
+
+TSA estimates the total hour burden by multiplying the total number of in-person applicants in non-TSA-agent States by the hour burden per applicant, 1.80 hours (0.37 + 1.43).  This calculation is shown in column (D) of Table 6.  TSA also estimates the hour burden cost by multiplying the total hour burden obtained by the fully loaded average hourly wage of $31.18 per applicant, as shown in column (E) of Table 6.
+
+Table  6 : Applicants' Hour Burden Cost for Enrollment Through Non-TSA Agent States
+Year | Average Annual Respondents | Average Annual Responses | Hour Burden per Response | Total Annual Hour Burden | Total Annual Hour Burden Cost
+ | A | B = A × 1 | C | D = B × C | E = D × $31.18
+2021 | 71,967  |         71,967  | 1.80 |            129,541  | $4,039,398
+2022 | 69,523  |         69,523  |  |            125,141  | $3,902,188
+2023 | 67,161  |         67,161  |  |            120,890  | $3,769,638
+Total |   | 208,652  |   | 375,573  | $11,711,224
+Average |   | 69,551  |   | 125,191  | $3,903,741
+
+
+Table 7 summarizes the enrollment and renewal costs of this information collection.
+
+Table  7  Summary of Enrollment and Renewal Costs to Applicants
+Enrollment Type | Responses | Hour Burden | Hour Burden Cost
+ | 3 Years | Annual | 3 Years | Annual | 3 Years | Annual
+TSA Agent State with Pre-Enrollment | 100,272  | 33,424  | 192,187  | 64,062  | $5,992,834 | $1,997,611
+TSA Agent State In-Person | 127,618  | 42,539  | 229,713  | 76,571  | $7,162,977 | $2,387,659
+TSA Agent State Online Renewals  | 307,314  | 102,438  | 97,316  | 32,439  | $3,034,540 | $1,011,513
+Non-TSA Agent State | 208,652  | 69,551  | 375,573  | 125,191  | $11,711,224 | $3,903,741
+Total | 743,856 | 247,952 | 894,789 | 298,263 | $27,901,575 | $9,300,525
+
+
+(3) Optional Customer Satisfaction Survey Participants
+
+After completing enrollment at the enrollment center, applicants are provided the option to respond to a customer satisfaction survey.  The survey currently is administered in-person at the conclusion of the enrollment process.  TSA is revising the collection to allow the survey to be administered at the conclusion of the enrollment process via hyperlink sent to the applicant's e-mail address, where available.  The survey will also be sent to those applicants who use the online renewal process.  TSA estimates approximately 50 percent of applicants will choose to respond to the survey questions.  TSA estimates that the survey takes an average of 7.5 minutes (0.125 hours) to complete.  The number of survey participants is determined by adding the number of applicants enrolling through TSA-agent States and multiplying the total by 24 percent (no customer satisfaction surveys are offered for non-TSA-agent State enrollments, as surveys are a feature of the TSA-agent enrollment center software).  TSA estimates the customer satisfaction survey hour burden cost by multiplying the total hour burden by the fully loaded average hourly wage rate of $31.18 per survey participant.  Table 8 presents this calculation.
+
+
+Table  8 : Summary of Survey Participants' Hour Burden Cost
+Year | TSA Agent State Applicants | Customer Survey Participants | Hours to Complete Survey per Applicant | Total Annual Hour Burden | Total Annual Hour Burden Cost
+ | A | B = A × 50 % | C | D = B × C | E = D × $31.18
+2021 | 176,585  |         88,293  | 0.125 |             11,037  | $344,146
+2022 | 178,395  |         89,198  |  |             11,150  | $347,673
+2023 | 180,223  |         90,112  |  |             11,264  | $351,236
+Total | 535,204  | 267,602  |   | 33,450  | $1,043,055
+Average | 178,401  | 89,201  |   | 11,150  | $347,685
+
+ (4) Summary of Applicants for New or Renewal of HME
+
+TSA estimates the total hour burden cost for all HME Threat Assessment Program applicants by adding the total hour burden and the associated costs.  Table 9 shows the detailed calculation of all applicants’ total hour burden cost for new and renewal of HME and customer survey.
+
+Table  9 : Summary of HME Threat Assessment Program Applicants' Hour  Cost Burden
+Year | Total HME Enrollments | TSA Agent State Enrollments | Non-TSA Agent State Enrollments | Customer Survey Participants | Grand Total
+ |  | Total Annual Hour Burden | Total Annual Hour Burden Cost | Total Annual Hour Burden | Total Annual Hour Burden Cost | Total Annual Hour Burden | Total Annual Hour Burden Cost | Annual Hour Burden | Annual Hour Burden Cost
+ | A | B | C | D | E | F | G | H = B + D + F | I = C + E + G
+2021 | 248,553 | 171,310  | $5,341,850 | 129,541 | $4,039,398 | 11,037 | $344,146 | 311,888 | $9,725,395
+2022 | 247,918 | 173,066  | $5,396,597 | 125,141 | $3,902,188 | 11,150 | $347,673 | 309,357 | $9,646,457
+2023 | 247,385 | 174,840  | $5,451,904 | 120,890 | $3,769,638 | 11,264 | $351,236 | 306,994 | $9,572,778
+Total | 743,856 | 519,216 | $16,190,351 | 375,573 | $11,711,224 | 33,450 | $1,043,055 | 928,239 | $28,944,630
+Average | 247,952 | 173,072 | $5,396,784 | 125,191 | $3,903,741 | 11,150 | $347,685 | 309,413 | $9,648,210
+    |  |  | 
+
+B. Applicants for Appeal and Waiver
+
+After individuals provide biographic and biometric information and payment to TSA, TSA conducts a STA to determine the applicant’s eligibility for the HME Threat Assessment Program.  Applicants who were initially deemed ineligible have an opportunity to correct cases of misidentification or inaccurate criminal or immigration records.
+
+Based on historical data, approximately 2.2 percent of HME applicants are deemed initially ineligible.  TSA will send a letter, a Preliminary Determination of Ineligibility, to the applicant with information regarding their potential disqualification along with instructions for applying for an appeal or waiver.  Of this 2.2 percent, approximately 72 percent of them contact TSA in writing and request a correction of record before TSA makes a final determination.
+
+Individuals who contact TSA to request an appeal or waiver may need to perform certain steps depending on the information contained in his or her application or the results of the vetting performed by TSA.  For instance, individuals will need to respond to TSA’s letter or send correspondence to TSA explaining their request, and they also may need to collect information about their conviction from their local jurisdiction for criminal history-related disqualifying factors.  In other cases, applicants may need to only provide additional citizenship or eligible immigration-related documentation.  TSA estimates the average time individuals require to gather relevant documentation and request a correction of record as 6 hours.  TSA does not have full information on the time individuals spend to request corrections for existing TSA security threat assessment programs.  As a result, TSA extrapolated data based on customer service inquiries and TSA support provided to applicants who have had questions or request assistance/guidance for submitting requests to TSA.  The times will vary depending on each individual’s specific circumstances.  For example, some individuals may only need to respond to an inquiry for valid citizenship/immigration eligibility, while others may need to request additional documents from multiple jurisdictions and entities if there are multiple items (such as criminal history events) to address and the individual does not have historical records on hand.  Table 10 shows the detailed calculation of the total hour burden cost for appeal and waiver applicants.
+Table  10 : Summary of Appeal/Waiver Applicant's Hour Burden Cost
+Year | Total HME  Enrollments | Percent Deemed Initially Ineligible | Percent Requesting Correction of the Record | Total Applicants Requesting  Appeal or Waiver | Hour Burden  | Total Annual Hour Burden | Total Annual Hour Burden Cost
+  | A | B | C | D = A × B × C | E | F = D × E | G = F × $31.18
+2021 | 248,553 | 2.2% | 72% | 3,937 | 6 | 23,622 | $736,603
+2022 | 247,918 |  |  | 3,927 |  | 23,562 | $734,721
+2023 | 247,385 |  |  | 3,919 |  | 23,511 | $733,141
+Total | 743,856 |   |   | 11,783 |   | 70,696 | $2,204,464
+Average | 247,952 |   |   | 3,928 |   | 23,565 | $734,821
+  |  
+C. Total Hour Burden and Cost
+
+Table 11 shows the detailed calculation of the total hour burden costs. 
+Table  11 : Summary of  Time  Burden Cost
+Year | Total Enrollment/ Renewal Time Burden | Survey Time Burden | Appeals Time Burden | Total Time Burden (Hours) | Total Hour Cost Burden
+ | A | B | C | D = A + B + C | E = D  × $31.18
+2021 | 300,852 | 11,037 | 23,622 | 335,511 | $10,461,997
+2022 | 298,207 | 11,150 | 23,562 | 332,919 | $10,381,178
+2023 | 295,730 | 11,264 | 23,511 | 330,505 | $10,305,919
+Total  | 894,789 | 33,450 | 70,696 | 998,935 | $31,149,094
+Average  | 298,263 | 11,150 | 23,565 | 332,978 | $10,383,031
+
+
+ Provide an estimate of annualized capital and start-up costs.
+Applicants who enroll or renew their HME through TSA’s current program are required to pay a non-refundable fee when enrolling.  The assessed fee varies depending on whether or not an individual enrolls through a TSA-agent State or a non-TSA-Agent State and whether or not the individual the individual pays a reduced fee due to having been previously vetted by the U.S. Department of Homeland Security (see Question 4, supra).  The HME fee contains three segments: an Enrollment Segment paid to the TSA Contractor or State government, a STA Segment and an FBI Segment.  When individuals have been previously vetted, the FBI Segment is not collected as TSA merely collects biometric data to confirm the vetted individual’s identity. 
+
+New HME enrollees are charged a standard fee of $86.50, and a renewal fee of $67.50 in a TSA Agent State.  TSA estimates on average, HME enrollees and renewals are charged a fee of $91.86 in non-TSA Agent States.  TSA calculates the cost of the fee by multiplying the number of HME enrollments in TSA Agent and non-TSA Agent States by their respective enrollment fee.  TSA calculates fees from TSA Agent States to be $19.44 million (enrollment) + $20.80 (renewal) million =$40.24 million over three years ($13.47 million annually), fees from non-TSA Agent States to be $19.17 million over three years ($6.39 million annually) for a total of $59.41 million over three years ($19.80 million annually). Table 12 summarizes these calculations.
+
+
+Table  12 : HME Enrollment Fees (in $millions) | 
+Year | TSA Agent States | Non-TSA Agent States | Totals
+ | Enroll - ments | Enroll - ment Fee | HME Fees  | Renewals | Online Renewal Fee | Online Renewal Fees | Enroll - ments & Renewals | Enroll - ment / Renewal  Fee | HME Fees  | Total Enroll - ments | Total HME Enroll - ment Fees 
+ | A | B | C = (A × B)/ 1,000,000 | D | E | F = (D × E)/ 1,000,000 | G | H | I = (G × H)/ 1,000,000 | J = A + D + G | K  = C + F + I
+2021 | 74,166 | $86.50 | $6.42 | 102,420 | $67.00 | $6.86 | 71,967 | $91.86  | $6.61  | 248,553  | $19.89 
+2022 | 74,926 |  | $6.48 | 103,469 |  | $6.93 | 69,523 |  | $6.39  | 247,918  | $19.80 
+2023 | 75,694 |  | $6.55 | 104,530 |  | $7.00 | 67,161 |  | $6.17  | 247,385  | $19.72 
+Total | 224,786 |   | $19.44 | 310,418 |   | $20.80 | 208,652 |   | $19.17 | 743,856  | $59.41
+Average | 74,929 |   | $6.48 | 103,473 |   | $6.93 | 69,551 |   | $6.39 | 247,952  | $19.80
+Note: Calculations may not be exact due to rounding in the table.
+
+For individuals who choose to request a Correction of Record after TSA notifies them of preliminary determination of ineligibility, TSA estimates the cost to be $1.00 per applicant request.  This includes costs for mailing a request to TSA and the potential average costs for printing, photocopying, or requesting additional supporting documentation if necessary.  As mentioned in Question 12, TSA does not have full visibility to the cost individuals will incur to request corrections for existing TSA STA programs.  TSA extrapolated data based on customer service inquiries and TSA support provided to applicants who have had questions or who requested assistance/guidance for submitting requests to TSA.  As a result, the costs will vary since some individuals may need to request additional documents from multiple jurisdictions and entities if there are multiple items to address (such as criminal history events) and the individual does not have historical records on hand.  TSA estimates the fee cost associated with a correction of the record by multiplying the number of requests for a correction of the record (Table 10) by the $1.00 fee per applicant.  TSA estimates fees for appeal and waiver to be $11,783 over three years ($3,928 annually).  Table 13 summarizes this calculation. 
+
+Table  13 :  Fees for Appeal and Waiver
+Year | Appeals | Fee | Annual Fees Paid
+ | A | B | C = A × B
+2021 |                   3,937  | $1.00 | $3,937
+2022 |                   3,927  |  | $3,927
+2023 |                   3,919  |  | $3,919
+Total  |                 11,783  |   | $11,783
+Average |                   3,928  |   | $3,928
+
+TSA calculates a total fee cost for this collection by summing the HME enrollment fees and the fees for appeal and waiver.  TSA estimates the total fees to be $59.42 million over three years ($19.81 million annually).  Table 14 summarizes this calculation.
+
+Table  14 : Total Fees
+Year | Enrollment and Renewal Fee | Appeal and Waiver Fee | Total Fees
+ | A | B | C = A + B
+2021 | $19,888,385  | $3,937 | $19,892,322 
+2022 | $19,799,899  | $3,927 | $19,803,826 
+2023 | $19,720,436  | $3,919 | $19,724,355 
+Total  | $59,408,720  | $11,783 | $59,420,503 
+Average | $19,802,907  | $3,928 | $19,806,834 
+Note: Calculations may not be exact due to rounding in the table.
+
+Provide estimates of annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information.
+
+TSA charges a user fee, which covers TSA threat assessment and other operational costs associated with the program.  See Section 13 on fee structure and costs.
+
+Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+Pursuant to “Defending Women From Gender Ideology Extremism And Restoring Biological Truth To The Federal Government,” Executive Order 14168, TSA has updated the online website to replace the term “gender” with the term “sex” and to remove the third option, showing only the options “male” and “female.”  
+
+For collections of information whose results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+TSA will not publish the results of this collection.
+
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+TSA is not seeking such approval.
+
+Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+TSA is not seeking any exceptions to the certification statement.
+PART word/footnotes.xml
+
+
+
+ Williams, Heather J., Kristin Van Abel, David Metz, James V. Marrone, Edward W. Chan, Katherine Costello, Ryan Bauer, Devon Hill, Simon Veronneau, Joseph C. Chang, Ian Mitch, Joshua Lawrence Traub, Sarah Soliman, Zachary Haldeman, Kelly Klima, and Douglas C. Ligor, The Risk-Mitigation Value of the Transportation Worker Identification Credential: A Comprehensive Security Assessment of the TWIC Program.  Homeland Security Operational Analysis Center operated by the RAND Corporation, 2020. https://www.rand.org/pubs/research_reports/RR3096.html.  Also available in print form.
+ TSA Modernization Act, Division K – Title I of the FAA Reauthorization Act, Pub. L. 115-254, 132 Stat. 3186 (Oct. 5, 2018).
+ Transportation Security Administration. (2020). Exemption from Certain Security Threat Assessment and Fee Requirements Codified in 49 CFR Part 1572. https://www.tsa.gov/sites/default/files/tsa-191230-3_4.1attachment_for_1978_exemption.pdf
+ Estimates based on data provided by TSA ESVP Office and applicable growth rate.
+ NOTE: In all tables, totals may not add due to rounding of values displayed in the tables.
+ The growth rate is calculated by taking the average of the annual growth rates for TSA Agent State and Non-TSA Agent State enrollments from 2017-2019.  2020 data was available but not used because of a significant decrease in the number of enrollments due to the coronavirus pandemic.  The growth rate for TSA Agent State enrollments from 2016-2017 was 0.0914% = (169,739/169,584) -1, 2017 to 2018 was 3.1442% = (175,076/169,739) -1, and from 2018 to 2019 was -0.1611% =174,794/175,076) -1.  This results in an overall average of 1.02% = (0.00914% + 3.1442% -0.1611%) / 3.  The growth rate for Non-TSA Agent State enrollments from 2016 to 2017 was -10.5527% = (74,235/82,993) -1, 2017 to 2018 was 1.0938% = (75,047-74,235) -1, and 2018 to 2019 was -0.73% = (74,498-75,047) -1.  This results in an overall average of -3.39681% = (-10.6% + 1.1% - 0.73%) /3.
+4 To get a fully-loaded (wages and salaries plus benefits) wage rate, TSA first calculates an unloaded (wages and salaries only) rate based on wages in six NAICS industries (Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing (NAICS 325300), Chemical Manufacturing (NAICS 325000), Petroleum and Coal Products Manufacturing (NAICS 324000), Support Activities for Agriculture and Forestry (NAICS 115000), Chemical and Allied Products Merchant Wholesalers (NAICS  424600), and Petroleum and Petroleum Products Merchant Wholesalers (NAICS  424700).  Each NAICS industry wage is a weighted average (by employment) of two occupations (Heavy and Tractor-Trailer Truck Drivers, OCC 53-3032 and Light Truck or Delivery Services Drivers, OCC 53-3033).  BLS. Last Modified March 31, 2021.  Accessed 4/8/2021.   https://www.bls.gov/oes/2020/may/oes_stru.htm.  TSA calculates an unloaded wage rate of $20.91.
+
+Next, TSA calculates a compensation factor to inflate the hourly wage to account for non-compensation component costs of employee compensation (such as retirement and health benefits).  The compensation factor is calculated by dividing the full compensation ($30.25) for private sector transportation and material moving workers by the wage and salary component ($20.28) of their compensation.  TSA calculates a compensation factor of 1.49162 = $30.25÷ $20.28.  BLS. Employer Costs for Employee Compensation, December 2020. Table 4.  Employer Costs per hour worked for employee compensation and costs as a percent of total compensation: private industry workers, by major occupational group.  Transportation and material moving.  Released 3/17/2021. Accessed 4/82021. https://www.bls.gov/news.release/archives/ecec_03182021.htm. 
+
+TSA determines a fully-loaded wage rate of $31.18 = $20.91 × 1.49162

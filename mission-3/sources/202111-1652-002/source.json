@@ -1,0 +1,32 @@
+{
+  "ref": "202111-1652-002",
+  "retrieved_at": "2026-09-09T17:24:59.196893+00:00",
+  "documents": [
+    {
+      "id": "e844216bd19388f7",
+      "title": "1652-0021 FltTrngSec SS 3.24.2023.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=116226202",
+      "path": "mission-3/sources/202111-1652-002/e844216bd19388f7.txt",
+      "sha256_raw": "8613636217e300ec24ed36658ea35262a1770300e80dd3c3927c37afd7ad2ba5",
+      "sha256_text": "5a9eed657903dba6ad8ca85aea16aa98c23aed457c40d0637e7ef798879aa841",
+      "format": ".docx",
+      "chars": 21363,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202111-1652-002",
+    "path": "mission-3/sources/202111-1652-002/record.txt",
+    "sha256_raw": "0e42519cb8c108a5c1ccf2d81a4e4e95d002505b8804b672a3dca24b425f9a95",
+    "sha256_text": "9185bd1099b6ca59b6dbeb54d85d87ab7e9feeba20bd94b77e8f7f689d8bb2fa"
+  },
+  "previous_ref": "201812-1652-003",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202111-1652-002",
+    "path": "mission-3/sources/202111-1652-002/document_index.txt",
+    "sha256_raw": "875a574dfc1513d93d7ad8cf629894da44f1c9b21102f6b7b975d4810c9a75b0",
+    "sha256_text": "da5ec85ea481d6f79b44ae1f25fbf8591ff2b6d681e7dbaf87c363886b53cf3d"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ref": "202502-1652-005",
+  "retrieved_at": "2026-09-09T17:25:21.527750+00:00",
+  "documents": [
+    {
+      "id": "f0d95b1c8890ec97",
+      "title": "1652-0027 STA HME SS Pt.A_83c.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=152812301",
+      "path": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt",
+      "sha256_raw": "54715216618b3c635d568308965118929f52e02bb56c3d59bb85b4167ec100de",
+      "sha256_text": "1f20cc1131aeb5f99444165d0b41a4692140135c65cf534ab150f3896b268992",
+      "format": ".docx",
+      "chars": 59212,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202502-1652-005",
+    "path": "mission-3/sources/202502-1652-005/record.txt",
+    "sha256_raw": "29ff7f438f42c163c4a6eec5440d509a1016c9e3c5454f5f8d7e995857669939",
+    "sha256_text": "c60dd119af3749c09759d7a223ab8c64eb9c4a7529a1d5fb91e9b331717e77df"
+  },
+  "previous_ref": "202112-1652-003",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202502-1652-005",
+    "path": "mission-3/sources/202502-1652-005/document_index.txt",
+    "sha256_raw": "c4c1dcb1a5c37b41ebea594762012c836f4f76db6793ee8d0a19e1b74690a02a",
+    "sha256_text": "fa5a1d1142a36c3ac7ffa3335613d766f52fbe88f23644678ccc8827b0e757f7"
+  }
+}

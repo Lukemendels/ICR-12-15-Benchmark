@@ -8,7 +8,7 @@ def fetch(ref):
  if (d/'source.json').exists():return json.load(open(d/'source.json'))
  m={'ref':ref,'retrieved_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'documents':[]}
  try:
-  for kind,route in [('record','PRAViewICR'),('documents','PRAViewDocument')]:
+  for kind,route in [('record','PRAViewICR'),('document_index','PRAViewDocument')]:
    url='https://www.reginfo.gov/public/do/'+route+'?ref_nbr='+ref;b=get(url);(CACHE/(ref+'-'+kind+'.html')).write_bytes(b);txt=clean(b.decode());p=d/(kind+'.txt');p.write_text(txt)
    m[kind]={'url':url,'path':str(p.relative_to(ROOT)),'sha256_raw':hashlib.sha256(b).hexdigest(),'sha256_text':hashlib.sha256(p.read_bytes()).hexdigest()}
    if kind=='record':

@@ -1,0 +1,32 @@
+{
+  "ref": "202606-1652-005",
+  "retrieved_at": "2026-09-09T17:24:33.743348+00:00",
+  "documents": [
+    {
+      "id": "2dca2d1c1e3d7f57",
+      "title": "1652-NEW InsiderThreatIncRept SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=170945900",
+      "path": "mission-3/sources/202606-1652-005/2dca2d1c1e3d7f57.txt",
+      "sha256_raw": "46d42bb4c83a883453c40e647a34cb5ae3e02688afd5308dee058e311ba231eb",
+      "sha256_text": "578d5f3aba86e0a624830d40587015e1bae7a3b73d375aaaddd70df4eab49a4a",
+      "format": ".docx",
+      "chars": 14156,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202606-1652-005",
+    "path": "mission-3/sources/202606-1652-005/record.txt",
+    "sha256_raw": "41cab0dbd9014947d076453885c718846d06139f455bbadf4ec174f65f5e8e43",
+    "sha256_text": "84588787566d6da0748925e8948b1bf96f7f8e56c6d9f049d84fb5179ff54a5f"
+  },
+  "previous_ref": null,
+  "status": "Received in OIRA",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202606-1652-005",
+    "path": "mission-3/sources/202606-1652-005/document_index.txt",
+    "sha256_raw": "c32f37cf90ab977c0baaada42cca0e89d98f2effeea798c68207516a082b3ff8",
+    "sha256_text": "4e6d92a2b55ba0a41fdeafeb0f8aaeddf96335f4acc148fa3e0ecef1ab4d91cd"
+  }
+}

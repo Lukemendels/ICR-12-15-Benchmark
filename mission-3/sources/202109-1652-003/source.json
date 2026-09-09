@@ -1,0 +1,32 @@
+{
+  "ref": "202109-1652-003",
+  "retrieved_at": "2026-09-09T17:24:58.718953+00:00",
+  "documents": [
+    {
+      "id": "ba61cceb94627ea0",
+      "title": "1652-0005 SP FACs SS__9.30.2021.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=115337001",
+      "path": "mission-3/sources/202109-1652-003/ba61cceb94627ea0.txt",
+      "sha256_raw": "3b47938c63013486bfb31cef2ae280217ee1a29c68bedf168a8f3706aeff451a",
+      "sha256_text": "7ed846ff47219e507c4d3d6bfeb3cc45c7d8632d73cfdb10b5cec111094aa637",
+      "format": ".docx",
+      "chars": 32474,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202109-1652-003",
+    "path": "mission-3/sources/202109-1652-003/record.txt",
+    "sha256_raw": "f3d5dc388ebe8b250a2178239ce1e8e84866be17df9a2400712891da2c2d1ae8",
+    "sha256_text": "e0bf650293d9954e5fbd3f390fc1a3553ff2ba559a93732e4fe11eed885196b1"
+  },
+  "previous_ref": "201811-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202109-1652-003",
+    "path": "mission-3/sources/202109-1652-003/document_index.txt",
+    "sha256_raw": "b5a6f6b7bd0c0395485dab4f5f51b4c8402b180acb5c71f108cf72ba4d67e689",
+    "sha256_text": "882bee14ce6bcb92d2e4f21f1948bf7473f9f7abbdf192354a69feedc99cfd1d"
+  }
+}

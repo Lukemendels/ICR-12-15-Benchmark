@@ -1,0 +1,32 @@
+{
+  "ref": "202412-1652-001",
+  "retrieved_at": "2026-09-09T17:24:33.747719+00:00",
+  "documents": [
+    {
+      "id": "a5016d2bfc99e07f",
+      "title": "1652-0002 AirportSecPt 1542 SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150317001",
+      "path": "mission-3/sources/202412-1652-001/a5016d2bfc99e07f.txt",
+      "sha256_raw": "b73239d4e13aa6d611ab5a042fb51c32dc5e2f101629c7815bae66ea1a44bd20",
+      "sha256_text": "48f194e13911246320ed62a6bac28f486809ff1c53726af0a746e7ab6500e219",
+      "format": ".docx",
+      "chars": 43870,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202412-1652-001",
+    "path": "mission-3/sources/202412-1652-001/record.txt",
+    "sha256_raw": "3804d0078409b9f7b8c2b7edf84d3f2132763d2c829cdeabbde68a2b38b3e562",
+    "sha256_text": "e53aac76c107991e3ee2af229b091c057d597b640dfa702ab56b3491fa89d05e"
+  },
+  "previous_ref": "202106-1652-002",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202412-1652-001",
+    "path": "mission-3/sources/202412-1652-001/document_index.txt",
+    "sha256_raw": "62900d52010ed9d4315394cf9e066991b2d1028d08e83204bd4f560b877db15f",
+    "sha256_text": "7b86452c6acc005427ef66df438c80b99cc9d169f72d70eb271de5184d9664ce"
+  }
+}

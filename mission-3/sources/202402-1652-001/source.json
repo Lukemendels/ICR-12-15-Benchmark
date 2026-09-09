@@ -1,0 +1,32 @@
+{
+  "ref": "202402-1652-001",
+  "retrieved_at": "2026-09-09T17:25:00.817825+00:00",
+  "documents": [
+    {
+      "id": "063a47f93f61f15f",
+      "title": "1652-0021 Supporting Statement A.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=142334801",
+      "path": "mission-3/sources/202402-1652-001/063a47f93f61f15f.txt",
+      "sha256_raw": "d8bb27f5a93648f417bc26945d72b9f2b38a20b87d6dc46a1a13b69ed59e3c75",
+      "sha256_text": "2b5e8a0e9a4a29504576b15a12996bdac5f86b7e888bfc97df26dbedb46fca9e",
+      "format": ".docx",
+      "chars": 21822,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202402-1652-001",
+    "path": "mission-3/sources/202402-1652-001/record.txt",
+    "sha256_raw": "08675e941ac4323e66711ba53cd722e404418fcc95f8191e8af027346b6d6e90",
+    "sha256_text": "c99cd7eab15592cedf9967db61d2041a7d9528a107289ad31e8944838ace3a5b"
+  },
+  "previous_ref": "202111-1652-002",
+  "status": "Historical Inactive",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202402-1652-001",
+    "path": "mission-3/sources/202402-1652-001/document_index.txt",
+    "sha256_raw": "83cc10a4e2763a924c5baa7c7c7dd1327552e74a36e71fac47adb7974f73fc11",
+    "sha256_text": "4455a10f1980ecea6c2e0b30cf07296f58c77af887d3db98bbf4a0599e65d852"
+  }
+}
