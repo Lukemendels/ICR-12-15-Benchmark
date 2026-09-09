@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202411-1218-005",
+  "retrieved_at": "2026-09-09T10:11:26.933206+00:00",
+  "documents": [
+    {
+      "title": "SS_1218-0265_Variances Regulations_01-10-2025_ROCIS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=149678901",
+      "path": "icrs/202411-1218-005/raw/supporting-statement-a-1.docx",
+      "sha256": "05c7789a4cfaf7371c79b6ed87b90a413e71822077075053d8bdbc315bb2311f",
+      "text_chars": 42547
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1218-005",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202411-1218-005"
+}

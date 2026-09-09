@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202606-1652-001",
+  "retrieved_at": "2026-09-09T10:11:26.931356+00:00",
+  "documents": [
+    {
+      "title": "1652-0074 Cyber MeasSurfModes SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=169398300",
+      "path": "icrs/202606-1652-001/raw/supporting-statement-a-1.docx",
+      "sha256": "afefde1fa6a40a646aea32defd33504a02aa4bedfd3ca599dc71a5813f942063",
+      "text_chars": 62048
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202606-1652-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202606-1652-001"
+}

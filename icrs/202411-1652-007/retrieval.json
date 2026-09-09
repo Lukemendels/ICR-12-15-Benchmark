@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202411-1652-007",
+  "retrieved_at": "2026-09-09T10:11:26.934912+00:00",
+  "documents": [
+    {
+      "title": "1652-0039 TSAClaimsApp SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=149920301",
+      "path": "icrs/202411-1652-007/raw/supporting-statement-a-1.docx",
+      "sha256": "dbffc85041670a8e6627dd04f27a9d6b878989274a51f35eb0d922fddec39c55",
+      "text_chars": 19185
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1652-007",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202411-1652-007"
+}

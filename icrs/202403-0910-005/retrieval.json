@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202403-0910-005",
+  "retrieved_at": "2026-09-09T10:11:49.198827+00:00",
+  "documents": [
+    {
+      "title": "0910-0879_SSA_03-26-25.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=140533802",
+      "path": "icrs/202403-0910-005/raw/supporting-statement-a-1.docx",
+      "sha256": "843206be92d82a8e5b028c2d692b12e6a321c8501fa327abb35373e37c8b1a90",
+      "text_chars": 41243
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202403-0910-005",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202403-0910-005"
+}

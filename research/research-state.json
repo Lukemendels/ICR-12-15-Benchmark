@@ -1,0 +1,20 @@
+{
+  "mission_status": "IN_PROGRESS",
+  "current_iteration": 0,
+  "icrs_reviewed": 0,
+  "agencies_components_reviewed": [],
+  "rubric_version": "1.0.0",
+  "canonical_model_version": "0.1.0",
+  "current_leaders": {},
+  "current_tsa_benchmark": null,
+  "open_methodological_questions": [
+    "See research/open-questions.md"
+  ],
+  "unresolved_evidence_gaps": [
+    "Governing instructions verification in progress",
+    "Seed model extraction and scoring incomplete"
+  ],
+  "saturation_streak": 0,
+  "next_research_strategy": "Complete authoritative instructions and diverse seed extraction, then select falsifying comparators",
+  "updated_at": "2026-09-09T10:13:21.523158+00:00"
+}

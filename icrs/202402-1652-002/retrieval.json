@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202402-1652-002",
+  "retrieved_at": "2026-09-09T10:11:26.930170+00:00",
+  "documents": [
+    {
+      "title": "1652-0040 AirCargoSecReqs SS_03272024.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=140125201",
+      "path": "icrs/202402-1652-002/raw/supporting-statement-a-1.docx",
+      "sha256": "761220f1f26de15449538567cf605d1b9f99eaf5f16e75c4f2f11f4762ab63ae",
+      "text_chars": 31620
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202402-1652-002",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202402-1652-002"
+}

@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202409-3235-022",
+  "retrieved_at": "2026-09-09T10:13:40.073723+00:00",
+  "documents": [
+    {
+      "title": "Supporting Statement Form ADV-E (2024).pdf",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=146738601",
+      "path": "icrs/202409-3235-022/raw/supporting-statement-a-1.pdf",
+      "sha256": "733d3fa33d822a730b24b814e47b55cb65eabd6314de698fd623e6dc73bf9b4b",
+      "text_chars": 11304
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202409-3235-022",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202409-3235-022"
+}

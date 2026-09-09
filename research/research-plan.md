@@ -1,0 +1,6 @@
+# Research plan
+Test the TSA hypothesis through purposive, information-gain sampling over 2023-09-09 through 2026-09-09. Primary inclusion date is OIRA receipt/submission; record document upload and approval separately. An earlier submission with within-window substantive revised supporting statement may be included only with explicit explanation. Approval dates alone do not prove recent analytical work.
+Iteration 0: establish authoritative requirements, preserve the provisional rubric and initialize state.
+Iteration 1: diverse seed including three TSA collections (air cargo, current surface cybersecurity, claims), OSHA variances, EPA construction discharge permit, FDA premarket tobacco, FMCSA safety, BLS injuries, SEC custody accounting and SSA disability appeal.
+Further iterations respond to findings. Seek complex nonzero capital, wage loading alternatives, statistical validation, federal workload and prior-to-new change bridges. Expand TSA across size, complexity and dates. Target CFPB, Census, FCC and other DHS components as challengers.
+At >=40 reviews assess, but do not presume, saturation. Continue strategic batches, then challenge and validate. No statistical generalization from purposive means. Report component n, median/range and archetype caveats when n supports comparison.

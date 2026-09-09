@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202410-0960-002",
+  "retrieved_at": "2026-09-09T10:13:40.074271+00:00",
+  "documents": [
+    {
+      "title": "Supporting Statement 0960-0144.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=147207301",
+      "path": "icrs/202410-0960-002/raw/supporting-statement-a-1.docx",
+      "sha256": "7e4ed349ae846f61548ecd595f7d1779ff59829edba7a76415c404ec3aeca195",
+      "text_chars": 17009
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202410-0960-002",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202410-0960-002"
+}

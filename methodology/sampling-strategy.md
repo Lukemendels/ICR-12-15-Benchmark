@@ -1,0 +1,4 @@
+# Sampling strategy
+Purposive discovery sample, not a random federal survey. Use collection family (OMB control number) for independent counts and retain ICR reference/version for reproducibility. Avoid inflating sample with non-substantive versions of the same family. Separate approved, proposed and pending cases.
+Record archetype, complexity, regulated private sector relevance, positive Item 13, scope/recordkeeping activity and evidence accessibility. Compare matched archetypes before interpreting component averages. Seek both exceptionally strong and ordinary TSA cases. A third-quarter 2026 submission is only potentially post-overhaul; process attribution needs corroboration.
+First seed selection is documented in research/research-plan.md. Subsequent target rationales must respond to observed gaps, not retrieval convenience.

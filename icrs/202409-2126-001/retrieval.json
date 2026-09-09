@@ -1,0 +1,15 @@
+{
+  "icr_ref": "202409-2126-001",
+  "retrieved_at": "2026-09-09T10:11:49.866313+00:00",
+  "documents": [
+    {
+      "title": "[CLEAN] Supporting Statement Part A_Online Survey on Safety Belt Usage of Commercial Motor Vehicle Drivers 09.11.24.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=146635801",
+      "path": "icrs/202409-2126-001/raw/supporting-statement-a-1.docx",
+      "sha256": "cc8df39166603baa946237ba3d6de797181893a125cf7d04753999ee42681120",
+      "text_chars": 11012
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202409-2126-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202409-2126-001"
+}
