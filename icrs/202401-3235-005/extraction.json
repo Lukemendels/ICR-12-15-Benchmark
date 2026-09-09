@@ -1,0 +1,251 @@
+{
+  "icr_id": "202401-3235-005",
+  "omb_control_number": "3235-0679",
+  "agency": "SEC",
+  "title": "Form PF and Rule 204(b)-1",
+  "submission_date": "01/11/2024",
+  "archetype": "private fund reporting and systems implementation",
+  "complexity": "very high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 5,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0108",
+    "SRC-0107"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 14,
+    "provenance": 9,
+    "segmentation": 15,
+    "labor": 4,
+    "item13": 6,
+    "item14": 2,
+    "item15": 7,
+    "validation": 3,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "Extensive task/respondent tables and formulas; initial cohorts and inconsistent counts complicate independent totals.",
+    "provenance": "Private Fund Statistics vintage and historical entry rates disclosed; SIFMA2013 data and inflation chain incomplete.",
+    "segmentation": "Fund size/type, initial/ongoing/event/transition/final filings and professional roles distinct.",
+    "labor": "Detailed labor mix but several averages and products conflict; combined multipliers not decomposed.",
+    "item13": "Filing fee and startup service cost separated;50000 average derived from0–100000 range without distribution,annual entrant annualization questionable.",
+    "item14": "No directly attributable federal costs asserted without resource explanation.",
+    "item15": "Old/new totals and liquidity-fund changes shown; hour and dollar tables use inconsistent underlying counts/times.",
+    "validation": "Observed entrant rates and discussion of range; time assumptions are agency estimates.",
+    "consistency": "Financial blended rate, event role hours, final-filing counts and prior-equity hours disagree across tables."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Initial small adviser",
+        358,
+        13.333333333333334,
+        4654
+      ],
+      [
+        "Initial large hedge",
+        16,
+        108.33333333333333,
+        1728
+      ],
+      [
+        "Initial liquidity",
+        1,
+        67.33333333333333,
+        67
+      ],
+      [
+        "Initial private equity",
+        17,
+        84.0,
+        1428
+      ],
+      [
+        "Ongoing small",
+        2258,
+        15,
+        33870
+      ],
+      [
+        "Ongoing hedge",
+        2328,
+        150,
+        349200
+      ],
+      [
+        "Ongoing liquidity",
+        80,
+        71,
+        5680
+      ],
+      [
+        "Ongoing private equity",
+        418,
+        128,
+        53504
+      ],
+      [
+        "Small event",
+        20,
+        5,
+        100
+      ],
+      [
+        "Hedge current event",
+        60,
+        10,
+        600
+      ],
+      [
+        "Equity event",
+        20,
+        5,
+        100
+      ],
+      [
+        "Transition",
+        71,
+        0.25,
+        17.75
+      ],
+      [
+        "Final filings",
+        235,
+        0.25,
+        58.75
+      ],
+      [
+        "Hardship",
+        4,
+        1,
+        4
+      ]
+    ],
+    "labor": {
+      "source": "SIFMA2013 adjusted to1800-hour work year and unspecified inflation",
+      "professional_multiplier": 5.35,
+      "office_multiplier": 2.93,
+      "compliance_manager": 360,
+      "senior_risk": 416,
+      "senior_programmer": 386,
+      "programmer_analyst": 280,
+      "legal_blended": 560,
+      "financial_blended_reported": 355,
+      "financial_components": [
+        416,
+        339
+      ],
+      "total_reported": 145667162.02
+    },
+    "item13": {
+      "filing_fee": 150,
+      "large_initial_external_range": [
+        0,
+        100000
+      ],
+      "large_initial_external_mean": 50000,
+      "amortization_years": 3,
+      "new_large_counts": [
+        16,
+        1,
+        17
+      ],
+      "annual_external_total": 1610228
+    },
+    "item14": {
+      "annual_cost": 0,
+      "rationale": "No directly attributable costs asserted"
+    },
+    "item15": {
+      "old_respondents": 3671,
+      "new_respondents": 3670,
+      "old_responses": 5907,
+      "new_responses": 5886,
+      "old_hours": 451012,
+      "new_hours": 451011.5,
+      "old_labor": 145721172.52,
+      "new_labor": 145667162.02,
+      "old_nonlabor": 1610828,
+      "new_nonlabor": 1610228,
+      "liquidity_ongoing_old": [
+        21,
+        4,
+        70
+      ],
+      "liquidity_ongoing_new": [
+        20,
+        4,
+        71
+      ]
+    },
+    "assumptions": [
+      "Historical initial-filer shares13.7% small,2.7% hedge,1.5% liquidity,3.9% private equity.",
+      "Initial work split approximately60% compliance40% programmers; startup timing and cohorts need consistent annualization.",
+      "Initial burden divided by3 despite estimated new filers each year; do not apply cohort correction without resolving intended horizon."
+    ]
+  },
+  "reconstruction_issues": [
+    "Financial professional355 is not the stated equal average of416 and339 (377.5).",
+    "Private-equity event says5 hours but assigns2.5 legal plus1.5 financial hours, leaving one hour unpriced.",
+    "Current hedge event says4.5 financial hours but cost formula uses5.",
+    "Final filings use235 in the hours table and422 in the monetized-time table.",
+    "Initial annual entrant counts are charged only one-third initial hours and costs; a cohort model is needed to justify this convention."
+  ],
+  "methods_worth_testing": [
+    "Map reporting obligations by respondent type and event trigger before pricing activities.",
+    "Preserve observed entry rates and distinguish annual new cohorts from one-time transition cohorts."
+  ],
+  "checks": [
+    {
+      "label": "Liquidity hours change",
+      "formula": "20*4*71-21*4*70",
+      "calculated": -200,
+      "reported": -200,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0108"
+    },
+    {
+      "label": "Financial rate",
+      "formula": "(416+339)/2",
+      "calculated": 377.5,
+      "reported": 355,
+      "difference": 22.5,
+      "unit": "USD/hour",
+      "interpretation": "Material discrepancy",
+      "source_id": "SRC-0108"
+    },
+    {
+      "label": "Initial hedge labor",
+      "formula": "195*(360+416)/2+130*(386+280)/2",
+      "calculated": 118950.0,
+      "reported": 118890,
+      "difference": 60.0,
+      "unit": "USD",
+      "interpretation": "60-dollar discrepancy from displayed75600 subtotal",
+      "source_id": "SRC-0108"
+    },
+    {
+      "label": "Displayed annual hours",
+      "formula": "4654+1728+67+1428+33870+349200+5680+53504+100+600+100+17.75+58.75+4",
+      "calculated": 451011.5,
+      "reported": 451011.5,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exact sum of displayed rows; underlying cohort annualization remains questionable",
+      "source_id": "SRC-0108"
+    }
+  ],
+  "total_score": 61
+}

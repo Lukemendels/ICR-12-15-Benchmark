@@ -1,0 +1,329 @@
+PART word/document.xml
+U.S. Environmental Protection Agency
+Information Collection Request
+
+Title: Cross-State Air Pollution Rule (CSAPR) and Texas SO2 Trading Programs (Renewal) 
+
+OMB Control Number: 2060-0667
+EPA ICR Number: 2391.07
+Abstract:
+The United States Environmental Protection Agency (EPA) is renewing an information collection request (ICR) for the Cross-State Air Pollution Rule (CSAPR) and the Texas SO2 trading programs to allow for continued implementation of the programs. This ICR includes information collection requirements for the six CSAPR trading programs addressing sulfur dioxide (SO2) emissions, annual nitrogen oxides (NOX) emissions, or seasonal NOX emissions in various sets of states, and the Texas SO2 trading program which is modeled after CSAPR. 
+The principal information collection requirements under the CSAPR and Texas trading programs relate to the monitoring and reporting of emissions and associated data in accordance with 40 CFR part 75.  Other information collection requirements under the programs concern the submittal of information necessary to allocate and transfer emission allowances and the submittal of certificates of representation and other typically one-time registration forms.
+Affected sources under the CSAPR and Texas trading programs are generally stationary, fossil fuel-fired boilers and combustion turbines serving generators larger than 25 megawatts (MW) producing electricity for sale.  Most of these affected sources are also subject to the Acid Rain Program (ARP).  The information collection requirements under the CSAPR and Texas trading programs and the ARP substantially overlap and are fully integrated.  The burden and costs of overlapping requirements are accounted for in the ARP ICR (OMB Control Number 2060-0258). This ICR accounts for information collection burden and costs under the CSAPR and Texas trading programs that are incremental to the burden and costs already accounted for in the ARP ICR.
+While most sources participating in the CSAPR and Texas trading programs are directly regulated under federal implementation plans (FIPs), sources in some states participate in the CSAPR trading programs under state implementation plan (SIP) revisions adopted to replace previous FIPs.  This ICR accounts for the burden and costs for sources participating under both FIPs and SIPs.
+
+
+Supporting Statement A
+NEED AND AUTHORITY FOR THE COLLECTION
+Explain the circumstances that make the collection of information necessary. Identify any legal or administrative requirements that necessitate the collection.
+
+Clean Air Act (CAA) section 110(a)(2)(D)(i)(I), 42 U.S.C. § 7410(a)(2)(D)(i)(I) – often referred to as the “good neighbor” provision – requires all states, within three years of EPA’s promulgation of a new or revised national ambient air quality standard (NAAQS), to revise their SIPs to prohibit certain emissions of air pollutants because of the adverse impact those emissions would have on air quality in other states.  The first four CSAPR trading programs at 40 CFR part 97, subparts AAAAA through DDDDD, were promulgated in 2011 to fully or partially address multiple states’ good neighbor obligations with respect to the 1997 ozone NAAQS and the 1997 and 2006 fine particulate matter (PM2.5) NAAQS.  The fifth CSAPR trading program at 40 CFR part 97, subpart EEEEE, was promulgated in 2016 to fully or partially address multiple states’ good neighbor obligations with respect to the 2008 ozone NAAQS.  The sixth CSAPR trading program at 40 CFR part 97, subpart GGGGG, was promulgated in 2021 to fully address multiple states’ remaining good neighbor obligations with respect to the 2008 ozone NAAQS.   
+CAA section 169A, 42 U.S.C. § 7491, contains provisions addressing the impairment of visibility in certain areas, including requirements for certain sources to install and operate best available retrofit technology (BART).  EPA’s regulations at 40 CFR 51.308(e) allow alternatives to BART under some circumstances.  The Texas SO2 Trading Program at 40 CFR part 97, subpart FFFFF, was promulgated in 2017 as a BART alternative for Texas sources.  
+EPA’s promulgation of the CSAPR and Texas trading programs is supported by two additional statutory provisions.  First, CAA section 110(c)(1), 42 U.S.C. § 7410(c)(1), requires the EPA Administrator to promulgate a FIP at any time within two years after he or she finds that a state has failed to make a required SIP submission, finds that a SIP submission is incomplete, or disapproves a SIP submission.  Second, CAA section 301(a)(1), 42 U.S.C. § 7601(a)(1), gives the Administrator general authority to prescribe such regulations as are necessary to carry out his or her statutory functions.
+
+PRACTICAL UTILITY/USERS OF THE DATA
+Indicate how, by whom, and for what purpose the information is to be used. Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+Accurate data from emissions monitoring under 40 CFR part 75 is indispensable to successful implementation of the CSAPR and Texas trading programs for two reasons:
+Accurate emissions data is integral in EPA and state assessment of the impact of the trading programs in reducing NOX and SO2 emissions, and therefore in assisting states in meeting the ozone and fine particulate matter NAAQS and addressing visibility-related requirements.   By reducing levels of NOX and SO2 emissions, the trading programs reduce the adverse effects of the transport of ozone and fine particles and their precursors from upwind states.
+EPA enforces the trading programs (in part) by comparing emissions data measured, recorded, and reported under 40 CFR part 75 from affected sources with the number of allowances held in the respective compliance accounts of such affected sources.
+Information collected on allowance transfers is used by EPA to track allowances for the purpose of determining compliance with the NOX and SO2 trading programs.  Information on allowance transfers is also used by participants in the allowance market and the public to evaluate the activities of affected sources and is used by EPA for program evaluation. 
+Certificates of representation are used to identify a single individual (and optionally a single alternate individual) authorized to represent and act on behalf of all owners and operating personnel of each affected unit.  Without a designated representative, disagreements among joint owners of a unit or lack of clear authority could hamper the operation of an effective allowance trading program by impeding timely submission of quality-assured emissions data or timely decisions with respect to allowance transfers needed for program compliance.  Other one-time registration forms allow qualifying sources or non-source parties to efficiently manage their own participation in the programs, including allowance trading activities. 
+Together, the emissions data, allowance data, and various registration forms help to provide the accountability necessary to allow the NOX and SO2 trading programs to function, thereby avoiding the need to pursue costlier command-and-control approaches for achieving environmental objectives.
+
+USE OF TECHNOLOGY
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection. Also describe any consideration of using information technology to reduce burden.
+To ensure consistency across sources and to expedite data entry, EPA requires that standard formats used for reporting under 40 CFR part 75 be used to submit the information collected for the CSAPR and Texas trading programs.
+Several computer systems and associated databases have been developed to (1) track allowance activity, (2) record quarterly emissions monitoring data, and (3) calculate the number of allowances to be deducted each year.  These systems and databases are designed to provide easy access to information for use by the Agency, states, the regulated community, and the general public.  EPA provides access to the data on emissions and allowance activity in both detailed and summary formats on the Clean Air and Power Division website. 
+
+EFFORTS TO IDENTIFY DUPLICATION
+Describe efforts to identify duplication. Show specifically why any similar information already available cannot be used or modified for use for the purposes described in Item 2 above.
+Reporting formats for affected sources for the CSAPR and Texas trading programs are integrated with existing reporting formats under 40 CFR part 75.  These reporting formats are currently used by ARP-affected units to meet reporting requirements related to SO2 and NOX under Title IV of the Act.  For a unit subject to more than one of these programs, a single quarterly submission is used to satisfy the quarterly reporting requirements for all programs. 
+Information collection procedures under the CSAPR and Texas trading programs for submitting and updating certificates of representation, identifying retired units, and establishing non-source general accounts in the allowance tracking system are similarly integrated with the analogous procedures under the ARP.  In each case, a representative can submit a single form to address the analogous requirements under all applicable programs.
+
+MINIMIZING BURDEN ON SMALL BUSINESSES AND SMALL ENTITIES
+If the collection of information impacts small businesses or other small entities, describe any methods used to minimize burden.
+CSAPR applies to fossil fuel-fired units (stationary boilers and combustion turbines) that serve an electrical generator with nameplate capacity greater than 25 MWe.  Some cogeneration units and solid waste incinerators are exempt from CSAPR if they meet certain criteria.  The Texas SO2 Trading Program applies to a subset of CSAPR-affected units.
+The low mass emissions provisions under 40 CFR 75.19 provide for optional reduced monitoring, quality assurance, and reporting requirements for certain units that combust natural gas and/or fuel oil.  Such units must emit no more than 100 tons of NOX annually, 50 tons of NOX during the May-September ozone season, and 25 tons of SO2 annually, and must calculate no more than these same amounts based on specified procedures for calculating and reporting emissions.  Units that qualify are exempted from certain requirements to install and operate monitoring equipment, conduct fuel sampling, and perform quality assurance or quality control tests.  Moreover, emissions reporting requirements are significantly simplified for these units.
+Gas- or oil-fired units that do not qualify for the low mass emissions unit provisions under 40 CFR part 75 may still meet criteria that allow for the use of alternative methods to measure emissions.  As discussed in the Regulatory Impact Analysis of the final ARP regulations (October 19, 1992), smaller utilities are more likely to be dependent on these oil- and gas-fired units, especially very small utilities.
+
+CONSEQUENCES OF LESS FREQUENT COLLECTION
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+Submittal of allowance trading and emissions information on at least an annual basis (and/or on an ozone-season basis, as applicable) provides the data necessary to determine whether state budgets have been exceeded.  If this information collection were not carried out at least annually for sources subject to the CSAPR and Texas trading programs, EPA would not be able to verify that emission reductions necessary to meet each state's NOX and SO2 emission budgets were being achieved.  Meeting the annual or seasonal budgets is a central compliance requirement under each of the trading programs. 
+Quarterly collection of emissions data allows for frequent checking of data for errors and provides rapid feedback to industry of needed adjustments to data collection systems, thereby promoting more accurate and reliable emissions data.  Also, existing federal and state emission monitoring programs often require reporting on a quarterly or even monthly basis.  Less frequent collection, such as semi-annually or annually, would increase the amount of preparation and review time at the end of the reporting period both for regulated sources and for EPA, and would slow down the process of compliance determination.
+
+GENERAL GUIDELINES
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with OMB guidelines.
+This collection requires respondents to retain records for 5-year periods.  Otherwise, it does not create special circumstances requiring justification under 5 CFR 1320.5.
+PUBLIC COMMENT AND CONSULTATIONS
+8a. Public Comment
+If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the Agency's notice, required by 5 CFR 1320.8(d), soliciting comments on the information collection prior to submission to OMB. Summarize public comments received in response to that notice and describe actions taken by the Agency in response to these comments. Specifically address comments received on cost and hour burden.
+EPA provided public notice of the proposed ICR in the Federal Register on 9/5/2024 (FRL-12193-01-OAR). The EPA did not receive any public comments for this ICR. 
+
+8b. Consultations
+Describe efforts to consult with persons outside the Agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported. Consultation with representatives of those from whom information is to be obtained or those who must compile records should occur at least once every 3 years - even if the collection of information activity is the same as in prior periods. There may be circumstances that may preclude consultation in a specific situation. These circumstances should be explained.
+The information collection requirements for the CSAPR and Texas trading programs are largely based on the analogous requirements initially developed for the ARP and promulgated in 40 CFR parts 72, 73, and 75, as modified for use in subsequent trading programs under the NOX SIP Call and the Clean Air Interstate Rule (CAIR).  The requirements have evolved based on the trading programs’ needs, EPA’s experience administering those programs and a similar trading program established by the Ozone Transport Commission (OTC), and consultations with interested parties.
+Initial development of the ARP’s reporting requirements involved a multi-stakeholder advisory committee that included representatives of states, industry, and environmental groups.  EPA conducted similar processes when modifying the reporting requirements to implement the trading program under the NOX SIP Call, and held workshops with states that participated in the NOX SIP Call or OTC programs to discuss lessons learned in those programs when formulating the emission trading requirements of CAIR.  In 2009, EPA held a series of discussions with stakeholders to identify potential options for addressing states’ good neighbor obligations following the remand of CAIR.  EPA incorporated those comments from those discussions into CSAPR.  The requirements for each successive trading program have been established through notice-and-comment rulemaking.  Additionally, EPA has had frequent interaction with affected sources and states in the course of implementing the ARP, NOX SIP Call, CAIR, and CSAPR trading programs.  
+Finally, in coordination with the renewal of the Acid Rain ICR, EPA reached out in July 2024 to a representative sample of affected sources who are subject to the Acid Rain, CSAPR, and/or Texas SO2 requirements. The sources were asked for their voluntary input regarding estimated labor hours and costs associated with various tasks related to emissions monitoring and data submissions under these programs. Based on the limited responses received, the EPA re-evaluated the burden hours for specific tasks and capital and O&M costs incurred under the program. 
+
+PAYMENTS OR GIFTS TO RESPONDENTS
+Explain any decisions to provide payments or gifts to respondents, other than remuneration of contractors or grantees.
+Respondents will not receive payments or gifts. 
+
+ASSURANCE OF CONFIDENTIALITY
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or Agency policy. If the collection requires a system of records notice (SORN) or privacy impact assessment (PIA), those should be cited and described here.
+Emissions or allowance-related data that are submitted to EPA under this rule generally will be considered in the public domain and will not be treated as confidential.  CAA section 114(c), 42 U.S.C. § 7414(c), specifically requires that estimates or measurements of emissions must be treated as non-confidential.  Under Agency procedures, data items relating to the computation of emissions may be identified as sensitive by a state and are then treated as "state-sensitive" by EPA.  The potentially state-sensitive items include process rate, boiler design capacity, emission estimation codes, percent space heat, operating rate, and maximum operation rate/hour.  Where federal and state requirements are inconsistent, the appropriate EPA Regional Office should be consulted.
+
+JUSTIFICATION FOR SENSITIVE QUESTIONS
+Provide additional justification for any questions of a sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private. This justification should include the reasons why the Agency considers the questions necessary, the specific uses to be made of the information, the explanation to be given to persons from whom the information is requested, and any steps to be taken to obtain their consent.
+This information collection does not ask any questions concerning sexual behavior or attitudes, religious beliefs, or other matters usually considered private.
+
+RESPONDENT BURDEN HOURS & LABOR COSTS
+Provide estimates of the hour burden of the collection of information. The statement should:
+Indicate the number of respondents, frequency of response, annual hour burden, and an explanation of how the burden was estimated. Generally, estimates should not include burden hours for customary and usual business practices.
+If this request for approval covers more than one form, provide separate hour burden estimates for each form and the aggregate the hour burdens.
+Provide estimates of annualized cost to respondents for the hour burdens for collections of information, identifying and using appropriate wage rate categories. The cost of contracting out or paying outside parties for information collection activities should not be included here. Instead, this cost should be included as O&M costs under non-labor costs covered under question 13.
+12a. Respondents/NAICS Codes
+The CSAPR and Texas trading programs generally apply to stationary, fossil fuel-fired boilers and combustion turbines serving generators larger than 25 MW producing electricity for sale.  In the North American Industry Classification System, these sources are generally classified as NAICS code 221112 – Fossil Fuel-Fired Electric Power Generation.  Covered sources are subject to recurring emissions-related information collection requirements and one-time or occasional registration requirements.  
+Under the CSAPR and Texas trading programs’ allowance trading provisions, all covered sources may engage in optional allowance trading activities. Opportunities to participate in allowance trading activities are also open to non-source entities in any industry.  Use of these opportunities is subject to trading-related information collection requirements and, in the case of non-source entities, a one-time registration requirement. 
+The CSAPR and Texas trading programs do not impose any information collection obligations on states and do not establish any program-specific permitting requirements that would implicate state and local permitting authorities.  However, a state whose sources participate in a CSAPR trading program under either a FIP or a SIP has certain options to determine how CSAPR emission allowances are allocated each year among the state’s affected sources.  Use of this opportunity triggers requirements to submit allowance allocation information.  
+
+12b. Information Requested
+This section describes the data items requested from affected sources for the collections described in this ICR and defines the activities in which respondents must engage to assemble, submit, or store these data items.  
+Information Requested 
+Data Items, Including Recordkeeping Requirements
+Certificates of Representation and Other One-Time Registration Forms
+For each affected source under each of the CSAPR trading programs and the Texas SO2 trading program, the designated representative must submit a certificate of representation.  The certificate must be updated as needed to reflect any changes in the units at the source or in the identities of owners, operators, or the designated representative or alternate.  A complete certificate of representation for a source includes:
+Identification of the source and the units at the source;
+Dates on which the units commenced commercial operation;
+Name and contact information for the designated representative and alternate (if applicable);
+A list of the owners and operators of each unit; and
+A certification statement and signature of the designated representative and alternate (if applicable).
+Certification applications are to be kept for a period of five years pursuant to the general requirements imposed for Title V permitted facilities.
+The CSAPR and Texas trading programs exempt a retired unit from emission monitoring and reporting requirements following receipt of appropriate notification from the designated representative.  A complete retired unit exemption form includes:
+Identification of the source and unit;
+Date on which the unit was or will be permanently retired;
+A certification statement and signature of the designated representative or alternate.
+Non-source entities participating in allowance trading activities under the CSAPR and Texas trading programs must submit an application to establish a general account in the allowance tracking system.  For purposes of this ICR, it is assumed that the burden and costs of all general account applications are accounted for in the ARP ICR.
+
+Allowance Tracking
+Sources and other trading program participants must submit allowance transfer, allowance deduction, and compliance assurance information, as necessary. 
+The authorized account representative for an allowance tracking system account is required to provide the following information for each transfer of allowances to another account:
+Allowance tracking system account number;
+Name, phone number, and facsimile number of the authorized account representative, along with the representative's signature and date of submission; and
+Serial numbers of allowances to be transferred.
+In addition, if the designated representative for a source chooses to identify the specific serialized allowances to be deducted from the source's allowance tracking system account for annual reconciliation, then the following information is required:
+Allowance tracking system account number;
+Type of deduction;
+Serial numbers of the allowance blocks to be deducted; and
+Dated signature of the designated representative.
+In the event that total emissions in a state during a control period ever exceeded the state’s emission budget by more than a specified variability limit, some sources in the state would be required to submit additional information for compliance assurance.  For purposes of this ICR, it is assumed that no such exceedances will occur.
+Where a state has elected to determine allowance allocations, the state must submit a list identifying the units or other entities to which allowances are being allocated and the numbers of allowances being allocated to each unit or entity. 
+
+Emissions Monitoring and Reporting
+Sources affected under the CSAPR and Texas trading programs are required to monitor NOX and/or SO2 mass emissions and record and report emissions data following the procedures of 40 CFR part 75.  The emissions monitoring requirements specify that affected sources must (1) submit a monitoring plan for each affected unit at a source, (2) submit data for certification of each monitor, (3) record hourly operational, pollutant monitor, and flow monitor data for each affected unit, and (4) submit quarterly reports of their emissions data to EPA.
+Respondents are required under 40 CFR 75.64 to submit the quarterly NOX and SO2 mass emissions data via direct electronic submission to EPA.  Such data must include a certification statement by the designated representative of the facility attesting to the accuracy, truthfulness, and completeness of the submission.  Generally, all monitoring records are required to be kept for three years.
+
+Collection Schedule 
+Collection frequency under the CSAPR and Texas trading programs is on a quarterly basis for emissions reporting.  All affected industry sources must use the Emission Collection and Monitoring Plan System (ECMPS) to submit monitoring plan, quality assurance, certification test, and emissions data to EPA quarterly.  In addition, the programs require the collection of allowance trading information as transfers are submitted, as well as information regarding other "event" submissions made on a one-time or annual basis.  
+
+12c. Respondent Activities
+Industry respondents’ tasks to meet the certificate of representation requirement are to submit the certificate when a source first becomes subject to a particular trading program and to submit an updated certificate whenever there are changes in the units at the source or changes in the source’s owners, operators, or designated representative.  The task to meet the retired unit exemption notification requirement is to submit a one-time form.  
+Industry respondents’ only required task for allowance tracking is occasional submission of allowance transfer forms as necessary to ensure that sufficient allowances are in a source’s compliance account as of each compliance deadline.  Additional allowance transfer forms may be submitted by industry or non-source entity respondents as desired, and industry respondents may submit optional allowance deduction forms as desired. These forms may be submitted on paper or electronically through the CAMD Business System.
+Industry respondents’ primary tasks to meet the emissions monitoring and reporting requirements are:  (1) completing and submitting appropriate monitoring plans; (2) conducting tests to certify monitors and submitting test results to EPA; (3) recording hourly emissions and operational data (this activity is generally performed electronically); (4) performing operation and maintenance activities associated with monitoring, including quality assurance activities; (5) assuring data quality, preparing quarterly reports of emissions data, and submitting these reports to EPA; and (6) responding to error messages generated by such submissions.  In addition, respondents must purchase the necessary monitoring hardware and electronic data reporting software (or software upgrades).
+A state respondent that has elected to submit state determined CSAPR allowance allocations must calculate the allocations according to the state’s procedures and periodically submit the allocation information to EPA by specified deadlines.
+
+12d. Respondent Burden Hours and Labor Costs
+This section estimates respondents’ burden and cost to meet the information collection requirements described above.  To estimate the burden and/or cost of each requirement, EPA utilized prior estimates of the costs of activities, estimates provided by affected utilities in comments to the Agency, and/or estimates based on the Agency's experience in implementing existing trading programs.
+For purposes of this ICR, emissions-related burdens and costs are calculated only for CSAPR or Texas SO2 units that are not also subject to the ARP. Units subject to the ARP have all of the monitoring and reporting capability required under CSAPR, and EPA believes that the associated ongoing burdens and costs are entirely accounted for under the ARP ICR.  Most CSAPR-affected units are subject to the ARP, and all units required to participate in the Texas trading program are also subject to the ARP.  Relatedly, this ICR does not address burden and costs for any new units.  EPA expects that any new CSAPR-affected units will also be subject to the ARP, and the burden and costs for those units are therefore covered under the ARP ICR.  The Texas SO2 trading program does not apply to new units.  
+Burden and costs associated with allowance-related activities and submittal of certificates of representation and other registration forms are calculated based on the estimated numbers of transactions.  The estimates reflect transactions by all sources subject to the CSAPR and Texas trading programs as well as non-source entities participating in allowance trading activities.
+Table 12.1 summarizes the annual industry respondent burden for registration-related, allowance-related, and emissions-related activities.  Table 12.2 summarizes the annual state respondent burden.  The following discussion describes how the burden estimates were derived.  
+
+Respondent Burden Related to Certificates of Representation and Other One-Time Registration Forms
+Under the CSAPR and Texas SO2 trading programs, the designated representative for each affected source must submit a certificate of representation to EPA.  For purposes of this ICR, EPA estimates that certificates of representation covering 10% of non-ARP-affected units will need to be updated annually.  EPA believes that all such revisions are routine and estimates that, on a per unit basis, about one half hour of managerial time and one-half hour of technical time will be required for each revision.
+Under the CSAPR and Texas SO2 trading programs, the designated representative for each retired unit must submit a retired unit exemption form.  EPA estimates that retired unit exemption forms will be filed for approximately 3% of non-ARP units annually, and estimates that each revision will require about one hour of managerial time and one hour of technical time.
+
+Respondent Burden Related to Allowance Tracking
+
+Based on the number of allowance transfers recorded by EPA for all CSAPR trading programs for the 2022-2024 , EPA estimates that approximately 1,214 privately submitted allowance transfers will be made each year by sources and non-source entities combined.  The Agency estimates that each transaction submitted will involve about one hour each of managerial and technician time.
+
+Because compliance under the CSAPR and Texas SO2 trading programs is determined on a facility basis rather than a unit basis, allowance deduction forms are also generally submitted for facilities rather than individual units.  From experience, EPA estimates that these optional forms will be submitted for approximately 25% of all affected facilities, and that each transaction submitted will involve about one hour of managerial time and two hours of technician time.  
+
+As noted above, under the CSAPR trading programs, states have certain options to submit state-determined allowance allocations.  EPA estimates that where a state has elected to submit such allocations, the activities to prepare the submissions will require 100 hours per year, comprising 25 hours of managerial time and 75 hours of technician time. To date, four states have revised their SIPs to provide for periodic submissions of CSAPR allowance allocation information. 
+
+Respondent Burden Related to Emissions Monitoring and Reporting
+
+For emissions monitoring and reporting, the respondent burden varies depending on the monitoring approach followed by the unit and the trading programs in which the unit participates.  The burden and costs in Table 2 are broken out for various groups of respondents to reflect these differences.  As noted above, EPA believes that the emissions-related information collection burden and costs of the CSAPR and Texas SO2 trading programs are fully integrated with the ARP. The emissions related burdens for CSPAR and/or Texas SO2 units who are also subject to ARP, are fully accounted for in the ARP ICR. This ICR therefore accounts for emissions-related burden and costs for non-ARP units only.
+
+The CSAPR and Texas SO2 trading programs generally require all affected sources to monitor their NOX and/or SO2 emission rate and heat input in order to determine NOX mass emissions and/or SO2 mass emissions.  Coal-fired units use NOX, SO2, and stack flow CEMS to meet those requirements.  Oil and gas-fired units have alternatives.  For SO2, these units can use fuel sampling and analysis (or an SO2 default factor for pipeline natural gas) combined with a fuel flowmeter.  In addition, peaking units that burn natural gas and/or fuel oil may use an alternative method for calculating NOX emission rates.  The regulations also allow certain low mass emissions units to use assumed emissions factors together with operational data to calculate emissions.  
+
+Non-ARP units in 22 states are subject to CSAPR trading programs for both NOX and SO2 and therefore must monitor or calculate and report emissions data for both pollutants.  Non-ARP units in these states must submit quarterly reports for all four quarters of each year.
+
+Non-ARP units in five states including Texas are subject to CSAPR trading programs for NOX, but not SO2, and therefore must monitor or calculate and report emissions data only for NOX.  (While certain Texas units must also monitor and report emissions data for SO2 under the Texas SO2 trading program, all units required to participate in that program are ARP units.)  Non-ARP units in these states may elect to submit quarterly reports for only the two quarters of each year that encompass the May-September ozone season.
+
+Start-up Activities 
+For many sources, a large part of the overall emissions monitoring burden consists of start-up costs for the acquisition, installation, and testing of monitoring equipment.  For units subject to the ARP, the burden and costs for both NOX and SO2 monitoring equipment are accounted for in the ARP ICR.  For non-ARP units, this ICR includes ongoing annualized start-up/capital costs as well as ongoing O&M burden and costs for any monitoring equipment needed by the unit to meet the applicable monitoring and reporting requirements of the CSAPR trading programs, whether the equipment was initially installed to address the requirements of the trading programs under CSAPR, CAIR, or the NOX SIP Call.  No one-time start-up burden is included in this ICR renewal because any such burden was accounted for in previous ICRs, and start-up burdens for any new units are assumed to be covered under the ARP ICR.
+Regulatory Review
+The ICR includes an allocation of time for the managerial and technical staff to review the CSAPR regulatory requirements as well as the instructions associated with electronic emissions data submissions.  Burden for an initial review was covered in previous ICRs.  For purposes of ongoing review after the initial review, the estimated annual burden for each non-ARP source is four hours each for managerial and technician time.
+Response to Error Messages
+The Agency provides feedback for errors that are found in monitoring plans or other reports.  The Agency estimates that for each non-ARP unit, an owner or operator will spend approximately six hours of managerial time and eighteen hours of technician time responding to these error messages each year.
+DAHS Debugging
+An estimated burden to fix initial problems with the DAHS software used to report in the 40 CFR part 75 formats was included in previous ICRs.  For the years covered by this ICR renewal, EPA estimates that for each non-ARP unit, one managerial and four technician hours will be required annually for occasional further debugging. 
+Monitoring Plans
+The regulations require submittal of monitoring plans.  Because most of the monitoring plan elements are now part of the reporting format, the effort involved in developing and maintaining the plans are incorporated into the overall reporting burden estimate.
+Monitor Certification/Recertification
+Sources occasionally experience burdens for recertification to the extent a change in a monitoring system requires recertification.  Based on the previous CSAPR ICR, EPA estimates that approximately ten percent of all non-ARP units will have to recertify each year following the year in which the initial certification occurs.  The ICR incorporates a labor burden estimate generally consistent with existing Agency models for the labor burdens associated with certification.  However, note that the ICR reduces the labor hours for this activity to avoid double counting hours that are already accounted for in the quality assurance activity area (see the following subsection).  The double counting would occur because a portion of the labor incurred for the certification or recertification event replaces the labor burden that is generally allocated to the annual relative accuracy test audit (RATA) in the year in which the certification event occurs.
+Quality Assurance
+Quality assurance (QA) activities and other routine maintenance for monitoring systems is the largest burden item under the CSAPR and Texas trading programs.  These requirements generally include daily, quarterly, and annual QA requirements, depending on the monitoring approach being used.  For reporting units that use a CEMS, the Agency has assumed a per unit labor burden based on a variety of sources, including the existing ARP ICR, information provided by sources, a CEM cost model developed by EPA, and comments submitted in response to the NOX SIP Call.  For units that rely on alternative methodologies, reduced labor burden estimates apply because the quality assurance activities for the excepted methods are less than for a CEMS.  Consistent with the existing ARP ICR, the labor burden is expected to be almost entirely technician labor.
+Quarterly Reports
+Tasks performed by utilities in preparing quarterly reports include: (1) assuring the quality of the data, (2) preparing the quarterly report, (3) revising the monitoring plan, if necessary, (4) preparation of hard copy documentation accompanying the quarterly reports, and (5) managerial review.  The existing ARP ICR was used as the basis for these estimates.
+
+Estimating Respondent Labor Costs
+
+In estimating labor costs for industry, EPA used the following amounts: $123.48 per hour for managers and $88.80 per hour for technicians.  These rates are consistent with the Current Employment Cost Index year 2024.
+
+The labor rate used for technical staff at state agencies is $61.27 per hour, and the labor rate for managerial employees at state agencies is $72.72.  These labor rates include benefits and overhead and are derived from data on the Bureau of Labor Statistics website at http://stats.bls.gov/news.release/ecec.toc.htm.  Wage and salary rates are shown at the link “Table 3:  State and local government, by major occupation and industry group (March 2024)."  The wage and salary rates from this table account for benefits provided to workers.   
+EPA estimates that there are approximately 914 industry respondents potentially subject to one or more of the information collections covered by this ICR.  The industry respondents consist of 870 source facilities with 2740 units subject to at least one of the CSAPR or Texas SO2 trading programs, including sources and units that are also subject to the ARP, plus approximately 44 non-source entities participating in allowance trading activities.  This ICR includes estimated allowance-related burden and costs for all industry respondents.  However, EPA believes that the emissions-related information collection burden and costs for sources and units also subject to the ARP are fully accounted for in the ARP ICR (OMB Control Number 2060-0258).  Accordingly, this ICR includes estimated emissions-related burden and costs only for sources that are not subject to the ARP.  EPA estimates that there are approximately 136 sources with 450 non-ARP-affected units subject to emissions-related information collection requirements covered by this ICR.  Table 2 provides estimates of industry respondent burden and costs for registration-related, allowance-related, and emissions-related activities.  
+The CSAPR and Texas SO2 trading programs apply to sources in 27 states.  States have no mandatory activities under these programs, but states have options to submit state-determined allowance allocations for their sources that are subject to the CSAPR programs.  To date, four states have revised their SIPs to provide for periodic submissions of CSAPR allowance allocation information.  Table 12.2 provides estimates of state respondent burden and costs for this activity.
+
+Table 12.1:  Annual Industry Respondent Burden and Cost by Activity
+108 | Manager $123.48 per hour | Technician   $88.80 per hour | Respondent hours per year | Respondent labor cost per year | Number of respondents / transactions | Total hours per year | Total cost per year
+Registration-related burden and costs
+Certificate of representation updates 1 | 0.50 | 0.50 | 1 | $106 | 45 | 45 | $4,770
+Retired unit exemption forms 2 | 1 | 1 | 2 | $212 | 14 | 28 | $2,968
+Allowance-related burden and costs
+Allowance transfer form submissions 3 | 1 | 1 | 2 | $212 | 1 , 214 | 2,428 | $257,368
+Allowance deduction form submissions 4 | 1 | 2 | 3 | $301 | 218 | 654 | $65,618
+Emissions-related burden and costs
+Review of regulations 5 | 4 | 4 | 8 | $849 | 136 | 1,088 | $115,464
+Response to error messages 6 | 6 | 18 | 24 | $2,339 | 450 | 10,800 | $1,052,550
+DAHS debugging 6 | 4 | 12 | 16 | $ 1,560 | 450 | 7,200 | $ 702,000
+Recertification of monitors by monitoring approach 7
+Solid fuel units: SO 2  CEMS (where needed), NO X  CEMS, and stack flow CEMS | 15 | 48 | 63 | $6,115 | 1 | 63 | $6,115
+Gas/oil units: NO X  CEMS and Appendix D fuel monitoring | 10 | 32 | 42 | $4,076 | 9 | 378 | $36,684
+Gas/oil peaking units: Appendix D fuel monitoring, Appendix E, or LME methods | 8 | 24 | 32 | $3,119 | 33 | 1,056 | $102,927
+Start-up/capital costs, performance of QA testing and maintenance, by monitoring approach 8
+Solid fuel units: SO 2  CEMS (where needed), NO X  CEMS, and stack flow CEMS | 50 | 480 | 530 | $48,798 | 17 | 9,010 | $829,566
+Gas/oil units: NO X  CEMS and Appendix D fuel monitoring | 20 | 375 | 395 | $35,770 | 99 | 39,105 | $3,541,230
+Gas/oil peaking units: Appendix D fuel monitoring, Appendix E, or LME methods | 5 | 30 | 35 | $3,281 | 334 | 11,690 | $1,095,854
+Data Quality assurance and preparation and submittal of quarterly reports, by reporting frequency 9
+Annual reporters (four quarterly reports/year) | 16 | 42 | 58 | $5,705 | 422 | 24,476 | $2,407,510
+Ozone season-only reporters (two quarterly reports/year) | 8 | 21 | 29 | $2,853 | 28 | 812 | $79,884
+Totals |  |  |  |  |  | 108,833 | $ 10,300,508
+
+1 Assumes updated certificates of representation are required for 10% of non-ARP units each year.
+2 Assumes 3% of non-ARP units retire each year.
+3 Estimate reflects 2022-2024 annual average number of allowance transfers submitted for all CSAPR programs by both sources and non-source entities.
+4 Assumes 25% of all affected sources under the CSAPR and Texas trading programs submit optional allowance deduction forms each year.
+5 Applies to all non-ARP sources.
+6 Applies to all non-ARP units. 
+7 Assumes 10% of non-ARP units recertify monitoring systems each year.
+8 Applies to all non-ARP units.  Reflects annualized start-up/capital costs whether monitoring began under CSAPR, CAIR, or the NOX SIP Call.
+9 Applies to all non-ARP units.  Assumes 40% of non-ARP units eligible to report on an ozone season-only basis elect to do so. 
+
+
+
+Table 12.2:  Annual State Respondent Burden and Cost
+ | Manager $ 72.72 per hour | Technician $ 61.27  per hour | Respondent hours per year | Respondent labor cost per year | Responses per year | Total hours per year | Total cost per year
+State allowance allocation 1 | 25 | 75 | 100 | $ 6,413 | 4 | 400 | $ 25,652
+Totals | 400 | $ 25,652
+1 Assumes four of 27 CSAPR-affected states submit optional state-determined allowance allocations.
+
+Respondent CAPITAL AND O&m CostS 
+Provide an estimate for the total annual cost burden to respondents or record keepers resulting from the collection of information. (Do not include the cost of any hour burden already reflected on the burden worksheet).
+The cost estimate should be split into two components: (a) a total capital and start-up cost
+component (annualized over its expected useful life) and (b) a total operation and maintenance and purchase of services component. The estimates should consider costs associated with generating, maintaining, and disclosing or providing the information. Include descriptions of methods used to estimate major cost factors including system and technology acquisition, expected useful life of capital equipment, the discount rate(s), and the period over which costs will be incurred. Capital and start-up costs include, among other items, preparations for collecting information such as purchasing computers and software; monitoring, sampling, drilling, and testing equipment; and record storage facilities.
+If cost estimates are expected to vary widely, agencies should present ranges of cost burdens and explain the reasons for the variance. The cost of purchasing or contracting out information collections services should be a part of this cost burden estimate. 
+Generally, estimates should not include purchases of equipment or services, or portions thereof, made: (1) prior to October 1, 1995, (2) to achieve regulatory compliance with requirements not associated with the information collection, (3) for reasons other than to provide information or keep records for the government, or (4) as part of customary and usual business or private practices.
+Estimating Capital and Operations and Maintenance Costs
+
+Capital/start-up costs include the cost of installing required CEMS or alternatives.  Operation and maintenance costs (exclusive of labor costs) reflect ongoing costs to a unit and include both contractor costs for the required recertification, diagnostic, and quality assurance (QA) testing, and other direct maintenance-related expenses (e.g., spare parts and calibration gases).  These cost estimates have been derived from EPA CEM cost models, existing ICRs, Agency staff experience under the ARP, NOX SIP Call, CAIR, and CSAPR programs, and supplemental estimates provided by affected utilities and others related to the various cost items.  These costs are assumed to include incremental calibration gas costs consistent with the former ICR for the Protocol Gas Verification Program (OMB Control Number 2060-0626).
+
+Note that testing contractor costs for certification, recertification and annual relative accuracy test audits (RATAs) are presented as other direct costs and are not converted to equivalent source labor hours.  This approach is consistent with the common business practice of obtaining outside contractors to conduct certification/recertification tests and annual RATAs.  For initial certification, the certification test costs are commonly bundled with equipment purchase contracts, according to information provided by a range of CEMS equipment vendors.  For RATAs that are conducted either as part of the annual quality assurance requirements or as part of recertification, industry contacts have indicated that RATA testing is usually performed under a fixed price contract basis, except for travel costs that may be billed on an hourly basis beyond the basic contract cost.
+
+As noted above, for non-ARP units this ICR includes ongoing annualized start-up/capital costs as well as ongoing O&M costs for any monitoring equipment needed by the unit to meet the applicable monitoring and reporting requirements of the CSAPR trading programs, whether the equipment was initially installed to address the requirements of the trading programs under CSAPR, CAIR, or the NOX SIP Call.  
+
+Capital/Start-up vs. Operating and Maintenance (O&M) Costs
+
+Capital costs reflect one-time costs for purchase of equipment which will be used over a period of years.  Conversely, operating and maintenance costs are those costs which are incurred on an annual or other scheduled basis.  For instance, costs associated with quality assurance activities, such as spare parts or contractor costs for work, will be incurred on an annual basis.
+
+Capital and O&M Cost Table
+Table 13.1:  Total Estimated Burden and Cost Summary
+  | Cont. O&M cost per year | Start-up / capital cost per year | Number of respondents / transactions | Total cost per year
+   Emissions-related burden and costs
+Recertification of monitors, by monitoring approach:  
+Solid fuel units: SO 2  CEMS (where needed), NO X  CEMS, and stack flow CEMS | $2,800  |   | 1 | $2,800 
+Gas/oil units: NO X  CEMS and Appendix D fuel monitoring | $2,800  |   | 9 | $25,200 
+Gas/oil peaking units: Appendix D fuel monitoring, Appendix E, or LME methods | $10,000  |   | 33 | $330,000 
+Start-up/capital items and performance of QA testing and maintenance, by monitoring approach:  
+Solid fuel units: SO 2  CEMS (where needed), NO X  CEMS, and stack flow CEMS | $31,949  | $30,282  | 17 | $1,057,927 
+Gas/oil units: NO X  CEMS and Appendix D fuel monitoring | $17,818  | $19,661  | 99 | $3,710,421 
+Gas/oil peaking units: Appendix D fuel monitoring, Appendix E, or LME methods | $1,843  | $2,359  | 334 | $1,403,468 
+Totals |   |   |   | $6,529,816 
+
+
+AGENCY COSTS
+Provide estimates of annualized costs to the Federal government. Also, provide a description of the method used to estimate cost, which should include quantification of hours, operational expenses (such as equipment, overhead, printing, and support staff), and any other expense that would not have been incurred without this collection of information.
+14a. Agency Activities
+Agency Activities 
+EPA activities related to the CSAPR and Texas trading programs include:  (1) reviewing and processing certificates of representation and retired unit exemptions; (2) allocating allowances to affected units, or reviewing states’ allocations, and recording the allocations; (3) reviewing and recording allowance transfers and deductions; (4) reviewing monitoring plans and monitor certification applications; (5) processing, reviewing, and evaluating reports of quarterly emissions data from affected units, providing feedback, and storing the data; (6) calculating/reviewing annual emissions from affected sources, and aggregating such annual emissions for compliance assurance purposes; and (7) reviewing total annual emissions data submitted to track each state's progress toward meeting its budgets and creating a summary report of emissions.  EPA also answers respondents’ questions and conducts audits of data submissions.
+
+Collection Methodology and Management 
+To ensure consistency across sources and to expedite data entry, EPA requires that standard formats used for reporting under 40 CFR part 75 be used to submit the information collected for the CSAPR and Texas trading programs.
+Several computer systems and associated databases have been developed to (1) track allowance activity, (2) record quarterly emissions monitoring data, and (3) calculate the number of allowances to be deducted each year.  These systems and databases are designed to provide easy access to information for use by the Agency, states, the regulated community, and the general public.  EPA provides access to the data on emissions and allowance activity in both detailed and summary formats on the Clean Air and Power Division website.
+14b. Agency Labor Cost
+Agency Burden Related to Certificates of Representation and Other One-Time Registration Forms
+The Agency must review and process each updated certificate of representation and retired exemption form submitted by industry respondents.  EPA estimates that the time required is 0.5 hours per updated certificate of representation and 0.3 hours per retired unit exemption.  
+
+Agency Burden Related to Allowance Tracking
+The Agency must review all state-determined allowance allocations submitted by states and record annual allocations to all existing units according to either the state-determined allocations or EPA’s default allocations.  In addition, the Agency must annually calculate allocations to new units according to procedures in the regulations and record those allocations.  EPA estimates that these activities will require 200 hours annually.
+Most allowance transfer and deduction forms are submitted electronically using the CAMD Business System.  These transactions are verified and processed automatically at no incremental cost to the Agency.  EPA estimates that approximately 1% of the submissions each year will be submitted on paper, and that review and processing of paper submissions will require one hour per allowance transfer form and one half hour per allowance deduction form. 
+The costs of the computer systems used by the Agency in allowance tracking activities are accounted for under the ARP ICR.
+
+Agency Burden Related to Emissions Monitoring and Reporting
+Agency activities related to the monitoring and reporting of emissions data include reviewing monitoring plans and monitor certification applications; processing, reviewing, and evaluating reports of quarterly emissions data from affected units, providing feedback, and storing the data; calculating/reviewing annual emissions from affected sources, and aggregating such annual emissions for compliance assurance purposes; and reviewing total annual emissions data submitted to track each state's progress toward meeting its budgets and creating a summary report of emissions.  The Agency estimates that these activities will require one hour per quarterly report submitted.
+The costs of the computer systems used by the Agency in emissions-related activities are accounted for under the ARP ICR.
+
+Table 14.1:  Annual Agency Burden and Cost by Activity
+ | Hours per occurrence | Cost per occurrence   | Occurrences per year | Total hours per year | Total cost per year
+Review and processing of updated certificates of representation. | 0.5 | $ 47.25   | 45 | 2 2 .5 | $ 2,126
+Review and processing of retired unit exemptions. | 0.3 | $2 8.35 | 14 | 4 | $ 397
+Annual allocation and recordation of allowances. | 200 | $ 18, 898 | 1 | 200 | $ 18, 898
+Review and recordation of allowance transfers and notification of transfer participants. 1 | 1 | $ 94. 49 | 12 | 12 | $ 1,134
+Review and recordation of allowance deductions. 2 | 0.5 | $ 47.25 | 2 | 1 | $ 9 5
+Review and processing of quarterly reports and issuance of feedback letters. 3 | 1 | $ 94. 49 | 1,744 | 1,744 | $ 164,791
+Totals | 1,983.5 | $ 187,441
+1Assumes 1% of all allowance transfers each year are submitted on paper rather than electronically.
+2Assumes 1% of all allowance deductions each year are submitted on paper rather than electronically.
+3Assumes 422 annual reporters (4 reports/year) and 28 ozone season-only reporters (2 reports/year).
+
+
+Agency Labor Costs
+Federal Agency labor rates were assumed to be $94.49 per hour.  This labor rate was derived from the federal government's 2024 U.S. Office of Personnel Management General Schedule "Salary Table 2024-GS" (https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2024/general-schedule) using the factors in Table 14.2 below.  
+Table 14.2:  Determination of Federal Wage Rates
+Labor category  | Factors | Total
+Annual salary of technical staff, GS 13, Step 8  |  | $ 109,177
+Annual cost of supervisory staff, GS 15, Step 8  | $ 151,748 | 
+Factor (1/11) applied to cost of supervisory staff | 0.09 | 
+  |  | $ 13,657.32  
+Benefits | 1.6 | 
+Total cost per FTE  |  | $ 196,534.91  
+Total hourly cost (total cost per FTE divided by 2,080 hours per year) |  | $ 94. 49  
+
+14c. Agency Non-Labor Costs
+The EPA operates and maintains a data system for the electronic submission of allowance transfers, certification of representation updates, emissions data, monitoring plans, auction bids, etc. EPA incurs annual operation and maintenance (O&M) costs for running the system that consists of multiple applications and databases and requires regular maintenance and system enhancements. The system manages these tasks related to the Acid Rain, CSAPR, and Texas SO2 programs. The system O&M costs are accounted for in the Acid Rain Program ICR and no further non-labor agency costs are relevant for this ICR.  
+
+REASONS FOR CHANGE IN BURDEN
+Explain the reasons for any program changes or adjustments reported in the burden or capital/O&M cost estimates.
+There are minor differences in the burden and costs associated with the previous ICR for the CSAPR and Texas SO2 trading programs as overall burden hours decreased by 4,279 and costs increased by $112,763. The main reason for the burden decrease is due to fewer units subjected to the CSAPR and Texas SO2 trading programs due to retirements and a shift to less burdensome monitoring methodologies. An increase in costs is due to the update of the hourly labor costs and the hourly burden associated with certain monitoring tasks.  
+
+PUBLICATION OF DATA
+For collections of information whose results will be published, outline plans for tabulation and publication. Address any complex analytical techniques that will be used. Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+Data from sources regarding emissions, allowances, compliance, and facility information will be published on the Clean Air Markets Program Data (CAMPD) site. Data is published automatically to CAMPD. Allowance transfer data is published daily, emissions data is published quarterly, and compliance data is published yearly.
+
+DISPLAY OF EXPIRATION DATE 
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+N/A – Expiration date may be displayed. 
+
+CERTIFICATION STATEMENT
+Explain each exception to the topics of the certification statement identified in “Certification for Paperwork Reduction Act Submissions.”
+This information collection complies with all provisions of the Certification for Paperwork Reduction Act Submissions

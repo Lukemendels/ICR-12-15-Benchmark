@@ -1,0 +1,272 @@
+{
+  "icr_id": "202310-1219-001",
+  "omb_control_number": "1219-0156",
+  "agency": "DOL/MSHA",
+  "title": "Respirable Crystalline Silica Standard",
+  "submission_date": "04/18/2024",
+  "archetype": "silica exposure monitoring and medical records",
+  "complexity": "very high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 5,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0106",
+    "SRC-0105"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 11,
+    "segmentation": 15,
+    "labor": 4,
+    "item13": 7,
+    "item14": 5,
+    "item15": 8,
+    "validation": 4,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Year/sector/size/season and activity matrices reconstruct most quantities; corrective-action dollars conflict with displayed hours and rates.",
+    "provenance": "Administrative2019 employment and historical inspection samples identified; series codes and wage transformations precise.",
+    "segmentation": "Coal/nonmetal, size, seasonal quarters, entry cohorts and exposure thresholds meaningfully differentiated.",
+    "labor": "Occupation/benefit/overhead stages explicit, but ECI and GDP changes both update the same period without economic explanation.",
+    "item13": "Separates medical result transmission from broader medical examination costs; quantity and inflation explicit,10-dollar price unsupported.",
+    "item14": "Zero routine-inspection cost rationale does not address newly required NIOSH result flow or system costs.",
+    "item15": "New control plus effects on two existing controls quantified; one-hour rounding differences and labels need care.",
+    "validation": "Inspection exposure data and final-versus-proposed assumption revision; projected compliance decline and timing remain assumptions.",
+    "consistency": "Corrective-action dollar error and mixed miner/mine respondent units; major tables otherwise traceable."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Initial sampling records",
+        52587,
+        0.25,
+        13146.83
+      ],
+      [
+        "Above-action-level records",
+        44253,
+        0.25,
+        11063.33
+      ],
+      [
+        "Corrective sampling records",
+        25417,
+        0.25,
+        6354.25
+      ],
+      [
+        "Correction phone calls",
+        25417,
+        0.08333333333333333,
+        2118.08
+      ],
+      [
+        "Periodic evaluation records",
+        19688,
+        0.25,
+        4922.08
+      ],
+      [
+        "Post records",
+        19688,
+        0.05,
+        984.42
+      ],
+      [
+        "Post-evaluation samples",
+        12766,
+        0.25,
+        3191.5
+      ],
+      [
+        "Corrective action records",
+        25417,
+        0.08333333333333333,
+        2118.08
+      ],
+      [
+        "Medical evaluation/fit records",
+        1500,
+        0.5,
+        749.83
+      ],
+      [
+        "Written SOPs",
+        599,
+        4,
+        2394.67
+      ],
+      [
+        "Revised SOPs",
+        569,
+        1,
+        568.67
+      ],
+      [
+        "Existing ASTM records",
+        2613,
+        null,
+        7499.33
+      ],
+      [
+        "New ASTM records",
+        30,
+        4,
+        120
+      ],
+      [
+        "New miner medical opinions",
+        5595,
+        0.25,
+        1398.67
+      ],
+      [
+        "Existing miner medical opinions",
+        29371,
+        0.25,
+        7342.63
+      ]
+    ],
+    "labor": {
+      "roles": [
+        "MNM hygienist",
+        "Coal hygienist",
+        "MNM clerk",
+        "Coal clerk"
+      ],
+      "base_rates": [
+        39.43,
+        39.22,
+        19.71,
+        21.49
+      ],
+      "loaded_rates": [
+        76.74,
+        76.35,
+        38.37,
+        41.83
+      ],
+      "benefit_factor": 1.49,
+      "ECI_factor": 1.043,
+      "overhead_factor": 1.17,
+      "GDP_factor": 1.071,
+      "reported_cost": 4401018
+    },
+    "item13": {
+      "printing_mines": 12631,
+      "printing_base_price": 2,
+      "medical_new_by_year": [
+        0,
+        8392,
+        8392
+      ],
+      "medical_existing_by_year": [
+        0,
+        88112,
+        0
+      ],
+      "transmissions_per_exam": 2,
+      "transmission_base_price": 10,
+      "GDP_ratio": "117.996/110.220",
+      "annual_printing": 27044.23,
+      "annual_transmission": 748639.05,
+      "annual_total": 775683,
+      "scope": "Only communication component of purchased medical exams"
+    },
+    "item14": {
+      "annual_cost": 0,
+      "rationale": "Routine inspection review; NIOSH system scope not quantified"
+    },
+    "item15": {
+      "new_control_hours": 63972,
+      "other_control_changes": {
+        "1219-0011": 0,
+        "1219-0048": 20038
+      },
+      "all_control_delta": 84010,
+      "new_control_prior": 0,
+      "proposed_to_final": "Separate corrective sampling from2.5% periodic sampling; use observed exceedance data"
+    },
+    "assumptions": [
+      "Coal starts year1; MNM year2;2% annual entrants offset mine exits.",
+      "Representative samples cover50%,25%,15% of miners depending on mine size.",
+      "Exposure exceedance declines linearly toward year7; seasonal mines sample according to quarters operated.",
+      "Corrective repeat attempts expected1.25 = .80*1+.15*2+.05*3.",
+      "Reported yearly hours18720,109983,63215; yearly dollars1260818.92,7704098.39,4238135.24."
+    ]
+  },
+  "reconstruction_issues": [
+    "MNM corrective-action records show1845.97 hours at38.37 but45870.40 dollars; displayed product is70829.8689.",
+    "Both ECI and GDP adjustments cover2021–22 without explaining why two nominal updates are required.",
+    "Item13 respondent total47596 adds12631 mines to34965 miners; these are different unit types.",
+    "Federal zero addresses routine MSHA inspections but not the new NIOSH result-transmission system mentioned in the requirements."
+  ],
+  "methods_worth_testing": [
+    "Model staged implementation, seasonal operation, entrant replacement and exposure-threshold pathways separately.",
+    "Preserve observed baseline exposure and assumed future compliance response; test both independently.",
+    "Separate the information-transmission component of a broader purchased medical service."
+  ],
+  "checks": [
+    {
+      "label": "Annual hours",
+      "formula": "(18720+109983+63215)/3",
+      "calculated": 63972.666666666664,
+      "reported": 63972,
+      "difference": 0.6666666666642413,
+      "unit": "hours",
+      "interpretation": "Underlying unrounded values needed; displayed average differs0.67",
+      "source_id": "SRC-0106"
+    },
+    {
+      "label": "Annual labor",
+      "formula": "(1260818.92+7704098.39+4238135.24)/3",
+      "calculated": 4401017.516666667,
+      "reported": 4401018,
+      "difference": -0.4833333333954215,
+      "unit": "USD",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0106"
+    },
+    {
+      "label": "Repeat attempts",
+      "formula": ".8*1+.15*2+.05*3",
+      "calculated": 1.25,
+      "reported": 1.25,
+      "difference": 0.0,
+      "unit": "attempts",
+      "interpretation": "Exact",
+      "source_id": "SRC-0106"
+    },
+    {
+      "label": "Corrective cost",
+      "formula": "1845.97*38.37",
+      "calculated": 70829.8689,
+      "reported": 45870.4,
+      "difference": 24959.4689,
+      "unit": "USD",
+      "interpretation": "Material discrepancy",
+      "source_id": "SRC-0106"
+    },
+    {
+      "label": "Transmission cost",
+      "formula": "2*(8392+8392+88112)/3*10*(117.996/110.220)",
+      "calculated": 748642.6187624752,
+      "reported": 748639.05,
+      "difference": 3.5687624751590192,
+      "unit": "USD",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0106"
+    }
+  ],
+  "total_score": 73
+}

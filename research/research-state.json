@@ -1,7 +1,7 @@
 {
   "mission_status": "IN_PROGRESS",
-  "current_iteration": 4,
-  "icrs_reviewed": 39,
+  "current_iteration": 5,
+  "icrs_reviewed": 44,
   "agencies_components_reviewed": [
     "CFPB",
     "DHS/TSA",
@@ -10,10 +10,12 @@
     "DOC/CENSUS",
     "DOL/BLS",
     "DOL/EBSA",
+    "DOL/MSHA",
     "DOL/OSHA",
     "DOT/FMCSA",
     "DOT/FRA",
     "DOT/PHMSA",
+    "EPA/OAR",
     "EPA/OCSPP",
     "EPA/OLEM",
     "EPA/OW",
@@ -29,17 +31,56 @@
   "rubric_version": "1.0.0",
   "canonical_model_version": "0.5.0",
   "current_leaders": {
-    "best_individual_seed": "202404-1220-001",
+    "best_individual_recent": [
+      "202404-1220-001"
+    ],
     "by_dimension": {
-      "reproducibility": "202409-3235-022",
-      "provenance": "202404-1220-001",
-      "segmentation": "202310-0607-003",
-      "labor": "202310-1220-004",
-      "item13": "202310-0607-003",
-      "item14": "202501-1210-006",
-      "item15": "202503-3060-020",
-      "validation": "202310-0607-003",
-      "consistency": "202409-3235-022"
+      "reproducibility": [
+        "202409-3235-022"
+      ],
+      "provenance": [
+        "202404-1220-001",
+        "202405-1652-001"
+      ],
+      "segmentation": [
+        "202310-0607-003",
+        "202310-1219-001",
+        "202310-1220-004",
+        "202312-2050-001",
+        "202401-3235-005",
+        "202404-1220-001",
+        "202405-1652-001",
+        "202406-1652-001",
+        "202410-0960-002",
+        "202502-2040-002",
+        "202509-2060-003",
+        "202511-1545-005",
+        "202603-1210-004"
+      ],
+      "labor": [
+        "202310-1220-004",
+        "202405-1218-005",
+        "202405-1652-001",
+        "202411-1651-004",
+        "202411-2070-003"
+      ],
+      "item13": [
+        "202310-0607-003",
+        "202404-1220-001",
+        "202602-0607-001"
+      ],
+      "item14": [
+        "202501-1210-006"
+      ],
+      "item15": [
+        "202503-3060-020"
+      ],
+      "validation": [
+        "202310-0607-003"
+      ],
+      "consistency": [
+        "202409-3235-022"
+      ]
     },
     "agency_leader": "insufficient repeated evidence",
     "most_consistent_agency": "not estimable"
@@ -49,19 +90,21 @@
     "mean": 66,
     "min": 50,
     "max": 76,
-    "conclusion": "Seed shows useful detail and material public reconstruction errors;federal or agency ranking not established."
+    "conclusion": "Observed TSA sample shows useful methods and material reconstruction gaps; agency-wide ranking and overhaul effects remain unestablished."
   },
   "open_methodological_questions": [
     "See research/open-questions.md"
   ],
   "unresolved_evidence_gaps": [
-    "Below40 reviewed minimum",
     "TSA process-overhaul attribution unverified",
     "No matched agency dispersion samples",
     "Underlying citations not all independently retrieved",
-    "No saturation or challenge round"
+    "No saturation or challenge round",
+    "No validated nonzero capital exemplar",
+    "Peripheral table normalization incomplete",
+    "Scoring calibration and final source/claim validation pending"
   ],
   "saturation_streak": 0,
-  "next_research_strategy": "Iteration 5: MSHA silica and respiratory protection, SEC Form PF, and complete EPA/FERC amendment lineage; then select strategic batches after the minimum gate.",
-  "updated_at": "2026-09-09T11:08:21.904241+00:00"
+  "next_research_strategy": "Iteration 6: nonzero capital annualization, federal resource costs, and repeated regulated-industry challengers; NRC and EPA retrieved, other targets in discovery.",
+  "updated_at": "2026-09-09T11:17:43.308551+00:00"
 }

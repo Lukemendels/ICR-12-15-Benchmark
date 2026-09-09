@@ -1,6 +1,6 @@
 # Provisional observed leaders
 
-Current reviewed sample: 39. Scores measure accessible documentation and remain provisional. Ties are retained. One-point differences are not evidence of substantive superiority.
+Current reviewed sample: 44. Scores measure accessible documentation and remain provisional. Ties are retained. One-point differences are not evidence of substantive superiority.
 
 Highest overall observed score: 83/100 — 202404-1220-001.
 

@@ -1,0 +1,154 @@
+{
+  "icr_id": "202403-1219-001",
+  "omb_control_number": "1219-0158",
+  "agency": "DOL/MSHA",
+  "title": "Respiratory Protection Program at Coal Mines",
+  "submission_date": "08/15/2024",
+  "archetype": "coal mine respiratory protection records",
+  "complexity": "medium",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 5,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0110",
+    "SRC-0109"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 19,
+    "provenance": 11,
+    "segmentation": 13,
+    "labor": 4,
+    "item13": 5,
+    "item14": 6,
+    "item15": 8,
+    "validation": 3,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Four activities with mine counts, frequency and exact minutes; burden totals reconstruct.",
+    "provenance": "NAICS/SOC, OEWS2021, ECEC and ECI series and GDP index identified; older2019 population anchored to rule analysis.",
+    "segmentation": "SOP revision, ASTM records, medical/fit tests and emergency inspections separate.",
+    "labor": "Benefit and overhead factors explicit, but both ECI and GDP inflation appear applied over the same2021–22 period.",
+    "item13": "No additional nonlabor cost asserted; exclusions to related controls are helpful but cost boundary incomplete.",
+    "item14": "Routine inspection rationale for zero; incremental inspection time not quantified.",
+    "item15": "New control and overlap exclusions clearly identified; zero-to-new bridge implicit.",
+    "validation": "Administrative mine definition and agency experience; no measured four-hour timing evidence.",
+    "consistency": "Main products reconcile with undisplayed precision; source-period typo and apparent duplicate inflation weaken defensibility."
+  },
+  "thoroughness": "moderate",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "SOP revision",
+        1106,
+        4,
+        4424
+      ],
+      [
+        "ASTM records",
+        1106,
+        4,
+        4424
+      ],
+      [
+        "Medical/fit test records",
+        4424,
+        0.25,
+        1106
+      ],
+      [
+        "Emergency inspection records",
+        13272,
+        0.08333333333333333,
+        1106
+      ]
+    ],
+    "labor": {
+      "base_rates": [
+        39.22,
+        21.49
+      ],
+      "benefit_factor": 1.49,
+      "ECI_factor": 1.043,
+      "overhead_factor": 1.17,
+      "GDP_factor": 1.071,
+      "loaded_rates": [
+        76.35,
+        41.83
+      ],
+      "wage_year": 2021,
+      "claimed_price_year": 2022,
+      "reported_cost": 691689
+    },
+    "item13": {
+      "annual_cost": 0,
+      "rationale": "No additional costs asserted"
+    },
+    "item14": {
+      "annual_cost": 0,
+      "rationale": "Records examined during routine inspections"
+    },
+    "item15": {
+      "new_collection": true,
+      "prior_hours": 0,
+      "proposed_hours": 11060,
+      "excluded_controls": [
+        "1219-0156 silica",
+        "1219-0048 nonmetal respiratory programs"
+      ]
+    },
+    "assumptions": [
+      "1106 active2019 coal mines; active means at least520 employment hours in one quarter.",
+      "Four miners per mine; monthly emergency inspection; four annual SOP hours and four recordkeeping hours."
+    ]
+  },
+  "reconstruction_issues": [
+    "Wages are updated with both2021–22 ECI and2021–22 GDP price factors; the statement does not justify applying both nominal changes.",
+    "Footnote names2012Q2 although the companion silica statement specifies2021Q2 for the same ECI ratio."
+  ],
+  "methods_worth_testing": [
+    "Explicitly link related respiratory and silica obligations to distinct controls.",
+    "Preserve every inflation stage and test whether time periods overlap."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "4424+4424+1106+1106",
+      "calculated": 11060,
+      "reported": 11060,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0110"
+    },
+    {
+      "label": "Responses",
+      "formula": "1106+1106+4424+13272",
+      "calculated": 19908,
+      "reported": 19908,
+      "difference": 0,
+      "unit": "responses",
+      "interpretation": "Exact",
+      "source_id": "SRC-0110"
+    },
+    {
+      "label": "Hygienist rate",
+      "formula": "39.22*1.49*1.043*1.17*1.071",
+      "calculated": 76.375400169978,
+      "reported": 76.35,
+      "difference": 0.0254001699779991,
+      "unit": "USD/hour",
+      "interpretation": "Display rounding; conceptual double-inflation question separate",
+      "source_id": "SRC-0110"
+    }
+  ],
+  "total_score": 72
+}

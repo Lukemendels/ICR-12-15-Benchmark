@@ -11,3 +11,7 @@ Iteration3:29reviewed; minimumFAIL. MajornewmethodsYES;rubricchangeNO;canonicalc
 ## Iteration 4
 
 Reviewed: 39. Minimum gate: FAIL. No new major dimension: FAIL (statistical calibration, measurement scope, allocated overhead). No rubric revision: PASS. Only trivial canonical change: FAIL (v0.5.0). No material leader change: FAIL (Census validation evidence; EBSA compact high-scoring comparator). No new data-source category: FAIL (survey-calibrated burden models and overhead allocation inputs). No new tool requirement: FAIL. Ordinary additional ICRs unlikely to resolve uncertainty: FAIL. Result: NOT ELIGIBLE / NOT SATURATED. Streak: 0.
+
+## Iteration 5
+
+Reviewed44, but batch began before the minimum gate at39. This is not counted as a post-minimum saturation batch. No new major best-practice dimension: PASS (new examples fit existing scope, cohort, provenance and validation dimensions). No rubric revision: PASS. Only trivial canonical change: PASS (no version change). No major leader change: PASS. No important new source category: PASS (additional administrative inspection evidence). No significant new tool requirement: PASS (existing inflation/baseline validators apply). Remaining uncertainty unlikely to resolve through ordinary ICRs: FAIL (capital annualization and federal costing remain promising targets). Result: NOT SATURATED. Streak0.

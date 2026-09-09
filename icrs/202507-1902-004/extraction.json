@@ -1,0 +1,190 @@
+{
+  "icr_id": "202507-1902-004",
+  "omb_control_number": "1902-0244",
+  "agency": "FERC",
+  "title": "FERC-725A, RD25-5 Mandatory Reliability Standards for the Bulk-Power System",
+  "submission_date": "07/30/2025",
+  "archetype": "bulk power reliability rule and baseline transfers",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 5,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0072",
+    "SRC-0071",
+    "SRC-0112",
+    "SRC-0111"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 9,
+    "segmentation": 14,
+    "labor": 6,
+    "item13": 2,
+    "item14": 6,
+    "item15": 6,
+    "validation": 3,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "New97*4-hour task plus retrieved prior master table permits full hour reconstruction; amendment alone uses obsolete baseline.",
+    "provenance": "NERC registry date and BLS occupations identified; underlying load and task-time evidence incomplete.",
+    "segmentation": "Reliability standards, registration roles, records and transfer destinations distinguished.",
+    "labor": "75/25 engineer/clerk mix explicit; benefits embedded in rates without complete derivation.",
+    "item13": "Statement says no nonlabor cost while ROCIS carries371100; prior statement also contradicts its own cost table.",
+    "item14": "PRA administration allowance explained, but updated7978 versus prior8396 is not derived.",
+    "item15": "Incremental388-hour change clear; stale prior baseline and unresolved transfer arithmetic weaken full bridge.",
+    "validation": "Registry supports population; four-hour task and inherited120/160-hour workloads untested.",
+    "consistency": "Statement totals use1407238 baseline while ROCIS correctly uses1103040; prior master and transfer tables contain errors."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "INT006",
+        168,
+        120,
+        20160
+      ],
+      [
+        "INT009",
+        98,
+        120,
+        11760
+      ],
+      [
+        "TOP001",
+        1567,
+        120,
+        188040
+      ],
+      [
+        "TOP002",
+        422,
+        120,
+        50640
+      ],
+      [
+        "TOP003 prior",
+        1567,
+        120,
+        188040
+      ],
+      [
+        "TOP010",
+        422,
+        120,
+        50640
+      ],
+      [
+        "BPS records",
+        3711,
+        160,
+        593760
+      ],
+      [
+        "TOP003-7 new",
+        97,
+        4,
+        388
+      ]
+    ],
+    "labor": {
+      "engineer_loaded": 79.31,
+      "clerk_loaded": 44.74,
+      "mix": [
+        0.75,
+        0.25
+      ],
+      "weighted": 70.67,
+      "prior_labor_cost": 77951836.8,
+      "new_task_labor": 27420,
+      "basis": "2023BLS utility occupations, described as2024 estimate"
+    },
+    "item13": {
+      "statement_nonlabor": 0,
+      "package_nonlabor": 371100,
+      "prior_statement_cost_table": 371100,
+      "reconstruction_status": "Unexplained contradiction"
+    },
+    "item14": {
+      "annual_cost": 7978,
+      "method": "PRA administration allowance; direct filing analysis0",
+      "prior_allowance": 8396
+    },
+    "item15": {
+      "amendment_statement_old_hours": 1407238,
+      "correct_prior_approved_hours": 1103040,
+      "new_hours": 1103428,
+      "program_delta": 388,
+      "prior_renewal_transfer_delta": -304198,
+      "prior_renewal_ref": "202408-1902-001",
+      "old_responses": 7955,
+      "new_responses": 8052
+    },
+    "assumptions": [
+      "New cold-weather operating-process requirement affects97 balancing authorities at4 hours each.",
+      "Prior control transfers FAC to725D,PRC to725G andPER to725Y; older notice baseline must not replace approved baseline."
+    ]
+  },
+  "reconstruction_issues": [
+    "Amendment uses pre-renewal1407238-hour baseline rather than approved1103040; package and statement differ by304198 hours.",
+    "Both retrieved statements assert zero nonlabor cost despite371100 in current inventory.",
+    "Prior PRC008 transfer components7776+8904=16680, not18680; PRC011 says371/2=180.5 instead of185.5."
+  ],
+  "methods_worth_testing": [
+    "Bind every amendment to an approved baseline identifier and preserve transfer events across controls."
+  ],
+  "checks": [
+    {
+      "label": "Prior master",
+      "formula": "20160+11760+188040+50640+188040+50640+593760",
+      "calculated": 1103040,
+      "reported": 1103040,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0072"
+    },
+    {
+      "label": "Current hours",
+      "formula": "1103040+97*4",
+      "calculated": 1103428,
+      "reported": 1103428,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0072"
+    },
+    {
+      "label": "Weighted rate",
+      "formula": ".75*79.31+.25*44.74",
+      "calculated": 70.6675,
+      "reported": 70.67,
+      "difference": -0.0024999999999977263,
+      "unit": "USD/hour",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0072"
+    },
+    {
+      "label": "Transfer subtotal",
+      "formula": "7776+8904",
+      "calculated": 16680,
+      "reported": 18680,
+      "difference": -2000,
+      "unit": "hours",
+      "interpretation": "2000-hour discrepancy",
+      "source_id": "SRC-0072"
+    }
+  ],
+  "total_score": 64,
+  "review_scope": "One collection family; recent amendment reviewed with full prior renewal. Prior renewal not separately counted."
+}

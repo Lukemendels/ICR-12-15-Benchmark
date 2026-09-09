@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202505-2060-004",
+  "retrieved_at": "2026-09-09T11:16:27.745533+00:00",
+  "documents": [
+    {
+      "title": "2391ss07 (1).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=158300300",
+      "path": "icrs/202505-2060-004/raw/supporting-statement-a-1.docx",
+      "sha256": "e945e50ad6ca92e7ea01f70aa63583ee26ba1a5bf4d33621a797f16e000185dd",
+      "text_chars": 59279
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202505-2060-004",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202505-2060-004",
+  "agency": "EPA/OAR",
+  "title": "Cross-State Air Pollution Rule and Texas SO2 Trading Programs (Renewal)",
+  "omb_control_number": "2060-0667",
+  "submission_date": "05/30/2025",
+  "record_source_id": "SRC-0115",
+  "supporting_statement_source_ids": [
+    "SRC-0116"
+  ]
+}

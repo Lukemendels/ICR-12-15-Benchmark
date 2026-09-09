@@ -1,11 +1,14 @@
 icr_id,omb_control_number,agency,title,submission_date,archetype,complexity,tsa_relevance,review_status,source_ids
 202310-0607-003,0607-1024,DOC/CENSUS,Annual Integrated Economic Survey,10/31/2023,integrated annual business survey,very high,technique,REVIEWED_PROVISIONAL,SRC-0076;SRC-0075;SRC-0097;SRC-0098;SRC-0099
+202310-1219-001,1219-0156,DOL/MSHA,Respirable Crystalline Silica Standard,04/18/2024,silica exposure monitoring and medical records,very high,direct,REVIEWED_PROVISIONAL,SRC-0106;SRC-0105
 202310-1220-004,1220-0164,DOL/BLS,National Compensation Survey,01/31/2024,establishment compensation survey,high,technique,REVIEWED_PROVISIONAL,SRC-0078;SRC-0077
 202311-2137-001,2137-0612,DOT/PHMSA,Hazardous Materials Security Plans,11/14/2023,hazardous materials security plans and rail routing,high,direct,REVIEWED_PROVISIONAL,SRC-0080;SRC-0079
 202312-2050-001,2050-0230,EPA/OLEM,Alternate PCB Extraction Methods and Amendments to PCB Cleanup and Disposal Regulations (Final Rule),01/10/2024,PCB cleanup anddisposal rule transition,high,direct,REVIEWED_PROVISIONAL,SRC-0056;SRC-0055
 202401-1615-055,1615-0038,DHS/USCIS,Petition to Remove the Conditions on Residence,02/08/2024,immigration residence petition withbiometrics,medium,adjacent,REVIEWED_PROVISIONAL,SRC-0058;SRC-0057
+202401-3235-005,3235-0679,SEC,Form PF and Rule 204(b)-1,01/11/2024,private fund reporting and systems implementation,very high,direct,REVIEWED_PROVISIONAL,SRC-0108;SRC-0107
 202402-1652-002,1652-0040,DHS/TSA,Air Cargo Security Requirements,03/27/2024,regulated-industry security reporting and recordkeeping,high,direct,REVIEWED_PROVISIONAL,SRC-0004;SRC-0003
 202403-0910-005,0910-0879,HHS/FDA,Premarket Tobacco Product Applications and Recordkeeping Requirements,11/27/2024,complex premarket regulated-industry applications,high,direct,REVIEWED_PROVISIONAL,SRC-0006;SRC-0005
+202403-1219-001,1219-0158,DOL/MSHA,Respiratory Protection Program at Coal Mines,08/15/2024,coal mine respiratory protection records,medium,direct,REVIEWED_PROVISIONAL,SRC-0110;SRC-0109
 202404-1220-001,1220-0045,DOL/BLS,Survey of Occupational Injuries and Illnesses,07/01/2024,statistical employer survey and recordkeeping,high,method transfer,REVIEWED_PROVISIONAL,SRC-0008;SRC-0007
 202404-2137-003,2137-0557,DOT/PHMSA,Approvals for Hazardous Materials,04/12/2024,hazardous materials approval applications,high,direct,REVIEWED_PROVISIONAL,SRC-0082;SRC-0081
 202405-1218-005,1218-0238,DOL/OSHA,Portable Fire Extinguishers Standard (Annual Maintenance Certification Record) (29 CFR 1910.157(e)(3)),07/09/2024,portable fire extinguisher inspection records,high,direct,REVIEWED_PROVISIONAL,SRC-0060;SRC-0059
@@ -30,8 +33,10 @@ icr_id,omb_control_number,agency,title,submission_date,archetype,complexity,tsa_
 202505-3060-038,3060-0678,FCC,"Part 25 of the Federal Communications Commission's Rules Governing the Licensing of, and Spectrum Usage By, Commercial Earth Stations and Space Stations",05/28/2025,satellite licensing andengineering filings,high,direct,REVIEWED_PROVISIONAL,SRC-0068;SRC-0067
 202506-0938-007,0938-0050,HHS/CMS,Hospitals and Health Care Complex Cost Report (CMS-2552-10),06/11/2025,hospital cost reporting,high,direct,REVIEWED_PROVISIONAL,SRC-0090;SRC-0089
 202506-2130-004,2130-0005,DOT/FRA,Hours of Service Regulations,07/09/2025,rail dutyrecords andfatiguemodeling,high,direct,REVIEWED_PROVISIONAL,SRC-0070;SRC-0069
+202507-1902-004,1902-0244,FERC,"FERC-725A, RD25-5 Mandatory Reliability Standards for the Bulk-Power System",07/30/2025,bulk power reliability rule and baseline transfers,high,direct,REVIEWED_PROVISIONAL,SRC-0072;SRC-0071;SRC-0112;SRC-0111
 202508-1652-001,1652-0046,DHS/TSA,Secure Flight Program,12/11/2025,Secure Flight passenger andvisitor vetting,high,direct,REVIEWED_PROVISIONAL,SRC-0048;SRC-0047
 202508-2126-007,2126-0001,DOT/FMCSA,Hours of Service (HOS) of Drivers Regulations,09/15/2025,driver electroniclogging records,high,direct,REVIEWED_PROVISIONAL,SRC-0074;SRC-0073
+202509-2060-003,2060-0620,EPA/OAR,"NESHAP for Gasoline Distribution Bulk Terminals, Bulk Plants, Pipeline Facilities and Gasoline Dispensing Facilities (40 CFR part 63, subparts BBBBBB and CCCCCC) (Final Rule)",09/30/2025,gasoline distribution emissions records and amendments,very high,direct,REVIEWED_PROVISIONAL,SRC-0092;SRC-0091;SRC-0104;SRC-0103
 202511-1545-005,1545-0123,TREAS/IRS,U.S. Business Income Tax Returns,12/15/2025,business tax compliance statistical burden model,very high,adjacent,REVIEWED_PROVISIONAL,SRC-0094;SRC-0093;SRC-0100;SRC-0101
 202602-0607-001,0607-1004,DOC/CENSUS,Annual Business Survey,02/17/2026,business statistical survey consolidation,medium,method transfer,REVIEWED_PROVISIONAL,SRC-0050;SRC-0049
 202602-3170-003,3170-0008,CFPB,Home Mortgage Disclosure Act (Regulation C),02/27/2026,financial mortgage reporting,high,direct,REVIEWED_PROVISIONAL,SRC-0052;SRC-0051

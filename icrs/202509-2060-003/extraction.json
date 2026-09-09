@@ -1,0 +1,192 @@
+{
+  "icr_id": "202509-2060-003",
+  "omb_control_number": "2060-0620",
+  "agency": "EPA/OAR",
+  "title": "NESHAP for Gasoline Distribution Bulk Terminals, Bulk Plants, Pipeline Facilities and Gasoline Dispensing Facilities (40 CFR part 63, subparts BBBBBB and CCCCCC) (Final Rule)",
+  "submission_date": "09/30/2025",
+  "archetype": "gasoline distribution emissions records and amendments",
+  "complexity": "very high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 5,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0092",
+    "SRC-0091",
+    "SRC-0104",
+    "SRC-0103"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 9,
+    "segmentation": 15,
+    "labor": 3,
+    "item13": 6,
+    "item14": 5,
+    "item15": 8,
+    "validation": 2,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Retrieved full baseline plus increment reconstruct ROCIS hours/responses; detailed sector/role appendices available.",
+    "provenance": "Baseline ECEC2020 and new OEWS2021 identified; legacy burden assumptions and source dates need renewal.",
+    "segmentation": "Terminals, plants, stations and dispensing facilities; technical/manager/clerical roles; transition years.",
+    "labor": "Baseline starts with total compensation then adds110% for benefits, double-counting benefits as described; new model uses wages and same factor.",
+    "item13": "Baseline CPMS maintenance110*1000 explicit; incrementalzero lacks full monitoring-capital scope justification.",
+    "item14": "Baseline federal23900hours/1.19million and new7261hours/362782 are separate; ROCIS reports only increment.",
+    "item15": "214000+83882 and6900+3161 reconcile; old underlying213592 rounded to214000 must remain distinct.",
+    "validation": "Agency experience and legacy standards, without measured current time validation.",
+    "consistency": "Current package combines full respondent burden with incremental federal cost; mixed source price years and baseline loading error."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Prior reporting",
+        6900,
+        null,
+        35054
+      ],
+      [
+        "Prior recordkeeping",
+        null,
+        null,
+        178538
+      ],
+      [
+        "Prior rounded approved hours",
+        null,
+        null,
+        214000
+      ],
+      [
+        "Amendment incremental",
+        3161,
+        null,
+        83882
+      ]
+    ],
+    "labor": {
+      "baseline_roles": [
+        "manager",
+        "technical",
+        "clerical"
+      ],
+      "baseline_total_compensation": [
+        71.35,
+        58.41,
+        28.99
+      ],
+      "baseline_factor": 2.1,
+      "baseline_loaded": [
+        149.84,
+        122.66,
+        60.88
+      ],
+      "baseline_labor": 25304128,
+      "new_wage_roles": [
+        55.84,
+        27.75,
+        21.11
+      ],
+      "new_factor": 2.1,
+      "new_labor": 5001981,
+      "role_hour_ratios": {
+        "manager_to_technical": 0.05,
+        "clerk_to_technical": 0.1
+      },
+      "price_year_warning": "Baseline2020 compensation and increment2021 wages cannot be treated as a common-price cost series"
+    },
+    "item13": {
+      "baseline_monitor_count": 110,
+      "annual_maintenance_each": 1000,
+      "baseline_annual_cost": 110000,
+      "incremental_cost": 0,
+      "new_capital": 0
+    },
+    "item14": {
+      "baseline_hours": 23900,
+      "baseline_annual_cost": 1190000,
+      "increment_hours": 7261,
+      "increment_annual_cost": 362782,
+      "package_annual_cost": 362782,
+      "basis": "2021GS with60%benefit markup; no locality"
+    },
+    "item15": {
+      "baseline_ref": "202201-2060-018",
+      "prior_approved_hours": 214000,
+      "prior_unrounded_hours": 213592,
+      "increment_hours": 83882,
+      "current_hours": 297882,
+      "prior_responses": 6900,
+      "new_responses": 10061,
+      "nonlabor_unchanged": 110000
+    },
+    "assumptions": [
+      "Prior affected collection population19120;350000 regulated facilities but most already satisfy state/local rules.",
+      "Incremental affected facility-year average4632 from[0,4632,9263], with545terminals2957plants900pump230breakout stations.",
+      "Baseline manager hours5% andclerical10% oftechnical time; annual O&M applies10% of1100terminals."
+    ]
+  },
+  "reconstruction_issues": [
+    "Baseline explicitly loads ECEC total compensation by110% to account for benefits already included in that source measure.",
+    "ROCIS annual federal cost362782 is the increment, while respondent totals include the full baseline; full federal cost scope not reconciled.",
+    "Baseline vapor-balance testing every three years is modeled at.3 occurrences/year rather than1/3.",
+    "Current respondent labor components use different source price years and loading conventions."
+  ],
+  "methods_worth_testing": [
+    "Preserve both rounded approved inventory and unrounded analytical baseline when calculating amendments.",
+    "Check source-variable semantics before loading compensation; a precise citation can reveal double counting."
+  ],
+  "checks": [
+    {
+      "label": "Hours bridge",
+      "formula": "214000+83882",
+      "calculated": 297882,
+      "reported": 297882,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0092"
+    },
+    {
+      "label": "Response bridge",
+      "formula": "6900+3161",
+      "calculated": 10061,
+      "reported": 10061,
+      "difference": 0,
+      "unit": "responses",
+      "interpretation": "Exact",
+      "source_id": "SRC-0092"
+    },
+    {
+      "label": "Baseline O&M",
+      "formula": "110*1000",
+      "calculated": 110000,
+      "reported": 110000,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0092"
+    },
+    {
+      "label": "Three-year testing",
+      "formula": "9860*6/3",
+      "calculated": 19720.0,
+      "reported": 17748,
+      "difference": 1972.0,
+      "unit": "technical hours",
+      "interpretation": "1972-hour understatement relative to stated every-three-year frequency",
+      "source_id": "SRC-0092"
+    }
+  ],
+  "total_score": 68,
+  "review_scope": "Recent full collection reconstructed from2022baseline and2026approved amendment; older baseline is not a separate benchmark ICR."
+}

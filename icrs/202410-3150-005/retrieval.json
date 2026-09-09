@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202410-3150-005",
+  "retrieved_at": "2026-09-09T11:16:27.744787+00:00",
+  "documents": [
+    {
+      "title": "Part 50 section 1 final supporting statement - Overview \u201cDomestic Licensing of Production and Utilization Facilities\u201d.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=148215401",
+      "path": "icrs/202410-3150-005/raw/supporting-statement-a-1.docx",
+      "sha256": "4bc1bee2d9b9ba493934f4b433b6f66bc02a13f61ef9c494576161c7b3088c14",
+      "text_chars": 18917
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202410-3150-005",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202410-3150-005",
+  "agency": "NRC",
+  "title": "10 CFR Part 50, Domestic Licensing of Production and Utilization Facilities",
+  "omb_control_number": "3150-0011",
+  "submission_date": "10/24/2024",
+  "record_source_id": "SRC-0113",
+  "supporting_statement_source_ids": [
+    "SRC-0114"
+  ]
+}

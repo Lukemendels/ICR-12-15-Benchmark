@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-09-09T11:17:26.239160+00:00",
+  "review_count": 44,
+  "unique_icr_ids": 44,
+  "unique_controls": 44,
+  "errors": [],
+  "scope": "Score sums, numeric-check differences and unique controls only; not the final evidence-freeze validation"
+}
