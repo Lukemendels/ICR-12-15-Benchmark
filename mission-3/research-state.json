@@ -1,5 +1,5 @@
 {
-  "MISSION_STATUS": "INITIALIZING",
+  "MISSION_STATUS": "RECOVERY_IN_PROGRESS",
   "evidence_version": "M3-0.1.0",
   "graph_version": "0.1.0",
   "base_commit": "d041cde75fe33b0bf9dec29c7cc6ae7309ca8a69",
@@ -10,9 +10,10 @@
   ],
   "completed": [
     "Read authoritative state, handoff, methods, TSA extractions and validation",
-    "Verified available local files against GitHub blob identities"
+    "Verified available local files against GitHub blob identities",
+    "Reconstructed 900 durable blobs and verified Git SHA-1 identities; discarded uncommitted prior analysis"
   ],
-  "next": "Complete official TSA inventory, commit architecture, then extract in batches",
+  "next": "Complete control-history audit, commit TSA inventory, validate graph schema, extract current/recent and selected lineage sources in batches",
   "freeze_gates": {
     "portfolio": false,
     "current_recent_coverage": false,
@@ -24,5 +25,6 @@
     "provenance_validation": false,
     "gaps_documented": false,
     "tool_readiness": false
-  }
+  },
+  "recovery_base_commit": "acc9b604e446220651f55d3364653368f781a7a5"
 }
