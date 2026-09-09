@@ -1,0 +1,658 @@
+icr_id,dimension,points,maximum,rationale,source_ids,locator,evidence_version
+202306-3038-007,reproducibility,16,20,Attachment rows show activity formulas and four IC totals; displayed frequency/count and system-response inconsistencies.,SRC-0124;SRC-0125,Item12,M1-1.0.0
+202306-3038-007,provenance,9,15,BLS2022 financial industry source and labor mix for new rate; inherited rates less traceable.,SRC-0124;SRC-0125,Items12–15 and footnotes,M1-1.0.0
+202306-3038-007,segmentation,14,15,"Nine reporting activities, records, DCOs, corrections and new systems separated.",SRC-0124;SRC-0125,Item12,M1-1.0.0
+202306-3038-007,labor,6,10,50/25/25 programmer/compliance/lawyer mix and1.3 loading; component wages and occupation codes omitted.,SRC-0124;SRC-0125,Item12,M1-1.0.0
+202306-3038-007,item13,5,10,"Zero justified by inclusion in labor, without a detailed purchased-system boundary.",SRC-0124;SRC-0125,Item13,M1-1.0.0
+202306-3038-007,item14,5,10,"No incremental staff/technology asserted, not a full workload model.",SRC-0124;SRC-0125,Item14,M1-1.0.0
+202306-3038-007,item15,8,10,Exact2825-hour program increment connects1093 reporting and1732 system hours.,SRC-0124;SRC-0125,Item15,M1-1.0.0
+202306-3038-007,validation,2,5,Staff experience; little independent support for large transaction frequencies or one-hour system changes.,SRC-0124;SRC-0125,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202306-3038-007,consistency,2,5,New UPI response frequency63 conflicts with109300 annual responses; new systems annual-response column1 conflicts with1732 entities.,SRC-0124;SRC-0125,Items12–15 and ROCIS summary,M1-1.0.0
+202310-0607-003,reproducibility,17,20,Sector and single/multi-unit tables in accessible workbook; published disclosure rounding prevents exact reconstruction from all displayed counts.,SRC-0075;SRC-0076;SRC-0097;SRC-0098;SRC-0099,Item12,M1-1.0.0
+202310-0607-003,provenance,11,15,Sector-specific 2021 OEWS accountant rates and dated preliminary testing evidence; burden coefficients lack complete derivation.,SRC-0075;SRC-0076;SRC-0097;SRC-0098;SRC-0099,Items12–15 and footnotes,M1-1.0.0
+202310-0607-003,segmentation,15,15,"Single/multi-unit businesses, industry sectors and dress rehearsal are distinguished.",SRC-0075;SRC-0076;SRC-0097;SRC-0098;SRC-0099,Item12,M1-1.0.0
+202310-0607-003,labor,5,10,Accountant occupation and industry wage match are explicit; benefits and overhead are not included.,SRC-0075;SRC-0076;SRC-0097;SRC-0098;SRC-0099,Item12,M1-1.0.0
+202310-0607-003,item13,10,10,"Existing records, systems and customary professional services explicitly justify a zero.",SRC-0075;SRC-0076;SRC-0097;SRC-0098;SRC-0099,Item13,M1-1.0.0
+202310-0607-003,item14,3,10,Annual 39 million budget lists activities but lacks cost quantities and rates.,SRC-0075;SRC-0076;SRC-0097;SRC-0098;SRC-0099,Item14,M1-1.0.0
+202310-0607-003,item15,6,10,Adds 1000 multi-unit businesses and 3100 hours; consolidation and dress-rehearsal baselines remain complex.,SRC-0075;SRC-0076;SRC-0097;SRC-0098;SRC-0099,Item15,M1-1.0.0
+202310-0607-003,validation,5,5,"Independent response survey, questionnaire and paradata give measured burden distributions with sample sizes; measures cover different scopes.",SRC-0075;SRC-0076;SRC-0097;SRC-0098;SRC-0099,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202310-0607-003,consistency,2,5,Dress rehearsal 33256 hours in Item 12 versus 33305 in Item 13/workbook; main tables disclose rounding.,SRC-0075;SRC-0076;SRC-0097;SRC-0098;SRC-0099,Items12–15 and ROCIS summary,M1-1.0.0
+202310-1219-001,reproducibility,17,20,Year/sector/size/season and activity matrices reconstruct most quantities; corrective-action dollars conflict with displayed hours and rates.,SRC-0105;SRC-0106,Item12,M1-1.0.0
+202310-1219-001,provenance,11,15,Administrative2019 employment and historical inspection samples identified; series codes and wage transformations precise.,SRC-0105;SRC-0106,Items12–15 and footnotes,M1-1.0.0
+202310-1219-001,segmentation,15,15,"Coal/nonmetal, size, seasonal quarters, entry cohorts and exposure thresholds meaningfully differentiated.",SRC-0105;SRC-0106,Item12,M1-1.0.0
+202310-1219-001,labor,4,10,"Occupation/benefit/overhead stages explicit, but ECI and GDP changes both update the same period without economic explanation.",SRC-0105;SRC-0106,Item12,M1-1.0.0
+202310-1219-001,item13,7,10,"Separates medical result transmission from broader medical examination costs; quantity and inflation explicit,10-dollar price unsupported.",SRC-0105;SRC-0106,Item13,M1-1.0.0
+202310-1219-001,item14,5,10,Zero routine-inspection cost rationale does not address newly required NIOSH result flow or system costs.,SRC-0105;SRC-0106,Item14,M1-1.0.0
+202310-1219-001,item15,8,10,New control plus effects on two existing controls quantified; one-hour rounding differences and labels need care.,SRC-0105;SRC-0106,Item15,M1-1.0.0
+202310-1219-001,validation,4,5,Inspection exposure data and final-versus-proposed assumption revision; projected compliance decline and timing remain assumptions.,SRC-0105;SRC-0106,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202310-1219-001,consistency,2,5,Corrective-action dollar error and mixed miner/mine respondent units; major tables otherwise traceable.,SRC-0105;SRC-0106,Items12–15 and ROCIS summary,M1-1.0.0
+202310-1220-004,reproducibility,19,20,"Year, sector, contact type, response frequency and minutes are tabulated; averages use rounded annual totals.",SRC-0077;SRC-0078,Item12,M1-1.0.0
+202310-1220-004,provenance,11,15,March 2023 ECEC and historical collection experience identified; citation filename and underlying timing studies require verification.,SRC-0077;SRC-0078,Items12–15 and footnotes,M1-1.0.0
+202310-1220-004,segmentation,15,15,"Initiation, update, nonresponse, testing and quality recontacts are distinct, with public/private strata.",SRC-0077;SRC-0078,Item12,M1-1.0.0
+202310-1220-004,labor,8,10,Direct ECEC compensation avoids a second benefits load; historical 70/30 occupational mix disclosed.,SRC-0077;SRC-0078,Item12,M1-1.0.0
+202310-1220-004,item13,8,10,"Explicitly excludes capital, O&M and purchased services because only respondent time is used.",SRC-0077;SRC-0078,Item13,M1-1.0.0
+202310-1220-004,item14,3,10,"Only collection/noncollection budget split, without workload or allocation derivation.",SRC-0077;SRC-0078,Item14,M1-1.0.0
+202310-1220-004,item15,6,10,Prior approval and new total identified; increased sample explains direction but no quantitative driver bridge.,SRC-0077;SRC-0078,Item15,M1-1.0.0
+202310-1220-004,validation,4,5,Past collection experience supports timing and mix; specific timing-study evidence not supplied.,SRC-0077;SRC-0078,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202310-1220-004,consistency,4,5,Annualization and wage products reconcile within rounding; unique respondents versus repeated QA contacts requires care.,SRC-0077;SRC-0078,Items12–15 and ROCIS summary,M1-1.0.0
+202311-2137-001,reproducibility,18,20,Activity-specific company/site/route counts and times mostly reconstruct; some totals rounded.,SRC-0079;SRC-0080,Item12,M1-1.0.0
+202311-2137-001,provenance,8,15,2019 wages and benefit share identified; population and timing assumptions are not current empirical estimates.,SRC-0079;SRC-0080,Items12–15 and footnotes,M1-1.0.0
+202311-2137-001,segmentation,14,15,"Large/small new and existing firms, rail classes and route activities distinguished.",SRC-0079;SRC-0080,Item12,M1-1.0.0
+202311-2137-001,labor,4,10,Office-clerk rate for security planning needs occupational justification; benefit denominator method is explicit.,SRC-0079;SRC-0080,Item12,M1-1.0.0
+202311-2137-001,item13,5,10,Zero nonlabor cost repeated without implementation or systems boundary analysis.,SRC-0079;SRC-0080,Item13,M1-1.0.0
+202311-2137-001,item14,2,10,"Zero asserted despite inspection activity, without allocation rationale.",SRC-0079;SRC-0080,Item14,M1-1.0.0
+202311-2137-001,item15,8,10,Rule removal has quantified responses and hours; directional typo in prose.,SRC-0079;SRC-0080,Item15,M1-1.0.0
+202311-2137-001,validation,2,5,Experienced estimates but no direct burden measurement or ranges.,SRC-0079;SRC-0080,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202311-2137-001,consistency,3,5,One-hour update rounding and increase/decrease wording; main structure remains reproducible.,SRC-0079;SRC-0080,Items12–15 and ROCIS summary,M1-1.0.0
+202312-2050-001,reproducibility,14,20,Role-hour matrix andold/new burdens explicit; labor products fail forannualreports.,SRC-0055;SRC-0056,Item12,M1-1.0.0
+202312-2050-001,provenance,10,15,"2018wages,2019ECEC,2005RACER defaults identified; age andbase rates require validation.",SRC-0055;SRC-0056,Items12–15 and footnotes,M1-1.0.0
+202312-2050-001,segmentation,15,15,"Facilitytype,activity andthree laborroles; overlap ledger linked to2070-0112.",SRC-0055;SRC-0056,Item12,M1-1.0.0
+202312-2050-001,labor,6,10,Overhead1.336 components includingprofit disclosed withlimitations; final rates notfully derived.,SRC-0055;SRC-0056,Item12,M1-1.0.0
+202312-2050-001,item13,7,10,Mailing3.96*442 clear; existing ICR unitprice source andcapitalzero rationale.,SRC-0055;SRC-0056,Item13,M1-1.0.0
+202312-2050-001,item14,7,10,Grade/role hours andgross/net impacts; tableheader respondent rates conflict withgovernment rates.,SRC-0055;SRC-0056,Item14,M1-1.0.0
+202312-2050-001,item15,8,10,8276gross versus8266baseline=10net explicitlytable; Item15new/nochange wording misleading.,SRC-0055;SRC-0056,Item15,M1-1.0.0
+202312-2050-001,validation,3,5,Economic assessment andcandid overhead uncertainty;timeassumptions notempirically tested.,SRC-0055;SRC-0056,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202312-2050-001,consistency,1,5,Manager38h*102.26+clerical2h*38.27 doesnot reproduce6136; copying andminute conversion problems.,SRC-0055;SRC-0056,Items12–15 and ROCIS summary,M1-1.0.0
+202401-1615-055,reproducibility,19,20,Two clearrows andbiometric multiple-person explanation.,SRC-0057;SRC-0058,Item12,M1-1.0.0
+202401-1615-055,provenance,6,15,2018BLSalloccupations and1.46multiplier withoutsource; currentfee rule identified.,SRC-0057;SRC-0058,Items12–15 and footnotes,M1-1.0.0
+202401-1615-055,segmentation,13,15,Petition andbiometricpeople separated; range ofpurchasedassistance.,SRC-0057;SRC-0058,Item12,M1-1.0.0
+202401-1615-055,labor,4,10,Alloccupations choice explained butstaleuniversalrate andbenefitsunsupported.,SRC-0057;SRC-0058,Item12,M1-1.0.0
+202401-1615-055,item13,7,10,25%*515*153000 explicit; range20–1000doesnotitselfjustify515mean.,SRC-0057;SRC-0058,Item13,M1-1.0.0
+202401-1615-055,item14,5,10,Fee-based activitycostproxy; acknowledges cross-subsidy forfreebenefits undermines collection-specific equivalence.,SRC-0057;SRC-0058,Item14,M1-1.0.0
+202401-1615-055,item15,9,10,Oldnewtable preciselyexplains27999hours removedwithfeecontent.,SRC-0057;SRC-0058,Item15,M1-1.0.0
+202401-1615-055,validation,2,5,No empirical supportfor25%or515; timingasserted.,SRC-0057;SRC-0058,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202401-1615-055,consistency,4,5,Hourandcostproducts reconcile to rounding.,SRC-0057;SRC-0058,Items12–15 and ROCIS summary,M1-1.0.0
+202401-2070-005,reproducibility,16,20,Reporting-cycle and approval-period formulas explicit; aggregate typo and federal quantity conflict.,SRC-0182;SRC-0183;SRC-0190,Item12,M1-1.0.0
+202401-2070-005,provenance,10,15,"2016CDR adjusted by2020RIAs; detailed2020ECEC supplement, stale input vintage.",SRC-0182;SRC-0183;SRC-0190,Items12–15 and footnotes,M1-1.0.0
+202401-2070-005,segmentation,15,15,"Site/chemical, partial reports, new reporters, reporting cycles and fixed/variable federal work.",SRC-0182;SRC-0183;SRC-0190,Item12,M1-1.0.0
+202401-2070-005,labor,7,10,Three ECEC manufacturing groups plus separately identified20%overhead; role-time weights reside in cited economic analyses.,SRC-0182;SRC-0183;SRC-0190,Item12,M1-1.0.0
+202401-2070-005,item13,7,10,Zero O&M stated; capital not separately substantiated.,SRC-0182;SRC-0183;SRC-0190,Item13,M1-1.0.0
+202401-2070-005,item14,7,10,"Federal hours, contractor categories and fixed/variable split; GS13rate basis missing from duplicated private wage supplement.",SRC-0182;SRC-0183;SRC-0190,Item14,M1-1.0.0
+202401-2070-005,item15,9,10,Exact old-to-new changes by population and requirements; detailed baseline correction of two test sites.,SRC-0182;SRC-0183;SRC-0190,Item15,M1-1.0.0
+202401-2070-005,validation,3,5,"Administrative data and consultation, but aged coefficients and no accessible uncertainty analysis.",SRC-0182;SRC-0183;SRC-0190,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202401-2070-005,consistency,2,5,735485 vs729485 typo; federal QC hours do not equal displayed input product.,SRC-0182;SRC-0183;SRC-0190,Items12–15 and ROCIS summary,M1-1.0.0
+202401-3235-005,reproducibility,14,20,Extensive task/respondent tables and formulas; initial cohorts and inconsistent counts complicate independent totals.,SRC-0107;SRC-0108,Item12,M1-1.0.0
+202401-3235-005,provenance,9,15,Private Fund Statistics vintage and historical entry rates disclosed; SIFMA2013 data and inflation chain incomplete.,SRC-0107;SRC-0108,Items12–15 and footnotes,M1-1.0.0
+202401-3235-005,segmentation,15,15,"Fund size/type, initial/ongoing/event/transition/final filings and professional roles distinct.",SRC-0107;SRC-0108,Item12,M1-1.0.0
+202401-3235-005,labor,4,10,Detailed labor mix but several averages and products conflict; combined multipliers not decomposed.,SRC-0107;SRC-0108,Item12,M1-1.0.0
+202401-3235-005,item13,6,10,"Filing fee and startup service cost separated;50000 average derived from0–100000 range without distribution,annual entrant annualization questionable.",SRC-0107;SRC-0108,Item13,M1-1.0.0
+202401-3235-005,item14,2,10,No directly attributable federal costs asserted without resource explanation.,SRC-0107;SRC-0108,Item14,M1-1.0.0
+202401-3235-005,item15,7,10,Old/new totals and liquidity-fund changes shown; hour and dollar tables use inconsistent underlying counts/times.,SRC-0107;SRC-0108,Item15,M1-1.0.0
+202401-3235-005,validation,3,5,Observed entrant rates and discussion of range; time assumptions are agency estimates.,SRC-0107;SRC-0108,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202401-3235-005,consistency,1,5,"Financial blended rate, event role hours, final-filing counts and prior-equity hours disagree across tables.",SRC-0107;SRC-0108,Items12–15 and ROCIS summary,M1-1.0.0
+202402-0648-005,reproducibility,17,20,Four activity calculations explicit; initial rounding and automatic-response boundary need qualification.,SRC-0126;SRC-0127,Item12,M1-1.0.0
+202402-0648-005,provenance,10,15,"Vendor range, local technician quotes and CAPS2024 identified; some prices not linked.",SRC-0126;SRC-0127,Items12–15 and footnotes,M1-1.0.0
+202402-0648-005,segmentation,13,15,"New, replacement, maintenance and failure activities separated.",SRC-0126;SRC-0127,Item12,M1-1.0.0
+202402-0648-005,labor,3,10,Owner presence hours assigned zero labor cost because technician paid in Item13; distinct owner opportunity cost unvalued.,SRC-0126;SRC-0127,Item12,M1-1.0.0
+202402-0648-005,item13,7,10,"Equipment, service and repair costs explicit, but reimbursements netted and higher reporting-frequency scenarios unsupported.",SRC-0126;SRC-0127,Item13,M1-1.0.0
+202402-0648-005,item14,7,10,"Two federal grades, FTE shares and52% load; equipment reimbursements omitted from cost boundary.",SRC-0126;SRC-0127,Item14,M1-1.0.0
+202402-0648-005,item15,7,10,"Old/new by activity, with program versus adjustment explanations; combined effects not fully decomposed.",SRC-0126;SRC-0127,Item15,M1-1.0.0
+202402-0648-005,validation,3,5,"Three local technician quotes and known fleet, but service-price offset assumption untested.",SRC-0126;SRC-0127,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202402-0648-005,consistency,3,5,Main arithmetic reconciles at rounded counts; maintenance frequency and response definition conflict.,SRC-0126;SRC-0127,Items12–15 and ROCIS summary,M1-1.0.0
+202402-1652-002,reproducibility,14,20,"Nine activity rows and equations, but appeals and recordkeeping narrative do not reproduce displayed values.",SRC-0003;SRC-0004,Item12,M1-1.0.0
+202402-1652-002,provenance,11,15,Precise BLS vintages/NAICS/SOC and ECEC dates; internal Modular Cost Data inaccessible.,SRC-0003;SRC-0004,Items12–15 and footnotes,M1-1.0.0
+202402-1652-002,segmentation,13,15,Separate new/renewal/appeal/amendment/STA/electronic/manual/recordkeeping paths; overlapping respondents identified.,SRC-0003;SRC-0004,Item12,M1-1.0.0
+202402-1652-002,labor,5,10,Employment-weighted occupational wages useful; contradictory loading factor and occupation proxies weaken defense.,SRC-0003;SRC-0004,Item12,M1-1.0.0
+202402-1652-002,item13,8,10,STA fee and quantity multiply exactly; broader zero capital/O&M scope not fully justified.,SRC-0003;SRC-0004,Item13,M1-1.0.0
+202402-1652-002,item14,6,10,Two labor tasks and contract components; KSMS O&M differs between narrative and table.,SRC-0003;SRC-0004,Item14,M1-1.0.0
+202402-1652-002,item15,4,10,Several old/new counts given but no complete quantified hour bridge; adjustment language self-contradictory.,SRC-0003;SRC-0004,Item15,M1-1.0.0
+202402-1652-002,validation,2,5,"Past experience supports some activity assumptions, without time measurement or ranges.",SRC-0003;SRC-0004,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202402-1652-002,consistency,1,5,Multiple material conflicting values; not only rounding.,SRC-0003;SRC-0004,Items12–15 and ROCIS summary,M1-1.0.0
+202403-0607-001,reproducibility,19,20,Twomeaningfulformgroupswithquarterlyfrequencyreproducehoursandcosts.,SRC-0165;SRC-0166,Item12,M1-1.0.0
+202403-0607-001,provenance,11,15,OEWS2022SOCprecise; routineconsultationsbutunderlyingcountsnotattached.,SRC-0165;SRC-0166,Items12–15 and footnotes,M1-1.0.0
+202403-0607-001,segmentation,13,15,Revenue-onlyandexpandedformsdistinguishedbypreparationcomplexity.,SRC-0165;SRC-0166,Item12,M1-1.0.0
+202403-0607-001,labor,6,10,Accountantmeanwage41.70no benefits/overhead.,SRC-0165;SRC-0166,Item12,M1-1.0.0
+202403-0607-001,item13,10,10,"Explicitusualrecords,no specialsoftware,outsideservicesusualbusiness justification.",SRC-0165;SRC-0166,Item13,M1-1.0.0
+202403-0607-001,item14,3,10,3.9millionbudgetcategorylistwithoutquantities.,SRC-0165;SRC-0166,Item14,M1-1.0.0
+202403-0607-001,item15,5,10,Samplemaintenanceexplanationwithoutoldnewbridge.,SRC-0165;SRC-0166,Item15,M1-1.0.0
+202403-0607-001,validation,3,5,Routine respondentdiscussionsanddataconsistencywork; notmeasuredtimevalidation.,SRC-0165;SRC-0166,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202403-0607-001,consistency,4,5,Coretotalscoherent; packagebaselinechangesnotexplainedquantitatively.,SRC-0165;SRC-0166,Items12–15 and ROCIS summary,M1-1.0.0
+202403-0910-005,reproducibility,16,20,Eleven reporting activities and recordkeeping provided; resubmissions narrative conflicts with table.,SRC-0005;SRC-0006,Item12,M1-1.0.0
+202403-0910-005,provenance,9,15,OEWS industry/year supplied but current URL;GS salary year and precise table absent.,SRC-0005;SRC-0006,Items12–15 and footnotes,M1-1.0.0
+202403-0910-005,segmentation,13,15,"Application,forms,amendments,postmarket,ownership,waivers and records distinguished; one industry-average wage.",SRC-0005;SRC-0006,Item12,M1-1.0.0
+202403-0910-005,labor,4,10,Doubles all-occupation wage for benefits/overhead without components or empirical factor.,SRC-0005;SRC-0006,Item12,M1-1.0.0
+202403-0910-005,item13,3,10,Blanket zero despite complex study/submission scope; no rationale.,SRC-0005;SRC-0006,Item13,M1-1.0.0
+202403-0910-005,item14,5,10,130FTE*GS13/4 salary reconstructs but FTE requirement and benefits not shown.,SRC-0005;SRC-0006,Item14,M1-1.0.0
+202403-0910-005,item15,6,10,Consolidation across control numbers distinguished from adjustments; no complete input bridge.,SRC-0005;SRC-0006,Item15,M1-1.0.0
+202403-0910-005,validation,3,5,Agency experience and50–5000-hour range; no distribution or reproducible calibration.,SRC-0005;SRC-0006,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202403-0910-005,consistency,1,5,5 resubmissions table versus3 narrative;multiple hours-to-minutes approximations.,SRC-0005;SRC-0006,Items12–15 and ROCIS summary,M1-1.0.0
+202403-1219-001,reproducibility,19,20,"Four activities with mine counts, frequency and exact minutes; burden totals reconstruct.",SRC-0109;SRC-0110,Item12,M1-1.0.0
+202403-1219-001,provenance,11,15,"NAICS/SOC, OEWS2021, ECEC and ECI series and GDP index identified; older2019 population anchored to rule analysis.",SRC-0109;SRC-0110,Items12–15 and footnotes,M1-1.0.0
+202403-1219-001,segmentation,13,15,"SOP revision, ASTM records, medical/fit tests and emergency inspections separate.",SRC-0109;SRC-0110,Item12,M1-1.0.0
+202403-1219-001,labor,4,10,"Benefit and overhead factors explicit, but both ECI and GDP inflation appear applied over the same2021–22 period.",SRC-0109;SRC-0110,Item12,M1-1.0.0
+202403-1219-001,item13,5,10,No additional nonlabor cost asserted; exclusions to related controls are helpful but cost boundary incomplete.,SRC-0109;SRC-0110,Item13,M1-1.0.0
+202403-1219-001,item14,6,10,Routine inspection rationale for zero; incremental inspection time not quantified.,SRC-0109;SRC-0110,Item14,M1-1.0.0
+202403-1219-001,item15,8,10,New control and overlap exclusions clearly identified; zero-to-new bridge implicit.,SRC-0109;SRC-0110,Item15,M1-1.0.0
+202403-1219-001,validation,3,5,Administrative mine definition and agency experience; no measured four-hour timing evidence.,SRC-0109;SRC-0110,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202403-1219-001,consistency,3,5,Main products reconcile with undisplayed precision; source-period typo and apparent duplicate inflation weaken defensibility.,SRC-0109;SRC-0110,Items12–15 and ROCIS summary,M1-1.0.0
+202404-1220-001,reproducibility,19,20,Nine tables reconstruct sector/activity/year burdens with bounded rounding.,SRC-0007;SRC-0008;SRC-0200,Item12,M1-1.0.0
+202404-1220-001,provenance,12,15,OSHA instruments/rule and ECEC release identified; release number resolves incorrect reference-period label. Verified in SRC-0200.,SRC-0007;SRC-0008;SRC-0200,Items12–15 and footnotes,M1-1.0.0
+202404-1220-001,segmentation,15,15,"Private,mandatory-public,voluntary-public and normally exempt recordkeepers; avoids duplicate OSHA burden.",SRC-0007;SRC-0008;SRC-0200,Item12,M1-1.0.0
+202404-1220-001,labor,7,10,Direct ECEC compensation transparent but same sales/office rate across sectors.,SRC-0007;SRC-0008;SRC-0200,Item12,M1-1.0.0
+202404-1220-001,item13,10,10,"Explains supplied materials,manual records,no systems work,existing electronic records.",SRC-0007;SRC-0008;SRC-0200,Item13,M1-1.0.0
+202404-1220-001,item14,5,10,5.8m federal matching share+17.1m support explained; underlying workload detail absent.,SRC-0007;SRC-0008;SRC-0200,Item14,M1-1.0.0
+202404-1220-001,item15,8,10,"270-hour one-time test and25000-hour timing effect stated,old/new totals and future sunset explicit.",SRC-0007;SRC-0008;SRC-0200,Item15,M1-1.0.0
+202404-1220-001,validation,3,5,Recording times inherited from OSHA; survey validation does not itself establish all burden times.,SRC-0007;SRC-0008;SRC-0200,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202404-1220-001,consistency,4,5,Table arithmetic largely agrees; reporting/recording labels swapped in summary prose.,SRC-0007;SRC-0008;SRC-0200,Items12–15 and ROCIS summary,M1-1.0.0
+202404-1240-007,reproducibility,16,20,Programcountsand10mintimeclear; earlyroundingandgovernmentstaletotals.,SRC-0167;SRC-0168,Item12,M1-1.0.0
+202404-1240-007,provenance,9,15,FY2023administrativereceiptsandOPMgradesidentified; respondentwageyearunclear.,SRC-0167;SRC-0168,Items12–15 and footnotes,M1-1.0.0
+202404-1240-007,segmentation,12,15,"Threebenefitprograms,contractprocessing/manualexceptionsseparated.",SRC-0167;SRC-0168,Item12,M1-1.0.0
+202404-1240-007,labor,5,10,All-worker36.43proxywithnospecificsourceyear; householdopportunityscopeexplicit.,SRC-0167;SRC-0168,Item12,M1-1.0.0
+202404-1240-007,item13,8,10,"97%electronic/3%mail,postage/envelopepriced;postaldatecitationquestionable.",SRC-0167;SRC-0168,Item13,M1-1.0.0
+202404-1240-007,item14,5,10,UnitcontractcostandfederalFTEsharesdetailed buttotalsretainoldcontractprices.,SRC-0167;SRC-0168,Item14,M1-1.0.0
+202404-1240-007,item15,5,10,"5738->9029reasonincreasedclaims, noinputbridge.",SRC-0167;SRC-0168,Item15,M1-1.0.0
+202404-1240-007,validation,3,5,Admincountsandbill-processingsystemexperience; timeassumptionnotvalidated.,SRC-0167;SRC-0168,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202404-1240-007,consistency,1,5,Costequation3010wronghours; multiplefederaloldnewmixedvalues.,SRC-0167;SRC-0168,Items12–15 and ROCIS summary,M1-1.0.0
+202404-2120-002,reproducibility,16,20,Detailedreport/record/formtables; headline240868.75conflictswith236666detailedtotal.,SRC-0169;SRC-0170,Item12,M1-1.0.0
+202404-2120-002,provenance,10,15,"OEWS2023SOCand2024RUSpay; administrativenumbersfromCSOP,benefitbasevintageunclear.",SRC-0169;SRC-0170,Items12–15 and footnotes,M1-1.0.0
+202404-2120-002,segmentation,14,15,Initial/amendment/foreignrenewal/manuals/employee/trainingdutiesseparate.,SRC-0169;SRC-0170,Item12,M1-1.0.0
+202404-2120-002,labor,6,10,Aircraftmechanicrate36.66*1.29; ECECshareversuswagemarkupnotresolved.,SRC-0169;SRC-0170,Item12,M1-1.0.0
+202404-2120-002,item13,6,10,Noadditionalmaterialcostasserted; foreigncertificationfeesmentionedelsewherebutnotquantified.,SRC-0169;SRC-0170,Item13,M1-1.0.0
+202404-2120-002,item14,8,10,SevenreviewtaskswithFG13/5and31%loadreconstruct4590h/327726.,SRC-0169;SRC-0170,Item14,M1-1.0.0
+202404-2120-002,item15,4,10,"Comprehensive revisionandNOAmentioned, nooldnewquantitativebridge.",SRC-0169;SRC-0170,Item15,M1-1.0.0
+202404-2120-002,validation,3,5,Certification-systemcountsandexperience; tasktimesrange2–80butweightingnotshown.,SRC-0169;SRC-0170,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202404-2120-002,consistency,2,5,"Staleheadline,recordkeepingresponse/timecolumnsconflict,MIPprose2vs200h.",SRC-0169;SRC-0170,Items12–15 and ROCIS summary,M1-1.0.0
+202404-2137-003,reproducibility,18,20,"Thirteen application categories expose counts, frequencies and hours; overall products reconstruct.",SRC-0081;SRC-0082,Item12,M1-1.0.0
+202404-2137-003,provenance,9,15,2022 chemical engineer wages and OPM schedule identified; benefit-share vintage and task timing evidence weaker.,SRC-0081;SRC-0082,Items12–15 and footnotes,M1-1.0.0
+202404-2137-003,segmentation,14,15,Initial/renewal applications and approval types distinguished.,SRC-0081;SRC-0082,Item12,M1-1.0.0
+202404-2137-003,labor,6,10,Engineer occupation and denominator benefit loading are clear; common share lacks current source detail.,SRC-0081;SRC-0082,Item12,M1-1.0.0
+202404-2137-003,item13,5,10,No additional nonlabor costs asserted without further price or systems analysis.,SRC-0081;SRC-0082,Item13,M1-1.0.0
+202404-2137-003,item14,5,10,"Federal workload and loaded grade rate supplied, but narrative and table use different rates and counts.",SRC-0081;SRC-0082,Item14,M1-1.0.0
+202404-2137-003,item15,8,10,Removal of one approval and five rounded hours tied to rule.,SRC-0081;SRC-0082,Item15,M1-1.0.0
+202404-2137-003,validation,2,5,"Agency experience, without testing or representative timing measurements.",SRC-0081;SRC-0082,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202404-2137-003,consistency,1,5,Item 14 table contains 14894 and 73.23 while prose uses 14893 and 80.48.,SRC-0081;SRC-0082,Items12–15 and ROCIS summary,M1-1.0.0
+202405-0704-001,reproducibility,17,20,Two upload equations explicit; respondent identity and composite aggregation obscure the population.,SRC-0137;SRC-0138;SRC-0163;SRC-0164,Item12,M1-1.0.0
+202405-0704-001,provenance,10,15,"Detailed final-rule cost analysis supplements the statement, but no accessible underlying rate database.",SRC-0137;SRC-0138;SRC-0163;SRC-0164,Items12–15 and footnotes,M1-1.0.0
+202405-0704-001,segmentation,12,15,Accreditation-body and C3PAO submissions separated; certifying entities substituted for actual uploading organizations.,SRC-0137;SRC-0138;SRC-0163;SRC-0164,Item12,M1-1.0.0
+202405-0704-001,labor,6,10,GS proxy for accreditation body and composite assessor rate; RIA explains internal versus vendor loading but exact211.70 derivation absent.,SRC-0137;SRC-0138;SRC-0163;SRC-0164,Item12,M1-1.0.0
+202405-0704-001,item13,8,10,Electronic upload has no additional respondent equipment cost; scope reasonably justified.,SRC-0137;SRC-0138;SRC-0163;SRC-0164,Item13,M1-1.0.0
+202405-0704-001,item14,6,10,System O&M total linked to historical cost method in RIA;2731861 not directly bridged to its public series.,SRC-0137;SRC-0138;SRC-0163;SRC-0164,Item14,M1-1.0.0
+202405-0704-001,item15,7,10,New control and cross-control scope explicit; no previous inventory to decompose.,SRC-0137;SRC-0138;SRC-0163;SRC-0164,Item15,M1-1.0.0
+202405-0704-001,validation,3,5,"DoD cost expertise, historical eMASS costs and consultation; time assumptions not tested publicly.",SRC-0137;SRC-0138;SRC-0163;SRC-0164,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202405-0704-001,consistency,3,5,Arithmetic exact but10942 organizations seeking certification are not necessarily10942 distinct C3PAOs.,SRC-0137;SRC-0138;SRC-0163;SRC-0164,Items12–15 and ROCIS summary,M1-1.0.0
+202405-0704-002,reproducibility,17,20,"SSA aggregates link to detailed RIA phases, occupations and cost categories; composite/phase-in mapping incomplete.",SRC-0139;SRC-0140;SRC-0156;SRC-0157;SRC-0163;SRC-0164,Item12,M1-1.0.0
+202405-0704-002,provenance,11,15,"Final-rule2024 cost analysis and internal contractor comparators, but underlying observations restricted.",SRC-0139;SRC-0140;SRC-0156;SRC-0157;SRC-0163;SRC-0164,Items12–15 and footnotes,M1-1.0.0
+202405-0704-002,segmentation,15,15,"Level2/3, size, assessment phases and internal/outsourced labor meaningfully separated.",SRC-0139;SRC-0140;SRC-0156;SRC-0157;SRC-0163;SRC-0164,Item12,M1-1.0.0
+202405-0704-002,labor,8,10,RIA distinguishes30% internal loading from vendor prices including profit and51% federal loading; composite still difficult to recreate.,SRC-0139;SRC-0140;SRC-0156;SRC-0157;SRC-0163;SRC-0164,Item12,M1-1.0.0
+202405-0704-002,item13,4,10,"Hardware/software/implementation totals reconstruct from unit totals, but no itemized assets, useful life, cohort or noncollection boundary.",SRC-0139;SRC-0140;SRC-0156;SRC-0157;SRC-0163;SRC-0164,Item13,M1-1.0.0
+202405-0704-002,item14,7,10,Level3 workload by size and composite government rates; RIA adds grade/step/load method.,SRC-0139;SRC-0140;SRC-0156;SRC-0157;SRC-0163;SRC-0164,Item14,M1-1.0.0
+202405-0704-002,item15,7,10,New collection with cross-control scope; no prior burden baseline.,SRC-0139;SRC-0140;SRC-0156;SRC-0157;SRC-0163;SRC-0164,Item15,M1-1.0.0
+202405-0704-002,validation,3,5,"Internal expertise, previous assessments and adverse comments; first-pass assumption limits uncertainty.",SRC-0139;SRC-0140;SRC-0156;SRC-0157;SRC-0163;SRC-0164,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202405-0704-002,consistency,3,5,Aggregate arithmetic close; RIA includes transcription issues and composite-source mapping is incomplete.,SRC-0139;SRC-0140;SRC-0156;SRC-0157;SRC-0163;SRC-0164,Items12–15 and ROCIS summary,M1-1.0.0
+202405-0938-022,reproducibility,17,20,"Paper/electronic initial/resubmission counts, time and education formula clear.",SRC-0128;SRC-0129,Item12,M1-1.0.0
+202405-0938-022,provenance,10,15,2022 BLS occupation and source explicit; workload origin and contractor costs less detailed.,SRC-0128;SRC-0129,Items12–15 and footnotes,M1-1.0.0
+202405-0938-022,segmentation,12,15,Submission pathway and resubmissions distinguished; education separate.,SRC-0128;SRC-0129,Item12,M1-1.0.0
+202405-0938-022,labor,6,10,Median health-support wage doubled; rationale broad and one role for all incremental tasks.,SRC-0128;SRC-0129,Item12,M1-1.0.0
+202405-0938-022,item13,7,10,Postage explicit underItem12 and inROCIS nonlabor; capital zero defensible.,SRC-0128;SRC-0129,Item13,M1-1.0.0
+202405-0938-022,item14,3,10,25.3million contractor review total lacks workload/unit price.,SRC-0128;SRC-0129,Item14,M1-1.0.0
+202405-0938-022,item15,5,10,46999-hour adjustment stated but unchanged ROCIS responses contradict explanation of increased submissions.,SRC-0128;SRC-0129,Item15,M1-1.0.0
+202405-0938-022,validation,2,5,Existing documentation scope reasoned; time and contractor assumptions not independently tested.,SRC-0128;SRC-0129,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202405-0938-022,consistency,3,5,"Main totals reconcile with rounding, but846015 postage differs from846013 package and unit typo says million.",SRC-0128;SRC-0129,Items12–15 and ROCIS summary,M1-1.0.0
+202405-1218-005,reproducibility,17,20,Building-area exposure model andoutsourcing partitions clear; prose describes multiplication where division required.,SRC-0059;SRC-0060,Item12,M1-1.0.0
+202405-1218-005,provenance,11,15,"EIA CBECS/MECS vintages,SOC/ECEC andindustry consultations identified; currentlinksnotarchives.",SRC-0059;SRC-0060,Items12–15 and footnotes,M1-1.0.0
+202405-1218-005,segmentation,14,15,"Manufacturing/nonmanufacturing,customary85%,outsourced90%,inhouse10% meaningful.",SRC-0059;SRC-0060,Item12,M1-1.0.0
+202405-1218-005,labor,8,10,"30.76/(1-.294)=43.57; occupation transparent, no separateoverhead.",SRC-0059;SRC-0060,Item12,M1-1.0.0
+202405-1218-005,item13,8,10,"Price range42–59,midpoint50.5 andoutsourcedquantity explicit; survey age unclear.",SRC-0059;SRC-0060,Item13,M1-1.0.0
+202405-1218-005,item14,5,10,Zero federalcost asserted; tagvisiblewithoutemployerdisclosure supports limitedincrementalburden.,SRC-0059;SRC-0060,Item14,M1-1.0.0
+202405-1218-005,item15,9,10,"Oldnew hours,extinguisherstock,price andsurveyvintage table clear; effectsnotfullydecomposed.",SRC-0059;SRC-0060,Item15,M1-1.0.0
+202405-1218-005,validation,4,5,Industryconsultations andeconomist verification ofsurveyvintage jump; datedcalibration of85/90%missing.,SRC-0059;SRC-0060,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202405-1218-005,consistency,2,5,Item13 prose calls9567848contracted butcalculationuses8611063; tablecallsassetsrespondents.,SRC-0059;SRC-0060,Items12–15 and ROCIS summary,M1-1.0.0
+202405-1220-001,reproducibility,17,20,Annualandthree-yearhousehold/business totalsclear; mixedstudytimeaverage derivationabsent.,SRC-0171;SRC-0172,Item12,M1-1.0.0
+202405-1220-001,provenance,10,15,CESAugust2023wageandhistoricalresearchbasis; futurestudycompositionnotfixed.,SRC-0171;SRC-0172,Items12–15 and footnotes,M1-1.0.0
+202405-1220-001,segmentation,12,15,Household/businesssegments andscreeningacknowledged; moderated/unmoderatednotquantitativelyweighted.,SRC-0171;SRC-0172,Item12,M1-1.0.0
+202405-1220-001,labor,6,10,Generalearnings33.82forbothhouseholdsandbusiness; nooccupationalmixforbusiness.,SRC-0171;SRC-0172,Item12,M1-1.0.0
+202405-1220-001,item13,8,10,Nocapital/O&Mreasonableforshortresearchparticipation.,SRC-0171;SRC-0172,Item13,M1-1.0.0
+202405-1220-001,item14,4,10,50000maximum incentives/ads; staffandlaboratorycostsexcludedasexistingwithoutallocation.,SRC-0171;SRC-0172,Item14,M1-1.0.0
+202405-1220-001,item15,6,10,"Annualincrease2949statedwithnewtestingmethods, noquantifiedstudy-mixbridge.",SRC-0171;SRC-0172,Item15,M1-1.0.0
+202405-1220-001,validation,3,5,Experiencewithpriortests supportsranges; genericclearance forecastsnotfuturestudyresults.,SRC-0171;SRC-0172,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202405-1220-001,consistency,3,5,Totalsreconcile; exclusionoftraveltimeandmixedmodeaverage limitsscopecompleteness.,SRC-0171;SRC-0172,Items12–15 and ROCIS summary,M1-1.0.0
+202405-1506-005,reproducibility,17,20,Current aggregate formula reproduces; historical segmented model accessible in cited notice.,SRC-0184;SRC-0185;SRC-0191,Item12,M1-1.0.0
+202405-1506-005,provenance,10,15,"2022 administrative counts and precise 2020 notice, but 2019 labor inputs carried forward.",SRC-0184;SRC-0185;SRC-0191,Items12–15 and footnotes,M1-1.0.0
+202405-1506-005,segmentation,14,15,"Original/continuing, depository/nondepository, standard/extended and batch/discrete in historical method; no updated segment weights.",SRC-0184;SRC-0185;SRC-0191,Item12,M1-1.0.0
+202405-1506-005,labor,6,10,2019 OEWS/ECEC historical weighting is explicit; recent average not refreshed.,SRC-0184;SRC-0185;SRC-0191,Item12,M1-1.0.0
+202405-1506-005,item13,2,10,Item13 is mislabeled labor cost; nonlabor cost scope not separately established.,SRC-0184;SRC-0185;SRC-0191,Item13,M1-1.0.0
+202405-1506-005,item14,5,10,"Filings times ten cents, but referenced internal unit-cost report not accessible.",SRC-0184;SRC-0185;SRC-0191,Item14,M1-1.0.0
+202405-1506-005,item15,7,10,Old/new totals and population driver explicit; rounded coefficient changes bridge slightly.,SRC-0184;SRC-0185;SRC-0191,Item15,M1-1.0.0
+202405-1506-005,validation,4,5,Conflicting comments assessed for sample representativeness; public administrative segmentation; time assumptions remain weak.,SRC-0184;SRC-0185;SRC-0191,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202405-1506-005,consistency,3,5,Labor placed in Item13; aggregate rounding and inherited time mix limit consistency.,SRC-0184;SRC-0185;SRC-0191,Items12–15 and ROCIS summary,M1-1.0.0
+202405-1652-001,reproducibility,17,20,Year-specific populations and minute assumptions allow approximate reconstruction; displayed averages hide precision.,SRC-0035;SRC-0036,Item12,M1-1.0.0
+202405-1652-001,provenance,12,15,"SOC/NAICS,employment weights,annual hours and four ECEC releases explicit.",SRC-0035;SRC-0036,Items12–15 and footnotes,M1-1.0.0
+202405-1652-001,segmentation,15,15,"Career-stage pilot rate,small/large providers,new/existing STA andyears meaningful.",SRC-0035;SRC-0036,Item12,M1-1.0.0
+202405-1652-001,labor,8,10,Entry-career tenth percentile defended; four-quarter ratio explicit; educational industries may overlap and weighting requires care.,SRC-0035;SRC-0036,Item12,M1-1.0.0
+202405-1652-001,item13,7,10,Standard/reduced fee split clear but rounded counts do not reconstruct exact dollars; fee derivation external.,SRC-0035;SRC-0036,Item13,M1-1.0.0
+202405-1652-001,item14,5,10,Fee Development Report named; fee recovery does not itself expose gross federal cost.,SRC-0035;SRC-0036,Item14,M1-1.0.0
+202405-1652-001,item15,6,10,Rule changes and time reductions explicit; complete prior/new total bridge absent.,SRC-0035;SRC-0036,Item15,M1-1.0.0
+202405-1652-001,validation,2,5,Administrative count projections but little direct timing evidence.,SRC-0035;SRC-0036,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202405-1652-001,consistency,2,5,Candidate totals29638 plus provider3958 differ from33594; notification responsibility language conflicts.,SRC-0035;SRC-0036,Items12–15 and ROCIS summary,M1-1.0.0
+202406-1652-001,reproducibility,17,20,Detailed18activity rows; dominant checklist supported by FAA data; rounding precision mixed.,SRC-0037;SRC-0038,Item12,M1-1.0.0
+202406-1652-001,provenance,11,15,OEWS source detail plus FAA extraction window; internal modular pay unavailable; ECEC publication/reference period confused.,SRC-0037;SRC-0038,Items12–15 and footnotes,M1-1.0.0
+202406-1652-001,segmentation,15,15,Large/small operators andatomic activities; explicit growing population.,SRC-0037;SRC-0038,Item12,M1-1.0.0
+202406-1652-001,labor,7,10,Employment-weighted occupation rates and ECEC ratio explicit; industry workforce mix may not match task mix.,SRC-0037;SRC-0038,Item12,M1-1.0.0
+202406-1652-001,item13,8,10,CHRC count*fee explicit; remaining capital/O&M scope less developed.,SRC-0037;SRC-0038,Item13,M1-1.0.0
+202406-1652-001,item14,8,10,Three federal workloads*loaded bands reconstruct to rounding; internal pay components inaccessible.,SRC-0037;SRC-0038,Item14,M1-1.0.0
+202406-1652-001,item15,5,10,80hour correction explained; full population/wage changes not bridged.,SRC-0037;SRC-0038,Item15,M1-1.0.0
+202406-1652-001,validation,3,5,FAA departures queried specific morning window; represents first flights only by proxy.,SRC-0037;SRC-0038,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202406-1652-001,consistency,2,5,Checklist narrative reports54658 instead of20.17m; table correct.,SRC-0037;SRC-0038,Items12–15 and ROCIS summary,M1-1.0.0
+202408-1625-012,reproducibility,18,20,Appendix reconstructs allpopulation/activitytotals; some conservativecohortrounding.,SRC-0173;SRC-0174;SRC-0181,Item12,M1-1.0.0
+202408-1625-012,provenance,10,15,"MISLEpopulation,OEWS2023SOCandCGcostinstruction; timeandfederalrateversionsnotfullyspecified.",SRC-0173;SRC-0174;SRC-0181,Items12–15 and footnotes,M1-1.0.0
+202408-1625-012,segmentation,14,15,"Port,vessel,facility,OCS,new/annual/fiveyearanddeclarations distinguished.",SRC-0173;SRC-0174;SRC-0181,Item12,M1-1.0.0
+202408-1625-012,labor,6,10,Complianceofficerwage+50%rounded58; loadingfactorasserted.,SRC-0173;SRC-0174;SRC-0181,Item12,M1-1.0.0
+202408-1625-012,item13,8,10,Explicitzeroequipment/maintenance forplan/reportcollection; reasonlimited.,SRC-0173;SRC-0174;SRC-0181,Item13,M1-1.0.0
+202408-1625-012,item14,6,10,Contract380000plusfacility1.92m;43units*.5FTEformula butLTwagerateomitted.,SRC-0173;SRC-0174;SRC-0181,Item14,M1-1.0.0
+202408-1625-012,item15,8,10,980responses*2min=>33hprogramreduction linkedtoremovedaddendum.,SRC-0173;SRC-0174;SRC-0181,Item15,M1-1.0.0
+202408-1625-012,validation,3,5,MISLEandoperationalexperience;100%stakeholderparticipationacknowledgedupperbound.,SRC-0173;SRC-0174;SRC-0181,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202408-1625-012,consistency,4,5,Appendix totalsreconcile; unique stakeholderoverlap andperiodicreviewpartition notfullyvalidated.,SRC-0173;SRC-0174;SRC-0181,Items12–15 and ROCIS summary,M1-1.0.0
+202408-1652-002,reproducibility,12,20,Many atomic rows expose calculations but security-program subtotal wrong and application overlap unresolved.,SRC-0039;SRC-0040,Item12,M1-1.0.0
+202408-1652-002,provenance,10,15,OEWS/ECEC specific sources; clerical ECEC URL points2020 despite2023 label; federal pay internal.,SRC-0039;SRC-0040,Items12–15 and footnotes,M1-1.0.0
+202408-1652-002,segmentation,14,15,"Facilities,canine providers,certifiers andmultiple activities; some apparent duplication.",SRC-0039;SRC-0040,Item12,M1-1.0.0
+202408-1652-002,labor,6,10,Employment-weighted cargo wage transparent; canine private wage uses federal salary proxy with limited justification.,SRC-0039;SRC-0040,Item12,M1-1.0.0
+202408-1652-002,item13,4,10,41fee explicit but6959*41 does not equal281219; fee matches6859.,SRC-0039;SRC-0040,Item13,M1-1.0.0
+202408-1652-002,item14,7,10,Six federal task categories largely reconcile; some precision and subtitle errors.,SRC-0039;SRC-0040,Item14,M1-1.0.0
+202408-1652-002,item15,5,10,"Old16040/new17662 shown with response change, but no quantified driver attribution.",SRC-0039;SRC-0040,Item15,M1-1.0.0
+202408-1652-002,validation,2,5,Agency activity estimates without calibration or ranges.,SRC-0039;SRC-0040,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202408-1652-002,consistency,0,5,"Large subtotal error, repeated new-certification burden and fee count mismatch.",SRC-0039;SRC-0040,Items12–15 and ROCIS summary,M1-1.0.0
+202409-0560-007,reproducibility,18,20,34-row workbook reconstructs nearly all form burden; one.75-hour row error.,SRC-0141;SRC-0142;SRC-0155,Item12,M1-1.0.0
+202409-0560-007,provenance,10,15,OEWS2023 SOCs and2024RUS federal pay; workload report not public here.,SRC-0141;SRC-0142;SRC-0155,Items12–15 and footnotes,M1-1.0.0
+202409-0560-007,segmentation,14,15,Farmer and creditor roles with individual forms and nonform activities.,SRC-0141;SRC-0142;SRC-0155,Item12,M1-1.0.0
+202409-0560-007,labor,5,10,Two unadjusted occupational wages; farmers called household income; no benefits.,SRC-0141;SRC-0142;SRC-0155,Item12,M1-1.0.0
+202409-0560-007,item13,3,10,36000 appraisal purchases disclosed but Item13 denies purchases and ROCIS needs reconciliation.,SRC-0141;SRC-0142;SRC-0155,Item13,M1-1.0.0
+202409-0560-007,item14,7,10,287810 workload hours and GS9–12 average+33.3% explicit; source workload report not attached.,SRC-0141;SRC-0142;SRC-0155,Item14,M1-1.0.0
+202409-0560-007,item15,6,10,No change explained using pre-moratorium activity as forecast baseline.,SRC-0141;SRC-0142;SRC-0155,Item15,M1-1.0.0
+202409-0560-007,validation,3,5,Prior workload and servicing experience; forecast restart assumptions uncertain.,SRC-0141;SRC-0142;SRC-0155,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202409-0560-007,consistency,3,5,"Workbook total matches SSA, but appraisal scope and one row conflict.",SRC-0141;SRC-0142;SRC-0155,Items12–15 and ROCIS summary,M1-1.0.0
+202409-2126-001,reproducibility,17,20,Three stages and ten-minute times permit reconstruction; truncates each stage.,SRC-0009;SRC-0010,Item12,M1-1.0.0
+202409-2126-001,provenance,3,15,21.92 wage lacks source/vintage/occupation; contract value supplied.,SRC-0009;SRC-0010,Items12–15 and footnotes,M1-1.0.0
+202409-2126-001,segmentation,13,15,"Pretest,pilot,main survey are distinct and proportionate.",SRC-0009;SRC-0010,Item12,M1-1.0.0
+202409-2126-001,labor,2,10,Unloaded/loaded status and wage provenance missing.,SRC-0009;SRC-0010,Item12,M1-1.0.0
+202409-2126-001,item13,6,10,Zero asserted; online collection makes plausible but not explained.,SRC-0009;SRC-0010,Item13,M1-1.0.0
+202409-2126-001,item14,8,10,Incremental35950.25 task isolated within649910.53 broader contract.,SRC-0009;SRC-0010,Item14,M1-1.0.0
+202409-2126-001,item15,7,10,New ICR clearly identified; Item15 N/A less useful than explicit zero-to-new bridge.,SRC-0009;SRC-0010,Item15,M1-1.0.0
+202409-2126-001,validation,1,5,Prospective pretest/pilot not evidence of validated response time yet.,SRC-0009;SRC-0010,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202409-2126-001,consistency,3,5,Small hour truncation; annualization of one-time base-year work unclear.,SRC-0009;SRC-0010,Items12–15 and ROCIS summary,M1-1.0.0
+202409-3235-022,reproducibility,20,20,1998*.05=99.90 and wage product exact; table preserves fractional hours.,SRC-0011;SRC-0012,Item12,M1-1.0.0
+202409-3235-022,provenance,9,15,2023 administrative filings precise;2013 SIFMA pay and unspecified inflation unavailable to fully reconstruct.,SRC-0011;SRC-0012,Items12–15 and footnotes,M1-1.0.0
+202409-3235-022,segmentation,14,15,1568 advisers distinct from1998 filings; examinations and terminations identified.,SRC-0011;SRC-0012,Item12,M1-1.0.0
+202409-3235-022,labor,4,10,"2.93 loading and1800-hour year disclosed but base salary,inflation chain missing.",SRC-0011;SRC-0012,Item12,M1-1.0.0
+202409-3235-022,item13,8,10,Cover sheet zero plausible; accountant examination requirement separately scoped to other rule.,SRC-0011;SRC-0012,Item13,M1-1.0.0
+202409-3235-022,item14,4,10,Insignificant federal cost asserted with workflow explanation but no quantity.,SRC-0011;SRC-0012,Item14,M1-1.0.0
+202409-3235-022,item15,9,10,"Old/new filings,hours,labor dollars shown and population explanation; wage effect not independently decomposed.",SRC-0011;SRC-0012,Item15,M1-1.0.0
+202409-3235-022,validation,3,5,Observed filings support frequency;three-minute time remains estimate.,SRC-0011;SRC-0012,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202409-3235-022,consistency,5,5,99.9 to100 ROCIS rounding consistent.,SRC-0011;SRC-0012,Items12–15 and ROCIS summary,M1-1.0.0
+202410-0910-013,reproducibility,18,20,"CFR-level population, frequency and time tables; rows and monetary role groups exposed.",SRC-0083;SRC-0084,Item12,M1-1.0.0
+202410-0910-013,provenance,8,15,2023 median occupational wages cited; burden assumptions largely inherited.,SRC-0083;SRC-0084,Items12–15 and footnotes,M1-1.0.0
+202410-0910-013,segmentation,14,15,"Human/animal food and reporting, records, disclosure requirements separated.",SRC-0083;SRC-0084,Item12,M1-1.0.0
+202410-0910-013,labor,5,10,Three role groups priced; generic doubling combines benefits and overhead without derivation.,SRC-0083;SRC-0084,Item12,M1-1.0.0
+202410-0910-013,item13,4,10,Blanket no capital or maintenance statement lacks implementation/system scope analysis.,SRC-0083;SRC-0084,Item13,M1-1.0.0
+202410-0910-013,item14,2,10,50000 inquiry-response budget without workload or staff rates.,SRC-0083;SRC-0084,Item14,M1-1.0.0
+202410-0910-013,item15,7,10,Duplicate animal-food disclosure removed with quantified effect; remaining changes not fully decomposed.,SRC-0083;SRC-0084,Item15,M1-1.0.0
+202410-0910-013,validation,3,5,Agency experience and correction of duplicate requirement; little measured timing evidence.,SRC-0083;SRC-0084,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202410-0910-013,consistency,3,5,Totals and labor groups reconcile; minor rounding from half-hour activities.,SRC-0083;SRC-0084,Items12–15 and ROCIS summary,M1-1.0.0
+202410-0960-002,reproducibility,15,20,Mode counts/times and extra burdens exposed but ROCIS bridge does not reconstruct.,SRC-0013;SRC-0014,Item12,M1-1.0.0
+202410-0960-002,provenance,8,15,Administrative wait/interview sources identified; wage citations and role mapping garbled.,SRC-0013;SRC-0014,Items12–15 and footnotes,M1-1.0.0
+202410-0960-002,segmentation,15,15,"Individual/representative and paper/interview/internet paths;wait,travel,learning separately.",SRC-0013;SRC-0014,Item12,M1-1.0.0
+202410-0960-002,labor,4,10,Beneficiary versus representative value distinction useful; wage derivation unclear.,SRC-0013;SRC-0014,Item12,M1-1.0.0
+202410-0960-002,item13,7,10,Known other costs zero; opportunity value distinct from out-of-pocket charges.,SRC-0013;SRC-0014,Item13,M1-1.0.0
+202410-0960-002,item14,4,10,Cost-factor table present but processing hours/rates absent;table/prose totals differ.,SRC-0013;SRC-0014,Item14,M1-1.0.0
+202410-0960-002,item15,4,10,"Old584756,new842365 and ROCIS986339 disclosed but change not fully reconciled.",SRC-0013;SRC-0014,Item15,M1-1.0.0
+202410-0960-002,validation,4,5,Actual interview and management data;travel assumptions candid and OIRA-directed spatial estimate.,SRC-0013;SRC-0014,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202410-0960-002,consistency,1,5,Extra-hour bridge and federal sum disagree; learning burden may overlap described base scope.,SRC-0013;SRC-0014,Items12–15 and ROCIS summary,M1-1.0.0
+202410-3150-005,reproducibility,18,20,Six technical sections and a formula workbook preserve CFR-level workload and totals.,SRC-0113;SRC-0114;SRC-0117;SRC-0118;SRC-0119;SRC-0120;SRC-0121;SRC-0122;SRC-0123;SRC-0136,Item12,M1-1.0.0
+202410-3150-005,provenance,9,15,"Dates, CFRs, fee rule and experience identified; time and storage coefficients less independently grounded.",SRC-0113;SRC-0114;SRC-0117;SRC-0118;SRC-0119;SRC-0120;SRC-0121;SRC-0122;SRC-0123;SRC-0136,Items12–15 and footnotes,M1-1.0.0
+202410-3150-005,segmentation,15,15,"Applications, reactor types, records, inspections and standards have meaningful separate rows.",SRC-0113;SRC-0114;SRC-0117;SRC-0118;SRC-0119;SRC-0120;SRC-0121;SRC-0122;SRC-0123;SRC-0136,Item12,M1-1.0.0
+202410-3150-005,labor,3,10,NRC fee rate of $300 is used for private and federal labor without occupational mapping; section2 cites2023 fee rule whereas overview cites2020.,SRC-0113;SRC-0114;SRC-0117;SRC-0118;SRC-0119;SRC-0120;SRC-0121;SRC-0122;SRC-0123;SRC-0136,Item12,M1-1.0.0
+202410-3150-005,item13,4,10,Storage equals .0004 of recordkeeping labor cost; proxy coefficient has no accessible derivation.,SRC-0113;SRC-0114;SRC-0117;SRC-0118;SRC-0119;SRC-0120;SRC-0121;SRC-0122;SRC-0123;SRC-0136,Item13,M1-1.0.0
+202410-3150-005,item14,7,10,Technical workload by section times fee rate; resource mix and overhead components hidden in fee proxy.,SRC-0113;SRC-0114;SRC-0117;SRC-0118;SRC-0119;SRC-0120;SRC-0121;SRC-0122;SRC-0123;SRC-0136,Item14,M1-1.0.0
+202410-3150-005,item15,9,10,"Section-level previous/current bridges and CFR driver explanations, including a418894-hour transfer; not every input interaction isolated.",SRC-0113;SRC-0114;SRC-0117;SRC-0118;SRC-0119;SRC-0120;SRC-0121;SRC-0122;SRC-0123;SRC-0136,Item15,M1-1.0.0
+202410-3150-005,validation,4,5,"Stakeholder challenge and NRC responses preserved, including opposing estimates and one added requirement.",SRC-0113;SRC-0114;SRC-0117;SRC-0118;SRC-0119;SRC-0120;SRC-0121;SRC-0122;SRC-0123;SRC-0136,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202410-3150-005,consistency,4,5,Main and workbook totals agree within whole-hour rounding; some section deltas differ by one hour.,SRC-0113;SRC-0114;SRC-0117;SRC-0118;SRC-0119;SRC-0120;SRC-0121;SRC-0122;SRC-0123;SRC-0136,Items12–15 and ROCIS summary,M1-1.0.0
+202410-7100-005,reproducibility,16,20,"Counts,frequency,times and six main rows exposed; rounded times create modest differences.",SRC-0041;SRC-0042,Item12,M1-1.0.0
+202410-7100-005,provenance,9,15,NIC entity source and May2023 BLS date precise; inherited CFPB timing methodology not specifically linked.,SRC-0041;SRC-0042,Items12–15 and footnotes,M1-1.0.0
+202410-7100-005,segmentation,13,15,Regulatory task segmentation with small-entity count; same time by bank size.,SRC-0041;SRC-0042,Item12,M1-1.0.0
+202410-7100-005,labor,5,10,"Four-occupation labor mix explicit, but weights unsupported and benefits not included.",SRC-0041;SRC-0042,Item12,M1-1.0.0
+202410-7100-005,item13,2,10,Distinct nonlabor cost analysis not located in complete statement.,SRC-0041;SRC-0042,Item13,M1-1.0.0
+202410-7100-005,item14,3,10,Federal cost negligible asserted without quantities.,SRC-0041;SRC-0042,Item14,M1-1.0.0
+202410-7100-005,item15,5,10,Renewal changes described elsewhere; old/new driver bridge limited.,SRC-0041;SRC-0042,Item15,M1-1.0.0
+202410-7100-005,validation,2,5,Administrative population; timing inherited but validation chain incomplete.,SRC-0041;SRC-0042,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202410-7100-005,consistency,3,5,Rounding sub-hour self-test activities to zero and rounded rates explains limited discrepancies.,SRC-0041;SRC-0042,Items12–15 and ROCIS summary,M1-1.0.0
+202411-1218-005,reproducibility,16,20,Task tables largely reproduce366 employer and1708 federal hours; site-visit unit denominator unclear.,SRC-0015;SRC-0016,Item12,M1-1.0.0
+202411-1218-005,provenance,10,15,OEWS2023 SOC and OPM2024 reference; ECEC live URL and rate mismatch.,SRC-0015;SRC-0016,Items12–15 and footnotes,M1-1.0.0
+202411-1218-005,segmentation,12,15,Five employer and ten federal activities; uniform HR assistant for technical work weak.,SRC-0015;SRC-0016,Item12,M1-1.0.0
+202411-1218-005,labor,5,10,Formula wage/(1-benefit share) sound but31.7% prose versus31.2% table and stale34.35 footnote.,SRC-0015;SRC-0016,Item12,M1-1.0.0
+202411-1218-005,item13,6,10,No extra costs asserted because Item12 covers all; no detailed treatment of copying/mailing.,SRC-0015;SRC-0016,Item13,M1-1.0.0
+202411-1218-005,item14,8,10,GS13/5 rate and task hours detailed; incremental overhead exclusions justified; no fringe detail.,SRC-0015;SRC-0016,Item14,M1-1.0.0
+202411-1218-005,item15,8,10,Explicit retain366 with no changes and package comparison permits unchanged bridge.,SRC-0015;SRC-0016,Item15,M1-1.0.0
+202411-1218-005,validation,2,5,Agency experience and small population stated; no timing evidence.,SRC-0015;SRC-0016,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202411-1218-005,consistency,2,5,Fringe and site-visit statements inconsistent despite totals.,SRC-0015;SRC-0016,Items12–15 and ROCIS summary,M1-1.0.0
+202411-1651-004,reproducibility,16,20,24*12*4 clear; notice says4minutes instead of4hours.,SRC-0043;SRC-0044,Item12,M1-1.0.0
+202411-1651-004,provenance,11,15,"OEWS/ECEC/BEA exact sources,years,inputs; internal federal pay email identified but inaccessible.",SRC-0043;SRC-0044,Items12–15 and footnotes,M1-1.0.0
+202411-1651-004,segmentation,10,15,Pilot importers homogeneous assumption; no industry segment times.,SRC-0043;SRC-0044,Item12,M1-1.0.0
+202411-1651-004,labor,8,10,Median cargo/freight proxy plus occupational benefits and explicit GDP price transformation.,SRC-0043;SRC-0044,Item12,M1-1.0.0
+202411-1651-004,item13,1,10,Unpriced provider fee netted against broad industry savings; no gross collection-cost estimate.,SRC-0043;SRC-0044,Item13,M1-1.0.0
+202411-1651-004,item14,2,10,288responses*2hours asserted to equal10hours; substantive error.,SRC-0043;SRC-0044,Item14,M1-1.0.0
+202411-1651-004,item15,7,10,New collection clear; explicit zero-to-new table absent.,SRC-0043;SRC-0044,Item15,M1-1.0.0
+202411-1651-004,validation,2,5,13 Canadian exporters inform claimed savings but extrapolation not supplied.,SRC-0043;SRC-0044,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202411-1651-004,consistency,0,5,Hours/minutes conflict; federal multiplication wrong; net savings do not establish zero gross costs.,SRC-0043;SRC-0044,Items12–15 and ROCIS summary,M1-1.0.0
+202411-1652-007,reproducibility,18,20,Two main burdens reconstruct; tiny Form600 burden explicitly omitted.,SRC-0017;SRC-0018,Item12,M1-1.0.0
+202411-1652-007,provenance,10,15,ECEC March2024 archive exact; federal pay cited but band inconsistent.,SRC-0017;SRC-0018,Items12–15 and footnotes,M1-1.0.0
+202411-1652-007,segmentation,13,15,Claim and payment stages distinguished with subset overlap.,SRC-0017;SRC-0018,Item12,M1-1.0.0
+202411-1652-007,labor,6,10,Direct civilian compensation is transparent; appropriateness for personal time not explained.,SRC-0017;SRC-0018,Item12,M1-1.0.0
+202411-1652-007,item13,8,10,"Postage quantity and price explicit, but mail share conflicts with Item12 all-mail statement.",SRC-0017;SRC-0018,Item13,M1-1.0.0
+202411-1652-007,item14,6,10,FTE and annual salary reconstruct344209; stale283225 and E/F-band mismatch.,SRC-0017;SRC-0018,Item14,M1-1.0.0
+202411-1652-007,item15,4,10,Direction explained but old/new response-hour-cost bridge absent in statement; package supplies deltas.,SRC-0017;SRC-0018,Item15,M1-1.0.0
+202411-1652-007,validation,2,5,Historical claims counts asserted; no direct timing validation.,SRC-0017;SRC-0018,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202411-1652-007,consistency,1,5,Federal total and mailing statements conflict.,SRC-0017;SRC-0018,Items12–15 and ROCIS summary,M1-1.0.0
+202411-2070-003,reproducibility,18,20,"Counts,constant burdens andratios reconstruct total; FormA formula labelsforms instead ofchemicals.",SRC-0061;SRC-0062,Item12,M1-1.0.0
+202411-2070-003,provenance,10,15,"Specific RBBM2011 reference,2023ECEC andadministrative counts; inheritedconstants need independent revalidation.",SRC-0061;SRC-0062,Items12–15 and footnotes,M1-1.0.0
+202411-2070-003,segmentation,14,15,"Forms,chemicals,facilities andnonreporters distinct; facility distributions expose heterogeneity.",SRC-0061;SRC-0062,Item12,M1-1.0.0
+202411-2070-003,labor,8,10,"Separate wages,benefits,20%overhead and3/89/8 mix; overhead andweights inherited.",SRC-0061;SRC-0062,Item12,M1-1.0.0
+202411-2070-003,item13,6,10,Zero directly attributable capital/O&M asserted; more scope rationale desirable.,SRC-0061;SRC-0062,Item13,M1-1.0.0
+202411-2070-003,item14,7,10,"Actualheadcounts,GS13/1 andnonFTE categories; gross costs reconstruct,load components notfully exposed.",SRC-0061;SRC-0062,Item14,M1-1.0.0
+202411-2070-003,item15,6,10,Consolidated rules and13442notification hours described; no complete driver bridge.,SRC-0061;SRC-0062,Item15,M1-1.0.0
+202411-2070-003,validation,3,5,Observed filing distributions; legacyburden calibration remains critical.,SRC-0061;SRC-0062,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202411-2070-003,consistency,3,5,"Minor rounding,onechemical count discrepancy,forms-versus-chemicals equationlabel error.",SRC-0061;SRC-0062,Items12–15 and ROCIS summary,M1-1.0.0
+202412-1205-002,reproducibility,18,20,Four report/record equations reproduce7314hours; upper-bound universe explicit.,SRC-0143;SRC-0144,Item12,M1-1.0.0
+202412-1205-002,provenance,11,15,"FY2025 UI grant advisory, accounting salary and1711 productive hours identified.",SRC-0143;SRC-0144,Items12–15 and footnotes,M1-1.0.0
+202412-1205-002,segmentation,12,15,"Regular, extended-benefit, short-time compensation and its records separated.",SRC-0143;SRC-0144,Item12,M1-1.0.0
+202412-1205-002,labor,8,10,"Program-specific compensation divided by productive hours, clear rounding; fiscal-year label inconsistent.",SRC-0143;SRC-0144,Item12,M1-1.0.0
+202412-1205-002,item13,6,10,Established systems support zero startup; federally funded cost is not itself proof of zero respondent resource cost.,SRC-0143;SRC-0144,Item13,M1-1.0.0
+202412-1205-002,item14,7,10,Shared920436.80 system allocated across30ICRs; equal-share assumption explicit though not workload-based.,SRC-0143;SRC-0144,Item14,M1-1.0.0
+202412-1205-002,item15,8,10,"Regular report2->2.5hours gives318-hour program effect, other rows stable.",SRC-0143;SRC-0144,Item15,M1-1.0.0
+202412-1205-002,validation,3,5,"State consultation and program accounting, but no observed timing distribution.",SRC-0143;SRC-0144,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202412-1205-002,consistency,4,5,Main totals agree; recordkeeping counted as additional response and FY2024/25 prose conflict.,SRC-0143;SRC-0144,Items12–15 and ROCIS summary,M1-1.0.0
+202412-1652-001,reproducibility,18,20,Ten activity tables and rates reconstruct most burden; conflicts in compensation and fees.,SRC-0175;SRC-0176,Item12,M1-1.0.0
+202412-1652-001,provenance,11,15,Precise2023OEWS/June2024ECEC citations and TSA2024pay; fees still2011/2019basis.,SRC-0175;SRC-0176,Items12–15 and footnotes,M1-1.0.0
+202412-1652-001,segmentation,15,15,"Programs, amendment types, applicants, data entry and records separated.",SRC-0175;SRC-0176,Item12,M1-1.0.0
+202412-1652-001,labor,5,10,"Ratio loading transparent, but applicant footnote50.19 conflicts with34.48 used and overlapping SOC aggregates not weighted explicitly.",SRC-0175;SRC-0176,Item12,M1-1.0.0
+202412-1652-001,item13,6,10,CHRC price from historical range/GDPdeflator; current validation absent.,SRC-0175;SRC-0176,Item13,M1-1.0.0
+202412-1652-001,item14,8,10,"435airports*28.5hours*H-band rate, source annual compensation and2087denominator explicit.",SRC-0175;SRC-0176,Item14,M1-1.0.0
+202412-1652-001,item15,4,10,"Only qualitative updates, no old/new quantified bridge.",SRC-0175;SRC-0176,Item15,M1-1.0.0
+202412-1652-001,validation,2,5,TSA subject-matter estimates; no accessible timing tests or ranges for dominant activities.,SRC-0175;SRC-0176,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202412-1652-001,consistency,2,5,Labor footnotes conflict with tables; fee mismatch and respondent-unit terminology.,SRC-0175;SRC-0176,Items12–15 and ROCIS summary,M1-1.0.0
+202412-3170-001,reproducibility,17,20,Seven population-times rows reconstruct total hours; underlying task times not decomposed.,SRC-0045;SRC-0046,Item12,M1-1.0.0
+202412-3170-001,provenance,3,15,"Vendor midpoint, population, hours and labor prices not adequately sourced in Items12–15.",SRC-0045;SRC-0046,Items12–15 and footnotes,M1-1.0.0
+202412-3170-001,segmentation,13,15,Providers versus third parties and startup versus ongoing meaningful; outsourcing split requires overlap check.,SRC-0045;SRC-0046,Item12,M1-1.0.0
+202412-3170-001,labor,0,10,No respondent labor-dollar estimate or wage methodology in retrieved Item12.,SRC-0045;SRC-0046,Item12,M1-1.0.0
+202412-3170-001,item13,5,10,Vendor scope allocation explicit; table reverses one-time versus ongoing relative to prose; annualization horizon unclear.,SRC-0045;SRC-0046,Item13,M1-1.0.0
+202412-3170-001,item14,7,10,Zero because Bureau receives no data; oversight and incremental systems scope not addressed.,SRC-0045;SRC-0046,Item14,M1-1.0.0
+202412-3170-001,item15,6,10,New collection identified but no complete zero-to-new annualized bridge.,SRC-0045;SRC-0046,Item15,M1-1.0.0
+202412-3170-001,validation,2,5,Acknowledges vendor economies of scale; no quantified timing validation.,SRC-0045;SRC-0046,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202412-3170-001,consistency,1,5,Item13 one-time/ongoing assignment reverses; response total sums obligation events while unique entities separate.,SRC-0045;SRC-0046,Items12–15 and ROCIS summary,M1-1.0.0
+202501-1210-006,reproducibility,19,20,"Small model exposes plans, participants, preparation and mailing time; display rounds total hours.",SRC-0085;SRC-0086,Item12,M1-1.0.0
+202501-1210-006,provenance,11,15,"Investigation counts 2019–2024, postage and agency labor methodology cited; electronic shares inherited.",SRC-0085;SRC-0086,Items12–15 and footnotes,M1-1.0.0
+202501-1210-006,segmentation,12,15,Preparation and paper distribution separated proportionately.,SRC-0085;SRC-0086,Item12,M1-1.0.0
+202501-1210-006,labor,7,10,Accountant/clerk costs linked to EBSA common methodology; current rate derivation not reproduced locally.,SRC-0085;SRC-0086,Item12,M1-1.0.0
+202501-1210-006,item13,9,10,"Mail volume, page price and postage are explicit; zero capital follows existing settlement process.",SRC-0085;SRC-0086,Item13,M1-1.0.0
+202501-1210-006,item14,9,10,Explains no additional government cost within an existing settlement process.,SRC-0085;SRC-0086,Item14,M1-1.0.0
+202501-1210-006,item15,7,10,Old/new totals and drivers supplied; no isolated decomposition for electronic delivery versus population.,SRC-0085;SRC-0086,Item15,M1-1.0.0
+202501-1210-006,validation,4,5,13 observed investigations over six years support conservative rounding from 2.2 to 3 plans.,SRC-0085;SRC-0086,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202501-1210-006,consistency,4,5,Formula label omits postage factor but numerical cost includes it; rounded hours explain apparent discrepancy.,SRC-0085;SRC-0086,Items12–15 and ROCIS summary,M1-1.0.0
+202502-0960-015,reproducibility,14,20,"Form/modeburden,wait/travel/learningtablesvisible; totalsandscopefailreconciliation.",SRC-0177;SRC-0178,Item12,M1-1.0.0
+202502-0960-015,provenance,9,15,"ManagementdataFY2025,wagegenericBLSandOIRAtravelproxy; coefficientsnotpublic.",SRC-0177;SRC-0178,Items12–15 and footnotes,M1-1.0.0
+202502-0960-015,segmentation,15,15,Threeapplicationsandpaper/phone/office/internet/thirdpartysegmented.,SRC-0177;SRC-0178,Item12,M1-1.0.0
+202502-0960-015,labor,5,10,Generalmeanwage31.48usedasopportunitycost; noage/employmentmatch.,SRC-0177;SRC-0178,Item12,M1-1.0.0
+202502-0960-015,item13,8,10,Nofeesorrequiredpurchasesreasonableforbenefitapplication;travelresourcecostnotpriced.,SRC-0177;SRC-0178,Item13,M1-1.0.0
+202502-0960-015,item14,3,10,5.763billioncategorieswithGS9formula butnohours/rate; cannotreproduce.,SRC-0177;SRC-0178,Item14,M1-1.0.0
+202502-0960-015,item15,6,10,Oldnewformhoursandresponsesgiven;ROCISscopebridgewrong.,SRC-0177;SRC-0178,Item15,M1-1.0.0
+202502-0960-015,validation,3,5,Actualinterviewexperienceandspatialtravelproxy; limitationsacknowledgedbutpopulationmappingfails.,SRC-0177;SRC-0178,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202502-0960-015,consistency,1,5,4milliontravelrespondentsversus70718officemodalities;ROCISandfullcosthoursscopesconflict.,SRC-0177;SRC-0178,Items12–15 and ROCIS summary,M1-1.0.0
+202502-2040-002,reproducibility,16,20,Accessible five-sheet formula workbook reconstructs detailed totals;rate-period and narrative mismatches prevent full credit.,SRC-0019;SRC-0020;SRC-0023,Item12,M1-1.0.0
+202502-2040-002,provenance,11,15,"Administrative NOI data,NOAA rainfall,prior economic analysis,ECEC and OPM identified;some source/input inconsistencies.",SRC-0019;SRC-0020;SRC-0023,Items12–15 and footnotes,M1-1.0.0
+202502-2040-002,segmentation,15,15,"Size,ESA consultation,dewatering,sensitive waters,reporting/recordkeeping and government activities distinguished.",SRC-0019;SRC-0020;SRC-0023,Item12,M1-1.0.0
+202502-2040-002,labor,7,10,Direct ECEC management/professional compensation73.47 transparent;role mix and broad average not fully justified.,SRC-0019;SRC-0020;SRC-0023,Item12,M1-1.0.0
+202502-2040-002,item13,5,10,Meter retail-price survey and calibration allocation useful;annual procurement versus divide-by-three conflicts.,SRC-0019;SRC-0020;SRC-0023,Item13,M1-1.0.0
+202502-2040-002,item14,6,10,Workload formula workbook available;quarterly respondent reports but annual federal reviews count835 not3340.,SRC-0019;SRC-0020;SRC-0023,Item14,M1-1.0.0
+202502-2040-002,item15,6,10,2017 program baseline and prior renewal baseline coexist;old/new population and rates stated but bases not consistently labeled.,SRC-0019;SRC-0020;SRC-0023,Item15,M1-1.0.0
+202502-2040-002,validation,4,5,Administrative segmentation and rainfall basis strengthen assumptions;one-year asset replacement and proxies underjustified.,SRC-0019;SRC-0020;SRC-0023,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202502-2040-002,consistency,1,5,Workbook23% versus prose25%;capital annualization conflict;unit conversion errors and reversed ratio formula.,SRC-0019;SRC-0020;SRC-0023,Items12–15 and ROCIS summary,M1-1.0.0
+202502-2060-039,reproducibility,16,20,Task/role equations reconstruct hours; federal sum and nonlaborunitcostsconflict.,SRC-0145;SRC-0146;SRC-0160;SRC-0161;SRC-0162,Item12,M1-1.0.0
+202502-2060-039,provenance,10,15,"ECEC2023,OPM2024/2023conflict and2017costmemoidentified.",SRC-0145;SRC-0146;SRC-0160;SRC-0161;SRC-0162,Items12–15 and footnotes,M1-1.0.0
+202502-2060-039,segmentation,13,15,"Monitoring, reporting, records and equipment components explicit.",SRC-0145;SRC-0146;SRC-0160;SRC-0161;SRC-0162,Item12,M1-1.0.0
+202502-2060-039,labor,5,10,ECEC totalcomp multiplied2.1 forindustryvariation/overhead withoutempiricalfactor support.,SRC-0145;SRC-0146;SRC-0160;SRC-0161;SRC-0162,Item12,M1-1.0.0
+202502-2060-039,item13,5,10,Ten-yearlife/7%methodidentified butrecenttablemixesannualizedcapital andO&M; RATArateconflict.,SRC-0145;SRC-0146;SRC-0160;SRC-0161;SRC-0162,Item13,M1-1.0.0
+202502-2060-039,item14,6,10,GSgrades andtaskhours explicit; annualsummarycostomittedfromtotal.,SRC-0145;SRC-0146;SRC-0160;SRC-0161;SRC-0162,Item14,M1-1.0.0
+202502-2060-039,item15,7,10,Nohour/nonlaborchange andwageupdate stated.,SRC-0145;SRC-0146;SRC-0160;SRC-0161;SRC-0162,Item15,M1-1.0.0
+202502-2060-039,validation,3,5,Historicalcostmodelandfour knownfacilities; currentprices/validationlimited.,SRC-0145;SRC-0146;SRC-0160;SRC-0161;SRC-0162,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202502-2060-039,consistency,2,5,Federalcost andRATA unitprice conflicts; sourcecostscopenotcleanlymapped.,SRC-0145;SRC-0146;SRC-0160;SRC-0161;SRC-0162,Items12–15 and ROCIS summary,M1-1.0.0
+202502-3235-014,reproducibility,18,20,"Filers, frequency and response hours reproduce rounded total.",SRC-0087;SRC-0088,Item12,M1-1.0.0
+202502-3235-014,provenance,5,15,Administrative filing estimate; unit burden and purchased-service rate not supported with precise evidence.,SRC-0087;SRC-0088,Items12–15 and footnotes,M1-1.0.0
+202502-3235-014,segmentation,10,15,Filers and recurring filings modeled; limited complexity differentiation.,SRC-0087;SRC-0088,Item12,M1-1.0.0
+202502-3235-014,labor,0,10,Complete Item 12 omits labor monetization.,SRC-0087;SRC-0088,Item12,M1-1.0.0
+202502-3235-014,item13,5,10,Software and filing cost per response disclosed but unit price is not sourced.,SRC-0087;SRC-0088,Item13,M1-1.0.0
+202502-3235-014,item14,0,10,"Item 14 explicitly defers estimates while SEC revises its methodology; this is missing, not zero.",SRC-0087;SRC-0088,Item14,M1-1.0.0
+202502-3235-014,item15,9,10,"Prior/current responses, hours and nonlabor costs reconcile exactly.",SRC-0087;SRC-0088,Item15,M1-1.0.0
+202502-3235-014,validation,2,5,Agency experience rather than measured timing; estimates explicitly for PRA.,SRC-0087;SRC-0088,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202502-3235-014,consistency,4,5,Displayed averages reproduce totals within rounding and change arithmetic is exact.,SRC-0087;SRC-0088,Items12–15 and ROCIS summary,M1-1.0.0
+202503-3060-020,reproducibility,19,20,Eighttask equations reconstruct15175hours and1045739labor;uniqueversusmultipleobligations explicit.,SRC-0063;SRC-0064,Item12,M1-1.0.0
+202503-3060-020,provenance,8,15,"GSproxy and125professionalrate disclosed, weaksourceforlatter; rule/consultationrecord extensive.",SRC-0063;SRC-0064,Items12–15 and footnotes,M1-1.0.0
+202503-3060-020,segmentation,14,15,"Newandexisting obligations,waivers,pricingplans andprovider types distinguished.",SRC-0063;SRC-0064,Item12,M1-1.0.0
+202503-3060-020,labor,4,10,GS13/5proxy65.48 and125officerrate; benefitandtaskmixvalidationlimited.,SRC-0063;SRC-0064,Item12,M1-1.0.0
+202503-3060-020,item13,8,10,Zero additionalcapital explicitly defendedagainstpubliccomment; supportforsoftwareimplementationboundarystilllimited.,SRC-0063;SRC-0064,Item13,M1-1.0.0
+202503-3060-020,item14,5,10,ExistingECFS noadditionalprocessingresources asserted; substantiveanalysiscostnotquantified.,SRC-0063;SRC-0064,Item14,M1-1.0.0
+202503-3060-020,item15,10,10,6690+5900+1760+825=15175; public-noticebaseline17555 reduced2380 withspecificdrivers.,SRC-0063;SRC-0064,Item15,M1-1.0.0
+202503-3060-020,validation,4,5,"Substantiveindustrychallengeandresponse; reduceswaiver240to100anddisability80to40, butnotmeasuredtiming.",SRC-0063;SRC-0064,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202503-3060-020,consistency,4,5,Totalsandbridgesexact; assumptionqualityseparatefromarithmetic.,SRC-0063;SRC-0064,Items12–15 and ROCIS summary,M1-1.0.0
+202504-1004-001,reproducibility,16,20,"CFR activity table shows every respondent workload, but removed20-hour row remains.",SRC-0147;SRC-0148,Item12,M1-1.0.0
+202504-1004-001,provenance,10,15,"SOC codes,2025RUS pay, fee rule and historical fees cited; wage vintage not fixed.",SRC-0147;SRC-0148,Items12–15 and footnotes,M1-1.0.0
+202504-1004-001,segmentation,14,15,32 obligations and10/80/10 occupational mix; one mix reused across all tasks.,SRC-0147;SRC-0148,Item12,M1-1.0.0
+202504-1004-001,labor,7,10,"Explicit weighted labor, but text1.3 versus table1.4 benefits conflict.",SRC-0147;SRC-0148,Item12,M1-1.0.0
+202504-1004-001,item13,7,10,Fixed fees and case-specific historical average fees distinguished; some stale rows.,SRC-0147;SRC-0148,Item13,M1-1.0.0
+202504-1004-001,item14,5,10,"Federal grades/weights and task hours explicit, but most dollars retain64.29 despite74.27 displayed.",SRC-0147;SRC-0148,Item14,M1-1.0.0
+202504-1004-001,item15,9,10,Exact three-measure baseline/program/adjustment bridge; implementation tables not fully updated.,SRC-0147;SRC-0148,Item15,M1-1.0.0
+202504-1004-001,validation,3,5,"Respondent consultation and experienced workload estimates, no measured timing data.",SRC-0147;SRC-0148,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202504-1004-001,consistency,2,5,Deleted obligation retained and widespread federal cost-rate mismatch.,SRC-0147;SRC-0148,Items12–15 and ROCIS summary,M1-1.0.0
+202504-1652-008,reproducibility,18,20,Three-year cohort/pathway tables reconstruct totals; early time rounding and labels conflict.,SRC-0179;SRC-0180,Item12,M1-1.0.0
+202504-1652-008,provenance,11,15,"Historical TWIC population, exactOEWSandECEC references; forecasts and data-selection details less accessible.",SRC-0179;SRC-0180,Items12–15 and footnotes,M1-1.0.0
+202504-1652-008,segmentation,15,15,"New/comparable/renewal/replacement, online/inperson, pickup, appeals and surveys separated.",SRC-0179;SRC-0180,Item12,M1-1.0.0
+202504-1652-008,labor,6,10,Seven wage populations andratio loading explicit; nationaltruckdriver majority weakTWICrepresentativeness; inverted equation label.,SRC-0179;SRC-0180,Item12,M1-1.0.0
+202504-1652-008,item13,8,10,"Fee schedules and reduced-fee cohorts explicit, appeal copies separated.",SRC-0179;SRC-0180,Item13,M1-1.0.0
+202504-1652-008,item14,5,10,"Federal cost equated with fee revenue, not resource workload; revenue-model scope acknowledged.",SRC-0179;SRC-0180,Item14,M1-1.0.0
+202504-1652-008,item15,6,10,"Old/new hours/respondents andfeechange, no driver-level dollar/hour decomposition.",SRC-0179;SRC-0180,Item15,M1-1.0.0
+202504-1652-008,validation,3,5,Administrative disqualification andusage shares; six-hour appeal assumption lacks evidence.,SRC-0179;SRC-0180,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202504-1652-008,consistency,3,5,Core totals largelyreconcile; survey/appeal respondents duplicated as uniquepeople and severalfee-count labels wrong.,SRC-0179;SRC-0180,Items12–15 and ROCIS summary,M1-1.0.0
+202504-1902-007,reproducibility,18,20,"Three activity rows expose populations, frequencies and hours; their sum is exactly57,973.",SRC-0065;SRC-0066,Item12,M1-1.0.0
+202504-1902-007,provenance,8,15,"Actualfilerbasis,2024FERCsalary andBLSclerk source; BLSvintage/load notderived.",SRC-0065;SRC-0066,Items12–15 and footnotes,M1-1.0.0
+202504-1902-007,segmentation,13,15,Reporter versusrepresentedcompany correction useful; recordkeeping distinct.,SRC-0065;SRC-0066,Item12,M1-1.0.0
+202504-1902-007,labor,5,10,Federalaveragepayproxy justified generically;39.53fileclerkrate withbenefitsnotderived.,SRC-0065;SRC-0066,Item12,M1-1.0.0
+202504-1902-007,item13,6,10,1GB*10*51=510 transparent; marketpriceexamples mismatchunitpriceconservatism unexplained.,SRC-0065;SRC-0066,Item13,M1-1.0.0
+202504-1902-007,item14,7,10,FTEsalary plusPRAadmin allowance;8369basisnotbottomup andtwofiledcollectionsfor3ICs unexplained.,SRC-0065;SRC-0066,Item14,M1-1.0.0
+202504-1902-007,item15,8,10,Detailedoldnewrows andcountmethodchange; costrow calledROCIScost butcontainslabor.,SRC-0065;SRC-0066,Item15,M1-1.0.0
+202504-1902-007,validation,2,5,Observedfilers supportcounts; no1080hourrecordkeeping validation.,SRC-0065;SRC-0066,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202504-1902-007,consistency,2,5,Item15 laborcost mislabeledROCISannualcost; newhoursrowssum57973 but componentreported earlier55080+2886+7=57973.,SRC-0065;SRC-0066,Items12–15 and ROCIS summary,M1-1.0.0
+202504-2060-006,reproducibility,16,20,"Detailed task/technology model and aggregate totals, but federal subtable inconsistencies.",SRC-0130;SRC-0131,Item12,M1-1.0.0
+202504-2060-006,provenance,9,15,Current population and ECI update; legacy CEM capital inputs incomplete.,SRC-0130;SRC-0131,Items12–15 and footnotes,M1-1.0.0
+202504-2060-006,segmentation,14,15,Six monitoring models and permitting/trading roles; overlapping add-on models identified.,SRC-0130;SRC-0131,Item12,M1-1.0.0
+202504-2060-006,labor,6,10,"Same differentiated wage method as CSAPR, incomplete original loading provenance.",SRC-0130;SRC-0131,Item12,M1-1.0.0
+202504-2060-006,item13,7,10,Explicit7% annuity convention and separate outside contracts; missing life/principal prevents reconstruction of unit annuities.,SRC-0130;SRC-0131,Item13,M1-1.0.0
+202504-2060-006,item14,6,10,"Workload, grade, contractor and system costs explicit; state authority mixed into federal aggregate and table errors.",SRC-0130;SRC-0131,Item14,M1-1.0.0
+202504-2060-006,item15,4,10,Percentage changes and reasons only.,SRC-0130;SRC-0131,Item15,M1-1.0.0
+202504-2060-006,validation,3,5,Industry consultation and program observations; underlying cost evidence mostly not published here.,SRC-0130;SRC-0131,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202504-2060-006,consistency,2,5,Federal permits/NOx tables conflict with prose and totals; overlapping monitoring counts require care.,SRC-0130;SRC-0131,Items12–15 and ROCIS summary,M1-1.0.0
+202504-3235-016,reproducibility,15,20,"Footnote equations detailed but stale subgroup counts, rounded minutes and summary dollars do not reconcile.",SRC-0149;SRC-0150,Item12,M1-1.0.0
+202504-3235-016,provenance,11,15,IARD December2024 precise FormADV fields and99th-percentile winsorization; SIFMA2013 wage baseline opaque.,SRC-0149;SRC-0150,Items12–15 and footnotes,M1-1.0.0
+202504-3235-016,segmentation,14,15,"Three adviser groups and audit/notice obligations segmented, including nonduplicative internal-control reports.",SRC-0149;SRC-0150,Item12,M1-1.0.0
+202504-3235-016,labor,5,10,"Two occupations and loading factors, but inflation multiplier and underlying SIFMA rates unavailable.",SRC-0149;SRC-0150,Item12,M1-1.0.0
+202504-3235-016,item13,7,10,Tiered audit fees and internal-control exclusions explicit; price provenance and subgroup definitions inconsistent.,SRC-0149;SRC-0150,Item13,M1-1.0.0
+202504-3235-016,item14,5,10,No additional federal cost asserted; plausible private third-party audit scope but not explained in detail.,SRC-0149;SRC-0150,Item14,M1-1.0.0
+202504-3235-016,item15,7,10,"Old/new totals and activity changes stated, but input contributions not isolated.",SRC-0149;SRC-0150,Item15,M1-1.0.0
+202504-3235-016,validation,3,5,Administrative population and earlier accountant consultations; assumptions and winsorized totals not validated.,SRC-0149;SRC-0150,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202504-3235-016,consistency,1,5,"Multiple population and cost contradictions, including1.217million labor difference.",SRC-0149;SRC-0150,Items12–15 and ROCIS summary,M1-1.0.0
+202505-1218-008,reproducibility,17,20,CFR activity and medical/exposure counts mostly reconstruct; cost inflation error.,SRC-0132;SRC-0133,Item12,M1-1.0.0
+202505-1218-008,provenance,11,15,"OEWS2023 SOCs, CBP2020/2022 industry growth, JOLTS2023 and CPI endpoints; legacy coefficients remain.",SRC-0132;SRC-0133,Items12–15 and footnotes,M1-1.0.0
+202505-1218-008,segmentation,14,15,"Industry, exposure class, examination type and job role segmented.",SRC-0132;SRC-0133,Item12,M1-1.0.0
+202505-1218-008,labor,7,10,Three SOC rates divided by.704 wage share; occupational choice explicit.,SRC-0132;SRC-0133,Item12,M1-1.0.0
+202505-1218-008,item13,7,10,Samples and examinations priced separately; recurrent services mislabeled capital and exam price update inconsistent.,SRC-0132;SRC-0133,Item13,M1-1.0.0
+202505-1218-008,item14,7,10,Explicit exclusion of inspection investigations; zero depends on stated narrow collection scope.,SRC-0132;SRC-0133,Item14,M1-1.0.0
+202505-1218-008,item15,8,10,"Old/new activity table exactly explains452-hour decline, with cost and population reasons.",SRC-0132;SRC-0133,Item15,M1-1.0.0
+202505-1218-008,validation,3,5,Administrative exposure baseline plus official proxies; inherited shares lack current validation.,SRC-0132;SRC-0133,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202505-1218-008,consistency,3,5,Hour bridge coherent;2.46% medical price claim does not produce227 from204.,SRC-0132;SRC-0133,Items12–15 and ROCIS summary,M1-1.0.0
+202505-2060-004,reproducibility,17,20,Task-level manager and technical hours reconstruct workload; costs use rounded unit dollars.,SRC-0115;SRC-0116,Item12,M1-1.0.0
+202505-2060-004,provenance,9,15,"ECI endpoints and ECEC cited, but original industry wage basis and legacy equipment model inputs incomplete.",SRC-0115;SRC-0116,Items12–15 and footnotes,M1-1.0.0
+202505-2060-004,segmentation,14,15,"Monitoring technologies, sources and state processing separated.",SRC-0115;SRC-0116,Item12,M1-1.0.0
+202505-2060-004,labor,6,10,Two private and two state rates; ECI updating explicit but base loading not reproduced.,SRC-0115;SRC-0116,Item12,M1-1.0.0
+202505-2060-004,item13,7,10,Equipment and recurring test contracts separated; annual capital unit costs lack useful-life/principal derivation.,SRC-0115;SRC-0116,Item13,M1-1.0.0
+202505-2060-004,item14,8,10,"GS13/8 plus supervisory allocation, workload and shared-system exclusion explicit.",SRC-0115;SRC-0116,Item14,M1-1.0.0
+202505-2060-004,item15,5,10,Net changes and reasons but not a quantified driver decomposition.,SRC-0115;SRC-0116,Item15,M1-1.0.0
+202505-2060-004,validation,3,5,Utility consultation and observed program populations; limited reproducible uncertainty.,SRC-0115;SRC-0116,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202505-2060-004,consistency,4,5,Hours and cost rows largely reconcile; state/federal and shared program boundaries explicit.,SRC-0115;SRC-0116,Items12–15 and ROCIS summary,M1-1.0.0
+202505-3060-038,reproducibility,18,20,15filingcategories andAppendixfeequantitytable; totalhoursreconstructible fromdetailedrows.,SRC-0067;SRC-0068,Item12,M1-1.0.0
+202505-3060-038,provenance,8,15,FeesandGSgrades precise;60inhousewage unsourced;smallfirmoutsideratesurvey datedetailsabsent.,SRC-0067;SRC-0068,Items12–15 and footnotes,M1-1.0.0
+202505-3060-038,segmentation,14,15,License/applicationtypeandengineer/legal split; taskhoursmeaningful.,SRC-0067;SRC-0068,Item12,M1-1.0.0
+202505-3060-038,labor,3,10,60inhouse flat salarywithoutbenefits; outsideprofessionalfeeweights separatecorrectly.,SRC-0067;SRC-0068,Item12,M1-1.0.0
+202505-3060-038,item13,8,10,899outsidefilings*9.3hours*275 andfees; rounds8360.7to8361beforecost.,SRC-0067;SRC-0068,Item13,M1-1.0.0
+202505-3060-038,item14,6,10,"Ninefederalstaffrows exposegrade*staff*time;sumdoesnotmatchprosetotal, andunweightedhourstotalmisleading.",SRC-0067;SRC-0068,Item14,M1-1.0.0
+202505-3060-038,item15,8,10,4responses128hoursnewrulechange explicitandnoItem13effect.,SRC-0067;SRC-0068,Item15,M1-1.0.0
+202505-3060-038,validation,3,5,Agencyfilingexperience andsmallDCfirmpriceconsultation; no timingmeasurement.,SRC-0067;SRC-0068,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202505-3060-038,consistency,1,5,Federal narrative2818723.53 versus2881331.03table; GS12analystrow1508*55.07 mismatch.,SRC-0067;SRC-0068,Items12–15 and ROCIS summary,M1-1.0.0
+202506-0551-003,reproducibility,18,20,Five respondent activities and seven government rows reproduce totals.,SRC-0151;SRC-0152,Item12,M1-1.0.0
+202506-0551-003,provenance,9,15,Occupation and2025GS13/10 specified; respondent wage vintage/loading missing.,SRC-0151;SRC-0152,Items12–15 and footnotes,M1-1.0.0
+202506-0551-003,segmentation,12,15,"Application, agreement, evaluation, reimbursement and records separated.",SRC-0151;SRC-0152,Item12,M1-1.0.0
+202506-0551-003,labor,5,10,76.21 said includesfringe withoutwage/load derivation.,SRC-0151;SRC-0152,Item12,M1-1.0.0
+202506-0551-003,item13,7,10,NoadditionalcapitalorO&M stated;existinggrant recordscope plausible.,SRC-0151;SRC-0152,Item13,M1-1.0.0
+202506-0551-003,item14,8,10,"740hours by office/task at72.90, GS13/10plus30%; hoursperapplicationnotshown.",SRC-0151;SRC-0152,Item14,M1-1.0.0
+202506-0551-003,item15,6,10,Old/newandresponses statedbutclaims350ratherthan400-hourincrease.,SRC-0151;SRC-0152,Item15,M1-1.0.0
+202506-0551-003,validation,2,5,"Program experience, little measuredtimeevidence.",SRC-0151;SRC-0152,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202506-0551-003,consistency,3,5,Main tablescoherent;Item15arithmeticerror.,SRC-0151;SRC-0152,Items12–15 and ROCIS summary,M1-1.0.0
+202506-0938-007,reproducibility,17,20,Hospital count and two activity/occupation groups reconstruct hours and labor cost.,SRC-0089;SRC-0090,Item12,M1-1.0.0
+202506-0938-007,provenance,9,15,Dated STAR registry and 2023 OEWS occupation inputs; burden hours inherited.,SRC-0089;SRC-0090,Items12–15 and footnotes,M1-1.0.0
+202506-0938-007,segmentation,10,15,"Reporting and recordkeeping separated, but hospital complexity variation not modeled.",SRC-0089;SRC-0090,Item12,M1-1.0.0
+202506-0938-007,labor,4,10,Occupation match and doubling stated; 100% benefit/overhead markup is not derived.,SRC-0089;SRC-0090,Item12,M1-1.0.0
+202506-0938-007,item13,4,10,Capital zero asserted without discussion of O&M and cost-report software.,SRC-0089;SRC-0090,Item13,M1-1.0.0
+202506-0938-007,item14,4,10,"MAC and CMS totals supplied without hours, rates or allocation methodology.",SRC-0089;SRC-0090,Item14,M1-1.0.0
+202506-0938-007,item15,7,10,"Old/new hospital counts, time and cost shown, with transfers from two controls; transfer-to-average-hour derivation unclear.",SRC-0089;SRC-0090,Item15,M1-1.0.0
+202506-0938-007,validation,3,5,Administrative population count supported; 675 hours lacks measured timing validation.,SRC-0089;SRC-0090,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202506-0938-007,consistency,2,5,Main products reconcile; transferred requirement counts do not directly explain one additional hour for all hospitals.,SRC-0089;SRC-0090,Items12–15 and ROCIS summary,M1-1.0.0
+202506-2130-004,reproducibility,13,20,"ManyCFRtaskrows; minutes convertedusingtruncateddecimals,employeeproduct inconsistent.",SRC-0069;SRC-0070,Item12,M1-1.0.0
+202506-2130-004,provenance,9,15,2024OPM andrailwaywagesource footnote; agencyexperience basisnotreplicable.,SRC-0069;SRC-0070,Items12–15 and footnotes,M1-1.0.0
+202506-2130-004,segmentation,14,15,Electronic/paper andfatiguereview activities;explicitfulfilled/excludedobligations.,SRC-0069;SRC-0070,Item12,M1-1.0.0
+202506-2130-004,labor,5,10,Uniform89.13industryrate; occupation-specificmix lacking.,SRC-0069;SRC-0070,Item12,M1-1.0.0
+202506-2130-004,item13,6,10,Softwareprogramming/training/support/maintenance inflationtable;one-timeversusannualcycle notclear.,SRC-0069;SRC-0070,Item13,M1-1.0.0
+202506-2130-004,item14,7,10,Grade/time/quantity explicit; firstrowunloadedwhileothers1.75; headingsaysx75%instead ofmarkup.,SRC-0069;SRC-0070,Item14,M1-1.0.0
+202506-2130-004,item15,9,10,Row-levelold/newdriverreasons andaggregate1325hourchange.,SRC-0069;SRC-0070,Item15,M1-1.0.0
+202506-2130-004,validation,3,5,Administrative histories andFASTmodel operational context; response-timeevidence mostlySME.,SRC-0069;SRC-0070,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202506-2130-004,consistency,1,5,8minutesrowcalculatedas.13hours; training2/60computedas.03;1/60as.02.,SRC-0069;SRC-0070,Items12–15 and ROCIS summary,M1-1.0.0
+202507-1902-004,reproducibility,17,20,New97*4-hour task plus retrieved prior master table permits full hour reconstruction; amendment alone uses obsolete baseline.,SRC-0071;SRC-0072;SRC-0111;SRC-0112,Item12,M1-1.0.0
+202507-1902-004,provenance,9,15,NERC registry date and BLS occupations identified; underlying load and task-time evidence incomplete.,SRC-0071;SRC-0072;SRC-0111;SRC-0112,Items12–15 and footnotes,M1-1.0.0
+202507-1902-004,segmentation,14,15,"Reliability standards, registration roles, records and transfer destinations distinguished.",SRC-0071;SRC-0072;SRC-0111;SRC-0112,Item12,M1-1.0.0
+202507-1902-004,labor,6,10,75/25 engineer/clerk mix explicit; benefits embedded in rates without complete derivation.,SRC-0071;SRC-0072;SRC-0111;SRC-0112,Item12,M1-1.0.0
+202507-1902-004,item13,2,10,Statement says no nonlabor cost while ROCIS carries371100; prior statement also contradicts its own cost table.,SRC-0071;SRC-0072;SRC-0111;SRC-0112,Item13,M1-1.0.0
+202507-1902-004,item14,6,10,"PRA administration allowance explained, but updated7978 versus prior8396 is not derived.",SRC-0071;SRC-0072;SRC-0111;SRC-0112,Item14,M1-1.0.0
+202507-1902-004,item15,6,10,Incremental388-hour change clear; stale prior baseline and unresolved transfer arithmetic weaken full bridge.,SRC-0071;SRC-0072;SRC-0111;SRC-0112,Item15,M1-1.0.0
+202507-1902-004,validation,3,5,Registry supports population; four-hour task and inherited120/160-hour workloads untested.,SRC-0071;SRC-0072;SRC-0111;SRC-0112,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202507-1902-004,consistency,1,5,Statement totals use1407238 baseline while ROCIS correctly uses1103040; prior master and transfer tables contain errors.,SRC-0071;SRC-0072;SRC-0111;SRC-0112,Items12–15 and ROCIS summary,M1-1.0.0
+202508-1218-005,reproducibility,17,20,Extensive atomic equations and tables; stale response-column values and mixed precision.,SRC-0186;SRC-0187,Item12,M1-1.0.0
+202508-1218-005,provenance,11,15,"March2025 RMP plus2022CBP and2023OEWS; source dates explicit, inherited timing.",SRC-0186;SRC-0187,Items12–15 and footnotes,M1-1.0.0
+202508-1218-005,segmentation,15,15,"Facility/process, complexity, new/existing and seven occupations separated.",SRC-0186;SRC-0187,Item12,M1-1.0.0
+202508-1218-005,labor,7,10,SOC wage divided by.705 explicit; engineer levels mapped to different occupational groups rather than validated seniority.,SRC-0186;SRC-0187,Item12,M1-1.0.0
+202508-1218-005,item13,8,10,Explicit all costs in12; no additional equipment/purchases asserted consistently with documentation scope.,SRC-0186;SRC-0187,Item13,M1-1.0.0
+202508-1218-005,item14,8,10,Zero investigation records burden tied to5CFR1320.4(a)(2); no review outside investigation identified.,SRC-0186;SRC-0187,Item14,M1-1.0.0
+202508-1218-005,item15,9,10,"Every activity old/new/delta table reconciles, but aggregate explanation omits growth in some drivers.",SRC-0186;SRC-0187,Item15,M1-1.0.0
+202508-1218-005,validation,3,5,Administrative proxy adjustments and comment critique explicit;1996/RIA times and staff20% multiplier not revalidated.,SRC-0186;SRC-0187,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202508-1218-005,consistency,2,5,Response totals retain different facility counts from current burden rows; minor hours conflicts.,SRC-0186;SRC-0187,Items12–15 and ROCIS summary,M1-1.0.0
+202508-1652-001,reproducibility,16,20,"Detailed counts,times andyears; rounded frequency averages prevent exact small-carrier rows.",SRC-0047;SRC-0048,Item12,M1-1.0.0
+202508-1652-001,provenance,11,15,Current2024OEWS/2025ECEC cited; internal pay proxy and federal budget basis less accessible.,SRC-0047;SRC-0048,Items12–15 and footnotes,M1-1.0.0
+202508-1652-001,segmentation,14,15,"Carrier,airport,low-risk provider andindividual paths distinguished; automated activity scope stated.",SRC-0047;SRC-0048,Item12,M1-1.0.0
+202508-1652-001,labor,7,10,Occupational ECEC loading clear; federal J-band proxy explicitly justified; individual ECEC rate identified.,SRC-0047;SRC-0048,Item12,M1-1.0.0
+202508-1652-001,item13,6,10,No additional costs asserted; automated system scope would benefit from implementation-cost rationale.,SRC-0047;SRC-0048,Item13,M1-1.0.0
+202508-1652-001,item14,5,10,Three-year payroll/contract budget categories explicit; no staff workload or incremental allocation.,SRC-0047;SRC-0048,Item14,M1-1.0.0
+202508-1652-001,item15,7,10,"New10000hours and300000responses separated from adjustments, but old/new numerical bridge incomplete.",SRC-0047;SRC-0048,Item15,M1-1.0.0
+202508-1652-001,validation,2,5,Administrative frequencies andgrowth assumption; timing validation absent.,SRC-0047;SRC-0048,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202508-1652-001,consistency,2,5,Federal narrative uses156875M while footnote156.875M andtable thousands; mixed precision.,SRC-0047;SRC-0048,Items12–15 and ROCIS summary,M1-1.0.0
+202508-2126-007,reproducibility,13,20,Forecastanddailyrecord tables; weightingdenominator wrong andcarrierrounding producesconflictingtotals.,SRC-0073;SRC-0074,Item12,M1-1.0.0
+202508-2126-007,provenance,10,15,"MCMISdatedquery,BLSprojections,OEWS/ECEC andvendorprices; allunderlyingquotesnotyetverified.",SRC-0073;SRC-0074,Items12–15 and footnotes,M1-1.0.0
+202508-2126-007,segmentation,13,15,"Driver/carrier,new/existing,exemptDOL andequipment/service split.",SRC-0073;SRC-0074,Item12,M1-1.0.0
+202508-2126-007,labor,4,10,FourSOCweights exceed100%;nestedpassengercategories anddenominator concerns;ECECbenefits mislabeledoverhead.,SRC-0073;SRC-0074,Item12,M1-1.0.0
+202508-2126-007,item13,6,10,"Vendorprice ranges andmedian,installation,andmonthlyservice;replacement omittedandannualtotalincorrect.",SRC-0073;SRC-0074,Item13,M1-1.0.0
+202508-2126-007,item14,6,10,Noincremental federalcost justified asnormalduties; inspectionallocationquestion.,SRC-0073;SRC-0074,Item14,M1-1.0.0
+202508-2126-007,item15,6,10,Old/newinputs andcosts shown butseveraldeltas arithmeticallywrong.,SRC-0073;SRC-0074,Item15,M1-1.0.0
+202508-2126-007,validation,3,5,MCMISobservations andinvestigator50%reviewbasis; malfunctionrates explicitlyunknown.,SRC-0073;SRC-0074,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202508-2126-007,consistency,0,5,"53.40v53.44mhours,1.6206bv1.63553bcost,over100%wageweights.",SRC-0073;SRC-0074,Items12–15 and ROCIS summary,M1-1.0.0
+202509-2060-003,reproducibility,18,20,Retrieved full baseline plus increment reconstruct ROCIS hours/responses; detailed sector/role appendices available.,SRC-0091;SRC-0092;SRC-0103;SRC-0104,Item12,M1-1.0.0
+202509-2060-003,provenance,9,15,Baseline ECEC2020 and new OEWS2021 identified; legacy burden assumptions and source dates need renewal.,SRC-0091;SRC-0092;SRC-0103;SRC-0104,Items12–15 and footnotes,M1-1.0.0
+202509-2060-003,segmentation,15,15,"Terminals, plants, stations and dispensing facilities; technical/manager/clerical roles; transition years.",SRC-0091;SRC-0092;SRC-0103;SRC-0104,Item12,M1-1.0.0
+202509-2060-003,labor,3,10,"Baseline starts with total compensation then adds110% for benefits, double-counting benefits as described; new model uses wages and same factor.",SRC-0091;SRC-0092;SRC-0103;SRC-0104,Item12,M1-1.0.0
+202509-2060-003,item13,6,10,Baseline CPMS maintenance110*1000 explicit; incrementalzero lacks full monitoring-capital scope justification.,SRC-0091;SRC-0092;SRC-0103;SRC-0104,Item13,M1-1.0.0
+202509-2060-003,item14,5,10,Baseline federal23900hours/1.19million and new7261hours/362782 are separate; ROCIS reports only increment.,SRC-0091;SRC-0092;SRC-0103;SRC-0104,Item14,M1-1.0.0
+202509-2060-003,item15,8,10,214000+83882 and6900+3161 reconcile; old underlying213592 rounded to214000 must remain distinct.,SRC-0091;SRC-0092;SRC-0103;SRC-0104,Item15,M1-1.0.0
+202509-2060-003,validation,2,5,"Agency experience and legacy standards, without measured current time validation.",SRC-0091;SRC-0092;SRC-0103;SRC-0104,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202509-2060-003,consistency,2,5,Current package combines full respondent burden with incremental federal cost; mixed source price years and baseline loading error.,SRC-0091;SRC-0092;SRC-0103;SRC-0104,Items12–15 and ROCIS summary,M1-1.0.0
+202511-0583-005,reproducibility,14,20,"Extensive task/size tables, but narrative, subtotals and totals contain material discrepancies.",SRC-0134;SRC-0135,Item12,M1-1.0.0
+202511-0583-005,provenance,8,15,"RTI2015 report and tables cited, current wage vintage but no role/load derivation.",SRC-0134;SRC-0135,Items12–15 and footnotes,M1-1.0.0
+202511-0583-005,segmentation,15,15,"Plant sizes, state/federal and SOP/microbiology/HACCP tasks meaningfully separated.",SRC-0134;SRC-0135,Item12,M1-1.0.0
+202511-0583-005,labor,4,10,107.04 loaded BLS rate without occupation or component derivation.,SRC-0134;SRC-0135,Item12,M1-1.0.0
+202511-0583-005,item13,3,10,"600000 capital for20 new plants has no equipment, useful life or unit-cost evidence.",SRC-0134;SRC-0135,Item13,M1-1.0.0
+202511-0583-005,item14,5,10,Inspector activities and hours shown; some workloads and47.91 rate lack derivation.,SRC-0134;SRC-0135,Item14,M1-1.0.0
+202511-0583-005,item15,6,10,"No-change renewal baseline stated, but unchanged errors undermine reproducibility.",SRC-0134;SRC-0135,Item15,M1-1.0.0
+202511-0583-005,validation,3,5,External cost study and inspection systems cited; underlying report inaccessible in this retrieval.,SRC-0134;SRC-0135,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202511-0583-005,consistency,1,5,"Subtotals, frequencies and federal workload disagree; document length does not yield consistency.",SRC-0134;SRC-0135,Items12–15 and ROCIS summary,M1-1.0.0
+202511-1545-005,reproducibility,12,20,"Aggregate and change arithmetic are reproducible, but model coefficients and microdata are not available in this package.",SRC-0093;SRC-0094;SRC-0100;SRC-0101,Item12,M1-1.0.0
+202511-1545-005,provenance,11,15,"Tax-year survey, model update, legal cutoff and economic inputs identified; coefficient-level provenance incomplete.",SRC-0093;SRC-0094;SRC-0100;SRC-0101,Items12–15 and footnotes,M1-1.0.0
+202511-1545-005,segmentation,15,15,"Entity type, size, receipts, preparation method and tax complexity are explicitly modeled.",SRC-0093;SRC-0094;SRC-0100;SRC-0101,Item12,M1-1.0.0
+202511-1545-005,labor,7,10,Economic-value methodology has floor and ceiling tied to wage/compensation data; exact function and inputs are not exposed.,SRC-0093;SRC-0094;SRC-0100;SRC-0101,Item12,M1-1.0.0
+202511-1545-005,item13,7,10,Survey/model estimates include preparer fees and software; aggregate out-of-pocket estimate lacks public reconstruction coefficients.,SRC-0093;SRC-0094;SRC-0100;SRC-0101,Item13,M1-1.0.0
+202511-1545-005,item14,6,10,383 product allocations supplement the cost estimate; processing subtotal does not add and several federal categories are excluded.,SRC-0093;SRC-0094;SRC-0100;SRC-0101,Item14,M1-1.0.0
+202511-1545-005,item15,9,10,"Separates technical recalibration, projection and legislation with quantified time and dollar changes; ROCIS classification needs reconciliation.",SRC-0093;SRC-0094;SRC-0100;SRC-0101,Item15,M1-1.0.0
+202511-1545-005,validation,4,5,Business taxpayer survey anchors the model; uncertainty and validation performance are not reported in this statement.,SRC-0093;SRC-0094;SRC-0100;SRC-0101,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202511-1545-005,consistency,2,5,Main time and dollar bridges reconcile; federal processing sum is inconsistent.,SRC-0093;SRC-0094;SRC-0100;SRC-0101,Items12–15 and ROCIS summary,M1-1.0.0
+202602-0607-001,reproducibility,18,20,Three clear rows reconstruct totals with one-hour rounding; transferred BERD burden differs from stated minutes.,SRC-0049;SRC-0050,Item12,M1-1.0.0
+202602-0607-001,provenance,9,15,BLS May2024 SOC specified; accountant proxy sensible; timing provenance partly inherited.,SRC-0049;SRC-0050,Items12–15 and footnotes,M1-1.0.0
+202602-0607-001,segmentation,14,15,Employer with/without BERD and nonprofit scope distinguished.,SRC-0049;SRC-0050,Item12,M1-1.0.0
+202602-0607-001,labor,4,10,44.96 base accountant wage no benefit treatment.,SRC-0049;SRC-0050,Item12,M1-1.0.0
+202602-0607-001,item13,10,10,"Clear zero rationale: existing records,no new software,customary outside services.",SRC-0049;SRC-0050,Item13,M1-1.0.0
+202602-0607-001,item14,4,10,10m total and20/80 funding split; activity costs not quantified.,SRC-0049;SRC-0050,Item14,M1-1.0.0
+202602-0607-001,item15,6,10,Added16minutes and transferred BERD identified;124450 transfer does not reproduce157minutes*47500.,SRC-0049;SRC-0050,Item15,M1-1.0.0
+202602-0607-001,validation,3,5,"Cognitive and usability testing planned, not evidence completed for all burden times.",SRC-0049;SRC-0050,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202602-0607-001,consistency,3,5,Inconsistent transfer arithmetic; main table mostly reconciles.,SRC-0049;SRC-0050,Items12–15 and ROCIS summary,M1-1.0.0
+202602-2060-006,reproducibility,16,20,"Fullbaseline retrieved; incrementtasks andscope clear, but rounding/staleratecells.",SRC-0153;SRC-0154;SRC-0158;SRC-0159,Item12,M1-1.0.0
+202602-2060-006,provenance,10,15,"OEWS2024industryNAICS/SOC,OPM2025,baseline2023; legacytechnicalcoefficients.",SRC-0153;SRC-0154;SRC-0158;SRC-0159,Items12–15 and footnotes,M1-1.0.0
+202602-2060-006,segmentation,15,15,"Newstandards,e-reporting andremovedmonitorobligationssegmented.",SRC-0153;SRC-0154;SRC-0158;SRC-0159,Item12,M1-1.0.0
+202602-2060-006,labor,6,10,Wage*2.1methodexplicit;technicaltotal70.31typo versus114.09usedintables; overheadsupportweak.,SRC-0153;SRC-0154;SRC-0158;SRC-0159,Item12,M1-1.0.0
+202602-2060-006,item13,6,10,Positiveperformance testsandnegativeequipment/O&M changesseparate; legacycapitalunit costnotannualized.,SRC-0153;SRC-0154;SRC-0158;SRC-0159,Item13,M1-1.0.0
+202602-2060-006,item14,6,10,"Federalincrementbyrole/grade; fullbaselinecostexistsseparately, removalrowinconsistencies.",SRC-0153;SRC-0154;SRC-0158;SRC-0159,Item14,M1-1.0.0
+202602-2060-006,item15,9,10,Exactoldplusprogramdelta=newinventoryforthreemeasures; incrementroundingdocumented.,SRC-0153;SRC-0154;SRC-0158;SRC-0159,Item15,M1-1.0.0
+202602-2060-006,validation,3,5,Engineering/programknowledge; limitedpublictimingvalidation.,SRC-0153;SRC-0154;SRC-0158;SRC-0159,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202602-2060-006,consistency,3,5,"Overallinventorybridgecoherent, detailedrole/hourandwagecells conflict.",SRC-0153;SRC-0154;SRC-0158;SRC-0159,Items12–15 and ROCIS summary,M1-1.0.0
+202602-3170-003,reproducibility,15,20,Table row hours reconstruct; per-bank hours are asserted aggregates.,SRC-0051;SRC-0052,Item12,M1-1.0.0
+202602-3170-003,provenance,5,15,"SOC, base wage and live BLS link supplied without vintage or load derivation.",SRC-0051;SRC-0052,Items12–15 and footnotes,M1-1.0.0
+202602-3170-003,segmentation,9,15,"Reporting, records and disclosures separated; bank size and data-volume heterogeneity hidden.",SRC-0051;SRC-0052,Item12,M1-1.0.0
+202602-3170-003,labor,3,10,41.46 to66.33 implicit1.6 factor not explained; financial-sector claim links national data.,SRC-0051;SRC-0052,Item12,M1-1.0.0
+202602-3170-003,item13,6,10,Software and LEI unit costs exposed; narrative discusses a different collection.,SRC-0051;SRC-0052,Item13,M1-1.0.0
+202602-3170-003,item14,3,10,"Three employees plus861728 contract/O&M, but salary absent and total unclear.",SRC-0051;SRC-0052,Item14,M1-1.0.0
+202602-3170-003,item15,4,10,Wage increase explained without prior rate or dollar bridge.,SRC-0051;SRC-0052,Item15,M1-1.0.0
+202602-3170-003,validation,1,5,No timing evidence in Item12; inherited methodology not located in statement.,SRC-0051;SRC-0052,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202602-3170-003,consistency,0,5,RegulationI/private deposit-insurance narrative surrounds HMDA tables; wrong legal scope repeated.,SRC-0051;SRC-0052,Items12–15 and ROCIS summary,M1-1.0.0
+202603-0535-001,reproducibility,18,20,"Embedded tables expose sample, response/nonresponse, frequency and time by survey; early.33/.67annualization.",SRC-0188;SRC-0189,Item12,M1-1.0.0
+202603-0535-001,provenance,10,15,"May2024OEWS dates given, but no SOCs and33%loading source.",SRC-0188;SRC-0189,Items12–15 and footnotes,M1-1.0.0
+202603-0535-001,segmentation,15,15,"Area/list frame, commodity, cycle, advance material, testing and nonresponse meaningful.",SRC-0188;SRC-0189,Item12,M1-1.0.0
+202603-0535-001,labor,6,10,Equal three-occupation mean explicit; loading33% assumed and occupational population mix unsupported.,SRC-0188;SRC-0189,Item12,M1-1.0.0
+202603-0535-001,item13,8,10,"Explicit no capital/O&M for survey, consistent with existing records.",SRC-0188;SRC-0189,Item13,M1-1.0.0
+202603-0535-001,item14,4,10,"32million budget with staffing/data collection description, no allocation equations.",SRC-0188;SRC-0189,Item14,M1-1.0.0
+202603-0535-001,item15,8,10,Response/nonresponse hours old/current/difference and named program additions; driver-level split incomplete.,SRC-0188;SRC-0189,Item15,M1-1.0.0
+202603-0535-001,validation,3,5,"Sampling designed to reduce duplicate selection; time based on questionnaire content, not measured distribution.",SRC-0188;SRC-0189,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202603-0535-001,consistency,3,5,Sample596600 differs from447630+157970=605600; early rounding and labels require interpretation.,SRC-0188;SRC-0189,Items12–15 and ROCIS summary,M1-1.0.0
+202603-1210-004,reproducibility,16,20,"Detailed transaction table with counts, minutes and role costs; rounded hour displays require exact minute reconstruction.",SRC-0095;SRC-0096,Item12,M1-1.0.0
+202603-1210-004,provenance,10,15,"MEPS-IC, Form 5500 and agency projections cited; denial/appeal and timing assumptions require fuller validation.",SRC-0095;SRC-0096,Items12–15 and footnotes,M1-1.0.0
+202603-1210-004,segmentation,15,15,"Health, short/long disability, pension, other benefits and claim outcomes are distinguished.",SRC-0095;SRC-0096,Item12,M1-1.0.0
+202603-1210-004,labor,7,10,Role-specific EBSA loaded rates tied to shared RIA/PRA methodology; source-to-current-rate chain incomplete.,SRC-0095;SRC-0096,Item12,M1-1.0.0
+202603-1210-004,item13,8,10,"Paper delivery shares, postage and pages modeled; contracted administration instead included in Item 12.",SRC-0095;SRC-0096,Item13,M1-1.0.0
+202603-1210-004,item14,4,10,Zero federal cost asserted without workload analysis.,SRC-0095;SRC-0096,Item14,M1-1.0.0
+202603-1210-004,item15,6,10,Totals and updating factors supplied; no full quantified driver decomposition.,SRC-0095;SRC-0096,Item15,M1-1.0.0
+202603-1210-004,validation,3,5,Administrative and survey populations; behavioral denial/appeal rates and extreme time values less supported.,SRC-0095;SRC-0096,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202603-1210-004,consistency,2,5,Medical denial 8.67 hours conflicts with prose maximum six hours; several outcome labels differ across tables.,SRC-0095;SRC-0096,Items12–15 and ROCIS summary,M1-1.0.0
+202606-1652-001,reproducibility,15,20,Atomic activity models clear and public hours sum; scope omissions and turnover-period error hinder defensibility.,SRC-0021;SRC-0022,Item12,M1-1.0.0
+202606-1652-001,provenance,11,15,"BLS/OPM/Census source detail unusually explicit, but SOC labels and reference control numbers conflict.",SRC-0021;SRC-0022,Items12–15 and footnotes,M1-1.0.0
+202606-1652-001,segmentation,13,15,Rail/transit/bus and plans/reports/recordkeeping separated;events versus persons muddled.,SRC-0021;SRC-0022,Item12,M1-1.0.0
+202606-1652-001,labor,7,10,Blended manager/analyst wages and compensation ratio explicit;occupation labels and sector proxy require review.,SRC-0021;SRC-0022,Item12,M1-1.0.0
+202606-1652-001,item13,6,10,"Zero costs attributed to other control number, but two different control numbers given and no general IT cost exclusion basis.",SRC-0021;SRC-0022,Item13,M1-1.0.0
+202606-1652-001,item14,7,10,Loaded federal annual salary+benefits/2087 transparent;total federal hours incorrect.,SRC-0021;SRC-0022,Item14,M1-1.0.0
+202606-1652-001,item15,4,10,Removes one-time costs and updates populations but no full hours bridge;no-program-change prose conflicts with ROCIS discretion.,SRC-0021;SRC-0022,Item15,M1-1.0.0
+202606-1652-001,validation,2,5,"Named SMEs,turnover,mobility sources;monthly/annual substitution and personal-mobility proxy weaken validity.",SRC-0021;SRC-0022,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202606-1652-001,consistency,1,5,Federal hours sum not881;coordinator5 hours inconsistent with199*0.083;cost typo29918;cross-ICR identifier typo.,SRC-0021;SRC-0022,Items12–15 and ROCIS summary,M1-1.0.0
+202606-1652-002,reproducibility,10,20,Year tables detailed but statedgrowth doesnot reproduce forecast;online renewals appear added to fullpopulation already charged inperson.,SRC-0053;SRC-0054,Item12,M1-1.0.0
+202606-1652-002,provenance,8,15,SixNAICS andtwoSOCs described but component inputs absent; ECEC reference/publication date confused.,SRC-0053;SRC-0054,Items12–15 and footnotes,M1-1.0.0
+202606-1652-002,segmentation,11,15,Useful pathways designed but not mutually exclusive in formulas.,SRC-0053;SRC-0054,Item12,M1-1.0.0
+202606-1652-002,labor,6,10,Employment-weighted wage26.22 andbenefit ratio disclosed; industry weighting andvintage insufficient to reproduce.,SRC-0053;SRC-0054,Item12,M1-1.0.0
+202606-1652-002,item13,5,10,Fee components andappeal costs explicit; discount applied to allrenewals instead ofonline60% only.,SRC-0053;SRC-0054,Item13,M1-1.0.0
+202606-1652-002,item14,4,10,User fees said tocover federal costs without gross costs or allocation.,SRC-0053;SRC-0054,Item14,M1-1.0.0
+202606-1652-002,item15,3,10,Directions stated without quantitative old/new bridge; newonline policy vsadjustment classification unclear.,SRC-0053;SRC-0054,Item15,M1-1.0.0
+202606-1652-002,validation,3,5,Historical enrollment counts andcandid appeal-time extrapolation; assumptions unvalidated.,SRC-0053;SRC-0054,Items8 and12–15; cited consultation/method documents,M1-1.0.0
+202606-1652-002,consistency,0,5,Survey table519hours becomes5187summary; major pathway andprojection inconsistencies.,SRC-0053;SRC-0054,Items12–15 and ROCIS summary,M1-1.0.0

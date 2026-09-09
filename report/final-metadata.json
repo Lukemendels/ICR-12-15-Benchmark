@@ -1,0 +1,47 @@
+{
+  "MISSION_STATUS": "REPORT_COMPLETE",
+  "mission": 2,
+  "report_version": "M2-1.0.0",
+  "report_date": "2026-09-09",
+  "evidence_version": "M1-1.0.0",
+  "evidence_commit": "16aeb85d976eb3a89ecb3872d4dda94753e77cd3",
+  "rubric_version": "1.0.0",
+  "canonical_model_version": "0.5.0",
+  "primary_artifact": "report/final/ICR-12-15-Benchmark-Report.pdf",
+  "pdf_sha256": "3bfb6c8a08a78d8f6ae422f9649a199663a2f1f447a4ffef70e426db8718cfb6",
+  "pdf_bytes": 306218,
+  "pages": 49,
+  "figures": 3,
+  "footnotes": 183,
+  "external_sources": 53,
+  "icrs": 73,
+  "tsa_icrs": 10,
+  "component_labels": 38,
+  "quality_gates": {
+    "evidence_traceability": "PASS",
+    "reproducibility": "PASS",
+    "citations": "PASS",
+    "quantitative_integrity": "PASS",
+    "observation_inference_distinction": "PASS",
+    "neutrality": "PASS",
+    "tsa_focus": "PASS",
+    "methodological_usefulness": "PASS",
+    "software_translation": "PASS",
+    "presentation": "PASS",
+    "evidence_boundary": "PASS"
+  },
+  "evidence_boundary": "Frozen Mission 1 files unchanged; README navigation update explicitly authorized. Mission 1 status remains EVIDENCE_FROZEN. Report status is separate.",
+  "frozen_record_qualifications": [
+    "M2-OBS-001: HME share check numerical-status versus semantic interpretation conflict",
+    "M2-OBS-002: historical capital check source binding; report cites frozen methodological supplement"
+  ],
+  "new_evidence_release_created": false,
+  "future_missions_implemented": false,
+  "audit_log": "report/audit/report-audit-log.md",
+  "build_dependencies": {
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "matplotlib": "3.10.8"
+  },
+  "render_engine": "Pandoc with XeLaTeX; DejaVu fonts"
+}

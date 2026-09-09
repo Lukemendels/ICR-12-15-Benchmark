@@ -1,0 +1,44 @@
+\usepackage{xcolor}
+\definecolor{Navy}{HTML}{203747}
+\definecolor{Teal}{HTML}{007F86}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{caption}
+\usepackage{needspace}
+\usepackage{footmisc}
+\usepackage{microtype}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\sffamily\scriptsize FEDERAL ICR BURDEN AND COST ANALYSIS}
+\fancyhead[R]{\sffamily\scriptsize EVIDENCE M1-1.0.0}
+\fancyfoot[L]{\sffamily\scriptsize Methodological benchmark \textbar{} September 2026}
+\fancyfoot[R]{\sffamily\small\thepage}
+\setlength{\headheight}{15pt}
+\renewcommand{\headrulewidth}{0.3pt}
+\renewcommand{\footrulewidth}{0pt}
+\titleformat{\section}{\sffamily\Large\bfseries\color{Navy}}{}{0em}{}
+\titleformat{\subsection}{\sffamily\large\bfseries\color{Teal}}{}{0em}{}
+\titlespacing*{\section}{0pt}{20pt}{10pt}
+\titlespacing*{\subsection}{0pt}{14pt}{7pt}
+\let\oldsection\section
+\renewcommand{\section}{\Needspace{6\baselineskip}\oldsection}
+\let\oldsubsection\subsection
+\renewcommand{\subsection}{\Needspace{5\baselineskip}\oldsubsection}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{7pt plus 1pt minus 1pt}
+\setlength{\emergencystretch}{3em}
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.14}
+\captionsetup{font=small,labelformat=empty,justification=raggedright,singlelinecheck=false}
+\renewcommand{\footnotesize}{\fontsize{8.5}{10.2}\selectfont}
+\setlength{\footnotesep}{8pt}
+\interfootnotelinepenalty=10000
+\widowpenalty=10000
+\clubpenalty=10000
+\AtBeginDocument{\hypersetup{pdftitle={Benchmarking Federal ICR Burden and Cost Analysis},pdfsubject={Federal evidence, TSA applications, and reproducible Items 12-15 modeling},pdfkeywords={PRA, ICR, TSA, burden estimation, reproducibility, M1-1.0.0}}}
+\AtBeginDocument{\urlstyle{same}}
+
+\brokenpenalty=10000
+
+\usepackage{float}
+\floatplacement{figure}{H}

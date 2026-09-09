@@ -1,0 +1,17 @@
+documentclass: article
+fontsize: 11pt
+papersize: letter
+geometry:
+  - top=0.78in
+  - bottom=0.8in
+  - left=0.8in
+  - right=0.8in
+mainfont: DejaVu Serif
+sansfont: DejaVu Sans
+monofont: DejaVu Sans Mono
+colorlinks: true
+linkcolor: Navy
+urlcolor: Teal
+linestretch: 1.06
+toc-depth: 1
+lang: en-US

@@ -1,24 +1,32 @@
-# ICR Items12–15 Federal Benchmark — Mission1
+# Federal ICR Items 12-15 benchmark
 
-This repository is the durable evidence and methodological state for ASTRA Mission1. Read **research/research-state.json** first. Mission2 is synthesis and publication; no modeling application or publication-quality report is built here.
+**Mission 2: REPORT_COMPLETE** - [Read the analytical report](report/final/ICR-12-15-Benchmark-Report.pdf).
 
-73 unique recent ICR package reviews include10 TSA collections across38 agency/component labels. The study asks whether another analyst can identify inputs, reproduce calculations, update estimates and defend assumptions. The sample is purposive, not representative of all federal ICRs.
+This study benchmarks observable federal Supporting Statement A methodology, with TSA as the principal application case. The purposive evidence base contains 73 unique recent controls, 38 agency/component labels and ten TSA collections. It supports methodological comparison, not agency population rankings or conclusions about undisclosed internal work.
+
+## Research sequence
+
+1. **Mission 1 - Federal benchmark evidence.** Frozen release `M1-1.0.0`, rubric `1.0.0`, canonical model `0.5.0`, at commit `16aeb85d976eb3a89ecb3872d4dda94753e77cd3`. The authoritative Mission 1 state remains `EVIDENCE_FROZEN`.
+2. **Mission 2 - Analytical report.** Synthesis, quantitative comparisons, source-traceable footnotes, TSA actions and future modeling requirements. Final status, evidence pin and artifact hash: [report metadata](report/final-metadata.json).
+3. **Future Mission 3 - TSA evidence graph and consistency analysis.** Compare assumptions across similarly shaped TSA collections, then retrieve useful federal analogues. Not implemented here.
+4. **Future application - Evidence-grounded ICR modeling and review.** Structured model to validated calculations to defensible Excel to Supporting Statement narrative. Not implemented here.
+
+## Read and reproduce
 
 | Purpose | Location |
 |---|---|
-| State and handoff | research/research-state.json; research/mission-2-handoff.md |
-| Concise findings and limitations | research/research-summary.md; research/limitations.md |
-| Dataset, scores and checks | data/icrs.csv; data/scores.csv; data/calculation-checks.csv |
-| Structured models | data/model-sections.jsonl; icrs/*/extraction.json |
-| Original evidence and tables | icrs/*/raw; icrs/*/table-evidence.json; raw |
-| Source and claim provenance | data/sources.jsonl; data/claims.jsonl |
-| Data sources and assumptions | data/data-sources.csv; data/assumptions.csv |
-| Compliance, rubric and calibration | methodology/requirements-floor.md; methodology/rubric.md; methodology/calibration.md |
-| Architecture and tool specification | methodology/canonical-model.md; methodology/canonical-data-dictionary.md; methodology/tool-requirements.md |
-| TSA gaps and exemplars | methodology/tsa-comparison.md; methodology/exemplars.md |
-| Sampling and saturation | methodology/sampling-strategy.md; logs; research/saturation-log.md |
-| Validation and content hashes | research/final-validation.json; research/evidence-manifest.json |
+| Primary PDF | [Final report](report/final/ICR-12-15-Benchmark-Report.pdf) |
+| Editable source and build instructions | [Report README](report/README.md); report/source; report/scripts |
+| Figures and exact figure data | report/figures; report/figure-data |
+| Normalized comparisons and classifications | report/tables |
+| Report audit trail | report/audit |
+| Frozen state and handoff | research/research-state.json; research/mission-2-handoff.md |
+| Frozen dataset, scores and checks | data/icrs.csv; data/scores.csv; data/calculation-checks.csv |
+| Structured extraction and archived sources | data/model-sections.jsonl; icrs; raw |
+| Source/claim registries | data/sources.jsonl; data/claims.jsonl |
+| Frozen methods and limitations | methodology; research/limitations.md |
+| Freeze validation and hashes | research/final-validation.json; research/evidence-manifest.json |
 
-BLS SOII has the strongest overall observed score83. TSA spans50–76, mean67.4; its flight-training Item12 model is close to the strongest examples. Other agencies contribute stronger change bridges, validation and particular cost methods. This does not establish a population agency ranking or the effect of TSA's reported overhaul.
+The report finds strong TSA activity, occupation and cohort methods alongside distinct public reconstruction risks. Useful frontier practices are distributed across federal collections. No unique agency superiority or effect of recent internal TSA process changes is established.
 
-Original source values are preserved when checks disagree. Correct arithmetic does not prove valid assumptions. Null means missing/not normalized, never zero. The dataset is an evidence foundation, not73 fully executable replacement models. Versions and limitations are in the handoff.
+All Mission 1 evidence files remain unchanged. This README is the authorized navigation update; its historical frozen version remains accessible at the evidence commit. Mission 2 adds report artifacts and separately documents two frozen-record qualification issues without changing checks or scores. Null remains missing/not normalized, never an inferred zero.

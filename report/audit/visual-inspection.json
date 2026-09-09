@@ -1,0 +1,502 @@
+{
+  "result": "PASS",
+  "pdf_sha256": "3bfb6c8a08a78d8f6ae422f9649a199663a2f1f447a4ffef70e426db8718cfb6",
+  "page_count": 49,
+  "method": "Every page inspected in rendered contact sheets; representative dense tables, cover and figure inspected at page scale during repairs. Final figures and source notes kept together, and reference entries kept together. Text bounds, bookmarks and link counts checked independently.",
+  "page_results": [
+    {
+      "pdf_page": 1,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 3,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 4,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 5,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 6,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 7,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 8,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 9,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 11,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 12,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 13,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 14,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 15,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 16,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 17,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 18,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 19,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 20,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 21,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 22,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 23,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 24,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 25,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 26,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 27,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 28,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 29,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 30,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 31,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 32,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 33,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 34,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 35,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 36,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 37,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 38,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 39,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 40,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 41,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 42,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 43,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 44,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 45,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 46,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 47,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 48,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    },
+    {
+      "pdf_page": 49,
+      "status": "PASS",
+      "checks": [
+        "no clipping or overlapping elements",
+        "readable text and tables",
+        "footnote/reference placement",
+        "page breaks and heading continuity"
+      ]
+    }
+  ],
+  "known_presentation_limitations": [
+    "PDF is not tagged for full accessibility; report includes navigable bookmarks and hyperlinks."
+  ],
+  "render_iterations": "Iterative repairs documented in report-audit-log.md"
+}

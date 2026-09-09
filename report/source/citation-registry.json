@@ -1,0 +1,1283 @@
+[
+  {
+    "footnote": 1,
+    "source_id": "M1",
+    "first_use": true,
+    "locator": "research/research-summary.md; methodology/exemplars.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/research/research-summary.md"
+  },
+  {
+    "footnote": 2,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/scores.csv; data/score-sensitivity.csv; methodology/calibration.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/scores.csv"
+  },
+  {
+    "footnote": 3,
+    "source_id": "SRC-0008",
+    "first_use": true,
+    "locator": "Item 12, recording burden and Table 9",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143710604"
+  },
+  {
+    "footnote": 4,
+    "source_id": "SRC-0099",
+    "first_use": true,
+    "locator": "printed p. 19, burden measurement comparison",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=139566701"
+  },
+  {
+    "footnote": 5,
+    "source_id": "SRC-0064",
+    "first_use": true,
+    "locator": "Item 15 and paragraph 18",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=155788401"
+  },
+  {
+    "footnote": 6,
+    "source_id": "SRC-0063",
+    "first_use": true,
+    "locator": "OIRA conclusion action, July 8, 2025",
+    "source_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202503-3060-020"
+  },
+  {
+    "footnote": 7,
+    "source_id": "SRC-0036",
+    "first_use": true,
+    "locator": "Item 12, cohorts and wage footnotes",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=142748301"
+  },
+  {
+    "footnote": 8,
+    "source_id": "SRC-0054",
+    "first_use": true,
+    "locator": "Item 12, Tables 5a-5c",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=169514100"
+  },
+  {
+    "footnote": 9,
+    "source_id": "SRC-0022",
+    "first_use": true,
+    "locator": "Item 12, coordinator updates; Item 14",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=169398300"
+  },
+  {
+    "footnote": 10,
+    "source_id": "SRC-0176",
+    "first_use": true,
+    "locator": "Item 12, applicant wage footnote",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150317001"
+  },
+  {
+    "footnote": 11,
+    "source_id": "SRC-0038",
+    "first_use": true,
+    "locator": "Item 12, first-flight checklist and Table 2",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143967301"
+  },
+  {
+    "footnote": 12,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/tsa-comparison.md; methodology/tool-requirements.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/tsa-comparison.md"
+  },
+  {
+    "footnote": 13,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-data-dictionary.md; methodology/canonical-model.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-data-dictionary.md"
+  },
+  {
+    "footnote": 14,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "research/final-validation.json; research/limitations.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/research/final-validation.json"
+  },
+  {
+    "footnote": 15,
+    "source_id": "SRC-0001",
+    "first_use": true,
+    "locator": "Items 12-15, pp. 2-3",
+    "source_url": "https://pra.digital.gov/uploads/supporting-statement-a-instructions.pdf"
+  },
+  {
+    "footnote": 16,
+    "source_id": "SRC-0025",
+    "first_use": true,
+    "locator": "5 CFR 1320.8(a)(4)",
+    "source_url": "https://www.ecfr.gov/current/title-5/chapter-III/subchapter-B/part-1320/section-1320.8"
+  },
+  {
+    "footnote": 17,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/requirements-floor.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/requirements-floor.md"
+  },
+  {
+    "footnote": 18,
+    "source_id": "SRC-0102",
+    "first_use": true,
+    "locator": "p. 1, purpose and labor-cost definition",
+    "source_url": "https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/rules-and-regulations/technical-appendices/labor-cost-inputs-used-in-ebsa-opr-ria-and-pra-burden-calculations-june-2019.pdf"
+  },
+  {
+    "footnote": 19,
+    "source_id": "SRC-0164",
+    "first_use": true,
+    "locator": "89 FR 83177-83192 and 83211-83213",
+    "source_url": "https://www.govinfo.gov/content/pkg/FR-2024-10-15/pdf/2024-22905.pdf"
+  },
+  {
+    "footnote": 20,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "research/mission-2-handoff.md; research/research-state.json",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/research/mission-2-handoff.md"
+  },
+  {
+    "footnote": 21,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/icrs.csv; research/limitations.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/icrs.csv"
+  },
+  {
+    "footnote": 22,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/sampling-strategy.md; research/research-plan.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/sampling-strategy.md"
+  },
+  {
+    "footnote": 23,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "AGENTS.md; methodology/rubric.md; data/scores.csv",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/AGENTS.md"
+  },
+  {
+    "footnote": 24,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/rubric.md; research/final-validation.json; data/calculation-checks.csv",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/rubric.md"
+  },
+  {
+    "footnote": 25,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "research/final-validation.json; data/calculation-checks.csv, HME Agentpathway share",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/research/final-validation.json"
+  },
+  {
+    "footnote": 26,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "research/saturation-log.md; logs/iteration-007-results.md; logs/iteration-008-results.md; logs/iteration-009-results.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/research/saturation-log.md"
+  },
+  {
+    "footnote": 27,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "research/final-validation.json; research/open-questions.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/research/final-validation.json"
+  },
+  {
+    "footnote": 28,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/calibration.md; research/limitations.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/calibration.md"
+  },
+  {
+    "footnote": 29,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/rubric.md; research/limitations.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/rubric.md"
+  },
+  {
+    "footnote": 30,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/calibration.md; methodology/exemplars.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/calibration.md"
+  },
+  {
+    "footnote": 31,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/score-sensitivity.csv; methodology/calibration.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/score-sensitivity.csv"
+  },
+  {
+    "footnote": 32,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-model.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-model.md"
+  },
+  {
+    "footnote": 33,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/exemplars.md; methodology/tsa-comparison.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/exemplars.md"
+  },
+  {
+    "footnote": 34,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-model.md; methodology/canonical-data-dictionary.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-model.md"
+  },
+  {
+    "footnote": 35,
+    "source_id": "SRC-0180",
+    "first_use": true,
+    "locator": "Item 12, Tables 1-9",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403"
+  },
+  {
+    "footnote": 36,
+    "source_id": "SRC-0054",
+    "first_use": false,
+    "locator": "Item 12, Tables 5a-5c",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=169514100"
+  },
+  {
+    "footnote": 37,
+    "source_id": "SRC-0176",
+    "first_use": false,
+    "locator": "Item 12, STA applicant and airport data-entry activities",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150317001"
+  },
+  {
+    "footnote": 38,
+    "source_id": "SRC-0008",
+    "first_use": false,
+    "locator": "Item 12, recording burden and Table 9",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143710604"
+  },
+  {
+    "footnote": 39,
+    "source_id": "SRC-0036",
+    "first_use": false,
+    "locator": "Item 12, candidate and provider cohort tables",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=142748301"
+  },
+  {
+    "footnote": 40,
+    "source_id": "SRC-0189",
+    "first_use": true,
+    "locator": "Item 12, Tables 1-2",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=167082401"
+  },
+  {
+    "footnote": 41,
+    "source_id": "SRC-0191",
+    "first_use": true,
+    "locator": "85 FR 31605-31611, including Tables 21-22",
+    "source_url": "https://www.govinfo.gov/content/pkg/FR-2020-05-26/pdf/2020-11247.pdf"
+  },
+  {
+    "footnote": 42,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/assumptions.csv, ASM-0006 and ASM-0007",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/assumptions.csv"
+  },
+  {
+    "footnote": 43,
+    "source_id": "SRC-0036",
+    "first_use": false,
+    "locator": "Item 12, wage selection footnotes",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=142748301"
+  },
+  {
+    "footnote": 44,
+    "source_id": "SRC-0180",
+    "first_use": false,
+    "locator": "Item 12, weighted wage table",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403"
+  },
+  {
+    "footnote": 45,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-model.md, compensation alternatives",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-model.md"
+  },
+  {
+    "footnote": 46,
+    "source_id": "SRC-0102",
+    "first_use": false,
+    "locator": "pp. 1-3, compensation and overhead methods",
+    "source_url": "https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/rules-and-regulations/technical-appendices/labor-cost-inputs-used-in-ebsa-opr-ria-and-pra-burden-calculations-june-2019.pdf"
+  },
+  {
+    "footnote": 47,
+    "source_id": "SRC-0031",
+    "first_use": true,
+    "locator": "Employment Cost Index, source catalog entry",
+    "source_url": "https://www.bls.gov/eci/"
+  },
+  {
+    "footnote": 48,
+    "source_id": "SRC-0033",
+    "first_use": true,
+    "locator": "GDP price index, source catalog entry",
+    "source_url": "https://www.bea.gov/data/prices-inflation/gdp-price-index"
+  },
+  {
+    "footnote": 49,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/data-sources.csv; methodology/canonical-data-dictionary.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/data-sources.csv"
+  },
+  {
+    "footnote": 50,
+    "source_id": "SRC-0099",
+    "first_use": false,
+    "locator": "printed p. 19, burden table",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=139566701"
+  },
+  {
+    "footnote": 51,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/assumptions.csv, ASM-0001 and ASM-0017; methodology/canonical-model.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/assumptions.csv"
+  },
+  {
+    "footnote": 52,
+    "source_id": "SRC-0001",
+    "first_use": false,
+    "locator": "Item 13, pp. 2-3",
+    "source_url": "https://pra.digital.gov/uploads/supporting-statement-a-instructions.pdf"
+  },
+  {
+    "footnote": 53,
+    "source_id": "SRC-0060",
+    "first_use": true,
+    "locator": "Items 12-13, annual maintenance and purchased-service calculations",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143525202"
+  },
+  {
+    "footnote": 54,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/exemplars.md; research/limitations.md, limitation 10",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/exemplars.md"
+  },
+  {
+    "footnote": 55,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-model.md; data/assumptions.csv, ASM-0011 and ASM-0022",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-model.md"
+  },
+  {
+    "footnote": 56,
+    "source_id": "SRC-0161",
+    "first_use": true,
+    "locator": "Costs sheet, rows 152 and 181-184; Summary Info rows 44-47",
+    "source_url": "https://www.epa.gov/sites/default/files/2020-08/19-cems.xls"
+  },
+  {
+    "footnote": 57,
+    "source_id": "SRC-0162",
+    "first_use": true,
+    "locator": "pp. 2-5, Tables 2-1 through 4-1",
+    "source_url": "https://downloads.regulations.gov/EPA-HQ-OAR-2015-0730-0201/content.pdf"
+  },
+  {
+    "footnote": 58,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/claims.jsonl, CLM-FINDING-017",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/claims.jsonl"
+  },
+  {
+    "footnote": 59,
+    "source_id": "SRC-0183",
+    "first_use": true,
+    "locator": "Tables 3-4 and 6",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=139435801"
+  },
+  {
+    "footnote": 60,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "logs/iteration-009-results.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/logs/iteration-009-results.md"
+  },
+  {
+    "footnote": 61,
+    "source_id": "SRC-0001",
+    "first_use": false,
+    "locator": "Items 12-13",
+    "source_url": "https://pra.digital.gov/uploads/supporting-statement-a-instructions.pdf"
+  },
+  {
+    "footnote": 62,
+    "source_id": "SRC-0002",
+    "first_use": true,
+    "locator": "pp. 120-121, supporting-statement appendix",
+    "source_url": "https://www.rocis.gov/rocis/downloadResourceDocument.do?uuid=632c6a25-57d2-45f3-84d7-701437f7c73a"
+  },
+  {
+    "footnote": 63,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/requirements-floor.md, instruction defects",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/requirements-floor.md"
+  },
+  {
+    "footnote": 64,
+    "source_id": "SRC-0001",
+    "first_use": false,
+    "locator": "Item 14",
+    "source_url": "https://pra.digital.gov/uploads/supporting-statement-a-instructions.pdf"
+  },
+  {
+    "footnote": 65,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-data-dictionary.md, Federal activity and Federal allocation",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-data-dictionary.md"
+  },
+  {
+    "footnote": 66,
+    "source_id": "SRC-0038",
+    "first_use": false,
+    "locator": "Item 14, workload tables",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143967301"
+  },
+  {
+    "footnote": 67,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/calculation-checks.csv, aircraft-operator Federal hours and dollars",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/calculation-checks.csv"
+  },
+  {
+    "footnote": 68,
+    "source_id": "SRC-0176",
+    "first_use": false,
+    "locator": "Item 14",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150317001"
+  },
+  {
+    "footnote": 69,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/calculation-checks.csv, Airport Security Federal check",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/calculation-checks.csv"
+  },
+  {
+    "footnote": 70,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/exemplars.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/exemplars.md"
+  },
+  {
+    "footnote": 71,
+    "source_id": "SRC-0086",
+    "first_use": true,
+    "locator": "Item 14",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=151812302"
+  },
+  {
+    "footnote": 72,
+    "source_id": "SRC-0180",
+    "first_use": false,
+    "locator": "Item 14",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403"
+  },
+  {
+    "footnote": 73,
+    "source_id": "SRC-0036",
+    "first_use": false,
+    "locator": "Item 14",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=142748301"
+  },
+  {
+    "footnote": 74,
+    "source_id": "SRC-0164",
+    "first_use": false,
+    "locator": "89 FR 83177-83192, cost analysis",
+    "source_url": "https://www.govinfo.gov/content/pkg/FR-2024-10-15/pdf/2024-22905.pdf"
+  },
+  {
+    "footnote": 75,
+    "source_id": "SRC-0144",
+    "first_use": true,
+    "locator": "Item 14",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150266202"
+  },
+  {
+    "footnote": 76,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/assumptions.csv, ASM-0020 and ASM-0021",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/assumptions.csv"
+  },
+  {
+    "footnote": 77,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-model.md, Item 15; methodology/tool-requirements.md, TR-13 and TR-14",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-model.md"
+  },
+  {
+    "footnote": 78,
+    "source_id": "SRC-0064",
+    "first_use": false,
+    "locator": "Item 15",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=155788401"
+  },
+  {
+    "footnote": 79,
+    "source_id": "SRC-0063",
+    "first_use": false,
+    "locator": "OIRA conclusion action and date",
+    "source_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202503-3060-020"
+  },
+  {
+    "footnote": 80,
+    "source_id": "SRC-0064",
+    "first_use": false,
+    "locator": "paragraph 18; Items 12 and 15",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=155788401"
+  },
+  {
+    "footnote": 81,
+    "source_id": "SRC-0002",
+    "first_use": false,
+    "locator": "pp. 49-51",
+    "source_url": "https://www.rocis.gov/rocis/downloadResourceDocument.do?uuid=632c6a25-57d2-45f3-84d7-701437f7c73a"
+  },
+  {
+    "footnote": 82,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-data-dictionary.md, Change event",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-data-dictionary.md"
+  },
+  {
+    "footnote": 83,
+    "source_id": "SRC-0174",
+    "first_use": true,
+    "locator": "Item 15, removal of CG-6025A",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=145780303"
+  },
+  {
+    "footnote": 84,
+    "source_id": "SRC-0181",
+    "first_use": true,
+    "locator": "revised calculation supplement, annual responses",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=162617501"
+  },
+  {
+    "footnote": 85,
+    "source_id": "SRC-0187",
+    "first_use": true,
+    "locator": "Table 3 and Item 15",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=161728301"
+  },
+  {
+    "footnote": 86,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-model.md, baseline and interaction requirements",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-model.md"
+  },
+  {
+    "footnote": 87,
+    "source_id": "SRC-0094",
+    "first_use": true,
+    "locator": "Items 12-15",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=163490901"
+  },
+  {
+    "footnote": 88,
+    "source_id": "SRC-0100",
+    "first_use": true,
+    "locator": "change supplement",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=164337801"
+  },
+  {
+    "footnote": 89,
+    "source_id": "SRC-0038",
+    "first_use": false,
+    "locator": "Items 12 and 14",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143967301"
+  },
+  {
+    "footnote": 90,
+    "source_id": "SRC-0176",
+    "first_use": false,
+    "locator": "Item 12",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150317001"
+  },
+  {
+    "footnote": 91,
+    "source_id": "SRC-0036",
+    "first_use": false,
+    "locator": "Item 12",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=142748301"
+  },
+  {
+    "footnote": 92,
+    "source_id": "SRC-0180",
+    "first_use": false,
+    "locator": "Item 12, Tables 1-9",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403"
+  },
+  {
+    "footnote": 93,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/scores.csv; data/score-sensitivity.csv",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/scores.csv"
+  },
+  {
+    "footnote": 94,
+    "source_id": "SRC-0038",
+    "first_use": false,
+    "locator": "Item 12, first-flight checklist, foreign-airport employees, and Table 2",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143967301"
+  },
+  {
+    "footnote": 95,
+    "source_id": "SRC-0040",
+    "first_use": true,
+    "locator": "Item 12, Table 7; Item 13",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=145598901"
+  },
+  {
+    "footnote": 96,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/calculation-checks.csv, Program subtotal and Fee using Item12",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/calculation-checks.csv"
+  },
+  {
+    "footnote": 97,
+    "source_id": "SRC-0054",
+    "first_use": false,
+    "locator": "Item 12, Tables 5a-5c, 7, 8, and 10",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=169514100"
+  },
+  {
+    "footnote": 98,
+    "source_id": "SRC-0022",
+    "first_use": false,
+    "locator": "Item 12, coordinator update assumptions; Items 14-15",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=169398300"
+  },
+  {
+    "footnote": 99,
+    "source_id": "SRC-0026",
+    "first_use": true,
+    "locator": "JOLTS FAQ, reference periods",
+    "source_url": "https://www.bls.gov/jlt/jltfaq.htm"
+  },
+  {
+    "footnote": 100,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/calculation-checks.csv, surface cybersecurity Federal table hours and ROCIS hour bridge",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/calculation-checks.csv"
+  },
+  {
+    "footnote": 101,
+    "source_id": "SRC-0176",
+    "first_use": false,
+    "locator": "Item 12, applicant wage footnote; Item 13, Table 11",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150317001"
+  },
+  {
+    "footnote": 102,
+    "source_id": "SRC-0180",
+    "first_use": false,
+    "locator": "Items 12 and 14",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403"
+  },
+  {
+    "footnote": 103,
+    "source_id": "SRC-0176",
+    "first_use": false,
+    "locator": "Item 12, amendment-time assumptions",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150317001"
+  },
+  {
+    "footnote": 104,
+    "source_id": "SRC-0048",
+    "first_use": true,
+    "locator": "Item 14, Federal cost table and footnote",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=161038202"
+  },
+  {
+    "footnote": 105,
+    "source_id": "SRC-0036",
+    "first_use": false,
+    "locator": "Item 12, summary hours",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=142748301"
+  },
+  {
+    "footnote": 106,
+    "source_id": "SRC-0180",
+    "first_use": false,
+    "locator": "Items 12-13, totals",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403"
+  },
+  {
+    "footnote": 107,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/calibration.md; methodology/tsa-comparison.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/calibration.md"
+  },
+  {
+    "footnote": 108,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "research/limitations.md, limitation 5; icrs/202606-1652-001/extraction.json; icrs/202606-1652-002/extraction.json",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/research/limitations.md"
+  },
+  {
+    "footnote": 109,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/tsa-comparison.md; methodology/canonical-data-dictionary.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/tsa-comparison.md"
+  },
+  {
+    "footnote": 110,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/tsa-comparison.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/tsa-comparison.md"
+  },
+  {
+    "footnote": 111,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/exemplars.md; data/scores.csv",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/exemplars.md"
+  },
+  {
+    "footnote": 112,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/exemplars.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/exemplars.md"
+  },
+  {
+    "footnote": 113,
+    "source_id": "SRC-0200",
+    "first_use": true,
+    "locator": "USDL 23-2567, civilian sales and office occupations row",
+    "source_url": "https://www.bls.gov/news.release/archives/ecec_12152023.pdf"
+  },
+  {
+    "footnote": 114,
+    "source_id": "SRC-0008",
+    "first_use": false,
+    "locator": "Item 12, compensation reference",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143710604"
+  },
+  {
+    "footnote": 115,
+    "source_id": "SRC-0078",
+    "first_use": true,
+    "locator": "Item 12",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=139056101"
+  },
+  {
+    "footnote": 116,
+    "source_id": "SRC-0068",
+    "first_use": true,
+    "locator": "Items 13-14",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=158284001"
+  },
+  {
+    "footnote": 117,
+    "source_id": "SRC-0012",
+    "first_use": true,
+    "locator": "Items 12-15",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=146738601"
+  },
+  {
+    "footnote": 118,
+    "source_id": "SRC-0086",
+    "first_use": false,
+    "locator": "Items 12-15",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=151812302"
+  },
+  {
+    "footnote": 119,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/data-sources.csv; methodology/canonical-data-dictionary.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/data-sources.csv"
+  },
+  {
+    "footnote": 120,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/data-sources.csv",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/data-sources.csv"
+  },
+  {
+    "footnote": 121,
+    "source_id": "SRC-0187",
+    "first_use": false,
+    "locator": "Item 12, March 2025 RMP coverage",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=161728301"
+  },
+  {
+    "footnote": 122,
+    "source_id": "SRC-0174",
+    "first_use": false,
+    "locator": "Item 12, MISLE population description",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=145780303"
+  },
+  {
+    "footnote": 123,
+    "source_id": "SRC-0185",
+    "first_use": true,
+    "locator": "Item 12, calendar 2022 submissions",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143239001"
+  },
+  {
+    "footnote": 124,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/assumptions.csv",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/assumptions.csv"
+  },
+  {
+    "footnote": 125,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/assumptions.csv, ASM-0001 through ASM-0013 and ASM-0019 through ASM-0024",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/assumptions.csv"
+  },
+  {
+    "footnote": 126,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-model.md; methodology/tool-requirements.md, TR-20",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-model.md"
+  },
+  {
+    "footnote": 127,
+    "source_id": "SRC-0185",
+    "first_use": false,
+    "locator": "Item 8, public comments and responses",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143239001"
+  },
+  {
+    "footnote": 128,
+    "source_id": "SRC-0191",
+    "first_use": false,
+    "locator": "85 FR 31605-31611",
+    "source_url": "https://www.govinfo.gov/content/pkg/FR-2020-05-26/pdf/2020-11247.pdf"
+  },
+  {
+    "footnote": 129,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/rubric.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/rubric.md"
+  },
+  {
+    "footnote": 130,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-data-dictionary.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-data-dictionary.md"
+  },
+  {
+    "footnote": 131,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-data-dictionary.md, Collection through Price transformation",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-data-dictionary.md"
+  },
+  {
+    "footnote": 132,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-data-dictionary.md, Purchased service through Validation result",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-data-dictionary.md"
+  },
+  {
+    "footnote": 133,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-model.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-model.md"
+  },
+  {
+    "footnote": 134,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-model.md; methodology/canonical-data-dictionary.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-model.md"
+  },
+  {
+    "footnote": 135,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-model.md, freeze note",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-model.md"
+  },
+  {
+    "footnote": 136,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/tool-requirements.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/tool-requirements.md"
+  },
+  {
+    "footnote": 137,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/tool-requirements.md, TR-07, 15, 16, and 18; methodology/canonical-data-dictionary.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/tool-requirements.md"
+  },
+  {
+    "footnote": 138,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-model.md, iteration 4 additions",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-model.md"
+  },
+  {
+    "footnote": 139,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/model-sections.jsonl; data/assumptions.csv; methodology/canonical-data-dictionary.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/model-sections.jsonl"
+  },
+  {
+    "footnote": 140,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "research/limitations.md, limitation 7",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/research/limitations.md"
+  },
+  {
+    "footnote": 141,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "research/research-summary.md; methodology/exemplars.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/research/research-summary.md"
+  },
+  {
+    "footnote": 142,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/tsa-comparison.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/tsa-comparison.md"
+  },
+  {
+    "footnote": 143,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/calibration.md; methodology/canonical-model.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/calibration.md"
+  },
+  {
+    "footnote": 144,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/icrs.csv; data/scores.csv",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/icrs.csv"
+  },
+  {
+    "footnote": 145,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/rubric.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/rubric.md"
+  },
+  {
+    "footnote": 146,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/scores.csv; icrs/*/extraction.json",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/scores.csv"
+  },
+  {
+    "footnote": 147,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/agency-summary.csv; methodology/calibration.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/agency-summary.csv"
+  },
+  {
+    "footnote": 148,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/score-sensitivity.csv",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/score-sensitivity.csv"
+  },
+  {
+    "footnote": 149,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/agency-summary.csv",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/agency-summary.csv"
+  },
+  {
+    "footnote": 150,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/data-sources.csv",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/data-sources.csv"
+  },
+  {
+    "footnote": 151,
+    "source_id": "SRC-0024",
+    "first_use": true,
+    "locator": "Definitions,burden andscope",
+    "source_url": "https://www.ecfr.gov/current/title-5/chapter-III/subchapter-B/part-1320/section-1320.3"
+  },
+  {
+    "footnote": 152,
+    "source_id": "SRC-0025",
+    "first_use": false,
+    "locator": "Agency collection responsibilities",
+    "source_url": "https://www.ecfr.gov/current/title-5/chapter-III/subchapter-B/part-1320/section-1320.8"
+  },
+  {
+    "footnote": 153,
+    "source_id": "SRC-0026",
+    "first_use": false,
+    "locator": "FAQ questions7,8,14",
+    "source_url": "https://www.bls.gov/jlt/jltfaq.htm"
+  },
+  {
+    "footnote": 154,
+    "source_id": "SRC-0027",
+    "first_use": true,
+    "locator": "May2023 RailTransportationNAICS482000",
+    "source_url": "https://www.bls.gov/oes/2023/May/naics3_482000.htm"
+  },
+  {
+    "footnote": 155,
+    "source_id": "SRC-0028",
+    "first_use": true,
+    "locator": "June2025 ECEC Tables1–4",
+    "source_url": "https://www.bls.gov/news.release/archives/ecec_09122025.htm"
+  },
+  {
+    "footnote": 156,
+    "source_id": "SRC-0029",
+    "first_use": true,
+    "locator": "SalaryTable2025-DCB",
+    "source_url": "https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/salary-tables/pdf/2025/DCB.pdf"
+  },
+  {
+    "footnote": 157,
+    "source_id": "SRC-0030",
+    "first_use": true,
+    "locator": "2023 geographicmobility,Table2",
+    "source_url": "https://www.census.gov/data/tables/2023/demo/geographic-mobility/cps-2023.html"
+  },
+  {
+    "footnote": 158,
+    "source_id": "SRC-0031",
+    "first_use": false,
+    "locator": "EmploymentCostIndex",
+    "source_url": "https://www.bls.gov/eci/"
+  },
+  {
+    "footnote": 159,
+    "source_id": "SRC-0032",
+    "first_use": true,
+    "locator": "CountyBusinessPatterns",
+    "source_url": "https://www.census.gov/programs-surveys/cbp.html"
+  },
+  {
+    "footnote": 160,
+    "source_id": "SRC-0033",
+    "first_use": false,
+    "locator": "NIPA priceindexes",
+    "source_url": "https://www.bea.gov/data/prices-inflation/gdp-price-index"
+  },
+  {
+    "footnote": 161,
+    "source_id": "SRC-0034",
+    "first_use": true,
+    "locator": "Burden estimation guidance",
+    "source_url": "https://digital.gov/guides/pra/estimate-burden"
+  },
+  {
+    "footnote": 162,
+    "source_id": "SRC-0102",
+    "first_use": false,
+    "locator": "Tables1–3; Census ASM/SAS and BLS employment matrix",
+    "source_url": "https://www.dol.gov/sites/dolgov/files/EBSA/laws-and-regulations/rules-and-regulations/technical-appendices/labor-cost-inputs-used-in-ebsa-opr-ria-and-pra-burden-calculations-june-2019.pdf"
+  },
+  {
+    "footnote": 163,
+    "source_id": "SRC-0099",
+    "first_use": false,
+    "locator": "Printed page19",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=139566701"
+  },
+  {
+    "footnote": 164,
+    "source_id": "SRC-0094",
+    "first_use": false,
+    "locator": "Items12–15; taxpayer burden survey andmodel",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=163490901"
+  },
+  {
+    "footnote": 165,
+    "source_id": "SRC-0192",
+    "first_use": true,
+    "locator": "2018 Table B1 and detailed building characteristics",
+    "source_url": "https://www.eia.gov/consumption/commercial/data/2018/"
+  },
+  {
+    "footnote": 166,
+    "source_id": "SRC-0193",
+    "first_use": true,
+    "locator": "Manufacturing Energy Consumption Survey",
+    "source_url": "https://www.eia.gov/consumption/manufacturing/"
+  },
+  {
+    "footnote": 167,
+    "source_id": "SRC-0194",
+    "first_use": true,
+    "locator": "Table1.2 occupational projections and National Employment Matrix",
+    "source_url": "https://www.bls.gov/emp/tables/occupational-projections-and-characteristics.htm"
+  },
+  {
+    "footnote": 168,
+    "source_id": "SRC-0195",
+    "first_use": true,
+    "locator": "Current Employment Statistics earnings series",
+    "source_url": "https://www.bls.gov/ces/"
+  },
+  {
+    "footnote": 169,
+    "source_id": "SRC-0196",
+    "first_use": true,
+    "locator": "Producer Price Index industry and commodity series",
+    "source_url": "https://www.bls.gov/ppi/"
+  },
+  {
+    "footnote": 170,
+    "source_id": "SRC-0197",
+    "first_use": true,
+    "locator": "Annual Survey of Manufactures historical tables",
+    "source_url": "https://www.census.gov/programs-surveys/asm.html"
+  },
+  {
+    "footnote": 171,
+    "source_id": "SRC-0198",
+    "first_use": true,
+    "locator": "Service Annual Survey historical expense tables",
+    "source_url": "https://www.census.gov/programs-surveys/sas.html"
+  },
+  {
+    "footnote": 172,
+    "source_id": "SRC-0199",
+    "first_use": true,
+    "locator": "Annual GS base and locality pay tables",
+    "source_url": "https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/"
+  },
+  {
+    "footnote": 173,
+    "source_id": "SRC-0161",
+    "first_use": false,
+    "locator": "2007 CEMS cost workbook; Costs/Activities/SummaryInfo",
+    "source_url": "https://www.epa.gov/sites/default/files/2020-08/19-cems.xls"
+  },
+  {
+    "footnote": 174,
+    "source_id": "SRC-0187",
+    "first_use": false,
+    "locator": "March2025 RMP facility extract",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=161728301"
+  },
+  {
+    "footnote": 175,
+    "source_id": "SRC-0174",
+    "first_use": false,
+    "locator": "Security-plan population counts",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=145780303"
+  },
+  {
+    "footnote": 176,
+    "source_id": "SRC-0185",
+    "first_use": false,
+    "locator": "Calendar2022 SAR submissions",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143239001"
+  },
+  {
+    "footnote": 177,
+    "source_id": "SRC-0144",
+    "first_use": false,
+    "locator": "FY2025 UIPL19-24 allocation assumptions",
+    "source_url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150266202"
+  },
+  {
+    "footnote": 178,
+    "source_id": "SRC-0164",
+    "first_use": false,
+    "locator": "RIA cost tables and eMASS historical budgets",
+    "source_url": "https://www.govinfo.gov/content/pkg/FR-2024-10-15/pdf/2024-22905.pdf"
+  },
+  {
+    "footnote": 179,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/assumptions.csv",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/assumptions.csv"
+  },
+  {
+    "footnote": 180,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/calculation-checks.csv; research/final-validation.json",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/calculation-checks.csv"
+  },
+  {
+    "footnote": 181,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/calculation-checks.csv, HME Agentpathway share",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/calculation-checks.csv"
+  },
+  {
+    "footnote": 182,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "data/calculation-checks.csv, Capital recovery exemplar; raw/methods/epa-yeast-2017-extraction.json",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/data/calculation-checks.csv"
+  },
+  {
+    "footnote": 183,
+    "source_id": "M1",
+    "first_use": false,
+    "locator": "methodology/canonical-data-dictionary.md",
+    "source_url": "https://github.com/Lukemendels/ICR-12-15-Benchmark/blob/16aeb85d976eb3a89ecb3872d4dda94753e77cd3/methodology/canonical-data-dictionary.md"
+  }
+]

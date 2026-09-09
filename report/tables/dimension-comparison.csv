@@ -1,0 +1,658 @@
+icr_id,agency,complexity,tsa_relevance,dimension,points,maximum,fraction_of_maximum
+202306-3038-007,CFTC,high,high,reproducibility,16,20,0.8
+202310-0607-003,DOC/CENSUS,very high,technique,reproducibility,17,20,0.85
+202310-1219-001,DOL/MSHA,very high,high,reproducibility,17,20,0.85
+202310-1220-004,DOL/BLS,high,technique,reproducibility,19,20,0.95
+202311-2137-001,DOT/PHMSA,high,high,reproducibility,18,20,0.9
+202312-2050-001,EPA/OLEM,high,high,reproducibility,14,20,0.7
+202401-1615-055,DHS/USCIS,medium,medium,reproducibility,19,20,0.95
+202401-2070-005,EPA/OCSPP,high,high,reproducibility,16,20,0.8
+202401-3235-005,SEC,very high,high,reproducibility,14,20,0.7
+202402-0648-005,DOC/NOAA,high,high,reproducibility,17,20,0.85
+202402-1652-002,DHS/TSA,high,high,reproducibility,14,20,0.7
+202403-0607-001,DOC/CENSUS,medium,medium,reproducibility,19,20,0.95
+202403-0910-005,HHS/FDA,high,high,reproducibility,16,20,0.8
+202403-1219-001,DOL/MSHA,medium,high,reproducibility,19,20,0.95
+202404-1220-001,DOL/BLS,high,technique,reproducibility,19,20,0.95
+202404-1240-007,DOL/OWCP,medium,medium,reproducibility,16,20,0.8
+202404-2120-002,DOT/FAA,high,high,reproducibility,16,20,0.8
+202404-2137-003,DOT/PHMSA,high,high,reproducibility,18,20,0.9
+202405-0704-001,DOW/DODDEP,medium,high,reproducibility,17,20,0.85
+202405-0704-002,DOW/DODDEP,very high,high,reproducibility,17,20,0.85
+202405-0938-022,HHS/CMS,medium,medium,reproducibility,17,20,0.85
+202405-1218-005,DOL/OSHA,high,high,reproducibility,17,20,0.85
+202405-1220-001,DOL/BLS,medium,low,reproducibility,17,20,0.85
+202405-1506-005,TREAS/FINCEN,high,high,reproducibility,17,20,0.85
+202405-1652-001,DHS/TSA,high,high,reproducibility,17,20,0.85
+202406-1652-001,DHS/TSA,high,high,reproducibility,17,20,0.85
+202408-1625-012,DHS/USCG,high,high,reproducibility,18,20,0.9
+202408-1652-002,DHS/TSA,high,high,reproducibility,12,20,0.6
+202409-0560-007,USDA/FSA,high,medium,reproducibility,18,20,0.9
+202409-2126-001,DOT/FMCSA,low,low,reproducibility,17,20,0.85
+202409-3235-022,SEC,low,medium,reproducibility,20,20,1.0
+202410-0910-013,HHS/FDA,high,high,reproducibility,18,20,0.9
+202410-0960-002,SSA,high,technique,reproducibility,15,20,0.75
+202410-3150-005,NRC,very high,high,reproducibility,18,20,0.9
+202410-7100-005,FRS,medium,medium,reproducibility,16,20,0.8
+202411-1218-005,DOL/OSHA,medium,high,reproducibility,16,20,0.8
+202411-1651-004,DHS/USCBP,medium,high,reproducibility,16,20,0.8
+202411-1652-007,DHS/TSA,low,medium,reproducibility,18,20,0.9
+202411-2070-003,EPA/OCSPP,high,high,reproducibility,18,20,0.9
+202412-1205-002,DOL/ETA,medium,medium,reproducibility,18,20,0.9
+202412-1652-001,DHS/TSA,high,high,reproducibility,18,20,0.9
+202412-3170-001,CFPB,high,high,reproducibility,17,20,0.85
+202501-1210-006,DOL/EBSA,low,medium,reproducibility,19,20,0.95
+202502-0960-015,SSA,high,low,reproducibility,14,20,0.7
+202502-2040-002,EPA/OW,high,high,reproducibility,16,20,0.8
+202502-2060-039,EPA/OAR,high,high,reproducibility,16,20,0.8
+202502-3235-014,SEC,medium,high,reproducibility,18,20,0.9
+202503-3060-020,FCC,high,high,reproducibility,19,20,0.95
+202504-1004-001,DOI/BLM,high,high,reproducibility,16,20,0.8
+202504-1652-008,DHS/TSA,high,high,reproducibility,18,20,0.9
+202504-1902-007,FERC,medium,high,reproducibility,18,20,0.9
+202504-2060-006,EPA/OAR,very high,high,reproducibility,16,20,0.8
+202504-3235-016,SEC,high,high,reproducibility,15,20,0.75
+202505-1218-008,DOL/OSHA,high,high,reproducibility,17,20,0.85
+202505-2060-004,EPA/OAR,high,high,reproducibility,17,20,0.85
+202505-3060-038,FCC,high,high,reproducibility,18,20,0.9
+202506-0551-003,USDA/FAS,medium,low,reproducibility,18,20,0.9
+202506-0938-007,HHS/CMS,high,high,reproducibility,17,20,0.85
+202506-2130-004,DOT/FRA,high,high,reproducibility,13,20,0.65
+202507-1902-004,FERC,high,high,reproducibility,17,20,0.85
+202508-1218-005,DOL/OSHA,high,high,reproducibility,17,20,0.85
+202508-1652-001,DHS/TSA,high,high,reproducibility,16,20,0.8
+202508-2126-007,DOT/FMCSA,high,high,reproducibility,13,20,0.65
+202509-2060-003,EPA/OAR,very high,high,reproducibility,18,20,0.9
+202511-0583-005,USDA/FSIS,very high,high,reproducibility,14,20,0.7
+202511-1545-005,TREAS/IRS,very high,medium,reproducibility,12,20,0.6
+202602-0607-001,DOC/CENSUS,medium,technique,reproducibility,18,20,0.9
+202602-2060-006,EPA/OAR,very high,high,reproducibility,16,20,0.8
+202602-3170-003,CFPB,high,high,reproducibility,15,20,0.75
+202603-0535-001,USDA/NASS,high,medium,reproducibility,18,20,0.9
+202603-1210-004,DOL/EBSA,very high,medium,reproducibility,16,20,0.8
+202606-1652-001,DHS/TSA,high,high,reproducibility,15,20,0.75
+202606-1652-002,DHS/TSA,high,high,reproducibility,10,20,0.5
+202306-3038-007,CFTC,high,high,provenance,9,15,0.6
+202310-0607-003,DOC/CENSUS,very high,technique,provenance,11,15,0.7333333333333333
+202310-1219-001,DOL/MSHA,very high,high,provenance,11,15,0.7333333333333333
+202310-1220-004,DOL/BLS,high,technique,provenance,11,15,0.7333333333333333
+202311-2137-001,DOT/PHMSA,high,high,provenance,8,15,0.5333333333333333
+202312-2050-001,EPA/OLEM,high,high,provenance,10,15,0.6666666666666666
+202401-1615-055,DHS/USCIS,medium,medium,provenance,6,15,0.4
+202401-2070-005,EPA/OCSPP,high,high,provenance,10,15,0.6666666666666666
+202401-3235-005,SEC,very high,high,provenance,9,15,0.6
+202402-0648-005,DOC/NOAA,high,high,provenance,10,15,0.6666666666666666
+202402-1652-002,DHS/TSA,high,high,provenance,11,15,0.7333333333333333
+202403-0607-001,DOC/CENSUS,medium,medium,provenance,11,15,0.7333333333333333
+202403-0910-005,HHS/FDA,high,high,provenance,9,15,0.6
+202403-1219-001,DOL/MSHA,medium,high,provenance,11,15,0.7333333333333333
+202404-1220-001,DOL/BLS,high,technique,provenance,12,15,0.8
+202404-1240-007,DOL/OWCP,medium,medium,provenance,9,15,0.6
+202404-2120-002,DOT/FAA,high,high,provenance,10,15,0.6666666666666666
+202404-2137-003,DOT/PHMSA,high,high,provenance,9,15,0.6
+202405-0704-001,DOW/DODDEP,medium,high,provenance,10,15,0.6666666666666666
+202405-0704-002,DOW/DODDEP,very high,high,provenance,11,15,0.7333333333333333
+202405-0938-022,HHS/CMS,medium,medium,provenance,10,15,0.6666666666666666
+202405-1218-005,DOL/OSHA,high,high,provenance,11,15,0.7333333333333333
+202405-1220-001,DOL/BLS,medium,low,provenance,10,15,0.6666666666666666
+202405-1506-005,TREAS/FINCEN,high,high,provenance,10,15,0.6666666666666666
+202405-1652-001,DHS/TSA,high,high,provenance,12,15,0.8
+202406-1652-001,DHS/TSA,high,high,provenance,11,15,0.7333333333333333
+202408-1625-012,DHS/USCG,high,high,provenance,10,15,0.6666666666666666
+202408-1652-002,DHS/TSA,high,high,provenance,10,15,0.6666666666666666
+202409-0560-007,USDA/FSA,high,medium,provenance,10,15,0.6666666666666666
+202409-2126-001,DOT/FMCSA,low,low,provenance,3,15,0.2
+202409-3235-022,SEC,low,medium,provenance,9,15,0.6
+202410-0910-013,HHS/FDA,high,high,provenance,8,15,0.5333333333333333
+202410-0960-002,SSA,high,technique,provenance,8,15,0.5333333333333333
+202410-3150-005,NRC,very high,high,provenance,9,15,0.6
+202410-7100-005,FRS,medium,medium,provenance,9,15,0.6
+202411-1218-005,DOL/OSHA,medium,high,provenance,10,15,0.6666666666666666
+202411-1651-004,DHS/USCBP,medium,high,provenance,11,15,0.7333333333333333
+202411-1652-007,DHS/TSA,low,medium,provenance,10,15,0.6666666666666666
+202411-2070-003,EPA/OCSPP,high,high,provenance,10,15,0.6666666666666666
+202412-1205-002,DOL/ETA,medium,medium,provenance,11,15,0.7333333333333333
+202412-1652-001,DHS/TSA,high,high,provenance,11,15,0.7333333333333333
+202412-3170-001,CFPB,high,high,provenance,3,15,0.2
+202501-1210-006,DOL/EBSA,low,medium,provenance,11,15,0.7333333333333333
+202502-0960-015,SSA,high,low,provenance,9,15,0.6
+202502-2040-002,EPA/OW,high,high,provenance,11,15,0.7333333333333333
+202502-2060-039,EPA/OAR,high,high,provenance,10,15,0.6666666666666666
+202502-3235-014,SEC,medium,high,provenance,5,15,0.3333333333333333
+202503-3060-020,FCC,high,high,provenance,8,15,0.5333333333333333
+202504-1004-001,DOI/BLM,high,high,provenance,10,15,0.6666666666666666
+202504-1652-008,DHS/TSA,high,high,provenance,11,15,0.7333333333333333
+202504-1902-007,FERC,medium,high,provenance,8,15,0.5333333333333333
+202504-2060-006,EPA/OAR,very high,high,provenance,9,15,0.6
+202504-3235-016,SEC,high,high,provenance,11,15,0.7333333333333333
+202505-1218-008,DOL/OSHA,high,high,provenance,11,15,0.7333333333333333
+202505-2060-004,EPA/OAR,high,high,provenance,9,15,0.6
+202505-3060-038,FCC,high,high,provenance,8,15,0.5333333333333333
+202506-0551-003,USDA/FAS,medium,low,provenance,9,15,0.6
+202506-0938-007,HHS/CMS,high,high,provenance,9,15,0.6
+202506-2130-004,DOT/FRA,high,high,provenance,9,15,0.6
+202507-1902-004,FERC,high,high,provenance,9,15,0.6
+202508-1218-005,DOL/OSHA,high,high,provenance,11,15,0.7333333333333333
+202508-1652-001,DHS/TSA,high,high,provenance,11,15,0.7333333333333333
+202508-2126-007,DOT/FMCSA,high,high,provenance,10,15,0.6666666666666666
+202509-2060-003,EPA/OAR,very high,high,provenance,9,15,0.6
+202511-0583-005,USDA/FSIS,very high,high,provenance,8,15,0.5333333333333333
+202511-1545-005,TREAS/IRS,very high,medium,provenance,11,15,0.7333333333333333
+202602-0607-001,DOC/CENSUS,medium,technique,provenance,9,15,0.6
+202602-2060-006,EPA/OAR,very high,high,provenance,10,15,0.6666666666666666
+202602-3170-003,CFPB,high,high,provenance,5,15,0.3333333333333333
+202603-0535-001,USDA/NASS,high,medium,provenance,10,15,0.6666666666666666
+202603-1210-004,DOL/EBSA,very high,medium,provenance,10,15,0.6666666666666666
+202606-1652-001,DHS/TSA,high,high,provenance,11,15,0.7333333333333333
+202606-1652-002,DHS/TSA,high,high,provenance,8,15,0.5333333333333333
+202306-3038-007,CFTC,high,high,segmentation,14,15,0.9333333333333333
+202310-0607-003,DOC/CENSUS,very high,technique,segmentation,15,15,1.0
+202310-1219-001,DOL/MSHA,very high,high,segmentation,15,15,1.0
+202310-1220-004,DOL/BLS,high,technique,segmentation,15,15,1.0
+202311-2137-001,DOT/PHMSA,high,high,segmentation,14,15,0.9333333333333333
+202312-2050-001,EPA/OLEM,high,high,segmentation,15,15,1.0
+202401-1615-055,DHS/USCIS,medium,medium,segmentation,13,15,0.8666666666666667
+202401-2070-005,EPA/OCSPP,high,high,segmentation,15,15,1.0
+202401-3235-005,SEC,very high,high,segmentation,15,15,1.0
+202402-0648-005,DOC/NOAA,high,high,segmentation,13,15,0.8666666666666667
+202402-1652-002,DHS/TSA,high,high,segmentation,13,15,0.8666666666666667
+202403-0607-001,DOC/CENSUS,medium,medium,segmentation,13,15,0.8666666666666667
+202403-0910-005,HHS/FDA,high,high,segmentation,13,15,0.8666666666666667
+202403-1219-001,DOL/MSHA,medium,high,segmentation,13,15,0.8666666666666667
+202404-1220-001,DOL/BLS,high,technique,segmentation,15,15,1.0
+202404-1240-007,DOL/OWCP,medium,medium,segmentation,12,15,0.8
+202404-2120-002,DOT/FAA,high,high,segmentation,14,15,0.9333333333333333
+202404-2137-003,DOT/PHMSA,high,high,segmentation,14,15,0.9333333333333333
+202405-0704-001,DOW/DODDEP,medium,high,segmentation,12,15,0.8
+202405-0704-002,DOW/DODDEP,very high,high,segmentation,15,15,1.0
+202405-0938-022,HHS/CMS,medium,medium,segmentation,12,15,0.8
+202405-1218-005,DOL/OSHA,high,high,segmentation,14,15,0.9333333333333333
+202405-1220-001,DOL/BLS,medium,low,segmentation,12,15,0.8
+202405-1506-005,TREAS/FINCEN,high,high,segmentation,14,15,0.9333333333333333
+202405-1652-001,DHS/TSA,high,high,segmentation,15,15,1.0
+202406-1652-001,DHS/TSA,high,high,segmentation,15,15,1.0
+202408-1625-012,DHS/USCG,high,high,segmentation,14,15,0.9333333333333333
+202408-1652-002,DHS/TSA,high,high,segmentation,14,15,0.9333333333333333
+202409-0560-007,USDA/FSA,high,medium,segmentation,14,15,0.9333333333333333
+202409-2126-001,DOT/FMCSA,low,low,segmentation,13,15,0.8666666666666667
+202409-3235-022,SEC,low,medium,segmentation,14,15,0.9333333333333333
+202410-0910-013,HHS/FDA,high,high,segmentation,14,15,0.9333333333333333
+202410-0960-002,SSA,high,technique,segmentation,15,15,1.0
+202410-3150-005,NRC,very high,high,segmentation,15,15,1.0
+202410-7100-005,FRS,medium,medium,segmentation,13,15,0.8666666666666667
+202411-1218-005,DOL/OSHA,medium,high,segmentation,12,15,0.8
+202411-1651-004,DHS/USCBP,medium,high,segmentation,10,15,0.6666666666666666
+202411-1652-007,DHS/TSA,low,medium,segmentation,13,15,0.8666666666666667
+202411-2070-003,EPA/OCSPP,high,high,segmentation,14,15,0.9333333333333333
+202412-1205-002,DOL/ETA,medium,medium,segmentation,12,15,0.8
+202412-1652-001,DHS/TSA,high,high,segmentation,15,15,1.0
+202412-3170-001,CFPB,high,high,segmentation,13,15,0.8666666666666667
+202501-1210-006,DOL/EBSA,low,medium,segmentation,12,15,0.8
+202502-0960-015,SSA,high,low,segmentation,15,15,1.0
+202502-2040-002,EPA/OW,high,high,segmentation,15,15,1.0
+202502-2060-039,EPA/OAR,high,high,segmentation,13,15,0.8666666666666667
+202502-3235-014,SEC,medium,high,segmentation,10,15,0.6666666666666666
+202503-3060-020,FCC,high,high,segmentation,14,15,0.9333333333333333
+202504-1004-001,DOI/BLM,high,high,segmentation,14,15,0.9333333333333333
+202504-1652-008,DHS/TSA,high,high,segmentation,15,15,1.0
+202504-1902-007,FERC,medium,high,segmentation,13,15,0.8666666666666667
+202504-2060-006,EPA/OAR,very high,high,segmentation,14,15,0.9333333333333333
+202504-3235-016,SEC,high,high,segmentation,14,15,0.9333333333333333
+202505-1218-008,DOL/OSHA,high,high,segmentation,14,15,0.9333333333333333
+202505-2060-004,EPA/OAR,high,high,segmentation,14,15,0.9333333333333333
+202505-3060-038,FCC,high,high,segmentation,14,15,0.9333333333333333
+202506-0551-003,USDA/FAS,medium,low,segmentation,12,15,0.8
+202506-0938-007,HHS/CMS,high,high,segmentation,10,15,0.6666666666666666
+202506-2130-004,DOT/FRA,high,high,segmentation,14,15,0.9333333333333333
+202507-1902-004,FERC,high,high,segmentation,14,15,0.9333333333333333
+202508-1218-005,DOL/OSHA,high,high,segmentation,15,15,1.0
+202508-1652-001,DHS/TSA,high,high,segmentation,14,15,0.9333333333333333
+202508-2126-007,DOT/FMCSA,high,high,segmentation,13,15,0.8666666666666667
+202509-2060-003,EPA/OAR,very high,high,segmentation,15,15,1.0
+202511-0583-005,USDA/FSIS,very high,high,segmentation,15,15,1.0
+202511-1545-005,TREAS/IRS,very high,medium,segmentation,15,15,1.0
+202602-0607-001,DOC/CENSUS,medium,technique,segmentation,14,15,0.9333333333333333
+202602-2060-006,EPA/OAR,very high,high,segmentation,15,15,1.0
+202602-3170-003,CFPB,high,high,segmentation,9,15,0.6
+202603-0535-001,USDA/NASS,high,medium,segmentation,15,15,1.0
+202603-1210-004,DOL/EBSA,very high,medium,segmentation,15,15,1.0
+202606-1652-001,DHS/TSA,high,high,segmentation,13,15,0.8666666666666667
+202606-1652-002,DHS/TSA,high,high,segmentation,11,15,0.7333333333333333
+202306-3038-007,CFTC,high,high,labor,6,10,0.6
+202310-0607-003,DOC/CENSUS,very high,technique,labor,5,10,0.5
+202310-1219-001,DOL/MSHA,very high,high,labor,4,10,0.4
+202310-1220-004,DOL/BLS,high,technique,labor,8,10,0.8
+202311-2137-001,DOT/PHMSA,high,high,labor,4,10,0.4
+202312-2050-001,EPA/OLEM,high,high,labor,6,10,0.6
+202401-1615-055,DHS/USCIS,medium,medium,labor,4,10,0.4
+202401-2070-005,EPA/OCSPP,high,high,labor,7,10,0.7
+202401-3235-005,SEC,very high,high,labor,4,10,0.4
+202402-0648-005,DOC/NOAA,high,high,labor,3,10,0.3
+202402-1652-002,DHS/TSA,high,high,labor,5,10,0.5
+202403-0607-001,DOC/CENSUS,medium,medium,labor,6,10,0.6
+202403-0910-005,HHS/FDA,high,high,labor,4,10,0.4
+202403-1219-001,DOL/MSHA,medium,high,labor,4,10,0.4
+202404-1220-001,DOL/BLS,high,technique,labor,7,10,0.7
+202404-1240-007,DOL/OWCP,medium,medium,labor,5,10,0.5
+202404-2120-002,DOT/FAA,high,high,labor,6,10,0.6
+202404-2137-003,DOT/PHMSA,high,high,labor,6,10,0.6
+202405-0704-001,DOW/DODDEP,medium,high,labor,6,10,0.6
+202405-0704-002,DOW/DODDEP,very high,high,labor,8,10,0.8
+202405-0938-022,HHS/CMS,medium,medium,labor,6,10,0.6
+202405-1218-005,DOL/OSHA,high,high,labor,8,10,0.8
+202405-1220-001,DOL/BLS,medium,low,labor,6,10,0.6
+202405-1506-005,TREAS/FINCEN,high,high,labor,6,10,0.6
+202405-1652-001,DHS/TSA,high,high,labor,8,10,0.8
+202406-1652-001,DHS/TSA,high,high,labor,7,10,0.7
+202408-1625-012,DHS/USCG,high,high,labor,6,10,0.6
+202408-1652-002,DHS/TSA,high,high,labor,6,10,0.6
+202409-0560-007,USDA/FSA,high,medium,labor,5,10,0.5
+202409-2126-001,DOT/FMCSA,low,low,labor,2,10,0.2
+202409-3235-022,SEC,low,medium,labor,4,10,0.4
+202410-0910-013,HHS/FDA,high,high,labor,5,10,0.5
+202410-0960-002,SSA,high,technique,labor,4,10,0.4
+202410-3150-005,NRC,very high,high,labor,3,10,0.3
+202410-7100-005,FRS,medium,medium,labor,5,10,0.5
+202411-1218-005,DOL/OSHA,medium,high,labor,5,10,0.5
+202411-1651-004,DHS/USCBP,medium,high,labor,8,10,0.8
+202411-1652-007,DHS/TSA,low,medium,labor,6,10,0.6
+202411-2070-003,EPA/OCSPP,high,high,labor,8,10,0.8
+202412-1205-002,DOL/ETA,medium,medium,labor,8,10,0.8
+202412-1652-001,DHS/TSA,high,high,labor,5,10,0.5
+202412-3170-001,CFPB,high,high,labor,0,10,0.0
+202501-1210-006,DOL/EBSA,low,medium,labor,7,10,0.7
+202502-0960-015,SSA,high,low,labor,5,10,0.5
+202502-2040-002,EPA/OW,high,high,labor,7,10,0.7
+202502-2060-039,EPA/OAR,high,high,labor,5,10,0.5
+202502-3235-014,SEC,medium,high,labor,0,10,0.0
+202503-3060-020,FCC,high,high,labor,4,10,0.4
+202504-1004-001,DOI/BLM,high,high,labor,7,10,0.7
+202504-1652-008,DHS/TSA,high,high,labor,6,10,0.6
+202504-1902-007,FERC,medium,high,labor,5,10,0.5
+202504-2060-006,EPA/OAR,very high,high,labor,6,10,0.6
+202504-3235-016,SEC,high,high,labor,5,10,0.5
+202505-1218-008,DOL/OSHA,high,high,labor,7,10,0.7
+202505-2060-004,EPA/OAR,high,high,labor,6,10,0.6
+202505-3060-038,FCC,high,high,labor,3,10,0.3
+202506-0551-003,USDA/FAS,medium,low,labor,5,10,0.5
+202506-0938-007,HHS/CMS,high,high,labor,4,10,0.4
+202506-2130-004,DOT/FRA,high,high,labor,5,10,0.5
+202507-1902-004,FERC,high,high,labor,6,10,0.6
+202508-1218-005,DOL/OSHA,high,high,labor,7,10,0.7
+202508-1652-001,DHS/TSA,high,high,labor,7,10,0.7
+202508-2126-007,DOT/FMCSA,high,high,labor,4,10,0.4
+202509-2060-003,EPA/OAR,very high,high,labor,3,10,0.3
+202511-0583-005,USDA/FSIS,very high,high,labor,4,10,0.4
+202511-1545-005,TREAS/IRS,very high,medium,labor,7,10,0.7
+202602-0607-001,DOC/CENSUS,medium,technique,labor,4,10,0.4
+202602-2060-006,EPA/OAR,very high,high,labor,6,10,0.6
+202602-3170-003,CFPB,high,high,labor,3,10,0.3
+202603-0535-001,USDA/NASS,high,medium,labor,6,10,0.6
+202603-1210-004,DOL/EBSA,very high,medium,labor,7,10,0.7
+202606-1652-001,DHS/TSA,high,high,labor,7,10,0.7
+202606-1652-002,DHS/TSA,high,high,labor,6,10,0.6
+202306-3038-007,CFTC,high,high,item13,5,10,0.5
+202310-0607-003,DOC/CENSUS,very high,technique,item13,10,10,1.0
+202310-1219-001,DOL/MSHA,very high,high,item13,7,10,0.7
+202310-1220-004,DOL/BLS,high,technique,item13,8,10,0.8
+202311-2137-001,DOT/PHMSA,high,high,item13,5,10,0.5
+202312-2050-001,EPA/OLEM,high,high,item13,7,10,0.7
+202401-1615-055,DHS/USCIS,medium,medium,item13,7,10,0.7
+202401-2070-005,EPA/OCSPP,high,high,item13,7,10,0.7
+202401-3235-005,SEC,very high,high,item13,6,10,0.6
+202402-0648-005,DOC/NOAA,high,high,item13,7,10,0.7
+202402-1652-002,DHS/TSA,high,high,item13,8,10,0.8
+202403-0607-001,DOC/CENSUS,medium,medium,item13,10,10,1.0
+202403-0910-005,HHS/FDA,high,high,item13,3,10,0.3
+202403-1219-001,DOL/MSHA,medium,high,item13,5,10,0.5
+202404-1220-001,DOL/BLS,high,technique,item13,10,10,1.0
+202404-1240-007,DOL/OWCP,medium,medium,item13,8,10,0.8
+202404-2120-002,DOT/FAA,high,high,item13,6,10,0.6
+202404-2137-003,DOT/PHMSA,high,high,item13,5,10,0.5
+202405-0704-001,DOW/DODDEP,medium,high,item13,8,10,0.8
+202405-0704-002,DOW/DODDEP,very high,high,item13,4,10,0.4
+202405-0938-022,HHS/CMS,medium,medium,item13,7,10,0.7
+202405-1218-005,DOL/OSHA,high,high,item13,8,10,0.8
+202405-1220-001,DOL/BLS,medium,low,item13,8,10,0.8
+202405-1506-005,TREAS/FINCEN,high,high,item13,2,10,0.2
+202405-1652-001,DHS/TSA,high,high,item13,7,10,0.7
+202406-1652-001,DHS/TSA,high,high,item13,8,10,0.8
+202408-1625-012,DHS/USCG,high,high,item13,8,10,0.8
+202408-1652-002,DHS/TSA,high,high,item13,4,10,0.4
+202409-0560-007,USDA/FSA,high,medium,item13,3,10,0.3
+202409-2126-001,DOT/FMCSA,low,low,item13,6,10,0.6
+202409-3235-022,SEC,low,medium,item13,8,10,0.8
+202410-0910-013,HHS/FDA,high,high,item13,4,10,0.4
+202410-0960-002,SSA,high,technique,item13,7,10,0.7
+202410-3150-005,NRC,very high,high,item13,4,10,0.4
+202410-7100-005,FRS,medium,medium,item13,2,10,0.2
+202411-1218-005,DOL/OSHA,medium,high,item13,6,10,0.6
+202411-1651-004,DHS/USCBP,medium,high,item13,1,10,0.1
+202411-1652-007,DHS/TSA,low,medium,item13,8,10,0.8
+202411-2070-003,EPA/OCSPP,high,high,item13,6,10,0.6
+202412-1205-002,DOL/ETA,medium,medium,item13,6,10,0.6
+202412-1652-001,DHS/TSA,high,high,item13,6,10,0.6
+202412-3170-001,CFPB,high,high,item13,5,10,0.5
+202501-1210-006,DOL/EBSA,low,medium,item13,9,10,0.9
+202502-0960-015,SSA,high,low,item13,8,10,0.8
+202502-2040-002,EPA/OW,high,high,item13,5,10,0.5
+202502-2060-039,EPA/OAR,high,high,item13,5,10,0.5
+202502-3235-014,SEC,medium,high,item13,5,10,0.5
+202503-3060-020,FCC,high,high,item13,8,10,0.8
+202504-1004-001,DOI/BLM,high,high,item13,7,10,0.7
+202504-1652-008,DHS/TSA,high,high,item13,8,10,0.8
+202504-1902-007,FERC,medium,high,item13,6,10,0.6
+202504-2060-006,EPA/OAR,very high,high,item13,7,10,0.7
+202504-3235-016,SEC,high,high,item13,7,10,0.7
+202505-1218-008,DOL/OSHA,high,high,item13,7,10,0.7
+202505-2060-004,EPA/OAR,high,high,item13,7,10,0.7
+202505-3060-038,FCC,high,high,item13,8,10,0.8
+202506-0551-003,USDA/FAS,medium,low,item13,7,10,0.7
+202506-0938-007,HHS/CMS,high,high,item13,4,10,0.4
+202506-2130-004,DOT/FRA,high,high,item13,6,10,0.6
+202507-1902-004,FERC,high,high,item13,2,10,0.2
+202508-1218-005,DOL/OSHA,high,high,item13,8,10,0.8
+202508-1652-001,DHS/TSA,high,high,item13,6,10,0.6
+202508-2126-007,DOT/FMCSA,high,high,item13,6,10,0.6
+202509-2060-003,EPA/OAR,very high,high,item13,6,10,0.6
+202511-0583-005,USDA/FSIS,very high,high,item13,3,10,0.3
+202511-1545-005,TREAS/IRS,very high,medium,item13,7,10,0.7
+202602-0607-001,DOC/CENSUS,medium,technique,item13,10,10,1.0
+202602-2060-006,EPA/OAR,very high,high,item13,6,10,0.6
+202602-3170-003,CFPB,high,high,item13,6,10,0.6
+202603-0535-001,USDA/NASS,high,medium,item13,8,10,0.8
+202603-1210-004,DOL/EBSA,very high,medium,item13,8,10,0.8
+202606-1652-001,DHS/TSA,high,high,item13,6,10,0.6
+202606-1652-002,DHS/TSA,high,high,item13,5,10,0.5
+202306-3038-007,CFTC,high,high,item14,5,10,0.5
+202310-0607-003,DOC/CENSUS,very high,technique,item14,3,10,0.3
+202310-1219-001,DOL/MSHA,very high,high,item14,5,10,0.5
+202310-1220-004,DOL/BLS,high,technique,item14,3,10,0.3
+202311-2137-001,DOT/PHMSA,high,high,item14,2,10,0.2
+202312-2050-001,EPA/OLEM,high,high,item14,7,10,0.7
+202401-1615-055,DHS/USCIS,medium,medium,item14,5,10,0.5
+202401-2070-005,EPA/OCSPP,high,high,item14,7,10,0.7
+202401-3235-005,SEC,very high,high,item14,2,10,0.2
+202402-0648-005,DOC/NOAA,high,high,item14,7,10,0.7
+202402-1652-002,DHS/TSA,high,high,item14,6,10,0.6
+202403-0607-001,DOC/CENSUS,medium,medium,item14,3,10,0.3
+202403-0910-005,HHS/FDA,high,high,item14,5,10,0.5
+202403-1219-001,DOL/MSHA,medium,high,item14,6,10,0.6
+202404-1220-001,DOL/BLS,high,technique,item14,5,10,0.5
+202404-1240-007,DOL/OWCP,medium,medium,item14,5,10,0.5
+202404-2120-002,DOT/FAA,high,high,item14,8,10,0.8
+202404-2137-003,DOT/PHMSA,high,high,item14,5,10,0.5
+202405-0704-001,DOW/DODDEP,medium,high,item14,6,10,0.6
+202405-0704-002,DOW/DODDEP,very high,high,item14,7,10,0.7
+202405-0938-022,HHS/CMS,medium,medium,item14,3,10,0.3
+202405-1218-005,DOL/OSHA,high,high,item14,5,10,0.5
+202405-1220-001,DOL/BLS,medium,low,item14,4,10,0.4
+202405-1506-005,TREAS/FINCEN,high,high,item14,5,10,0.5
+202405-1652-001,DHS/TSA,high,high,item14,5,10,0.5
+202406-1652-001,DHS/TSA,high,high,item14,8,10,0.8
+202408-1625-012,DHS/USCG,high,high,item14,6,10,0.6
+202408-1652-002,DHS/TSA,high,high,item14,7,10,0.7
+202409-0560-007,USDA/FSA,high,medium,item14,7,10,0.7
+202409-2126-001,DOT/FMCSA,low,low,item14,8,10,0.8
+202409-3235-022,SEC,low,medium,item14,4,10,0.4
+202410-0910-013,HHS/FDA,high,high,item14,2,10,0.2
+202410-0960-002,SSA,high,technique,item14,4,10,0.4
+202410-3150-005,NRC,very high,high,item14,7,10,0.7
+202410-7100-005,FRS,medium,medium,item14,3,10,0.3
+202411-1218-005,DOL/OSHA,medium,high,item14,8,10,0.8
+202411-1651-004,DHS/USCBP,medium,high,item14,2,10,0.2
+202411-1652-007,DHS/TSA,low,medium,item14,6,10,0.6
+202411-2070-003,EPA/OCSPP,high,high,item14,7,10,0.7
+202412-1205-002,DOL/ETA,medium,medium,item14,7,10,0.7
+202412-1652-001,DHS/TSA,high,high,item14,8,10,0.8
+202412-3170-001,CFPB,high,high,item14,7,10,0.7
+202501-1210-006,DOL/EBSA,low,medium,item14,9,10,0.9
+202502-0960-015,SSA,high,low,item14,3,10,0.3
+202502-2040-002,EPA/OW,high,high,item14,6,10,0.6
+202502-2060-039,EPA/OAR,high,high,item14,6,10,0.6
+202502-3235-014,SEC,medium,high,item14,0,10,0.0
+202503-3060-020,FCC,high,high,item14,5,10,0.5
+202504-1004-001,DOI/BLM,high,high,item14,5,10,0.5
+202504-1652-008,DHS/TSA,high,high,item14,5,10,0.5
+202504-1902-007,FERC,medium,high,item14,7,10,0.7
+202504-2060-006,EPA/OAR,very high,high,item14,6,10,0.6
+202504-3235-016,SEC,high,high,item14,5,10,0.5
+202505-1218-008,DOL/OSHA,high,high,item14,7,10,0.7
+202505-2060-004,EPA/OAR,high,high,item14,8,10,0.8
+202505-3060-038,FCC,high,high,item14,6,10,0.6
+202506-0551-003,USDA/FAS,medium,low,item14,8,10,0.8
+202506-0938-007,HHS/CMS,high,high,item14,4,10,0.4
+202506-2130-004,DOT/FRA,high,high,item14,7,10,0.7
+202507-1902-004,FERC,high,high,item14,6,10,0.6
+202508-1218-005,DOL/OSHA,high,high,item14,8,10,0.8
+202508-1652-001,DHS/TSA,high,high,item14,5,10,0.5
+202508-2126-007,DOT/FMCSA,high,high,item14,6,10,0.6
+202509-2060-003,EPA/OAR,very high,high,item14,5,10,0.5
+202511-0583-005,USDA/FSIS,very high,high,item14,5,10,0.5
+202511-1545-005,TREAS/IRS,very high,medium,item14,6,10,0.6
+202602-0607-001,DOC/CENSUS,medium,technique,item14,4,10,0.4
+202602-2060-006,EPA/OAR,very high,high,item14,6,10,0.6
+202602-3170-003,CFPB,high,high,item14,3,10,0.3
+202603-0535-001,USDA/NASS,high,medium,item14,4,10,0.4
+202603-1210-004,DOL/EBSA,very high,medium,item14,4,10,0.4
+202606-1652-001,DHS/TSA,high,high,item14,7,10,0.7
+202606-1652-002,DHS/TSA,high,high,item14,4,10,0.4
+202306-3038-007,CFTC,high,high,item15,8,10,0.8
+202310-0607-003,DOC/CENSUS,very high,technique,item15,6,10,0.6
+202310-1219-001,DOL/MSHA,very high,high,item15,8,10,0.8
+202310-1220-004,DOL/BLS,high,technique,item15,6,10,0.6
+202311-2137-001,DOT/PHMSA,high,high,item15,8,10,0.8
+202312-2050-001,EPA/OLEM,high,high,item15,8,10,0.8
+202401-1615-055,DHS/USCIS,medium,medium,item15,9,10,0.9
+202401-2070-005,EPA/OCSPP,high,high,item15,9,10,0.9
+202401-3235-005,SEC,very high,high,item15,7,10,0.7
+202402-0648-005,DOC/NOAA,high,high,item15,7,10,0.7
+202402-1652-002,DHS/TSA,high,high,item15,4,10,0.4
+202403-0607-001,DOC/CENSUS,medium,medium,item15,5,10,0.5
+202403-0910-005,HHS/FDA,high,high,item15,6,10,0.6
+202403-1219-001,DOL/MSHA,medium,high,item15,8,10,0.8
+202404-1220-001,DOL/BLS,high,technique,item15,8,10,0.8
+202404-1240-007,DOL/OWCP,medium,medium,item15,5,10,0.5
+202404-2120-002,DOT/FAA,high,high,item15,4,10,0.4
+202404-2137-003,DOT/PHMSA,high,high,item15,8,10,0.8
+202405-0704-001,DOW/DODDEP,medium,high,item15,7,10,0.7
+202405-0704-002,DOW/DODDEP,very high,high,item15,7,10,0.7
+202405-0938-022,HHS/CMS,medium,medium,item15,5,10,0.5
+202405-1218-005,DOL/OSHA,high,high,item15,9,10,0.9
+202405-1220-001,DOL/BLS,medium,low,item15,6,10,0.6
+202405-1506-005,TREAS/FINCEN,high,high,item15,7,10,0.7
+202405-1652-001,DHS/TSA,high,high,item15,6,10,0.6
+202406-1652-001,DHS/TSA,high,high,item15,5,10,0.5
+202408-1625-012,DHS/USCG,high,high,item15,8,10,0.8
+202408-1652-002,DHS/TSA,high,high,item15,5,10,0.5
+202409-0560-007,USDA/FSA,high,medium,item15,6,10,0.6
+202409-2126-001,DOT/FMCSA,low,low,item15,7,10,0.7
+202409-3235-022,SEC,low,medium,item15,9,10,0.9
+202410-0910-013,HHS/FDA,high,high,item15,7,10,0.7
+202410-0960-002,SSA,high,technique,item15,4,10,0.4
+202410-3150-005,NRC,very high,high,item15,9,10,0.9
+202410-7100-005,FRS,medium,medium,item15,5,10,0.5
+202411-1218-005,DOL/OSHA,medium,high,item15,8,10,0.8
+202411-1651-004,DHS/USCBP,medium,high,item15,7,10,0.7
+202411-1652-007,DHS/TSA,low,medium,item15,4,10,0.4
+202411-2070-003,EPA/OCSPP,high,high,item15,6,10,0.6
+202412-1205-002,DOL/ETA,medium,medium,item15,8,10,0.8
+202412-1652-001,DHS/TSA,high,high,item15,4,10,0.4
+202412-3170-001,CFPB,high,high,item15,6,10,0.6
+202501-1210-006,DOL/EBSA,low,medium,item15,7,10,0.7
+202502-0960-015,SSA,high,low,item15,6,10,0.6
+202502-2040-002,EPA/OW,high,high,item15,6,10,0.6
+202502-2060-039,EPA/OAR,high,high,item15,7,10,0.7
+202502-3235-014,SEC,medium,high,item15,9,10,0.9
+202503-3060-020,FCC,high,high,item15,10,10,1.0
+202504-1004-001,DOI/BLM,high,high,item15,9,10,0.9
+202504-1652-008,DHS/TSA,high,high,item15,6,10,0.6
+202504-1902-007,FERC,medium,high,item15,8,10,0.8
+202504-2060-006,EPA/OAR,very high,high,item15,4,10,0.4
+202504-3235-016,SEC,high,high,item15,7,10,0.7
+202505-1218-008,DOL/OSHA,high,high,item15,8,10,0.8
+202505-2060-004,EPA/OAR,high,high,item15,5,10,0.5
+202505-3060-038,FCC,high,high,item15,8,10,0.8
+202506-0551-003,USDA/FAS,medium,low,item15,6,10,0.6
+202506-0938-007,HHS/CMS,high,high,item15,7,10,0.7
+202506-2130-004,DOT/FRA,high,high,item15,9,10,0.9
+202507-1902-004,FERC,high,high,item15,6,10,0.6
+202508-1218-005,DOL/OSHA,high,high,item15,9,10,0.9
+202508-1652-001,DHS/TSA,high,high,item15,7,10,0.7
+202508-2126-007,DOT/FMCSA,high,high,item15,6,10,0.6
+202509-2060-003,EPA/OAR,very high,high,item15,8,10,0.8
+202511-0583-005,USDA/FSIS,very high,high,item15,6,10,0.6
+202511-1545-005,TREAS/IRS,very high,medium,item15,9,10,0.9
+202602-0607-001,DOC/CENSUS,medium,technique,item15,6,10,0.6
+202602-2060-006,EPA/OAR,very high,high,item15,9,10,0.9
+202602-3170-003,CFPB,high,high,item15,4,10,0.4
+202603-0535-001,USDA/NASS,high,medium,item15,8,10,0.8
+202603-1210-004,DOL/EBSA,very high,medium,item15,6,10,0.6
+202606-1652-001,DHS/TSA,high,high,item15,4,10,0.4
+202606-1652-002,DHS/TSA,high,high,item15,3,10,0.3
+202306-3038-007,CFTC,high,high,validation,2,5,0.4
+202310-0607-003,DOC/CENSUS,very high,technique,validation,5,5,1.0
+202310-1219-001,DOL/MSHA,very high,high,validation,4,5,0.8
+202310-1220-004,DOL/BLS,high,technique,validation,4,5,0.8
+202311-2137-001,DOT/PHMSA,high,high,validation,2,5,0.4
+202312-2050-001,EPA/OLEM,high,high,validation,3,5,0.6
+202401-1615-055,DHS/USCIS,medium,medium,validation,2,5,0.4
+202401-2070-005,EPA/OCSPP,high,high,validation,3,5,0.6
+202401-3235-005,SEC,very high,high,validation,3,5,0.6
+202402-0648-005,DOC/NOAA,high,high,validation,3,5,0.6
+202402-1652-002,DHS/TSA,high,high,validation,2,5,0.4
+202403-0607-001,DOC/CENSUS,medium,medium,validation,3,5,0.6
+202403-0910-005,HHS/FDA,high,high,validation,3,5,0.6
+202403-1219-001,DOL/MSHA,medium,high,validation,3,5,0.6
+202404-1220-001,DOL/BLS,high,technique,validation,3,5,0.6
+202404-1240-007,DOL/OWCP,medium,medium,validation,3,5,0.6
+202404-2120-002,DOT/FAA,high,high,validation,3,5,0.6
+202404-2137-003,DOT/PHMSA,high,high,validation,2,5,0.4
+202405-0704-001,DOW/DODDEP,medium,high,validation,3,5,0.6
+202405-0704-002,DOW/DODDEP,very high,high,validation,3,5,0.6
+202405-0938-022,HHS/CMS,medium,medium,validation,2,5,0.4
+202405-1218-005,DOL/OSHA,high,high,validation,4,5,0.8
+202405-1220-001,DOL/BLS,medium,low,validation,3,5,0.6
+202405-1506-005,TREAS/FINCEN,high,high,validation,4,5,0.8
+202405-1652-001,DHS/TSA,high,high,validation,2,5,0.4
+202406-1652-001,DHS/TSA,high,high,validation,3,5,0.6
+202408-1625-012,DHS/USCG,high,high,validation,3,5,0.6
+202408-1652-002,DHS/TSA,high,high,validation,2,5,0.4
+202409-0560-007,USDA/FSA,high,medium,validation,3,5,0.6
+202409-2126-001,DOT/FMCSA,low,low,validation,1,5,0.2
+202409-3235-022,SEC,low,medium,validation,3,5,0.6
+202410-0910-013,HHS/FDA,high,high,validation,3,5,0.6
+202410-0960-002,SSA,high,technique,validation,4,5,0.8
+202410-3150-005,NRC,very high,high,validation,4,5,0.8
+202410-7100-005,FRS,medium,medium,validation,2,5,0.4
+202411-1218-005,DOL/OSHA,medium,high,validation,2,5,0.4
+202411-1651-004,DHS/USCBP,medium,high,validation,2,5,0.4
+202411-1652-007,DHS/TSA,low,medium,validation,2,5,0.4
+202411-2070-003,EPA/OCSPP,high,high,validation,3,5,0.6
+202412-1205-002,DOL/ETA,medium,medium,validation,3,5,0.6
+202412-1652-001,DHS/TSA,high,high,validation,2,5,0.4
+202412-3170-001,CFPB,high,high,validation,2,5,0.4
+202501-1210-006,DOL/EBSA,low,medium,validation,4,5,0.8
+202502-0960-015,SSA,high,low,validation,3,5,0.6
+202502-2040-002,EPA/OW,high,high,validation,4,5,0.8
+202502-2060-039,EPA/OAR,high,high,validation,3,5,0.6
+202502-3235-014,SEC,medium,high,validation,2,5,0.4
+202503-3060-020,FCC,high,high,validation,4,5,0.8
+202504-1004-001,DOI/BLM,high,high,validation,3,5,0.6
+202504-1652-008,DHS/TSA,high,high,validation,3,5,0.6
+202504-1902-007,FERC,medium,high,validation,2,5,0.4
+202504-2060-006,EPA/OAR,very high,high,validation,3,5,0.6
+202504-3235-016,SEC,high,high,validation,3,5,0.6
+202505-1218-008,DOL/OSHA,high,high,validation,3,5,0.6
+202505-2060-004,EPA/OAR,high,high,validation,3,5,0.6
+202505-3060-038,FCC,high,high,validation,3,5,0.6
+202506-0551-003,USDA/FAS,medium,low,validation,2,5,0.4
+202506-0938-007,HHS/CMS,high,high,validation,3,5,0.6
+202506-2130-004,DOT/FRA,high,high,validation,3,5,0.6
+202507-1902-004,FERC,high,high,validation,3,5,0.6
+202508-1218-005,DOL/OSHA,high,high,validation,3,5,0.6
+202508-1652-001,DHS/TSA,high,high,validation,2,5,0.4
+202508-2126-007,DOT/FMCSA,high,high,validation,3,5,0.6
+202509-2060-003,EPA/OAR,very high,high,validation,2,5,0.4
+202511-0583-005,USDA/FSIS,very high,high,validation,3,5,0.6
+202511-1545-005,TREAS/IRS,very high,medium,validation,4,5,0.8
+202602-0607-001,DOC/CENSUS,medium,technique,validation,3,5,0.6
+202602-2060-006,EPA/OAR,very high,high,validation,3,5,0.6
+202602-3170-003,CFPB,high,high,validation,1,5,0.2
+202603-0535-001,USDA/NASS,high,medium,validation,3,5,0.6
+202603-1210-004,DOL/EBSA,very high,medium,validation,3,5,0.6
+202606-1652-001,DHS/TSA,high,high,validation,2,5,0.4
+202606-1652-002,DHS/TSA,high,high,validation,3,5,0.6
+202306-3038-007,CFTC,high,high,consistency,2,5,0.4
+202310-0607-003,DOC/CENSUS,very high,technique,consistency,2,5,0.4
+202310-1219-001,DOL/MSHA,very high,high,consistency,2,5,0.4
+202310-1220-004,DOL/BLS,high,technique,consistency,4,5,0.8
+202311-2137-001,DOT/PHMSA,high,high,consistency,3,5,0.6
+202312-2050-001,EPA/OLEM,high,high,consistency,1,5,0.2
+202401-1615-055,DHS/USCIS,medium,medium,consistency,4,5,0.8
+202401-2070-005,EPA/OCSPP,high,high,consistency,2,5,0.4
+202401-3235-005,SEC,very high,high,consistency,1,5,0.2
+202402-0648-005,DOC/NOAA,high,high,consistency,3,5,0.6
+202402-1652-002,DHS/TSA,high,high,consistency,1,5,0.2
+202403-0607-001,DOC/CENSUS,medium,medium,consistency,4,5,0.8
+202403-0910-005,HHS/FDA,high,high,consistency,1,5,0.2
+202403-1219-001,DOL/MSHA,medium,high,consistency,3,5,0.6
+202404-1220-001,DOL/BLS,high,technique,consistency,4,5,0.8
+202404-1240-007,DOL/OWCP,medium,medium,consistency,1,5,0.2
+202404-2120-002,DOT/FAA,high,high,consistency,2,5,0.4
+202404-2137-003,DOT/PHMSA,high,high,consistency,1,5,0.2
+202405-0704-001,DOW/DODDEP,medium,high,consistency,3,5,0.6
+202405-0704-002,DOW/DODDEP,very high,high,consistency,3,5,0.6
+202405-0938-022,HHS/CMS,medium,medium,consistency,3,5,0.6
+202405-1218-005,DOL/OSHA,high,high,consistency,2,5,0.4
+202405-1220-001,DOL/BLS,medium,low,consistency,3,5,0.6
+202405-1506-005,TREAS/FINCEN,high,high,consistency,3,5,0.6
+202405-1652-001,DHS/TSA,high,high,consistency,2,5,0.4
+202406-1652-001,DHS/TSA,high,high,consistency,2,5,0.4
+202408-1625-012,DHS/USCG,high,high,consistency,4,5,0.8
+202408-1652-002,DHS/TSA,high,high,consistency,0,5,0.0
+202409-0560-007,USDA/FSA,high,medium,consistency,3,5,0.6
+202409-2126-001,DOT/FMCSA,low,low,consistency,3,5,0.6
+202409-3235-022,SEC,low,medium,consistency,5,5,1.0
+202410-0910-013,HHS/FDA,high,high,consistency,3,5,0.6
+202410-0960-002,SSA,high,technique,consistency,1,5,0.2
+202410-3150-005,NRC,very high,high,consistency,4,5,0.8
+202410-7100-005,FRS,medium,medium,consistency,3,5,0.6
+202411-1218-005,DOL/OSHA,medium,high,consistency,2,5,0.4
+202411-1651-004,DHS/USCBP,medium,high,consistency,0,5,0.0
+202411-1652-007,DHS/TSA,low,medium,consistency,1,5,0.2
+202411-2070-003,EPA/OCSPP,high,high,consistency,3,5,0.6
+202412-1205-002,DOL/ETA,medium,medium,consistency,4,5,0.8
+202412-1652-001,DHS/TSA,high,high,consistency,2,5,0.4
+202412-3170-001,CFPB,high,high,consistency,1,5,0.2
+202501-1210-006,DOL/EBSA,low,medium,consistency,4,5,0.8
+202502-0960-015,SSA,high,low,consistency,1,5,0.2
+202502-2040-002,EPA/OW,high,high,consistency,1,5,0.2
+202502-2060-039,EPA/OAR,high,high,consistency,2,5,0.4
+202502-3235-014,SEC,medium,high,consistency,4,5,0.8
+202503-3060-020,FCC,high,high,consistency,4,5,0.8
+202504-1004-001,DOI/BLM,high,high,consistency,2,5,0.4
+202504-1652-008,DHS/TSA,high,high,consistency,3,5,0.6
+202504-1902-007,FERC,medium,high,consistency,2,5,0.4
+202504-2060-006,EPA/OAR,very high,high,consistency,2,5,0.4
+202504-3235-016,SEC,high,high,consistency,1,5,0.2
+202505-1218-008,DOL/OSHA,high,high,consistency,3,5,0.6
+202505-2060-004,EPA/OAR,high,high,consistency,4,5,0.8
+202505-3060-038,FCC,high,high,consistency,1,5,0.2
+202506-0551-003,USDA/FAS,medium,low,consistency,3,5,0.6
+202506-0938-007,HHS/CMS,high,high,consistency,2,5,0.4
+202506-2130-004,DOT/FRA,high,high,consistency,1,5,0.2
+202507-1902-004,FERC,high,high,consistency,1,5,0.2
+202508-1218-005,DOL/OSHA,high,high,consistency,2,5,0.4
+202508-1652-001,DHS/TSA,high,high,consistency,2,5,0.4
+202508-2126-007,DOT/FMCSA,high,high,consistency,0,5,0.0
+202509-2060-003,EPA/OAR,very high,high,consistency,2,5,0.4
+202511-0583-005,USDA/FSIS,very high,high,consistency,1,5,0.2
+202511-1545-005,TREAS/IRS,very high,medium,consistency,2,5,0.4
+202602-0607-001,DOC/CENSUS,medium,technique,consistency,3,5,0.6
+202602-2060-006,EPA/OAR,very high,high,consistency,3,5,0.6
+202602-3170-003,CFPB,high,high,consistency,0,5,0.0
+202603-0535-001,USDA/NASS,high,medium,consistency,3,5,0.6
+202603-1210-004,DOL/EBSA,very high,medium,consistency,2,5,0.4
+202606-1652-001,DHS/TSA,high,high,consistency,1,5,0.2
+202606-1652-002,DHS/TSA,high,high,consistency,0,5,0.0

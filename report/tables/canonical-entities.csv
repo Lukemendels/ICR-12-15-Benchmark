@@ -1,0 +1,28 @@
+entity,principal_fields,constraints,model_version
+Collection,"collection_id, OMB_control, component, title, authority, approval_lineage",Identity binds every table and narrative output.,0.5.0
+Scenario,"scenario_id, collection_id, baseline_id, policy_date, price_year, first_year, horizon, status","Approved, proposed and notice versions remain separate.",0.5.0
+Source,"source_id, author, title, publication_date, reference_period, URL, retrieval_date, hash, access_status",Citation-ready metadata; publication date differs from data reference period.,0.5.0
+Evidence locator,"locator_id, source_id, page, table, row, cell, quoted_value, extraction_method",A transformed input links to the original observation and its locator.,0.5.0
+Population,"population_id, unit_type, count, period, query_filters, source_id, coverage, exclusions","Persons, firms, establishments, sites, assets and events are distinct types.",0.5.0
+Segment,"segment_id, parent_population_id, eligibility_rule, share/count, overlap_type",Exclusive partitions sum to one; overlapping groups require an explicit union.,0.5.0
+Obligation,"obligation_id, legal_citation, activity_id, owning_control, exclusion/transfer_reason",Cross-control movements have source and destination entries.,0.5.0
+Activity,"activity_id, segment_id, task, trigger, mode, role_id, one_time_or_recurring",Atomically priced work; a purchased activity is not also charged as internal time.,0.5.0
+Exposure/frequency,"frequency_id, activity_id, events_per_period, periods_per_year, eligibility_share",Annualize rates only after reconciling periods and denominators.,0.5.0
+Time estimate,"time_id, activity_id, value, time_unit, statistic, scope, assumption_id","Mean, median, percentile and elapsed/active time cannot be interchanged.",0.5.0
+Labor role,"role_id, task_description, SOC, NAICS, locality, selection_reason",Industry employment weights are not automatically task labor shares.,0.5.0
+Wage observation,"wage_id, role_id, source_id, year, wage_statistic, base_rate, units",Preserve suppressed values and historical code changes.,0.5.0
+Compensation method,"compensation_id, wage_id, method_enum, benefit_value/share, denominator, reference_period","Direct compensation, wage markup and wage/compensation-share use different equations.",0.5.0
+Overhead allocation,"overhead_id, components, direct_cost_exclusions, industry_matrix, occupation_weights, annual_hours","Monetary units, average/marginal interpretation and potential double counting are explicit.",0.5.0
+Price transformation,"transform_id, input_id, index_series, base_period, target_period, ratio, rationale",Detect overlapping nominal updates; distinguish wage from output-price inflation.,0.5.0
+Purchased service,"service_id, activity_id, quantity, unit_price, price_scope, vendor_evidence, payer","Outside professional hours are a service quantity, not necessarily Item12 respondent hours.",0.5.0
+Capital asset/cohort,"asset_id, cohort_year, quantity, price, useful_life, replacement_rule, residual_value, annualization_method, discount_rate","Asset life, approval horizon and annual purchase flow are separate.",0.5.0
+Federal activity,"federal_activity_id, workload, time, grade/role, locality, benefits_method",Include only attributable resource use; explain zero or allocation.,0.5.0
+Federal allocation,"allocation_id, contract/system/budget_line, gross_cost, allocation_driver, fraction, fee_offset",Gross cost and net budget effect remain separate outputs.,0.5.0
+Assumption,"assumption_id, estimate_method, evidence_ids, justification, applicability, uncertainty, review_date",Unsupported does not mean zero; analyst judgment is identifiable.,0.5.0
+Statistical model,"model_id, version, equation/algorithm, coefficients, calibration_population, training_period, legal_cutoff, diagnostics, access_status",Can generate time and purchases jointly; restricted data limit public replication.,0.5.0
+Validation observation,"observation_id, target_input, method, sample_size, sample_frame, segment, task_scope, statistic, distribution",Distinguish empirical plausibility from spreadsheet arithmetic.,0.5.0
+Formula,"formula_id, expression_tree, input_ids, output_unit, rounding_rule, source_formula, observed_cache",Acyclic dependencies; deterministic evaluation; independent result versus cached value.,0.5.0
+Change event,"change_id, baseline_id, proposed_id, changed_input/obligation, reason, analytical_type, ROCIS_type, delta_by_metric","Old + program changes + adjustments = new, separately for responses, hours and nonlabor dollars.",0.5.0
+Interaction/decomposition,"decomposition_id, changed_inputs, update_order, interaction_term, counterfactual_values",Driver effects depend on order; store the convention rather than hiding interactions.,0.5.0
+Validation result,"check_id, formula/model_version, expected, actual, tolerance, status, severity, disposition",A known source defect is distinct from an extraction defect.,0.5.0
+Output/narrative binding,"output_id, semantic_item, table_cell/sentence, formula_ids, source_ids, scenario_id",Prose cannot invent numbers or inherit values from a different scenario.,0.5.0

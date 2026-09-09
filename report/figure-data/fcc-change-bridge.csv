@@ -1,0 +1,6 @@
+stage,annual_hours,bar_start,source_id,locator,icr_id
+Prior baseline,6690,0,SRC-0064,Item 15,202503-3060-020
+New rules,5900,6690,SRC-0064,Item 15,202503-3060-020
+Revised rules,1760,12590,SRC-0064,Item 15,202503-3060-020
+Expanded population,825,14350,SRC-0064,Item 15,202503-3060-020
+New estimate,15175,0,SRC-0064,Item 15,202503-3060-020

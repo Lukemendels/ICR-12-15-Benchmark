@@ -1,0 +1,24 @@
+{
+  "n": 73,
+  "components": 38,
+  "tsa_n": 10,
+  "tsa_mean": 67.4,
+  "tsa_range": [
+    50,
+    76
+  ],
+  "comparator_n": 36,
+  "tsa_item12_mean": 46.2,
+  "tsa_sensitivity_mean": 68.375,
+  "checks": 267,
+  "status_counts": {
+    "exact": 133,
+    "difference_requires_interpretation": 82,
+    "within_display_rounding": 52
+  },
+  "score_sums_pass": true,
+  "sensitivity_recomputed": true,
+  "agency_summaries_recomputed": true,
+  "arithmetic_replay_pass": true,
+  "scoring_rationale_rows": 657
+}

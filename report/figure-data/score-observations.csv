@@ -1,0 +1,47 @@
+icr_id,agency,title,complexity,tsa_relevance,total,group
+202306-3038-007,CFTC,Swap Data Recordkeeping and Reporting Requirements,high,high,67,Other high-relevance complex ICRs
+202310-1219-001,DOL/MSHA,Respirable Crystalline Silica Standard,very high,high,73,Other high-relevance complex ICRs
+202311-2137-001,DOT/PHMSA,Hazardous Materials Security Plans,high,high,64,Other high-relevance complex ICRs
+202312-2050-001,EPA/OLEM,Alternate PCB Extraction Methods and Amendments to PCB Cleanup and Disposal Regulations (Final Rule),high,high,71,Other high-relevance complex ICRs
+202401-2070-005,EPA/OCSPP,Chemical Data Reporting under the Toxic Substances Control Act (TSCA) (Non-Substantive Change),high,high,76,Other high-relevance complex ICRs
+202401-3235-005,SEC,Form PF and Rule 204(b)-1,very high,high,61,Other high-relevance complex ICRs
+202402-0648-005,DOC/NOAA,NMFS Alaska Region Vessel Monitoring System (VMS) Program,high,high,70,Other high-relevance complex ICRs
+202402-1652-002,DHS/TSA,Air Cargo Security Requirements,high,high,64,TSA
+202403-0910-005,HHS/FDA,Premarket Tobacco Product Applications and Recordkeeping Requirements,high,high,60,Other high-relevance complex ICRs
+202404-2120-002,DOT/FAA,"Certification and Operation of Repair Stations, 14 CFR Part 145",high,high,69,Other high-relevance complex ICRs
+202404-2137-003,DOT/PHMSA,Approvals for Hazardous Materials,high,high,68,Other high-relevance complex ICRs
+202405-0704-002,DOW/DODDEP,Cybersecurity Maturity Model Certification (CMMC) Program Reporting and Recordkeeping Requirements Information Collection,very high,high,75,Other high-relevance complex ICRs
+202405-1218-005,DOL/OSHA,Portable Fire Extinguishers Standard (Annual Maintenance Certification Record) (29 CFR 1910.157(e)(3)),high,high,78,Other high-relevance complex ICRs
+202405-1506-005,TREAS/FINCEN,FinCEN Form 111 - Suspicious Activity Report,high,high,68,Other high-relevance complex ICRs
+202405-1652-001,DHS/TSA,Flight Training Security Program,high,high,74,TSA
+202406-1652-001,DHS/TSA,"Aircraft Operator Security, 49 CFR Part 1544",high,high,76,TSA
+202408-1625-012,DHS/USCG,"Security Plan for Ports, Vessels, Facilities, Outer Continental Shelf Facilities and Other Security-Related Requirements",high,high,77,Other high-relevance complex ICRs
+202408-1652-002,DHS/TSA,Certified Cargo Screening Program,high,high,60,TSA
+202410-0910-013,HHS/FDA,Current Good Manufacturing Practice and Hazard Analysis and Risk-Based Preventive Controls For Human Food and Food for Animals,high,high,64,Other high-relevance complex ICRs
+202410-3150-005,NRC,"10 CFR Part 50, Domestic Licensing of Production and Utilization Facilities",very high,high,73,Other high-relevance complex ICRs
+202411-1652-007,DHS/TSA,TSA Claims Application,low,medium,68,TSA
+202411-2070-003,EPA/OCSPP,Toxic Chemical Release Reporting (Revision/Consolidation),high,high,75,Other high-relevance complex ICRs
+202412-1652-001,DHS/TSA,Airport Security Part 1542,high,high,71,TSA
+202412-3170-001,CFPB,Required Rulemaking on Personal Financial Data Rights,high,high,54,Other high-relevance complex ICRs
+202502-2040-002,EPA/OW,2022 National Pollutant Discharge Elimination System General Permit for Discharges from Construction Activities (Renewal),high,high,71,Other high-relevance complex ICRs
+202502-2060-039,EPA/OAR,"National Emission Standards for Hazardous Air Pollutants (NESHAP) from Manufacturing of Nutritional Yeast (40 CFR Part 60, CCCC) (Renewal)",high,high,67,Other high-relevance complex ICRs
+202503-3060-020,FCC,"Incarcerated People’s Communications Services (IPCS) Provider Annual Reporting, Certification, and Other Requirements, WC Docket Nos. 23-62, 12-375",high,high,76,Other high-relevance complex ICRs
+202504-1004-001,DOI/BLM,Leasing of Solid Minerals Other Than Coal and Oil Shale (43 CFR 3500-3590),high,high,73,Other high-relevance complex ICRs
+202504-1652-008,DHS/TSA,Transportation Worker Identification Credential,high,high,75,TSA
+202504-2060-006,EPA/OAR,Acid Rain Program under Title IV of the Clean Air Act Amendments (Renewal),very high,high,67,Other high-relevance complex ICRs
+202504-3235-016,SEC,"Rule 206(4)-2, Custody of Funds or Securities of Clients by Investment Advisers",high,high,68,Other high-relevance complex ICRs
+202505-1218-008,DOL/OSHA,Benzene Standard (29 CFR 1910.1028),high,high,77,Other high-relevance complex ICRs
+202505-2060-004,EPA/OAR,Cross-State Air Pollution Rule and Texas SO2 Trading Programs (Renewal),high,high,73,Other high-relevance complex ICRs
+202505-3060-038,FCC,"Part 25 of the Federal Communications Commission's Rules Governing the Licensing of, and Spectrum Usage By, Commercial Earth Stations and Space Stations",high,high,69,Other high-relevance complex ICRs
+202506-0938-007,HHS/CMS,Hospitals and Health Care Complex Cost Report (CMS-2552-10),high,high,60,Other high-relevance complex ICRs
+202506-2130-004,DOT/FRA,Hours of Service Regulations,high,high,67,Other high-relevance complex ICRs
+202507-1902-004,FERC,"FERC-725A, RD25-5 Mandatory Reliability Standards for the Bulk-Power System",high,high,64,Other high-relevance complex ICRs
+202508-1218-005,DOL/OSHA,"Standard on Process Safety Management of Highly Hazardous Chemicals (29 CFR 1910.119, 29 CFR 1926.64)",high,high,80,Other high-relevance complex ICRs
+202508-1652-001,DHS/TSA,Secure Flight Program,high,high,70,TSA
+202508-2126-007,DOT/FMCSA,Hours of Service (HOS) of Drivers Regulations,high,high,61,Other high-relevance complex ICRs
+202509-2060-003,EPA/OAR,"NESHAP for Gasoline Distribution Bulk Terminals, Bulk Plants, Pipeline Facilities and Gasoline Dispensing Facilities (40 CFR part 63, subparts BBBBBB and CCCCCC) (Final Rule)",very high,high,68,Other high-relevance complex ICRs
+202511-0583-005,USDA/FSIS,Sanitation SOPs and Pathogen Reduction/HACCP,very high,high,59,Other high-relevance complex ICRs
+202602-2060-006,EPA/OAR,"NESHAP for Hazardous Waste Combustors (40 CFR Part 63, Subpart EEE) (Proposed Rule)",very high,high,74,Other high-relevance complex ICRs
+202602-3170-003,CFPB,Home Mortgage Disclosure Act (Regulation C),high,high,46,Other high-relevance complex ICRs
+202606-1652-001,DHS/TSA,Cybersecurity Measures for Surface Modes,high,high,66,TSA
+202606-1652-002,DHS/TSA,Security Threat Assessment for Individuals Applying for a Hazardous Materials Endorsement for a Commercial Driver's License,high,high,50,TSA
