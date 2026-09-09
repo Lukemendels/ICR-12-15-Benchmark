@@ -1,0 +1,1581 @@
+[
+  {
+    "current_ref": "202109-1652-002",
+    "immediate_prior_ref": "201811-1652-004",
+    "usable_statement_ref": "201811-1652-004",
+    "chain": [
+      {
+        "ref": "201811-1652-004",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201811-1652-004/record.txt",
+        "document_index_locator": "mission-3/sources/201811-1652-004/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202109-1652-003",
+    "immediate_prior_ref": "201811-1652-001",
+    "usable_statement_ref": "201811-1652-001",
+    "chain": [
+      {
+        "ref": "201811-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201811-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/201811-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202109-1652-004",
+    "immediate_prior_ref": "201804-1652-001",
+    "usable_statement_ref": "201804-1652-001",
+    "chain": [
+      {
+        "ref": "201804-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201804-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/201804-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202109-1652-005",
+    "immediate_prior_ref": "201808-1652-002",
+    "usable_statement_ref": "201808-1652-002",
+    "chain": [
+      {
+        "ref": "201808-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201808-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/201808-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202109-1652-007",
+    "immediate_prior_ref": "202105-1652-003",
+    "usable_statement_ref": "202105-1652-003",
+    "chain": [
+      {
+        "ref": "202105-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202105-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/202105-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202109-1652-008",
+    "immediate_prior_ref": "202105-1652-002",
+    "usable_statement_ref": "202105-1652-002",
+    "chain": [
+      {
+        "ref": "202105-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202105-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202105-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202111-1652-001",
+    "immediate_prior_ref": "202108-1652-003",
+    "usable_statement_ref": "202108-1652-003",
+    "chain": [
+      {
+        "ref": "202108-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202108-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/202108-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202111-1652-002",
+    "immediate_prior_ref": "201812-1652-003",
+    "usable_statement_ref": "201812-1652-003",
+    "chain": [
+      {
+        "ref": "201812-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201812-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/201812-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202111-1652-003",
+    "immediate_prior_ref": null,
+    "usable_statement_ref": null,
+    "chain": [],
+    "status": "NO_PREVIOUS_REFERENCE",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202112-1652-001",
+    "immediate_prior_ref": "201812-1652-002",
+    "usable_statement_ref": "201812-1652-002",
+    "chain": [
+      {
+        "ref": "201812-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201812-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/201812-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202112-1652-002",
+    "immediate_prior_ref": "201809-1652-001",
+    "usable_statement_ref": "201809-1652-001",
+    "chain": [
+      {
+        "ref": "201809-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201809-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/201809-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202112-1652-003",
+    "immediate_prior_ref": "201808-1652-001",
+    "usable_statement_ref": "201808-1652-001",
+    "chain": [
+      {
+        "ref": "201808-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201808-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/201808-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202202-1652-001",
+    "immediate_prior_ref": "201811-1652-002",
+    "usable_statement_ref": "201811-1652-002",
+    "chain": [
+      {
+        "ref": "201811-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201811-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/201811-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202202-1652-002",
+    "immediate_prior_ref": "201904-1652-004",
+    "usable_statement_ref": "201904-1652-004",
+    "chain": [
+      {
+        "ref": "201904-1652-004",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201904-1652-004/record.txt",
+        "document_index_locator": "mission-3/sources/201904-1652-004/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202202-1652-003",
+    "immediate_prior_ref": "201811-1652-003",
+    "usable_statement_ref": "201811-1652-003",
+    "chain": [
+      {
+        "ref": "201811-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201811-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/201811-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202203-1652-003",
+    "immediate_prior_ref": "202111-1652-003",
+    "usable_statement_ref": "202111-1652-003",
+    "chain": [
+      {
+        "ref": "202111-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202111-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/202111-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202203-1652-004",
+    "immediate_prior_ref": "201909-1652-003",
+    "usable_statement_ref": "201909-1652-003",
+    "chain": [
+      {
+        "ref": "201909-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201909-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/201909-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202203-1652-005",
+    "immediate_prior_ref": "201809-1652-002",
+    "usable_statement_ref": "201809-1652-002",
+    "chain": [
+      {
+        "ref": "201809-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201809-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/201809-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202203-1652-006",
+    "immediate_prior_ref": "201909-1652-002",
+    "usable_statement_ref": "201812-1652-001",
+    "chain": [
+      {
+        "ref": "201909-1652-002",
+        "status": "Historical Active",
+        "statement_count": 0,
+        "record_locator": "mission-3/sources/201909-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/201909-1652-002/document_index.txt"
+      },
+      {
+        "ref": "201812-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201812-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/201812-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202204-1652-001",
+    "immediate_prior_ref": "201902-1652-002",
+    "usable_statement_ref": "201902-1652-002",
+    "chain": [
+      {
+        "ref": "201902-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201902-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/201902-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202204-1652-002",
+    "immediate_prior_ref": "201807-1652-001",
+    "usable_statement_ref": "201807-1652-001",
+    "chain": [
+      {
+        "ref": "201807-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201807-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/201807-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202205-1652-002",
+    "immediate_prior_ref": "201905-1652-002",
+    "usable_statement_ref": "201905-1652-002",
+    "chain": [
+      {
+        "ref": "201905-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201905-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/201905-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202206-1652-001",
+    "immediate_prior_ref": "201912-1652-003",
+    "usable_statement_ref": "201912-1652-003",
+    "chain": [
+      {
+        "ref": "201912-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201912-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/201912-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202207-1652-001",
+    "immediate_prior_ref": "202111-1652-001",
+    "usable_statement_ref": "202111-1652-001",
+    "chain": [
+      {
+        "ref": "202111-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202111-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202111-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202210-1652-001",
+    "immediate_prior_ref": "202203-1652-003",
+    "usable_statement_ref": "202203-1652-003",
+    "chain": [
+      {
+        "ref": "202203-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202203-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/202203-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202212-1652-001",
+    "immediate_prior_ref": "202207-1652-001",
+    "usable_statement_ref": "202207-1652-001",
+    "chain": [
+      {
+        "ref": "202207-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202207-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202207-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202301-1652-001",
+    "immediate_prior_ref": "201907-1652-001",
+    "usable_statement_ref": "201907-1652-001",
+    "chain": [
+      {
+        "ref": "201907-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201907-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/201907-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202301-1652-003",
+    "immediate_prior_ref": "201906-1652-003",
+    "usable_statement_ref": "201906-1652-003",
+    "chain": [
+      {
+        "ref": "201906-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201906-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/201906-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202302-1652-001",
+    "immediate_prior_ref": null,
+    "usable_statement_ref": null,
+    "chain": [],
+    "status": "NO_PREVIOUS_REFERENCE",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202303-1652-001",
+    "immediate_prior_ref": "202210-1652-001",
+    "usable_statement_ref": "202210-1652-001",
+    "chain": [
+      {
+        "ref": "202210-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202210-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202210-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202303-1652-002",
+    "immediate_prior_ref": "202005-1652-003",
+    "usable_statement_ref": "202005-1652-003",
+    "chain": [
+      {
+        "ref": "202005-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202005-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/202005-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202304-1652-001",
+    "immediate_prior_ref": null,
+    "usable_statement_ref": null,
+    "chain": [],
+    "status": "NO_PREVIOUS_REFERENCE",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202304-1652-002",
+    "immediate_prior_ref": "202002-1652-003",
+    "usable_statement_ref": "202002-1652-003",
+    "chain": [
+      {
+        "ref": "202002-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202002-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/202002-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202305-1652-001",
+    "immediate_prior_ref": "201904-1652-001",
+    "usable_statement_ref": "201904-1652-001",
+    "chain": [
+      {
+        "ref": "201904-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201904-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/201904-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202305-1652-002",
+    "immediate_prior_ref": "201906-1652-001",
+    "usable_statement_ref": "201906-1652-001",
+    "chain": [
+      {
+        "ref": "201906-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201906-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/201906-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202402-1652-001",
+    "immediate_prior_ref": "202111-1652-002",
+    "usable_statement_ref": "202111-1652-002",
+    "chain": [
+      {
+        "ref": "202111-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202111-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202111-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202402-1652-002",
+    "immediate_prior_ref": "201904-1652-003",
+    "usable_statement_ref": "201904-1652-003",
+    "chain": [
+      {
+        "ref": "201904-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201904-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/201904-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202403-1652-001",
+    "immediate_prior_ref": "202108-1652-006",
+    "usable_statement_ref": "202108-1652-006",
+    "chain": [
+      {
+        "ref": "202108-1652-006",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202108-1652-006/record.txt",
+        "document_index_locator": "mission-3/sources/202108-1652-006/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202403-1652-002",
+    "immediate_prior_ref": null,
+    "usable_statement_ref": null,
+    "chain": [],
+    "status": "NO_PREVIOUS_REFERENCE",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202405-1652-001",
+    "immediate_prior_ref": "202111-1652-002",
+    "usable_statement_ref": "202111-1652-002",
+    "chain": [
+      {
+        "ref": "202111-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202111-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202111-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202405-1652-002",
+    "immediate_prior_ref": "202109-1652-004",
+    "usable_statement_ref": "202109-1652-004",
+    "chain": [
+      {
+        "ref": "202109-1652-004",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202109-1652-004/record.txt",
+        "document_index_locator": "mission-3/sources/202109-1652-004/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202406-1652-001",
+    "immediate_prior_ref": "201904-1652-002",
+    "usable_statement_ref": "201904-1652-002",
+    "chain": [
+      {
+        "ref": "201904-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201904-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/201904-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202407-1652-001",
+    "immediate_prior_ref": "202005-1652-004",
+    "usable_statement_ref": "202005-1652-004",
+    "chain": [
+      {
+        "ref": "202005-1652-004",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202005-1652-004/record.txt",
+        "document_index_locator": "mission-3/sources/202005-1652-004/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202408-1652-002",
+    "immediate_prior_ref": "202105-1652-001",
+    "usable_statement_ref": "202105-1652-001",
+    "chain": [
+      {
+        "ref": "202105-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202105-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202105-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202409-1652-001",
+    "immediate_prior_ref": "202403-1652-002",
+    "usable_statement_ref": "202403-1652-002",
+    "chain": [
+      {
+        "ref": "202403-1652-002",
+        "status": "Historical Inactive",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202403-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202403-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202409-1652-003",
+    "immediate_prior_ref": "202304-1652-001",
+    "usable_statement_ref": "202304-1652-001",
+    "chain": [
+      {
+        "ref": "202304-1652-001",
+        "status": "Historical Inactive",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202304-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202304-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202410-1652-003",
+    "immediate_prior_ref": "202304-1652-001",
+    "usable_statement_ref": "202304-1652-001",
+    "chain": [
+      {
+        "ref": "202304-1652-001",
+        "status": "Historical Inactive",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202304-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202304-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202410-1652-004",
+    "immediate_prior_ref": "202410-1652-003",
+    "usable_statement_ref": "202410-1652-003",
+    "chain": [
+      {
+        "ref": "202410-1652-003",
+        "status": "Historical Inactive",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202410-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/202410-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202411-1652-001",
+    "immediate_prior_ref": "202108-1652-001",
+    "usable_statement_ref": "202108-1652-001",
+    "chain": [
+      {
+        "ref": "202108-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202108-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202108-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202411-1652-002",
+    "immediate_prior_ref": "202103-1652-001",
+    "usable_statement_ref": "202103-1652-001",
+    "chain": [
+      {
+        "ref": "202103-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202103-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202103-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202411-1652-003",
+    "immediate_prior_ref": "202109-1652-003",
+    "usable_statement_ref": "202109-1652-003",
+    "chain": [
+      {
+        "ref": "202109-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202109-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/202109-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202411-1652-004",
+    "immediate_prior_ref": "202109-1652-001",
+    "usable_statement_ref": "202109-1652-001",
+    "chain": [
+      {
+        "ref": "202109-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202109-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202109-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202411-1652-005",
+    "immediate_prior_ref": "201911-1652-001",
+    "usable_statement_ref": "201911-1652-001",
+    "chain": [
+      {
+        "ref": "201911-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/201911-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/201911-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202411-1652-006",
+    "immediate_prior_ref": "202202-1652-002",
+    "usable_statement_ref": "202202-1652-002",
+    "chain": [
+      {
+        "ref": "202202-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202202-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202202-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202411-1652-007",
+    "immediate_prior_ref": "202202-1652-001",
+    "usable_statement_ref": "202202-1652-001",
+    "chain": [
+      {
+        "ref": "202202-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202202-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202202-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202411-1652-008",
+    "immediate_prior_ref": "202102-1652-001",
+    "usable_statement_ref": "202102-1652-001",
+    "chain": [
+      {
+        "ref": "202102-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202102-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202102-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202412-1652-001",
+    "immediate_prior_ref": "202106-1652-002",
+    "usable_statement_ref": "202106-1652-002",
+    "chain": [
+      {
+        "ref": "202106-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202106-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202106-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202412-1652-002",
+    "immediate_prior_ref": "202108-1652-004",
+    "usable_statement_ref": "202108-1652-004",
+    "chain": [
+      {
+        "ref": "202108-1652-004",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202108-1652-004/record.txt",
+        "document_index_locator": "mission-3/sources/202108-1652-004/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202501-1652-002",
+    "immediate_prior_ref": "202112-1652-002",
+    "usable_statement_ref": "202112-1652-002",
+    "chain": [
+      {
+        "ref": "202112-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202112-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202112-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202502-1652-003",
+    "immediate_prior_ref": "202109-1652-002",
+    "usable_statement_ref": "202109-1652-002",
+    "chain": [
+      {
+        "ref": "202109-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202109-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202109-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202502-1652-004",
+    "immediate_prior_ref": "202102-1652-002",
+    "usable_statement_ref": "202102-1652-002",
+    "chain": [
+      {
+        "ref": "202102-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202102-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202102-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202502-1652-005",
+    "immediate_prior_ref": "202112-1652-003",
+    "usable_statement_ref": "202112-1652-003",
+    "chain": [
+      {
+        "ref": "202112-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202112-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/202112-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202503-1652-001",
+    "immediate_prior_ref": "202005-1652-002",
+    "usable_statement_ref": "202005-1652-002",
+    "chain": [
+      {
+        "ref": "202005-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202005-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202005-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202503-1652-002",
+    "immediate_prior_ref": "202205-1652-002",
+    "usable_statement_ref": "202205-1652-002",
+    "chain": [
+      {
+        "ref": "202205-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202205-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202205-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202503-1652-004",
+    "immediate_prior_ref": "202204-1652-002",
+    "usable_statement_ref": "202204-1652-002",
+    "chain": [
+      {
+        "ref": "202204-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202204-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202204-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202504-1652-001",
+    "immediate_prior_ref": "202107-1652-003",
+    "usable_statement_ref": "202107-1652-003",
+    "chain": [
+      {
+        "ref": "202107-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202107-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/202107-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202504-1652-002",
+    "immediate_prior_ref": "202106-1652-001",
+    "usable_statement_ref": "202106-1652-001",
+    "chain": [
+      {
+        "ref": "202106-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202106-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202106-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202504-1652-003",
+    "immediate_prior_ref": "202203-1652-004",
+    "usable_statement_ref": "202203-1652-004",
+    "chain": [
+      {
+        "ref": "202203-1652-004",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202203-1652-004/record.txt",
+        "document_index_locator": "mission-3/sources/202203-1652-004/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202504-1652-004",
+    "immediate_prior_ref": "202203-1652-005",
+    "usable_statement_ref": "202203-1652-005",
+    "chain": [
+      {
+        "ref": "202203-1652-005",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202203-1652-005/record.txt",
+        "document_index_locator": "mission-3/sources/202203-1652-005/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202504-1652-005",
+    "immediate_prior_ref": "202109-1652-008",
+    "usable_statement_ref": "202109-1652-008",
+    "chain": [
+      {
+        "ref": "202109-1652-008",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202109-1652-008/record.txt",
+        "document_index_locator": "mission-3/sources/202109-1652-008/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202504-1652-006",
+    "immediate_prior_ref": "202107-1652-001",
+    "usable_statement_ref": "202107-1652-001",
+    "chain": [
+      {
+        "ref": "202107-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202107-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202107-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202504-1652-007",
+    "immediate_prior_ref": "202204-1652-001",
+    "usable_statement_ref": "202204-1652-001",
+    "chain": [
+      {
+        "ref": "202204-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202204-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202204-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202504-1652-008",
+    "immediate_prior_ref": "202502-1652-004",
+    "usable_statement_ref": "202502-1652-004",
+    "chain": [
+      {
+        "ref": "202502-1652-004",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202502-1652-004/record.txt",
+        "document_index_locator": "mission-3/sources/202502-1652-004/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202505-1652-001",
+    "immediate_prior_ref": "202112-1652-001",
+    "usable_statement_ref": "202112-1652-001",
+    "chain": [
+      {
+        "ref": "202112-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202112-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202112-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202505-1652-002",
+    "immediate_prior_ref": "202202-1652-003",
+    "usable_statement_ref": "202202-1652-003",
+    "chain": [
+      {
+        "ref": "202202-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202202-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/202202-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202507-1652-001",
+    "immediate_prior_ref": "202203-1652-006",
+    "usable_statement_ref": "202203-1652-006",
+    "chain": [
+      {
+        "ref": "202203-1652-006",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202203-1652-006/record.txt",
+        "document_index_locator": "mission-3/sources/202203-1652-006/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202508-1652-001",
+    "immediate_prior_ref": "202301-1652-003",
+    "usable_statement_ref": "202301-1652-003",
+    "chain": [
+      {
+        "ref": "202301-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202301-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/202301-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202509-1652-001",
+    "immediate_prior_ref": "202206-1652-001",
+    "usable_statement_ref": "202206-1652-001",
+    "chain": [
+      {
+        "ref": "202206-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202206-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202206-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202511-1652-001",
+    "immediate_prior_ref": "202502-1652-003",
+    "usable_statement_ref": "202502-1652-003",
+    "chain": [
+      {
+        "ref": "202502-1652-003",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202502-1652-003/record.txt",
+        "document_index_locator": "mission-3/sources/202502-1652-003/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202512-1652-001",
+    "immediate_prior_ref": "202212-1652-001",
+    "usable_statement_ref": "202212-1652-001",
+    "chain": [
+      {
+        "ref": "202212-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202212-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202212-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202601-1652-002",
+    "immediate_prior_ref": "202301-1652-001",
+    "usable_statement_ref": "202301-1652-001",
+    "chain": [
+      {
+        "ref": "202301-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202301-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202301-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202601-1652-003",
+    "immediate_prior_ref": "202303-1652-002",
+    "usable_statement_ref": "202303-1652-002",
+    "chain": [
+      {
+        "ref": "202303-1652-002",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202303-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202303-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202601-1652-004",
+    "immediate_prior_ref": "202109-1652-007",
+    "usable_statement_ref": "202109-1652-007",
+    "chain": [
+      {
+        "ref": "202109-1652-007",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202109-1652-007/record.txt",
+        "document_index_locator": "mission-3/sources/202109-1652-007/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202605-1652-001",
+    "immediate_prior_ref": "202305-1652-002",
+    "usable_statement_ref": "202305-1652-002",
+    "chain": [
+      {
+        "ref": "202305-1652-002",
+        "status": "Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202305-1652-002/record.txt",
+        "document_index_locator": "mission-3/sources/202305-1652-002/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202605-1652-002",
+    "immediate_prior_ref": "202407-1652-001",
+    "usable_statement_ref": "202407-1652-001",
+    "chain": [
+      {
+        "ref": "202407-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202407-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202407-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202606-1652-001",
+    "immediate_prior_ref": "202303-1652-001",
+    "usable_statement_ref": "202303-1652-001",
+    "chain": [
+      {
+        "ref": "202303-1652-001",
+        "status": "Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202303-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202303-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202606-1652-002",
+    "immediate_prior_ref": "202502-1652-005",
+    "usable_statement_ref": "202502-1652-005",
+    "chain": [
+      {
+        "ref": "202502-1652-005",
+        "status": "Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202502-1652-005/record.txt",
+        "document_index_locator": "mission-3/sources/202502-1652-005/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202606-1652-003",
+    "immediate_prior_ref": "202305-1652-001",
+    "usable_statement_ref": "202305-1652-001",
+    "chain": [
+      {
+        "ref": "202305-1652-001",
+        "status": "Historical Active",
+        "statement_count": 1,
+        "record_locator": "mission-3/sources/202305-1652-001/record.txt",
+        "document_index_locator": "mission-3/sources/202305-1652-001/document_index.txt"
+      }
+    ],
+    "status": "USABLE_PREDECESSOR_RETRIEVED",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202606-1652-004",
+    "immediate_prior_ref": null,
+    "usable_statement_ref": null,
+    "chain": [],
+    "status": "NO_PREVIOUS_REFERENCE",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  },
+  {
+    "current_ref": "202606-1652-005",
+    "immediate_prior_ref": null,
+    "usable_statement_ref": null,
+    "chain": [],
+    "status": "NO_PREVIOUS_REFERENCE",
+    "baseline_verified": false,
+    "epistemic_status": "PUBLISHED",
+    "caveat": "Official previous-package link is lineage, not proof Item15 uses that approval as its numerical baseline. No-statement administrative package remains in chain."
+  }
+]

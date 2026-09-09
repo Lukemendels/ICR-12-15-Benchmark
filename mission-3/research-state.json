@@ -22,9 +22,10 @@
     "Batch06: independently recovered 26 credentialing documents / 186 OOXML tables with explicit merged-cell origins and no geometry violations; normalized 45 scalar activity/cohort rows in 11 tables. Remaining table semantics explicitly queued.",
     "Batch07: 93 formula-header coefficients normalized across seven credential versions; curated HME 2025/2026 and TWIC 2025 transitions and ten replayable partition checks. HME 2025 reconciles; 2026 scope overlap candidate isolated; TWIC renewal partition reconciles.",
     "Batch08: indexed 15 remaining operational/fee/system versions and reviewed 33 task boundaries with period, actor and scope; explicit numeric/narrative conflicts retained as candidates.",
-    "Batch09: remaining 23 other-family versions indexed; alternate generic-clearance headings resolved; 36 narrative task boundaries and 72 merged-grid generic/cyber task rows curated. All90 recent packages have Item12\u201315 section coverage; semantic coverage and comparison gates remain open."
+    "Batch09: remaining 23 other-family versions indexed; alternate generic-clearance headings resolved; 36 narrative task boundaries and 72 merged-grid generic/cyber task rows curated. All90 recent packages have Item12\u201315 section coverage; semantic coverage and comparison gates remain open.",
+    "Batch10: retrieved missing usable2018 LEOSA predecessor behind2019 administrative package; all84 recent packages with previous links reach usable statements, six have none. Indexed44 prior statements with no missing Item12\u201315 boundaries; numerical Item15 baselines remain separately unverified."
   ],
-  "next": "Resolve no-statement predecessor and index needed lineage; review semantic extraction coverage and build recurring assumption families.",
+  "next": "Audit activity/assumption coverage, normalize recurring time/labor/turnover/Federal/baseline families, and form explicit comparable activity groups before graph QA.",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,
