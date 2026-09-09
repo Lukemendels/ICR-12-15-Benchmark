@@ -34,9 +34,10 @@
     "Final analysis C: all inherited equations replayed, 41 M1 TSA checks preserved, activity-row QA consolidated, precision correction documented.",
     "Final analysis D: eight within-ICR findings completed with explicit observations; seven major candidates challenged using prior statements; negative and unresolved outcomes retained.",
     "Final analysis E: deterministic graph and consistency matrix built from468 activity representations,162 assumption observations,36 adjudications and341 checks.",
-    "Final analysis F: two held-out application comparisons adjudicated; source paragraph checks preserve DASSP field-scope caveat. First stable final analytical batch."
+    "Final analysis F: two held-out application comparisons adjudicated; source paragraph checks preserve DASSP field-scope caveat. First stable final analytical batch.",
+    "Final analysis G: held-out identity-transmission and application comparisons stable; two successive analytical batches complete without major finding or framework change."
   ],
-  "next": "Complete second held-out comparison batch, refresh graph, run deterministic queries, review freeze gates and prepare Mission4 handoff.",
+  "next": "Refresh graph and challenge indexes; execute deterministic query catalog; assess freeze gates and prepare handoff.",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,

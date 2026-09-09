@@ -18,5 +18,25 @@
     "major_findings_blob": "365fd63f0bb05d118a337b9d8c079fdf26f50c73",
     "evidence": "Four complete archived task paragraphs checked against normalized records. The DASSP passenger-field wording difference limits comparability to the retained one-hour coefficient; claim-filing duration matches despite count changes.",
     "new_extraction": false
+  },
+  {
+    "batch": "G",
+    "comparison_ids": [
+      "CMP-31",
+      "CMP-32"
+    ],
+    "outcome": "STABLE",
+    "no_material_change": {
+      "graph_schema": true,
+      "activity_taxonomy": true,
+      "assumption_taxonomy": true,
+      "similarity_method": true,
+      "comparison_rules": true,
+      "classification_framework": true,
+      "major_findings": true
+    },
+    "major_findings_blob": "365fd63f0bb05d118a337b9d8c079fdf26f50c73",
+    "evidence": "Six archived source paragraphs confirm the130-second VID component across carrier classes and versions, and10-minute adoption applications. Resolution-call duration changes and wage vintages are excluded from the tested component.",
+    "new_extraction": false
   }
 ]
