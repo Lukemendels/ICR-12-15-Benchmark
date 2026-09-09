@@ -1,0 +1,32 @@
+{
+  "ref": "202203-1652-006",
+  "retrieved_at": "2026-09-09T17:27:57.432495+00:00",
+  "documents": [
+    {
+      "id": "25c6c152728ad171",
+      "title": "1652-0071 LEOSARetCred SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=119789301",
+      "path": "mission-3/sources/202203-1652-006/25c6c152728ad171.txt",
+      "sha256_raw": "d12692745480973d3ff2f9b46638e8d92cdc4a282d88e3a0a2a55c1ca94b2b29",
+      "sha256_text": "ea5b174cc0c06e1560571ede853f8a40b487f26c838fec2be79ac059f64b0b8e",
+      "format": ".docx",
+      "chars": 17638,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202203-1652-006",
+    "path": "mission-3/sources/202203-1652-006/record.txt",
+    "sha256_raw": "0e02a5817900dbe738389f2b9b94f9f4ea63e540944892a86ff0ddf46be9323f",
+    "sha256_text": "f2ff4277a7535c69f4994e63ce9520849e3acbb5aa8320c81f8f2de658be4ae2"
+  },
+  "previous_ref": "201909-1652-002",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202203-1652-006",
+    "path": "mission-3/sources/202203-1652-006/document_index.txt",
+    "sha256_raw": "2a1aeb944c2b757d6a9db1486549a364fd3452c4d90ea173d49ae8182a39c816",
+    "sha256_text": "9d48184e843f69f795842147178ea84c97b00887404cf362be0371972afd77f4"
+  }
+}

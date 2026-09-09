@@ -1,0 +1,32 @@
+{
+  "ref": "202410-1652-003",
+  "retrieved_at": "2026-09-09T17:28:24.595000+00:00",
+  "documents": [
+    {
+      "id": "3d2299ea56cbc8a0",
+      "title": "1652-xxxx mDL ICR Supporting Statement_Clean NPRM.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=148277401",
+      "path": "mission-3/sources/202410-1652-003/3d2299ea56cbc8a0.txt",
+      "sha256_raw": "0b509007e8729458c8bf1dc2ea87f71b6c3d7bbc7e04ec07324dd3706dd4c857",
+      "sha256_text": "55a7ddf8f0b8bbfa03b0b7958cb50e529dc6bb90c2c6e27cb25bc2eabdc04488",
+      "format": ".docx",
+      "chars": 34282,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202410-1652-003",
+    "path": "mission-3/sources/202410-1652-003/record.txt",
+    "sha256_raw": "4c593281c4abad482a6712483459c94e56f2116bfeb42cc9fc9f10b5297e5504",
+    "sha256_text": "bbc75f30f22807bf0a0f82b822b01b2eda24906b40e8a7d49071813871c11e59"
+  },
+  "previous_ref": "202304-1652-001",
+  "status": "Historical Inactive",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202410-1652-003",
+    "path": "mission-3/sources/202410-1652-003/document_index.txt",
+    "sha256_raw": "8c4b625051adc07f3c617aa5e6b571ed03c1ec0126adeccb910d4411c1bbbde2",
+    "sha256_text": "1b1089cfcc5b72e70b94d2a50ceb0eb927a49206f09388a9de749bf4c0f0d6d6"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ref": "202111-1652-003",
+  "retrieved_at": "2026-09-09T17:28:24.208177+00:00",
+  "documents": [
+    {
+      "id": "7700c1c4e221d18c",
+      "title": "1652-NEW Cyber Surface Modes SS (emergency request_to DHS) 11.17.2021.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=116791301",
+      "path": "mission-3/sources/202111-1652-003/7700c1c4e221d18c.txt",
+      "sha256_raw": "12127142e2f37d2ccecf4e7b95c7b8153e1500eea64295aa3efe94ff2596cb80",
+      "sha256_text": "6fe86250fcee9a569cdfcb741c17ce678d5a62eb481494078def794b6060cf7e",
+      "format": ".docx",
+      "chars": 36758,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202111-1652-003",
+    "path": "mission-3/sources/202111-1652-003/record.txt",
+    "sha256_raw": "2d0366f0a4e22ae9510d171a8f993c71087a5d62138df2d29cadc5a151bfd5f6",
+    "sha256_text": "c2b528cd621280777d0fd909ba56d1e3e6ec3065db177613328b117238d0a6c4"
+  },
+  "previous_ref": null,
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202111-1652-003",
+    "path": "mission-3/sources/202111-1652-003/document_index.txt",
+    "sha256_raw": "089495c9c9095f18b668b0898981a4738aaf27a9ac116400e124e5c13d2199e2",
+    "sha256_text": "3654894d5ecb5f9c19cbb3e19dec85b5ff7404e61296c3617e8a4b7d36a632cc"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ref": "202504-1652-001",
+  "retrieved_at": "2026-09-09T17:28:24.565408+00:00",
+  "documents": [
+    {
+      "id": "79730363ac54bed2",
+      "title": "1652-0075 Speaker Request Form SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=155786001",
+      "path": "mission-3/sources/202504-1652-001/79730363ac54bed2.txt",
+      "sha256_raw": "23e7d28c07e44f599c798b917bfb41dbd844502198871b535b942df3bdb4d897",
+      "sha256_text": "22ba743dca3417533c27ab5065ffe7752431638df06109fece54c80157678182",
+      "format": ".docx",
+      "chars": 13289,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-1652-001",
+    "path": "mission-3/sources/202504-1652-001/record.txt",
+    "sha256_raw": "2c63814b798b6eb909715440b6d46b16664e9c26ac16cbb17858eea1a3256764",
+    "sha256_text": "9b49fd99b74a70041c076187f3803a74a0bac892ada668cc6d70616648281588"
+  },
+  "previous_ref": "202107-1652-003",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202504-1652-001",
+    "path": "mission-3/sources/202504-1652-001/document_index.txt",
+    "sha256_raw": "32158f1289e914871f9d5cbbfff20d6c1b624e4257fb7d42c4db6aba80acb2a5",
+    "sha256_text": "c4c634a1f188e3dc60865909d9676bbeda54371bcc7bee7a1c370bc09a0e023d"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ref": "202606-1652-001",
+  "retrieved_at": "2026-09-09T17:28:24.559023+00:00",
+  "documents": [
+    {
+      "id": "b4c6f91a6ebc5180",
+      "title": "1652-0074 Cyber MeasSurfModes SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=169398300",
+      "path": "mission-3/sources/202606-1652-001/b4c6f91a6ebc5180.txt",
+      "sha256_raw": "afefde1fa6a40a646aea32defd33504a02aa4bedfd3ca599dc71a5813f942063",
+      "sha256_text": "51ff9f2e597b18c185c518c1bfaa2977694a50f23c0c2e16d98e02b3627b79f6",
+      "format": ".docx",
+      "chars": 62048,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202606-1652-001",
+    "path": "mission-3/sources/202606-1652-001/record.txt",
+    "sha256_raw": "5479af9328b0f6de7db118a2b5473146652255d5cc45ed9047ee9265f7f1ce5b",
+    "sha256_text": "364a045520d27e3b3d78c8d98c3c29e504cff80178ccb003b76d47b667a83d9f"
+  },
+  "previous_ref": "202303-1652-001",
+  "status": "Received in OIRA",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202606-1652-001",
+    "path": "mission-3/sources/202606-1652-001/document_index.txt",
+    "sha256_raw": "ce1675ce8436343fc0c441eb9b6a1b069d4a58ce90da1f42069ca7c2f433c756",
+    "sha256_text": "c86e3a446ec82c6377c7bbc31dfa8d8c8848b9b976da16276ec1bbc7c8a12860"
+  }
+}

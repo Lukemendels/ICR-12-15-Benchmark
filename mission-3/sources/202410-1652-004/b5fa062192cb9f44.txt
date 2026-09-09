@@ -1,0 +1,180 @@
+PART word/document.xml
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.  (Annotate the CFR parts/sections affected).
+
+REAL ID Act and Final Rule
+
+The REAL ID Act of 2005 (the Act) prohibits Federal agencies from accepting State-issued drivers’ licenses or identification cards (DL/ID) for official purposes – defined by the Act as boarding commercial aircraft, accessing Federal facilities, entering nuclear power plants, and any other purposes as determined by the Secretary – unless the DL/ID is issued by a State that meets the requirements set forth in the Act.  Implementing regulations, which DHS issued in January 2008, establish the minimum standards that States must meet to comply with the Act.  These standards include requirements for presentation and verification of documents to establish identity and lawful status, document issuance and security, and physical security for driver’s license production facilities.  In addition, beginning May 7, 2025, the regulations prohibited Federal agencies from accepting a State-issued card for official purposes unless the card is compliant with the REAL ID Act and regulations.  This requirement for compliance cards is known as “card-based enforcement.”
+
+In December 2020, the REAL ID Modernization Act clarified that digital versions of State-issued driver’s licenses or State-issued identification cards, which are known collectively as “mobile driver’s licenses” (mDLs), are subject to REAL ID requirements.  This act amended the statutory definitions of “driver’s license” and “identification card” to specifically include mDLs that have been issued in accordance with regulations prescribed by the Secretary.  As both the REAL ID Act and regulations were issued before the inception of mDLs, they do not address security requirements for this type of identity documentation.  For example, the current regulations prescribe security requirements for card-based driver’s licenses, such as physical security features to deter fraud and tampering, but many of these requirements do not apply to mDLs.  In the absence of regulatory requirements to address mDLs, States are prevented from issuing REAL ID-compliant mDLs.
+
+The Transportation Security Administration (TSA) is conducting a multiphase rulemaking to amend the regulations to address mDLs.   To initiate the first phase, TSA published a notice of proposed rulemaking (NPRM) on August 30, 2023, and a final rule on October 25, 2024. This initial phase enables States to apply to TSA for a temporary waiver of the prohibition on Federal acceptance of non-compliant mDLs.  The waiver enabled by this rule permits Federal agencies, at their discretion, to continue accepting for official REAL ID purposes mDLs issued by States to whom TSA has issued a waiver.  In the second phase, TSA intends to follow the finalization of industry technical standards and issue another rule that would replace the waiver provisions with minimum technical requirements and security standards necessary for states to issue REAL ID-compliant mDLs.  Through this final rule, TSA requires States to apply to TSA for a waiver, following the processes set forth in section 37.9(a) and submitting materials required by sections 37.10(a) and (b).  The final rule also imposes continuing obligations on a State that has been issued a waiver, which may require States to submit additional materials to TSA.  As discussed in detail in response to question 2 below, the waiver process involves new collections of information from States that are subject to the Paperwork Reduction Act.  
+
+ Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+As discussed above, the final rule establishes a limited and temporary process for States to apply to TSA for a certificate of waiver that exempts their mDLs from the prohibition on Federal acceptance of non-compliant mDLs for official purposes.  The collection of the information will enable TSA to issue a waiver to States, and TSA will use all of the submitted documentation to evaluate a State’s request for a waiver.  States will be required to submit information to TSA as part of their applications for a certificate of waiver for mDLs, in compliance with reporting requirements, and in response to TSA notices of suspension and termination.  The final rule requires the following information collections from States.
+
+(i) Submission of Initial Application and Audit Report
+
+A State seeking a certificate of waiver must follow the application process set forth in section 37.9(a) of the final rule.  Specifically, a State must file a complete application as set forth in sections 37.10(a) and (b) of the final rule.  Section 37.10(a) (and accompanying Appendix A) sets forth all information, documents, and data that a State must include in its application, and section 37.10(b) requires a State to submit a report prepared by an independent auditor verifying the accuracy of the information provided by the State in response to section 37.10(a).  To assist States that are considering applying for a waiver, TSA has developed guidelines, entitled, “Mobile Driver’s License Waiver Application Guidance,” which provide non-binding recommendations of some ways that States can meet the application requirements set forth in the rule.
+
+Section 37.9(b) establishes a timeline for TSA to issue decisions on a waiver application.  Under this section, TSA endeavors to provide a decision on initial applications within 60 calendar days, but not longer than 90 calendar days.  TSA will provide three types of notice: approved, insufficient, or denied.  States that are granted a waiver will be included in a list of State-mDLs approved for Federal use, published by TSA at www.tsa.gov/real-id/mDL.
+
+(ii) Supplemental Submissions
+
+TSA may notify a State that its application is insufficient upon finding that an application did not respond to certain information or contains other deficiencies.  In this instance, TSA will provide States an explanation of such deficiencies and afford them an opportunity to address deficiencies and submit supplemental information.  TSA will permit States to submit multiple amended applications if necessary, with the intent of working with States individually to enable their mDLs to comply with waiver criteria.  States will have 60 calendar days to submit supplemental information.
+
+(iii) Request for Reconsideration of Denied Application
+
+If TSA denies an application, TSA will provide States the specific grounds for the basis of the denial and afford them an opportunity to seek reconsideration of a denied application.  A State will have 90 calendar days to file a request for reconsideration, explaining what corrective actions it intends to implement, or explain why the denial is incorrect.
+
+(iv) Re-Application
+
+A State whose request for reconsideration has been denied may choose to submit a new application.  In addition, a State that seeks to renew a certificate of waiver that has expired must submit a new application.  A State to whom TSA has issued a final suspension or termination, as set forth in section 37.9(e), may apply for a new waiver.
+
+(v) Reporting of Significant Modifications to mDL Issuance Processes
+
+Under section 37.9(e)(2), a State must report to TSA if the State, after receiving a certificate of waiver, makes significant modifications to its mDL issuance processes that differ in a material way from information that the State provided in its application.  States must provide written notice of such changes to TSA at www.tsa.gov/real-id/mDL 60 calendar days before implementing such changes.  This requirement is intended to apply to changes that may undermine the bases under which TSA granted a waiver.  The reporting requirement is not intended to apply to routine, low-level changes, such as software updates and patches.
+
+(vi) Reporting of Discovery of Significant Cyber Incident or Breach
+
+Under paragraph 8.6 of Appendix A, States are required to provide written notice to TSA of any reportable cybersecurity incident, as defined in the TSA Cybersecurity Lexicon available at www.TSA.gov, that may compromise the integrity of State mDL systems within no more than 72 hours of the incident or breach.  Reports must be made as directed at www.tsa.gov/real-id/mDL.
+
+(vii) Responses to TSA Notices of Suspension and Termination
+
+Section 37.9(e)(4) of the final rule sets forth processes for suspension of certificates of waiver.  TSA may suspend a certificate of waiver if TSA determines that a State: (1) failed to comply with any terms and conditions specified in the certificate of waiver, (2) failed to comply with reporting requirements, or (3) issues mDLs in a manner that is not consistent with the information the State provided in its application.  Before suspending a waiver for these reasons, TSA will provide such State written notice via email that it intends to suspend its waiver, along with an explanation of the reasons, and information on how the State may address the deficiencies.  States will have 30 calendar days to respond, and TSA will respond to the State via email within 30 calendar days.  TSA may withdraw the suspension notice, issue a final suspension, or request additional information from the State.
+
+In addition, TSA may suspend a waiver at any time upon discovery of imminent or serious threats to security, privacy, or data integrity, such as cyber-attacks and other events that cause serious harm to Federal agencies, such as cyber-attacks on a State’s mDL issuance processes that compromise the integrity of its mDLs.  If TSA determines such suspension is necessary, TSA will provide written notice via email to each State whose certificate of waiver is affected, as soon as practicable after discovery of the triggering event, providing an explanation for the suspension, as well as an estimated timeframe for resumption of the validity of the certificate of waiver.  A State that has been issued a final suspension may seek to apply for a new certificate of waiver by submitting a new application.
+
+Under section 37.9(e)(5), TSA may terminate a certificate of waiver for specified violations, including: (1) failure to comply with REAL ID requirements in section 37.51(a) of this part, (2) egregious violations of any terms and conditions specified in the certificate of waiver that the State is unwilling to cure, (3) egregious violation of reporting requirements that the State is unwilling to cure, and (4) providing false information in its waiver application.  Before terminating a certificate of waiver, TSA will provide via email written notice of intent to terminate, including findings supporting the termination and an opportunity to present information.  A State will have 7 calendar days to respond to the notice, and TSA will respond via email within 30 calendar days.  A State whose certificate of waiver has been terminated may apply for a new certificate of waiver by submitting a new application.
+
+All of the preceding items are considered new information collections.
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.  [Effective 03/22/01, your response must SPECIFICALLY reference the Government Paperwork Elimination Act (GPEA), which addresses electronic filing and recordkeeping, and what you are doing to adhere to it.  You must explain how you will provide a fully electronic reporting option by October 2003, or an explanation of why this is not practicable.]
+
+In compliance with GPEA, States will be permitted to electronically submit the information for their waiver applications.  The final rule does not define specific format submission requirements for States.  States will be permitted to submit electronic signatures but must keep the original signature on file.
+
+Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above.
+
+This information will be collected directly from the States to assist TSA in making determinations on applications for a temporary certificate of waiver.  This information is not otherwise available to TSA.
+
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden.
+
+The information collection discussed in this analysis applies to States, State agencies, and certain employees involved in the process to apply for a temporary certificate of waiver.  Therefore, it is TSA’s belief that the information collection does not have a significant impact on a substantial number of small businesses or other small entities.
+
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+The collection of the information will enable TSA to issue a waiver to States, which will authorize Federal agencies to accept, at their discretion, a State’s mDL for official purposes.  Without this information collection, under 6 CFR 37.5(b), mDLs issued by States will not be accepted by Federal agencies for official purposes beginning May 7, 2025.  As discussed in response to question 1 above, mDLs potentially provide significant security benefits to Federal agencies.  Without this information collection, Federal agencies will be prohibited from accepting mDLs on May 7, 2025, thereby depriving them of this potential security enhancement.
+
+The final rule, and therefore this collection, also supports TSA’s commitment to Executive Order 14058 of December 13, 2021 (Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government).  This Executive Order focused on enhancing the technology “to modernize Government and implement services that are simple to use, accessible, equitable, protective, transparent, and responsive for all people of the United States.”  The Secretary of Homeland Security has specifically committed to testing the use of mDLs to establish identity at airport security checkpoints, which will provide the public with increased convenience from reduced wait times, security, privacy, and health benefits from “contact-free” identity verification.
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+This collection is conducted consistent with the information collection guidelines, except for those in 5 CFR 1320.5(d)(2)(i).  This collection requires respondents to report information to the agency more often than quarterly.  Quarterly reporting would not meet the security needs that is the basis for this information collection.
+
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+In April 2021, DHS issued a Request for Information (RFI) announcing DHS’s intent to commence future rulemaking to set the minimum technical requirements and security standards for mDLs to enable Federal agencies to accept mDLs for official purposes.  The RFI requested comments and information to inform DHS’s rulemaking.  In June 2021, DHS held a public meeting to provide an additional forum for comment, and extended the comment period.  In response to comments at the public meeting concerning the importance of public access to an industry-developed standard referenced in the RFI, DHS subsequently published a notice in the Federal Register to facilitate access to the standard, and further extended the comment period.  The RFI requested comments on 13 specific topics, including: potential security risks arising from mDL usage and mitigating solutions, potential privacy concerns or benefits associated with mDL transactions, the maturity of certain industry standards and the appropriateness of DHS’s adoption of them, costs to individuals to obtain mDLs, and various technical topics associated with mDL issuance and communications.
+
+DHS received roughly 60 comments to the RFI from a diverse group of stakeholders, including advocacy groups representing varied interests, individuals, State government agencies, trade associations, and industry.  An analysis of comments received showed that topics of interest to stakeholders concerned: the need for standardization and/or Federal guidance, potential benefits to the public from mDLs generally, and the appropriateness of certain industry standards as a starting point for regulatory requirements.
+
+On August 30, 2023, TSA published an NPRM, seeking comments on nine specific topics as well as general comments on the NPRM.  See 88 FR 60056.  TSA received 31 comments, including some comments that were submitted shortly after the comment period closed.  TSA accepted every comment received as part of the official record, including those that were submitted late.  Following careful consideration of all public comments received, TSA made some modifications to the regulatory text proposed in the NPRM, as noted in the final rule.
+
+DHS and TSA have also conducted extensive outreach and engagement with affected stakeholders, including States, industry, and individuals.  In addition, the agencies conducted a roundtable discussion on privacy considerations with non-profit organizations representing varied interests.
+
+TSA published a 30-day notice in the Federal Register to solicit public comment on the information collection.  See 89 FR 77536 (September 23, 2024).  TSA received no public comment on the information collection.  
+
+Finally, on October 25, 2024, TSA published the final rule.  See 89 FR 85340. 
+
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+TSA will not provide any payment or gift to respondents.
+
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+While there is no assurance of confidentiality, information provided will be protected from disclosure to the extent appropriate under applicable provisions of the Freedom of Information Act, the Privacy Act of 1974, the Driver’s Privacy Protection Act, as well as DHS’s Privacy Impact Assessment for the REAL ID Act.
+
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+TSA will not ask any questions of a sensitive nature.
+
+Provide estimates of hour and cost burdens of the collection of information.
+
+The final rule requires the following information collections from States:
+
+Submission of initial application and audit report;
+Supplemental submissions;
+Request for reconsideration of denied applications;
+Re-application;
+Reporting of significant modifications to mDL issuance processes;
+Reporting of significant cyber incident or breach; and
+Responses to TSA notices of suspension or termination.
+
+All 50 States, the District of Columbia, and five territories (collectively “States”) are eligible to voluntarily apply for an mDL waiver.  However, TSA assumes that not all States eligible for the mDL waiver will apply.  Some States have not taken action towards mDL implementation, and there may be States whose mDL issuance processes and IT systems or philosophy will lend them towards waiting until the mDL ecosystem is more fully developed.  As a result, TSA believes some, but not all, States will request an mDL waiver.  Specifically, TSA assumes 15 States will apply for an mDL waiver in year 1 of the analysis, 10 States in year 2, and 5 States in year 3, a total of 30 responses over a three-year period and an average of 10 annual responses.
+
+After submission of the mDL waiver application and a TSA review, TSA can make one of three determinations on the request for an mDL waiver: approval, insufficient, or denial.  States can amend an insufficient waiver application and resubmit for TSA review or submit a new application if the initial application is denied.  TSA anticipates all initial mDL waiver applications will receive a determination of insufficient.  However, TSA intends to work with States to meet the mDL application criteria and as a result does not anticipate any applications being denied.  As a result, States will not submit any new applications as a result of a denial or a request for reconsideration of a denied application.  However, TSA assumes only 90 percent of applicants will resubmit their waiver applications initially deemed insufficient with the remaining percentage of applicants not continuing to pursue an mDL waiver and waiting until the mDL environment is more fully developed.  Therefore, TSA assumes 13.5 States will resubmit their waiver applications in year 1, 9 States in year 2, and 4.5 States in year 3, a total of 27 responses over a three-year period and an average of 9 annual responses.
+
+A State’s mDL waiver will be valid for 3 years.  States granted an mDL waiver in Year 1 will not need to submit an mDL waiver reapplication until Year 4 of the analysis.  Therefore, TSA estimates there will be no reapplications within the three-year Paperwork Reduction Act cycle.
+
+TSA technology subject matter experts estimate that the initial mDL waiver application will take, on average, 20 hours to complete.  TSA also estimates that mDL waiver resubmissions will take 25 percent of the initial mDL waiver application time, which equates to 5 hours.
+
+TSA does not possess sufficient information to estimate the frequency of potential or actual suspensions or terminations of a State’s mDL waiver or the frequency of reporting related to material changes or threats to security, privacy, or data integrity.  TSA assumes there will not be more than nine collections related to reporting or responses to TSA notices of suspensions or terminations, and as such, these collections will not be subject to the Paperwork Reduction Act.  Events related to reporting or waiver suspensions and terminations likely have a low probability of occurrence.  In addition, TSA estimates only 30 States will submit an mDL waiver application over the three-year period.  TSA will provide more data on the frequency and burden of suspensions, terminations, and reporting upon the renewal of this information collection.
+
+TSA estimates the total three-year burden for mDL waiver applications and mDL waiver resubmissions is 57 responses and 735 hours.  TSA estimates an average yearly burden of 19 responses and 245 hours.
+
+TSA assumes a weighted average hourly compensation rate of $81.83 for the State employees that will submit the information collections.  TSA estimates States will incur a total cost of $60,147 to submit the information collections in the first 3 years of the analysis.  This equates to an annual average cost of $20,049.  Details of the calculations can be found in the following table.
+
+Table 1: Information Collection Responses, Burden Hours, and Burden Costs
+Year | Collection Activity | Total Burden Hours | Wage Rate | Time Burden Co st
+ | Waiver Applications | Waiver Resubmissions | Total Responses |  |  | 
+ | a | b | c = a + b | d = (a×20) + (b×5) | e = $ 81.83 | f = d × e
+Year 1 | 15 | 13.5 | 28.5 | 367.5 | $81.83 | $30,073
+Year 2 | 10 | 9 | 19 | 245.0 | $81.83 | $20,049
+Year 3 | 5 | 4.5 | 9.5 | 122.5 | $81.83 | $10,024
+Total | 30 | 27 | 57 | 735.0 |   | $60,147
+Average  | 10 | 9 | 19 | 245.0 |   | $20,049
+
+Provide an estimate of the total annual cost burden to respondents or record-keepers resulting from the collection of information.
+`
+States will also incur costs associated with audits of their mDL infrastructure.  States will incur this cost for each initial mDL waiver application.  TSA estimates this audit cost at $26,974 per waiver application.  TSA estimates States will submit 30 waiver applications in the first 3 years of the rule, resulting in a total 3-year cost of $0.81 million and an annual average cost of $0.27 million.
+
+Provide estimates of annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information.
+
+TSA technology subject matter experts estimate it will take a TSA reviewer, on average, about 40 hours to complete an initial mDL waiver application review and 10 hours to review a resubmitted mDL waiver application that was initially insufficient.  TSA also assumes a reviewer compensation rate of $73.95 per hour.  TSA estimates TSA will incur a total cost of $108,699 in the first 3 years of the analysis and an average annual cost of $36,233.
+
+Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+There has been no program changes or new requirements established as a result of this collection request.
+
+For collections of information whose results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+TSA will not publish the results of this collection.  TSA will only publish the names of States that have been issued a certificate of waiver.
+
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons why display would be inappropriate.
+
+All information gathered under this collection will be in formats governed by individual State requirements and formats, thus display of the OMB number would be inappropriate.
+
+Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+TSA is not seeking any exceptions.
+PART word/footnotes.xml
+
+
+
+ The REAL ID Act of 2005—Title II of division B of the FY05 Emergency Supplemental Appropriations Act, as amended, Public Law 109– 13, 49 U.S.C. 30301 note.
+ See 73 FR 5272 (Jan. 29, 2008) and 6 CFR part 37.
+ See 6 CFR 37.5(b).
+ An mDL is generally recognized as the digital representation of an individual’s identity information contained on a State-issued physical DL/ID, and is stored on mobile devices, such as smartphones.  A technical description of mDLs as envisioned by the American Association of Motor Vehicle Administrators may be found at https://www.aamva.org/Mobile-Drivers-License/.
+ Sec. 1001 of the REAL ID Modernization Act, Title X of Division U of the Consolidated Appropriations Act, 2021, Pub. L. No. 116-260, 134 Stat. 2304, available at Public Law 116 - 260 - Consolidated Appropriations Act, 2021 - Content Details - (govinfo.gov).
+ 6 CFR §§ 37.15(c) & 37.17(h).
+ The REAL ID Act of 2005, Division B of the FY05 Emergency Supplemental Appropriations Act, as amended, Public Law 109–13, 119 Stat. 302.  Effective May 22, 2023, authority to administer the REAL ID program was delegated from the Secretary of Homeland Security to the Administrator of TSA pursuant to DHS Delegation No. 7060.2.1.
+ 88 FR 60056 (August 30, 2023).
+ 86 FR 20320 (April 19, 2021).
+ 86 FR 31987 (June 16, 2021).
+ 86 FR 51625 (Sept. 16, 2021).
+ The 31 total comments include 1 duplicate, 1 correction, and 1 confidential submission.
+ mDL waiver resubmission burden = 20 hours [initial mDL waiver application burden] x 0.25 = 5 hours.
+ TSA uses the following fully-loaded, average hourly compensation rates for the labor categories within State government that will complete an mDL waiver application: $70.26 for a solutions architect, $90.19 for an IT manager, $113.31 for the administrator of the Department of Motor Vehicles, and $79.24 for a lawyer.  TSA estimates for an mDL waiver application, a solutions architect and IT manager will each comprise 45 percent of the total time burden, while the administrator and lawyer will each account for 5 percent.  TSA multiplies the average hourly compensation rates by the proportion of each labor category’s burden to complete an mDL waiver application to calculate the weighted average hourly compensation per mDL waiver application.  $81.83 weighted average hourly compensation = ($70.26 per hour for solutions architect x 45 percent) + ($90.19 per hour for IT manager x 45 percent) + ($113.31 per hour for administrator x 5 percent) + ($79.24 per hour for lawyer x 5 percent).
+ The table excludes all other information collections.  TSA assumes nine or fewer collections over the three-year period for reconsideration, mDL waiver reapplications, reporting of modifications, reporting of cyber incidents, and responses to TSA notices of suspension or termination.
+ Total three-year audit cost of $0.81 million equals the 30 waiver applications multiplied by the $26,974 audit cost per waiver application.  The average annual audit cost of $0.27 million equals the total three-year audit cost of $0.81 million divided by three.
+ TSA assumes that the equivalent of a GS-13 employee will review mDL waiver applications.  TSA estimates an annual fully-loaded compensation of $154,324, based on the sum of all Personnel Compensation and Benefits for GS-13 Employees ($113,944 in wages and $40,380 in benefit compensation).  TSA divides the annual fully-loaded compensation of $154,324 by 2,087 annual work hours to calculate an hourly compensation rate of $73.95.
+ Total TSA cost of $108,699 = ((30 total waiver applications x 40 hours) + (27 total waiver resubmissions x 10 hours)) x $73.95 per hour.

@@ -15,9 +15,10 @@
     "Fresh recent/active/pending official searches reconciled; 48 assigned TSA control histories retrieved; five unassigned-control ICR proposals retained separately",
     "Committed schema/taxonomy reviewed and structurally validated; original ontology retained",
     "Batch 01: normalized four frozen TSA security-program models by provenance-preserving reference (47 activity rows); source-specific checks and unexplained differences remain open",
-    "Batch 02: 19 frozen credentialing activity rows normalized; new foreign-carrier statement evidence indexed with original line locators (not yet adjudicated)"
+    "Batch 02: 19 frozen credentialing activity rows normalized; new foreign-carrier statement evidence indexed with original line locators (not yet adjudicated)",
+    "Fresh public retrieval complete for all 90 recent ICR packages; all expose a Supporting Statement A. Batch 03 indexed all recent security-program versions. Immediate prior-package retrieval started from explicit lineage links."
   ],
-  "next": "Complete portfolio retrieval; explicitly select prior statements; extract remaining families and resolve all item-boundary exceptions",
+  "next": "Review batch03 source rows, resolve section detection, and populate curated scalar mappings; continue each portfolio family with separate commits",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,

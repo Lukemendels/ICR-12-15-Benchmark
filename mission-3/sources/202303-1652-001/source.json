@@ -1,0 +1,32 @@
+{
+  "ref": "202303-1652-001",
+  "retrieved_at": "2026-09-09T17:28:24.546640+00:00",
+  "documents": [
+    {
+      "id": "01950023de75cb9e",
+      "title": "1652-0074 Rail Cyber MeasSurfModes SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=129826502",
+      "path": "mission-3/sources/202303-1652-001/01950023de75cb9e.txt",
+      "sha256_raw": "9d3ae981b1e9b0c8795d98da544f181cab9cd580bee935c75a4480329cb0e9b4",
+      "sha256_text": "859529c0a4ed28a93455a74eb888b59fa59e039c50db694e1aedcd40e65dad11",
+      "format": ".docx",
+      "chars": 45914,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202303-1652-001",
+    "path": "mission-3/sources/202303-1652-001/record.txt",
+    "sha256_raw": "2959caa4b35bea0f7bdbb8da3e45cf6b72ccab763fba760f8d6cbdc0065885ce",
+    "sha256_text": "c5a534b959e575eb9fb81da8bf66612916db176037326d2e1c48314c13353b79"
+  },
+  "previous_ref": "202210-1652-001",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202303-1652-001",
+    "path": "mission-3/sources/202303-1652-001/document_index.txt",
+    "sha256_raw": "51fddc336eab428238b02422935f82ee055d4ce73edcdb1e9d1ec19fe1841ddb",
+    "sha256_text": "74bd5897fd740e3e2ea205feff8f0ce880084502cbcc6c48dc1e75446c229e9f"
+  }
+}

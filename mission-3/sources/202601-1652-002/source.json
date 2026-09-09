@@ -1,0 +1,32 @@
+{
+  "ref": "202601-1652-002",
+  "retrieved_at": "2026-09-09T17:27:58.376501+00:00",
+  "documents": [
+    {
+      "id": "068c444986b25632",
+      "title": "1652-0073 TSA_RSSP_PilotReq SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=165220000",
+      "path": "mission-3/sources/202601-1652-002/068c444986b25632.txt",
+      "sha256_raw": "288be35b9e5c4d19addfe9f470a7fba2d6b9f4b8975403a31453c97b342818b1",
+      "sha256_text": "40f93088ad74fc1c3a228268f6483828501f6471880c366ad66996cd7bc5d703",
+      "format": ".docx",
+      "chars": 16406,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202601-1652-002",
+    "path": "mission-3/sources/202601-1652-002/record.txt",
+    "sha256_raw": "c3c6708e6d5740b7ba464ff456329bb3935b337ef8cee73089e674e69d86313f",
+    "sha256_text": "3af612b85bb3ddd89d95abbc426fe7521a489376e04375858610a8409c7a1def"
+  },
+  "previous_ref": "202301-1652-001",
+  "status": "Received in OIRA",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202601-1652-002",
+    "path": "mission-3/sources/202601-1652-002/document_index.txt",
+    "sha256_raw": "eba7eb2d5ddc61c7c537933f28cc088e301db6ef318d981439ca6f5a74bbb89b",
+    "sha256_text": "5ee581efce0287be93e25877916430af992f304febf7dc95eb1933e2f15583f5"
+  }
+}

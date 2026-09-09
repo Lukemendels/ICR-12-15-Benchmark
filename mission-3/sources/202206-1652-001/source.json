@@ -1,0 +1,32 @@
+{
+  "ref": "202206-1652-001",
+  "retrieved_at": "2026-09-09T17:27:57.569066+00:00",
+  "documents": [
+    {
+      "id": "7874f8a5e3aab5f2",
+      "title": "1652-0072 LEOsFlyingArmed SS (7.5.2022)_OIRA 26Jan2023-1 TSA_1.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=122728502",
+      "path": "mission-3/sources/202206-1652-001/7874f8a5e3aab5f2.txt",
+      "sha256_raw": "c09662b69ca7ccad7c21d181b59b26747ca09768687f89a2dc3d7eca58c5c2e2",
+      "sha256_text": "eafb742be9bbd849de1e77ff7b5db267ac9653304d7036f4499fe9a056990121",
+      "format": ".docx",
+      "chars": 15076,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202206-1652-001",
+    "path": "mission-3/sources/202206-1652-001/record.txt",
+    "sha256_raw": "3e78b253fed562563fc322fcd46c1f7dc83eadf0df93638271ce38e9b739d53b",
+    "sha256_text": "779b57c6f429903e518e102398e3e73fb7137825ab0747d23895e29c09960950"
+  },
+  "previous_ref": "201912-1652-003",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202206-1652-001",
+    "path": "mission-3/sources/202206-1652-001/document_index.txt",
+    "sha256_raw": "ac58413fe046af25f5093aca8bac9e810c8763b3842a02c1fb805092f7465dac",
+    "sha256_text": "5e225a0c52df5ce7276ea5dc4b9fcbe5ffce36dc1160aaaf88652dfa8381b581"
+  }
+}

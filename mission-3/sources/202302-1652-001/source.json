@@ -1,0 +1,32 @@
+{
+  "ref": "202302-1652-001",
+  "retrieved_at": "2026-09-09T17:28:24.572196+00:00",
+  "documents": [
+    {
+      "id": "8e73d8108017fe72",
+      "title": "1652-00xx TSA SecVettingNPRM PRA SS 6.9.2023.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=129928201",
+      "path": "mission-3/sources/202302-1652-001/8e73d8108017fe72.txt",
+      "sha256_raw": "b79ddf84cec9cda5d599a21c3156b4f818ee1a18e6893e1afd399ff8e5806752",
+      "sha256_text": "165c36550be4b89b12da33f7a8bdf0a4c982ba36cdd28b114d3496c5369870e4",
+      "format": ".docx",
+      "chars": 49608,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202302-1652-001",
+    "path": "mission-3/sources/202302-1652-001/record.txt",
+    "sha256_raw": "ca44e595839a5b3e865dd8f2b26a1f6fd36b060d1e797173aa3b7dfd4ae45f00",
+    "sha256_text": "df9805fae56a5c012857309b699a6b4a417ff1152991ec78caee26bf20a983b0"
+  },
+  "previous_ref": null,
+  "status": "Historical Inactive",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202302-1652-001",
+    "path": "mission-3/sources/202302-1652-001/document_index.txt",
+    "sha256_raw": "6f7605d3f82b8bbc3b727251a375e96f1e3786c2314f80b58fbb0acfddab5781",
+    "sha256_text": "48f5586f72e85fb413e83039ead29412d067c69759d78031becfe74abb343ed7"
+  }
+}

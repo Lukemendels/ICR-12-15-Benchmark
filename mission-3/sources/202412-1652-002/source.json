@@ -1,0 +1,32 @@
+{
+  "ref": "202412-1652-002",
+  "retrieved_at": "2026-09-09T17:27:57.431865+00:00",
+  "documents": [
+    {
+      "id": "dcd646aba0eae9ba",
+      "title": "1652-0069 MSIJSOC.TPO SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=151024901",
+      "path": "mission-3/sources/202412-1652-002/dcd646aba0eae9ba.txt",
+      "sha256_raw": "786861b92e6b324ecf677a5bca35d021687308cedfe6429fce6d6d019d2759f5",
+      "sha256_text": "ebbd9c42a6b264fe45bdcf23a6cc0e1ce2f3a8f9e87bc894b973014e03d28bfd",
+      "format": ".docx",
+      "chars": 19264,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202412-1652-002",
+    "path": "mission-3/sources/202412-1652-002/record.txt",
+    "sha256_raw": "7dc5a71e4437135e58a9080d856b206af496743d21624d06cdf83167ff0e0df0",
+    "sha256_text": "21b8260850e076237fce7f813ba6dcbba836f210ccca9d5568cd41c59c6a94fc"
+  },
+  "previous_ref": "202108-1652-004",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202412-1652-002",
+    "path": "mission-3/sources/202412-1652-002/document_index.txt",
+    "sha256_raw": "e6f63726a80e24dee36b01b808a0d3124824e1a87f16bf39b3c29d47caa1f599",
+    "sha256_text": "7ed1b9a708d1f5403464062768160eb17f26aadcfdeb093fa302f574aee7a7e2"
+  }
+}
