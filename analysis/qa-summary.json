@@ -1,0 +1,28 @@
+{
+  "total_checks": 341,
+  "by_origin": {
+    "M1_REUSED": 41,
+    "M3_SOURCE_SPECIFIC": 23,
+    "M3_ROW_SCREEN": 277
+  },
+  "by_status": {
+    "difference_requires_interpretation": 20,
+    "exact": 14,
+    "within_display_rounding": 7,
+    "DIFFERENCE_REQUIRES_INTERPRETATION": 13,
+    "PASS": 10,
+    "EXACT": 162,
+    "SOURCE_PRECISION_OR_SCOPE_REVIEW": 47,
+    "WITHIN_OUTPUT_ROUNDING": 68
+  },
+  "versions_with_checks": 40,
+  "all_expressions_replayed": true,
+  "normalized_activity_representations": 468,
+  "versions_with_activities": 90,
+  "limitations": [
+    "A row screen is not full-model validation.",
+    "M1 arithmetic dispositions remain verbatim, including the HME pathway share originally labeled within_display_rounding; Mission3 partition checks separately adjudicate its meaning.",
+    "No addition across representations or versions; count is evidence records, not distinct task types.",
+    "QA-MD3-COST input precision tolerance corrected openly; conclusion unchanged."
+  ]
+}

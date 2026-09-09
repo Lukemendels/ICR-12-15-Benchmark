@@ -30,9 +30,10 @@
     "Batch14:22 source-specific quantitative checks, seven challenged findings, and one fully reconciled TWIC component bridge with independently verified prior baseline;41 frozen TSA checks reused by reference. No schema/comparison-rule novelty in second post-coverage analytical batch.",
     "Batch15:29 additional reviewed manager/analyst/grade/fee/wage assumptions;18 comparisons include explicit negative match; current pipeline Federal review-cost calculation challenged and retained. Same ontology and comparison rules.",
     "Final analysis A: inherited 18 comparisons made inspectable with explicit component values, units, similarity, confidence and practitioner significance.",
-    "Final analysis B: 10 additional family comparisons; source-defined lifecycle, annual/per-event, legal-review and verification boundaries adjudicated."
+    "Final analysis B: 10 additional family comparisons; source-defined lifecycle, annual/per-event, legal-review and verification boundaries adjudicated.",
+    "Final analysis C: all inherited equations replayed, 41 M1 TSA checks preserved, activity-row QA consolidated, precision correction documented."
   ],
-  "next": "Consolidate deterministic QA and challenge every major finding with prior-version evidence.",
+  "next": "Complete source-specific adversarial challenge, then graph and provenance validation.",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,
