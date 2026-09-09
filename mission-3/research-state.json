@@ -1,5 +1,5 @@
 {
-  "MISSION_STATUS": "RECOVERY_IN_PROGRESS",
+  "MISSION_STATUS": "TSA_INVENTORY_COMPLETE",
   "evidence_version": "M3-0.1.0",
   "graph_version": "0.1.0",
   "base_commit": "d041cde75fe33b0bf9dec29c7cc6ae7309ca8a69",
@@ -11,11 +11,12 @@
   "completed": [
     "Read authoritative state, handoff, methods, TSA extractions and validation",
     "Verified available local files against GitHub blob identities",
-    "Reconstructed 900 durable blobs and verified Git SHA-1 identities; discarded uncommitted prior analysis"
+    "Reconstructed 900 durable blobs and verified Git SHA-1 identities; discarded uncommitted prior analysis",
+    "Fresh recent/active/pending official searches reconciled; 48 assigned TSA control histories retrieved; five unassigned-control ICR proposals retained separately"
   ],
-  "next": "Complete control-history audit, commit TSA inventory, validate graph schema, extract current/recent and selected lineage sources in batches",
+  "next": "Validate schema/taxonomy; finish fresh statement retrieval and select immediate preceding usable versions",
   "freeze_gates": {
-    "portfolio": false,
+    "portfolio": true,
     "current_recent_coverage": false,
     "needed_lineage": false,
     "shapes": false,
@@ -26,5 +27,14 @@
     "gaps_documented": false,
     "tool_readiness": false
   },
-  "recovery_base_commit": "acc9b604e446220651f55d3364653368f781a7a5"
+  "recovery_base_commit": "acc9b604e446220651f55d3364653368f781a7a5",
+  "inventory_counts": {
+    "recent_search_records": 92,
+    "tsa_icr_packages": 90,
+    "assigned_tsa_controls": 48,
+    "unassigned_control_packages": 5,
+    "active_icr_packages": 42,
+    "pending_icr_packages": 7,
+    "excluded_opm_common_form_requests": 2
+  }
 }
