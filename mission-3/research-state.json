@@ -17,9 +17,10 @@
     "Batch 01: normalized four frozen TSA security-program models by provenance-preserving reference (47 activity rows); source-specific checks and unexplained differences remain open",
     "Batch 02: 19 frozen credentialing activity rows normalized; new foreign-carrier statement evidence indexed with original line locators (not yet adjudicated)",
     "Fresh public retrieval complete for all 90 recent ICR packages; all expose a Supporting Statement A. Batch 03 indexed all recent security-program versions. Immediate prior-package retrieval started from explicit lineage links.",
-    "Batch04: all 26 recent credentialing/redress/vetting statement versions indexed; section-boundary exceptions corrected. Batch03 explicit headers yielded 80 scalar activity rows; unmapped tables retained separately."
+    "Batch04: all 26 recent credentialing/redress/vetting statement versions indexed; section-boundary exceptions corrected. Batch03 explicit headers yielded 80 scalar activity rows; unmapped tables retained separately.",
+    "Batch05: cyber/surface assessment versions indexed; all ten frozen TSA models now reused. 44 immediate prior packages retrieved; one no-statement administrative package requires its predecessor."
   ],
-  "next": "Cyber and operational extraction; inspect cohort tables, narrative-only activities and unchanged prior statements",
+  "next": "Preserve merged table geometry for cohort normalization; operational and other family batches; inspect extracted evidence and method novelty",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,

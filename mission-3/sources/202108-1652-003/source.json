@@ -1,0 +1,32 @@
+{
+  "ref": "202108-1652-003",
+  "retrieved_at": "2026-09-09T17:31:36.383374+00:00",
+  "documents": [
+    {
+      "id": "8bf18daddb9bc9ed",
+      "title": "1652-0056 Pipeline CSR SS (emergency request_to DHS) 8.18.2021.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=114122001",
+      "path": "mission-3/sources/202108-1652-003/8bf18daddb9bc9ed.txt",
+      "sha256_raw": "6cb6a1574175426e3b31ca0222e84d93ef5a84f6535867ee7545f994da4936f5",
+      "sha256_text": "93735b6bb81f87395c8b872ad2bf6146c6e500ad2e0f2356b31689d989865eec",
+      "format": ".docx",
+      "chars": 19352,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202108-1652-003",
+    "path": "mission-3/sources/202108-1652-003/record.txt",
+    "sha256_raw": "96dc4148713eb40837e7677891d560f5a949b3874bf5dec21a9b1b23f4afb6b4",
+    "sha256_text": "b72a2a9c21018f0a13bfdd93353a0474b031b1172cf424f10d2fa1735f374aac"
+  },
+  "previous_ref": "202107-1652-002",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202108-1652-003",
+    "path": "mission-3/sources/202108-1652-003/document_index.txt",
+    "sha256_raw": "1e71d256d32cfc7fe5f09bea59981f0f8cefac4355975331983713f1fb82e86f",
+    "sha256_text": "7cb851fb3b7c739c22041c6d48b73755c935bf4fa2a1a0607bfc19387b6136d5"
+  }
+}
