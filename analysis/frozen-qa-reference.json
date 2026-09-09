@@ -1,0 +1,17 @@
+{
+  "source": "data/calculation-checks.csv",
+  "count": 41,
+  "icrs": [
+    "202402-1652-002",
+    "202405-1652-001",
+    "202406-1652-001",
+    "202408-1652-002",
+    "202411-1652-007",
+    "202412-1652-001",
+    "202504-1652-008",
+    "202508-1652-001",
+    "202606-1652-001",
+    "202606-1652-002"
+  ],
+  "policy": "Mission1 checks reused unchanged. Findings remain scoped to frozen versions; no automatic carry-forward to newer versions."
+}

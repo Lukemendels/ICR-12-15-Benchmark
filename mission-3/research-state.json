@@ -26,9 +26,10 @@
     "Batch10: retrieved missing usable2018 LEOSA predecessor behind2019 administrative package; all84 recent packages with previous links reach usable statements, six have none. Indexed44 prior statements with no missing Item12\u201315 boundaries; numerical Item15 baselines remain separately unverified.",
     "Batch11:17 recurring assumption-family discovery indexes across134 statements, explicitlyINFERRED;40 separately reviewed scalar assumptions cover loading, turnover, pathways, recordkeeping, renewal, legal/Federal review, purchases and construction.",
     "Batch12:59 additional source-specific task durations across32 previously untyped recent versions; all90 recent versions now have principal task normalization. Bundled processes, annual recordkeeping and per-event time remain distinct.",
-    "Batch13: 15 inspectable comparisons adjudicated with actor/task/unit/period rationale and explanation challenges; medical travel primary sources checked. No numeric difference classified as inconsistency without adequate comparability."
+    "Batch13: 15 inspectable comparisons adjudicated with actor/task/unit/period rationale and explanation challenges; medical travel primary sources checked. No numeric difference classified as inconsistency without adequate comparability.",
+    "Batch14:22 source-specific quantitative checks, seven challenged findings, and one fully reconciled TWIC component bridge with independently verified prior baseline;41 frozen TSA checks reused by reference. No schema/comparison-rule novelty in second post-coverage analytical batch."
   ],
-  "next": "Complete within-ICR quantitative challenges and Item 15 baseline checks; populate graph and validate provenance.",
+  "next": "Populate typed evidence graph, close provenance exceptions, implement deterministic queries and complete freeze-gate assessment.",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,
