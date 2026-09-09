@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "0.1",
+  "cases": [
+    {
+      "id": "pinned-evidence-load",
+      "command": "node --test tests/foundation.test.mjs"
+    },
+    {
+      "id": "isolated-state-safe-text",
+      "command": "node --test tests/foundation.test.mjs"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ function assertEnvelopePin(value) {
   if (value.base_release_id !== PIN.release_id || value.base_manifest_sha256 !== PIN.manifest_sha256) throw Error('Local state has a different base evidence pin');
 }
 function createStores(base) {
-  if (!Object.isFrozen(base) || base.manifestHash !== PIN.manifest_sha256) throw Error('Verified immutable base required');
+  if (!verifiedBases.has(base)) throw Error('Verified immutable base required');
   const files = base.files;
   const ids = new Set(files['tsa/nodes.json'].map(r => r.id));
   for (const id of Object.keys(files['indexes/sources.json'])) ids.add(id);

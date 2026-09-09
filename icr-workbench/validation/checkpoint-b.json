@@ -1,0 +1,11 @@
+{
+  "checkpoint": "B",
+  "status": "WORKING_SHELL_COMPLETE",
+  "application_version": "0.1.0",
+  "foundation_capability_version": "1.0.1",
+  "evidence_release_id": "ICR-EVIDENCE-1.0.0",
+  "manifest_sha256": "572e8a414c5867e75a5d24eb4d5e939a475969c92bb1d81b3f183f436b4663a9",
+  "foundation_tests": "validation/foundation-tests.json",
+  "build_report": "validation/build-report.json",
+  "next": "Checkpoint C: deterministic transfer package, compatibility, acceptance, handoff and terminal state"
+}

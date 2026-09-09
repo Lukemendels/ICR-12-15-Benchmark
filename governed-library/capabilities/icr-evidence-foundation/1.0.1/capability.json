@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "0.1",
+  "type": "paperclip_capability",
+  "id": "icr-evidence-foundation",
+  "version": "1.0.1",
+  "title": "ICR Evidence Foundation",
+  "summary": "Pinned offline evidence loading, bounded retrieval, isolated state and safe text rendering. Scoped repository authorization establishes this technical capability release; no institutional analytical approval is implied.",
+  "approval": "approved",
+  "skill": {
+    "path": "SKILL.md",
+    "sha256": "b2505f158e06196beb0d2f07ac9fd6355438626201d54479f815da1e0a245680"
+  },
+  "implementation": {
+    "path": "implementation.js",
+    "sha256": "b50750a571c8fafe882805e389caed755c3422638f1cbc841c770e89c5d815f8"
+  },
+  "tests": {
+    "path": "tests.json",
+    "sha256": "3db0fdf7bd65421ea055c06f061b244709ab4c824e32f13230bcb1ab6c7f4b29"
+  }
+}

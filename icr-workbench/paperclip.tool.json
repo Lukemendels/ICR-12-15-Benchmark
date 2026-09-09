@@ -20,8 +20,8 @@
   "dependencies": [
     {
       "id": "icr-evidence-foundation",
-      "version": "1.0.0",
-      "path": "capabilities/icr-evidence-foundation/1.0.0/capability.json"
+      "version": "1.0.1",
+      "path": "capabilities/icr-evidence-foundation/1.0.1/capability.json"
     }
   ],
   "stickshiftInstallable": true

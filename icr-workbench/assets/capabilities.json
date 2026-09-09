@@ -7,7 +7,7 @@
       "status": "implemented",
       "source": "assets/foundation/adapter.js",
       "interface": "loadAdapter({readBytes,listPaths}) -> Promise<immutable base>",
-      "governed_dependency": "icr-evidence-foundation@1.0.0"
+      "governed_dependency": "icr-evidence-foundation@1.0.1"
     },
     {
       "id": "evidence-querying",
@@ -15,7 +15,7 @@
       "status": "implemented",
       "source": "assets/foundation/provider.js",
       "interface": "query({filters,limit,after}) -> bounded page",
-      "governed_dependency": "icr-evidence-foundation@1.0.0"
+      "governed_dependency": "icr-evidence-foundation@1.0.1"
     },
     {
       "id": "graph-traversal",
@@ -23,7 +23,7 @@
       "status": "implemented",
       "source": "assets/foundation/provider.js",
       "interface": "neighbors(id,edgeType) -> frozen IDs",
-      "governed_dependency": "icr-evidence-foundation@1.0.0"
+      "governed_dependency": "icr-evidence-foundation@1.0.1"
     },
     {
       "id": "provenance-resolution",
@@ -31,7 +31,7 @@
       "status": "implemented",
       "source": "assets/foundation/provider.js",
       "interface": "source(id), sourcesFor(record), hydrate(record)",
-      "governed_dependency": "icr-evidence-foundation@1.0.0"
+      "governed_dependency": "icr-evidence-foundation@1.0.1"
     },
     {
       "id": "overlay-handling",
@@ -39,7 +39,7 @@
       "status": "implemented",
       "source": "assets/foundation/stores.js",
       "interface": "overlay.importJSON/exportJSON/snapshot",
-      "governed_dependency": "icr-evidence-foundation@1.0.0"
+      "governed_dependency": "icr-evidence-foundation@1.0.1"
     },
     {
       "id": "project-state-persistence",
@@ -47,7 +47,7 @@
       "status": "implemented",
       "source": "assets/foundation/stores.js",
       "interface": "project.importJSON/exportJSON/snapshot; envelope only",
-      "governed_dependency": "icr-evidence-foundation@1.0.0"
+      "governed_dependency": "icr-evidence-foundation@1.0.1"
     },
     {
       "id": "validation",
@@ -55,7 +55,7 @@
       "status": "implemented",
       "source": "assets/foundation/adapter.js",
       "interface": "frozen consumer validation before exposure",
-      "governed_dependency": "icr-evidence-foundation@1.0.0"
+      "governed_dependency": "icr-evidence-foundation@1.0.1"
     },
     {
       "id": "a2ui-rendering",

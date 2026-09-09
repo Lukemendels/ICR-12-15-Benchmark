@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "status": "PASS",
+  "test_count": 26,
+  "tests": [
+    {
+      "id": "administrative_boundary_only_two_optional_paths",
+      "status": "PASS"
+    },
+    {
+      "id": "bounded_exact_paging_and_unknown_operators",
+      "status": "PASS"
+    },
+    {
+      "id": "bundled_payload_loads_byte_identically",
+      "status": "PASS"
+    },
+    {
+      "id": "byte_adapter_defensive_copies",
+      "status": "PASS"
+    },
+    {
+      "id": "clean_build_standalone_static_and_repeat_deterministic",
+      "status": "PASS"
+    },
+    {
+      "id": "correct_release_and_exact_manifest_load",
+      "status": "PASS"
+    },
+    {
+      "id": "enumerate_90_select_version_activities_sources_findings",
+      "status": "PASS"
+    },
+    {
+      "id": "file_and_host_adapters_match",
+      "status": "PASS"
+    },
+    {
+      "id": "forged_base_rejected_by_provider_and_stores",
+      "status": "PASS"
+    },
+    {
+      "id": "frozen_loop_5_1_retrieval_fixtures",
+      "status": "PASS"
+    },
+    {
+      "id": "incompatible_schema_and_version_fail_closed",
+      "status": "PASS"
+    },
+    {
+      "id": "independent_overlay_project_import_export_and_no_base_replacement",
+      "status": "PASS"
+    },
+    {
+      "id": "missing_artifact_fails_closed",
+      "status": "PASS"
+    },
+    {
+      "id": "ordinary_build_rejects_stale_capability_source",
+      "status": "PASS"
+    },
+    {
+      "id": "overlay_identity_collision_bad_pin_reference_and_duplicate_rejected",
+      "status": "PASS"
+    },
+    {
+      "id": "project_rejects_base_identity_calculation_extra_keys_and_preserves_prior",
+      "status": "PASS"
+    },
+    {
+      "id": "provenance_hydration_and_typed_neighbors",
+      "status": "PASS"
+    },
+    {
+      "id": "public_base_recursively_immutable",
+      "status": "PASS"
+    },
+    {
+      "id": "source_validation_and_modular_navigation",
+      "status": "PASS"
+    },
+    {
+      "id": "stored_text_and_source_links_safe_by_construction",
+      "status": "PASS"
+    },
+    {
+      "id": "tampered_artifact_fails_closed",
+      "status": "PASS"
+    },
+    {
+      "id": "unknown_file_and_outside_freeze_state_fail_closed",
+      "status": "PASS"
+    },
+    {
+      "id": "unsafe_duplicate_paths_and_missing_listing_rejected",
+      "status": "PASS"
+    },
+    {
+      "id": "upstream_anvil_closure_candidate_isolation_and_context",
+      "status": "PASS"
+    },
+    {
+      "id": "wrong_manifest_hash_fails_closed",
+      "status": "PASS"
+    },
+    {
+      "id": "wrong_release_identity_fails_closed",
+      "status": "PASS"
+    }
+  ],
+  "browser_dom_execution": false
+}

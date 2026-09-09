@@ -6,6 +6,7 @@ function deepFreeze(value) {
   }
   return value;
 }
+const verifiedBases = new WeakSet();
 const administrative = new Set(['FREEZE-RECEIPT.json', 'validation/final-acceptance-gate.json']);
 function safePath(path) {
   if (typeof path !== 'string' || !path || path.includes('\\') || path.startsWith('/') || path.includes(':') || path.split('/').some(p => !p || p === '.' || p === '..')) throw Error('Unsafe release path');
@@ -14,6 +15,7 @@ function safePath(path) {
 function requirePin(manifest, pin = PIN) {
   if (pin.schema_major !== 1 || pin.consumer_major !== 1) throw Error('Incompatible consumer/schema major');
   if (manifest.release_id !== pin.release_id || Number(manifest.schema_version.split('.')[0]) !== pin.schema_major) throw Error('Unexpected evidence identity/schema');
+  if (manifest.graph_version !== pin.tsa_graph || manifest.evidence_versions?.federal !== pin.federal_evidence || manifest.evidence_versions?.tsa !== pin.tsa_evidence || manifest.canonical_model_version !== pin.canonical_model || manifest.rubric_version !== pin.rubric) throw Error('Unexpected evidence component version');
 }
 async function loadAdapter(adapter) {
   if (!adapter || typeof adapter.readBytes !== 'function' || typeof adapter.listPaths !== 'function') throw Error('A read-only byte adapter with actual listPaths is required');
@@ -28,7 +30,9 @@ async function loadAdapter(adapter) {
   const frozen = loaded.files['provenance/frozen-state.json'];
   // Version metadata is also byte-bound by the manifest; explicit expectations are checked at build.
   if (!frozen || loaded.manifestHash !== PIN.manifest_sha256) throw Error('Missing frozen identity');
-  return deepFreeze(loaded);
+  deepFreeze(loaded);
+  verifiedBases.add(loaded);
+  return loaded;
 }
 function bytesAdapter(entries) {
   const map = new Map();
