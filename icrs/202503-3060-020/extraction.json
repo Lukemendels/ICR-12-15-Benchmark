@@ -6,8 +6,8 @@
   "submission_date": "04/01/2025",
   "archetype": "incarcerated people communications disclosures",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 3,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -146,7 +146,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0064"
+      "source_id": "SRC-0064",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Hourbridge",
@@ -156,7 +158,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0064"
+      "source_id": "SRC-0064",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Noticebridge",
@@ -166,7 +170,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0064"
+      "source_id": "SRC-0064",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Labor",
@@ -176,10 +182,123 @@
       "difference": 0.0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0064"
+      "source_id": "SRC-0064",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 76,
   "table_evidence_path": "icrs/202503-3060-020/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0063",
+        "SRC-0064"
+      ],
+      "section": "Item12",
+      "rationale": "Eighttask equations reconstruct15175hours and1045739labor;uniqueversusmultipleobligations explicit."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0063",
+        "SRC-0064"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "GSproxy and125professionalrate disclosed, weaksourceforlatter; rule/consultationrecord extensive."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0063",
+        "SRC-0064"
+      ],
+      "section": "Item12",
+      "rationale": "Newandexisting obligations,waivers,pricingplans andprovider types distinguished."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0063",
+        "SRC-0064"
+      ],
+      "section": "Item12",
+      "rationale": "GS13/5proxy65.48 and125officerrate; benefitandtaskmixvalidationlimited."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0063",
+        "SRC-0064"
+      ],
+      "section": "Item13",
+      "rationale": "Zero additionalcapital explicitly defendedagainstpubliccomment; supportforsoftwareimplementationboundarystilllimited."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0063",
+        "SRC-0064"
+      ],
+      "section": "Item14",
+      "rationale": "ExistingECFS noadditionalprocessingresources asserted; substantiveanalysiscostnotquantified."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0063",
+        "SRC-0064"
+      ],
+      "section": "Item15",
+      "rationale": "6690+5900+1760+825=15175; public-noticebaseline17555 reduced2380 withspecificdrivers."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0063",
+        "SRC-0064"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Substantiveindustrychallengeandresponse; reduceswaiver240to100anddisability80to40, butnotmeasuredtiming."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0063",
+        "SRC-0064"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Totalsandbridgesexact; assumptionqualityseparatefromarithmetic."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 3060-1222 | ICR Reference No: 202503-3060-020 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Historical Inactive | Previous ICR Reference No: 202311-3060-001 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Withdrawn and continue | Conclusion Date: 07/08/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 07/08/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 04/01/2025"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 04/01/2025 | Terms of Clearance: Withdrawn at request of the agency. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0064",
+        "document_date": "04/01/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

@@ -1,28 +1,28 @@
 # 2022 National Pollutant Discharge Elimination System General Permit for Discharges from Construction Activities (Renewal)
 
-Provisional review. 202502-2040-002; sources SRC-0020, SRC-0019.
+Reviewed under rubric1.0.0. 202502-2040-002; sources SRC-0019, SRC-0020, SRC-0023.
 
-Score 71/100. Public documentation only. extensive statement; high complexity.
+Score 71/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 16. Accessible five-sheet formula workbook reconstructs detailed totals;rate-period and narrative mismatches prevent full credit.
+- reproducibility: 16/20. Accessible five-sheet formula workbook reconstructs detailed totals;rate-period and narrative mismatches prevent full credit.
 
-- provenance: 11. Administrative NOI data,NOAA rainfall,prior economic analysis,ECEC and OPM identified;some source/input inconsistencies.
+- provenance: 11/15. Administrative NOI data,NOAA rainfall,prior economic analysis,ECEC and OPM identified;some source/input inconsistencies.
 
-- segmentation: 15. Size,ESA consultation,dewatering,sensitive waters,reporting/recordkeeping and government activities distinguished.
+- segmentation: 15/15. Size,ESA consultation,dewatering,sensitive waters,reporting/recordkeeping and government activities distinguished.
 
-- labor: 7. Direct ECEC management/professional compensation73.47 transparent;role mix and broad average not fully justified.
+- labor: 7/10. Direct ECEC management/professional compensation73.47 transparent;role mix and broad average not fully justified.
 
-- item13: 5. Meter retail-price survey and calibration allocation useful;annual procurement versus divide-by-three conflicts.
+- item13: 5/10. Meter retail-price survey and calibration allocation useful;annual procurement versus divide-by-three conflicts.
 
-- item14: 6. Workload formula workbook available;quarterly respondent reports but annual federal reviews count835 not3340.
+- item14: 6/10. Workload formula workbook available;quarterly respondent reports but annual federal reviews count835 not3340.
 
-- item15: 6. 2017 program baseline and prior renewal baseline coexist;old/new population and rates stated but bases not consistently labeled.
+- item15: 6/10. 2017 program baseline and prior renewal baseline coexist;old/new population and rates stated but bases not consistently labeled.
 
-- validation: 4. Administrative segmentation and rainfall basis strengthen assumptions;one-year asset replacement and proxies underjustified.
+- validation: 4/5. Administrative segmentation and rainfall basis strengthen assumptions;one-year asset replacement and proxies underjustified.
 
-- consistency: 1. Workbook23% versus prose25%;capital annualization conflict;unit conversion errors and reversed ratio formula.
+- consistency: 1/5. Workbook23% versus prose25%;capital annualization conflict;unit conversion errors and reversed ratio formula.
 
 ## Reconstruction issues
 

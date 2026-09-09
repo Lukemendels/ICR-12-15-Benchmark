@@ -1,28 +1,28 @@
 # Home Mortgage Disclosure Act (Regulation C)
 
-Provisional review. 202602-3170-003; sources SRC-0052, SRC-0051.
+Reviewed under rubric1.0.0. 202602-3170-003; sources SRC-0051, SRC-0052.
 
-Score 46/100. Public documentation only. extensive statement; high complexity.
+Score 46/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 15. Table row hours reconstruct; per-bank hours are asserted aggregates.
+- reproducibility: 15/20. Table row hours reconstruct; per-bank hours are asserted aggregates.
 
-- provenance: 5. SOC, base wage and live BLS link supplied without vintage or load derivation.
+- provenance: 5/15. SOC, base wage and live BLS link supplied without vintage or load derivation.
 
-- segmentation: 9. Reporting, records and disclosures separated; bank size and data-volume heterogeneity hidden.
+- segmentation: 9/15. Reporting, records and disclosures separated; bank size and data-volume heterogeneity hidden.
 
-- labor: 3. 41.46 to66.33 implicit1.6 factor not explained; financial-sector claim links national data.
+- labor: 3/10. 41.46 to66.33 implicit1.6 factor not explained; financial-sector claim links national data.
 
-- item13: 6. Software and LEI unit costs exposed; narrative discusses a different collection.
+- item13: 6/10. Software and LEI unit costs exposed; narrative discusses a different collection.
 
-- item14: 3. Three employees plus861728 contract/O&M, but salary absent and total unclear.
+- item14: 3/10. Three employees plus861728 contract/O&M, but salary absent and total unclear.
 
-- item15: 4. Wage increase explained without prior rate or dollar bridge.
+- item15: 4/10. Wage increase explained without prior rate or dollar bridge.
 
-- validation: 1. No timing evidence in Item12; inherited methodology not located in statement.
+- validation: 1/5. No timing evidence in Item12; inherited methodology not located in statement.
 
-- consistency: 0. RegulationI/private deposit-insurance narrative surrounds HMDA tables; wrong legal scope repeated.
+- consistency: 0/5. RegulationI/private deposit-insurance narrative surrounds HMDA tables; wrong legal scope repeated.
 
 ## Reconstruction issues
 

@@ -6,8 +6,8 @@
   "submission_date": "04/03/2026",
   "archetype": "ERISA benefit claims and appeals notices",
   "complexity": "very high",
-  "tsa_relevance": "adjacent",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "medium",
+  "review_status": "REVIEWED",
   "review_iteration": 4,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -145,7 +145,9 @@
       "difference": 0,
       "unit": "plans",
       "interpretation": "Exact",
-      "source_id": "SRC-0096"
+      "source_id": "SRC-0096",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Health postapproval hours",
@@ -155,7 +157,9 @@
       "difference": 0.11666666716337204,
       "unit": "hours",
       "interpretation": "Rounding",
-      "source_id": "SRC-0096"
+      "source_id": "SRC-0096",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Medical denial hours",
@@ -165,10 +169,111 @@
       "difference": 274.44999999995343,
       "unit": "hours",
       "interpretation": "Rounded displayed duration; underlying likely26/3",
-      "source_id": "SRC-0096"
+      "source_id": "SRC-0096",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 71,
   "table_evidence_path": "icrs/202603-1210-004/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "very high",
+  "tsa_relevance_original": "adjacent",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0095",
+        "SRC-0096"
+      ],
+      "section": "Item12",
+      "rationale": "Detailed transaction table with counts, minutes and role costs; rounded hour displays require exact minute reconstruction."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0095",
+        "SRC-0096"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "MEPS-IC, Form 5500 and agency projections cited; denial/appeal and timing assumptions require fuller validation."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0095",
+        "SRC-0096"
+      ],
+      "section": "Item12",
+      "rationale": "Health, short/long disability, pension, other benefits and claim outcomes are distinguished."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0095",
+        "SRC-0096"
+      ],
+      "section": "Item12",
+      "rationale": "Role-specific EBSA loaded rates tied to shared RIA/PRA methodology; source-to-current-rate chain incomplete."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0095",
+        "SRC-0096"
+      ],
+      "section": "Item13",
+      "rationale": "Paper delivery shares, postage and pages modeled; contracted administration instead included in Item 12."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0095",
+        "SRC-0096"
+      ],
+      "section": "Item14",
+      "rationale": "Zero federal cost asserted without workload analysis."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0095",
+        "SRC-0096"
+      ],
+      "section": "Item15",
+      "rationale": "Totals and updating factors supplied; no full quantified driver decomposition."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0095",
+        "SRC-0096"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Administrative and survey populations; behavioral denial/appeal rates and extreme time values less supported."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0095",
+        "SRC-0096"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Medical denial 8.67 hours conflicts with prose maximum six hours; several outcome labels differ across tables."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 47,
+      "text": "Status: Received in OIRA | Previous ICR Reference No: 202301-1210-002 | Agency/Subagency:"
+    },
+    {
+      "line": 70,
+      "text": "Date Submitted to OIRA: 04/03/2026 | | Requested | Previously Approved | Expiration Date |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0096",
+        "document_date": "03/27/2026"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

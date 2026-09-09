@@ -6,8 +6,8 @@
   "submission_date": "01/10/2024",
   "archetype": "PCB cleanup anddisposal rule transition",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 3,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -181,7 +181,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0056"
+      "source_id": "SRC-0056",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Mail costs",
@@ -191,7 +193,9 @@
       "difference": 0.0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0056"
+      "source_id": "SRC-0056",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Annualreport unitlabor",
@@ -201,7 +205,9 @@
       "difference": -2173.58,
       "unit": "USD",
       "interpretation": "Material rate/product mismatch",
-      "source_id": "SRC-0056"
+      "source_id": "SRC-0056",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal gross/net",
@@ -211,10 +217,123 @@
       "difference": 0.20000000000004547,
       "unit": "hours",
       "interpretation": "Rounded",
-      "source_id": "SRC-0056"
+      "source_id": "SRC-0056",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 71,
   "table_evidence_path": "icrs/202312-2050-001/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0055",
+        "SRC-0056"
+      ],
+      "section": "Item12",
+      "rationale": "Role-hour matrix andold/new burdens explicit; labor products fail forannualreports."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0055",
+        "SRC-0056"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "2018wages,2019ECEC,2005RACER defaults identified; age andbase rates require validation."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0055",
+        "SRC-0056"
+      ],
+      "section": "Item12",
+      "rationale": "Facilitytype,activity andthree laborroles; overlap ledger linked to2070-0112."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0055",
+        "SRC-0056"
+      ],
+      "section": "Item12",
+      "rationale": "Overhead1.336 components includingprofit disclosed withlimitations; final rates notfully derived."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0055",
+        "SRC-0056"
+      ],
+      "section": "Item13",
+      "rationale": "Mailing3.96*442 clear; existing ICR unitprice source andcapitalzero rationale."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0055",
+        "SRC-0056"
+      ],
+      "section": "Item14",
+      "rationale": "Grade/role hours andgross/net impacts; tableheader respondent rates conflict withgovernment rates."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0055",
+        "SRC-0056"
+      ],
+      "section": "Item15",
+      "rationale": "8276gross versus8266baseline=10net explicitlytable; Item15new/nochange wording misleading."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0055",
+        "SRC-0056"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Economic assessment andcandid overhead uncertainty;timeassumptions notempirically tested."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0055",
+        "SRC-0056"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Manager38h*102.26+clerical2h*38.27 doesnot reproduce6136; copying andminute conversion problems."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 2050-0230 | ICR Reference No: 202312-2050-001 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Historical Active | Previous ICR Reference No: 202209-2050-002 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 02/22/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 02/22/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 01/10/2024"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 01/10/2024 | Terms of Clearance: In accordance with 5 CFR 1320, this information collection request is being approved. As a reminder EPA is required to include the following information in its submission for information collection request review and approval: (1) supporting statements to show compliance with requirements and other associated laws; (2) a description of the regulatory text applicable to the ICR including submission specifications; (3) a clear description of the data elements being collected under the ICR; (4) copies of the data collection instrument and/or screen shots of the electronic portal where the reporting requirements are submitted to EPA (with the control number and burden statement included); (5) a detailed discussion of how information is submitted and the extent to which electronic reporting is available; (6) evidence of consultation with respondents (by actively reaching out to stakeholders as permitted by the PRA) to ensure the supporting statement's accuracy on availability of data, frequency of collection, clarity of instructions, accuracy of burden estimate, relevance of data elements, and similar PRA matters; and (7) discussion of how EPA addressed substantive concerns raised by respondents and other stakeholders during consultation and in response to comments received on FR notices. In addition, supporting statement A should use the standard 18 question SS-A format. Additional information on formatting and compliance can be found at https://pra.digital.gov. |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0056",
+        "document_date": "02/20/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

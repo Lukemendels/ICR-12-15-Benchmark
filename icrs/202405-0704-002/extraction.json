@@ -7,7 +7,7 @@
   "archetype": "cybersecurity certification and implementation",
   "complexity": "very high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 7,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -165,7 +165,9 @@
       "difference": -9.313225746154785e-10,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0140"
+      "source_id": "SRC-0140",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Engineering",
@@ -175,7 +177,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact aggregate; validates arithmetic not scope/cohorts.",
-      "source_id": "SRC-0140"
+      "source_id": "SRC-0140",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal hours",
@@ -185,7 +189,9 @@
       "difference": 0.0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0140"
+      "source_id": "SRC-0140",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "RIA POAM printed equation",
@@ -195,8 +201,159 @@
       "difference": 3794.5199999999995,
       "unit": "USD",
       "interpretation": "Printed48hours inconsistent with cost; likely4hours but not silently corrected.",
-      "source_id": "SRC-0140"
+      "source_id": "SRC-0140",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 75
+  "total_score": 75,
+  "complexity_original": "very high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0139",
+        "SRC-0140",
+        "SRC-0156",
+        "SRC-0157",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Item12",
+      "rationale": "SSA aggregates link to detailed RIA phases, occupations and cost categories; composite/phase-in mapping incomplete."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0139",
+        "SRC-0140",
+        "SRC-0156",
+        "SRC-0157",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Final-rule2024 cost analysis and internal contractor comparators, but underlying observations restricted."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0139",
+        "SRC-0140",
+        "SRC-0156",
+        "SRC-0157",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Item12",
+      "rationale": "Level2/3, size, assessment phases and internal/outsourced labor meaningfully separated."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0139",
+        "SRC-0140",
+        "SRC-0156",
+        "SRC-0157",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Item12",
+      "rationale": "RIA distinguishes30% internal loading from vendor prices including profit and51% federal loading; composite still difficult to recreate."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0139",
+        "SRC-0140",
+        "SRC-0156",
+        "SRC-0157",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Item13",
+      "rationale": "Hardware/software/implementation totals reconstruct from unit totals, but no itemized assets, useful life, cohort or noncollection boundary."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0139",
+        "SRC-0140",
+        "SRC-0156",
+        "SRC-0157",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Item14",
+      "rationale": "Level3 workload by size and composite government rates; RIA adds grade/step/load method."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0139",
+        "SRC-0140",
+        "SRC-0156",
+        "SRC-0157",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Item15",
+      "rationale": "New collection with cross-control scope; no prior burden baseline."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0139",
+        "SRC-0140",
+        "SRC-0156",
+        "SRC-0157",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Internal expertise, previous assessments and adverse comments; first-pass assumption limits uncertainty."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0139",
+        "SRC-0140",
+        "SRC-0156",
+        "SRC-0157",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Aggregate arithmetic close; RIA includes transcription issues and composite-source mapping is incomplete."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202405-0704-002/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 0704-0677 | ICR Reference No: 202405-0704-002 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202211-0704-001 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 10/18/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 10/18/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 06/25/2024"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 06/25/2024 | Terms of Clearance: This collection is approved based on the revised materials provided by the Department. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0140",
+        "document_date": "10/18/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

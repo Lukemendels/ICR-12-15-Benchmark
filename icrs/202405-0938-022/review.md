@@ -1,28 +1,28 @@
 # Proposed Prior Authorization Process and Requirements for Certain Hospital Outpatient Department (OPD) Services (CMS-10711)
 
-Provisional review. 202405-0938-022; sources SRC-0129, SRC-0128.
+Reviewed under rubric1.0.0. 202405-0938-022; sources SRC-0128, SRC-0129.
 
-Score 65/100. Public documentation only. moderate statement; moderate complexity.
+Score 65/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 17. Paper/electronic initial/resubmission counts, time and education formula clear.
+- reproducibility: 17/20. Paper/electronic initial/resubmission counts, time and education formula clear.
 
-- provenance: 10. 2022 BLS occupation and source explicit; workload origin and contractor costs less detailed.
+- provenance: 10/15. 2022 BLS occupation and source explicit; workload origin and contractor costs less detailed.
 
-- segmentation: 12. Submission pathway and resubmissions distinguished; education separate.
+- segmentation: 12/15. Submission pathway and resubmissions distinguished; education separate.
 
-- labor: 6. Median health-support wage doubled; rationale broad and one role for all incremental tasks.
+- labor: 6/10. Median health-support wage doubled; rationale broad and one role for all incremental tasks.
 
-- item13: 7. Postage explicit underItem12 and inROCIS nonlabor; capital zero defensible.
+- item13: 7/10. Postage explicit underItem12 and inROCIS nonlabor; capital zero defensible.
 
-- item14: 3. 25.3million contractor review total lacks workload/unit price.
+- item14: 3/10. 25.3million contractor review total lacks workload/unit price.
 
-- item15: 5. 46999-hour adjustment stated but unchanged ROCIS responses contradict explanation of increased submissions.
+- item15: 5/10. 46999-hour adjustment stated but unchanged ROCIS responses contradict explanation of increased submissions.
 
-- validation: 2. Existing documentation scope reasoned; time and contractor assumptions not independently tested.
+- validation: 2/5. Existing documentation scope reasoned; time and contractor assumptions not independently tested.
 
-- consistency: 3. Main totals reconcile with rounding, but846015 postage differs from846013 package and unit typo says million.
+- consistency: 3/5. Main totals reconcile with rounding, but846015 postage differs from846013 package and unit typo says million.
 
 ## Reconstruction issues
 

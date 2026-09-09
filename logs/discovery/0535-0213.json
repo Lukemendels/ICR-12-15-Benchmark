@@ -1,0 +1,71 @@
+{
+  "query": "0535-0213",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&ombControlNumber=0535-0213",
+  "rows": [
+    {
+      "refs": [
+        "202311-0535-001"
+      ],
+      "text": "0535-0213\n|\nUSDA/NASS\n|\nAgricultural Surveys Program\n|\nRevision of a currently approved collection\n|\n12/07/2023\n|\n01/08/2024\n|\nApproved without change\n|\n01/31/2027\n|\n2\n|\n53\n|"
+    },
+    {
+      "refs": [
+        "202401-0535-005"
+      ],
+      "text": "0535-0213\n|\nUSDA/NASS\n|\nAgricultural Surveys Program\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n01/26/2024\n|\n01/29/2024\n|\nApproved without change\n|\n01/31/2027\n|\n2\n|\n53\n|"
+    },
+    {
+      "refs": [
+        "202402-0535-001"
+      ],
+      "text": "0535-0213\n|\nUSDA/NASS\n|\nAgricultural Surveys Program\n|\nRevision of a currently approved collection\n|\n02/20/2024\n|\n03/25/2024\n|\nApproved without change\n|\n03/31/2027\n|\n2\n|\n54\n|"
+    },
+    {
+      "refs": [
+        "202404-0535-003"
+      ],
+      "text": "0535-0213\n|\nUSDA/NASS\n|\nAgricultural Surveys Program\n|\nRevision of a currently approved collection\n|\n04/24/2024\n|\n06/04/2024\n|\nApproved without change\n|\n06/30/2027\n|\n2\n|\n53\n|"
+    },
+    {
+      "refs": [
+        "202406-0535-001"
+      ],
+      "text": "0535-0213\n|\nUSDA/NASS\n|\nAgricultural Surveys Program\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n06/12/2024\n|\n07/10/2024\n|\nApproved without change\n|\n06/30/2027\n|\n2\n|\n54\n|"
+    },
+    {
+      "refs": [
+        "202501-0535-003"
+      ],
+      "text": "0535-0213\n|\nUSDA/NASS\n|\nAgricultural Surveys Program\n|\nRevision of a currently approved collection\n|\n02/11/2025\n|\n03/26/2025\n|\nApproved with change\n|\n03/31/2028\n|\n2\n|\n57\n|"
+    },
+    {
+      "refs": [
+        "202507-0535-003"
+      ],
+      "text": "0535-0213\n|\nUSDA/NASS\n|\nAgricultural Surveys Program\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n07/15/2025\n|\n08/25/2025\n|\nApproved with change\n|\n03/31/2028\n|\n2\n|\n60\n|"
+    },
+    {
+      "refs": [
+        "202601-0535-016"
+      ],
+      "text": "0535-0213\n|\nUSDA/NASS\n|\nAgricultural Surveys Program\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n01/26/2026\n|\n02/24/2026\n|\nApproved with change\n|\n03/31/2028\n|\n2\n|\n60\n|"
+    },
+    {
+      "refs": [
+        "202603-0535-001"
+      ],
+      "text": "0535-0213\n|\nUSDA/NASS\n|\nAgricultural Surveys Program\n|\nRevision of a currently approved collection\n|\n03/17/2026\n|\n04/22/2026\n|\nApproved with change\n|\n03/31/2028\n|\n2\n|\n65\n|"
+    }
+  ],
+  "all_refs": [
+    "202311-0535-001",
+    "202401-0535-005",
+    "202402-0535-001",
+    "202404-0535-003",
+    "202406-0535-001",
+    "202501-0535-003",
+    "202507-0535-003",
+    "202601-0535-016",
+    "202603-0535-001"
+  ]
+}

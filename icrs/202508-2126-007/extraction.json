@@ -6,8 +6,8 @@
   "submission_date": "09/15/2025",
   "archetype": "driver electroniclogging records",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 3,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -132,7 +132,9 @@
       "difference": 337570,
       "unit": "drivers",
       "interpretation": "Materialdiscrepancy",
-      "source_id": "SRC-0074"
+      "source_id": "SRC-0074",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Nonlabor total",
@@ -142,7 +144,9 @@
       "difference": 14930000,
       "unit": "USD",
       "interpretation": "Materialadditionerror",
-      "source_id": "SRC-0074"
+      "source_id": "SRC-0074",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Carrierchange",
@@ -152,7 +156,9 @@
       "difference": -305800000,
       "unit": "USD",
       "interpretation": "Materialsubtractionerror",
-      "source_id": "SRC-0074"
+      "source_id": "SRC-0074",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Exactcarrierhours",
@@ -162,10 +168,123 @@
       "difference": 0.0,
       "unit": "hours",
       "interpretation": "Summaryreconstructs;Table417.84mdoesnot",
-      "source_id": "SRC-0074"
+      "source_id": "SRC-0074",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 61,
   "table_evidence_path": "icrs/202508-2126-007/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0073",
+        "SRC-0074"
+      ],
+      "section": "Item12",
+      "rationale": "Forecastanddailyrecord tables; weightingdenominator wrong andcarrierrounding producesconflictingtotals."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0073",
+        "SRC-0074"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "MCMISdatedquery,BLSprojections,OEWS/ECEC andvendorprices; allunderlyingquotesnotyetverified."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0073",
+        "SRC-0074"
+      ],
+      "section": "Item12",
+      "rationale": "Driver/carrier,new/existing,exemptDOL andequipment/service split."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0073",
+        "SRC-0074"
+      ],
+      "section": "Item12",
+      "rationale": "FourSOCweights exceed100%;nestedpassengercategories anddenominator concerns;ECECbenefits mislabeledoverhead."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0073",
+        "SRC-0074"
+      ],
+      "section": "Item13",
+      "rationale": "Vendorprice ranges andmedian,installation,andmonthlyservice;replacement omittedandannualtotalincorrect."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0073",
+        "SRC-0074"
+      ],
+      "section": "Item14",
+      "rationale": "Noincremental federalcost justified asnormalduties; inspectionallocationquestion."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0073",
+        "SRC-0074"
+      ],
+      "section": "Item15",
+      "rationale": "Old/newinputs andcosts shown butseveraldeltas arithmeticallywrong."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0073",
+        "SRC-0074"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "MCMISobservations andinvestigator50%reviewbasis; malfunctionrates explicitlyunknown."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0073",
+        "SRC-0074"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "53.40v53.44mhours,1.6206bv1.63553bcost,over100%wageweights."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 2126-0001 | ICR Reference No: 202508-2126-007 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202507-2126-005 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 01/12/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 01/12/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 09/15/2025"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 09/15/2025 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0074",
+        "document_date": "08/29/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

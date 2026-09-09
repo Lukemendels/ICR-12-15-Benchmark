@@ -1,0 +1,358 @@
+PART word/document.xml
+SUPPORTING STATEMENT - PART A for
+OMB Control Number 0535-0213:  
+Agricultural Surveys Program
+
+
+ICR Author: Struther Van Horn
+USDA, National Agricultural Statistics Service 
+1400 Independence Avenue S.W.
+Washington, D.C. 20250
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Supporting Statement – Part A 
+
+AGRICULTURAL SURVEYS PROGRAM
+
+OMB No. 0535-0213
+
+
+This substantive change is being submitted as a supplemental supporting statement for changes to the Agricultural Surveys Program (0535-0213).  
+
+The proposed changes are:
+To increase the sample size for the Crop Acreage and Grain Stocks (Quarterly Agricultural Surveys). Given recent indicators of increasing respondent fatigue and emerging negative sentiment toward survey participation, there is elevated risk that response rates will continue to decline. To preserve coverage and maintain the reliability of key commodity estimates, an increase in the sample size is warranted. This adjustment will help ensure that data quality remains robust even as participation pressures intensify.
+The reinstatement of the Agricultural Coverage Evaluation Survey (ACES).
+Update the June Area Survey questionnaire to be fully compliant with Statistical Policy Directive No. 15: Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity (SPD-15). The race and ethnicity questions with minimum categories, multiple detailed checkboxes, and write-in response areas with example groups are used for full compliance of SPD-15. 
+
+
+A.JUSTIFICATION
+
+1.Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.
+
+The primary functions of the National Agricultural Statistics Service (NASS) are to prepare and issue State and national estimates of crop and livestock production, disposition, and prices and to collect information on related environmental and economic factors.  Crop and livestock statistics help maintain a stable economic atmosphere and reduce risk for production, marketing, and distribution operations.  Modern agriculture increasingly calls upon NASS to supply reliable, timely, and detailed information in its commodity estimation programs.  The surveys in this Information Collection Request make up the most scrutinized reports published by NASS because of their impact on the commodities market, government policy, imports, exports, prices, and private industry.
+
+The Agricultural Surveys Program is a combination of surveys utilizing several different sampling frames.  Basic agricultural data is collected from farmers and ranchers throughout the nation and used to prepare agricultural estimates and forecasts of crop acreages, yields, and production; stocks of grains and oilseeds; hog and pig inventory; sheep inventory and lamb crop; goat and kid inventory; cattle inventory; cattle on feed, and land values.  The surveys provide the basis for estimates of the current season’s crop and livestock production and supplies of grain and oilseeds in storage.  Survey results provide the foundation for setting livestock and poultry inventory numbers.  Estimates derived from these surveys supply information needed by farmers to make decisions for both short- and long-term planning. 
+
+The list surveys in this information collection are grouped together because they are interrelated probability surveys that make up much of the NASS core estimating program.  An integral part of this estimating program is the area sampling frame used to select the samples for the June Area Frame Survey (JAS).  Indications from this survey are used to estimate the major crops grown, livestock inventories, on-farm grain stocks, and agricultural land values.  Being an area frame survey, all land in a State is represented.  Current Agency survey design utilizes area frame surveys to measure incompleteness of various commodity list frame surveys.  To determine incompleteness, operators found in the area sample are matched against all names on the list frame for that commodity.  When there is a match, the operator is "overlap" and represented by the list frame.  When there is not a match, the operator is "non-overlap" and will be expanded by the inverse of the probability of selection on the area frame to account for incompleteness of the list frame.  The two frame components combine to provide an unbiased estimate of the population.
+
+The JAS is also used to measure incompleteness of the Agricultural Labor Survey, OMB 0535-0109, and the Agricultural Resources Management Study Phase 3, OMB 0535-0275.  The survey also provides the area sampling base for Objective Yield Surveys, OMB 0535-0088; objective yield samples are selected from tracts reporting the crop of interest on the June Agricultural Survey.  Every 5 years, the JAS is combined with additional area frame samples from the Agricultural Coverage Evaluation Survey (ACES) and is used to adjust for nonresponse, under coverage, and misclassification in the Census of Agriculture (0535-0226). The area frame concept helps to ensure that all agricultural areas are accounted for down to the county level.
+
+These surveys are timed to ensure that data collection occurs as infrequently as possible, yet often enough to maintain statistically defensible crop, livestock, and stocks estimates.  These commodities affect the wellbeing of the nation’s farmers, commodities markets, and national and global agricultural policy. 
+
+General authority for these data collection activities is granted under U.S. Code Title 7, Section 2204(a) which specifies that "The Secretary of Agriculture shall procure and preserve all information concerning statistics ... and shall distribute them among agriculturists."
+
+2.Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+Uses of NASS statistical information are extensive and varied.  The producer is the primary user; other users of agricultural statistics are farm organizations, agribusinesses, State and national farm policy makers, foreign buyers of agricultural products, universities, and various researchers.  Federal farm programs require information on acreages, production potential, stocks, prices, and income.  Agricultural statistics are used to plan and administer other related federal and State programs in such areas as consumer protection, conservation, foreign trade, education, and recreation.  Estimates are used by producers to determine production and marketing strategies, by the agricultural industry to assess markets and potential demand for products, and by the federal government to analyze potential and actual production.
+
+Federal agricultural agencies that use information from these surveys are the Economic Research Service, Foreign Agricultural Service, Agricultural Marketing Service, Farm Service Agency and the Risk Management Agency.  The Bureau of Economic Analysis in the Department of Commerce is a major non-USDA agency that uses data from this information collection to prepare national and regional estimates of farm income and products.  The Forest Service and Department of Interior use data collected on forage values to establish public land grazing rates in Western States.
+
+Several agricultural agencies utilize NASS data to carry out programs required by legislation.  Examples are the school lunch program, administration of marketing orders, grazing fee rates, and establishment of foreign trade policies.  The Secretary of Agriculture uses information collected to help determine agricultural policy.
+
+
+
+
+Agricultural Crop Data
+
+Agricultural Crop Data changes very quickly throughout the year. The most dominant factor in these changes is weather. Too much or too little rain, late snows in the springtime, early frost in the fall, hail or wind damage can all have major impacts on inventory, production, stocks, values, etc. The surveys included in this Information Collection Request are many of the core surveys conducted by NASS.  
+
+The March Agricultural Survey asks questions about acres planted and to be planted for all purposes this spring and summer. 
+The June Agricultural Survey asks similar questions to those asked in March, however the data reported deals more with acres that are actually planted, whereas in March they were for the most part planting intentions.
+The September Agricultural Survey asks questions related to production or yield of the small grains or cereal grains (all wheat varieties, barley oats, and rye). 
+The December Agricultural Survey asks questions related to production or yield for the field crops (corn, soybeans, sorghum, cotton, peanuts, rice, edible beans, sunflowers, alfalfa and other hay crops).
+In each of these quarterly surveys, data is also collected for on-farm storage capacity and grains and oilseeds stored on the farm on the reference periods of March 1, June 1, September 1, and December 1. 
+In some of the states, the data is broken out further to collect crop data based on acres irrigated and non-irrigated practices. 
+Since actual production cannot be measured until the end of the growing season, which can vary greatly from the northern states to the southern states, NASS also conducts monthly Agricultural Yield surveys.  These surveys collect projected and/or actual data from farmers on a monthly basis. In addition, we ask if the harvesting has been completed for each crop, so we have a better understanding if the data is a projection or if it reflects actual production.
+Since the land used for farming and the people who operate farms are constantly changing NASS uses the June Area Survey to reflect acres that are taken out of production or put back into production and the number of farm operators who become farmers or who leave this profession.  A portion of these operators are included in the other quarterly surveys to measure these changes each quarter.
+
+Agricultural Livestock Data
+
+Agricultural Livestock Data are also collected under this OMB Information Collection Request.  Data for cattle, hogs, sheep and goats are included in several quarterly surveys.
+ 
+In the January and July Cattle Reports, data are collected for inventory numbers for beef cows, milk cows, bulls, heifers, steers, and calves.
+In the January Cattle Report additional data are collected for calf crop, deaths and losses, cattle and calves on feed, inventory values by type, home consumption, calves born on grazing land leased on a fee per head or animal unit month (AUM) basis
+The July Cattle Report is a follow-up survey to the January survey to measure overall change from the January data.
+The Cattle on Feed Inquiry is a monthly survey that is conducted of all operations that have the capacity to handle at least 1,000 head of beef cattle per month. Data is collected on the number of head on each operation for six different weight classes along with information about the disposition of the animals (returned to grazing, placed on someone else’s feedlot, shipped to slaughter, etc.). In addition, the value, type, quality and quantity of hay purchased by each operation is collected.
+An additional Cattle on Feed Inquiry for operations with less than 1,000 head capacity is conducted in Iowa. This survey is also conducted monthly. However, the January version is a census of all smaller operations in Iowa which is then sampled for the other 11 months of the year. This additional data collection is completed under a cooperative agreement with the Iowa Department of Agriculture and Land Stewardship (IDALS) under full cost recovery.
+The Hog Report collects quarterly inventory data on sows and gilts, boars, and market hogs and pigs by weight class. In addition, data is collected on inventory value, farrowings and pig crop, hog ownership (owner/operator vs contractor/contractee), and home consumption.
+The Sheep and Goat Report is conducted in January.  For sheep and lambs, data are collected for breeding inventory, custom fed for marketing, market inventory by weight class, wool production, wool prices and inventory values.  Similar inventory data are collected for goats and kids except it is broken out by breed (Angora, milk goats and meat goats).  
+The January 2026 Cattle Survey will contain additional death loss questions in response to a cooperative agreement between NASS and the Animal and Plant Health Inspection Service (APHIS)
+The January 2025 and 2026 Sheep and Goat Report will contain additional death loss questions for goats in response to a cooperative agreement between NASS and the Animal and Plant Health Inspection Service (APHIS). 
+There are multiple versions of the sheep and goat questionnaire which varies slightly for different regions of the United States: 
+
+Eastern states ask sheep and goats on the land operated,
+Western states ask sheep and goats owned,
+Eastern states ask lamb and sheep deaths,
+Western states ask sheep and lambs before and after docking,
+ID, OR, MT, UT and WY have External Project Agreement’s (EPA’s) with NASS to ask sheep Predator loss questions every year.
+TX asks additional questions dealing with Angora does.
+
+Other Agricultural Data 
+
+The On Farm Rice Stocks Survey is conducted in August to find out how much rice from the three classes (long, medium and short grain) from previous seasons is still on hand on August 1.
+The Agricultural Land Value Survey is conducted from April to June to collect value of cropland, pastureland, and all farmland and buildings for the current year. In odd years, technology use questions are asked to assess availability and use of technology on agricultural operations.    
+The Agricultural Coverage Evaluation Survey (ACES) is conducted during the Census of Agriculture reference year and is used in combination with the June Area Survey to adjust for non-response, under coverage, and misclassification of the Census of Agriculture estimates. The next ACES survey will be conducted in June 2027.
+
+3.Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.
+
+Nearly all of NASS information collections have been converted to Web-based data collections, what NASS calls Computer-Aided Self-Administered Interview or CASI.  A small number of questionnaires are impractical or otherwise unsuitable for CASI.  A Survey Designer System has been built which enables the simultaneous creation of comparable paper and Web based survey instruments for each survey.  The percentage of farmers and ranchers that employ the use of the Web to report their data on these surveys in 2022 was 4.2 percent.  NASS is investigating ways to encourage more respondents in using this cost effective means of data collection. 
+
+The main portal for our on-line surveys is http://www.agcounts.usda.gov.  Once there, the respondents have to enter the valid survey code and the user ID printed on the label of the questionnaire mailed to them.  In order to protect the respondent’s information along with the data, we limit access to the Web pages to only those chosen to complete the survey and they can only access the questionnaire(s) they are selected to complete.
+
+
+4.Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purposes described in Item 2 above.
+
+There are no changes from the original approval for this substantive change request.
+
+NASS cooperates with other agencies in the Department of Agriculture, State and local governments, State departments of agriculture, and land grant universities to conduct agricultural surveys.  Examples of this effort are the integration of questions into the January Cattle Survey and the January Sheep and Goat Survey every five years (sheep data was collected in January 2025) to collect non-ambulatory data for APHIS NAHMS.  This cooperation provides information meeting both State and federal needs, thus minimizing duplication and reporting burden on the agricultural industry.  The death loss questions are scheduled to be rotated into the January 2025 Sheep and Goat Survey (to collect data on goats) and the January 2021 Cattle Survey.  In addition, NASS collects death loss data in four states (Colorado, Montana, Utah, and Wyoming) annually on sheep through cooperative agreements with each state. Periodically, NASS collects similar data in Idaho and Oregon for sheep. 
+
+NASS takes every precaution to ensure that respondents are not visited or interviewed unnecessarily.  Through the use of computer databases, the name, address, and previous crops grown by respondents are maintained and not asked repeatedly for each survey.  If a respondent grows or raises more than one commodity, information for all commodities is obtained during one interview.  If the respondent is in the sample for more than one survey in the same data collection period the Regional and State Field Offices will coordinate the data collection and the respondent will be contacted only once to complete the different surveys.
+
+5.If the collection of information impacts small businesses or other small entities (Item 5 of OMB Form 83-I), describe any methods used to minimize burden.
+
+Sampling techniques can minimize unnecessary contacts by ensuring that respondents with a low likelihood of having the item of interest are sampled at a very low rate.  Under the current survey concept, operations with multiple commodities have a chance for selection in only one survey as opposed to multiple chances using commodity-specific surveys.  A replicated sampling scheme is utilized to minimize burden.  Most responses can be supplied without resorting to record books, which keeps burden to a minimum.
+
+Approximately 86 percent of the operations in the sample are small businesses (as defined in the Small Business Administration’s Table of Small Business Size Standards: 
+
+SBA Table of Size Standards
+
+6.Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+There are no changes from the original approval for this substantive change request.
+
+Less frequent data collection would eliminate data needed to keep the 
+Government and agricultural industry abreast of changes at the State and
+National levels.  Timing and frequency of the various reports dependent on these surveys have evolved to meet the needs of government and the industry while minimizing the burden on the reporting public.
+
+7.Explain any special circumstances that would cause an information collection to be conducted in a manner inconsistent with the general information guidelines in 5 CFR 1320.5.
+
+There are no changes from the original approval for this substantive change request.
+
+There are no special circumstances associated with this information collection.
+
+8.Provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8 (d), soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.
+
+There are no changes from the original approval for this substantive change request.
+
+The Federal Register Notice soliciting comments was published on September 12, 2023 on pages 62530 - 62531.  NASS received two public comments:  One from Dr. Dennis Fixler, Chief Statistician for the Bureau of Economic Analysis strongly supports the NASS Agricultural Surveys Program.  The other was from Marian Drake regarding the "Fruit Fly Bar Pro Fly Strip" biocide.  This Information Collection Request does not include chemical use surveys.
+
+Describe efforts to consult with persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and record-keeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.
+
+There are no changes from the original approval for this substantive change request.
+
+NASS’s Research and Development Division (RDD) established a cooperative agreement with the National Research Council’s Committee on National Statistics (CNSTAT) to organize a public workshop on model-based methods for producing estimates of livestock with appropriate measures of uncertainty. The workshop panel provided feedback on the appropriateness of the models and suggested improvements and possible alternative approaches. NASS is moving forward based on this feedback.
+
+NASS’s RDD has partnered with the University of Florida to develop a Decision Support System that is a compilation of robust-science-based tools that identify, measure, and monitor the effect of climate variability and extreme weather events on crop yields during the growing season. The system is being tested as a tool for developing components of NASS’s weekly Crop Progress and Condition Report. 
+
+NASS’s RDD collaborates with Worcester Polytechnic Institute to develop small area models for county estimates. Recent efforts have focused on county estimates of planted acreage, harvested acreage, yield and production of all crops for which NASS is mandated to produce county-level estimates on an annual basis. Farm labor and cash rents are two other county-level small area models that are under development. 
+
+NASS’s RDD has initiated collaborative efforts with Texas A&M University and the USDA Agricultural Research Service to evaluate the potential of using geospatial data, such as remote sensing, administrative, soil, and weather, as a foundation for its agricultural estimates and census programs. Survey and census data would be used to correct for biases in other data sources and to provide information not available from other sources.
+
+NASS consults with the Economic Research Service (ERS) regarding cross-tabulations of type and size of farms, land use patterns and land values, and rental rates.  NASS also collaborates with the National Animal Health Monitoring System (APHIS) for collection of information on animal health management.  Data from some of the surveys included in this Information Collection Request are used by several different USDA agencies, including Risk Management Agency (RMA), Farm Service Agency (FSA), Agricultural Marketing Service (AMS), and Natural Resource Conservation Service (NRCS).  NASS also receives regular feedback and input from the Ag Advisory Committee on our various programs.
+
+Throughout the year, numerous NASS statisticians and managers attend private industry and producer’s association meetings around the country.  They take note of changes within the various industries and update our data collection instruments when possible, to keep our data current and useful to all data users.  In addition, various commodity groups will send representatives to NASS data releases and ask questions regarding survey methodology, sampling, timing of surveys, etc. This helps to improve transparency and understanding of the data collected and published by NASS.
+
+9.Explain any decision to provide any payment or gift to respondents.
+
+There are no changes from the original approval for this substantive change request.
+
+There are no payments or gifts to respondents.
+
+10.Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+Questionnaires include a statement that individual reports are confidential.  U.S. Code Title 18, Section 1905; U.S. Code Title 7, Section 2276; and the Confidential Information Protection and Statistical Efficiency Act of 2018, Title III of Pub. L. No. 115-435, codified in 44 U.S.C. Ch. 35 and other applicable Federal laws. All employees of NASS and all enumerators hired and supervised under a cooperative agreement with the National Association of State Departments of Agriculture (NASDA) must read the regulations and sign a statement of compliance.  
+
+The following CIPSEA Pledge statement will appear on all future NASS questionnaires.
+
+The information you provide will be used for statistical purposes only. Your responses will be kept confidential and any person who willfully discloses ANY identifiable information about you or your operation without your consent is subject to a jail term, a fine, or both. This survey is conducted in accordance with the Confidential Information Protection and Statistical Efficiency Act of 2018, Title III of Pub. L. No. 115-435, codified in 44 U.S.C. Ch. 35 and other applicable Federal laws. For more information on how we protect your information please visit: https://www.nass.usda.gov/confidentiality.
+
+All individuals who may access these confidential data for research are also covered under Titles 18 and CIPSEA and must complete a Certification and Restrictions on Use of Unpublished Data (ADM-043) agreement.
+
+
+11.Provide additional justification for any questions of a sensitive nature.
+
+There are no changes from the original approval for this substantive change request.
+
+There are no questions of a sensitive nature.
+
+12.Provide estimates of the hour burden of the collection of information.  The statement should indicate the number of respondents, frequency of response, annual hour burden, and an explanation of how the burden was estimated.  If this request for approval covers more than one form, provide separate hour burden estimates for each form and aggregate the hour burdens in Item 13 of OMB Form 83-I.  Provide estimates of annualized cost to respondents for the hour burdens for collections of information, identifying and using appropriate wage rate categories.
+
+The renewal has a sample size of 596,600, a total number of 1,288,545 responses and a total of 206,959 burden hours.
+
+Average minutes per response for the surveys included in this Information Collection Request are based on the amount of data asked on each questionnaire and the time needed for respondents to find and report the data. Total hours of burden is shown in the tables below.
+
+Cost to the public of completing a questionnaire is assumed to be comparable to the hourly rate of those requesting the data. Reporting time of 206,959 hours is multiplied by $45.32 per hour for a total cost to the public of $9,379,381.88.
+
+NASS uses the Bureau of Labor Statistics’ Occupational Employment Statistics (most recently published on April 2, 2025 for the previous May) to estimate an hourly wage for the burden cost. The May 2024 mean wage for bookkeepers was $25.01. The mean wage for farm managers was $46.75. The mean wage for farm supervisors was $30.46. The mean wage of the three is $34.07. To calculate the fully loaded wage rate (includes allowances for Social Security, insurance, etc.) NASS will add 33% for a total of $45.32 per hour.
+
+
+
+
+
+13.Provide an estimate of the total annual cost burden to respondents or record-keepers resulting from the collection of information.
+
+There are no changes from the original approval for this substantive change request.
+
+There are no capital/start-up or ongoing operation/maintenance costs associated with this information collection.
+
+14.Provide estimates of annualized cost to the Federal government; provide a description of the method used to estimate cost which should include quantification of hours, operational expenses, and any other expense that would not have been incurred without this collection of information.
+
+There are no changes from the original approval for this substantive change request.
+
+The total annual cost to the Federal government for the Agricultural Surveys Program is expected to remain at $32.0 million. The majority of this cost is for staffing and data collection. The fully loaded wage rate includes allowances for Social Security, insurance, etc.
+
+15.Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I (reasons for changes in burden).
+
+There are two sources of program changes in this change request: one is due to the reinstatement of the Agricultural Coverage Evaluation Survey (ACES), which is only conducted during the Census of Agricultural reference years. The other is to increase the sample size for the Crop Acreage and Grain Stocks (Quarterly Agricultural Surveys). The Quarterly Agricultural Surveys had a significant increase in sample size to preserve coverage and maintain the reliability of key commodity estimates. 
+
+
+
+
+
+
+
+16.For collections of information whose results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+
+Each Regional Field Office (RFO) is responsible for manually editing questionnaires.  The JAS surveys are still conducted on paper and the field and tract level data are drawn off on aerial photographs.  Due to the amount of work that is involved with this survey in collecting information, editing, analyzing and reviewing of summarized data, NASS must incorporate all of our Regional Field Offices to help conduct this survey and complete the work in a very short period of time.  In order to maintain consistent handling and analysis of the data, NASS conducts a National training workshop through our Regional Field Office located in St. Louis, MO during the last week of April.  Each of our offices is provided with editing guidelines and estimation manuals to help insure that all questionnaires are edited in a consistent manner. After the data has been key entered and run through computer edits, detailed computer analyses and summaries of the data are provided by Headquarters to each RFO for evaluation and estimation.  In Headquarters, State summaries and estimates are combined to regional and U.S. totals.
+
+Collection of data from the June Area Survey and the June Quarterly Agricultural Survey will be done the last day of May through mid-June.  In late June estimates of crop acreage will be published in the Acreage report: 
+
+https://usda.library.cornell.edu/concern/publications/j098zb09z.
+
+The other three quarterly Agricultural Surveys will also be published following each survey:
+
+March – Planting Intentions: 
+
+https://usda.library.cornell.edu/concern/publications/x633f100h.
+
+September – Small Grains Summary: 
+
+https://usda.library.cornell.edu/concern/publications/5t34sj573?locale=en
+
+December – Crop Production – Annual Summary:
+
+https://usda.library.cornell.edu/concern/publications/k3569432s?locale=en.
+
+Technology Use questions are added to the Agricultural Land Values survey in every odd-numbered year to collect data that are used to produce the Technology Use report at 
+
+https://usda.library.cornell.edu/concern/publications/h128nd689.  
+
+The report presents data on farm computer usage, including computer access, ownership or leasing, farm business use, and internet access.
+
+The quarterly Hogs and Pigs report is generally released on the last Thursday of the survey month, except for the December report which must be released at least one day prior to one full commodity market trading day. Hog and pig data will be published in the Quarterly Hogs and Pigs report:
+
+https://usda.library.cornell.edu/concern/publications/rj430453j?locale=en.
+
+Grain stocks and crop acreage and/or production estimates are released four to six weeks after the survey reference date in a quarterly acreage release and the annual summary.  Grain stocks will be published in the Grain Stocks report:  
+
+https://usda.library.cornell.edu/concern/publications/xg94hp534?locale=en
+
+Farm numbers will be published in Farms and Land in Farms in mid – February:
+
+https://usda.library.cornell.edu/concern/publications/5712m6524.
+
+The Agricultural Surveys data collection reference date for livestock inventories and grain stocks are the first of the survey month.  Crop acreage and production are collected for the current crop year.  The majority of all data are collected during the first 15 working days of the month.  All release dates for the year are scheduled at one time and a release calendar is published and distributed prior to January 1.
+
+Data collection for the Agricultural Yield Surveys centers on the first of the month, starting about 3 days prior to the date to which the report relates. 
+
+https://usda.library.cornell.edu/concern/publications/tm70mv177.
+
+Data collected for the January and July Cattle Reports are generally released during the last weeks of January and July, respectively. 
+
+https://usda.library.cornell.edu/concern/publications/h702q636h?locale=en.
+
+The Cattle On Feed reports are generally released during the third week of the month.  Monthly estimates of inventory, placements, marketings, and other disappearance of cattle in 1,000+ (capacity) feedlots are published for the eleven largest States, for “Other States,” and for the U.S.
+
+https://usda.library.cornell.edu/concern/publications/m326m174z?locale=en.
+
+The Agricultural Land Values report is based on the expanded Agricultural Land Values survey, now conducted in 48 states.  Land is grouped by economic regions: Northeast, Lake States, Corn Belt, Northern Plains, Appalachian, Southeast, Delta States, Southern Plains, Mountain, and Pacific. The data are published the first week of August.
+
+https://usda.library.cornell.edu/concern/publications/pn89d6567 
+
+
+Data from the January Sheep and Goat Report are generally released during the last week of January.  
+
+https://usda.library.cornell.edu/concern/publications/000000018?locale=en. 
+
+Data from the On Farm Rice Stocks Survey are collected in the same 6 states (AR, CA, LA, MS, MO, and TX) that the off-farm rice stocks (OMB # 0535-0007) data are collected.  The combined data report is published in January, March, June, August (CA only) and October.
+
+https://usda.library.cornell.edu/concern/publications/d791sg19j. 
+
+Data from Iowa’s additional Cattle on Feed Inquiry (funded under a cooperative agreement with Iowa Department of Agriculture and Land Stewardship) for operations with less than 1,000 head capacity is included with the State’s monthly Cattle on Feed release.
+
+https://www.nass.usda.gov/Statistics_by_State/Iowa/Publications/Livestock_Report/.
+
+Data from State-funded sheep and lamb death loss questions are published separately on the State Field Office page on NASS’ website.  This example is for Utah:
+
+https://www.nass.usda.gov/Statistics_by_State/Utah/Publications/Special_Interest_Reports/index.php.
+
+
+
+Survey Schedule: Data Collection and Publication
+Survey | Data Collection  | Release Date  | Publication
+June Area – Agricultural Survey | Jun | late June | Acreage, Hogs and Pigs, Grain Stocks
+ |  | Mid-Feb | Farms  and  Land in Farms
+Agricultural Survey | Mar | late Mar | Prospective Plantings, Grain Stocks, Rice Stocks
+ | Jun | late Jun | Acreage, Grain Stocks,  Rice  Stocks
+ | Sep | late Sep | Grain Stocks, Small Grains Summary
+ | Dec | mid-Jan | Crop Production Annual Summary, Grain Stocks,  Rice  Stocks
+Ag Yield Survey | May- Nov | mid-month | Crop Production, Monthly
+Cattle Report | Jan | Last week of Jan | Cattle
+ | Jul | 4 th  week Jul | 
+Cattle on Feed | Jan  –  Dec | 3 rd  week of each month | Cattle on Feed
+Hog Report | Qtrly | last  Thurs day  in survey month | Hogs and Pigs
+Agricultural Land Values | Apr  -  Jun | 1 st  week Aug | Land Values , Technology Use ( odd   years  only)
+Sheep  and Goat  Report | Jan | 4 th  week Jan | Sheep and Goats
+On Farm Rice Stocks | Aug |   3 rd  week  Aug | Rice Stocks
+
+
+
+Release dates for all surveys are published in advance on the NASS Web Home Page, www.nass.usda.gov.  Publications are available on-line immediately after release at http://www.nass.usda.gov/Statistics_by_Subject/index.php.  Once there, you can select the Sector, Group, Commodity, and Data Item you wish to review for a specific commodity or publication.
+
+Access NASS Data and Publications
+
+NASS Data: Quick Stats Database
+NASS Publications: Publications Portal
+
+
+17.If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+
+There are no changes from the original approval for this substantive change request.
+
+No approval is requested for non-display of the expiration date.
+
+18.Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions” of OMB Form 83-I.
+
+
+There are no changes from the original approval for this substantive change request.
+
+There are no exceptions to the certification statement.
+
+March 2026

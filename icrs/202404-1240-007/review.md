@@ -1,28 +1,28 @@
 # Claim for Medical Reimbursement Form
 
-Provisional review. 202404-1240-007; sources SRC-0168, SRC-0167.
+Reviewed under rubric1.0.0. 202404-1240-007; sources SRC-0167, SRC-0168.
 
-Score 64/100. Public documentation only. extensive statement; moderate complexity.
+Score 64/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 16. Programcountsand10mintimeclear; earlyroundingandgovernmentstaletotals.
+- reproducibility: 16/20. Programcountsand10mintimeclear; earlyroundingandgovernmentstaletotals.
 
-- provenance: 9. FY2023administrativereceiptsandOPMgradesidentified; respondentwageyearunclear.
+- provenance: 9/15. FY2023administrativereceiptsandOPMgradesidentified; respondentwageyearunclear.
 
-- segmentation: 12. Threebenefitprograms,contractprocessing/manualexceptionsseparated.
+- segmentation: 12/15. Threebenefitprograms,contractprocessing/manualexceptionsseparated.
 
-- labor: 5. All-worker36.43proxywithnospecificsourceyear; householdopportunityscopeexplicit.
+- labor: 5/10. All-worker36.43proxywithnospecificsourceyear; householdopportunityscopeexplicit.
 
-- item13: 8. 97%electronic/3%mail,postage/envelopepriced;postaldatecitationquestionable.
+- item13: 8/10. 97%electronic/3%mail,postage/envelopepriced;postaldatecitationquestionable.
 
-- item14: 5. UnitcontractcostandfederalFTEsharesdetailed buttotalsretainoldcontractprices.
+- item14: 5/10. UnitcontractcostandfederalFTEsharesdetailed buttotalsretainoldcontractprices.
 
-- item15: 5. 5738->9029reasonincreasedclaims, noinputbridge.
+- item15: 5/10. 5738->9029reasonincreasedclaims, noinputbridge.
 
-- validation: 3. Admincountsandbill-processingsystemexperience; timeassumptionnotvalidated.
+- validation: 3/5. Admincountsandbill-processingsystemexperience; timeassumptionnotvalidated.
 
-- consistency: 1. Costequation3010wronghours; multiplefederaloldnewmixedvalues.
+- consistency: 1/5. Costequation3010wronghours; multiplefederaloldnewmixedvalues.
 
 ## Reconstruction issues
 

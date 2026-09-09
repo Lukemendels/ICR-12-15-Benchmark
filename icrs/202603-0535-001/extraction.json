@@ -1,0 +1,800 @@
+{
+  "icr_id": "202603-0535-001",
+  "omb_control_number": "0535-0213",
+  "agency": "USDA/NASS",
+  "title": "Agricultural Surveys Program",
+  "submission_date": "03/17/2026",
+  "archetype": "agricultural statistical survey portfolio",
+  "complexity": "high",
+  "tsa_relevance": "medium",
+  "review_status": "REVIEWED",
+  "review_iteration": 9,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0188",
+    "SRC-0189"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 10,
+    "segmentation": 15,
+    "labor": 6,
+    "item13": 8,
+    "item14": 4,
+    "item15": 8,
+    "validation": 3,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Embedded tables expose sample, response/nonresponse, frequency and time by survey; early.33/.67annualization.",
+    "provenance": "May2024OEWS dates given, but no SOCs and33%loading source.",
+    "segmentation": "Area/list frame, commodity, cycle, advance material, testing and nonresponse meaningful.",
+    "labor": "Equal three-occupation mean explicit; loading33% assumed and occupational population mix unsupported.",
+    "item13": "Explicit no capital/O&M for survey, consistent with existing records.",
+    "item14": "32million budget with staffing/data collection description, no allocation equations.",
+    "item15": "Response/nonresponse hours old/current/difference and named program additions; driver-level split incomplete.",
+    "validation": "Sampling designed to reduce duplicate selection; time based on questionnaire content, not measured distribution.",
+    "consistency": "Sample596600 differs from447630+157970=605600; early rounding and labels require interpretation."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Area advance",
+        28000.0,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "Area advance nonresponse",
+        6999.999999999998,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Area agriculture",
+        28000.0,
+        0.3333333333333333,
+        null
+      ],
+      [
+        "Area agriculture nonresponse",
+        6999.999999999998,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Area nonag",
+        45000,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "Area nonag nonresponse",
+        0,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Area QC",
+        1200.0,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "Area QC nonresponse",
+        299.99999999999994,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Area testing",
+        40.0,
+        0.3333333333333333,
+        null
+      ],
+      [
+        "Area testing nonresponse",
+        9.999999999999998,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "ACES advance",
+        3960.0,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "ACES advance nonresponse",
+        989.9999999999998,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "ACES agriculture",
+        3960.0,
+        0.25,
+        null
+      ],
+      [
+        "ACES agriculture nonresponse",
+        989.9999999999998,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "ACES nonag",
+        6600.0,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "ACES nonag nonresponse",
+        0.0,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "ACES QC",
+        396.0,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "ACES QC nonresponse",
+        98.99999999999997,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Yield advance",
+        76000.0,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "Yield advance nonresponse",
+        18999.999999999996,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Yield May",
+        11200.0,
+        0.16666666666666666,
+        null
+      ],
+      [
+        "Yield May nonresponse",
+        2799.9999999999995,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Yield Jun",
+        8800.0,
+        0.16666666666666666,
+        null
+      ],
+      [
+        "Yield Jun nonresponse",
+        2199.9999999999995,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Yield Jul",
+        10400.0,
+        0.16666666666666666,
+        null
+      ],
+      [
+        "Yield Jul nonresponse",
+        2599.9999999999995,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Yield Aug",
+        18400.0,
+        0.16666666666666666,
+        null
+      ],
+      [
+        "Yield Aug nonresponse",
+        4599.999999999999,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Yield Sep",
+        9200.0,
+        0.16666666666666666,
+        null
+      ],
+      [
+        "Yield Sep nonresponse",
+        2299.9999999999995,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Yield Oct",
+        9600.0,
+        0.16666666666666666,
+        null
+      ],
+      [
+        "Yield Oct nonresponse",
+        2399.9999999999995,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Yield Nov",
+        8400.0,
+        0.16666666666666666,
+        null
+      ],
+      [
+        "Yield Nov nonresponse",
+        2099.9999999999995,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Cattle advance",
+        46400.0,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "Cattle advance nonresponse",
+        11599.999999999998,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Cattle Jan standard",
+        19229.0,
+        0.5,
+        null
+      ],
+      [
+        "Cattle Jan standard nonresponse",
+        8241.000000000002,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Cattle Jan expanded",
+        9471.0,
+        0.6666666666666666,
+        null
+      ],
+      [
+        "Cattle Jan expanded nonresponse",
+        4059.0000000000005,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Cattle July",
+        13600.0,
+        0.3333333333333333,
+        null
+      ],
+      [
+        "Cattle July nonresponse",
+        3399.999999999999,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Feed IA advance",
+        6000.0,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "Feed IA advance nonresponse",
+        1499.9999999999998,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Feed IA February",
+        6000.0,
+        0.25,
+        null
+      ],
+      [
+        "Feed IA February nonresponse",
+        1499.9999999999998,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Feed IA rest",
+        8800.0,
+        0.25,
+        null
+      ],
+      [
+        "Feed IA rest nonresponse",
+        2199.9999999999995,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Feed US advance",
+        1680.0,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "Feed US advance nonresponse",
+        419.9999999999999,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Feed US",
+        20160.0,
+        0.25,
+        null
+      ],
+      [
+        "Feed US nonresponse",
+        5039.999999999999,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Quarterly advance",
+        232399.99999999997,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "Quarterly advance nonresponse",
+        99600.00000000001,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Quarterly March",
+        58799.99999999999,
+        0.3333333333333333,
+        null
+      ],
+      [
+        "Quarterly March nonresponse",
+        25200.000000000004,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Quarterly June",
+        65099.99999999999,
+        0.3333333333333333,
+        null
+      ],
+      [
+        "Quarterly June nonresponse",
+        27900.000000000004,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Quarterly Sep",
+        50400.0,
+        0.4166666666666667,
+        null
+      ],
+      [
+        "Quarterly Sep nonresponse",
+        21600.000000000004,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Quarterly Dec",
+        58099.99999999999,
+        0.3333333333333333,
+        null
+      ],
+      [
+        "Quarterly Dec nonresponse",
+        24900.000000000004,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Loss survey",
+        4000.0,
+        0.16666666666666666,
+        null
+      ],
+      [
+        "Loss survey nonresponse",
+        999.9999999999998,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Hog advance",
+        15609.999999999998,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "Hog advance nonresponse",
+        6690.000000000001,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Hog March",
+        3570.0,
+        0.16666666666666666,
+        null
+      ],
+      [
+        "Hog March nonresponse",
+        1530.0000000000002,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Hog June",
+        3570.0,
+        0.16666666666666666,
+        null
+      ],
+      [
+        "Hog June nonresponse",
+        1530.0000000000002,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Hog Sep",
+        3570.0,
+        0.16666666666666666,
+        null
+      ],
+      [
+        "Hog Sep nonresponse",
+        1530.0000000000002,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Hog Dec",
+        5600.0,
+        0.16666666666666666,
+        null
+      ],
+      [
+        "Hog Dec nonresponse",
+        1399.9999999999998,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Land even",
+        14070.0,
+        0.3333333333333333,
+        null
+      ],
+      [
+        "Land even nonresponse",
+        6030.000000000001,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Land odd",
+        6930.0,
+        0.3333333333333333,
+        null
+      ],
+      [
+        "Land odd nonresponse",
+        2970.0000000000005,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Rice",
+        850.0,
+        0.25,
+        null
+      ],
+      [
+        "Rice nonresponse",
+        150.00000000000003,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Sheep advance",
+        16800.0,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "Sheep advance nonresponse",
+        7200.000000000001,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Sheep standard",
+        5544.0,
+        0.5,
+        null
+      ],
+      [
+        "Sheep standard nonresponse",
+        2376.0000000000005,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "Sheep expanded",
+        12864.000000000002,
+        0.6666666666666666,
+        null
+      ],
+      [
+        "Sheep expanded nonresponse",
+        3215.9999999999995,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "List QC",
+        2400.0,
+        0.08333333333333333,
+        null
+      ],
+      [
+        "List QC nonresponse",
+        599.9999999999999,
+        0.03333333333333333,
+        null
+      ],
+      [
+        "List testing",
+        80.0,
+        0.16666666666666666,
+        null
+      ],
+      [
+        "List testing nonresponse",
+        19.999999999999996,
+        0.03333333333333333,
+        null
+      ]
+    ],
+    "labor": {
+      "base_wages": [
+        25.01,
+        46.75,
+        30.46
+      ],
+      "mean_reported": 34.07,
+      "benefit_markup": 0.33,
+      "loaded": 45.32,
+      "hours": 206959,
+      "reported": 9379381.88
+    },
+    "item13": {
+      "reported": 0,
+      "reason": "No capital/start-up or ongoing operations/maintenance"
+    },
+    "item14": {
+      "reported": 32000000,
+      "method": "Program budget, mainly staffing and data collection; no workload allocation"
+    },
+    "item15": {
+      "old_hours": 190943,
+      "new_hours": 206959,
+      "delta": 16016,
+      "response_hours_delta": 15087,
+      "nonresponse_hours_delta": 929,
+      "programs": [
+        "ACES reinstatement",
+        "Quarterly sample increase"
+      ]
+    },
+    "assumptions": [
+      "Nonresponse2minutes; response rates vary70–85%; advance reading separate.",
+      "Frequency.33/.67 approximates one/two years inthree, not exact fractions.",
+      "Agricultural area sampling avoids repeated commodity-specific selection."
+    ]
+  },
+  "reconstruction_issues": [
+    "Published sample596600 differs from sum447630respondents+157970nonrespondents=605600; sample identities/overlap require clarification.",
+    "Uniform33%loading has no specific empirical source and equal occupation weights not validated.",
+    "Federal32million total lacks quantitative components."
+  ],
+  "methods_worth_testing": [
+    "Include advance materials, nonresponse and quality-control contacts as separate activities.",
+    "Keep evidence for sample overlap and publication burden distinct from survey output precision."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "196035+10924",
+      "calculated": 206959,
+      "reported": 206959,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact aggregate.",
+      "source_id": "SRC-0189",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    },
+    {
+      "label": "Labor",
+      "formula": "206959*45.32",
+      "calculated": 9379381.88,
+      "reported": 9379381.88,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0189",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    },
+    {
+      "label": "Bridge",
+      "formula": "190943+15087+929",
+      "calculated": 206959,
+      "reported": 206959,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0189",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    },
+    {
+      "label": "Sample count",
+      "formula": "447630+157970",
+      "calculated": 605600,
+      "reported": 596600,
+      "difference": 9000,
+      "unit": "sample units",
+      "interpretation": "9000 discrepancy; overlap not established.",
+      "source_id": "SRC-0189",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    }
+  ],
+  "total_score": 75,
+  "complexity_original": "high",
+  "tsa_relevance_original": "medium",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0188",
+        "SRC-0189"
+      ],
+      "section": "Item12",
+      "rationale": "Embedded tables expose sample, response/nonresponse, frequency and time by survey; early.33/.67annualization."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0188",
+        "SRC-0189"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "May2024OEWS dates given, but no SOCs and33%loading source."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0188",
+        "SRC-0189"
+      ],
+      "section": "Item12",
+      "rationale": "Area/list frame, commodity, cycle, advance material, testing and nonresponse meaningful."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0188",
+        "SRC-0189"
+      ],
+      "section": "Item12",
+      "rationale": "Equal three-occupation mean explicit; loading33% assumed and occupational population mix unsupported."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0188",
+        "SRC-0189"
+      ],
+      "section": "Item13",
+      "rationale": "Explicit no capital/O&M for survey, consistent with existing records."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0188",
+        "SRC-0189"
+      ],
+      "section": "Item14",
+      "rationale": "32million budget with staffing/data collection description, no allocation equations."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0188",
+        "SRC-0189"
+      ],
+      "section": "Item15",
+      "rationale": "Response/nonresponse hours old/current/difference and named program additions; driver-level split incomplete."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0188",
+        "SRC-0189"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Sampling designed to reduce duplicate selection; time based on questionnaire content, not measured distribution."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0188",
+        "SRC-0189"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Sample596600 differs from447630+157970=605600; early rounding and labels require interpretation."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202603-0535-001/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 0535-0213 | ICR Reference No: 202603-0535-001 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202601-0535-016 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 04/22/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 04/22/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 03/17/2026"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 03/17/2026 | Terms of Clearance: The change request to increase the sample size to counteract declining response rates is approved. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0189",
+        "document_date": "03/11/2026"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
+}

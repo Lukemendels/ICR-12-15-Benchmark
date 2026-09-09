@@ -6,8 +6,8 @@
   "submission_date": "02/12/2025",
   "archetype": "pipeline imports technology pilot",
   "complexity": "medium",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 2,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -107,7 +107,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0044"
+      "source_id": "SRC-0044",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal hours",
@@ -117,7 +119,9 @@
       "difference": 566,
       "unit": "hours",
       "interpretation": "Material error",
-      "source_id": "SRC-0044"
+      "source_id": "SRC-0044",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal cost from stated workload",
@@ -127,7 +131,9 @@
       "difference": 39727.44,
       "unit": "USD",
       "interpretation": "Material error",
-      "source_id": "SRC-0044"
+      "source_id": "SRC-0044",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Loaded wage",
@@ -137,10 +143,123 @@
       "difference": -0.0039645845272744396,
       "unit": "USD/hour",
       "interpretation": "Rounding",
-      "source_id": "SRC-0044"
+      "source_id": "SRC-0044",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 57,
   "table_evidence_path": "icrs/202411-1651-004/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "medium",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0043",
+        "SRC-0044"
+      ],
+      "section": "Item12",
+      "rationale": "24*12*4 clear; notice says4minutes instead of4hours."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0043",
+        "SRC-0044"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "OEWS/ECEC/BEA exact sources,years,inputs; internal federal pay email identified but inaccessible."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0043",
+        "SRC-0044"
+      ],
+      "section": "Item12",
+      "rationale": "Pilot importers homogeneous assumption; no industry segment times."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0043",
+        "SRC-0044"
+      ],
+      "section": "Item12",
+      "rationale": "Median cargo/freight proxy plus occupational benefits and explicit GDP price transformation."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0043",
+        "SRC-0044"
+      ],
+      "section": "Item13",
+      "rationale": "Unpriced provider fee netted against broad industry savings; no gross collection-cost estimate."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0043",
+        "SRC-0044"
+      ],
+      "section": "Item14",
+      "rationale": "288responses*2hours asserted to equal10hours; substantive error."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0043",
+        "SRC-0044"
+      ],
+      "section": "Item15",
+      "rationale": "New collection clear; explicit zero-to-new table absent."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0043",
+        "SRC-0044"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "13 Canadian exporters inform claimed savings but extrapolation not supplied."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0043",
+        "SRC-0044"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Hours/minutes conflict; federal multiplication wrong; net savings do not establish zero gross costs."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1651-0148 | ICR Reference No: 202411-1651-004 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: | Agency/Subagency: DHS/USCBP"
+    },
+    {
+      "line": 71,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 05/20/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 74,
+      "text": "Conclusion Date: 05/20/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 02/12/2025"
+    },
+    {
+      "line": 79,
+      "text": "Date Received in OIRA: 02/12/2025 | Terms of Clearance: OIRA approves this collection as a pilot program that CBP will learn from as it looks to expand the GIS program. Going forward, we expect that CBP will work to ensure the data standard is open source and will ensure that additional software platforms and service providers will be able to enter the market to facilitate GIS data submissions. Further, OIRA acknowledges that this pilot collection is useful for testing the program's feasibility, but we note that there is selection bias in the participation in this pilot because of its voluntary nature in a technologically sophisticated market. CBP will need to obtain data outside of this pilot collection on the burden of this collection to additional participants in this or other markets prior to expansion to other commodities or if it ever proposes to make GIS submissions mandatory. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0044",
+        "document_date": "05/12/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

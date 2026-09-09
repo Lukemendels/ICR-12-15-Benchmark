@@ -6,8 +6,8 @@
   "submission_date": "01/24/2025",
   "archetype": "bank credit recordkeeping and disclosures",
   "complexity": "medium",
-  "tsa_relevance": "adjacent",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "medium",
+  "review_status": "REVIEWED",
   "review_iteration": 2,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -162,7 +162,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact table sum",
-      "source_id": "SRC-0042"
+      "source_id": "SRC-0042",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Labor",
@@ -172,7 +174,9 @@
       "difference": 0.10000000055879354,
       "unit": "USD",
       "interpretation": "Rounding",
-      "source_id": "SRC-0042"
+      "source_id": "SRC-0042",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Small activities",
@@ -182,10 +186,123 @@
       "difference": 1.296,
       "unit": "hours",
       "interpretation": "1.296 hours disappears through row rounding",
-      "source_id": "SRC-0042"
+      "source_id": "SRC-0042",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 58,
   "table_evidence_path": "icrs/202410-7100-005/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "medium",
+  "tsa_relevance_original": "adjacent",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0041",
+        "SRC-0042"
+      ],
+      "section": "Item12",
+      "rationale": "Counts,frequency,times and six main rows exposed; rounded times create modest differences."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0041",
+        "SRC-0042"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "NIC entity source and May2023 BLS date precise; inherited CFPB timing methodology not specifically linked."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0041",
+        "SRC-0042"
+      ],
+      "section": "Item12",
+      "rationale": "Regulatory task segmentation with small-entity count; same time by bank size."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0041",
+        "SRC-0042"
+      ],
+      "section": "Item12",
+      "rationale": "Four-occupation labor mix explicit, but weights unsupported and benefits not included."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0041",
+        "SRC-0042"
+      ],
+      "section": "Item13",
+      "rationale": "Distinct nonlabor cost analysis not located in complete statement."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0041",
+        "SRC-0042"
+      ],
+      "section": "Item14",
+      "rationale": "Federal cost negligible asserted without quantities."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0041",
+        "SRC-0042"
+      ],
+      "section": "Item15",
+      "rationale": "Renewal changes described elsewhere; old/new driver bridge limited."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0041",
+        "SRC-0042"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Administrative population; timing inherited but validation chain incomplete."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0041",
+        "SRC-0042"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Rounding sub-hour self-test activities to zero and rounded rates explains limited discrepancies."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 7100-0201 | ICR Reference No: 202410-7100-005 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202403-7100-006 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 01/24/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 01/24/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 01/24/2025"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 01/24/2025 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0042",
+        "document_date": "01/24/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

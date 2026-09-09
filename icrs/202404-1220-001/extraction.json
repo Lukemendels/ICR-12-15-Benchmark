@@ -6,13 +6,14 @@
   "submission_date": "07/01/2024",
   "archetype": "statistical employer survey and recordkeeping",
   "complexity": "high",
-  "tsa_relevance": "method transfer",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "technique",
+  "review_status": "REVIEWED",
   "review_iteration": 1,
   "rubric_version": "1.0.0",
   "source_ids": [
     "SRC-0007",
-    "SRC-0008"
+    "SRC-0008",
+    "SRC-0200"
   ],
   "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
   "score": {
@@ -28,7 +29,7 @@
   },
   "score_rationale": {
     "reproducibility": "Nine tables reconstruct sector/activity/year burdens with bounded rounding.",
-    "provenance": "OSHA instruments/rule and ECEC release identified; source period/title needs verification.",
+    "provenance": "OSHA instruments/rule and ECEC release identified; release number resolves incorrect reference-period label. Verified in SRC-0200.",
     "segmentation": "Private,mandatory-public,voluntary-public and normally exempt recordkeepers; avoids duplicate OSHA burden.",
     "labor": "Direct ECEC compensation transparent but same sales/office rate across sectors.",
     "item13": "Explains supplied materials,manual records,no systems work,existing electronic records.",
@@ -118,7 +119,9 @@
       "hourly_rate": 32.91,
       "source_label": "Employer Costs for Employee Compensation--December2023,USDL23-2567",
       "cost2024": 7072491,
-      "cost2025_2026_each": 7063605
+      "cost2025_2026_each": 7063605,
+      "verified_reference_period": "September2023",
+      "verification_source_id": "SRC-0200"
     },
     "item13": {
       "annual_cost": 0,
@@ -149,7 +152,7 @@
   "reconstruction_issues": [
     "Narrative swaps reporting/recording labels.",
     "Federal cost categories lack quantities/rates.",
-    "ECEC release label may conflate publication/reference periods; verify source."
+    "ECEC source is September2023 released December15,2023,USDL23-2567; statement calls it December2023. Dollar32.91 verified."
   ],
   "methods_worth_testing": [
     "Cross-agency burden allocation; obligations overlap; separate collection year,reference year,approval horizon."
@@ -163,7 +166,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0008"
+      "source_id": "SRC-0008",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Change",
@@ -173,7 +178,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Residual1775 inferred,not explicit estimate",
-      "source_id": "SRC-0008"
+      "source_id": "SRC-0008",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Three-year average",
@@ -183,10 +190,132 @@
       "difference": 0.0,
       "unit": "hours",
       "interpretation": "Analytical horizon average; not substituted for package annual request",
-      "source_id": "SRC-0008"
+      "source_id": "SRC-0008",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 83,
   "table_evidence_path": "icrs/202404-1220-001/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "method transfer",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0007",
+        "SRC-0008",
+        "SRC-0200"
+      ],
+      "section": "Item12",
+      "rationale": "Nine tables reconstruct sector/activity/year burdens with bounded rounding."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0007",
+        "SRC-0008",
+        "SRC-0200"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "OSHA instruments/rule and ECEC release identified; release number resolves incorrect reference-period label. Verified in SRC-0200."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0007",
+        "SRC-0008",
+        "SRC-0200"
+      ],
+      "section": "Item12",
+      "rationale": "Private,mandatory-public,voluntary-public and normally exempt recordkeepers; avoids duplicate OSHA burden."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0007",
+        "SRC-0008",
+        "SRC-0200"
+      ],
+      "section": "Item12",
+      "rationale": "Direct ECEC compensation transparent but same sales/office rate across sectors."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0007",
+        "SRC-0008",
+        "SRC-0200"
+      ],
+      "section": "Item13",
+      "rationale": "Explains supplied materials,manual records,no systems work,existing electronic records."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0007",
+        "SRC-0008",
+        "SRC-0200"
+      ],
+      "section": "Item14",
+      "rationale": "5.8m federal matching share+17.1m support explained; underlying workload detail absent."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0007",
+        "SRC-0008",
+        "SRC-0200"
+      ],
+      "section": "Item15",
+      "rationale": "270-hour one-time test and25000-hour timing effect stated,old/new totals and future sunset explicit."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0007",
+        "SRC-0008",
+        "SRC-0200"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Recording times inherited from OSHA; survey validation does not itself establish all burden times."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0007",
+        "SRC-0008",
+        "SRC-0200"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Table arithmetic largely agrees; reporting/recording labels swapped in summary prose."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1220-0045 | ICR Reference No: 202404-1220-001 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Historical Active | Previous ICR Reference No: 202310-1220-006 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 10/31/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 10/31/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 07/01/2024"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 07/01/2024 | Terms of Clearance: TERMS OF CLEARANCE The Survey of Occupational Injuries and Illnesses (SOII), conducted by the Bureau of Labor Statistics, is a Federal/State cooperative program that publishes estimates on nonfatal occupational injuries and illnesses. Each year, approximately 200,000 employers report for establishments in private industry and the public sector (state and local government). As such, the SOII is the primary indicator of the Nation's progress in providing every working person safe and healthful working conditions. Survey data are also used to evaluate the effectiveness of Federal and State programs and to prioritize scarce resources. Respondents include employers who maintain Occupational Safety and Health Administration (OSHA) records in accordance with the Occupational Safety and Health Act and employers who are normally exempt from OSHA recordkeeping. Each year a sample of exempt employers is required to keep records and participate in the survey."
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0008",
+        "document_date": "10/09/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

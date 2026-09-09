@@ -19,11 +19,12 @@ for a in sorted(set(d['agency'] for d in reviews)):
  x=[d['total_score'] for d in reviews if d['agency']==a];rows.append({'agency':a,'n':len(x),'mean':round(statistics.mean(x),2),'median':statistics.median(x),'min':min(x),'max':max(x),'population_sd':round(statistics.pstdev(x),2),'inference':'purposive descriptive sample; no agency population rank'})
 with (R/'data/agency-summary.csv').open('w') as f:
  w=csv.DictWriter(f,fieldnames=list(rows[0]));w.writeheader();w.writerows(rows)
-lines=['# Provisional observed leaders',f'\nReviewed: {len(reviews)}. Scores measure accessible documentation. One-point differences are not evidence of meaningful superiority. Ties are preserved.','\n| Dimension | Score | Observed ICRs |','|---|---:|---|']
+lines=['# Frozen observed leaders — M1-1.0.0',f'\nReviewed: {len(reviews)}. Scores measure accessible documentation. One-point differences are not evidence of meaningful superiority. Ties are preserved.','\n| Dimension | Score | Observed ICRs |','|---|---:|---|']
 for k in ['total_score']+list(reviews[0]['score']):
  val=lambda d:d['total_score'] if k=='total_score' else d['score'][k]
  best=max(map(val,reviews));lines.append(f"| {k} | {best} | {'; '.join(d['icr_id'] for d in reviews if val(d)==best)} |")
 lines+=['\nItem12 spans reproducibility, provenance, segmentation and labor; do not call a single column the Item12 winner. SEC ADV-E is concise; BLS SOII has the highest observed overall score. Census AIES supplies direct measurement triangulation. FCC IPCS supplies an exact change bridge.','\nLegitimate Item13 zeros are eligible for full credit. Nonzero purchased-service exemplars include OSHA extinguishers and FCC satellite. EPA monitoring gives explicit capital/O&M separation but incomplete annuity inputs. No fully validated nonzero capital leader is established.','\nAgency means and dispersion are descriptive (data/agency-summary.csv). Highest agency-level quality and most consistent agency are not established from these heterogeneous purposive cases.']
+lines.append('\nAmong components with at least three sampled controls, BLS has the highest observed mean76.67(n3,range69–83), while Census has the narrowest observed dispersion(SD1.41,n3,range71–74). This descriptive n>=3 display filter does not establish agency-wide superiority or consistency.')
 (R/'methodology/leaders.md').write_text('\n'.join(lines)+'\n')
 # Keep locally archived text paths valid when original HTML is omitted from remote text tree.
 p=R/'data/sources.jsonl';sources=[json.loads(l) for l in p.read_text().splitlines()]

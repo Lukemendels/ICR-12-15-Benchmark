@@ -6,8 +6,8 @@
   "submission_date": "01/16/2025",
   "archetype": "employer variance applications",
   "complexity": "medium",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 1,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -137,7 +137,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0016"
+      "source_id": "SRC-0016",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal hours",
@@ -147,7 +149,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0016"
+      "source_id": "SRC-0016",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal cost",
@@ -157,7 +161,9 @@
       "difference": -2.720000000001164,
       "unit": "USD",
       "interpretation": "Rounding",
-      "source_id": "SRC-0016"
+      "source_id": "SRC-0016",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Table loading",
@@ -167,7 +173,9 @@
       "difference": -0.001162790697669891,
       "unit": "USD/hour",
       "interpretation": "Rounding",
-      "source_id": "SRC-0016"
+      "source_id": "SRC-0016",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Text loading",
@@ -177,10 +185,123 @@
       "difference": 0.24846266471449496,
       "unit": "USD/hour",
       "interpretation": "Different from table",
-      "source_id": "SRC-0016"
+      "source_id": "SRC-0016",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 69,
   "table_evidence_path": "icrs/202411-1218-005/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "medium",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0016"
+      ],
+      "section": "Item12",
+      "rationale": "Task tables largely reproduce366 employer and1708 federal hours; site-visit unit denominator unclear."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0016"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "OEWS2023 SOC and OPM2024 reference; ECEC live URL and rate mismatch."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0016"
+      ],
+      "section": "Item12",
+      "rationale": "Five employer and ten federal activities; uniform HR assistant for technical work weak."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0016"
+      ],
+      "section": "Item12",
+      "rationale": "Formula wage/(1-benefit share) sound but31.7% prose versus31.2% table and stale34.35 footnote."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0016"
+      ],
+      "section": "Item13",
+      "rationale": "No extra costs asserted because Item12 covers all; no detailed treatment of copying/mailing."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0016"
+      ],
+      "section": "Item14",
+      "rationale": "GS13/5 rate and task hours detailed; incremental overhead exclusions justified; no fringe detail."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0016"
+      ],
+      "section": "Item15",
+      "rationale": "Explicit retain366 with no changes and package comparison permits unchanged bridge."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0016"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Agency experience and small population stated; no timing evidence."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0015",
+        "SRC-0016"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Fringe and site-visit statements inconsistent despite totals."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1218-0265 | ICR Reference No: 202411-1218-005 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202201-1218-009 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 02/24/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 02/24/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 01/16/2025"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 01/16/2025 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0016",
+        "document_date": "01/10/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

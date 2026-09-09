@@ -1,28 +1,28 @@
 # Cybersecurity Maturity Model Certification (CMMC) Program Reporting and Recordkeeping Requirements Information Collection
 
-Provisional review. 202405-0704-002; sources SRC-0140, SRC-0139.
+Reviewed under rubric1.0.0. 202405-0704-002; sources SRC-0139, SRC-0140, SRC-0156, SRC-0157, SRC-0163, SRC-0164.
 
-Score 75/100. Public documentation only. extensive statement; very high complexity.
+Score 75/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 17. SSA aggregates link to detailed RIA phases, occupations and cost categories; composite/phase-in mapping incomplete.
+- reproducibility: 17/20. SSA aggregates link to detailed RIA phases, occupations and cost categories; composite/phase-in mapping incomplete.
 
-- provenance: 11. Final-rule2024 cost analysis and internal contractor comparators, but underlying observations restricted.
+- provenance: 11/15. Final-rule2024 cost analysis and internal contractor comparators, but underlying observations restricted.
 
-- segmentation: 15. Level2/3, size, assessment phases and internal/outsourced labor meaningfully separated.
+- segmentation: 15/15. Level2/3, size, assessment phases and internal/outsourced labor meaningfully separated.
 
-- labor: 8. RIA distinguishes30% internal loading from vendor prices including profit and51% federal loading; composite still difficult to recreate.
+- labor: 8/10. RIA distinguishes30% internal loading from vendor prices including profit and51% federal loading; composite still difficult to recreate.
 
-- item13: 4. Hardware/software/implementation totals reconstruct from unit totals, but no itemized assets, useful life, cohort or noncollection boundary.
+- item13: 4/10. Hardware/software/implementation totals reconstruct from unit totals, but no itemized assets, useful life, cohort or noncollection boundary.
 
-- item14: 7. Level3 workload by size and composite government rates; RIA adds grade/step/load method.
+- item14: 7/10. Level3 workload by size and composite government rates; RIA adds grade/step/load method.
 
-- item15: 7. New collection with cross-control scope; no prior burden baseline.
+- item15: 7/10. New collection with cross-control scope; no prior burden baseline.
 
-- validation: 3. Internal expertise, previous assessments and adverse comments; first-pass assumption limits uncertainty.
+- validation: 3/5. Internal expertise, previous assessments and adverse comments; first-pass assumption limits uncertainty.
 
-- consistency: 3. Aggregate arithmetic close; RIA includes transcription issues and composite-source mapping is incomplete.
+- consistency: 3/5. Aggregate arithmetic close; RIA includes transcription issues and composite-source mapping is incomplete.
 
 ## Reconstruction issues
 

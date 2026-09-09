@@ -1,28 +1,28 @@
 # Air Cargo Security Requirements
 
-Provisional review. 202402-1652-002; sources SRC-0004, SRC-0003.
+Reviewed under rubric1.0.0. 202402-1652-002; sources SRC-0003, SRC-0004.
 
-Score 64/100. Public documentation only. extensive statement; high complexity.
+Score 64/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 14. Nine activity rows and equations, but appeals and recordkeeping narrative do not reproduce displayed values.
+- reproducibility: 14/20. Nine activity rows and equations, but appeals and recordkeeping narrative do not reproduce displayed values.
 
-- provenance: 11. Precise BLS vintages/NAICS/SOC and ECEC dates; internal Modular Cost Data inaccessible.
+- provenance: 11/15. Precise BLS vintages/NAICS/SOC and ECEC dates; internal Modular Cost Data inaccessible.
 
-- segmentation: 13. Separate new/renewal/appeal/amendment/STA/electronic/manual/recordkeeping paths; overlapping respondents identified.
+- segmentation: 13/15. Separate new/renewal/appeal/amendment/STA/electronic/manual/recordkeeping paths; overlapping respondents identified.
 
-- labor: 5. Employment-weighted occupational wages useful; contradictory loading factor and occupation proxies weaken defense.
+- labor: 5/10. Employment-weighted occupational wages useful; contradictory loading factor and occupation proxies weaken defense.
 
-- item13: 8. STA fee and quantity multiply exactly; broader zero capital/O&M scope not fully justified.
+- item13: 8/10. STA fee and quantity multiply exactly; broader zero capital/O&M scope not fully justified.
 
-- item14: 6. Two labor tasks and contract components; KSMS O&M differs between narrative and table.
+- item14: 6/10. Two labor tasks and contract components; KSMS O&M differs between narrative and table.
 
-- item15: 4. Several old/new counts given but no complete quantified hour bridge; adjustment language self-contradictory.
+- item15: 4/10. Several old/new counts given but no complete quantified hour bridge; adjustment language self-contradictory.
 
-- validation: 2. Past experience supports some activity assumptions, without time measurement or ranges.
+- validation: 2/5. Past experience supports some activity assumptions, without time measurement or ranges.
 
-- consistency: 1. Multiple material conflicting values; not only rounding.
+- consistency: 1/5. Multiple material conflicting values; not only rounding.
 
 ## Reconstruction issues
 

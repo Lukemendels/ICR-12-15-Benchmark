@@ -6,8 +6,8 @@
   "submission_date": "12/11/2025",
   "archetype": "Secure Flight passenger andvisitor vetting",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 2,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -147,7 +147,9 @@
       "difference": -333.33333334326744,
       "unit": "USD",
       "interpretation": "Rounding to nearest thousand",
-      "source_id": "SRC-0048"
+      "source_id": "SRC-0048",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "New hours",
@@ -157,7 +159,9 @@
       "difference": 0.0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0048"
+      "source_id": "SRC-0048",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Loaded ticket agent",
@@ -167,10 +171,123 @@
       "difference": 0.0004337349397616208,
       "unit": "USD/hour",
       "interpretation": "Rounding",
-      "source_id": "SRC-0048"
+      "source_id": "SRC-0048",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 70,
   "table_evidence_path": "icrs/202508-1652-001/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0047",
+        "SRC-0048"
+      ],
+      "section": "Item12",
+      "rationale": "Detailed counts,times andyears; rounded frequency averages prevent exact small-carrier rows."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0047",
+        "SRC-0048"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Current2024OEWS/2025ECEC cited; internal pay proxy and federal budget basis less accessible."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0047",
+        "SRC-0048"
+      ],
+      "section": "Item12",
+      "rationale": "Carrier,airport,low-risk provider andindividual paths distinguished; automated activity scope stated."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0047",
+        "SRC-0048"
+      ],
+      "section": "Item12",
+      "rationale": "Occupational ECEC loading clear; federal J-band proxy explicitly justified; individual ECEC rate identified."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0047",
+        "SRC-0048"
+      ],
+      "section": "Item13",
+      "rationale": "No additional costs asserted; automated system scope would benefit from implementation-cost rationale."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0047",
+        "SRC-0048"
+      ],
+      "section": "Item14",
+      "rationale": "Three-year payroll/contract budget categories explicit; no staff workload or incremental allocation."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0047",
+        "SRC-0048"
+      ],
+      "section": "Item15",
+      "rationale": "New10000hours and300000responses separated from adjustments, but old/new numerical bridge incomplete."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0047",
+        "SRC-0048"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Administrative frequencies andgrowth assumption; timing validation absent."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0047",
+        "SRC-0048"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Federal narrative uses156875M while footnote156.875M andtable thousands; mixed precision."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1652-0046 | ICR Reference No: 202508-1652-001 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202301-1652-003 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 01/28/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 01/28/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 12/11/2025"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 12/11/2025 | Terms of Clearance: The agency responded to the comments it received from the public. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0048",
+        "document_date": "01/27/2026"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

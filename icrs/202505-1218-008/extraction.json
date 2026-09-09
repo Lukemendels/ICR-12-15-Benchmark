@@ -7,7 +7,7 @@
   "archetype": "benzene exposure monitoring and medical surveillance",
   "complexity": "high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 6,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -173,7 +173,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0133"
+      "source_id": "SRC-0133",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Nonlabor",
@@ -183,7 +185,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact at asserted prices.",
-      "source_id": "SRC-0133"
+      "source_id": "SRC-0133",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Change",
@@ -193,7 +197,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0133"
+      "source_id": "SRC-0133",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Medical price inflation",
@@ -203,8 +209,123 @@
       "difference": -17.981600000000014,
       "unit": "USD/exam",
       "interpretation": "Material price transformation discrepancy.",
-      "source_id": "SRC-0133"
+      "source_id": "SRC-0133",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 77
+  "total_score": 77,
+  "complexity_original": "high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0132",
+        "SRC-0133"
+      ],
+      "section": "Item12",
+      "rationale": "CFR activity and medical/exposure counts mostly reconstruct; cost inflation error."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0132",
+        "SRC-0133"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "OEWS2023 SOCs, CBP2020/2022 industry growth, JOLTS2023 and CPI endpoints; legacy coefficients remain."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0132",
+        "SRC-0133"
+      ],
+      "section": "Item12",
+      "rationale": "Industry, exposure class, examination type and job role segmented."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0132",
+        "SRC-0133"
+      ],
+      "section": "Item12",
+      "rationale": "Three SOC rates divided by.704 wage share; occupational choice explicit."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0132",
+        "SRC-0133"
+      ],
+      "section": "Item13",
+      "rationale": "Samples and examinations priced separately; recurrent services mislabeled capital and exam price update inconsistent."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0132",
+        "SRC-0133"
+      ],
+      "section": "Item14",
+      "rationale": "Explicit exclusion of inspection investigations; zero depends on stated narrow collection scope."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0132",
+        "SRC-0133"
+      ],
+      "section": "Item15",
+      "rationale": "Old/new activity table exactly explains452-hour decline, with cost and population reasons."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0132",
+        "SRC-0133"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Administrative exposure baseline plus official proxies; inherited shares lack current validation."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0132",
+        "SRC-0133"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Hour bridge coherent;2.46% medical price claim does not produce227 from204."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202505-1218-008/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1218-0129 | ICR Reference No: 202505-1218-008 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202302-1218-001 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 03/02/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 03/02/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 01/26/2026"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 01/26/2026 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0133",
+        "document_date": "08/04/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

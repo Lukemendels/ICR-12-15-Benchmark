@@ -1,0 +1,712 @@
+{
+  "icr_id": "202508-1218-005",
+  "omb_control_number": "1218-0200",
+  "agency": "DOL/OSHA",
+  "title": "Standard on Process Safety Management of Highly Hazardous Chemicals (29 CFR 1910.119, 29 CFR 1926.64)",
+  "submission_date": "02/04/2026",
+  "archetype": "process safety compliance",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
+  "review_iteration": 9,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0186",
+    "SRC-0187"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 11,
+    "segmentation": 15,
+    "labor": 7,
+    "item13": 8,
+    "item14": 8,
+    "item15": 9,
+    "validation": 3,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Extensive atomic equations and tables; stale response-column values and mixed precision.",
+    "provenance": "March2025 RMP plus2022CBP and2023OEWS; source dates explicit, inherited timing.",
+    "segmentation": "Facility/process, complexity, new/existing and seven occupations separated.",
+    "labor": "SOC wage divided by.705 explicit; engineer levels mapped to different occupational groups rather than validated seniority.",
+    "item13": "Explicit all costs in12; no additional equipment/purchases asserted consistently with documentation scope.",
+    "item14": "Zero investigation records burden tied to5CFR1320.4(a)(2); no review outside investigation identified.",
+    "item15": "Every activity old/new/delta table reconciles, but aggregate explanation omits growth in some drivers.",
+    "validation": "Administrative proxy adjustments and comment critique explicit;1996/RIA times and staff20% multiplier not revalidated.",
+    "consistency": "Response totals retain different facility counts from current burden rows; minor hours conflicts."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "§1910.119(c)(3) / Employee / Employee Participation",
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        "§1910.119(d) / RMP Program 3 New Facilities / Level IV Engineer",
+        131.0,
+        50.0,
+        6550.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        131.0,
+        50.0,
+        6550.0
+      ],
+      [
+        " /  / 2 Production Worker",
+        131.0,
+        108.0,
+        14148.0
+      ],
+      [
+        "§1910.119(d) / Lower Technological Complexity New Facilities / Level IV Engineer",
+        43.0,
+        10.0,
+        430.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        43.0,
+        10.0,
+        430.0
+      ],
+      [
+        " /  / 2 Production Worker",
+        43.0,
+        21.6,
+        929.0
+      ],
+      [
+        "§1910.119(e)(1)(i)-(v) / RMP Program 3 New Facilities / Level IV Engineer",
+        131.0,
+        100.0,
+        13100.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        131.0,
+        100.0,
+        13100.0
+      ],
+      [
+        " /  / 2 Production Worker",
+        131.0,
+        36.0,
+        4716.0
+      ],
+      [
+        " / Lower Technological Complexity New Facilities / Level IV Engineer",
+        43.0,
+        20.0,
+        860.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        43.0,
+        20.0,
+        860.0
+      ],
+      [
+        " /  / 2 Production Worker",
+        43.0,
+        7.2,
+        310.0
+      ],
+      [
+        "§1910.119(e)(5) / RMP Program 3 New Facilities / Level IV Engineer",
+        131.0,
+        22.0,
+        2882.0
+      ],
+      [
+        " / Lower Technological Complexity New Facilities / Level IV Engineer",
+        43.0,
+        4.4,
+        189.0
+      ],
+      [
+        "§1910.119(e)(6) and (e)(7) / RMP Program 3 Existing Facilities / Level IV Engineer",
+        1777.0,
+        50.0,
+        88850.0
+      ],
+      [
+        " / Lower Technological Complexity Facilities / Level IV Engineer",
+        588.0,
+        10.0,
+        5880.0
+      ],
+      [
+        " / RMP Program 3 New Facility Processes / Level IV Engineer",
+        176.0,
+        22.0,
+        3872.0
+      ],
+      [
+        " / Lower Technological Complexity New Facility Processes / Level IV Engineer",
+        43.0,
+        4.4,
+        189.0
+      ],
+      [
+        " / RMP Program 3 Existing Facility Processes / Level IV Engineer",
+        8885.0,
+        4.4,
+        39094.0
+      ],
+      [
+        " / Lower Technological Complexity Facility Processes / Level IV Engineer",
+        2942.0,
+        0.88,
+        2589.0
+      ],
+      [
+        "§1910.119(g)( 1)-( g)(3) / Employee / Training Records",
+        749209.0,
+        0.05,
+        37460.0
+      ],
+      [
+        "§1910.119(h)( 2)-( h)(3) / RMP Program 3 New Facilities / Level IV Engineer",
+        131.0,
+        50.0,
+        6550.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        131.0,
+        50.0,
+        6550.0
+      ],
+      [
+        " /  / 2 Production Worker",
+        131.0,
+        100.0,
+        13100.0
+      ],
+      [
+        " / Lower Technological Complexity New Facilities / Level IV Engineer",
+        43.0,
+        10.0,
+        430.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        43.0,
+        10.0,
+        430.0
+      ],
+      [
+        " /  / 2 Production Worker",
+        43.0,
+        20.0,
+        860.0
+      ],
+      [
+        " / RMP Program 3 Existing Facilities / Level IV Engineer",
+        3014.0,
+        10.0,
+        30140.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        3014.0,
+        10.0,
+        30140.0
+      ],
+      [
+        " /  / 2 Production Worker",
+        3014.0,
+        20.0,
+        60280.0
+      ],
+      [
+        " / Lower Technological Complexity Existing Facilities / Level IV Engineer",
+        1471.0,
+        2.0,
+        2942.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        1471.0,
+        2.0,
+        2942.0
+      ],
+      [
+        " /  / 2 Production Worker",
+        1471.0,
+        4.0,
+        5884.0
+      ],
+      [
+        " / RMP Program 3 New Facilities / Level III Engineer",
+        176.0,
+        8.0,
+        1408.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        176.0,
+        8.5,
+        1496.0
+      ],
+      [
+        " /  / Service Worker",
+        176.0,
+        130.0,
+        22880.0
+      ],
+      [
+        " / Lower Technological Complexity New Facilities / Level III Engineer",
+        43.0,
+        1.6,
+        69.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        43.0,
+        1.7,
+        73.0
+      ],
+      [
+        " /  / Service Worker",
+        43.0,
+        26.0,
+        1118.0
+      ],
+      [
+        " / RMP Program 3 Existing Facilities / Level III Engineer",
+        8885.0,
+        1.6,
+        14216.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        8885.0,
+        1.7,
+        15105.0
+      ],
+      [
+        " /  / Service Worker",
+        8885.0,
+        26.0,
+        231010.0
+      ],
+      [
+        " / Lower Technological Complexity Facilities / Level III Engineer",
+        2942.0,
+        0.32,
+        941.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        2942.0,
+        0.34,
+        1000.0
+      ],
+      [
+        " /  / Service Worker",
+        2942.0,
+        5.2,
+        15298.0
+      ],
+      [
+        " / Large Establishments / Blue Collar Supervisor",
+        111726.0,
+        0.1,
+        11173.0
+      ],
+      [
+        " / Small Establishments / Blue Collar Supervisor",
+        17622.0,
+        0.1,
+        1762.0
+      ],
+      [
+        " / Large Establishments / Level IV Engineer",
+        9310.5,
+        18.0,
+        167589.0
+      ],
+      [
+        " /  / Production Worker",
+        9310.5,
+        36.9,
+        343557.0
+      ],
+      [
+        " / Small Establishments / Level IV Engineer",
+        2937.0,
+        6.0,
+        17622.0
+      ],
+      [
+        " /  / Production Worker",
+        2937.0,
+        12.3,
+        36125.0
+      ],
+      [
+        " / Large Establishments / Level V Engineer",
+        6207.0,
+        16.0,
+        99312.0
+      ],
+      [
+        " /  / Level IV Engineer",
+        6207.0,
+        48.0,
+        297936.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        6207.0,
+        32.0,
+        198624.0
+      ],
+      [
+        " /  / Clerical Worker",
+        6207.0,
+        4.0,
+        24828.0
+      ],
+      [
+        " / Small Establishments / Level V Engineer",
+        2937.0,
+        5.3,
+        15654.0
+      ],
+      [
+        " /  / Level IV Engineer",
+        2937.0,
+        16.0,
+        46992.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        2937.0,
+        10.7,
+        31338.0
+      ],
+      [
+        " /  / Clerical Worker",
+        2937.0,
+        1.3,
+        3906.0
+      ],
+      [
+        " / New Establishments / Level V Engineer",
+        174.0,
+        1.0,
+        174.0
+      ],
+      [
+        " / RMP Program 3 Existing Facilities / Level V Engineer",
+        2009.0,
+        32.0,
+        64288.0
+      ],
+      [
+        " /  / Level IV Engineer",
+        2009.0,
+        48.0,
+        96432.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        2009.0,
+        32.0,
+        64288.0
+      ],
+      [
+        " /  / Clerical Worker",
+        2009.0,
+        8.0,
+        16072.0
+      ],
+      [
+        " / Lower Technological Complexity Existing Facilities / Level V Engineer",
+        981.0,
+        6.4,
+        6278.0
+      ],
+      [
+        " /  / Level IV Engineer",
+        981.0,
+        9.6,
+        9418.0
+      ],
+      [
+        " /  / Blue Collar Supervisor",
+        981.0,
+        6.4,
+        6278.0
+      ],
+      [
+        " /  / Clerical Worker",
+        981.0,
+        1.6,
+        1570.0
+      ],
+      [
+        " / Inspections / 0",
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "labor": {
+      "soc": [
+        "17-0000",
+        "17-2199",
+        "17-2041",
+        "51-1011",
+        "51-0000",
+        "39-0000",
+        "43-9061"
+      ],
+      "base": [
+        47.64,
+        56.9,
+        59.09,
+        34.48,
+        22.9,
+        18.48,
+        20.94
+      ],
+      "benefit_share": 0.295,
+      "loaded": [
+        67.57,
+        80.71,
+        83.82,
+        48.91,
+        32.48,
+        26.21,
+        29.7
+      ],
+      "reported": 128871110
+    },
+    "item13": {
+      "reported": 0,
+      "reason": "All collection costs attributed to labor; no additional costs"
+    },
+    "item14": {
+      "reported": 0,
+      "reason": "Records reviewed only during particular employer investigation; exclusion cited"
+    },
+    "item15": {
+      "old_hours": 2325294,
+      "new_hours": 2269066,
+      "delta": -56228,
+      "by_activity": [
+        0,
+        12314,
+        13972,
+        1302,
+        -2450,
+        353,
+        4874,
+        11776,
+        2349,
+        -914,
+        -50079,
+        -50777,
+        68,
+        984,
+        0
+      ],
+      "classification": "adjustment"
+    },
+    "assumptions": [
+      "RMP11329 minus848 preexisting state-regime sites;6028Program3 plus2942 lower complexity=8970.",
+      "Lower complexity components603reactive+1507flammable+459Program1+373explosive.",
+      "Lower complexity20% burden, existing updates20% initial, staff assumptions.",
+      "174newfacilities,219processes; hot-work/incident rows total9144 including new facilities; unique count8970 excludes new."
+    ]
+  },
+  "reconstruction_issues": [
+    "Hot-work table shows6207*18 responses but126288printed; actual111726.",
+    "Table2 incident rows use6207/2937burden populations but7016/2033response counts.",
+    "Incident timing inherited from1996 comments;1incident per facility and20% complexity factor remain judgment."
+  ],
+  "methods_worth_testing": [
+    "Preserve administrative-data coverage adjustments and proxy validity separately.",
+    "Activity-level Item15 tables are stronger than an aggregate population-change statement."
+  ],
+  "checks": [
+    {
+      "label": "Change bridge",
+      "formula": "sum([0,12314,13972,1302,-2450,353,4874,11776,2349,-914,-50079,-50777,68,984,0])",
+      "calculated": -56228,
+      "reported": -56228,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact delta table sum.",
+      "source_id": "SRC-0187",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    },
+    {
+      "label": "Total burden",
+      "formula": "sum([29037,32946,3071,94730,45744,37460,160248,304614,12935,564893,718590,174,264624])",
+      "calculated": 2269066,
+      "reported": 2269066,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Subtotal reconstruction.",
+      "source_id": "SRC-0187",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    },
+    {
+      "label": "Hot work responses",
+      "formula": "6207*18",
+      "calculated": 111726,
+      "reported": 126288,
+      "difference": -14562,
+      "unit": "responses",
+      "interpretation": "Legacy response column conflicts with current population.",
+      "source_id": "SRC-0187",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    },
+    {
+      "label": "Engineer loaded",
+      "formula": "56.90/.705",
+      "calculated": 80.70921985815603,
+      "reported": 80.71,
+      "difference": -0.0007801418439612462,
+      "unit": "USD/hour",
+      "interpretation": "Rounding.",
+      "source_id": "SRC-0187",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    }
+  ],
+  "total_score": 80,
+  "complexity_original": "high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0186",
+        "SRC-0187"
+      ],
+      "section": "Item12",
+      "rationale": "Extensive atomic equations and tables; stale response-column values and mixed precision."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0186",
+        "SRC-0187"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "March2025 RMP plus2022CBP and2023OEWS; source dates explicit, inherited timing."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0186",
+        "SRC-0187"
+      ],
+      "section": "Item12",
+      "rationale": "Facility/process, complexity, new/existing and seven occupations separated."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0186",
+        "SRC-0187"
+      ],
+      "section": "Item12",
+      "rationale": "SOC wage divided by.705 explicit; engineer levels mapped to different occupational groups rather than validated seniority."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0186",
+        "SRC-0187"
+      ],
+      "section": "Item13",
+      "rationale": "Explicit all costs in12; no additional equipment/purchases asserted consistently with documentation scope."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0186",
+        "SRC-0187"
+      ],
+      "section": "Item14",
+      "rationale": "Zero investigation records burden tied to5CFR1320.4(a)(2); no review outside investigation identified."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0186",
+        "SRC-0187"
+      ],
+      "section": "Item15",
+      "rationale": "Every activity old/new/delta table reconciles, but aggregate explanation omits growth in some drivers."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0186",
+        "SRC-0187"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Administrative proxy adjustments and comment critique explicit;1996/RIA times and staff20% multiplier not revalidated."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0186",
+        "SRC-0187"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Response totals retain different facility counts from current burden rows; minor hours conflicts."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202508-1218-005/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1218-0200 | ICR Reference No: 202508-1218-005 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202303-1218-001 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 03/09/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 03/09/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 02/04/2026"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 02/04/2026 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0187",
+        "document_date": "01/27/2026"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
+}

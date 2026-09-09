@@ -7,7 +7,7 @@
   "archetype": "investment-adviser custody and audit",
   "complexity": "high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 7,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -160,7 +160,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact.",
-      "source_id": "SRC-0150"
+      "source_id": "SRC-0150",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Table minus narrative",
@@ -170,7 +172,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Material conflict.",
-      "source_id": "SRC-0150"
+      "source_id": "SRC-0150",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Purchased services",
@@ -180,7 +184,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact.",
-      "source_id": "SRC-0150"
+      "source_id": "SRC-0150",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Annual statement precise minutes",
@@ -190,8 +196,123 @@
       "difference": -690.6666666666642,
       "unit": "hours",
       "interpretation": "Rounding atunit-timelevel raises697.33hours.",
-      "source_id": "SRC-0150"
+      "source_id": "SRC-0150",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 68
+  "total_score": 68,
+  "complexity_original": "high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0149",
+        "SRC-0150"
+      ],
+      "section": "Item12",
+      "rationale": "Footnote equations detailed but stale subgroup counts, rounded minutes and summary dollars do not reconcile."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0149",
+        "SRC-0150"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "IARD December2024 precise FormADV fields and99th-percentile winsorization; SIFMA2013 wage baseline opaque."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0149",
+        "SRC-0150"
+      ],
+      "section": "Item12",
+      "rationale": "Three adviser groups and audit/notice obligations segmented, including nonduplicative internal-control reports."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0149",
+        "SRC-0150"
+      ],
+      "section": "Item12",
+      "rationale": "Two occupations and loading factors, but inflation multiplier and underlying SIFMA rates unavailable."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0149",
+        "SRC-0150"
+      ],
+      "section": "Item13",
+      "rationale": "Tiered audit fees and internal-control exclusions explicit; price provenance and subgroup definitions inconsistent."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0149",
+        "SRC-0150"
+      ],
+      "section": "Item14",
+      "rationale": "No additional federal cost asserted; plausible private third-party audit scope but not explained in detail."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0149",
+        "SRC-0150"
+      ],
+      "section": "Item15",
+      "rationale": "Old/new totals and activity changes stated, but input contributions not isolated."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0149",
+        "SRC-0150"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Administrative population and earlier accountant consultations; assumptions and winsorized totals not validated."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0149",
+        "SRC-0150"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Multiple population and cost contradictions, including1.217million labor difference."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": null,
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 3235-0241 | ICR Reference No: 202504-3235-016 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202205-3235-017 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 09/04/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 09/04/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 08/01/2025"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 08/01/2025 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0150",
+        "document_date": "04/18/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

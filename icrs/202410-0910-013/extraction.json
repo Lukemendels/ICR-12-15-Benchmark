@@ -6,8 +6,8 @@
   "submission_date": "10/29/2024",
   "archetype": "food preventive controls and qualified facility records",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 4,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -122,7 +122,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0084"
+      "source_id": "SRC-0084",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Labor",
@@ -132,10 +134,123 @@
       "difference": -1.1920928955078125e-07,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0084"
+      "source_id": "SRC-0084",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 64,
   "table_evidence_path": "icrs/202410-0910-013/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0083",
+        "SRC-0084"
+      ],
+      "section": "Item12",
+      "rationale": "CFR-level population, frequency and time tables; rows and monetary role groups exposed."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0083",
+        "SRC-0084"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "2023 median occupational wages cited; burden assumptions largely inherited."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0083",
+        "SRC-0084"
+      ],
+      "section": "Item12",
+      "rationale": "Human/animal food and reporting, records, disclosure requirements separated."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0083",
+        "SRC-0084"
+      ],
+      "section": "Item12",
+      "rationale": "Three role groups priced; generic doubling combines benefits and overhead without derivation."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0083",
+        "SRC-0084"
+      ],
+      "section": "Item13",
+      "rationale": "Blanket no capital or maintenance statement lacks implementation/system scope analysis."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0083",
+        "SRC-0084"
+      ],
+      "section": "Item14",
+      "rationale": "50000 inquiry-response budget without workload or staff rates."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0083",
+        "SRC-0084"
+      ],
+      "section": "Item15",
+      "rationale": "Duplicate animal-food disclosure removed with quantified effect; remaining changes not fully decomposed."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0083",
+        "SRC-0084"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Agency experience and correction of duplicate requirement; little measured timing evidence."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0083",
+        "SRC-0084"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Totals and labor groups reconcile; minor rounding from half-hour activities."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 0910-0751 | ICR Reference No: 202410-0910-013 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202108-0910-008 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 02/19/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 02/19/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 10/29/2024"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 10/29/2024 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0084",
+        "document_date": "01/22/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

@@ -7,12 +7,12 @@
   "archetype": "retirement survivor disability applications",
   "complexity": "high",
   "tsa_relevance": "low",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 8,
   "rubric_version": "1.0.0",
   "source_ids": [
-    "SRC-0178",
-    "SRC-0177"
+    "SRC-0177",
+    "SRC-0178"
   ],
   "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
   "score": {
@@ -194,7 +194,9 @@
       "difference": -3934997,
       "unit": "people",
       "interpretation": "Travelpopulationmappingunresolved.",
-      "source_id": "SRC-0178"
+      "source_id": "SRC-0178",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Minimum expanded hours",
@@ -204,7 +206,9 @@
       "difference": 1042361,
       "unit": "hours",
       "interpretation": "ExceedsclaimedROCISbeforewaiting.",
-      "source_id": "SRC-0178"
+      "source_id": "SRC-0178",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Costs",
@@ -214,7 +218,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exactcomponentcostsum.",
-      "source_id": "SRC-0178"
+      "source_id": "SRC-0178",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal",
@@ -224,8 +230,123 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exacttotalsbutnotindependentworkloadreconstruction.",
-      "source_id": "SRC-0178"
+      "source_id": "SRC-0178",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 64
+  "total_score": 64,
+  "complexity_original": "high",
+  "tsa_relevance_original": "low",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0177",
+        "SRC-0178"
+      ],
+      "section": "Item12",
+      "rationale": "Form/modeburden,wait/travel/learningtablesvisible; totalsandscopefailreconciliation."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0177",
+        "SRC-0178"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "ManagementdataFY2025,wagegenericBLSandOIRAtravelproxy; coefficientsnotpublic."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0177",
+        "SRC-0178"
+      ],
+      "section": "Item12",
+      "rationale": "Threeapplicationsandpaper/phone/office/internet/thirdpartysegmented."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0177",
+        "SRC-0178"
+      ],
+      "section": "Item12",
+      "rationale": "Generalmeanwage31.48usedasopportunitycost; noage/employmentmatch."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0177",
+        "SRC-0178"
+      ],
+      "section": "Item13",
+      "rationale": "Nofeesorrequiredpurchasesreasonableforbenefitapplication;travelresourcecostnotpriced."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0177",
+        "SRC-0178"
+      ],
+      "section": "Item14",
+      "rationale": "5.763billioncategorieswithGS9formula butnohours/rate; cannotreproduce."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0177",
+        "SRC-0178"
+      ],
+      "section": "Item15",
+      "rationale": "Oldnewformhoursandresponsesgiven;ROCISscopebridgewrong."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0177",
+        "SRC-0178"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Actualinterviewexperienceandspatialtravelproxy; limitationsacknowledgedbutpopulationmappingfails."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0177",
+        "SRC-0178"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "4milliontravelrespondentsversus70718officemodalities;ROCISandfullcosthoursscopesconflict."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202502-0960-015/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 0960-0618 | ICR Reference No: 202502-0960-015 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202411-0960-011 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 05/19/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 05/19/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 03/18/2025"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 03/18/2025 | Terms of Clearance: Revisions approved consistent with Executive Order 14168 and the Social Security Fairness Act. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0178",
+        "document_date": "03/18/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

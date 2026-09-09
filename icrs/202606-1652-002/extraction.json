@@ -6,8 +6,8 @@
   "submission_date": "08/21/2026",
   "archetype": "hazmat driver credential enrollment andrenewal",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 2,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -146,7 +146,9 @@
       "difference": -782.452500000014,
       "unit": "persons",
       "interpretation": "Doesnot reproduce",
-      "source_id": "SRC-0054"
+      "source_id": "SRC-0054",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Surveyhours",
@@ -156,7 +158,9 @@
       "difference": -4668.2880000000005,
       "unit": "hours",
       "interpretation": "Factor10summary discrepancy",
-      "source_id": "SRC-0054"
+      "source_id": "SRC-0054",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Agentpathway share",
@@ -166,7 +170,9 @@
       "difference": 0.31200000000000006,
       "unit": "share",
       "interpretation": "Paths sum1.312; apparent doublecount",
-      "source_id": "SRC-0054"
+      "source_id": "SRC-0054",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Three yearhours",
@@ -176,10 +182,111 @@
       "difference": 6,
       "unit": "hours",
       "interpretation": "Six-hour difference",
-      "source_id": "SRC-0054"
+      "source_id": "SRC-0054",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 50,
   "table_evidence_path": "icrs/202606-1652-002/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0053",
+        "SRC-0054"
+      ],
+      "section": "Item12",
+      "rationale": "Year tables detailed but statedgrowth doesnot reproduce forecast;online renewals appear added to fullpopulation already charged inperson."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0053",
+        "SRC-0054"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "SixNAICS andtwoSOCs described but component inputs absent; ECEC reference/publication date confused."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0053",
+        "SRC-0054"
+      ],
+      "section": "Item12",
+      "rationale": "Useful pathways designed but not mutually exclusive in formulas."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0053",
+        "SRC-0054"
+      ],
+      "section": "Item12",
+      "rationale": "Employment-weighted wage26.22 andbenefit ratio disclosed; industry weighting andvintage insufficient to reproduce."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0053",
+        "SRC-0054"
+      ],
+      "section": "Item13",
+      "rationale": "Fee components andappeal costs explicit; discount applied to allrenewals instead ofonline60% only."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0053",
+        "SRC-0054"
+      ],
+      "section": "Item14",
+      "rationale": "User fees said tocover federal costs without gross costs or allocation."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0053",
+        "SRC-0054"
+      ],
+      "section": "Item15",
+      "rationale": "Directions stated without quantitative old/new bridge; newonline policy vsadjustment classification unclear."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0053",
+        "SRC-0054"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Historical enrollment counts andcandid appeal-time extrapolation; assumptions unvalidated."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0053",
+        "SRC-0054"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Survey table519hours becomes5187summary; major pathway andprojection inconsistencies."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 50,
+      "text": "Status: Received in OIRA | Previous ICR Reference No: 202502-1652-005 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "Date Submitted to OIRA: 08/21/2026 | | Requested | Previously Approved | Expiration Date |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0054",
+        "document_date": "08/20/2026"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

@@ -7,7 +7,7 @@
   "archetype": "nutritional yeast continuous monitoring",
   "complexity": "high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 7,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -133,7 +133,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exactdisplayedsubtotals.",
-      "source_id": "SRC-0146"
+      "source_id": "SRC-0146",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal cost",
@@ -143,7 +145,9 @@
       "difference": 638.5499999999993,
       "unit": "USD",
       "interpretation": "638.55difference.",
-      "source_id": "SRC-0146"
+      "source_id": "SRC-0146",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "RATAunit",
@@ -153,7 +157,9 @@
       "difference": 2340.0,
       "unit": "USD",
       "interpretation": "2340difference.",
-      "source_id": "SRC-0146"
+      "source_id": "SRC-0146",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Capital recovery exemplar",
@@ -163,8 +169,150 @@
       "difference": -11.476234092129744,
       "unit": "USD/year",
       "interpretation": "Historicalannuityreplicateswithinrounding; notentirelyItem13nonlabor.",
-      "source_id": "SRC-0146"
+      "source_id": "SRC-0146",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 67
+  "total_score": 67,
+  "complexity_original": "high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0145",
+        "SRC-0146",
+        "SRC-0160",
+        "SRC-0161",
+        "SRC-0162"
+      ],
+      "section": "Item12",
+      "rationale": "Task/role equations reconstruct hours; federal sum and nonlaborunitcostsconflict."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0145",
+        "SRC-0146",
+        "SRC-0160",
+        "SRC-0161",
+        "SRC-0162"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "ECEC2023,OPM2024/2023conflict and2017costmemoidentified."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0145",
+        "SRC-0146",
+        "SRC-0160",
+        "SRC-0161",
+        "SRC-0162"
+      ],
+      "section": "Item12",
+      "rationale": "Monitoring, reporting, records and equipment components explicit."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0145",
+        "SRC-0146",
+        "SRC-0160",
+        "SRC-0161",
+        "SRC-0162"
+      ],
+      "section": "Item12",
+      "rationale": "ECEC totalcomp multiplied2.1 forindustryvariation/overhead withoutempiricalfactor support."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0145",
+        "SRC-0146",
+        "SRC-0160",
+        "SRC-0161",
+        "SRC-0162"
+      ],
+      "section": "Item13",
+      "rationale": "Ten-yearlife/7%methodidentified butrecenttablemixesannualizedcapital andO&M; RATArateconflict."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0145",
+        "SRC-0146",
+        "SRC-0160",
+        "SRC-0161",
+        "SRC-0162"
+      ],
+      "section": "Item14",
+      "rationale": "GSgrades andtaskhours explicit; annualsummarycostomittedfromtotal."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0145",
+        "SRC-0146",
+        "SRC-0160",
+        "SRC-0161",
+        "SRC-0162"
+      ],
+      "section": "Item15",
+      "rationale": "Nohour/nonlaborchange andwageupdate stated."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0145",
+        "SRC-0146",
+        "SRC-0160",
+        "SRC-0161",
+        "SRC-0162"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Historicalcostmodelandfour knownfacilities; currentprices/validationlimited."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0145",
+        "SRC-0146",
+        "SRC-0160",
+        "SRC-0161",
+        "SRC-0162"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Federalcost andRATA unitprice conflicts; sourcecostscopenotcleanlymapped."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202502-2060-039/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 2060-0719 | ICR Reference No: 202502-2060-039 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202010-2060-005 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 06/22/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 06/22/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 02/28/2025"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 02/28/2025 | Terms of Clearance: In accordance with 5 CFR 1320, the information collection is approved for three years. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0146",
+        "document_date": "02/28/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

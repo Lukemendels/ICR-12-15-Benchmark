@@ -7,12 +7,12 @@
   "archetype": "maritime credential enrollment",
   "complexity": "high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 8,
   "rubric_version": "1.0.0",
   "source_ids": [
-    "SRC-0180",
-    "SRC-0179"
+    "SRC-0179",
+    "SRC-0180"
   ],
   "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
   "score": {
@@ -175,7 +175,9 @@
       "difference": 1,
       "unit": "hours",
       "interpretation": "One-hour roundedcomponentdifference.",
-      "source_id": "SRC-0180"
+      "source_id": "SRC-0180",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Fee total",
@@ -185,7 +187,9 @@
       "difference": 1,
       "unit": "USD",
       "interpretation": "One-dollarrounding.",
-      "source_id": "SRC-0180"
+      "source_id": "SRC-0180",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Replacement precise minutes",
@@ -195,7 +199,9 @@
       "difference": -159.1833333333334,
       "unit": "hours",
       "interpretation": "159.18hours differencefromrounded.12h.",
-      "source_id": "SRC-0180"
+      "source_id": "SRC-0180",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Wage",
@@ -205,8 +211,123 @@
       "difference": -0.0005623228225744015,
       "unit": "USD/hour",
       "interpretation": "Weightedratecorrect despiteinvertedlabel.",
-      "source_id": "SRC-0180"
+      "source_id": "SRC-0180",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 75
+  "total_score": 75,
+  "complexity_original": "high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0179",
+        "SRC-0180"
+      ],
+      "section": "Item12",
+      "rationale": "Three-year cohort/pathway tables reconstruct totals; early time rounding and labels conflict."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0179",
+        "SRC-0180"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Historical TWIC population, exactOEWSandECEC references; forecasts and data-selection details less accessible."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0179",
+        "SRC-0180"
+      ],
+      "section": "Item12",
+      "rationale": "New/comparable/renewal/replacement, online/inperson, pickup, appeals and surveys separated."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0179",
+        "SRC-0180"
+      ],
+      "section": "Item12",
+      "rationale": "Seven wage populations andratio loading explicit; nationaltruckdriver majority weakTWICrepresentativeness; inverted equation label."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0179",
+        "SRC-0180"
+      ],
+      "section": "Item13",
+      "rationale": "Fee schedules and reduced-fee cohorts explicit, appeal copies separated."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0179",
+        "SRC-0180"
+      ],
+      "section": "Item14",
+      "rationale": "Federal cost equated with fee revenue, not resource workload; revenue-model scope acknowledged."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0179",
+        "SRC-0180"
+      ],
+      "section": "Item15",
+      "rationale": "Old/new hours/respondents andfeechange, no driver-level dollar/hour decomposition."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0179",
+        "SRC-0180"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Administrative disqualification andusage shares; six-hour appeal assumption lacks evidence."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0179",
+        "SRC-0180"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Core totals largelyreconcile; survey/appeal respondents duplicated as uniquepeople and severalfee-count labels wrong."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202504-1652-008/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1652-0047 | ICR Reference No: 202504-1652-008 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202502-1652-004 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 01/26/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 01/26/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 05/05/2025"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 05/05/2025 | Terms of Clearance: The agency updated its burden estimates and discussion of the change associated with the collection. Previous terms of clearance continue to apply. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0180",
+        "document_date": "12/11/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

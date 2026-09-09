@@ -5,9 +5,9 @@
   "title": "Cybersecurity Maturity Model Certification (CMMC) Enterprise Mission Assurance Support-Service (eMASS) Instantiation Information Collection",
   "submission_date": "06/26/2024",
   "archetype": "cybersecurity assessment data uploads",
-  "complexity": "moderate",
+  "complexity": "medium",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 7,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -108,7 +108,9 @@
       "difference": 0.0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0138"
+      "source_id": "SRC-0138",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Labor",
@@ -118,8 +120,141 @@
       "difference": -0.4500000000698492,
       "unit": "USD",
       "interpretation": "Dollar rounding.",
-      "source_id": "SRC-0138"
+      "source_id": "SRC-0138",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 72
+  "total_score": 72,
+  "complexity_original": "moderate",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0137",
+        "SRC-0138",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Item12",
+      "rationale": "Two upload equations explicit; respondent identity and composite aggregation obscure the population."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0137",
+        "SRC-0138",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Detailed final-rule cost analysis supplements the statement, but no accessible underlying rate database."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0137",
+        "SRC-0138",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Item12",
+      "rationale": "Accreditation-body and C3PAO submissions separated; certifying entities substituted for actual uploading organizations."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0137",
+        "SRC-0138",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Item12",
+      "rationale": "GS proxy for accreditation body and composite assessor rate; RIA explains internal versus vendor loading but exact211.70 derivation absent."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0137",
+        "SRC-0138",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Item13",
+      "rationale": "Electronic upload has no additional respondent equipment cost; scope reasonably justified."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0137",
+        "SRC-0138",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Item14",
+      "rationale": "System O&M total linked to historical cost method in RIA;2731861 not directly bridged to its public series."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0137",
+        "SRC-0138",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Item15",
+      "rationale": "New control and cross-control scope explicit; no previous inventory to decompose."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0137",
+        "SRC-0138",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "DoD cost expertise, historical eMASS costs and consultation; time assumptions not tested publicly."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0137",
+        "SRC-0138",
+        "SRC-0163",
+        "SRC-0164"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Arithmetic exact but10942 organizations seeking certification are not necessarily10942 distinct C3PAOs."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202405-0704-001/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 0704-0676 | ICR Reference No: 202405-0704-001 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202311-0704-006 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 10/15/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 10/15/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 06/26/2024"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 06/26/2024 | Terms of Clearance: This collection is approved based on the revised materials provided by the Department. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0138",
+        "document_date": "10/15/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

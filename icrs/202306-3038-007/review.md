@@ -1,28 +1,28 @@
 # Swap Data Recordkeeping and Reporting Requirements
 
-Provisional review. 202306-3038-007; sources SRC-0125, SRC-0124.
+Reviewed under rubric1.0.0. 202306-3038-007; sources SRC-0124, SRC-0125.
 
-Score 67/100. Public documentation only. extensive statement; high complexity.
+Score 67/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 16. Attachment rows show activity formulas and four IC totals; displayed frequency/count and system-response inconsistencies.
+- reproducibility: 16/20. Attachment rows show activity formulas and four IC totals; displayed frequency/count and system-response inconsistencies.
 
-- provenance: 9. BLS2022 financial industry source and labor mix for new rate; inherited rates less traceable.
+- provenance: 9/15. BLS2022 financial industry source and labor mix for new rate; inherited rates less traceable.
 
-- segmentation: 14. Nine reporting activities, records, DCOs, corrections and new systems separated.
+- segmentation: 14/15. Nine reporting activities, records, DCOs, corrections and new systems separated.
 
-- labor: 6. 50/25/25 programmer/compliance/lawyer mix and1.3 loading; component wages and occupation codes omitted.
+- labor: 6/10. 50/25/25 programmer/compliance/lawyer mix and1.3 loading; component wages and occupation codes omitted.
 
-- item13: 5. Zero justified by inclusion in labor, without a detailed purchased-system boundary.
+- item13: 5/10. Zero justified by inclusion in labor, without a detailed purchased-system boundary.
 
-- item14: 5. No incremental staff/technology asserted, not a full workload model.
+- item14: 5/10. No incremental staff/technology asserted, not a full workload model.
 
-- item15: 8. Exact2825-hour program increment connects1093 reporting and1732 system hours.
+- item15: 8/10. Exact2825-hour program increment connects1093 reporting and1732 system hours.
 
-- validation: 2. Staff experience; little independent support for large transaction frequencies or one-hour system changes.
+- validation: 2/5. Staff experience; little independent support for large transaction frequencies or one-hour system changes.
 
-- consistency: 2. New UPI response frequency63 conflicts with109300 annual responses; new systems annual-response column1 conflicts with1732 entities.
+- consistency: 2/5. New UPI response frequency63 conflicts with109300 annual responses; new systems annual-response column1 conflicts with1732 entities.
 
 ## Reconstruction issues
 

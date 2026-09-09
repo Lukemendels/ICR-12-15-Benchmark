@@ -1,28 +1,28 @@
 # Security Plan for Ports, Vessels, Facilities, Outer Continental Shelf Facilities and Other Security-Related Requirements
 
-Provisional review. 202408-1625-012; sources SRC-0174, SRC-0173.
+Reviewed under rubric1.0.0. 202408-1625-012; sources SRC-0173, SRC-0174, SRC-0181.
 
-Score 77/100. Public documentation only. extensive statement; high complexity.
+Score 77/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 18. Appendix reconstructs allpopulation/activitytotals; some conservativecohortrounding.
+- reproducibility: 18/20. Appendix reconstructs allpopulation/activitytotals; some conservativecohortrounding.
 
-- provenance: 10. MISLEpopulation,OEWS2023SOCandCGcostinstruction; timeandfederalrateversionsnotfullyspecified.
+- provenance: 10/15. MISLEpopulation,OEWS2023SOCandCGcostinstruction; timeandfederalrateversionsnotfullyspecified.
 
-- segmentation: 14. Port,vessel,facility,OCS,new/annual/fiveyearanddeclarations distinguished.
+- segmentation: 14/15. Port,vessel,facility,OCS,new/annual/fiveyearanddeclarations distinguished.
 
-- labor: 6. Complianceofficerwage+50%rounded58; loadingfactorasserted.
+- labor: 6/10. Complianceofficerwage+50%rounded58; loadingfactorasserted.
 
-- item13: 8. Explicitzeroequipment/maintenance forplan/reportcollection; reasonlimited.
+- item13: 8/10. Explicitzeroequipment/maintenance forplan/reportcollection; reasonlimited.
 
-- item14: 6. Contract380000plusfacility1.92m;43units*.5FTEformula butLTwagerateomitted.
+- item14: 6/10. Contract380000plusfacility1.92m;43units*.5FTEformula butLTwagerateomitted.
 
-- item15: 8. 980responses*2min=>33hprogramreduction linkedtoremovedaddendum.
+- item15: 8/10. 980responses*2min=>33hprogramreduction linkedtoremovedaddendum.
 
-- validation: 3. MISLEandoperationalexperience;100%stakeholderparticipationacknowledgedupperbound.
+- validation: 3/5. MISLEandoperationalexperience;100%stakeholderparticipationacknowledgedupperbound.
 
-- consistency: 4. Appendix totalsreconcile; unique stakeholderoverlap andperiodicreviewpartition notfullyvalidated.
+- consistency: 4/5. Appendix totalsreconcile; unique stakeholderoverlap andperiodicreviewpartition notfullyvalidated.
 
 ## Reconstruction issues
 

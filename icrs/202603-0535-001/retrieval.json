@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202603-0535-001",
+  "retrieved_at": "2026-09-09T12:17:22.065159+00:00",
+  "documents": [
+    {
+      "title": "0213-ags-2026 - SSA - 03-11-2026.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=167082401",
+      "path": "icrs/202603-0535-001/raw/supporting-statement-a-1.docx",
+      "sha256": "a45e9fad7a4fba3fd3ab0a554b39298afab554b3d803c8600049d0d08a6c5faf",
+      "text_chars": 37388
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202603-0535-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202603-0535-001",
+  "agency": "USDA/NASS",
+  "title": "Agricultural Surveys Program",
+  "omb_control_number": "0535-0213",
+  "submission_date": "03/17/2026",
+  "record_source_id": "SRC-0188",
+  "supporting_statement_source_ids": [
+    "SRC-0189"
+  ]
+}

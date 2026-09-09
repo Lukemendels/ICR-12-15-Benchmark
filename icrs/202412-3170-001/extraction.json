@@ -6,8 +6,8 @@
   "submission_date": "12/06/2024",
   "archetype": "financial data access infrastructure",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 2,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -137,7 +137,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0046"
+      "source_id": "SRC-0046",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Vendor cost",
@@ -147,7 +149,9 @@
       "difference": 0.0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0046"
+      "source_id": "SRC-0046",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Startup per prose",
@@ -157,10 +161,123 @@
       "difference": -16871400.0,
       "unit": "USD",
       "interpretation": "Classification conflicts with table",
-      "source_id": "SRC-0046"
+      "source_id": "SRC-0046",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 54,
   "table_evidence_path": "icrs/202412-3170-001/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0045",
+        "SRC-0046"
+      ],
+      "section": "Item12",
+      "rationale": "Seven population-times rows reconstruct total hours; underlying task times not decomposed."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0045",
+        "SRC-0046"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Vendor midpoint, population, hours and labor prices not adequately sourced in Items12–15."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0045",
+        "SRC-0046"
+      ],
+      "section": "Item12",
+      "rationale": "Providers versus third parties and startup versus ongoing meaningful; outsourcing split requires overlap check."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0045",
+        "SRC-0046"
+      ],
+      "section": "Item12",
+      "rationale": "No respondent labor-dollar estimate or wage methodology in retrieved Item12."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0045",
+        "SRC-0046"
+      ],
+      "section": "Item13",
+      "rationale": "Vendor scope allocation explicit; table reverses one-time versus ongoing relative to prose; annualization horizon unclear."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0045",
+        "SRC-0046"
+      ],
+      "section": "Item14",
+      "rationale": "Zero because Bureau receives no data; oversight and incremental systems scope not addressed."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0045",
+        "SRC-0046"
+      ],
+      "section": "Item15",
+      "rationale": "New collection identified but no complete zero-to-new annualized bridge."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0045",
+        "SRC-0046"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Acknowledges vendor economies of scale; no quantified timing validation."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0045",
+        "SRC-0046"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Item13 one-time/ongoing assignment reverses; response total sums obligation events while unique entities separate."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 3170-0081 | ICR Reference No: 202412-3170-001 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Historical Active | Previous ICR Reference No: 202310-3170-001 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 05/28/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 05/28/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 12/06/2024"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 12/06/2024 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0046",
+        "document_date": "12/06/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

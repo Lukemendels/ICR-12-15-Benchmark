@@ -7,12 +7,13 @@
   "archetype": "maritime security plans and declarations",
   "complexity": "high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 8,
   "rubric_version": "1.0.0",
   "source_ids": [
+    "SRC-0173",
     "SRC-0174",
-    "SRC-0173"
+    "SRC-0181"
   ],
   "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
   "score": {
@@ -175,7 +176,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0174"
+      "source_id": "SRC-0174",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Labor",
@@ -185,7 +188,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact.",
-      "source_id": "SRC-0174"
+      "source_id": "SRC-0174",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Change",
@@ -195,7 +200,9 @@
       "difference": -0.3333333333333357,
       "unit": "hours",
       "interpretation": "Wholehourrounding.",
-      "source_id": "SRC-0174"
+      "source_id": "SRC-0174",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal",
@@ -205,8 +212,132 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exactcomponenttotal.",
-      "source_id": "SRC-0174"
+      "source_id": "SRC-0174",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 77
+  "total_score": 77,
+  "complexity_original": "high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0173",
+        "SRC-0174",
+        "SRC-0181"
+      ],
+      "section": "Item12",
+      "rationale": "Appendix reconstructs allpopulation/activitytotals; some conservativecohortrounding."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0173",
+        "SRC-0174",
+        "SRC-0181"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "MISLEpopulation,OEWS2023SOCandCGcostinstruction; timeandfederalrateversionsnotfullyspecified."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0173",
+        "SRC-0174",
+        "SRC-0181"
+      ],
+      "section": "Item12",
+      "rationale": "Port,vessel,facility,OCS,new/annual/fiveyearanddeclarations distinguished."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0173",
+        "SRC-0174",
+        "SRC-0181"
+      ],
+      "section": "Item12",
+      "rationale": "Complianceofficerwage+50%rounded58; loadingfactorasserted."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0173",
+        "SRC-0174",
+        "SRC-0181"
+      ],
+      "section": "Item13",
+      "rationale": "Explicitzeroequipment/maintenance forplan/reportcollection; reasonlimited."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0173",
+        "SRC-0174",
+        "SRC-0181"
+      ],
+      "section": "Item14",
+      "rationale": "Contract380000plusfacility1.92m;43units*.5FTEformula butLTwagerateomitted."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0173",
+        "SRC-0174",
+        "SRC-0181"
+      ],
+      "section": "Item15",
+      "rationale": "980responses*2min=>33hprogramreduction linkedtoremovedaddendum."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0173",
+        "SRC-0174",
+        "SRC-0181"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "MISLEandoperationalexperience;100%stakeholderparticipationacknowledgedupperbound."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0173",
+        "SRC-0174",
+        "SRC-0181"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Appendix totalsreconcile; unique stakeholderoverlap andperiodicreviewpartition notfullyvalidated."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": null,
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1625-0077 | ICR Reference No: 202408-1625-012 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202210-1625-002 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 09/18/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 09/18/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 09/30/2024"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 09/30/2024 | Terms of Clearance: The agency amended its burden reduction estimates. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0174",
+        "document_date": "09/18/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

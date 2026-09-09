@@ -7,12 +7,12 @@
   "archetype": "airport security programs and vetting",
   "complexity": "high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 8,
   "rubric_version": "1.0.0",
   "source_ids": [
-    "SRC-0176",
-    "SRC-0175"
+    "SRC-0175",
+    "SRC-0176"
   ],
   "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
   "score": {
@@ -168,7 +168,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact rounded-row sum.",
-      "source_id": "SRC-0176"
+      "source_id": "SRC-0176",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "CHRC fee",
@@ -178,7 +180,9 @@
       "difference": -1550.0,
       "unit": "USD",
       "interpretation": "1550difference.",
-      "source_id": "SRC-0176"
+      "source_id": "SRC-0176",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal",
@@ -188,7 +192,9 @@
       "difference": -1.0285098226740956,
       "unit": "USD",
       "interpretation": "Unroundedrate reproducesroundedtotal.",
-      "source_id": "SRC-0176"
+      "source_id": "SRC-0176",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Applicant loading",
@@ -198,8 +204,123 @@
       "difference": 15.713642671292284,
       "unit": "USD/hour",
       "interpretation": "Footnote method conflicts with usedrate.",
-      "source_id": "SRC-0176"
+      "source_id": "SRC-0176",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 71
+  "total_score": 71,
+  "complexity_original": "high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0175",
+        "SRC-0176"
+      ],
+      "section": "Item12",
+      "rationale": "Ten activity tables and rates reconstruct most burden; conflicts in compensation and fees."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0175",
+        "SRC-0176"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Precise2023OEWS/June2024ECEC citations and TSA2024pay; fees still2011/2019basis."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0175",
+        "SRC-0176"
+      ],
+      "section": "Item12",
+      "rationale": "Programs, amendment types, applicants, data entry and records separated."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0175",
+        "SRC-0176"
+      ],
+      "section": "Item12",
+      "rationale": "Ratio loading transparent, but applicant footnote50.19 conflicts with34.48 used and overlapping SOC aggregates not weighted explicitly."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0175",
+        "SRC-0176"
+      ],
+      "section": "Item13",
+      "rationale": "CHRC price from historical range/GDPdeflator; current validation absent."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0175",
+        "SRC-0176"
+      ],
+      "section": "Item14",
+      "rationale": "435airports*28.5hours*H-band rate, source annual compensation and2087denominator explicit."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0175",
+        "SRC-0176"
+      ],
+      "section": "Item15",
+      "rationale": "Only qualitative updates, no old/new quantified bridge."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0175",
+        "SRC-0176"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "TSA subject-matter estimates; no accessible timing tests or ranges for dominant activities."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0175",
+        "SRC-0176"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Labor footnotes conflict with tables; fee mismatch and respondent-unit terminology."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202412-1652-001/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1652-0002 | ICR Reference No: 202412-1652-001 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202106-1652-002 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 05/22/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 05/22/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 03/20/2025"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 03/20/2025 | Terms of Clearance: OMB applauds TSA for its efforts to work with other agencies to eliminate duplication, and we look forward to continuing to work with TSA to further reduce burden on respondents. TSA will provide an update on its ongoing efforts to eliminate duplication the next time it renews this collection. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0176",
+        "document_date": "03/20/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

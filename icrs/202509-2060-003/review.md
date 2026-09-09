@@ -1,28 +1,28 @@
 # NESHAP for Gasoline Distribution Bulk Terminals, Bulk Plants, Pipeline Facilities and Gasoline Dispensing Facilities (40 CFR part 63, subparts BBBBBB and CCCCCC) (Final Rule)
 
-Provisional review. 202509-2060-003; sources SRC-0092, SRC-0091, SRC-0104, SRC-0103.
+Reviewed under rubric1.0.0. 202509-2060-003; sources SRC-0091, SRC-0092, SRC-0103, SRC-0104.
 
-Score 68/100. Public documentation only. extensive statement; very high complexity.
+Score 68/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 18. Retrieved full baseline plus increment reconstruct ROCIS hours/responses; detailed sector/role appendices available.
+- reproducibility: 18/20. Retrieved full baseline plus increment reconstruct ROCIS hours/responses; detailed sector/role appendices available.
 
-- provenance: 9. Baseline ECEC2020 and new OEWS2021 identified; legacy burden assumptions and source dates need renewal.
+- provenance: 9/15. Baseline ECEC2020 and new OEWS2021 identified; legacy burden assumptions and source dates need renewal.
 
-- segmentation: 15. Terminals, plants, stations and dispensing facilities; technical/manager/clerical roles; transition years.
+- segmentation: 15/15. Terminals, plants, stations and dispensing facilities; technical/manager/clerical roles; transition years.
 
-- labor: 3. Baseline starts with total compensation then adds110% for benefits, double-counting benefits as described; new model uses wages and same factor.
+- labor: 3/10. Baseline starts with total compensation then adds110% for benefits, double-counting benefits as described; new model uses wages and same factor.
 
-- item13: 6. Baseline CPMS maintenance110*1000 explicit; incrementalzero lacks full monitoring-capital scope justification.
+- item13: 6/10. Baseline CPMS maintenance110*1000 explicit; incrementalzero lacks full monitoring-capital scope justification.
 
-- item14: 5. Baseline federal23900hours/1.19million and new7261hours/362782 are separate; ROCIS reports only increment.
+- item14: 5/10. Baseline federal23900hours/1.19million and new7261hours/362782 are separate; ROCIS reports only increment.
 
-- item15: 8. 214000+83882 and6900+3161 reconcile; old underlying213592 rounded to214000 must remain distinct.
+- item15: 8/10. 214000+83882 and6900+3161 reconcile; old underlying213592 rounded to214000 must remain distinct.
 
-- validation: 2. Agency experience and legacy standards, without measured current time validation.
+- validation: 2/5. Agency experience and legacy standards, without measured current time validation.
 
-- consistency: 2. Current package combines full respondent burden with incremental federal cost; mixed source price years and baseline loading error.
+- consistency: 2/5. Current package combines full respondent burden with incremental federal cost; mixed source price years and baseline loading error.
 
 ## Reconstruction issues
 

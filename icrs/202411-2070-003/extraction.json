@@ -6,8 +6,8 @@
   "submission_date": "11/27/2024",
   "archetype": "chemical release reporting andnonreporter determination",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 3,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -159,7 +159,9 @@
       "difference": 29.16258000023663,
       "unit": "hours",
       "interpretation": "Small rounding difference",
-      "source_id": "SRC-0062"
+      "source_id": "SRC-0062",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Loaded mix",
@@ -169,7 +171,9 @@
       "difference": -0.020160000000018385,
       "unit": "USD/hour",
       "interpretation": "Rounding",
-      "source_id": "SRC-0062"
+      "source_id": "SRC-0062",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal total",
@@ -179,10 +183,123 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0062"
+      "source_id": "SRC-0062",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 75,
   "table_evidence_path": "icrs/202411-2070-003/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ],
+      "section": "Item12",
+      "rationale": "Counts,constant burdens andratios reconstruct total; FormA formula labelsforms instead ofchemicals."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Specific RBBM2011 reference,2023ECEC andadministrative counts; inheritedconstants need independent revalidation."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ],
+      "section": "Item12",
+      "rationale": "Forms,chemicals,facilities andnonreporters distinct; facility distributions expose heterogeneity."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ],
+      "section": "Item12",
+      "rationale": "Separate wages,benefits,20%overhead and3/89/8 mix; overhead andweights inherited."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ],
+      "section": "Item13",
+      "rationale": "Zero directly attributable capital/O&M asserted; more scope rationale desirable."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ],
+      "section": "Item14",
+      "rationale": "Actualheadcounts,GS13/1 andnonFTE categories; gross costs reconstruct,load components notfully exposed."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ],
+      "section": "Item15",
+      "rationale": "Consolidated rules and13442notification hours described; no complete driver bridge."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Observed filing distributions; legacyburden calibration remains critical."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0061",
+        "SRC-0062"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Minor rounding,onechemical count discrepancy,forms-versus-chemicals equationlabel error."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 2070-0212 | ICR Reference No: 202411-2070-003 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Historical Active | Previous ICR Reference No: 202401-2070-002 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 12/31/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 12/31/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 11/27/2024"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 11/27/2024 | Terms of Clearance: In accordance with 5 CFR 1320, the information collection is approved for three years. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0062",
+        "document_date": "12/30/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

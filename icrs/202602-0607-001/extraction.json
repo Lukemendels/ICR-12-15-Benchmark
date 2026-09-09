@@ -6,8 +6,8 @@
   "submission_date": "02/17/2026",
   "archetype": "business statistical survey consolidation",
   "complexity": "medium",
-  "tsa_relevance": "method transfer",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "technique",
+  "review_status": "REVIEWED",
   "review_iteration": 2,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -112,7 +112,9 @@
       "difference": 0.3333333333139308,
       "unit": "hours",
       "interpretation": "One-hour rounding",
-      "source_id": "SRC-0050"
+      "source_id": "SRC-0050",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Labor",
@@ -122,7 +124,9 @@
       "difference": -0.3200000002980232,
       "unit": "USD",
       "interpretation": "Rounding",
-      "source_id": "SRC-0050"
+      "source_id": "SRC-0050",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Transfer",
@@ -132,10 +136,123 @@
       "difference": -158.33333333332848,
       "unit": "hours",
       "interpretation": "Not explained by whole-hour rounding",
-      "source_id": "SRC-0050"
+      "source_id": "SRC-0050",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 71,
   "table_evidence_path": "icrs/202602-0607-001/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "medium",
+  "tsa_relevance_original": "method transfer",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0049",
+        "SRC-0050"
+      ],
+      "section": "Item12",
+      "rationale": "Three clear rows reconstruct totals with one-hour rounding; transferred BERD burden differs from stated minutes."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0049",
+        "SRC-0050"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "BLS May2024 SOC specified; accountant proxy sensible; timing provenance partly inherited."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0049",
+        "SRC-0050"
+      ],
+      "section": "Item12",
+      "rationale": "Employer with/without BERD and nonprofit scope distinguished."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0049",
+        "SRC-0050"
+      ],
+      "section": "Item12",
+      "rationale": "44.96 base accountant wage no benefit treatment."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0049",
+        "SRC-0050"
+      ],
+      "section": "Item13",
+      "rationale": "Clear zero rationale: existing records,no new software,customary outside services."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0049",
+        "SRC-0050"
+      ],
+      "section": "Item14",
+      "rationale": "10m total and20/80 funding split; activity costs not quantified."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0049",
+        "SRC-0050"
+      ],
+      "section": "Item15",
+      "rationale": "Added16minutes and transferred BERD identified;124450 transfer does not reproduce157minutes*47500."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0049",
+        "SRC-0050"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Cognitive and usability testing planned, not evidence completed for all burden times."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0049",
+        "SRC-0050"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Inconsistent transfer arithmetic; main table mostly reconciles."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 0607-1004 | ICR Reference No: 202602-0607-001 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202503-0607-003 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 05/15/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 05/15/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 02/17/2026"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 02/17/2026 | Terms of Clearance: OMB approves consistent with the understanding that: 1) the Census Bureau should transmit all data collected, or documents prepared, under OMB Control Number 0607-1004 upon request to the National Center for Science and Engineering Statistics; 2) the Census Bureau must consult with and obtain written approval from the National Center for Science and Engineering Statistics on any future planned revisions to this ICR prior to submission to OMB; and 3) all data assets resulting from this collection must be cataloged in the agency comprehensive data inventory, consistent with the Foundations for Evidence-Based Policymaking Act of 2018, OMB M-25-05, and other related policies and guidance. Within 90 days of this approval and as requested thereafter, the Census Bureau and the National Center for Science and Engineering Statistics must brief OMB on the implementation of the Annual Business Survey collected in 2026 and provide an overview of any planned, proposed revisions to the Annual Business Survey collected in 2027. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0050",
+        "document_date": "05/15/2026"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

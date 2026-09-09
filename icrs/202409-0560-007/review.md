@@ -1,28 +1,28 @@
 # Farm Loan Programs - Direct Loan Servicing - Special ( 7 CFR 766)
 
-Provisional review. 202409-0560-007; sources SRC-0142, SRC-0141.
+Reviewed under rubric1.0.0. 202409-0560-007; sources SRC-0141, SRC-0142, SRC-0155.
 
-Score 69/100. Public documentation only. extensive statement; high complexity.
+Score 69/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 18. 34-row workbook reconstructs nearly all form burden; one.75-hour row error.
+- reproducibility: 18/20. 34-row workbook reconstructs nearly all form burden; one.75-hour row error.
 
-- provenance: 10. OEWS2023 SOCs and2024RUS federal pay; workload report not public here.
+- provenance: 10/15. OEWS2023 SOCs and2024RUS federal pay; workload report not public here.
 
-- segmentation: 14. Farmer and creditor roles with individual forms and nonform activities.
+- segmentation: 14/15. Farmer and creditor roles with individual forms and nonform activities.
 
-- labor: 5. Two unadjusted occupational wages; farmers called household income; no benefits.
+- labor: 5/10. Two unadjusted occupational wages; farmers called household income; no benefits.
 
-- item13: 3. 36000 appraisal purchases disclosed but Item13 denies purchases and ROCIS needs reconciliation.
+- item13: 3/10. 36000 appraisal purchases disclosed but Item13 denies purchases and ROCIS needs reconciliation.
 
-- item14: 7. 287810 workload hours and GS9–12 average+33.3% explicit; source workload report not attached.
+- item14: 7/10. 287810 workload hours and GS9–12 average+33.3% explicit; source workload report not attached.
 
-- item15: 6. No change explained using pre-moratorium activity as forecast baseline.
+- item15: 6/10. No change explained using pre-moratorium activity as forecast baseline.
 
-- validation: 3. Prior workload and servicing experience; forecast restart assumptions uncertain.
+- validation: 3/5. Prior workload and servicing experience; forecast restart assumptions uncertain.
 
-- consistency: 3. Workbook total matches SSA, but appraisal scope and one row conflict.
+- consistency: 3/5. Workbook total matches SSA, but appraisal scope and one row conflict.
 
 ## Reconstruction issues
 

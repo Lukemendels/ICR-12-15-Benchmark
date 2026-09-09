@@ -6,8 +6,8 @@
   "submission_date": "09/06/2024",
   "archetype": "certified cargo screening and canine certification",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 2,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -173,7 +173,9 @@
       "difference": 1598,
       "unit": "hours",
       "interpretation": "Material subtotal discrepancy",
-      "source_id": "SRC-0040"
+      "source_id": "SRC-0040",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Fee",
@@ -183,7 +185,9 @@
       "difference": 4100,
       "unit": "USD",
       "interpretation": "Wrong count or total",
-      "source_id": "SRC-0040"
+      "source_id": "SRC-0040",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Fee using Item12",
@@ -193,7 +197,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0040"
+      "source_id": "SRC-0040",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal hours",
@@ -203,10 +209,123 @@
       "difference": 0.0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0040"
+      "source_id": "SRC-0040",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 60,
   "table_evidence_path": "icrs/202408-1652-002/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0039",
+        "SRC-0040"
+      ],
+      "section": "Item12",
+      "rationale": "Many atomic rows expose calculations but security-program subtotal wrong and application overlap unresolved."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0039",
+        "SRC-0040"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "OEWS/ECEC specific sources; clerical ECEC URL points2020 despite2023 label; federal pay internal."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0039",
+        "SRC-0040"
+      ],
+      "section": "Item12",
+      "rationale": "Facilities,canine providers,certifiers andmultiple activities; some apparent duplication."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0039",
+        "SRC-0040"
+      ],
+      "section": "Item12",
+      "rationale": "Employment-weighted cargo wage transparent; canine private wage uses federal salary proxy with limited justification."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0039",
+        "SRC-0040"
+      ],
+      "section": "Item13",
+      "rationale": "41fee explicit but6959*41 does not equal281219; fee matches6859."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0039",
+        "SRC-0040"
+      ],
+      "section": "Item14",
+      "rationale": "Six federal task categories largely reconcile; some precision and subtitle errors."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0039",
+        "SRC-0040"
+      ],
+      "section": "Item15",
+      "rationale": "Old16040/new17662 shown with response change, but no quantified driver attribution."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0039",
+        "SRC-0040"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Agency activity estimates without calibration or ranges."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0039",
+        "SRC-0040"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Large subtotal error, repeated new-certification burden and fee count mismatch."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1652-0053 | ICR Reference No: 202408-1652-002 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202105-1652-001 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 11/13/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 11/13/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 09/06/2024"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 09/06/2024 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0040",
+        "document_date": "09/04/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

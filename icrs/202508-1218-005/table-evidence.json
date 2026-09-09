@@ -1,0 +1,1303 @@
+[
+  {
+    "file": "icrs/202508-1218-005/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "TABLE 1 –  WAGE   HOUR ESTIMATES "
+      ],
+      [
+        "Occupational Title",
+        "SO C  Code",
+        "Mean Hour Wage Rage  (A)",
+        "Fringe Benefits  (B)",
+        "Loaded Hourly Wage Rage  (C) = (A)/(1-B)"
+      ],
+      [
+        "Engineers",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Level III",
+        "17-0000",
+        "$ 47.64",
+        "0.29 5",
+        "$ 67.57"
+      ],
+      [
+        "Level IV",
+        "17-2199",
+        "$56.90",
+        "0.29 5",
+        "$ 80. 71"
+      ],
+      [
+        "Level V",
+        "17-2041",
+        "$59.09",
+        "0.29 5",
+        "$ 83. 82"
+      ],
+      [
+        "Blue Collar Supervisor ",
+        "51-1011",
+        "$34.48",
+        "0.29 5",
+        "$48.9 1"
+      ],
+      [
+        "Production Workers",
+        "51-0000",
+        "$22.90",
+        "0.29 5",
+        "$32. 48"
+      ],
+      [
+        "Service Worker",
+        "39-0000",
+        "$18.48",
+        "0.29 5",
+        "$26. 21"
+      ],
+      [
+        "Clerical Worker",
+        "43-9061",
+        "$20.94",
+        "0.29 5",
+        "$29. 70"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202508-1218-005/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Table 2 -- Estimated Annualized Respondent Burden Hour and Cost  ",
+        " "
+      ],
+      [
+        "Information Collection Requirement",
+        "Respondent s*",
+        "Type of Respondent",
+        "No. of Respondents",
+        "Responses per Respondent",
+        "Time per Response (H ours )",
+        "Burden Hours",
+        "Loaded  Hourly Wage ",
+        "Burden Costs",
+        "Total Response s"
+      ],
+      [
+        "(A) Employee Participation (paragraph (c)( 1)-( c)(3))",
+        " "
+      ],
+      [
+        "§1910.119(c)(3)",
+        "Employee ",
+        "Employee Participation",
+        "0",
+        "0",
+        "0",
+        "0",
+        "$32.48 ",
+        "$0.00 ",
+        "0"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "0",
+        " ",
+        "$0 ",
+        "0"
+      ],
+      [
+        "(B) Process Safety Information (paragraph (d))",
+        " "
+      ],
+      [
+        "§1910.119(d)",
+        "RMP Program 3 New Facilities",
+        "Level IV Engineer",
+        "131",
+        "1",
+        "50",
+        "6,550",
+        "$80.71 ",
+        "$528,651 ",
+        "131"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "131",
+        "1",
+        "50",
+        "6,550",
+        "$48.91 ",
+        "$320,361 ",
+        "131"
+      ],
+      [
+        " ",
+        " ",
+        "2 Production Worker",
+        "131",
+        "1",
+        "108",
+        "14,148",
+        "$32.48 ",
+        "$459,527 ",
+        "131"
+      ],
+      [
+        "§1910.119(d)",
+        "Lower Technological Complexity New Facilities",
+        "Level IV Engineer",
+        "43",
+        "1",
+        "10",
+        "430",
+        "$80.71 ",
+        "$34,705 ",
+        "43"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "43",
+        "1",
+        "10",
+        "430",
+        "$48.91 ",
+        "$21,031 ",
+        "43"
+      ],
+      [
+        " ",
+        " ",
+        "2 Production Worker",
+        "43",
+        "1",
+        "21.6",
+        "929",
+        "$32.48 ",
+        "$30,174 ",
+        "43"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "29,037",
+        " ",
+        "$1,394,449 ",
+        "522"
+      ],
+      [
+        "(C) Process Hazard Analysis (paragraph (e)(1))",
+        " "
+      ],
+      [
+        "§1910.119(e)(1)(i)-(v)",
+        "RMP Program 3 New Facilities",
+        "Level IV Engineer",
+        "131",
+        "1",
+        "100",
+        "13,100",
+        "$80.71 ",
+        "$1,057,301 ",
+        "131"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "131",
+        "1",
+        "100",
+        "13,100",
+        "$48.91 ",
+        "$640,721 ",
+        "131"
+      ],
+      [
+        " ",
+        " ",
+        "2 Production Worker",
+        "131",
+        "1",
+        "36",
+        "4,716",
+        "$32.48 ",
+        "$153,176 ",
+        "131"
+      ],
+      [
+        " ",
+        "Lower Technological Complexity New Facilities",
+        "Level IV Engineer",
+        "43",
+        "1",
+        "20",
+        "860",
+        "$80.71 ",
+        "$69,411 ",
+        "43"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "43",
+        "1",
+        "20",
+        "860",
+        "$48.91 ",
+        "$42,063 ",
+        "43"
+      ],
+      [
+        " ",
+        " ",
+        "2 Production Worker",
+        "43",
+        "1",
+        "7.2",
+        "310",
+        "$32.48 ",
+        "$10,069 ",
+        "43"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "32,946",
+        " ",
+        "$1,972,741 ",
+        "522"
+      ],
+      [
+        "(D) Resolution of Hazards (paragraph (e)(5))",
+        " "
+      ],
+      [
+        "§1910.119(e)(5)",
+        "RMP Program 3 New Facilities",
+        "Level IV Engineer",
+        "131",
+        "1",
+        "22",
+        "2,882",
+        "$80.71 ",
+        "$232,606 ",
+        "131"
+      ],
+      [
+        " ",
+        "Lower Technological Complexity New Facilities",
+        "Level IV Engineer",
+        "43",
+        "1",
+        "4.4",
+        "189",
+        "$80.71 ",
+        "$15,254 ",
+        "43"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "3,071",
+        " ",
+        "$247,860 ",
+        "174"
+      ],
+      [
+        "(E) Updating, Revalidating, and Retaining the Process Hazard Analysis (paragraphs (e)(6) and (e)(7))",
+        " "
+      ],
+      [
+        "§1910.119(e)(6) and (e)(7)",
+        "RMP Program 3 Existing Facilities",
+        "Level IV Engineer",
+        "1,777",
+        "1",
+        "50",
+        "88,850",
+        "$80.71 ",
+        "$7,171,084 ",
+        "1,777"
+      ],
+      [
+        " ",
+        "Lower Technological Complexity Facilities",
+        "Level IV Engineer",
+        "588",
+        "1",
+        "10",
+        "5,880",
+        "$80.71 ",
+        "$474,575 ",
+        "588"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "94,730",
+        " ",
+        "$7,645,659 ",
+        "2,365"
+      ],
+      [
+        "(F) Operating Procedures (paragraph (f)( 1)-( f)(4))",
+        " "
+      ],
+      [
+        " ",
+        "RMP Program 3 New Facility Processes",
+        "Level IV Engineer",
+        "176",
+        "1",
+        "22",
+        "3,872",
+        "$80.71 ",
+        "$312,509 ",
+        "176"
+      ],
+      [
+        " ",
+        "Lower Technological Complexity New Facility Processes",
+        "Level IV Engineer",
+        "43",
+        "1",
+        "4.4",
+        "189",
+        "$80.71 ",
+        "$15,254 ",
+        "43"
+      ],
+      [
+        " ",
+        "RMP Program 3 Existing Facility Processes",
+        "Level IV Engineer",
+        "8,885",
+        "1",
+        "4.4",
+        "39,094",
+        "$80.71 ",
+        "$3,155,277 ",
+        "8,885"
+      ],
+      [
+        " ",
+        "Lower Technological Complexity Facility Processes",
+        "Level IV Engineer",
+        "2,942",
+        "1",
+        "0.88",
+        "2,589",
+        "$80.71 ",
+        "$208,958 ",
+        "2,942"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "45,744",
+        " ",
+        "$3,691,998 ",
+        "12,046"
+      ],
+      [
+        "(G) Training Records (Documentation of Initial and Refresher Training) (paragraphs (g)( 1)-( g)(3)",
+        " "
+      ],
+      [
+        "§1910.119(g)( 1)-( g)(3)",
+        "Employee ",
+        "Training Records",
+        "749,209",
+        "1",
+        "0.05",
+        "37,460",
+        "$29.70 ",
+        "$1,112,562 ",
+        "749,209"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "37,460",
+        " ",
+        "$1,112,562 ",
+        "749,209"
+      ],
+      [
+        "(H) Contractors (paragraphs (h)(2)( i)-( h)(2)(iv), (h)(2)(vi), (h)(3)(iii)), and (h)(3)(v))",
+        " "
+      ],
+      [
+        "§1910.119(h)( 2)-( h)(3)",
+        "RMP Program 3 New Facilities",
+        "Level IV Engineer",
+        "131",
+        "1",
+        "50",
+        "6,550",
+        "$80.71 ",
+        "$528,651 ",
+        "131"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "131",
+        "1",
+        "50",
+        "6,550",
+        "$48.91 ",
+        "$320,361 ",
+        "131"
+      ],
+      [
+        " ",
+        " ",
+        "2 Production Worker",
+        "131",
+        "1",
+        "100",
+        "13,100",
+        "$32.48 ",
+        "$425,488 ",
+        "131"
+      ],
+      [
+        " ",
+        "Lower Technological Complexity New Facilities",
+        "Level IV Engineer",
+        "43",
+        "1",
+        "10",
+        "430",
+        "$80.71 ",
+        "$34,705 ",
+        "43"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "43",
+        "1",
+        "10",
+        "430",
+        "$48.91 ",
+        "$21,031 ",
+        "43"
+      ],
+      [
+        " ",
+        " ",
+        "2 Production Worker",
+        "43",
+        "1",
+        "20",
+        "860",
+        "$32.48 ",
+        "$27,933 ",
+        "43"
+      ],
+      [
+        " ",
+        "RMP Program 3 Existing Facilities",
+        "Level IV Engineer",
+        "3,014",
+        "1",
+        "10",
+        "30,140",
+        "$80.71 ",
+        "$2,432,599 ",
+        "3,014"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "3,014",
+        "1",
+        "10",
+        "30,140",
+        "$48.91 ",
+        "$1,474,147 ",
+        "3,014"
+      ],
+      [
+        " ",
+        " ",
+        "2 Production Worker",
+        "3,014",
+        "1",
+        "20",
+        "60,280",
+        "$32.48 ",
+        "$1,957,894 ",
+        "3,014"
+      ],
+      [
+        " ",
+        "Lower Technological Complexity Existing Facilities",
+        "Level IV Engineer",
+        "1,471",
+        "1",
+        "2",
+        "2,942",
+        "$80.71 ",
+        "$237,449 ",
+        "1,471"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "1,471",
+        "1",
+        "2",
+        "2,942",
+        "$48.91 ",
+        "$143,893 ",
+        "1,471"
+      ],
+      [
+        " ",
+        " ",
+        "2 Production Worker",
+        "1,471",
+        "1",
+        "4",
+        "5,884",
+        "$32.48 ",
+        "$191,112 ",
+        "1,471"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "160,248",
+        " ",
+        "$7,795,263 ",
+        "13,977"
+      ],
+      [
+        "(I) Written Procedures, Inspections, and Testing (paragraphs (j)(2) and (j)(4)(iv))",
+        " "
+      ],
+      [
+        " ",
+        "RMP Program 3 New Facilities",
+        "Level III Engineer",
+        "176",
+        "1",
+        "8",
+        "1,408",
+        "$67.57 ",
+        "$95,139 ",
+        "176"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "176",
+        "1",
+        "8.5",
+        "1,496",
+        "$48.91 ",
+        "$73,169 ",
+        "176"
+      ],
+      [
+        " ",
+        " ",
+        "Service Worker",
+        "176",
+        "1",
+        "130",
+        "22,880",
+        "$26.21 ",
+        "$599,685 ",
+        "176"
+      ],
+      [
+        " ",
+        "Lower Technological Complexity New Facilities",
+        "Level III Engineer",
+        "43",
+        "1",
+        "1.6",
+        "69",
+        "$67.57 ",
+        "$4,662 ",
+        "43"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "43",
+        "1",
+        "1.7",
+        "73",
+        "$48.91 ",
+        "$3,570 ",
+        "43"
+      ],
+      [
+        " ",
+        " ",
+        "Service Worker",
+        "43",
+        "1",
+        "26",
+        "1,118",
+        "$26.21 ",
+        "$29,303 ",
+        "43"
+      ],
+      [
+        " ",
+        "RMP Program 3 Existing Facilities",
+        "Level III Engineer",
+        "8,885",
+        "1",
+        "1.6",
+        "14,216",
+        "$67.57 ",
+        "$960,575 ",
+        "8,885"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "8,885",
+        "1",
+        "1.7",
+        "15,105",
+        "$48.91 ",
+        "$738,786 ",
+        "8,885"
+      ],
+      [
+        " ",
+        " ",
+        "Service Worker",
+        "8,885",
+        "1",
+        "26",
+        "231,010",
+        "$26.21 ",
+        "$6,054,772 ",
+        "8,885"
+      ],
+      [
+        " ",
+        "Lower Technological Complexity Facilities",
+        "Level III Engineer",
+        "2,942",
+        "1",
+        "0.32",
+        "941",
+        "$67.57 ",
+        "$63,583 ",
+        "2,942"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "2,942",
+        "1",
+        "0.34",
+        "1,000",
+        "$48.91 ",
+        "$48,910 ",
+        "2,942"
+      ],
+      [
+        " ",
+        " ",
+        "Service Worker",
+        "2,942",
+        "1",
+        "5.2",
+        "15,298",
+        "$26.21 ",
+        "$400,961 ",
+        "2,942"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "304,614",
+        " ",
+        "$9,073,115 ",
+        "36,138"
+      ],
+      [
+        "(J) Hot Work Permits (paragraph (k))",
+        " "
+      ],
+      [
+        " ",
+        "Large Establishments",
+        "Blue Collar Supervisor",
+        "6,207",
+        "18",
+        "0.1",
+        "11,173",
+        "$48.91 ",
+        "$546,471 ",
+        "126,288"
+      ],
+      [
+        " ",
+        "Small Establishments",
+        "Blue Collar Supervisor",
+        "2,937",
+        "6",
+        "0.1",
+        "1,762",
+        "$48.91 ",
+        "$86,179 ",
+        "12,198"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "12,935",
+        " ",
+        "$632,650 ",
+        "138,486"
+      ],
+      [
+        "(K) Management of Change (paragraphs (l)(1), (l)(4), and (l)(5))",
+        " "
+      ],
+      [
+        " ",
+        "Large Establishments",
+        "Level IV Engineer",
+        "6,207",
+        "1.5",
+        "18",
+        "167,589",
+        "$80.71 ",
+        "$13,526,108 ",
+        "10,524"
+      ],
+      [
+        " ",
+        " ",
+        "Production Worker",
+        "6,207",
+        "1.5",
+        "36.9",
+        "343,557",
+        "$32.48 ",
+        "$11,158,731 ",
+        "10,524"
+      ],
+      [
+        " ",
+        "Small Establishments",
+        "Level IV Engineer",
+        "2,937",
+        "1",
+        "6",
+        "17,622",
+        "$80.71 ",
+        "$1,422,272 ",
+        "2,033"
+      ],
+      [
+        " ",
+        " ",
+        "Production Worker",
+        "2,937",
+        "1",
+        "12.3",
+        "36,125",
+        "$32.48 ",
+        "$1,173,340 ",
+        "2,033"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "564,893",
+        " ",
+        "$27,280,451 ",
+        "25,114"
+      ],
+      [
+        "(L) Incident Investigations (paragraphs (m)( 4)-( m)(7)).  ",
+        " "
+      ],
+      [
+        " ",
+        "Large Establishments",
+        "Level V Engineer",
+        "6,207",
+        "1",
+        "16",
+        "99,312",
+        "$83.82 ",
+        "$8,324,332 ",
+        "7,016"
+      ],
+      [
+        " ",
+        " ",
+        "Level IV Engineer",
+        "6,207",
+        "1",
+        "48",
+        "297,936",
+        "$80.71 ",
+        "$24,046,415 ",
+        "7,016"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "6,207",
+        "1",
+        "32",
+        "198,624",
+        "$48.91 ",
+        "$9,714,700 ",
+        "7,016"
+      ],
+      [
+        " ",
+        " ",
+        "Clerical Worker",
+        "6,207",
+        "1",
+        "4",
+        "24,828",
+        "$29.70 ",
+        "$737,392 ",
+        "7,016"
+      ],
+      [
+        " ",
+        "Small Establishments",
+        "Level V Engineer",
+        "2,937",
+        "1",
+        "5.3",
+        "15,654",
+        "$83.82 ",
+        "$1,312,118 ",
+        "2,033"
+      ],
+      [
+        " ",
+        " ",
+        "Level IV Engineer",
+        "2,937",
+        "1",
+        "16",
+        "46,992",
+        "$80.71 ",
+        "$3,792,724 ",
+        "2,033"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "2,937",
+        "1",
+        "10.7",
+        "31,338",
+        "$48.91 ",
+        "$1,532,742 ",
+        "2,033"
+      ],
+      [
+        " ",
+        " ",
+        "Clerical Worker",
+        "2,937",
+        "1",
+        "1.3",
+        "3,906",
+        "$29.70 ",
+        "$116,008 ",
+        "2,033"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "718,590",
+        " ",
+        "$49,576,431 ",
+        "36,196"
+      ],
+      [
+        "(M) Emergency Planning and Response (paragraph (n))",
+        " "
+      ],
+      [
+        " ",
+        "New Establishments",
+        "Level V Engineer",
+        "174",
+        "1",
+        "1",
+        "174",
+        "$83.82 ",
+        "$14,585 ",
+        "174"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "174",
+        " ",
+        "$14,585 ",
+        "174"
+      ],
+      [
+        "(N) Compliance Audits (paragraphs (o)(1) and (o)(3) - (o)(5))",
+        " "
+      ],
+      [
+        " ",
+        "RMP Program 3 Existing Facilities",
+        "Level V Engineer",
+        "2,009",
+        "1",
+        "32",
+        "64,288",
+        "$83.82 ",
+        "$5,388,620 ",
+        "2,009"
+      ],
+      [
+        " ",
+        " ",
+        "Level IV Engineer",
+        "2,009",
+        "1",
+        "48",
+        "96,432",
+        "$80.71 ",
+        "$7,783,027 ",
+        "2,009"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "2,009",
+        "1",
+        "32",
+        "64,288",
+        "$48.91 ",
+        "$3,144,326 ",
+        "2,009"
+      ],
+      [
+        " ",
+        " ",
+        "Clerical Worker",
+        "2,009",
+        "1",
+        "8",
+        "16,072",
+        "$29.70 ",
+        "$477,338 ",
+        "2,009"
+      ],
+      [
+        " ",
+        "Lower Technological Complexity Existing Facilities",
+        "Level V Engineer",
+        "981",
+        "1",
+        "6.4",
+        "6,278",
+        "$83.82 ",
+        "$526,222 ",
+        "981"
+      ],
+      [
+        " ",
+        " ",
+        "Level IV Engineer",
+        "981",
+        "1",
+        "9.6",
+        "9,418",
+        "$80.71 ",
+        "$760,127 ",
+        "981"
+      ],
+      [
+        " ",
+        " ",
+        "Blue Collar Supervisor",
+        "981",
+        "1",
+        "6.4",
+        "6,278",
+        "$48.91 ",
+        "$307,057 ",
+        "981"
+      ],
+      [
+        " ",
+        " ",
+        "Clerical Worker",
+        "981",
+        "1",
+        "1.6",
+        "1,570",
+        "$29.70 ",
+        "$46,629 ",
+        "981"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "264,624",
+        " ",
+        "$ 18,433,346",
+        "11,960"
+      ],
+      [
+        "(O) Record Disclosure ",
+        " "
+      ],
+      [
+        " ",
+        "Inspections",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "$0.00 ",
+        "$0 ",
+        "0"
+      ],
+      [
+        "Subtotal",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "0",
+        " ",
+        "$0 ",
+        "0"
+      ],
+      [
+        "GRAND TOTALS",
+        " ",
+        "--",
+        "--",
+        "-",
+        "--",
+        "2,269,066 ",
+        " ",
+        "$128,871,110 ",
+        "1,026,883 "
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202508-1218-005/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Information Collection Requirement",
+        "Currently Burden Hours",
+        "Requested Burden Hours",
+        "Adjustments"
+      ],
+      [
+        "(A) Employee Participation (paragraph (c)( 1)-( c)(3))",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "(B )  Process  Safety Information (paragraph (d))",
+        "16,723",
+        "29,037",
+        "12,314"
+      ],
+      [
+        "(C )  Process  Hazard Analysis (paragraph (e)(1))",
+        "18,974",
+        "32,946",
+        "13,972"
+      ],
+      [
+        "(D )  Resolution  of Hazards (paragraph (e)(5))",
+        "1,769",
+        "3,071",
+        "1,302"
+      ],
+      [
+        "(E )  Updating , Revalidating, and Retaining the Process Hazard Analysis (paragraphs (e)(6) and (e)(7))",
+        "97,180",
+        "94,730",
+        "-2,450"
+      ],
+      [
+        "(F )  Operating  Procedures (paragraph (f)(1) - (f)(4))",
+        "45,391",
+        "45,744",
+        "353"
+      ],
+      [
+        "(G )  Training  (Initial, Refresher, and Documentation) (paragraphs (g)(1) - (g)(3))",
+        "32,586",
+        "37,460",
+        "4,874"
+      ],
+      [
+        "(H)  Contractors (paragraphs (h)(2)(i) – (h)(2)(iii), (h)(2)(vi), and (h)(3)(iii))",
+        "148,472",
+        "160,248",
+        "11,776"
+      ],
+      [
+        "(I )  Written  Procedures, Inspections, and Testing (paragraphs (j)(2) and (j)(4)(iv))",
+        "302,265",
+        "304,614",
+        "2,349"
+      ],
+      [
+        "(J )  Hot  Work Permits (paragraph (k))",
+        "13,849",
+        "12,935",
+        "-914"
+      ],
+      [
+        "(K )  Management  of Change (paragraphs (l)(1), (l)(4) and (l)(5))",
+        "614,972",
+        "564,893",
+        "-50,079"
+      ],
+      [
+        "(L)  Incident Investigations (paragraphs (m)(4) – (m)(7))",
+        "769,367",
+        "718,590",
+        "-50,777"
+      ],
+      [
+        "(M )  Emergency  Planning and Response (paragraph (n))",
+        "106",
+        "174",
+        "68"
+      ],
+      [
+        "(N)  Compliance Audits (paragraphs (o)(1) and (o)(3) – (o)(5))",
+        "263,640",
+        "264,624",
+        "984"
+      ],
+      [
+        "(O)  Records Disclosure",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "TOTALS",
+        "2,325,294",
+        "2,269,066",
+        "-56,228"
+      ]
+    ]
+  }
+]

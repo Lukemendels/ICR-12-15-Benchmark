@@ -6,8 +6,8 @@
   "submission_date": "07/09/2025",
   "archetype": "rail dutyrecords andfatiguemodeling",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 3,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -197,7 +197,9 @@
       "difference": 3061.1699999999983,
       "unit": "hours",
       "interpretation": "Materialprematurerounding",
-      "source_id": "SRC-0070"
+      "source_id": "SRC-0070",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Populationrecords",
@@ -207,7 +209,9 @@
       "difference": -367500,
       "unit": "records",
       "interpretation": "Materialdiscrepancy",
-      "source_id": "SRC-0070"
+      "source_id": "SRC-0070",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Softwarecost",
@@ -217,7 +221,9 @@
       "difference": 2.9103830456733704e-11,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0070"
+      "source_id": "SRC-0070",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federalcost",
@@ -227,10 +233,123 @@
       "difference": 0.0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0070"
+      "source_id": "SRC-0070",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 67,
   "table_evidence_path": "icrs/202506-2130-004/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0069",
+        "SRC-0070"
+      ],
+      "section": "Item12",
+      "rationale": "ManyCFRtaskrows; minutes convertedusingtruncateddecimals,employeeproduct inconsistent."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0069",
+        "SRC-0070"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "2024OPM andrailwaywagesource footnote; agencyexperience basisnotreplicable."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0069",
+        "SRC-0070"
+      ],
+      "section": "Item12",
+      "rationale": "Electronic/paper andfatiguereview activities;explicitfulfilled/excludedobligations."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0069",
+        "SRC-0070"
+      ],
+      "section": "Item12",
+      "rationale": "Uniform89.13industryrate; occupation-specificmix lacking."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0069",
+        "SRC-0070"
+      ],
+      "section": "Item13",
+      "rationale": "Softwareprogramming/training/support/maintenance inflationtable;one-timeversusannualcycle notclear."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0069",
+        "SRC-0070"
+      ],
+      "section": "Item14",
+      "rationale": "Grade/time/quantity explicit; firstrowunloadedwhileothers1.75; headingsaysx75%instead ofmarkup."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0069",
+        "SRC-0070"
+      ],
+      "section": "Item15",
+      "rationale": "Row-levelold/newdriverreasons andaggregate1325hourchange."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0069",
+        "SRC-0070"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Administrative histories andFASTmodel operational context; response-timeevidence mostlySME."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0069",
+        "SRC-0070"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "8minutesrowcalculatedas.13hours; training2/60computedas.03;1/60as.02."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 2130-0005 | ICR Reference No: 202506-2130-004 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202411-2130-002 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 01/16/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 01/16/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 07/09/2025"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 07/09/2025 | Terms of Clearance: The agency will update their burden estimates in their next submission. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0070",
+        "document_date": "12/02/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

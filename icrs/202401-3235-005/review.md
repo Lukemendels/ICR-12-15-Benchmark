@@ -1,28 +1,28 @@
 # Form PF and Rule 204(b)-1
 
-Provisional review. 202401-3235-005; sources SRC-0108, SRC-0107.
+Reviewed under rubric1.0.0. 202401-3235-005; sources SRC-0107, SRC-0108.
 
-Score 61/100. Public documentation only. extensive statement; very high complexity.
+Score 61/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 14. Extensive task/respondent tables and formulas; initial cohorts and inconsistent counts complicate independent totals.
+- reproducibility: 14/20. Extensive task/respondent tables and formulas; initial cohorts and inconsistent counts complicate independent totals.
 
-- provenance: 9. Private Fund Statistics vintage and historical entry rates disclosed; SIFMA2013 data and inflation chain incomplete.
+- provenance: 9/15. Private Fund Statistics vintage and historical entry rates disclosed; SIFMA2013 data and inflation chain incomplete.
 
-- segmentation: 15. Fund size/type, initial/ongoing/event/transition/final filings and professional roles distinct.
+- segmentation: 15/15. Fund size/type, initial/ongoing/event/transition/final filings and professional roles distinct.
 
-- labor: 4. Detailed labor mix but several averages and products conflict; combined multipliers not decomposed.
+- labor: 4/10. Detailed labor mix but several averages and products conflict; combined multipliers not decomposed.
 
-- item13: 6. Filing fee and startup service cost separated;50000 average derived from0–100000 range without distribution,annual entrant annualization questionable.
+- item13: 6/10. Filing fee and startup service cost separated;50000 average derived from0–100000 range without distribution,annual entrant annualization questionable.
 
-- item14: 2. No directly attributable federal costs asserted without resource explanation.
+- item14: 2/10. No directly attributable federal costs asserted without resource explanation.
 
-- item15: 7. Old/new totals and liquidity-fund changes shown; hour and dollar tables use inconsistent underlying counts/times.
+- item15: 7/10. Old/new totals and liquidity-fund changes shown; hour and dollar tables use inconsistent underlying counts/times.
 
-- validation: 3. Observed entrant rates and discussion of range; time assumptions are agency estimates.
+- validation: 3/5. Observed entrant rates and discussion of range; time assumptions are agency estimates.
 
-- consistency: 1. Financial blended rate, event role hours, final-filing counts and prior-equity hours disagree across tables.
+- consistency: 1/5. Financial blended rate, event role hours, final-filing counts and prior-equity hours disagree across tables.
 
 ## Reconstruction issues
 

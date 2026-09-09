@@ -6,8 +6,8 @@
   "submission_date": "08/15/2024",
   "archetype": "coal mine respiratory protection records",
   "complexity": "medium",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 5,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -127,7 +127,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0110"
+      "source_id": "SRC-0110",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Responses",
@@ -137,7 +139,9 @@
       "difference": 0,
       "unit": "responses",
       "interpretation": "Exact",
-      "source_id": "SRC-0110"
+      "source_id": "SRC-0110",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Hygienist rate",
@@ -147,8 +151,123 @@
       "difference": 0.0254001699779991,
       "unit": "USD/hour",
       "interpretation": "Display rounding; conceptual double-inflation question separate",
-      "source_id": "SRC-0110"
+      "source_id": "SRC-0110",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 72
+  "total_score": 72,
+  "complexity_original": "medium",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0109",
+        "SRC-0110"
+      ],
+      "section": "Item12",
+      "rationale": "Four activities with mine counts, frequency and exact minutes; burden totals reconstruct."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0109",
+        "SRC-0110"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "NAICS/SOC, OEWS2021, ECEC and ECI series and GDP index identified; older2019 population anchored to rule analysis."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0109",
+        "SRC-0110"
+      ],
+      "section": "Item12",
+      "rationale": "SOP revision, ASTM records, medical/fit tests and emergency inspections separate."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0109",
+        "SRC-0110"
+      ],
+      "section": "Item12",
+      "rationale": "Benefit and overhead factors explicit, but both ECI and GDP inflation appear applied over the same2021–22 period."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0109",
+        "SRC-0110"
+      ],
+      "section": "Item13",
+      "rationale": "No additional nonlabor cost asserted; exclusions to related controls are helpful but cost boundary incomplete."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0109",
+        "SRC-0110"
+      ],
+      "section": "Item14",
+      "rationale": "Routine inspection rationale for zero; incremental inspection time not quantified."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0109",
+        "SRC-0110"
+      ],
+      "section": "Item15",
+      "rationale": "New control and overlap exclusions clearly identified; zero-to-new bridge implicit."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0109",
+        "SRC-0110"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Administrative mine definition and agency experience; no measured four-hour timing evidence."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0109",
+        "SRC-0110"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Main products reconcile with undisplayed precision; source-period typo and apparent duplicate inflation weaken defensibility."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202403-1219-001/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1219-0158 | ICR Reference No: 202403-1219-001 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: | Agency/Subagency: DOL/MSHA"
+    },
+    {
+      "line": 71,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 10/02/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 74,
+      "text": "Conclusion Date: 10/02/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 08/15/2024"
+    },
+    {
+      "line": 79,
+      "text": "Date Received in OIRA: 08/15/2024 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0110",
+        "document_date": "07/12/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

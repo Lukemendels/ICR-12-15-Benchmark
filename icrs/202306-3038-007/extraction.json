@@ -7,7 +7,7 @@
   "archetype": "swap transaction reporting systems",
   "complexity": "high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 6,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -180,7 +180,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0125"
+      "source_id": "SRC-0125",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "UPI row",
@@ -190,7 +192,9 @@
       "difference": -1.8399999999999181,
       "unit": "hours",
       "interpretation": "Displayed inputs do not reproduce total.",
-      "source_id": "SRC-0125"
+      "source_id": "SRC-0125",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "IC totals",
@@ -200,8 +204,123 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0125"
+      "source_id": "SRC-0125",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 67
+  "total_score": 67,
+  "complexity_original": "high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0124",
+        "SRC-0125"
+      ],
+      "section": "Item12",
+      "rationale": "Attachment rows show activity formulas and four IC totals; displayed frequency/count and system-response inconsistencies."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0124",
+        "SRC-0125"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "BLS2022 financial industry source and labor mix for new rate; inherited rates less traceable."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0124",
+        "SRC-0125"
+      ],
+      "section": "Item12",
+      "rationale": "Nine reporting activities, records, DCOs, corrections and new systems separated."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0124",
+        "SRC-0125"
+      ],
+      "section": "Item12",
+      "rationale": "50/25/25 programmer/compliance/lawyer mix and1.3 loading; component wages and occupation codes omitted."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0124",
+        "SRC-0125"
+      ],
+      "section": "Item13",
+      "rationale": "Zero justified by inclusion in labor, without a detailed purchased-system boundary."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0124",
+        "SRC-0125"
+      ],
+      "section": "Item14",
+      "rationale": "No incremental staff/technology asserted, not a full workload model."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0124",
+        "SRC-0125"
+      ],
+      "section": "Item15",
+      "rationale": "Exact2825-hour program increment connects1093 reporting and1732 system hours."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0124",
+        "SRC-0125"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Staff experience; little independent support for large transaction frequencies or one-hour system changes."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0124",
+        "SRC-0125"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "New UPI response frequency63 conflicts with109300 annual responses; new systems annual-response column1 conflicts with1732 entities."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202306-3038-007/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 3038-0096 | ICR Reference No: 202306-3038-007 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202212-3038-001 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 10/18/2023 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 10/18/2023 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 09/13/2023"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 09/13/2023 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0125",
+        "document_date": "09/06/2023"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

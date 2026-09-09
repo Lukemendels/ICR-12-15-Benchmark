@@ -1,28 +1,28 @@
 # Sanitation SOPs and Pathogen Reduction/HACCP
 
-Provisional review. 202511-0583-005; sources SRC-0135, SRC-0134.
+Reviewed under rubric1.0.0. 202511-0583-005; sources SRC-0134, SRC-0135.
 
-Score 59/100. Public documentation only. extensive statement; very high complexity.
+Score 59/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 14. Extensive task/size tables, but narrative, subtotals and totals contain material discrepancies.
+- reproducibility: 14/20. Extensive task/size tables, but narrative, subtotals and totals contain material discrepancies.
 
-- provenance: 8. RTI2015 report and tables cited, current wage vintage but no role/load derivation.
+- provenance: 8/15. RTI2015 report and tables cited, current wage vintage but no role/load derivation.
 
-- segmentation: 15. Plant sizes, state/federal and SOP/microbiology/HACCP tasks meaningfully separated.
+- segmentation: 15/15. Plant sizes, state/federal and SOP/microbiology/HACCP tasks meaningfully separated.
 
-- labor: 4. 107.04 loaded BLS rate without occupation or component derivation.
+- labor: 4/10. 107.04 loaded BLS rate without occupation or component derivation.
 
-- item13: 3. 600000 capital for20 new plants has no equipment, useful life or unit-cost evidence.
+- item13: 3/10. 600000 capital for20 new plants has no equipment, useful life or unit-cost evidence.
 
-- item14: 5. Inspector activities and hours shown; some workloads and47.91 rate lack derivation.
+- item14: 5/10. Inspector activities and hours shown; some workloads and47.91 rate lack derivation.
 
-- item15: 6. No-change renewal baseline stated, but unchanged errors undermine reproducibility.
+- item15: 6/10. No-change renewal baseline stated, but unchanged errors undermine reproducibility.
 
-- validation: 3. External cost study and inspection systems cited; underlying report inaccessible in this retrieval.
+- validation: 3/5. External cost study and inspection systems cited; underlying report inaccessible in this retrieval.
 
-- consistency: 1. Subtotals, frequencies and federal workload disagree; document length does not yield consistency.
+- consistency: 1/5. Subtotals, frequencies and federal workload disagree; document length does not yield consistency.
 
 ## Reconstruction issues
 

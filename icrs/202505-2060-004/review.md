@@ -1,28 +1,28 @@
 # Cross-State Air Pollution Rule and Texas SO2 Trading Programs (Renewal)
 
-Provisional review. 202505-2060-004; sources SRC-0116, SRC-0115.
+Reviewed under rubric1.0.0. 202505-2060-004; sources SRC-0115, SRC-0116.
 
-Score 73/100. Public documentation only. extensive statement; high complexity.
+Score 73/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 17. Task-level manager and technical hours reconstruct workload; costs use rounded unit dollars.
+- reproducibility: 17/20. Task-level manager and technical hours reconstruct workload; costs use rounded unit dollars.
 
-- provenance: 9. ECI endpoints and ECEC cited, but original industry wage basis and legacy equipment model inputs incomplete.
+- provenance: 9/15. ECI endpoints and ECEC cited, but original industry wage basis and legacy equipment model inputs incomplete.
 
-- segmentation: 14. Monitoring technologies, sources and state processing separated.
+- segmentation: 14/15. Monitoring technologies, sources and state processing separated.
 
-- labor: 6. Two private and two state rates; ECI updating explicit but base loading not reproduced.
+- labor: 6/10. Two private and two state rates; ECI updating explicit but base loading not reproduced.
 
-- item13: 7. Equipment and recurring test contracts separated; annual capital unit costs lack useful-life/principal derivation.
+- item13: 7/10. Equipment and recurring test contracts separated; annual capital unit costs lack useful-life/principal derivation.
 
-- item14: 8. GS13/8 plus supervisory allocation, workload and shared-system exclusion explicit.
+- item14: 8/10. GS13/8 plus supervisory allocation, workload and shared-system exclusion explicit.
 
-- item15: 5. Net changes and reasons but not a quantified driver decomposition.
+- item15: 5/10. Net changes and reasons but not a quantified driver decomposition.
 
-- validation: 3. Utility consultation and observed program populations; limited reproducible uncertainty.
+- validation: 3/5. Utility consultation and observed program populations; limited reproducible uncertainty.
 
-- consistency: 4. Hours and cost rows largely reconcile; state/federal and shared program boundaries explicit.
+- consistency: 4/5. Hours and cost rows largely reconcile; state/federal and shared program boundaries explicit.
 
 ## Reconstruction issues
 

@@ -6,8 +6,8 @@
   "submission_date": "04/12/2024",
   "archetype": "hazardous materials approval applications",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 4,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -172,7 +172,9 @@
       "difference": -0.75,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0082"
+      "source_id": "SRC-0082",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal displayed table",
@@ -182,7 +184,9 @@
       "difference": 0.0,
       "unit": "USD",
       "interpretation": "Exact but inconsistent with prose",
-      "source_id": "SRC-0082"
+      "source_id": "SRC-0082",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Loaded wage",
@@ -192,10 +196,123 @@
       "difference": -0.0017423133235894284,
       "unit": "USD/hour",
       "interpretation": "Rounding",
-      "source_id": "SRC-0082"
+      "source_id": "SRC-0082",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 68,
   "table_evidence_path": "icrs/202404-2137-003/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0081",
+        "SRC-0082"
+      ],
+      "section": "Item12",
+      "rationale": "Thirteen application categories expose counts, frequencies and hours; overall products reconstruct."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0081",
+        "SRC-0082"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "2022 chemical engineer wages and OPM schedule identified; benefit-share vintage and task timing evidence weaker."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0081",
+        "SRC-0082"
+      ],
+      "section": "Item12",
+      "rationale": "Initial/renewal applications and approval types distinguished."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0081",
+        "SRC-0082"
+      ],
+      "section": "Item12",
+      "rationale": "Engineer occupation and denominator benefit loading are clear; common share lacks current source detail."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0081",
+        "SRC-0082"
+      ],
+      "section": "Item13",
+      "rationale": "No additional nonlabor costs asserted without further price or systems analysis."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0081",
+        "SRC-0082"
+      ],
+      "section": "Item14",
+      "rationale": "Federal workload and loaded grade rate supplied, but narrative and table use different rates and counts."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0081",
+        "SRC-0082"
+      ],
+      "section": "Item15",
+      "rationale": "Removal of one approval and five rounded hours tied to rule."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0081",
+        "SRC-0082"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Agency experience, without testing or representative timing measurements."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0081",
+        "SRC-0082"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Item 14 table contains 14894 and 73.23 while prose uses 14893 and 80.48."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 2137-0557 | ICR Reference No: 202404-2137-003 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202308-2137-002 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 06/18/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 06/18/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 04/12/2024"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 04/12/2024 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0082",
+        "document_date": "04/12/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

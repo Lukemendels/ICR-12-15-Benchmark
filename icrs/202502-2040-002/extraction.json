@@ -6,8 +6,8 @@
   "submission_date": "02/28/2025",
   "archetype": "construction environmental permit",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 1,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -255,7 +255,9 @@
       "difference": 0.0,
       "unit": "operators",
       "interpretation": "Exact",
-      "source_id": "SRC-0020"
+      "source_id": "SRC-0020",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Meters",
@@ -265,7 +267,9 @@
       "difference": 0,
       "unit": "meters",
       "interpretation": "Workbook reconstructs;prose25%doesnot",
-      "source_id": "SRC-0020"
+      "source_id": "SRC-0020",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Capital",
@@ -275,7 +279,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0020"
+      "source_id": "SRC-0020",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "ROCIS annualization",
@@ -285,7 +291,9 @@
       "difference": -0.3333333333139308,
       "unit": "USD",
       "interpretation": "Rounding butcohort rationale conflicts",
-      "source_id": "SRC-0020"
+      "source_id": "SRC-0020",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Renewal change",
@@ -295,7 +303,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0020"
+      "source_id": "SRC-0020",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal report burden implied byquarterly frequency",
@@ -305,7 +315,9 @@
       "difference": 651.3,
       "unit": "hours",
       "interpretation": "Count-to-period mismatch relative toworkbook;not an agency-corrected estimate",
-      "source_id": "SRC-0020"
+      "source_id": "SRC-0020",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Ten minute conversion",
@@ -315,10 +327,120 @@
       "difference": 0.06666666666666665,
       "unit": "hours",
       "interpretation": "Substantive conversion mismatch",
-      "source_id": "SRC-0020"
+      "source_id": "SRC-0020",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 71,
   "table_evidence_path": "icrs/202502-2040-002/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0019",
+        "SRC-0020",
+        "SRC-0023"
+      ],
+      "section": "Item12",
+      "rationale": "Accessible five-sheet formula workbook reconstructs detailed totals;rate-period and narrative mismatches prevent full credit."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0019",
+        "SRC-0020",
+        "SRC-0023"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Administrative NOI data,NOAA rainfall,prior economic analysis,ECEC and OPM identified;some source/input inconsistencies."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0019",
+        "SRC-0020",
+        "SRC-0023"
+      ],
+      "section": "Item12",
+      "rationale": "Size,ESA consultation,dewatering,sensitive waters,reporting/recordkeeping and government activities distinguished."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0019",
+        "SRC-0020",
+        "SRC-0023"
+      ],
+      "section": "Item12",
+      "rationale": "Direct ECEC management/professional compensation73.47 transparent;role mix and broad average not fully justified."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0019",
+        "SRC-0020",
+        "SRC-0023"
+      ],
+      "section": "Item13",
+      "rationale": "Meter retail-price survey and calibration allocation useful;annual procurement versus divide-by-three conflicts."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0019",
+        "SRC-0020",
+        "SRC-0023"
+      ],
+      "section": "Item14",
+      "rationale": "Workload formula workbook available;quarterly respondent reports but annual federal reviews count835 not3340."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0019",
+        "SRC-0020",
+        "SRC-0023"
+      ],
+      "section": "Item15",
+      "rationale": "2017 program baseline and prior renewal baseline coexist;old/new population and rates stated but bases not consistently labeled."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0019",
+        "SRC-0020",
+        "SRC-0023"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Administrative segmentation and rainfall basis strengthen assumptions;one-year asset replacement and proxies underjustified."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0019",
+        "SRC-0020",
+        "SRC-0023"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Workbook23% versus prose25%;capital annualization conflict;unit conversion errors and reversed ratio formula."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 47,
+      "text": "Status: Received in OIRA | Previous ICR Reference No: 202202-2040-001 | Agency/Subagency:"
+    },
+    {
+      "line": 71,
+      "text": "Date Submitted to OIRA: 02/28/2025 | | Requested | Previously Approved | Expiration Date |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0020",
+        "document_date": "02/26/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

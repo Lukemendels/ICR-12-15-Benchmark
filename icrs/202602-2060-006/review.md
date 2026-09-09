@@ -1,28 +1,28 @@
 # NESHAP for Hazardous Waste Combustors (40 CFR Part 63, Subpart EEE) (Proposed Rule)
 
-Provisional review. 202602-2060-006; sources SRC-0154, SRC-0153.
+Reviewed under rubric1.0.0. 202602-2060-006; sources SRC-0153, SRC-0154, SRC-0158, SRC-0159.
 
-Score 74/100. Public documentation only. extensive statement; very high complexity.
+Score 74/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 16. Fullbaseline retrieved; incrementtasks andscope clear, but rounding/staleratecells.
+- reproducibility: 16/20. Fullbaseline retrieved; incrementtasks andscope clear, but rounding/staleratecells.
 
-- provenance: 10. OEWS2024industryNAICS/SOC,OPM2025,baseline2023; legacytechnicalcoefficients.
+- provenance: 10/15. OEWS2024industryNAICS/SOC,OPM2025,baseline2023; legacytechnicalcoefficients.
 
-- segmentation: 15. Newstandards,e-reporting andremovedmonitorobligationssegmented.
+- segmentation: 15/15. Newstandards,e-reporting andremovedmonitorobligationssegmented.
 
-- labor: 6. Wage*2.1methodexplicit;technicaltotal70.31typo versus114.09usedintables; overheadsupportweak.
+- labor: 6/10. Wage*2.1methodexplicit;technicaltotal70.31typo versus114.09usedintables; overheadsupportweak.
 
-- item13: 6. Positiveperformance testsandnegativeequipment/O&M changesseparate; legacycapitalunit costnotannualized.
+- item13: 6/10. Positiveperformance testsandnegativeequipment/O&M changesseparate; legacycapitalunit costnotannualized.
 
-- item14: 6. Federalincrementbyrole/grade; fullbaselinecostexistsseparately, removalrowinconsistencies.
+- item14: 6/10. Federalincrementbyrole/grade; fullbaselinecostexistsseparately, removalrowinconsistencies.
 
-- item15: 9. Exactoldplusprogramdelta=newinventoryforthreemeasures; incrementroundingdocumented.
+- item15: 9/10. Exactoldplusprogramdelta=newinventoryforthreemeasures; incrementroundingdocumented.
 
-- validation: 3. Engineering/programknowledge; limitedpublictimingvalidation.
+- validation: 3/5. Engineering/programknowledge; limitedpublictimingvalidation.
 
-- consistency: 3. Overallinventorybridgecoherent, detailedrole/hourandwagecells conflict.
+- consistency: 3/5. Overallinventorybridgecoherent, detailedrole/hourandwagecells conflict.
 
 ## Reconstruction issues
 

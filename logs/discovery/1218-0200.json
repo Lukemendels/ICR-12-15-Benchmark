@@ -1,0 +1,15 @@
+{
+  "query": "1218-0200",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&ombControlNumber=1218-0200",
+  "rows": [
+    {
+      "refs": [
+        "202508-1218-005"
+      ],
+      "text": "1218-0200\n|\nDOL/OSHA\n|\nStandard on Process Safety Management of Highly Hazardous Chemicals (29 CFR 1910.119, 29 CFR 1926.64)\n|\nExtension without change of a currently approved collection\n|\n02/04/2026\n|\n03/09/2026\n|\nApproved without change\n|\n03/31/2029\n|\n1\n|\n0\n|"
+    }
+  ],
+  "all_refs": [
+    "202508-1218-005"
+  ]
+}

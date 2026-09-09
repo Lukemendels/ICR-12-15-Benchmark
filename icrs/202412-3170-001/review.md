@@ -1,28 +1,28 @@
 # Required Rulemaking on Personal Financial Data Rights
 
-Provisional review. 202412-3170-001; sources SRC-0046, SRC-0045.
+Reviewed under rubric1.0.0. 202412-3170-001; sources SRC-0045, SRC-0046.
 
-Score 54/100. Public documentation only. extensive statement; high complexity.
+Score 54/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 17. Seven population-times rows reconstruct total hours; underlying task times not decomposed.
+- reproducibility: 17/20. Seven population-times rows reconstruct total hours; underlying task times not decomposed.
 
-- provenance: 3. Vendor midpoint, population, hours and labor prices not adequately sourced in Items12–15.
+- provenance: 3/15. Vendor midpoint, population, hours and labor prices not adequately sourced in Items12–15.
 
-- segmentation: 13. Providers versus third parties and startup versus ongoing meaningful; outsourcing split requires overlap check.
+- segmentation: 13/15. Providers versus third parties and startup versus ongoing meaningful; outsourcing split requires overlap check.
 
-- labor: 0. No respondent labor-dollar estimate or wage methodology in retrieved Item12.
+- labor: 0/10. No respondent labor-dollar estimate or wage methodology in retrieved Item12.
 
-- item13: 5. Vendor scope allocation explicit; table reverses one-time versus ongoing relative to prose; annualization horizon unclear.
+- item13: 5/10. Vendor scope allocation explicit; table reverses one-time versus ongoing relative to prose; annualization horizon unclear.
 
-- item14: 7. Zero because Bureau receives no data; oversight and incremental systems scope not addressed.
+- item14: 7/10. Zero because Bureau receives no data; oversight and incremental systems scope not addressed.
 
-- item15: 6. New collection identified but no complete zero-to-new annualized bridge.
+- item15: 6/10. New collection identified but no complete zero-to-new annualized bridge.
 
-- validation: 2. Acknowledges vendor economies of scale; no quantified timing validation.
+- validation: 2/5. Acknowledges vendor economies of scale; no quantified timing validation.
 
-- consistency: 1. Item13 one-time/ongoing assignment reverses; response total sums obligation events while unique entities separate.
+- consistency: 1/5. Item13 one-time/ongoing assignment reverses; response total sums obligation events while unique entities separate.
 
 ## Reconstruction issues
 

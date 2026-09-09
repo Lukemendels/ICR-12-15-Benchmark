@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202401-2070-005",
+  "retrieved_at": "2026-09-09T12:17:22.064363+00:00",
+  "documents": [
+    {
+      "title": "1884ss15. V2.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=139435801",
+      "path": "icrs/202401-2070-005/raw/supporting-statement-a-1.docx",
+      "sha256": "75763a4ea92fc04c474567e2aa3c0ee19672ea8f1e9b634404296bb1757a68d3",
+      "text_chars": 60098
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202401-2070-005",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202401-2070-005",
+  "agency": "EPA/OCSPP",
+  "title": "Chemical Data Reporting under the Toxic Substances Control Act (TSCA) (Non-Substantive Change)",
+  "omb_control_number": "2070-0162",
+  "submission_date": "02/01/2024",
+  "record_source_id": "SRC-0182",
+  "supporting_statement_source_ids": [
+    "SRC-0183"
+  ]
+}

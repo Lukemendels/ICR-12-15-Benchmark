@@ -1,0 +1,141 @@
+PART word/document.xml
+Supporting Statement
+Office of Management and Budget (OMB) Control Numbers 1506-0001, 1506-0006, 1506-0015, 1506-0019, 1506-0029, 1506-0061, and 1506-0065
+
+Reports by Financial Institutions of Suspicious Transactions and FinCEN Form 111 - Suspicious Activity Report (SAR)
+
+1.  Circumstances necessitating collection of information.
+
+The legislative framework generally referred to as the Bank Secrecy Act (BSA) consists of the Currency and Foreign Transactions Reporting Act of 1970, as amended by the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 (USA PATRIOT Act) and other legislation, including the Anti-Money Laundering Act of 2020 (AML Act).  The BSA is codified at 12 U.S.C. 1829b and 1951–1960 and 31 U.S.C. 5311–5314 and 5316–5336, and notes thereto, with implementing regulations at 31 CFR Chapter X.   
+
+The BSA authorizes the Secretary of the Treasury (Secretary) to, inter alia, require financial institutions to keep records and file reports that are determined to have a high degree of usefulness in criminal, tax, or regulatory matters, risk assessments or proceedings, or in the conduct of intelligence or counter-intelligence activities to protect against terrorism, and to implement anti-money laundering (AML) programs and compliance procedures.  The authority of the Secretary to administer the BSA has been delegated to the Director of FinCEN.
+
+Under 31 U.S.C. 5318(g), the Secretary is authorized to require financial institutions to report any suspicious transaction relevant to a possible violation of law or regulation.  Regulations implementing 31 U.S.C. 5318(g) are found at 31 CFR 1020.320, 1021.320, 1022.320, 1023.320, 1024.320, 1025.320, 1026.320, 1029.320, and 1030.320.
+
+The regulations and related form correspond to the following OMB control numbers: 1506-0001, 1506-0006, 1506-0015, 1506-0019, 1506-0029, 1506-0061, and 1506-0065.  This supporting statement is being issued in connection with the renewal of all seven of these OMB control numbers.  An administrative burden of one hour is assigned to each of the six SAR regulation OMB control numbers to maintain the requirements in force.  The full reporting and recordkeeping burden associated with the reporting requirement is accounted for in the SAR – FinCEN Form 111 under OMB control number 1506-0065.  The rationale for assigning the nominal amount of one burden hour to the six SAR regulation OMB control numbers is that the annual burden hours would be double counted if FinCEN estimated the full burden of reporting in each SAR regulation OMB control number and in the SAR – FinCEN Form 111 OMB control number.
+ 
+2.  Method of collection and use of data.
+
+Financial institutions generally are required to report any suspicious transaction relevant to a possible violation of law or regulation.  These transactions are reported on SARs.  Financial institutions submit SARs to FinCEN electronically via the BSA E-filing system.  
+
+FinCEN’s system of records for SARs is the Suspicious Activity Report System (the “SAR System”) - Treasury/FinCEN.002.  The SAR System is maintained for the purpose of permitting coordinated and enhanced analysis and tracking, and rapid dissemination of SAR information.  The information is distributed to Federal, state, and local agencies that engage in criminal, regulatory and tax investigations and proceedings, agencies that engage in intelligence and counterintelligence activities, including analysis, to protect against international terrorism, certain self-regulatory organizations, appropriate foreign agencies, and foreign financial intelligence units. 
+
+3.  Use of improved information technology to reduce burden.
+
+The BSA E-filing system supports electronic filing of BSA reports, including SARs (either individually or in batches) through a FinCEN secure network.  BSA E-filing provides a faster, and more convenient, secure, and cost-effective method for submitting BSA reports.  Discrete and batch versions are available on the FinCEN BSA E-file website at http://bsaefiling.fincen.treas.gov/main.html.  FinCEN also upgraded to the industry standard of XML file format for both discrete and batch filers of SARs.
+
+4.  Efforts to identify duplication.
+There is no similar information available; thus, there is no duplication. 
+
+5.  Methods to minimize burden on small businesses or other small entities.
+
+The SAR is designed so only the fields normally associated with the filing financial institution are displayed.  This design minimizes the time required for a financial institution to complete the report and thus decreases the impact on small financial institutions.  However, without the collection of SARs from entities of all sizes, the government’s efforts to counter financial crimes would be negatively impacted.  All SARs, including those filed by small financial institutions, provide valuable information to Federal, state, and local agencies that engage in criminal, regulatory and tax investigations and proceedings, agencies that engage in intelligence and counterintelligence activities, certain self-regulatory organizations, appropriate foreign agencies, and foreign financial intelligence units in their efforts to combat money laundering and other financial crimes.  
+
+6.  Consequences to the Federal government of not collecting the information.
+
+SARs provide valuable information to Federal, state and local agencies that engage in criminal, regulatory and tax investigations and proceedings, agencies that engage in intelligence and counterintelligence activities, certain self-regulatory organizations, appropriate foreign agencies, and foreign financial intelligence units in their efforts to combat money laundering and other financial crimes.  Without these collections from entities of all sizes, the government’s efforts to counter financial crimes, such as money laundering and the financing of terrorism, would be negatively impacted. 
+
+7.  Special circumstances requiring data collection inconsistent with guidelines in 5 CFR 1320.5(d)(2).
+
+Reporting suspicious activity on a SAR may occur more frequently than quarterly, depending on the frequency of the suspicious activity.  This information must be reported in a timely manner to enable law enforcement to take appropriate investigative action.  
+
+Under 31 CFR 1010.430(d), all records that are required to be retained by 31 CFR Chapter X must be retained for a period of five years.  This retention period is necessary to allow for verification of compliance with the reporting requirement and because such records may relate to substantive violations of law that are subject to statutes of limitation longer than three years.
+
+8.  Consultation with individuals outside of the agency on availability of data, frequency of collection, clarity of instructions and forms, and data elements.
+
+On February 12, 2024, FinCEN published in the Federal Register a notice of and request for comments on its intention to renew, without change, information collection requirements for the reports by financial institutions of suspicious transactions and FinCEN Form 111 – SARs (“2024 Notice”).  The comment period closed on April 12, 2024.  FinCEN received nine public comments in response to the 2024 Notice. 
+
+One commenter was generally supportive of FinCEN’s effort to renew the control number associated with SAR filing.  Three commenters agreed with FinCEN’s burden estimate of 1.98 hours per SAR filed.  Conversely, five commenters disagreed with this burden estimate, with several commentors noting that FinCEN should account for additional time needed for SAR-related reviews and processes including, for example, research and analysis of the transactions and the account history.  One of the commenters surveyed 15 of its member institutions and recommended, based on that survey, that FinCEN increase its burden estimate per SAR filed from 1.98 hours per SAR to 21.41 hours per SAR.  The commenter, however, acknowledged that the survey only included banks with at least $100 billion in assets and that it did not separately obtain comparable data on the burden of SAR filings by small and medium-sized banks or non-bank financial institutions.  In addition, the commenter did not provide sufficient detail on the discrete burdens attributable to the itemized components of the SAR-related review process that comprised its final global burden estimate.  FinCEN believes that the data, while potentially informative about the PRA burden for a large bank, is unlikely to be generalizable for the purpose of calculating FinCEN’s estimate of the PRA burden across all banks or all covered financial institutions.  Nevertheless, FinCEN may reconsider the comment as it undertakes, in the future, additional fact-finding and other research necessary to update its burden estimates. 
+
+In addition to comments on FinCEN’s burden estimate, six comments encouraged a higher threshold amount for triggering SAR filings.  Of these six commenters, three of them argued that a higher threshold was needed to account for inflation.  Others noted the burden associated with filing a high number of SARs due to the low threshold amount. 
+
+Some commenters had specific recommendations regarding the SAR form and filing requirements, including the following:
+
+Eliminate SAR narrative requirement for transactions below the currency transaction report (CTR) threshold to streamline the SAR filing process.
+Combine SAR and CTR reporting into a single report, as the existence of both creates duplicative filing.
+Provide greater transparency with respect to how law enforcement partners use SAR data.
+Account for state-level laws, including related to marijuana-related businesses and elder abuse reporting, in SAR filing requirements.
+Extend the SAR filing deadline. 
+Review SARs’ value in relation to structuring.
+These suggestions for modifications to the applicable regulations will be considered in FinCEN’s ongoing review of CTR and SAR forms, processes, and thresholds, as required by sections 6204 and 6205 of the AML Act.   FinCEN appreciates the recommendations and will continue to evaluate ways to clarify SAR reporting requirements and minimize burden to the public.  In connection with a variety of initiatives FinCEN is undertaking to implement the AML Act, FinCEN intends to conduct, in the future, additional assessments of the PRA burden associated with BSA requirements, including SAR requirements.
+
+9.  Explanation of decision to provide any payment or gift to respondents.
+
+No payments or gifts made to respondents.
+
+10.  Assurance of confidentiality of responses.
+
+Information provided to the government on a SAR is expressly prohibited from disclosure under 31 U.S.C. 5318(g)(2), except as necessary to fulfill official duties.  The information collected under this requirement is made available to appropriate agencies and organizations as disclosed in FinCEN’s Privacy Act System of Records Notice (SORN) relating to SAR reports.
+
+11.  Justification of sensitive questions.
+
+The information requested concerns financial institutions reporting any suspicious transaction relevant to a possible violation of law or regulation.  These transactions are reported on SARs.  Personally identifiable information, such as name, address, date of birth, and taxpayer identification number, are necessary to identify a party to a transaction covered by the SAR requirements.  Any personally identifiable information collected under the BSA is strictly controlled as outlined in FinCEN’s SORN relating to SAR reports. 
+
+12.  Estimated annual hourly burden.
+
+Frequency: As required.
+
+Estimated burden of OMB control numbers 1506-0001, 1506-0006, 1506-0015, 1506-0019, 1506-0029, and 1506-0061: 
+
+An administrative burden of one hour is assigned to each of the SAR regulation OMB control numbers to maintain the requirements in force.  The reporting and recordkeeping burden is reflected in the SAR – FinCEN Form 111, under OMB control number 1506-0065.  The rationale for assigning the nominal amount of one burden hour to each of the SAR regulation OMB control numbers is that the annual burden hours would be double counted if FinCEN estimated burden in each SAR regulation OMB control number and, also, in the SAR – FinCEN Form 111 OMB control number. 
+
+Estimated burden of OMB control number 1506-0065:
+
+Estimated Number of Respondents:  11,458 financial institutions. 
+
+Estimated Total Annual Responses:  4,367,197 SARs. 
+
+Estimated Reporting and Recordkeeping Burden Per Response:  
+
+The average estimated PRA burden, measured in hours per SAR, is approximately 1.98 hours.  On May 26, 2020, FinCEN issued a 60-day notice to renew the SAR OMB control numbers (“2020 Notice”).  In the 2020 Notice, FinCEN proposed to expand the scope of factors to consider as part of the PRA burden of complying with SAR requirements.  In addition, as described in the 2020 Notice, to better estimate the burden associated with complying with SAR requirements, FinCEN conducted an in-depth analysis of the population of 2019 SAR filing statistics.  FinCEN analyzed the 2019 SAR filings grouped by a number of different factors, including the following: (i) the distribution of SAR submissions by type of filing (original or continuing SAR); (ii) the filer’s financial institution type; (iii) how many SARs the filer filed in a year; (iv) the method of filing (batch filing versus discrete filing); (v) the SAR narrative length; and (vi) the number of suspicious activities per report.  The analysis and calculations detailed in the 2020 Notice ultimately resulted in an estimate of approximately 1.98 hours in filer burden per SAR.  
+
+FinCEN received 22 public comments in response to the 2020 Notice.  Commenters were generally supportive of FinCEN’s efforts to more accurately estimate the PRA burden associated with the SAR filing requirements.  Some commenters had specific recommendations regarding factors for FinCEN to consider in future in-depth analysis of the SAR filing population.  However, none of the 2020 comments provided specific sources of data to contradict the burden estimate of 1.98 hours of burden per SAR filed.  In the absence of public comments in response to the 2020 Notice to suggest otherwise, FinCEN considered it reasonable to continue to use the estimate of 1.98 hours per SAR filed for the population of 2022 SAR filing statistics as outlined in the 2024 Notice.  For the reasons described in section 8 above, FinCEN continues to considered it reasonable to continue to use the estimate of 1.98 hours of burden per SAR filed in this supporting statement.  In connection with a variety of initiatives FinCEN is undertaking to implement the AML Act, FinCEN intends to conduct, in the future, additional assessments of the PRA burden associated with BSA requirements, including SAR requirements.
+
+Estimated Total Annual Reporting and Recordkeeping Burden:  8,647,050 hours.
+
+13.  Estimated annual cost to respondents for hourly burdens.
+
+Estimated Total Annual Reporting and Recordkeeping Cost:  $326,772,020.  This estimate applies the weighted average hourly labor cost of $37.79 per hour to the estimated total annual reporting and recordkeeping burden hours above (8,647,050 hours).  
+
+14.  Estimated annual cost to the federal government.
+
+4,367,197 x $0.10 per filing = $436,719.70. 
+
+15.  Reasons for change in burden.
+
+The estimated total annual burden hours increased by 3,185,024 hours from 5,462,026 hours in 2020 PRA renewal to 8,647,050 hours as part of the 2024 PRA renewal.  The increase in burden is a result of an increase in the estimated annual responses from 2,751,694 SARs filed in calendar year 2019 to 4,367,197 SARs filed in calendar year 2022.
+
+16.  Plans for tabulation, statistical analysis, and publication.
+
+The information will not be tabulated or compiled for publication.
+
+17.  Request not to display expiration date of OMB control number.
+
+FinCEN requests that the expiration date of the control numbers relating to the SAR regulations and form not be displayed on the regulations/form so that there is no confusion as to whether the regulations/form are still valid.  This request will not affect the normal three-year PRA renewal process.
+
+18.  Exceptions to the certification statement.
+
+There are no exceptions to the certification statement.
+
+PART word/footnotes.xml
+
+
+ USA PATRIOT Act, Pub. L. 107–56.
+ The AML Act was enacted as Division F, sections 6001-6511, of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, Pub. L. 116-283, 134 Stat. 3388 (NDAA).
+ Section 358 of the USA PATRIOT Act expanded the purpose of the BSA by including a reference to reports and records “that have a high degree of usefulness in intelligence or counterintelligence activities to protect against international terrorism.”  See 12 U.S.C. 1829b(a).  Section 6101 of the AML Act further expanded the purpose of the BSA to cover such matters as preventing money laundering, tracking illicit funds, assessing risk, and establishing appropriate frameworks for information sharing.  See 31 U.S.C. 5311.
+ Treasury Order 180-01 (Jan. 14, 2020).
+ OMB control numbers: 1506-0001 applies to (31 CFR 1020.320 – Reports by banks of suspicious transactions); 1506-0006 applies to (31 CFR 1021.320 – Reports by casinos of suspicious transactions); 1506-0015 applies to (31 CFR 1022.320 – Reports by money services businesses of suspicious transactions); 1506-0019 applies to (31 CFR 1023.320 – Reports by brokers or dealers in securities of suspicious transactions, 31 CFR 1024.320 – Reports by mutual funds of suspicious transactions, and 31 CFR 1026.320 – Reports by futures commission merchants and introducing brokers in commodities of suspicious transactions); 1506-0029 applies to (31 CFR 1025.320 – Reports by insurance companies of suspicious transactions); and 1506-0061 applies to (31 CFR 1029.320 – Reports by loan or finance companies of suspicious transactions). OMB control number 1506-0065 applies to FinCEN Form 111 – SAR. 
+ One hour of burden is estimated under each of the following OMB control numbers: 1506-0001, 1506-0006, 1506-0015, 1506-0019, 1506-0029, and 1506-0061.
+ See FinCEN, Privacy Act of 1974, System of Records Notice, 79 FR 20969 (Apr. 14, 2014). 
+ In batch-filing, a filer submits a single electronic file containing several reports.  In discrete-filing, the filer fills in an electronic form individually, using a data entry screen that FinCEN provides.
+ See FinCEN, Agency Information Collection Activities; Proposed Renewal; Comment Request: Renewal Without Change of Reports by Financial Institutions of Suspicious Transactions and FinCEN Form 111 – Suspicious Activity Report, 89 FR 9913, (Feb. 12, 2024).
+ See supra note 7. 
+ See supra note 7. 
+ One hour of burden is estimated under each of the following OMB control numbers: 1506-0001, 1506-0006, 1506-0015, 1506-0019, 1506-0029, and 1506-0061.
+ This estimate is based on the observed number of unique filers associated with at least one SAR filing received in calendar year 2022, as reported by the BSA E-Filing System as of 12/31/2022.
+ This estimate is based on the observed number of SAR filings received in calendar year 2022, as reported by the BSA E-Filing System as of 12/31/2022.
+ See FinCEN, Agency Information Collection Activities; Proposed Renewal; Comment Request; Renewal Without Change of the Bank Secrecy Act Reports by Financial Institutions of Suspicious Transactions at 31 CFR 1020.320, 1021.320, 10022,320, 1023.320, 1024.320, 1025.320, 1026.320, and 1029.320, and FinCEN Report 111 – Suspicious Activity Report, 85 FR 31598 (May 26, 2020).  See 85 FR 31600 in the 2020 Notice for the total number of SARs filed in calendar year 2019 (2,751,694 SARs).  See 85 FR 31611 in the 2020 Notice for the total estimated recordkeeping and reporting annual PRA burden of complying with the SAR requirements (5,462,026 hours).  We are using the estimated hourly burden per SAR calculated for purposes of the 2020 Notice.
+ This estimate is derived from the calculation 4,367,197 SARs multiplied by 1.98 hours per SAR.
+ We are using the weighted average hourly labor cost calculated for purposes of the 2020 Notice, which is based on data for calendar year 2019.  See 85 FR 31611 for the total estimated recordkeeping and reporting annual PRA burden of complying with the SAR requirements in the 2020 Notice (5,462,026 hours).  See 85 FR 31611 for the total estimated recordkeeping and reporting cost of complying with the SAR requirements in the 2020 Notice ($206,422,989).  The average estimated hourly cost per SAR burden hour in the 2020 Notice is $37.79 per hour ($206,422,989 divided by 5,462,026 total burden hours).  
+ See supra note 14 and accompanying text.
+ The estimated cost per electronic response is calculated as part of an annual report FinCEN creates and provides to the Department of the Treasury and OMB, entitled The Cost per BSA Filing Transaction.

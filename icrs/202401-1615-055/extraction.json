@@ -6,8 +6,8 @@
   "submission_date": "02/08/2024",
   "archetype": "immigration residence petition withbiometrics",
   "complexity": "medium",
-  "tsa_relevance": "adjacent",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "medium",
+  "review_status": "REVIEWED",
   "review_iteration": 3,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -112,7 +112,9 @@
       "difference": -1.1641532182693481e-10,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0058"
+      "source_id": "SRC-0058",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Purchasedservices",
@@ -122,7 +124,9 @@
       "difference": 0.0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0058"
+      "source_id": "SRC-0058",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federalproxy",
@@ -132,7 +136,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact proxy,notvalidationofcostscope",
-      "source_id": "SRC-0058"
+      "source_id": "SRC-0058",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Change",
@@ -142,10 +148,123 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0058"
+      "source_id": "SRC-0058",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 69,
   "table_evidence_path": "icrs/202401-1615-055/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "medium",
+  "tsa_relevance_original": "adjacent",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0057",
+        "SRC-0058"
+      ],
+      "section": "Item12",
+      "rationale": "Two clearrows andbiometric multiple-person explanation."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0057",
+        "SRC-0058"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "2018BLSalloccupations and1.46multiplier withoutsource; currentfee rule identified."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0057",
+        "SRC-0058"
+      ],
+      "section": "Item12",
+      "rationale": "Petition andbiometricpeople separated; range ofpurchasedassistance."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0057",
+        "SRC-0058"
+      ],
+      "section": "Item12",
+      "rationale": "Alloccupations choice explained butstaleuniversalrate andbenefitsunsupported."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0057",
+        "SRC-0058"
+      ],
+      "section": "Item13",
+      "rationale": "25%*515*153000 explicit; range20–1000doesnotitselfjustify515mean."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0057",
+        "SRC-0058"
+      ],
+      "section": "Item14",
+      "rationale": "Fee-based activitycostproxy; acknowledges cross-subsidy forfreebenefits undermines collection-specific equivalence."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0057",
+        "SRC-0058"
+      ],
+      "section": "Item15",
+      "rationale": "Oldnewtable preciselyexplains27999hours removedwithfeecontent."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0057",
+        "SRC-0058"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "No empirical supportfor25%or515; timingasserted."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0057",
+        "SRC-0058"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Hourandcostproducts reconcile to rounding."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1615-0038 | ICR Reference No: 202401-1615-055 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202206-1615-001 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 03/20/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 03/20/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 02/08/2024"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 02/08/2024 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0058",
+        "document_date": "01/31/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

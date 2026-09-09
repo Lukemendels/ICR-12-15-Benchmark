@@ -1,28 +1,28 @@
 # Certified Cargo Screening Program
 
-Provisional review. 202408-1652-002; sources SRC-0040, SRC-0039.
+Reviewed under rubric1.0.0. 202408-1652-002; sources SRC-0039, SRC-0040.
 
-Score 60/100. Public documentation only. extensive statement; high complexity.
+Score 60/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 12. Many atomic rows expose calculations but security-program subtotal wrong and application overlap unresolved.
+- reproducibility: 12/20. Many atomic rows expose calculations but security-program subtotal wrong and application overlap unresolved.
 
-- provenance: 10. OEWS/ECEC specific sources; clerical ECEC URL points2020 despite2023 label; federal pay internal.
+- provenance: 10/15. OEWS/ECEC specific sources; clerical ECEC URL points2020 despite2023 label; federal pay internal.
 
-- segmentation: 14. Facilities,canine providers,certifiers andmultiple activities; some apparent duplication.
+- segmentation: 14/15. Facilities,canine providers,certifiers andmultiple activities; some apparent duplication.
 
-- labor: 6. Employment-weighted cargo wage transparent; canine private wage uses federal salary proxy with limited justification.
+- labor: 6/10. Employment-weighted cargo wage transparent; canine private wage uses federal salary proxy with limited justification.
 
-- item13: 4. 41fee explicit but6959*41 does not equal281219; fee matches6859.
+- item13: 4/10. 41fee explicit but6959*41 does not equal281219; fee matches6859.
 
-- item14: 7. Six federal task categories largely reconcile; some precision and subtitle errors.
+- item14: 7/10. Six federal task categories largely reconcile; some precision and subtitle errors.
 
-- item15: 5. Old16040/new17662 shown with response change, but no quantified driver attribution.
+- item15: 5/10. Old16040/new17662 shown with response change, but no quantified driver attribution.
 
-- validation: 2. Agency activity estimates without calibration or ranges.
+- validation: 2/5. Agency activity estimates without calibration or ranges.
 
-- consistency: 0. Large subtotal error, repeated new-certification burden and fee count mismatch.
+- consistency: 0/5. Large subtotal error, repeated new-certification burden and fee count mismatch.
 
 ## Reconstruction issues
 

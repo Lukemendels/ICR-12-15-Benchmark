@@ -1,28 +1,28 @@
 # Certification and Operation of Repair Stations, 14 CFR Part 145
 
-Provisional review. 202404-2120-002; sources SRC-0170, SRC-0169.
+Reviewed under rubric1.0.0. 202404-2120-002; sources SRC-0169, SRC-0170.
 
-Score 69/100. Public documentation only. extensive statement; high complexity.
+Score 69/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 16. Detailedreport/record/formtables; headline240868.75conflictswith236666detailedtotal.
+- reproducibility: 16/20. Detailedreport/record/formtables; headline240868.75conflictswith236666detailedtotal.
 
-- provenance: 10. OEWS2023SOCand2024RUSpay; administrativenumbersfromCSOP,benefitbasevintageunclear.
+- provenance: 10/15. OEWS2023SOCand2024RUSpay; administrativenumbersfromCSOP,benefitbasevintageunclear.
 
-- segmentation: 14. Initial/amendment/foreignrenewal/manuals/employee/trainingdutiesseparate.
+- segmentation: 14/15. Initial/amendment/foreignrenewal/manuals/employee/trainingdutiesseparate.
 
-- labor: 6. Aircraftmechanicrate36.66*1.29; ECECshareversuswagemarkupnotresolved.
+- labor: 6/10. Aircraftmechanicrate36.66*1.29; ECECshareversuswagemarkupnotresolved.
 
-- item13: 6. Noadditionalmaterialcostasserted; foreigncertificationfeesmentionedelsewherebutnotquantified.
+- item13: 6/10. Noadditionalmaterialcostasserted; foreigncertificationfeesmentionedelsewherebutnotquantified.
 
-- item14: 8. SevenreviewtaskswithFG13/5and31%loadreconstruct4590h/327726.
+- item14: 8/10. SevenreviewtaskswithFG13/5and31%loadreconstruct4590h/327726.
 
-- item15: 4. Comprehensive revisionandNOAmentioned, nooldnewquantitativebridge.
+- item15: 4/10. Comprehensive revisionandNOAmentioned, nooldnewquantitativebridge.
 
-- validation: 3. Certification-systemcountsandexperience; tasktimesrange2–80butweightingnotshown.
+- validation: 3/5. Certification-systemcountsandexperience; tasktimesrange2–80butweightingnotshown.
 
-- consistency: 2. Staleheadline,recordkeepingresponse/timecolumnsconflict,MIPprose2vs200h.
+- consistency: 2/5. Staleheadline,recordkeepingresponse/timecolumnsconflict,MIPprose2vs200h.
 
 ## Reconstruction issues
 

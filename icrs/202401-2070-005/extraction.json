@@ -1,0 +1,340 @@
+{
+  "icr_id": "202401-2070-005",
+  "omb_control_number": "2070-0162",
+  "agency": "EPA/OCSPP",
+  "title": "Chemical Data Reporting under the Toxic Substances Control Act (TSCA) (Non-Substantive Change)",
+  "submission_date": "02/01/2024",
+  "archetype": "chemical industry multi-year reporting",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
+  "review_iteration": 9,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0182",
+    "SRC-0183",
+    "SRC-0190"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 10,
+    "segmentation": 15,
+    "labor": 7,
+    "item13": 7,
+    "item14": 7,
+    "item15": 9,
+    "validation": 3,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Reporting-cycle and approval-period formulas explicit; aggregate typo and federal quantity conflict.",
+    "provenance": "2016CDR adjusted by2020RIAs; detailed2020ECEC supplement, stale input vintage.",
+    "segmentation": "Site/chemical, partial reports, new reporters, reporting cycles and fixed/variable federal work.",
+    "labor": "Three ECEC manufacturing groups plus separately identified20%overhead; role-time weights reside in cited economic analyses.",
+    "item13": "Zero O&M stated; capital not separately substantiated.",
+    "item14": "Federal hours, contractor categories and fixed/variable split; GS13rate basis missing from duplicated private wage supplement.",
+    "item15": "Exact old-to-new changes by population and requirements; detailed baseline correction of two test sites.",
+    "validation": "Administrative data and consultation, but aged coefficients and no accessible uncertainty analysis.",
+    "consistency": "735485 vs729485 typo; federal QC hours do not equal displayed input product."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "2024 familiarization cycle",
+        5460,
+        3.952,
+        21578
+      ],
+      [
+        "2024 determination cycle",
+        5460,
+        7.404,
+        40426
+      ],
+      [
+        "2024 records cycle",
+        5460,
+        3,
+        16380
+      ],
+      [
+        "2024 form excluding function cycle",
+        5460,
+        454.541,
+        2481794
+      ],
+      [
+        "2024 function cycle",
+        5460,
+        71.016,
+        387747
+      ],
+      [
+        "2028 function cycle",
+        5460,
+        59.767,
+        326328
+      ],
+      [
+        "CDX annualized",
+        1365,
+        0.1325,
+        181
+      ],
+      [
+        "Form U annualized",
+        5460,
+        null,
+        729304
+      ]
+    ],
+    "labor": {
+      "price_year": 2020,
+      "ecec_wages": [
+        54.32,
+        44.63,
+        20.86
+      ],
+      "benefits": [
+        24.46,
+        22.45,
+        9.62
+      ],
+      "overhead_compensation_markup": 0.2,
+      "loaded": [
+        94.54,
+        80.5,
+        36.58
+      ],
+      "annual_reported": 78616186
+    },
+    "item13": {
+      "reported": 0,
+      "reason": "No O&M; capital not separately discussed"
+    },
+    "item14": {
+      "qc_reports": 40286,
+      "qc_hours_each": 0.005,
+      "qc_reported_hours": 188,
+      "cdx": 1365,
+      "cdx_hours_each": 0.0081,
+      "fixed_staff_hours": [
+        2080,
+        1179
+      ],
+      "staff_grade": "GS13/5",
+      "contract_lines": [
+        25900,
+        25000,
+        162000,
+        161000,
+        8333,
+        56520,
+        5000
+      ],
+      "reported_total": 822928
+    },
+    "item15": {
+      "old_hours": 719291,
+      "population_change": -25417,
+      "new_requirements": 35611,
+      "new_hours": 729485,
+      "reason": "2020 CDR revisions and small-manufacturer rule; adjusted prior test sites"
+    },
+    "assumptions": [
+      "18months of each four-year cycle fall in36month approval period.",
+      "5460sites,40286reports,8484chemicals,7.38chemicals/site;21.92%partial;15%new sites.",
+      "2024function-category new reporters90% rather than15%."
+    ]
+  },
+  "reconstruction_issues": [
+    "Table4 total735485 conflicts with181+729304=729485 andTable6.",
+    "Federal40286*.005=201.43hours rather than188; unrounded coefficient possibly hidden.",
+    "Wage attachment duplicates private wage table and lacks the cited GS13/5 basis."
+  ],
+  "methods_worth_testing": [
+    "Separate reporting cycle from approval horizon using explicit month overlap.",
+    "Item15 preserves population versus requirement changes and baseline data corrections."
+  ],
+  "checks": [
+    {
+      "label": "Annual hours",
+      "formula": "(2947925+2886506)*18/48/3+181",
+      "calculated": 729484.875,
+      "reported": 729485,
+      "difference": -0.125,
+      "unit": "hours",
+      "interpretation": "Fractional-cycle annualization within rounding.",
+      "source_id": "SRC-0183",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    },
+    {
+      "label": "Change bridge",
+      "formula": "719291-25417+35611",
+      "calculated": 729485,
+      "reported": 729485,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0183",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    },
+    {
+      "label": "Federal QC",
+      "formula": "40286*.005",
+      "calculated": 201.43,
+      "reported": 188,
+      "difference": 13.430000000000007,
+      "unit": "hours",
+      "interpretation": "Displayed unit coefficient does not reproduce total.",
+      "source_id": "SRC-0183",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    },
+    {
+      "label": "Reported total conflict",
+      "formula": "729304+181",
+      "calculated": 729485,
+      "reported": 735485,
+      "difference": -6000,
+      "unit": "hours",
+      "interpretation": "6000-hour typo.",
+      "source_id": "SRC-0183",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    }
+  ],
+  "total_score": 76,
+  "complexity_original": "high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0182",
+        "SRC-0183",
+        "SRC-0190"
+      ],
+      "section": "Item12",
+      "rationale": "Reporting-cycle and approval-period formulas explicit; aggregate typo and federal quantity conflict."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0182",
+        "SRC-0183",
+        "SRC-0190"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "2016CDR adjusted by2020RIAs; detailed2020ECEC supplement, stale input vintage."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0182",
+        "SRC-0183",
+        "SRC-0190"
+      ],
+      "section": "Item12",
+      "rationale": "Site/chemical, partial reports, new reporters, reporting cycles and fixed/variable federal work."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0182",
+        "SRC-0183",
+        "SRC-0190"
+      ],
+      "section": "Item12",
+      "rationale": "Three ECEC manufacturing groups plus separately identified20%overhead; role-time weights reside in cited economic analyses."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0182",
+        "SRC-0183",
+        "SRC-0190"
+      ],
+      "section": "Item13",
+      "rationale": "Zero O&M stated; capital not separately substantiated."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0182",
+        "SRC-0183",
+        "SRC-0190"
+      ],
+      "section": "Item14",
+      "rationale": "Federal hours, contractor categories and fixed/variable split; GS13rate basis missing from duplicated private wage supplement."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0182",
+        "SRC-0183",
+        "SRC-0190"
+      ],
+      "section": "Item15",
+      "rationale": "Exact old-to-new changes by population and requirements; detailed baseline correction of two test sites."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0182",
+        "SRC-0183",
+        "SRC-0190"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Administrative data and consultation, but aged coefficients and no accessible uncertainty analysis."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0182",
+        "SRC-0183",
+        "SRC-0190"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "735485 vs729485 typo; federal QC hours do not equal displayed input product."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202401-2070-005/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 2070-0162 | ICR Reference No: 202401-2070-005 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202302-2070-001 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 03/15/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 03/15/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 02/01/2024"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 02/01/2024 | Terms of Clearance: In accordance with 5 CFR 1320, the non-substantive change request is approved. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0183",
+        "document_date": "10/25/2023"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
+}

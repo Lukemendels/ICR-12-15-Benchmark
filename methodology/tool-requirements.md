@@ -26,3 +26,5 @@ This is a specification for later development. No modeling application has been 
 | TR-20 | Distinguish zero, missing and not applicable. | SEC interactive data versus BLS SOII | Deferred federal cost remains missing; a justified zero can earn full credit. |
 
 Narrative generation must mark unresolved material inputs for analyst judgment. Defaults should preserve evidence without encouraging unsupported precision.
+
+Freeze note: specification0.5.0 is frozen with M1-1.0.0. Later evidence supplies acceptance examples for existing requirements: TSA TWIC pathway and fee ledgers(TR-05/10), Coast Guard removed-addendum bridge(TR-08/13), CMMC internal/vendor/system separation(TR-07/10/12), EPA CEMS explicit annuity(TR-11), FinCEN nonfiling case funnels(TR-04/08), and NASS advance/nonresponse activities(TR-04/16). No new major requirement was needed after model0.5.0.

@@ -1,28 +1,28 @@
 # Social Security Benefits Application
 
-Provisional review. 202502-0960-015; sources SRC-0178, SRC-0177.
+Reviewed under rubric1.0.0. 202502-0960-015; sources SRC-0177, SRC-0178.
 
-Score 64/100. Public documentation only. extensive statement; high complexity.
+Score 64/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 14. Form/modeburden,wait/travel/learningtablesvisible; totalsandscopefailreconciliation.
+- reproducibility: 14/20. Form/modeburden,wait/travel/learningtablesvisible; totalsandscopefailreconciliation.
 
-- provenance: 9. ManagementdataFY2025,wagegenericBLSandOIRAtravelproxy; coefficientsnotpublic.
+- provenance: 9/15. ManagementdataFY2025,wagegenericBLSandOIRAtravelproxy; coefficientsnotpublic.
 
-- segmentation: 15. Threeapplicationsandpaper/phone/office/internet/thirdpartysegmented.
+- segmentation: 15/15. Threeapplicationsandpaper/phone/office/internet/thirdpartysegmented.
 
-- labor: 5. Generalmeanwage31.48usedasopportunitycost; noage/employmentmatch.
+- labor: 5/10. Generalmeanwage31.48usedasopportunitycost; noage/employmentmatch.
 
-- item13: 8. Nofeesorrequiredpurchasesreasonableforbenefitapplication;travelresourcecostnotpriced.
+- item13: 8/10. Nofeesorrequiredpurchasesreasonableforbenefitapplication;travelresourcecostnotpriced.
 
-- item14: 3. 5.763billioncategorieswithGS9formula butnohours/rate; cannotreproduce.
+- item14: 3/10. 5.763billioncategorieswithGS9formula butnohours/rate; cannotreproduce.
 
-- item15: 6. Oldnewformhoursandresponsesgiven;ROCISscopebridgewrong.
+- item15: 6/10. Oldnewformhoursandresponsesgiven;ROCISscopebridgewrong.
 
-- validation: 3. Actualinterviewexperienceandspatialtravelproxy; limitationsacknowledgedbutpopulationmappingfails.
+- validation: 3/5. Actualinterviewexperienceandspatialtravelproxy; limitationsacknowledgedbutpopulationmappingfails.
 
-- consistency: 1. 4milliontravelrespondentsversus70718officemodalities;ROCISandfullcosthoursscopesconflict.
+- consistency: 1/5. 4milliontravelrespondentsversus70718officemodalities;ROCISandfullcosthoursscopesconflict.
 
 ## Reconstruction issues
 

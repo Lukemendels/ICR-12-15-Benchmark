@@ -1,0 +1,74 @@
+icr_id,agency,complexity,tsa_relevance,thoroughness,total,excluding_13_14_rescaled,item12_composite_out_of_60
+202306-3038-007,CFTC,high,high,extensive,67,71.25,45
+202310-0607-003,DOC/CENSUS,very high,technique,extensive,74,76.25,48
+202310-1219-001,DOL/MSHA,very high,high,extensive,73,76.25,47
+202310-1220-004,DOL/BLS,high,technique,extensive,78,83.75,53
+202311-2137-001,DOT/PHMSA,high,high,extensive,64,71.25,44
+202312-2050-001,EPA/OLEM,high,high,extensive,71,71.25,45
+202401-1615-055,DHS/USCIS,medium,medium,moderate,69,71.25,42
+202401-2070-005,EPA/OCSPP,high,high,extensive,76,77.5,48
+202401-3235-005,SEC,very high,high,extensive,61,66.25,42
+202402-0648-005,DOC/NOAA,high,high,extensive,70,70.0,43
+202402-1652-002,DHS/TSA,high,high,extensive,64,62.5,43
+202403-0607-001,DOC/CENSUS,medium,medium,moderate,74,76.25,49
+202403-0910-005,HHS/FDA,high,high,extensive,60,65.0,42
+202403-1219-001,DOL/MSHA,medium,high,moderate,72,76.25,47
+202404-1220-001,DOL/BLS,high,technique,extensive,83,85.0,53
+202404-1240-007,DOL/OWCP,medium,medium,extensive,64,63.75,42
+202404-2120-002,DOT/FAA,high,high,extensive,69,68.75,46
+202404-2137-003,DOT/PHMSA,high,high,extensive,68,72.5,47
+202405-0704-001,DOW/DODDEP,medium,high,moderate,72,72.5,45
+202405-0704-002,DOW/DODDEP,very high,high,extensive,75,80.0,51
+202405-0938-022,HHS/CMS,medium,medium,moderate,65,68.75,45
+202405-1218-005,DOL/OSHA,high,high,extensive,78,81.25,50
+202405-1220-001,DOL/BLS,medium,low,extensive,69,71.25,45
+202405-1506-005,TREAS/FINCEN,high,high,extensive,68,76.25,47
+202405-1652-001,DHS/TSA,high,high,extensive,74,77.5,52
+202406-1652-001,DHS/TSA,high,high,extensive,76,75.0,50
+202408-1625-012,DHS/USCG,high,high,extensive,77,78.75,48
+202408-1652-002,DHS/TSA,high,high,extensive,60,61.25,42
+202409-0560-007,USDA/FSA,high,medium,extensive,69,73.75,47
+202409-2126-001,DOT/FMCSA,low,low,brief,60,57.5,35
+202409-3235-022,SEC,low,medium,brief,76,80.0,47
+202410-0910-013,HHS/FDA,high,high,extensive,64,72.5,45
+202410-0960-002,SSA,high,technique,extensive,62,63.75,42
+202410-3150-005,NRC,very high,high,extensive,73,77.5,45
+202410-7100-005,FRS,medium,medium,moderate,58,66.25,43
+202411-1218-005,DOL/OSHA,medium,high,extensive,69,68.75,43
+202411-1651-004,DHS/USCBP,medium,high,moderate,57,67.5,45
+202411-1652-007,DHS/TSA,low,medium,moderate,68,67.5,47
+202411-2070-003,EPA/OCSPP,high,high,extensive,75,77.5,50
+202412-1205-002,DOL/ETA,medium,medium,extensive,77,80.0,49
+202412-1652-001,DHS/TSA,high,high,extensive,71,71.25,49
+202412-3170-001,CFPB,high,high,extensive,54,52.5,33
+202501-1210-006,DOL/EBSA,low,medium,moderate,82,80.0,49
+202502-0960-015,SSA,high,low,extensive,64,66.25,43
+202502-2040-002,EPA/OW,high,high,extensive,71,75.0,49
+202502-2060-039,EPA/OAR,high,high,extensive,67,70.0,44
+202502-3235-014,SEC,medium,high,brief,53,60.0,33
+202503-3060-020,FCC,high,high,extensive,76,78.75,45
+202504-1004-001,DOI/BLM,high,high,extensive,73,76.25,47
+202504-1652-008,DHS/TSA,high,high,extensive,75,77.5,50
+202504-1902-007,FERC,medium,high,moderate,69,70.0,44
+202504-2060-006,EPA/OAR,very high,high,extensive,67,67.5,45
+202504-3235-016,SEC,high,high,extensive,68,70.0,45
+202505-1218-008,DOL/OSHA,high,high,extensive,77,78.75,49
+202505-2060-004,EPA/OAR,high,high,extensive,73,72.5,46
+202505-3060-038,FCC,high,high,extensive,69,68.75,43
+202506-0551-003,USDA/FAS,medium,low,moderate,70,68.75,44
+202506-0938-007,HHS/CMS,high,high,moderate,60,65.0,40
+202506-2130-004,DOT/FRA,high,high,extensive,67,67.5,41
+202507-1902-004,FERC,high,high,extensive,64,70.0,46
+202508-1218-005,DOL/OSHA,high,high,extensive,80,80.0,50
+202508-1652-001,DHS/TSA,high,high,extensive,70,73.75,48
+202508-2126-007,DOT/FMCSA,high,high,extensive,61,61.25,40
+202509-2060-003,EPA/OAR,very high,high,extensive,68,71.25,45
+202511-0583-005,USDA/FSIS,very high,high,extensive,59,63.75,41
+202511-1545-005,TREAS/IRS,very high,medium,extensive,73,75.0,45
+202602-0607-001,DOC/CENSUS,medium,technique,extensive,71,71.25,45
+202602-2060-006,EPA/OAR,very high,high,extensive,74,77.5,47
+202602-3170-003,CFPB,high,high,extensive,46,46.25,32
+202603-0535-001,USDA/NASS,high,medium,extensive,75,78.75,49
+202603-1210-004,DOL/EBSA,very high,medium,extensive,71,73.75,48
+202606-1652-001,DHS/TSA,high,high,extensive,66,66.25,46
+202606-1652-002,DHS/TSA,high,high,extensive,50,51.25,35

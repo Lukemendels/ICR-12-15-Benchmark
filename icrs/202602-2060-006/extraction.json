@@ -7,7 +7,7 @@
   "archetype": "hazardous-waste combustor amendment",
   "complexity": "very high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 7,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -166,7 +166,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0154"
+      "source_id": "SRC-0154",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Costbridge",
@@ -176,7 +178,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact.",
-      "source_id": "SRC-0154"
+      "source_id": "SRC-0154",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Technicalrate",
@@ -186,7 +190,9 @@
       "difference": 43.783,
       "unit": "USD/hour",
       "interpretation": "43.783differencefrommisprintedwagetable; workloaduses114.09.",
-      "source_id": "SRC-0154"
+      "source_id": "SRC-0154",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Baseline record capital",
@@ -196,8 +202,141 @@
       "difference": 22799,
       "unit": "USD",
       "interpretation": "Displayedpopulationandpricecannotreproduceannualcapital.",
-      "source_id": "SRC-0154"
+      "source_id": "SRC-0154",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 74
+  "total_score": 74,
+  "complexity_original": "very high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0153",
+        "SRC-0154",
+        "SRC-0158",
+        "SRC-0159"
+      ],
+      "section": "Item12",
+      "rationale": "Fullbaseline retrieved; incrementtasks andscope clear, but rounding/staleratecells."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0153",
+        "SRC-0154",
+        "SRC-0158",
+        "SRC-0159"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "OEWS2024industryNAICS/SOC,OPM2025,baseline2023; legacytechnicalcoefficients."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0153",
+        "SRC-0154",
+        "SRC-0158",
+        "SRC-0159"
+      ],
+      "section": "Item12",
+      "rationale": "Newstandards,e-reporting andremovedmonitorobligationssegmented."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0153",
+        "SRC-0154",
+        "SRC-0158",
+        "SRC-0159"
+      ],
+      "section": "Item12",
+      "rationale": "Wage*2.1methodexplicit;technicaltotal70.31typo versus114.09usedintables; overheadsupportweak."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0153",
+        "SRC-0154",
+        "SRC-0158",
+        "SRC-0159"
+      ],
+      "section": "Item13",
+      "rationale": "Positiveperformance testsandnegativeequipment/O&M changesseparate; legacycapitalunit costnotannualized."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0153",
+        "SRC-0154",
+        "SRC-0158",
+        "SRC-0159"
+      ],
+      "section": "Item14",
+      "rationale": "Federalincrementbyrole/grade; fullbaselinecostexistsseparately, removalrowinconsistencies."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0153",
+        "SRC-0154",
+        "SRC-0158",
+        "SRC-0159"
+      ],
+      "section": "Item15",
+      "rationale": "Exactoldplusprogramdelta=newinventoryforthreemeasures; incrementroundingdocumented."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0153",
+        "SRC-0154",
+        "SRC-0158",
+        "SRC-0159"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Engineering/programknowledge; limitedpublictimingvalidation."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0153",
+        "SRC-0154",
+        "SRC-0158",
+        "SRC-0159"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Overallinventorybridgecoherent, detailedrole/hourandwagecells conflict."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202602-2060-006/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 2060-0743 | ICR Reference No: 202602-2060-006 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Historical Inactive | Previous ICR Reference No: 202301-2060-013 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Comment filed on proposed rule and continue | Conclusion Date: 06/23/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 06/23/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 02/27/2026"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 02/27/2026 | Terms of Clearance: In accordance with 5 CFR 1320, OMB is filing comment and withholding approval at this time. The agency shall examine public comment in response to the proposed rulemaking and will include in the supporting statement of the next ICR—which is to be submitted to OMB at the final rule stage—a description of how the agency has responded to any public comments on the ICR, including comments on maximizing the practical utility of the collection and minimizing the burden. As part of the final rule ICR package, the agency should ensure the OMB Control No., expiration date, and PRA burden statement appears on each information collection instrument. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0154",
+        "document_date": "02/23/2026"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

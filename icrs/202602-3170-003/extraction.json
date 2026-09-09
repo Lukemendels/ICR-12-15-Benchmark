@@ -6,8 +6,8 @@
   "submission_date": "02/27/2026",
   "archetype": "financial mortgage reporting",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 2,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -109,7 +109,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0052"
+      "source_id": "SRC-0052",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Labor",
@@ -119,7 +121,9 @@
       "difference": 1.7999999970197678,
       "unit": "USD",
       "interpretation": "Rate precision not exposed",
-      "source_id": "SRC-0052"
+      "source_id": "SRC-0052",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Item13",
@@ -129,10 +133,123 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0052"
+      "source_id": "SRC-0052",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 46,
   "table_evidence_path": "icrs/202602-3170-003/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0051",
+        "SRC-0052"
+      ],
+      "section": "Item12",
+      "rationale": "Table row hours reconstruct; per-bank hours are asserted aggregates."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0051",
+        "SRC-0052"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "SOC, base wage and live BLS link supplied without vintage or load derivation."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0051",
+        "SRC-0052"
+      ],
+      "section": "Item12",
+      "rationale": "Reporting, records and disclosures separated; bank size and data-volume heterogeneity hidden."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0051",
+        "SRC-0052"
+      ],
+      "section": "Item12",
+      "rationale": "41.46 to66.33 implicit1.6 factor not explained; financial-sector claim links national data."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0051",
+        "SRC-0052"
+      ],
+      "section": "Item13",
+      "rationale": "Software and LEI unit costs exposed; narrative discusses a different collection."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0051",
+        "SRC-0052"
+      ],
+      "section": "Item14",
+      "rationale": "Three employees plus861728 contract/O&M, but salary absent and total unclear."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0051",
+        "SRC-0052"
+      ],
+      "section": "Item15",
+      "rationale": "Wage increase explained without prior rate or dollar bridge."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0051",
+        "SRC-0052"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "No timing evidence in Item12; inherited methodology not located in statement."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0051",
+        "SRC-0052"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "RegulationI/private deposit-insurance narrative surrounds HMDA tables; wrong legal scope repeated."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 3170-0008 | ICR Reference No: 202602-3170-003 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202211-3170-002 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 06/04/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 06/04/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 02/27/2026"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 02/27/2026 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0052",
+        "document_date": "02/27/2026"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

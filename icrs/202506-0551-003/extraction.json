@@ -5,9 +5,9 @@
   "title": "Technical Assistance for Specialty Crops",
   "submission_date": "08/08/2025",
   "archetype": "export technical-assistance grants",
-  "complexity": "moderate",
+  "complexity": "medium",
   "tsa_relevance": "low",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 7,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -132,7 +132,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0152"
+      "source_id": "SRC-0152",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal",
@@ -142,7 +144,9 @@
       "difference": 7.275957614183426e-12,
       "unit": "USD",
       "interpretation": "Exact.",
-      "source_id": "SRC-0152"
+      "source_id": "SRC-0152",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Change",
@@ -152,8 +156,123 @@
       "difference": 50,
       "unit": "hours",
       "interpretation": "50-hour error.",
-      "source_id": "SRC-0152"
+      "source_id": "SRC-0152",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 70
+  "total_score": 70,
+  "complexity_original": "moderate",
+  "tsa_relevance_original": "low",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0151",
+        "SRC-0152"
+      ],
+      "section": "Item12",
+      "rationale": "Five respondent activities and seven government rows reproduce totals."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0151",
+        "SRC-0152"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Occupation and2025GS13/10 specified; respondent wage vintage/loading missing."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0151",
+        "SRC-0152"
+      ],
+      "section": "Item12",
+      "rationale": "Application, agreement, evaluation, reimbursement and records separated."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0151",
+        "SRC-0152"
+      ],
+      "section": "Item12",
+      "rationale": "76.21 said includesfringe withoutwage/load derivation."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0151",
+        "SRC-0152"
+      ],
+      "section": "Item13",
+      "rationale": "NoadditionalcapitalorO&M stated;existinggrant recordscope plausible."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0151",
+        "SRC-0152"
+      ],
+      "section": "Item14",
+      "rationale": "740hours by office/task at72.90, GS13/10plus30%; hoursperapplicationnotshown."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0151",
+        "SRC-0152"
+      ],
+      "section": "Item15",
+      "rationale": "Old/newandresponses statedbutclaims350ratherthan400-hourincrease."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0151",
+        "SRC-0152"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Program experience, little measuredtimeevidence."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0151",
+        "SRC-0152"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Main tablescoherent;Item15arithmeticerror."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": null,
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 0551-0038 | ICR Reference No: 202506-0551-003 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202207-0551-001 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 09/26/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 09/26/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 08/08/2025"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 08/08/2025 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0152",
+        "document_date": "09/24/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

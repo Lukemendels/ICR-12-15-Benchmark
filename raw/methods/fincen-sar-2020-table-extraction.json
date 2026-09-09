@@ -1,0 +1,70 @@
+{
+  "source_id": "SRC-0191",
+  "locator": "printed31605 Table7; printed31611 Tables21\u201322 (PDFpages8,14)",
+  "extraction_method": "Rendered PDF visually inspected; manual numeric transcription",
+  "case_conversion": 0.42,
+  "original_sars": 2335559,
+  "continuing_sars": 416135,
+  "case_minutes": {
+    "original": 20,
+    "continuing": 3,
+    "declined": 25
+  },
+  "recordkeeping_minutes": {
+    "batch": 5,
+    "discrete": 15
+  },
+  "filing_minutes": {
+    "continuing_batch": 20,
+    "continuing_discrete": 40,
+    "original_standard_batch": 40,
+    "original_standard_discrete": 60,
+    "original_extended_batch": 200,
+    "original_extended_discrete": 300
+  },
+  "table22_columns": [
+    "activity",
+    "hours",
+    "cost"
+  ],
+  "table22_rows": [
+    [
+      "case review",
+      3218296,
+      130819064
+    ],
+    [
+      "recordkeeping",
+      301183,
+      7228392
+    ],
+    [
+      "continuing reporting",
+      157844,
+      5524540
+    ],
+    [
+      "nondepository standard",
+      728133,
+      25484655
+    ],
+    [
+      "nondepository extended",
+      25425,
+      966150
+    ],
+    [
+      "depository standard",
+      927774,
+      32472090
+    ],
+    [
+      "depository extended",
+      103371,
+      3928098
+    ]
+  ],
+  "reported_hours": 5462026,
+  "reported_cost": 206422989,
+  "limitation": "Historical segmented source;2024renewal does not update these segment weights."
+}

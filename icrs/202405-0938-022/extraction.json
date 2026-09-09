@@ -5,9 +5,9 @@
   "title": "Proposed Prior Authorization Process and Requirements for Certain Hospital Outpatient Department (OPD) Services (CMS-10711)",
   "submission_date": "05/24/2024",
   "archetype": "hospital prior authorization",
-  "complexity": "moderate",
+  "complexity": "medium",
   "tsa_relevance": "medium",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 6,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -126,7 +126,9 @@
       "difference": 0.0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0129"
+      "source_id": "SRC-0129",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "All respondent cost",
@@ -136,7 +138,9 @@
       "difference": -0.27999999932944775,
       "unit": "USD",
       "interpretation": "Whole-dollar rounding.",
-      "source_id": "SRC-0129"
+      "source_id": "SRC-0129",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Mail",
@@ -146,8 +150,123 @@
       "difference": 2,
       "unit": "USD",
       "interpretation": "Two-dollar ROCIS difference.",
-      "source_id": "SRC-0129"
+      "source_id": "SRC-0129",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 65
+  "total_score": 65,
+  "complexity_original": "moderate",
+  "tsa_relevance_original": "medium",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0128",
+        "SRC-0129"
+      ],
+      "section": "Item12",
+      "rationale": "Paper/electronic initial/resubmission counts, time and education formula clear."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0128",
+        "SRC-0129"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "2022 BLS occupation and source explicit; workload origin and contractor costs less detailed."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0128",
+        "SRC-0129"
+      ],
+      "section": "Item12",
+      "rationale": "Submission pathway and resubmissions distinguished; education separate."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0128",
+        "SRC-0129"
+      ],
+      "section": "Item12",
+      "rationale": "Median health-support wage doubled; rationale broad and one role for all incremental tasks."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0128",
+        "SRC-0129"
+      ],
+      "section": "Item13",
+      "rationale": "Postage explicit underItem12 and inROCIS nonlabor; capital zero defensible."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0128",
+        "SRC-0129"
+      ],
+      "section": "Item14",
+      "rationale": "25.3million contractor review total lacks workload/unit price."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0128",
+        "SRC-0129"
+      ],
+      "section": "Item15",
+      "rationale": "46999-hour adjustment stated but unchanged ROCIS responses contradict explanation of increased submissions."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0128",
+        "SRC-0129"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Existing documentation scope reasoned; time and contractor assumptions not independently tested."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0128",
+        "SRC-0129"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Main totals reconcile with rounding, but846015 postage differs from846013 package and unit typo says million."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": null,
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 0938-1368 | ICR Reference No: 202405-0938-022 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202212-0938-002 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 11/18/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 11/18/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 05/24/2024"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 05/24/2024 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0129",
+        "document_date": "05/21/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

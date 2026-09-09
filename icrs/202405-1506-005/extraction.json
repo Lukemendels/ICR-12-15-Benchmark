@@ -1,0 +1,269 @@
+{
+  "icr_id": "202405-1506-005",
+  "omb_control_number": "1506-0065",
+  "agency": "TREAS/FINCEN",
+  "title": "FinCEN Form 111 - Suspicious Activity Report",
+  "submission_date": "05/31/2024",
+  "archetype": "suspicious transaction reporting",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
+  "review_iteration": 9,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0184",
+    "SRC-0185",
+    "SRC-0191"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 10,
+    "segmentation": 14,
+    "labor": 6,
+    "item13": 2,
+    "item14": 5,
+    "item15": 7,
+    "validation": 4,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Current aggregate formula reproduces; historical segmented model accessible in cited notice.",
+    "provenance": "2022 administrative counts and precise 2020 notice, but 2019 labor inputs carried forward.",
+    "segmentation": "Original/continuing, depository/nondepository, standard/extended and batch/discrete in historical method; no updated segment weights.",
+    "labor": "2019 OEWS/ECEC historical weighting is explicit; recent average not refreshed.",
+    "item13": "Item13 is mislabeled labor cost; nonlabor cost scope not separately established.",
+    "item14": "Filings times ten cents, but referenced internal unit-cost report not accessible.",
+    "item15": "Old/new totals and population driver explicit; rounded coefficient changes bridge slightly.",
+    "validation": "Conflicting comments assessed for sample representativeness; public administrative segmentation; time assumptions remain weak.",
+    "consistency": "Labor placed in Item13; aggregate rounding and inherited time mix limit consistency."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "SAR reporting and recordkeeping",
+        4367197,
+        1.98,
+        8647050
+      ]
+    ],
+    "labor": {
+      "loaded_average": 37.79,
+      "basis": "2020 notice cost206422989 / hours5462026; 2019 labor inputs",
+      "reported": 326772020
+    },
+    "item13": {
+      "reported_labor_misclassified": 326772020,
+      "nonlabor_cost": null,
+      "scope": "Current item13 reports hourly labor, not separate nonlabor burden"
+    },
+    "item14": {
+      "responses": 4367197,
+      "cost_per_filing": 0.1,
+      "reported": 436719.7,
+      "source": "Internal Cost per BSA Filing Transaction report, not retrieved"
+    },
+    "item15": {
+      "old_hours": 5462026,
+      "new_hours": 8647050,
+      "delta": 3185024,
+      "old_responses": 2751694,
+      "new_responses": 4367197,
+      "reason": "2019 to 2022 administrative filing volume"
+    },
+    "assumptions": [
+      "2019 segment mix and unit time remain representative of 2022.",
+      "Historical 42% case-to-SAR conversion borrowed from 13-bank industry study.",
+      "Twenty minutes initial case review, three minutes continuing, 25 minutes declining a case; batch recordkeeping five vs discrete fifteen minutes."
+    ]
+  },
+  "reconstruction_issues": [
+    "2019 compensation and rounded 1.98-hour average reused without updated segment mix.",
+    "Item13 reports labor rather than separately assessing nonlabor cost.",
+    "Industry 15-large-bank estimate21.41h rejected as nongeneralizable; this does not validate1.98h for all segments."
+  ],
+  "methods_worth_testing": [
+    "Model nonfiling decisions and case-review funnels, not only submitted reports.",
+    "Assess consultation sample coverage and task scope explicitly; avoid treating absence of earlier objection as validation."
+  ],
+  "checks": [
+    {
+      "label": "Current hours",
+      "formula": "4367197*1.98",
+      "calculated": 8647050.06,
+      "reported": 8647050,
+      "difference": 0.06000000052154064,
+      "unit": "hours",
+      "interpretation": "Rounded aggregate reproduces.",
+      "source_id": "SRC-0185",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    },
+    {
+      "label": "Labor",
+      "formula": "8647050*37.79",
+      "calculated": 326772019.5,
+      "reported": 326772020,
+      "difference": -0.5,
+      "unit": "USD",
+      "interpretation": "Half-dollar rounding.",
+      "source_id": "SRC-0185",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    },
+    {
+      "label": "Change",
+      "formula": "8647050-5462026",
+      "calculated": 3185024,
+      "reported": 3185024,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact bridge.",
+      "source_id": "SRC-0185",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    },
+    {
+      "label": "Constant displayed coefficient bridge",
+      "formula": "(4367197-2751694)*1.98",
+      "calculated": 3198695.94,
+      "reported": 3185024,
+      "difference": 13671.939999999944,
+      "unit": "hours",
+      "interpretation": "Difference reflects old unrounded methodology versus current rounded average.",
+      "source_id": "SRC-0185",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
+    }
+  ],
+  "total_score": 68,
+  "complexity_original": "high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0184",
+        "SRC-0185",
+        "SRC-0191"
+      ],
+      "section": "Item12",
+      "rationale": "Current aggregate formula reproduces; historical segmented model accessible in cited notice."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0184",
+        "SRC-0185",
+        "SRC-0191"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "2022 administrative counts and precise 2020 notice, but 2019 labor inputs carried forward."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0184",
+        "SRC-0185",
+        "SRC-0191"
+      ],
+      "section": "Item12",
+      "rationale": "Original/continuing, depository/nondepository, standard/extended and batch/discrete in historical method; no updated segment weights."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0184",
+        "SRC-0185",
+        "SRC-0191"
+      ],
+      "section": "Item12",
+      "rationale": "2019 OEWS/ECEC historical weighting is explicit; recent average not refreshed."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0184",
+        "SRC-0185",
+        "SRC-0191"
+      ],
+      "section": "Item13",
+      "rationale": "Item13 is mislabeled labor cost; nonlabor cost scope not separately established."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0184",
+        "SRC-0185",
+        "SRC-0191"
+      ],
+      "section": "Item14",
+      "rationale": "Filings times ten cents, but referenced internal unit-cost report not accessible."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0184",
+        "SRC-0185",
+        "SRC-0191"
+      ],
+      "section": "Item15",
+      "rationale": "Old/new totals and population driver explicit; rounded coefficient changes bridge slightly."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0184",
+        "SRC-0185",
+        "SRC-0191"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Conflicting comments assessed for sample representativeness; public administrative segmentation; time assumptions remain weak."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0184",
+        "SRC-0185",
+        "SRC-0191"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Labor placed in Item13; aggregate rounding and inherited time mix limit consistency."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": null,
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1506-0065 | ICR Reference No: 202405-1506-005 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202007-1506-002 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 09/24/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 09/24/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 05/31/2024"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 05/31/2024 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0185",
+        "document_date": "05/30/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
+}

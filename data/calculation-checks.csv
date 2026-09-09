@@ -1,0 +1,268 @@
+icr_id,label,formula,calculated,reported,difference,unit,source_id,arithmetic_status,interpretation
+202306-3038-007,Bridge,1460357+1093+1732,1463182,1463182,0,hours,SRC-0125,exact,Exact.
+202306-3038-007,UPI row,1732*63*.01,1091.16,1093,-1.8399999999999181,hours,SRC-0125,difference_requires_interpretation,Displayed inputs do not reproduce total.
+202306-3038-007,IC totals,1445346+5652+10452+1732,1463182,1463182,0,hours,SRC-0125,exact,Exact.
+202310-0607-003,Main implied hours,385940*203/60,1305763.6666666667,1303636,2127.6666666667443,hours,SRC-0076,difference_requires_interpretation,Average time rounded; not an arithmetic error
+202310-0607-003,Dress narrative,8470*235/60+50,33224.166666666664,33256,-31.83333333333576,hours,SRC-0076,difference_requires_interpretation,Rounding; workbook instead reports33305
+202310-0607-003,Added burden,1000*3.1,3100.0,3100,0.0,hours,SRC-0076,exact,Exact
+202310-1219-001,Annual hours,(18720+109983+63215)/3,63972.666666666664,63972,0.6666666666642413,hours,SRC-0106,difference_requires_interpretation,Underlying unrounded values needed; displayed average differs0.67
+202310-1219-001,Annual labor,(1260818.92+7704098.39+4238135.24)/3,4401017.516666667,4401018,-0.4833333333954215,USD,SRC-0106,within_display_rounding,Rounding
+202310-1219-001,Repeat attempts,.8*1+.15*2+.05*3,1.25,1.25,0.0,attempts,SRC-0106,exact,Exact
+202310-1219-001,Corrective cost,1845.97*38.37,70829.8689,45870.4,24959.4689,USD,SRC-0106,difference_requires_interpretation,Material discrepancy
+202310-1219-001,Transmission cost,2*(8392+8392+88112)/3*10*(117.996/110.220),748642.6187624752,748639.05,3.5687624751590192,USD,SRC-0106,difference_requires_interpretation,Rounding
+202310-1220-004,Average hours,(39591+41820+42985)/3,41465.333333333336,41465,0.33333333333575865,hours,SRC-0078,within_display_rounding,Rounding
+202310-1220-004,Compensation,.7*63.45+.3*33.01,54.318,54.32,-0.0020000000000024443,USD/hour,SRC-0078,within_display_rounding,Rounding
+202310-1220-004,Annual labor,41465*54.32,2252378.8,2252379,-0.20000000018626451,USD,SRC-0078,within_display_rounding,Rounding
+202311-2137-001,New large burden,30*3*50,4500,4500,0,hours,SRC-0080,exact,Exact
+202311-2137-001,Small updates,35700*5,178500,178499,1,hours,SRC-0080,difference_requires_interpretation,One-hour discrepancy
+202311-2137-001,Loaded clerk,17.48/(1-.317),25.592972181551975,25.59,0.002972181551974984,USD/hour,SRC-0080,within_display_rounding,Rounding
+202312-2050-001,Net burden,8276-8266,10,10,0,hours,SRC-0056,exact,Exact
+202312-2050-001,Mail costs,442*3.96,1750.32,1750.32,0.0,USD,SRC-0056,exact,Exact
+202312-2050-001,Annualreport unitlabor,38*102.26+2*38.27,3962.42,6136,-2173.58,USD,SRC-0056,difference_requires_interpretation,Material rate/product mismatch
+202312-2050-001,Federal gross/net,473+73.2+186-240,492.20000000000005,492,0.20000000000004547,hours,SRC-0056,within_display_rounding,Rounded
+202401-1615-055,Hours,153000*4.387+306000*1.17,1029230.9999999999,1029231,-1.1641532182693481e-10,hours,SRC-0058,exact,Exact
+202401-1615-055,Purchasedservices,153000*.25*515,19698750.0,19698750,0.0,USD,SRC-0058,exact,Exact
+202401-1615-055,Federalproxy,153000*750,114750000,114750000,0,USD,SRC-0058,exact,"Exact proxy,notvalidationofcostscope"
+202401-1615-055,Change,671211-699210,-27999,-27999,0,hours,SRC-0058,exact,Exact
+202401-2070-005,Annual hours,(2947925+2886506)*18/48/3+181,729484.875,729485,-0.125,hours,SRC-0183,within_display_rounding,Fractional-cycle annualization within rounding.
+202401-2070-005,Change bridge,719291-25417+35611,729485,729485,0,hours,SRC-0183,exact,Exact.
+202401-2070-005,Federal QC,40286*.005,201.43,188,13.430000000000007,hours,SRC-0183,difference_requires_interpretation,Displayed unit coefficient does not reproduce total.
+202401-2070-005,Reported total conflict,729304+181,729485,735485,-6000,hours,SRC-0183,difference_requires_interpretation,6000-hour typo.
+202401-3235-005,Liquidity hours change,20*4*71-21*4*70,-200,-200,0,hours,SRC-0108,exact,Exact
+202401-3235-005,Financial rate,(416+339)/2,377.5,355,22.5,USD/hour,SRC-0108,difference_requires_interpretation,Material discrepancy
+202401-3235-005,Initial hedge labor,195*(360+416)/2+130*(386+280)/2,118950.0,118890,60.0,USD,SRC-0108,difference_requires_interpretation,60-dollar discrepancy from displayed75600 subtotal
+202401-3235-005,Displayed annual hours,4654+1728+67+1428+33870+349200+5680+53504+100+600+100+17.75+58.75+4,451011.5,451011.5,0.0,hours,SRC-0108,exact,Exact sum of displayed rows; underlying cohort annualization remains questionable
+202402-0648-005,Hours,33*6+33*6+659*4+33*2,3098,3098,0,hours,SRC-0127,exact,Exact at rounded counts.
+202402-0648-005,Costs,33*6*128+33*(3100+6*128)+659*(720+4*128)+33*2*128,973324,973324,0,USD,SRC-0127,exact,Exact.
+202402-0648-005,Federal,280943*.03+124818*.12,23406.449999999997,23406,0.4499999999970896,USD,SRC-0127,within_display_rounding,Dollar rounding.
+202402-0648-005,Hour change,3098-2476,622,622,0,hours,SRC-0127,exact,Exact.
+202402-1652-002,Appeal row,33*5,165,167.1,-2.0999999999999943,hours,SRC-0004,difference_requires_interpretation,Unexplained count precision
+202402-1652-002,Recordkeeping,102042*5/60,8503.5,8503.5,0.0,hours,SRC-0004,exact,Exact table reconstruction
+202402-1652-002,STA fee,98500*41,4038500,4038500,0,USD,SRC-0004,exact,Exact
+202402-1652-002,Federal annual,16802471+8100000,24902471,24902471,0,USD,SRC-0004,exact,Exact table total
+202402-1652-002,Federal three-year,24902471*3,74707413,74747414,-40001,USD,SRC-0004,difference_requires_interpretation,Material discrepancy; reported three-year value inconsistent
+202403-0607-001,Hours,13700*4*15/60+10500*4*10/60,20700.0,20700,0.0,hours,SRC-0166,exact,Exact.
+202403-0607-001,Labor,20700*41.7,863190.0000000001,863190,1.1641532182693481e-10,USD,SRC-0166,exact,Exact.
+202403-0910-005,Reported rows,"sum([368295,125,51,125,17,1500,9024,10,856,2825,1])+434",383263,383262,1,hours,SRC-0006,difference_requires_interpretation,Exact sum of reported rows
+202403-0910-005,Labor,383262*64.96,24896699.519999996,24896700,-0.48000000417232513,USD,SRC-0006,within_display_rounding,Rounding
+202403-0910-005,Federal,130*129759,16868670,16868670,0,USD,SRC-0006,exact,Exact
+202403-1219-001,Hours,4424+4424+1106+1106,11060,11060,0,hours,SRC-0110,exact,Exact
+202403-1219-001,Responses,1106+1106+4424+13272,19908,19908,0,responses,SRC-0110,exact,Exact
+202403-1219-001,Hygienist rate,39.22*1.49*1.043*1.17*1.071,76.375400169978,76.35,0.0254001699779991,USD/hour,SRC-0110,within_display_rounding,Display rounding; conceptual double-inflation question separate
+202404-1220-001,2024 hours,113304+101600,214904,214904,0,hours,SRC-0008,exact,Exact
+202404-1220-001,Change,25000+270+1775,27045,27045,0,hours,SRC-0008,exact,"Residual1775 inferred,not explicit estimate"
+202404-1220-001,Three-year average,(214904+214634+214634)/3,214724.0,214724,0.0,hours,SRC-0008,exact,Analytical horizon average; not substituted for package annual request
+202404-1240-007,Hours exact minutes,54067/6,9011.166666666666,9029,-17.83333333333394,hours,SRC-0168,difference_requires_interpretation,17.83hoursroundingdifference.
+202404-1240-007,Federal rebuilt,4800+54067*5.32+(80*43533+12*61965)*.05+(148689+141557)*.05,518259.74,327505,190754.74,USD,SRC-0168,difference_requires_interpretation,Materialdifferencefromstalesubtotals.
+202404-1240-007,Labor,9029*36.43,328926.47,328926.47,0.0,USD,SRC-0168,exact,Exact.
+202404-2120-002,Detailed hours,125*8.5+50*10+500*4.25+475*41+5000+500+10*.25+10000+200000,238665.0,240868.75,-2203.75,hours,SRC-0170,difference_requires_interpretation,4203.75differencefromheadline.
+202404-2120-002,Federal,(125*.5+50*.5+500*.5+50*4+475*8+500*.5+10*.25)*71.4,327726.0,327726,0.0,USD,SRC-0170,exact,Exact.
+202404-2137-003,Hours,71.25+3315+142.5+150+2982+1182.75+480+400+114+23.75+1567.5+700+30400,41528.75,41529.5,-0.75,hours,SRC-0082,difference_requires_interpretation,Exact
+202404-2137-003,Federal displayed table,14894*.5*73.23,545343.81,545343.81,0.0,USD,SRC-0082,exact,Exact but inconsistent with prose
+202404-2137-003,Loaded wage,56.64/.683,82.92825768667642,82.93,-0.0017423133235894284,USD/hour,SRC-0082,within_display_rounding,Rounding
+202405-0704-001,Hours,240*5/60+10942*.25,2755.5,2755.5,0.0,hours,SRC-0138,exact,Exact.
+202405-0704-001,Labor,20*84.91+2735.5*211.70,580803.5499999999,580804,-0.4500000000698492,USD,SRC-0138,within_display_rounding,Dollar rounding.
+202405-0704-002,Hours,8098*417.83+2844*833.83+190*42.08+23*384.08,5771828.899999999,5771828.9,-9.313225746154785e-10,hours,SRC-0140,exact,Exact.
+202405-0704-002,Engineering,190*(2700000+490000)+23*(21100000+4120000),1186160000,1186160000,0,USD,SRC-0140,exact,Exact aggregate; validates arithmetic not scope/cohorts.
+202405-0704-002,Federal hours,190*117.75+23*435.75,32394.75,32394.75,0.0,hours,SRC-0140,exact,Exact.
+202405-0704-002,RIA POAM printed equation,48*86.24,4139.5199999999995,345,3794.5199999999995,USD,SRC-0140,difference_requires_interpretation,Printed48hours inconsistent with cost; likely4hours but not silently corrected.
+202405-0938-022,Hours,(127397+297261+41806+97546)*.5+11469*3,316412.0,316412,0.0,hours,SRC-0129,exact,Exact.
+202405-0938-022,All respondent cost,316412*37.06+169203*5,12572243.72,12572244,-0.27999999932944775,USD,SRC-0129,within_display_rounding,Whole-dollar rounding.
+202405-0938-022,Mail,169203*5,846015,846013,2,USD,SRC-0129,difference_requires_interpretation,Two-dollar ROCIS difference.
+202405-1218-005,Inhouse stock,63785650*.15*.10,956784.75,956785,-0.25,extinguishers,SRC-0060,within_display_rounding,Rounding
+202405-1218-005,Outsourcedcost,8611063*50.5,434858681.5,434858682,-0.5,USD,SRC-0060,within_display_rounding,Rounding
+202405-1218-005,Loaded wage,30.76/(1-.294),43.569405099150146,43.57,-0.0005949008498546959,USD/hour,SRC-0060,within_display_rounding,Rounding
+202405-1218-005,Hourbridge,478393-293496,184897,184897,0,hours,SRC-0060,exact,Exact
+202405-1220-001,Hours,10000*.3333+450,3783.0,3783,0.0,hours,SRC-0172,exact,Exactatroundedtime.
+202405-1220-001,Cost,3783*33.82,127941.06,127941.06,0.0,USD,SRC-0172,exact,Exact.
+202405-1506-005,Current hours,4367197*1.98,8647050.06,8647050,0.06000000052154064,hours,SRC-0185,within_display_rounding,Rounded aggregate reproduces.
+202405-1506-005,Labor,8647050*37.79,326772019.5,326772020,-0.5,USD,SRC-0185,within_display_rounding,Half-dollar rounding.
+202405-1506-005,Change,8647050-5462026,3185024,3185024,0,hours,SRC-0185,exact,Exact bridge.
+202405-1506-005,Constant displayed coefficient bridge,(4367197-2751694)*1.98,3198695.94,3185024,13671.939999999944,hours,SRC-0185,difference_requires_interpretation,Difference reflects old unrounded methodology versus current rounded average.
+202405-1652-001,Candidate existing hours,(14329+31643+31794)/3*35/60,15121.166666666666,15121,0.16666666666606034,hours,SRC-0036,within_display_rounding,Rounding
+202405-1652-001,Fees from rounded counts,19112*140+245*125,2706305,2706212,93,USD,SRC-0036,difference_requires_interpretation,Unrounded counts needed
+202405-1652-001,Summary hours,29638+3958,33596,33594,2,hours,SRC-0036,difference_requires_interpretation,Two-hour discrepancy
+202406-1652-001,Federal hours,48*25+586*4+1200*.25,3844.0,3844,0.0,hours,SRC-0038,exact,Exact
+202406-1652-001,Federal dollars,(48*25+586*4)*63.65+300*87.11,251708.6,251693,15.60000000000582,USD,SRC-0038,difference_requires_interpretation,Rounded rate residual
+202406-1652-001,CHRC fees,(48*1560+2250)*52,4010760,4010760,0,USD,SRC-0038,exact,Exact
+202406-1652-001,Checklist narrative,2588645*10/60*46.74,20165544.55,54658,20110886.55,USD,SRC-0038,difference_requires_interpretation,Material copied narrative value; correct table differs only through precision
+202408-1625-012,Hours,430000+111452+518827+10118,1070397,1070397,0,hours,SRC-0174,exact,Exact.
+202408-1625-012,Labor,1070397*58,62083026,62083026,0,USD,SRC-0174,exact,Exact.
+202408-1625-012,Change,980*2/60,32.666666666666664,33,-0.3333333333333357,hours,SRC-0174,within_display_rounding,Wholehourrounding.
+202408-1625-012,Federal,380000+1920000,2300000,2300000,0,USD,SRC-0174,exact,Exactcomponenttotal.
+202408-1652-002,Program subtotal,4800+783+1+400+60+5,6049,4451,1598,hours,SRC-0040,difference_requires_interpretation,Material subtotal discrepancy
+202408-1652-002,Fee,6959*41,285319,281219,4100,USD,SRC-0040,difference_requires_interpretation,Wrong count or total
+202408-1652-002,Fee using Item12,6859*41,281219,281219,0,USD,SRC-0040,exact,Exact
+202408-1652-002,Federal hours,4023+181.5+152+74.5+6432+400,11263.0,11263,0.0,hours,SRC-0040,exact,Exact
+202409-0560-007,Form hours,12220.230581,12220.230581,12220.980581,-0.75,hours,SRC-0142,difference_requires_interpretation,Independently multiplying rows yields.75hour less than reported cache.
+202409-0560-007,Appraisals,15*2000+6*2000*.5,36000.0,36000,0.0,USD,SRC-0142,exact,Exact purchased cost.
+202409-0560-007,Federal,287810*52.62,15144562.2,15144562.2,0.0,USD,SRC-0142,exact,Exact.
+202409-2126-001,Hours,1060*10/60,176.66666666666666,176.65,0.01666666666665151,hours,SRC-0010,within_display_rounding,Stage truncation residual
+202409-2126-001,Labor,176.65*21.92,3872.1680000000006,3872.17,-0.001999999999497959,USD,SRC-0010,within_display_rounding,Rounded
+202409-3235-022,Responses,1946+52,1998,1998,0,responses,SRC-0012,exact,Exact
+202409-3235-022,Hours,1998*.05,99.9,99.9,0.0,hours,SRC-0012,exact,Exact
+202409-3235-022,Labor,99.9*86,8591.4,8591.4,0.0,USD,SRC-0012,exact,Exact
+202409-3235-022,Change,(1998-1776)*.05,11.100000000000001,11.1,1.7763568394002505e-15,hours,SRC-0012,exact,Exact
+202410-0910-013,Total hours,9284+280+7400346+31952,7441862,7441862,0,hours,SRC-0084,exact,Exact
+202410-0910-013,Labor,6237142*132.16+1163204*112.48+41516*45.80,957039305.4399999,957039305.44,-1.1920928955078125e-07,USD,SRC-0084,within_display_rounding,Exact
+202410-0960-002,Base row hours,"sum([20538,133309,33144,383293,272081])",842365,842365,0,hours,SRC-0014,exact,Exact
+202410-0960-002,Expanded hours,842365+159971*24/60+79986+73459,1059798.4,986339,73459.3999999999,hours,SRC-0014,difference_requires_interpretation,Material unexplained reconciliation difference
+202410-0960-002,Federal sum,2042+2997425+8413,3007880,3007881,-1,USD,SRC-0014,difference_requires_interpretation,One-dollar table residual
+202410-0960-002,Opportunity dollars,25826154+1064614+977739,27868507,27868507,0,USD,SRC-0014,exact,Exact
+202410-3150-005,Section sum,990856+12786+126925+1475307+10805+1097727,3714406,3714406,0,hours,SRC-0114,exact,Exact displayed section sum.
+202410-3150-005,Federal section hours,(101953+1526+41295+73115+2250+20275)*300,72124200,72124200,0,USD,SRC-0114,exact,Exact.
+202410-3150-005,Storage,2086947*300*.0004,250433.64,250434,-0.35999999998603016,USD,SRC-0114,within_display_rounding,Whole-dollar rounding.
+202410-3150-005,Old-new bridge,3714406-3633354,81052,81052,0,hours,SRC-0114,exact,Exact.
+202410-7100-005,Main hours,22948+18399+22948+3307+4329+9415,81346,81346,0,hours,SRC-0042,exact,Exact table sum
+202410-7100-005,Labor,81346*(.3*23+.45*84+.15*85+.1*124),5682018.100000001,5682018,0.10000000055879354,USD,SRC-0042,within_display_rounding,Rounding
+202410-7100-005,Small activities,108*.004+27*.016+108*.004,1.296,0,1.296,hours,SRC-0042,difference_requires_interpretation,1.296 hours disappears through row rounding
+202411-1218-005,Employer hours,192+48+96+24+6,366,366,0,hours,SRC-0016,exact,Exact
+202411-1218-005,Federal hours,"sum([48,48,60,36,36,960,110,10,200,200])",1708,1708,0,hours,SRC-0016,exact,Exact
+202411-1218-005,Federal cost,1708*56.16,95921.28,95924,-2.720000000001164,USD,SRC-0016,difference_requires_interpretation,Rounding
+202411-1218-005,Table loading,23.46/(1-.312),34.09883720930233,34.1,-0.001162790697669891,USD/hour,SRC-0016,within_display_rounding,Rounding
+202411-1218-005,Text loading,23.46/(1-.317),34.348462664714496,34.1,0.24846266471449496,USD/hour,SRC-0016,within_display_rounding,Different from table
+202411-1651-004,Respondent hours,24*12*4,1152,1152,0,hours,SRC-0044,exact,Exact
+202411-1651-004,Federal hours,288*2,576,10,566,hours,SRC-0044,difference_requires_interpretation,Material error
+202411-1651-004,Federal cost from stated workload,288*2*70.19,40429.44,702,39727.44,USD,SRC-0044,difference_requires_interpretation,Material error
+202411-1651-004,Loaded wage,23.24*(33.98/23)*(122.273/117.973),35.58603541547273,35.59,-0.0039645845272744396,USD/hour,SRC-0044,within_display_rounding,Rounding
+202411-1652-007,Hours,7500*.5+900*10/60,3900.0,3900,0.0,hours,SRC-0018,exact,Exact
+202411-1652-007,Labor,3900*46.14,179946.0,179946,0.0,USD,SRC-0018,exact,Exact
+202411-1652-007,Postage,7500*.5*.73,2737.5,2737.5,0.0,USD,SRC-0018,exact,Exact
+202411-1652-007,Federal,4*32*52/2087*107927.30,344208.96444657404,344209,-0.03555342595791444,USD,SRC-0018,within_display_rounding,Rounding residual only
+202411-1652-007,Omitted Form600,2*2.5/60,0.08333333333333333,0,0.08333333333333333,hours,SRC-0018,within_display_rounding,"Explicit omitted0.0833 hours, not a hidden arithmetic error"
+202411-2070-003,Hours,78156*35.70516+9686*21.95867+839052,3842316.1625800002,3842287,29.16258000023663,hours,SRC-0062,difference_requires_interpretation,Small rounding difference
+202411-2070-003,Loaded mix,(77.56*.03+68.46*.89+34.4*.08)*1.2,79.20983999999999,79.23,-0.020160000000018385,USD/hour,SRC-0062,within_display_rounding,Rounding
+202411-2070-003,Federal total,30000+1115000+1326000+1134419,3605419,3605419,0,USD,SRC-0062,exact,Exact
+202412-1205-002,Hours,53*12*(2.5+2+2+5),7314.0,7314,0.0,hours,SRC-0144,exact,Exact.
+202412-1205-002,Labor,7314*53,387642,387642,0,USD,SRC-0144,exact,Exact.
+202412-1205-002,System allocation,920436.8/30,30681.22666666667,30681.22,0.006666666668024845,USD,SRC-0144,within_display_rounding,Cent truncation/rounding difference.
+202412-1205-002,Change,53*12*.5,318.0,318,0.0,hours,SRC-0144,exact,Directly inferred from disclosed time change.
+202412-1652-001,Hours,500+108750+108750+261000+521250+494867+353477+70695+83534+87000+5220,2095043,2095043,0,hours,SRC-0176,exact,Exact rounded-row sum.
+202412-1652-001,CHRC fee,1042500*56.55,58953375.0,58954925,-1550.0,USD,SRC-0176,difference_requires_interpretation,1550difference.
+202412-1652-001,Federal,435*28.5*(155109/2087),921400.9714901773,921402,-1.0285098226740956,USD,SRC-0176,difference_requires_interpretation,Unroundedrate reproducesroundedtotal.
+202412-1652-001,Applicant loading,34.51*50.31/34.59,50.19364267129228,34.48,15.713642671292284,USD/hour,SRC-0176,difference_requires_interpretation,Footnote method conflicts with usedrate.
+202412-3170-001,Hours,994245+107100+2720000+1275000+578340+53550+1377000,7105235,7105235,0,hours,SRC-0046,exact,Exact
+202412-3170-001,Vendor cost,1339*42000*(.25+.25),28119000.0,28119000,0.0,USD,SRC-0046,exact,Exact
+202412-3170-001,Startup per prose,28119000*.2,5623800.0,22495200,-16871400.0,USD,SRC-0046,difference_requires_interpretation,Classification conflicts with table
+202501-1210-006,Notices,3*189,567,567,0,responses,SRC-0086,exact,Exact
+202501-1210-006,Hours,3+3*.5+22*2/60,5.233333333333333,5,0.2333333333333334,hours,SRC-0086,within_display_rounding,Displayed whole-hour rounding
+202501-1210-006,Labor,3*118.93+(3*.5+22*2/60)*69.41,511.8056666666667,512,-0.19433333333330438,USD,SRC-0086,within_display_rounding,Rounding
+202501-1210-006,Mail,22*(.73+.05),17.16,17.16,0.0,USD,SRC-0086,exact,Exact
+202502-0960-015,Office respondents,51648+8227+10843,70718,4005715,-3934997,people,SRC-0178,difference_requires_interpretation,Travelpopulationmappingunresolved.
+202502-0960-015,Minimum expanded hours,1443157+2002858+925143,4371158,3328797,1042361,hours,SRC-0178,difference_requires_interpretation,ExceedsclaimedROCISbeforewaiting.
+202502-0960-015,Costs,73805710+63049970+29123502,165979182,165979182,0,USD,SRC-0178,exact,Exactcomponentcostsum.
+202502-0960-015,Federal,6185+5762047904+1266081,5763320170,5763320170,0,USD,SRC-0178,exact,Exacttotalsbutnotindependentworkloadreconstruction.
+202502-2040-002,Operator average,(3880+3382)/2,3631.0,3631,0.0,operators,SRC-0020,exact,Exact
+202502-2040-002,Meters,round(3631*.23),835,835,0,meters,SRC-0020,exact,Workbook reconstructs;prose25%doesnot
+202502-2040-002,Capital,835*1064,888440,888440,0,USD,SRC-0020,exact,Exact
+202502-2040-002,ROCIS annualization,888440/3,296146.6666666667,296147,-0.3333333333139308,USD,SRC-0020,within_display_rounding,Rounding butcohort rationale conflicts
+202502-2040-002,Renewal change,200383-126567,73816,73816,0,hours,SRC-0020,exact,Exact
+202502-2040-002,Federal report burden implied byquarterly frequency,835*4*(.16+.2*.5),868.4,217.1,651.3,hours,SRC-0020,difference_requires_interpretation,Count-to-period mismatch relative toworkbook;not an agency-corrected estimate
+202502-2040-002,Ten minute conversion,10/60,0.16666666666666666,0.1,0.06666666666666665,hours,SRC-0020,within_display_rounding,Substantive conversion mismatch
+202502-2060-039,Hours,124+1286,1410,1410,0,hours,SRC-0146,exact,Exactdisplayedsubtotals.
+202502-2060-039,Federal cost,42.56+425.63+5120.32+640.04,6228.549999999999,5590,638.5499999999993,USD,SRC-0146,difference_requires_interpretation,638.55difference.
+202502-2060-039,RATAunit,3624*6.5,23556.0,21216,2340.0,USD,SRC-0146,difference_requires_interpretation,2340difference.
+202502-2060-039,Capital recovery exemplar,510899*.07/(1-(1.07)**-10),72740.52376590787,72752,-11.476234092129744,USD/year,SRC-0146,difference_requires_interpretation,Historicalannuityreplicateswithinrounding; notentirelyItem13nonlabor.
+202502-3235-014,Responses,8218*4.5,36981.0,36981,0.0,responses,SRC-0088,exact,Exact
+202502-3235-014,Hours,36981*53.11111,1964101.9589099998,1964102,-0.04109000018797815,hours,SRC-0088,within_display_rounding,Rounding
+202502-3235-014,Nonlabor,36981*6175,228357675,228357675,0,USD,SRC-0088,exact,Exact
+202502-3235-014,Hour change,1964102-1814966,149136,149136,0,hours,SRC-0088,exact,Exact
+202503-3060-020,Hours,1400+3500+1000+2800+700+1400+4200+175,15175,15175,0,hours,SRC-0064,exact,Exact
+202503-3060-020,Hourbridge,6690+5900+1760+825,15175,15175,0,hours,SRC-0064,exact,Exact
+202503-3060-020,Noticebridge,7*(240-100)+35*(80-40),2380,2380,0,hours,SRC-0064,exact,Exact
+202503-3060-020,Labor,14300*65.48+875*125,1045739.0,1045739,0.0,USD,SRC-0064,exact,Exact
+202504-1004-001,Displayed row hours,27286.0,27286.0,27276,10.0,hours,SRC-0148,difference_requires_interpretation,Retained removed activity causes20-hour excess.
+202504-1004-001,Federal exploration,10000*74.27,742700.0,642900,99800.0,USD,SRC-0148,difference_requires_interpretation,99800 difference; stale prior rate.
+202504-1004-001,Change bridge,2051105-40+625,2051690,2051690,0,USD,SRC-0148,exact,Exact.
+202504-1004-001,Respondent mix,(20.94*.1+50.70*.8+82.83*.1)*1.4,71.3118,71.31,0.0018000000000029104,USD/hour,SRC-0148,within_display_rounding,Rounding.
+202504-1652-008,Total hours,269571+135918+5725+38595+677+59943+43,510472,510471,1,hours,SRC-0180,difference_requires_interpretation,One-hour roundedcomponentdifference.
+202504-1652-008,Fee total,35308401+912743+39612556+2862420+9990,78706110,78706109,1,USD,SRC-0180,difference_requires_interpretation,One-dollarrounding.
+202504-1652-008,Replacement precise minutes,47707*7/60,5565.816666666667,5725,-159.1833333333334,hours,SRC-0180,difference_requires_interpretation,159.18hours differencefromrounded.12h.
+202504-1652-008,Wage,(11380*25.72+12570*54.51+3230*54.86+1220*32.40+4730*29.60+35920*40.11+2044400*26.92)*(35.83/24.80)/2113450,39.51943767717743,39.52,-0.0005623228225744015,USD/hour,SRC-0180,within_display_rounding,Weightedratecorrect despiteinvertedlabel.
+202504-1902-007,Hours,2886+7+55080,57973,57973,0,hours,SRC-0066,exact,Exact
+202504-1902-007,Federalcost,.6*207786+2*8396,141463.59999999998,141464,-0.40000000002328306,USD,SRC-0066,within_display_rounding,Rounding
+202504-1902-007,Storage,51*10,510,510,0,USD,SRC-0066,exact,Exact
+202504-1902-007,Change,(37-42)*78+(14-80)*.5+(51-122)*1080,-77103.0,-77103,0.0,hours,SRC-0066,exact,Exact
+202504-2060-006,Hours,2170+5393+1752308+8+640,1760519,1760519,0,hours,SRC-0131,exact,Exact.
+202504-2060-006,Capital and O&M,1075*570+648*3482+460*(31949+30282)+729*(295+3733)+2324*(17818+19661)+293*(1843+2359)+150*1991+16*(8192+895),123208182,123208182,0,USD,SRC-0131,exact,Exact at published annual unit prices.
+202504-2060-006,Federal summary hours,6+1824+229+13287+66+64,15476,15476,0,hours,SRC-0131,exact,Summary itself reconciles; underlying permit workload does not.
+202504-2060-006,NOx table hours,43+27,70,64,6,hours,SRC-0131,difference_requires_interpretation,6-hour discrepancy; footnote21 resolves total but not displayed row.
+202504-3235-016,Narrative labor,469*381+315456*86,27307905,27307905,0,USD,SRC-0150,exact,Exact.
+202504-3235-016,Table minus narrative,28525065-27307905,1217160,1217160,0,USD,SRC-0150,exact,Material conflict.
+202504-3235-016,Purchased services,270*183000+114*30000+1491*15000+277*366000,176577000,176577000,0,USD,SRC-0150,exact,Exact.
+202504-3235-016,Annual statement precise minutes,2072000/60,34533.333333333336,35224,-690.6666666666642,hours,SRC-0150,difference_requires_interpretation,Rounding atunit-timelevel raises697.33hours.
+202505-1218-008,Hours,1646+3068+95480+3973+3973+1636+3973+397,114146,114146,0,hours,SRC-0133,exact,Exact.
+202505-1218-008,Nonlabor,(122+18405+1227)*63+(24038+23580+61)*227,12067635,12067635,0,USD,SRC-0133,exact,Exact at asserted prices.
+202505-1218-008,Change,"sum([26,31,-466,-19,-19,16,-19,-2])",-452,-452,0,hours,SRC-0133,exact,Exact.
+202505-1218-008,Medical price inflation,204*1.0246,209.01839999999999,227,-17.981600000000014,USD/exam,SRC-0133,difference_requires_interpretation,Material price transformation discrepancy.
+202505-2060-004,Hours,"sum([45,28,2428,654,1088,10800,7200,63,378,1056,9010,39105,11690,24476,812,400])",109233,109233,0,hours,SRC-0116,exact,Exact.
+202505-2060-004,Nonlabor,2800+9*2800+33*10000+17*(31949+30282)+99*(17818+19661)+334*(1843+2359),6529816,6529816,0,USD,SRC-0116,exact,Exact.
+202505-2060-004,Federal,1983.5*94.49,187420.91499999998,187441,-20.085000000020955,USD,SRC-0116,difference_requires_interpretation,Rounded unit dollars and hours.
+202505-2060-004,Loaded federal rate,(109177+151748*.09)*1.6/2080,94.48793846153846,94.49,-0.002061538461532564,USD/hour,SRC-0116,within_display_rounding,Close rounding; .09 approximates1/11.
+202505-3060-038,Outsideservice,899*9.3*275,2299192.5,2299275,-82.5,USD,SRC-0068,difference_requires_interpretation,82.5roundingdifferencefromearlyrounding
+202505-3060-038,Totalnonlabor,1854991.82+2299275,4154266.8200000003,4154267,-0.17999999970197678,USD,SRC-0068,within_display_rounding,Rounding
+202505-3060-038,Federalanalyst,1508*55.07,83045.56,83000.32,45.23999999999069,USD,SRC-0068,difference_requires_interpretation,45.24discrepancy
+202506-0551-003,Hours,25*(40+2+10+8+6),1650,1650,0,hours,SRC-0152,exact,Exact.
+202506-0551-003,Federal,"sum([20,320,40,80,20,160,100])*72.9",53946.00000000001,53946,7.275957614183426e-12,USD,SRC-0152,exact,Exact.
+202506-0551-003,Change,1650-1250,400,350,50,hours,SRC-0152,difference_requires_interpretation,50-hour error.
+202506-0938-007,Hours,6044*(538+137),4079700,4079700,0,hours,SRC-0090,exact,Exact
+202506-0938-007,Labor,6044*(538*47.68+137*87.30),227326565.36,227326565,0.36000001430511475,USD,SRC-0090,within_display_rounding,Rounding
+202506-0938-007,Change,(6044-6075)*674+6044,-14850,-14850,0,hours,SRC-0090,exact,Exact
+202506-2130-004,Paperhours,918351*8/60,122446.8,119385.63,3061.1699999999983,hours,SRC-0070,difference_requires_interpretation,Materialprematurerounding
+202506-2130-004,Populationrecords,85712*210,17999520,18367020,-367500,records,SRC-0070,difference_requires_interpretation,Materialdiscrepancy
+202506-2130-004,Softwarecost,247500*1.0336,255816.00000000003,255816,2.9103830456733704e-11,USD,SRC-0070,exact,Exact
+202506-2130-004,Federalcost,2*157982.4*.25+12066.88+4239.2+9050.16+1589.7,105937.14,105937.14,0.0,USD,SRC-0070,exact,Exact
+202507-1902-004,Prior master,20160+11760+188040+50640+188040+50640+593760,1103040,1103040,0,hours,SRC-0072,exact,Exact
+202507-1902-004,Current hours,1103040+97*4,1103428,1103428,0,hours,SRC-0072,exact,Exact
+202507-1902-004,Weighted rate,.75*79.31+.25*44.74,70.6675,70.67,-0.0024999999999977263,USD/hour,SRC-0072,within_display_rounding,Rounding
+202507-1902-004,Transfer subtotal,7776+8904,16680,18680,-2000,hours,SRC-0072,difference_requires_interpretation,2000-hour discrepancy
+202508-1218-005,Change bridge,"sum([0,12314,13972,1302,-2450,353,4874,11776,2349,-914,-50079,-50777,68,984,0])",-56228,-56228,0,hours,SRC-0187,exact,Exact delta table sum.
+202508-1218-005,Total burden,"sum([29037,32946,3071,94730,45744,37460,160248,304614,12935,564893,718590,174,264624])",2269066,2269066,0,hours,SRC-0187,exact,Subtotal reconstruction.
+202508-1218-005,Hot work responses,6207*18,111726,126288,-14562,responses,SRC-0187,difference_requires_interpretation,Legacy response column conflicts with current population.
+202508-1218-005,Engineer loaded,56.90/.705,80.70921985815603,80.71,-0.0007801418439612462,USD/hour,SRC-0187,within_display_rounding,Rounding.
+202508-1652-001,Federal annual dollars,(153260+157134+160230)/3*1000,156874666.66666666,156875000,-333.33333334326744,USD,SRC-0048,difference_requires_interpretation,Rounding to nearest thousand
+202508-1652-001,New hours,300000*2/60,10000.0,10000,0.0,hours,SRC-0048,exact,Exact
+202508-1652-001,Loaded ticket agent,22.94*35.82/24.90,33.00043373493976,33,0.0004337349397616208,USD/hour,SRC-0048,within_display_rounding,Rounding
+202508-2126-007,Weightdenominator,2044400+1003960+594230+184990,3827580,3490010,337570,drivers,SRC-0074,difference_requires_interpretation,Materialdiscrepancy
+202508-2126-007,Nonlabor total,23530000+1612000000,1635530000,1620600000,14930000,USD,SRC-0074,difference_requires_interpretation,Materialadditionerror
+202508-2126-007,Carrierchange,576190000-507060000,69130000,374930000,-305800000,USD,SRC-0074,difference_requires_interpretation,Materialsubtractionerror
+202508-2126-007,Exactcarrierhours,4450000*240*.5*2/60,17800000.0,17800000,0.0,hours,SRC-0074,exact,Summaryreconstructs;Table417.84mdoesnot
+202509-2060-003,Hours bridge,214000+83882,297882,297882,0,hours,SRC-0092,exact,Exact
+202509-2060-003,Response bridge,6900+3161,10061,10061,0,responses,SRC-0092,exact,Exact
+202509-2060-003,Baseline O&M,110*1000,110000,110000,0,USD,SRC-0092,exact,Exact
+202509-2060-003,Three-year testing,9860*6/3,19720.0,17748,1972.0,technical hours,SRC-0092,difference_requires_interpretation,1972-hour understatement relative to stated every-three-year frequency
+202511-0583-005,Main categories,2142788+113202+4786793+2500,7045283,7045283,0,hours,SRC-0135,exact,Exact.
+202511-0583-005,Labor,7045283*107.04,754127092.32,754127022,70.32000005245209,USD,SRC-0135,difference_requires_interpretation,70.32 difference.
+202511-0583-005,Federal,882710*47.91,42290636.099999994,42290636,0.09999999403953552,USD,SRC-0135,within_display_rounding,Whole-dollar rounding.
+202511-0583-005,SOP review responses,899340+582140+350100,1831580,1582620,248960,responses,SRC-0135,difference_requires_interpretation,Total incorrectly retains260-day high-volume frequency.
+202511-0583-005,HACCP weekly review,6087*.25*52,79131.0,100000,-20869.0,hours,SRC-0135,difference_requires_interpretation,Population/frequency do not reproduce federal claim.
+202511-1545-005,Hours bridge,935100000-5100000-74000000+9000000+1000000-9000000,857000000,857000000,0,hours,SRC-0094,exact,Exact
+202511-1545-005,Time dollars bridge,56152000000-3362000000-215000000,52575000000,52575000000,0,USD,SRC-0094,exact,Exact
+202511-1545-005,OOP bridge,71617000000+8044000000-442000000,79219000000,79219000000,0,USD,SRC-0094,exact,Exact
+202511-1545-005,Federal processing,9655592+2601760,12257352,13571960,-1314608,USD,SRC-0094,difference_requires_interpretation,Material subtotal discrepancy
+202602-0607-001,Hours,174500*.75+47500*202/60+8000*38/60,295858.3333333333,295858,0.3333333333139308,hours,SRC-0050,within_display_rounding,One-hour rounding
+202602-0607-001,Labor,295858*44.96,13301775.68,13301776,-0.3200000002980232,USD,SRC-0050,within_display_rounding,Rounding
+202602-0607-001,Transfer,47500*157/60,124291.66666666667,124450,-158.33333333332848,hours,SRC-0050,difference_requires_interpretation,Not explained by whole-hour rounding
+202602-2060-006,Hourbridge,59100+2420,61520,61520,0,hours,SRC-0154,exact,Exact.
+202602-2060-006,Costbridge,2770000-180000,2590000,2590000,0,USD,SRC-0154,exact,Exact.
+202602-2060-006,Technicalrate,54.33*2.1,114.093,70.31,43.783,USD/hour,SRC-0154,difference_requires_interpretation,43.783differencefrommisprintedwagetable; workloaduses114.09.
+202602-2060-006,Baseline record capital,171*200,34200,11401,22799,USD,SRC-0154,difference_requires_interpretation,Displayedpopulationandpricecannotreproduceannualcapital.
+202602-3170-003,Hours,136*(6776+4330+4),1510960,1510960,0,hours,SRC-0052,exact,Exact
+202602-3170-003,Labor,1510960*66.33,100221976.8,100221975,1.7999999970197678,USD,SRC-0052,difference_requires_interpretation,Rate precision not exposed
+202602-3170-003,Item13,136*(10114+133),1393592,1393592,0,USD,SRC-0052,exact,Exact
+202603-0535-001,Hours,196035+10924,206959,206959,0,hours,SRC-0189,exact,Exact aggregate.
+202603-0535-001,Labor,206959*45.32,9379381.88,9379381.88,0.0,USD,SRC-0189,exact,Exact.
+202603-0535-001,Bridge,190943+15087+929,206959,206959,0,hours,SRC-0189,exact,Exact.
+202603-0535-001,Sample count,447630+157970,605600,596600,9000,sample units,SRC-0189,difference_requires_interpretation,9000 discrepancy; overlap not established.
+202603-1210-004,Unique plans,2765373+214124+836843+520016,4336356,4336356,0,plans,SRC-0096,exact,Exact
+202603-1210-004,Health postapproval hours,1487937787/60,24798963.116666667,24798963,0.11666666716337204,hours,SRC-0096,within_display_rounding,Rounding
+202603-1210-004,Medical denial hours,82235*8.67,712977.45,712703,274.44999999995343,hours,SRC-0096,difference_requires_interpretation,Rounded displayed duration; underlying likely26/3
+202606-1652-001,Respondent hours,510+8040+8040+5360+10+5+2+180+20,22167,22167,0,hours,SRC-0022,exact,Exact sum of rounded rows
+202606-1652-001,Federal hours,408+536+199*.083+200,1160.517,881,279.51700000000005,hours,SRC-0022,difference_requires_interpretation,Material discrepancy
+202606-1652-001,Federal table hours,408+536+5+200,1149,881,268,hours,SRC-0022,difference_requires_interpretation,Even printed rows do not sum
+202606-1652-001,ROCIS hour bridge,134023-111092-764,22167,22167,0,hours,SRC-0022,exact,Exact package bridge;not driver attribution
+202606-1652-001,J-loaded pay,(161486+55926)/2087,104.17441303306181,104.17,0.0044130330618088465,USD/hour,SRC-0022,within_display_rounding,Rounding
+202606-1652-002,Forecastfirstyear,167975*1.0101,169671.5475,170454,-782.452500000014,persons,SRC-0054,difference_requires_interpretation,Doesnot reproduce
+202606-1652-002,Surveyhours,172904*.10*.03,518.712,5187,-4668.2880000000005,hours,SRC-0054,difference_requires_interpretation,Factor10summary discrepancy
+202606-1652-002,Agentpathway share,.44+.56+.52*.60,1.312,1,0.31200000000000006,share,SRC-0054,within_display_rounding,Paths sum1.312; apparent doublecount
+202606-1652-002,Three yearhours,253812+259516+255933,769261,769255,6,hours,SRC-0054,difference_requires_interpretation,Six-hour difference

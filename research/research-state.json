@@ -1,7 +1,7 @@
 {
-  "mission_status": "IN_PROGRESS",
-  "current_iteration": 8,
-  "icrs_reviewed": 69,
+  "mission_status": "EVIDENCE_FROZEN",
+  "current_iteration": 9,
+  "icrs_reviewed": 73,
   "agencies_components_reviewed": [
     "CFPB",
     "CFTC",
@@ -35,10 +35,12 @@
     "NRC",
     "SEC",
     "SSA",
+    "TREAS/FINCEN",
     "TREAS/IRS",
     "USDA/FAS",
     "USDA/FSA",
-    "USDA/FSIS"
+    "USDA/FSIS",
+    "USDA/NASS"
   ],
   "rubric_version": "1.0.0",
   "canonical_model_version": "0.5.0",
@@ -59,6 +61,7 @@
         "202310-1219-001",
         "202310-1220-004",
         "202312-2050-001",
+        "202401-2070-005",
         "202401-3235-005",
         "202404-1220-001",
         "202405-0704-002",
@@ -70,10 +73,12 @@
         "202502-0960-015",
         "202502-2040-002",
         "202504-1652-008",
+        "202508-1218-005",
         "202509-2060-003",
         "202511-0583-005",
         "202511-1545-005",
         "202602-2060-006",
+        "202603-0535-001",
         "202603-1210-004"
       ],
       "labor": [
@@ -105,7 +110,36 @@
       ]
     },
     "agency_leader": "insufficient repeated evidence",
-    "most_consistent_agency": "not estimable"
+    "most_consistent_agency": "not estimable",
+    "observed_repeated_component_mean": {
+      "agency": "DOL/BLS",
+      "mean": 76.67,
+      "n": 3,
+      "filter": "n>=3 descriptive, not population rank"
+    },
+    "observed_repeated_component_dispersion": {
+      "agency": "DOC/CENSUS",
+      "population_sd": 1.41,
+      "n": 3,
+      "range": [
+        71,
+        74
+      ],
+      "filter": "n>=3 descriptive, not population consistency claim"
+    },
+    "item12_composite": {
+      "icrs": [
+        "202404-1220-001",
+        "202310-1220-004"
+      ],
+      "score": 53,
+      "max": 60
+    },
+    "tsa_relevant_exemplars": [
+      "202508-1218-005",
+      "202408-1625-012",
+      "202405-0704-002"
+    ]
   },
   "current_tsa_benchmark": {
     "n": 10,
@@ -118,11 +152,38 @@
     "See research/open-questions.md"
   ],
   "unresolved_evidence_gaps": [
-    "TSA overhaul attribution unverified",
-    "Underlying citations not all independently retrieved",
-    "Final calibration, provenance validation and separate adversarial round outstanding"
+    "No verified TSA internal process-overhaul attribution",
+    "Purposive sample and single analyst limit population ranking and score precision",
+    "Some underlying administrative data, coefficients and prices unavailable",
+    "Peripheral model rows require semantic normalization for software reuse",
+    "Official purchased-service routing/numbering interpretation requires resolution"
   ],
   "saturation_streak": 2,
-  "next_research_strategy": "Iteration 9: separate adversarial challenge, then final validation if no novel dimension emerges",
-  "updated_at": "2026-09-09T12:11:19.610307+00:00"
+  "next_research_strategy": "STOP Mission1. Mission2 synthesis from research/mission-2-handoff.md; only targeted new evidence should reopen/version the corpus.",
+  "updated_at": "2026-09-09T12:39:40.911628+00:00",
+  "MISSION_STATUS": "EVIDENCE_FROZEN",
+  "evidence_version": "M1-1.0.0",
+  "saturated_iterations": [
+    7,
+    8
+  ],
+  "adversarial_challenge": {
+    "iteration": 9,
+    "new_icrs": 4,
+    "outcome": "Completed; no major model/rubric/source-category/tool change; conclusions qualified and retained"
+  },
+  "final_validation": "research/final-validation.json",
+  "mission_2_handoff": "research/mission-2-handoff.md",
+  "source_count": 200,
+  "claim_count": 389,
+  "calculation_checks": 267,
+  "freeze_gates": {
+    "minimum_evidence": true,
+    "two_consecutive_saturated_batches": true,
+    "adversarial_challenge": true,
+    "dataset_consistency": true,
+    "source_registry_validation": true,
+    "unresolved_question_review": true,
+    "required_deliverables": true
+  }
 }

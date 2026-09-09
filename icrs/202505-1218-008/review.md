@@ -1,28 +1,28 @@
 # Benzene Standard (29 CFR 1910.1028)
 
-Provisional review. 202505-1218-008; sources SRC-0133, SRC-0132.
+Reviewed under rubric1.0.0. 202505-1218-008; sources SRC-0132, SRC-0133.
 
-Score 77/100. Public documentation only. extensive statement; high complexity.
+Score 77/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 17. CFR activity and medical/exposure counts mostly reconstruct; cost inflation error.
+- reproducibility: 17/20. CFR activity and medical/exposure counts mostly reconstruct; cost inflation error.
 
-- provenance: 11. OEWS2023 SOCs, CBP2020/2022 industry growth, JOLTS2023 and CPI endpoints; legacy coefficients remain.
+- provenance: 11/15. OEWS2023 SOCs, CBP2020/2022 industry growth, JOLTS2023 and CPI endpoints; legacy coefficients remain.
 
-- segmentation: 14. Industry, exposure class, examination type and job role segmented.
+- segmentation: 14/15. Industry, exposure class, examination type and job role segmented.
 
-- labor: 7. Three SOC rates divided by.704 wage share; occupational choice explicit.
+- labor: 7/10. Three SOC rates divided by.704 wage share; occupational choice explicit.
 
-- item13: 7. Samples and examinations priced separately; recurrent services mislabeled capital and exam price update inconsistent.
+- item13: 7/10. Samples and examinations priced separately; recurrent services mislabeled capital and exam price update inconsistent.
 
-- item14: 7. Explicit exclusion of inspection investigations; zero depends on stated narrow collection scope.
+- item14: 7/10. Explicit exclusion of inspection investigations; zero depends on stated narrow collection scope.
 
-- item15: 8. Old/new activity table exactly explains452-hour decline, with cost and population reasons.
+- item15: 8/10. Old/new activity table exactly explains452-hour decline, with cost and population reasons.
 
-- validation: 3. Administrative exposure baseline plus official proxies; inherited shares lack current validation.
+- validation: 3/5. Administrative exposure baseline plus official proxies; inherited shares lack current validation.
 
-- consistency: 3. Hour bridge coherent;2.46% medical price claim does not produce227 from204.
+- consistency: 3/5. Hour bridge coherent;2.46% medical price claim does not produce227 from204.
 
 ## Reconstruction issues
 

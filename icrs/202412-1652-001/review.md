@@ -1,28 +1,28 @@
 # Airport Security Part 1542
 
-Provisional review. 202412-1652-001; sources SRC-0176, SRC-0175.
+Reviewed under rubric1.0.0. 202412-1652-001; sources SRC-0175, SRC-0176.
 
-Score 71/100. Public documentation only. extensive statement; high complexity.
+Score 71/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 18. Ten activity tables and rates reconstruct most burden; conflicts in compensation and fees.
+- reproducibility: 18/20. Ten activity tables and rates reconstruct most burden; conflicts in compensation and fees.
 
-- provenance: 11. Precise2023OEWS/June2024ECEC citations and TSA2024pay; fees still2011/2019basis.
+- provenance: 11/15. Precise2023OEWS/June2024ECEC citations and TSA2024pay; fees still2011/2019basis.
 
-- segmentation: 15. Programs, amendment types, applicants, data entry and records separated.
+- segmentation: 15/15. Programs, amendment types, applicants, data entry and records separated.
 
-- labor: 5. Ratio loading transparent, but applicant footnote50.19 conflicts with34.48 used and overlapping SOC aggregates not weighted explicitly.
+- labor: 5/10. Ratio loading transparent, but applicant footnote50.19 conflicts with34.48 used and overlapping SOC aggregates not weighted explicitly.
 
-- item13: 6. CHRC price from historical range/GDPdeflator; current validation absent.
+- item13: 6/10. CHRC price from historical range/GDPdeflator; current validation absent.
 
-- item14: 8. 435airports*28.5hours*H-band rate, source annual compensation and2087denominator explicit.
+- item14: 8/10. 435airports*28.5hours*H-band rate, source annual compensation and2087denominator explicit.
 
-- item15: 4. Only qualitative updates, no old/new quantified bridge.
+- item15: 4/10. Only qualitative updates, no old/new quantified bridge.
 
-- validation: 2. TSA subject-matter estimates; no accessible timing tests or ranges for dominant activities.
+- validation: 2/5. TSA subject-matter estimates; no accessible timing tests or ranges for dominant activities.
 
-- consistency: 2. Labor footnotes conflict with tables; fee mismatch and respondent-unit terminology.
+- consistency: 2/5. Labor footnotes conflict with tables; fee mismatch and respondent-unit terminology.
 
 ## Reconstruction issues
 

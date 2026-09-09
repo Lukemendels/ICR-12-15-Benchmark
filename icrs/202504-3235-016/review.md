@@ -1,28 +1,28 @@
 # Rule 206(4)-2, Custody of Funds or Securities of Clients by Investment Advisers
 
-Provisional review. 202504-3235-016; sources SRC-0150, SRC-0149.
+Reviewed under rubric1.0.0. 202504-3235-016; sources SRC-0149, SRC-0150.
 
-Score 68/100. Public documentation only. extensive statement; high complexity.
+Score 68/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 15. Footnote equations detailed but stale subgroup counts, rounded minutes and summary dollars do not reconcile.
+- reproducibility: 15/20. Footnote equations detailed but stale subgroup counts, rounded minutes and summary dollars do not reconcile.
 
-- provenance: 11. IARD December2024 precise FormADV fields and99th-percentile winsorization; SIFMA2013 wage baseline opaque.
+- provenance: 11/15. IARD December2024 precise FormADV fields and99th-percentile winsorization; SIFMA2013 wage baseline opaque.
 
-- segmentation: 14. Three adviser groups and audit/notice obligations segmented, including nonduplicative internal-control reports.
+- segmentation: 14/15. Three adviser groups and audit/notice obligations segmented, including nonduplicative internal-control reports.
 
-- labor: 5. Two occupations and loading factors, but inflation multiplier and underlying SIFMA rates unavailable.
+- labor: 5/10. Two occupations and loading factors, but inflation multiplier and underlying SIFMA rates unavailable.
 
-- item13: 7. Tiered audit fees and internal-control exclusions explicit; price provenance and subgroup definitions inconsistent.
+- item13: 7/10. Tiered audit fees and internal-control exclusions explicit; price provenance and subgroup definitions inconsistent.
 
-- item14: 5. No additional federal cost asserted; plausible private third-party audit scope but not explained in detail.
+- item14: 5/10. No additional federal cost asserted; plausible private third-party audit scope but not explained in detail.
 
-- item15: 7. Old/new totals and activity changes stated, but input contributions not isolated.
+- item15: 7/10. Old/new totals and activity changes stated, but input contributions not isolated.
 
-- validation: 3. Administrative population and earlier accountant consultations; assumptions and winsorized totals not validated.
+- validation: 3/5. Administrative population and earlier accountant consultations; assumptions and winsorized totals not validated.
 
-- consistency: 1. Multiple population and cost contradictions, including1.217million labor difference.
+- consistency: 1/5. Multiple population and cost contradictions, including1.217million labor difference.
 
 ## Reconstruction issues
 

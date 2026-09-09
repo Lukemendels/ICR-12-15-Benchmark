@@ -5,14 +5,14 @@
   "title": "Cognitive and Psychological Research",
   "submission_date": "06/10/2024",
   "archetype": "generic cognitive and survey testing",
-  "complexity": "moderate",
+  "complexity": "medium",
   "tsa_relevance": "low",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 8,
   "rubric_version": "1.0.0",
   "source_ids": [
-    "SRC-0172",
-    "SRC-0171"
+    "SRC-0171",
+    "SRC-0172"
   ],
   "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
   "score": {
@@ -110,7 +110,9 @@
       "difference": 0.0,
       "unit": "hours",
       "interpretation": "Exactatroundedtime.",
-      "source_id": "SRC-0172"
+      "source_id": "SRC-0172",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Cost",
@@ -120,8 +122,123 @@
       "difference": 0.0,
       "unit": "USD",
       "interpretation": "Exact.",
-      "source_id": "SRC-0172"
+      "source_id": "SRC-0172",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 69
+  "total_score": 69,
+  "complexity_original": "moderate",
+  "tsa_relevance_original": "low",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0171",
+        "SRC-0172"
+      ],
+      "section": "Item12",
+      "rationale": "Annualandthree-yearhousehold/business totalsclear; mixedstudytimeaverage derivationabsent."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0171",
+        "SRC-0172"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "CESAugust2023wageandhistoricalresearchbasis; futurestudycompositionnotfixed."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0171",
+        "SRC-0172"
+      ],
+      "section": "Item12",
+      "rationale": "Household/businesssegments andscreeningacknowledged; moderated/unmoderatednotquantitativelyweighted."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0171",
+        "SRC-0172"
+      ],
+      "section": "Item12",
+      "rationale": "Generalearnings33.82forbothhouseholdsandbusiness; nooccupationalmixforbusiness."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0171",
+        "SRC-0172"
+      ],
+      "section": "Item13",
+      "rationale": "Nocapital/O&Mreasonableforshortresearchparticipation."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0171",
+        "SRC-0172"
+      ],
+      "section": "Item14",
+      "rationale": "50000maximum incentives/ads; staffandlaboratorycostsexcludedasexistingwithoutallocation."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0171",
+        "SRC-0172"
+      ],
+      "section": "Item15",
+      "rationale": "Annualincrease2949statedwithnewtestingmethods, noquantifiedstudy-mixbridge."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0171",
+        "SRC-0172"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Experiencewithpriortests supportsranges; genericclearance forecastsnotfuturestudyresults."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0171",
+        "SRC-0172"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Totalsreconcile; exclusionoftraveltimeandmixedmodeaverage limitsscopecompleteness."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202405-1220-001/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View Generic ICR - OIRA Conclusion OMB Control No: 1220-0141 | ICR Reference No: 202405-1220-001 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Historical Active | Previous ICR Reference No: 202009-1220-006 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 07/31/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 07/31/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 06/10/2024"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 06/10/2024 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0172",
+        "document_date": "05/09/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

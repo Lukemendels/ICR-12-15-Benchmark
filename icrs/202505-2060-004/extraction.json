@@ -7,7 +7,7 @@
   "archetype": "emissions monitoring and allowance markets",
   "complexity": "high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 6,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -236,7 +236,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0116"
+      "source_id": "SRC-0116",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Nonlabor",
@@ -246,7 +248,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact.",
-      "source_id": "SRC-0116"
+      "source_id": "SRC-0116",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal",
@@ -256,7 +260,9 @@
       "difference": -20.085000000020955,
       "unit": "USD",
       "interpretation": "Rounded unit dollars and hours.",
-      "source_id": "SRC-0116"
+      "source_id": "SRC-0116",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Loaded federal rate",
@@ -266,8 +272,111 @@
       "difference": -0.002061538461532564,
       "unit": "USD/hour",
       "interpretation": "Close rounding; .09 approximates1/11.",
-      "source_id": "SRC-0116"
+      "source_id": "SRC-0116",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 73
+  "total_score": 73,
+  "complexity_original": "high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0115",
+        "SRC-0116"
+      ],
+      "section": "Item12",
+      "rationale": "Task-level manager and technical hours reconstruct workload; costs use rounded unit dollars."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0115",
+        "SRC-0116"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "ECI endpoints and ECEC cited, but original industry wage basis and legacy equipment model inputs incomplete."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0115",
+        "SRC-0116"
+      ],
+      "section": "Item12",
+      "rationale": "Monitoring technologies, sources and state processing separated."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0115",
+        "SRC-0116"
+      ],
+      "section": "Item12",
+      "rationale": "Two private and two state rates; ECI updating explicit but base loading not reproduced."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0115",
+        "SRC-0116"
+      ],
+      "section": "Item13",
+      "rationale": "Equipment and recurring test contracts separated; annual capital unit costs lack useful-life/principal derivation."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0115",
+        "SRC-0116"
+      ],
+      "section": "Item14",
+      "rationale": "GS13/8 plus supervisory allocation, workload and shared-system exclusion explicit."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0115",
+        "SRC-0116"
+      ],
+      "section": "Item15",
+      "rationale": "Net changes and reasons but not a quantified driver decomposition."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0115",
+        "SRC-0116"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Utility consultation and observed program populations; limited reproducible uncertainty."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0115",
+        "SRC-0116"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Hours and cost rows largely reconcile; state/federal and shared program boundaries explicit."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202505-2060-004/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 47,
+      "text": "Status: Received in OIRA | Previous ICR Reference No: 202201-2060-003 | Agency/Subagency:"
+    },
+    {
+      "line": 71,
+      "text": "Date Submitted to OIRA: 05/30/2025 | | Requested | Previously Approved | Expiration Date |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0116",
+        "document_date": "05/28/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

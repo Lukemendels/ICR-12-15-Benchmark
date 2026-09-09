@@ -1,28 +1,28 @@
 # Employee Benefit Plan Claims Procedure Under the Employee Retirement Income Security Act
 
-Provisional review. 202603-1210-004; sources SRC-0096, SRC-0095.
+Reviewed under rubric1.0.0. 202603-1210-004; sources SRC-0095, SRC-0096.
 
-Score 71/100. Public documentation only. extensive statement; very high complexity.
+Score 71/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 16. Detailed transaction table with counts, minutes and role costs; rounded hour displays require exact minute reconstruction.
+- reproducibility: 16/20. Detailed transaction table with counts, minutes and role costs; rounded hour displays require exact minute reconstruction.
 
-- provenance: 10. MEPS-IC, Form 5500 and agency projections cited; denial/appeal and timing assumptions require fuller validation.
+- provenance: 10/15. MEPS-IC, Form 5500 and agency projections cited; denial/appeal and timing assumptions require fuller validation.
 
-- segmentation: 15. Health, short/long disability, pension, other benefits and claim outcomes are distinguished.
+- segmentation: 15/15. Health, short/long disability, pension, other benefits and claim outcomes are distinguished.
 
-- labor: 7. Role-specific EBSA loaded rates tied to shared RIA/PRA methodology; source-to-current-rate chain incomplete.
+- labor: 7/10. Role-specific EBSA loaded rates tied to shared RIA/PRA methodology; source-to-current-rate chain incomplete.
 
-- item13: 8. Paper delivery shares, postage and pages modeled; contracted administration instead included in Item 12.
+- item13: 8/10. Paper delivery shares, postage and pages modeled; contracted administration instead included in Item 12.
 
-- item14: 4. Zero federal cost asserted without workload analysis.
+- item14: 4/10. Zero federal cost asserted without workload analysis.
 
-- item15: 6. Totals and updating factors supplied; no full quantified driver decomposition.
+- item15: 6/10. Totals and updating factors supplied; no full quantified driver decomposition.
 
-- validation: 3. Administrative and survey populations; behavioral denial/appeal rates and extreme time values less supported.
+- validation: 3/5. Administrative and survey populations; behavioral denial/appeal rates and extreme time values less supported.
 
-- consistency: 2. Medical denial 8.67 hours conflicts with prose maximum six hours; several outcome labels differ across tables.
+- consistency: 2/5. Medical denial 8.67 hours conflicts with prose maximum six hours; several outcome labels differ across tables.
 
 ## Reconstruction issues
 

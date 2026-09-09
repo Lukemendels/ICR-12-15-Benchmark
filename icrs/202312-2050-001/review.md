@@ -1,28 +1,28 @@
 # Alternate PCB Extraction Methods and Amendments to PCB Cleanup and Disposal Regulations (Final Rule)
 
-Provisional review. 202312-2050-001; sources SRC-0056, SRC-0055.
+Reviewed under rubric1.0.0. 202312-2050-001; sources SRC-0055, SRC-0056.
 
-Score 71/100. Public documentation only. extensive statement; high complexity.
+Score 71/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 14. Role-hour matrix andold/new burdens explicit; labor products fail forannualreports.
+- reproducibility: 14/20. Role-hour matrix andold/new burdens explicit; labor products fail forannualreports.
 
-- provenance: 10. 2018wages,2019ECEC,2005RACER defaults identified; age andbase rates require validation.
+- provenance: 10/15. 2018wages,2019ECEC,2005RACER defaults identified; age andbase rates require validation.
 
-- segmentation: 15. Facilitytype,activity andthree laborroles; overlap ledger linked to2070-0112.
+- segmentation: 15/15. Facilitytype,activity andthree laborroles; overlap ledger linked to2070-0112.
 
-- labor: 6. Overhead1.336 components includingprofit disclosed withlimitations; final rates notfully derived.
+- labor: 6/10. Overhead1.336 components includingprofit disclosed withlimitations; final rates notfully derived.
 
-- item13: 7. Mailing3.96*442 clear; existing ICR unitprice source andcapitalzero rationale.
+- item13: 7/10. Mailing3.96*442 clear; existing ICR unitprice source andcapitalzero rationale.
 
-- item14: 7. Grade/role hours andgross/net impacts; tableheader respondent rates conflict withgovernment rates.
+- item14: 7/10. Grade/role hours andgross/net impacts; tableheader respondent rates conflict withgovernment rates.
 
-- item15: 8. 8276gross versus8266baseline=10net explicitlytable; Item15new/nochange wording misleading.
+- item15: 8/10. 8276gross versus8266baseline=10net explicitlytable; Item15new/nochange wording misleading.
 
-- validation: 3. Economic assessment andcandid overhead uncertainty;timeassumptions notempirically tested.
+- validation: 3/5. Economic assessment andcandid overhead uncertainty;timeassumptions notempirically tested.
 
-- consistency: 1. Manager38h*102.26+clerical2h*38.27 doesnot reproduce6136; copying andminute conversion problems.
+- consistency: 1/5. Manager38h*102.26+clerical2h*38.27 doesnot reproduce6136; copying andminute conversion problems.
 
 ## Reconstruction issues
 

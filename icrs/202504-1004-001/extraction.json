@@ -7,7 +7,7 @@
   "archetype": "mineral leases and exploration plans",
   "complexity": "high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 7,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -339,7 +339,9 @@
       "difference": 10.0,
       "unit": "hours",
       "interpretation": "Retained removed activity causes20-hour excess.",
-      "source_id": "SRC-0148"
+      "source_id": "SRC-0148",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal exploration",
@@ -349,7 +351,9 @@
       "difference": 99800.0,
       "unit": "USD",
       "interpretation": "99800 difference; stale prior rate.",
-      "source_id": "SRC-0148"
+      "source_id": "SRC-0148",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Change bridge",
@@ -359,7 +363,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact.",
-      "source_id": "SRC-0148"
+      "source_id": "SRC-0148",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Respondent mix",
@@ -369,8 +375,123 @@
       "difference": 0.0018000000000029104,
       "unit": "USD/hour",
       "interpretation": "Rounding.",
-      "source_id": "SRC-0148"
+      "source_id": "SRC-0148",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 73
+  "total_score": 73,
+  "complexity_original": "high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0147",
+        "SRC-0148"
+      ],
+      "section": "Item12",
+      "rationale": "CFR activity table shows every respondent workload, but removed20-hour row remains."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0147",
+        "SRC-0148"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "SOC codes,2025RUS pay, fee rule and historical fees cited; wage vintage not fixed."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0147",
+        "SRC-0148"
+      ],
+      "section": "Item12",
+      "rationale": "32 obligations and10/80/10 occupational mix; one mix reused across all tasks."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0147",
+        "SRC-0148"
+      ],
+      "section": "Item12",
+      "rationale": "Explicit weighted labor, but text1.3 versus table1.4 benefits conflict."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0147",
+        "SRC-0148"
+      ],
+      "section": "Item13",
+      "rationale": "Fixed fees and case-specific historical average fees distinguished; some stale rows."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0147",
+        "SRC-0148"
+      ],
+      "section": "Item14",
+      "rationale": "Federal grades/weights and task hours explicit, but most dollars retain64.29 despite74.27 displayed."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0147",
+        "SRC-0148"
+      ],
+      "section": "Item15",
+      "rationale": "Exact three-measure baseline/program/adjustment bridge; implementation tables not fully updated."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0147",
+        "SRC-0148"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Respondent consultation and experienced workload estimates, no measured timing data."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0147",
+        "SRC-0148"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Deleted obligation retained and widespread federal cost-rate mismatch."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202504-1004-001/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1004-0121 | ICR Reference No: 202504-1004-001 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Historical Active | Previous ICR Reference No: 202206-1004-002 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 12/31/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 12/31/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 07/17/2025"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 07/17/2025 | Terms of Clearance: In accordance with 5 CFR 1320, the information collection is approved for three years. OMB reminds the Agency, however, it should consult with up to 9 outside entities at least once every 3 years even if the collection of information has not changed. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0148",
+        "document_date": "06/02/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

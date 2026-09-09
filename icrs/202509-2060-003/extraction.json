@@ -6,8 +6,8 @@
   "submission_date": "09/30/2025",
   "archetype": "gasoline distribution emissions records and amendments",
   "complexity": "very high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 5,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -154,7 +154,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0092"
+      "source_id": "SRC-0092",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Response bridge",
@@ -164,7 +166,9 @@
       "difference": 0,
       "unit": "responses",
       "interpretation": "Exact",
-      "source_id": "SRC-0092"
+      "source_id": "SRC-0092",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Baseline O&M",
@@ -174,7 +178,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0092"
+      "source_id": "SRC-0092",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Three-year testing",
@@ -184,9 +190,142 @@
       "difference": 1972.0,
       "unit": "technical hours",
       "interpretation": "1972-hour understatement relative to stated every-three-year frequency",
-      "source_id": "SRC-0092"
+      "source_id": "SRC-0092",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 68,
-  "review_scope": "Recent full collection reconstructed from2022baseline and2026approved amendment; older baseline is not a separate benchmark ICR."
+  "review_scope": "Recent full collection reconstructed from2022baseline and2026approved amendment; older baseline is not a separate benchmark ICR.",
+  "complexity_original": "very high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0091",
+        "SRC-0092",
+        "SRC-0103",
+        "SRC-0104"
+      ],
+      "section": "Item12",
+      "rationale": "Retrieved full baseline plus increment reconstruct ROCIS hours/responses; detailed sector/role appendices available."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0091",
+        "SRC-0092",
+        "SRC-0103",
+        "SRC-0104"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Baseline ECEC2020 and new OEWS2021 identified; legacy burden assumptions and source dates need renewal."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0091",
+        "SRC-0092",
+        "SRC-0103",
+        "SRC-0104"
+      ],
+      "section": "Item12",
+      "rationale": "Terminals, plants, stations and dispensing facilities; technical/manager/clerical roles; transition years."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0091",
+        "SRC-0092",
+        "SRC-0103",
+        "SRC-0104"
+      ],
+      "section": "Item12",
+      "rationale": "Baseline starts with total compensation then adds110% for benefits, double-counting benefits as described; new model uses wages and same factor."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0091",
+        "SRC-0092",
+        "SRC-0103",
+        "SRC-0104"
+      ],
+      "section": "Item13",
+      "rationale": "Baseline CPMS maintenance110*1000 explicit; incrementalzero lacks full monitoring-capital scope justification."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0091",
+        "SRC-0092",
+        "SRC-0103",
+        "SRC-0104"
+      ],
+      "section": "Item14",
+      "rationale": "Baseline federal23900hours/1.19million and new7261hours/362782 are separate; ROCIS reports only increment."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0091",
+        "SRC-0092",
+        "SRC-0103",
+        "SRC-0104"
+      ],
+      "section": "Item15",
+      "rationale": "214000+83882 and6900+3161 reconcile; old underlying213592 rounded to214000 must remain distinct."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0091",
+        "SRC-0092",
+        "SRC-0103",
+        "SRC-0104"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Agency experience and legacy standards, without measured current time validation."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0091",
+        "SRC-0092",
+        "SRC-0103",
+        "SRC-0104"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Current package combines full respondent burden with incremental federal cost; mixed source price years and baseline loading error."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202509-2060-003/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 2060-0620 | ICR Reference No: 202509-2060-003 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202201-2060-018 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 06/24/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 06/24/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 09/30/2025"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 09/30/2025 | Terms of Clearance: In accordance with 5 CFR 1320, the information collection is approved for three years. As terms of clearance, upon renewal of this collection, EPA is required to include the following in its supporting statement for this and other NESHAP ICRs: (1) a description of the regulatory text applicable to the ICR including submission specifications; (2) a clear description of the data elements being collected under the ICR; (3) screen shots of the electronic portal where the reporting requirements are submitted to EPA (with the control number and burden statement); (4) a detailed discussion of how information is submitted and the extent to which electronic reporting is available; (5) evidence of consultation with respondents (by actively reaching out to stakeholders as permitted by the PRA) to ensure the supporting statement's accuracy on availability of data, frequency of collection, clarity of instructions, accuracy of burden estimate, relevance of data elements, and similar PRA matters; and (6) discussion of how EPA addressed substantive concerns raised by respondents and other stakeholders during consultation and in response to comments received on FR notices. In addition, please convert the supporting statement to the standard 18 question SS-A format upon renewal. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0092",
+        "document_date": "09/30/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

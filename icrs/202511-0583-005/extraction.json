@@ -7,7 +7,7 @@
   "archetype": "food safety HACCP and sanitation records",
   "complexity": "very high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 6,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -170,7 +170,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0135"
+      "source_id": "SRC-0135",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Labor",
@@ -180,7 +182,9 @@
       "difference": 70.32000005245209,
       "unit": "USD",
       "interpretation": "70.32 difference.",
-      "source_id": "SRC-0135"
+      "source_id": "SRC-0135",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal",
@@ -190,7 +194,9 @@
       "difference": 0.09999999403953552,
       "unit": "USD",
       "interpretation": "Whole-dollar rounding.",
-      "source_id": "SRC-0135"
+      "source_id": "SRC-0135",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "SOP review responses",
@@ -200,7 +206,9 @@
       "difference": 248960,
       "unit": "responses",
       "interpretation": "Total incorrectly retains260-day high-volume frequency.",
-      "source_id": "SRC-0135"
+      "source_id": "SRC-0135",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "HACCP weekly review",
@@ -210,8 +218,123 @@
       "difference": -20869.0,
       "unit": "hours",
       "interpretation": "Population/frequency do not reproduce federal claim.",
-      "source_id": "SRC-0135"
+      "source_id": "SRC-0135",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 59
+  "total_score": 59,
+  "complexity_original": "very high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0134",
+        "SRC-0135"
+      ],
+      "section": "Item12",
+      "rationale": "Extensive task/size tables, but narrative, subtotals and totals contain material discrepancies."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0134",
+        "SRC-0135"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "RTI2015 report and tables cited, current wage vintage but no role/load derivation."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0134",
+        "SRC-0135"
+      ],
+      "section": "Item12",
+      "rationale": "Plant sizes, state/federal and SOP/microbiology/HACCP tasks meaningfully separated."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0134",
+        "SRC-0135"
+      ],
+      "section": "Item12",
+      "rationale": "107.04 loaded BLS rate without occupation or component derivation."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0134",
+        "SRC-0135"
+      ],
+      "section": "Item13",
+      "rationale": "600000 capital for20 new plants has no equipment, useful life or unit-cost evidence."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0134",
+        "SRC-0135"
+      ],
+      "section": "Item14",
+      "rationale": "Inspector activities and hours shown; some workloads and47.91 rate lack derivation."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0134",
+        "SRC-0135"
+      ],
+      "section": "Item15",
+      "rationale": "No-change renewal baseline stated, but unchanged errors undermine reproducibility."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0134",
+        "SRC-0135"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "External cost study and inspection systems cited; underlying report inaccessible in this retrieval."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0134",
+        "SRC-0135"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Subtotals, frequencies and federal workload disagree; document length does not yield consistency."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202511-0583-005/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 0583-0103 | ICR Reference No: 202511-0583-005 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202302-0583-001 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 08/26/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 08/26/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 07/20/2026"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 07/20/2026 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0135",
+        "document_date": "06/22/2026"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

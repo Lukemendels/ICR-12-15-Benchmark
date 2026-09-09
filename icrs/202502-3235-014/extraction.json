@@ -6,8 +6,8 @@
   "submission_date": "06/24/2025",
   "archetype": "structured securities data filings",
   "complexity": "medium",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 4,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -98,7 +98,9 @@
       "difference": 0.0,
       "unit": "responses",
       "interpretation": "Exact",
-      "source_id": "SRC-0088"
+      "source_id": "SRC-0088",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Hours",
@@ -108,7 +110,9 @@
       "difference": -0.04109000018797815,
       "unit": "hours",
       "interpretation": "Rounding",
-      "source_id": "SRC-0088"
+      "source_id": "SRC-0088",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Nonlabor",
@@ -118,7 +122,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0088"
+      "source_id": "SRC-0088",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Hour change",
@@ -128,10 +134,123 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0088"
+      "source_id": "SRC-0088",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 53,
   "table_evidence_path": "icrs/202502-3235-014/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "medium",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0087",
+        "SRC-0088"
+      ],
+      "section": "Item12",
+      "rationale": "Filers, frequency and response hours reproduce rounded total."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0087",
+        "SRC-0088"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Administrative filing estimate; unit burden and purchased-service rate not supported with precise evidence."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0087",
+        "SRC-0088"
+      ],
+      "section": "Item12",
+      "rationale": "Filers and recurring filings modeled; limited complexity differentiation."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0087",
+        "SRC-0088"
+      ],
+      "section": "Item12",
+      "rationale": "Complete Item 12 omits labor monetization."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0087",
+        "SRC-0088"
+      ],
+      "section": "Item13",
+      "rationale": "Software and filing cost per response disclosed but unit price is not sourced."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0087",
+        "SRC-0088"
+      ],
+      "section": "Item14",
+      "rationale": "Item 14 explicitly defers estimates while SEC revises its methodology; this is missing, not zero."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0087",
+        "SRC-0088"
+      ],
+      "section": "Item15",
+      "rationale": "Prior/current responses, hours and nonlabor costs reconcile exactly."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0087",
+        "SRC-0088"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Agency experience rather than measured timing; estimates explicitly for PRA."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0087",
+        "SRC-0088"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Displayed averages reproduce totals within rounding and change arithmetic is exact."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 3235-0645 | ICR Reference No: 202502-3235-014 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202203-3235-001 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 09/17/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 09/17/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 06/24/2025"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 06/24/2025 | Terms of Clearance: OMB understands that SEC is in the process of revising its methodologies to estimate annualized costs to the Federal government for all its relevant collections of information. OMB anticipates that future extensions of this OMB control number will reflect the revised methodologies. Supporting statement updated during OMB review. |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0088",
+        "document_date": "09/15/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

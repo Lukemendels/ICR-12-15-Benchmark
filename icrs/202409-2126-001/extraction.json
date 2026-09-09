@@ -6,8 +6,8 @@
   "submission_date": "11/22/2024",
   "archetype": "voluntary research survey",
   "complexity": "low",
-  "tsa_relevance": "indirect",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "low",
+  "review_status": "REVIEWED",
   "review_iteration": 1,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -104,7 +104,9 @@
       "difference": 0.01666666666665151,
       "unit": "hours",
       "interpretation": "Stage truncation residual",
-      "source_id": "SRC-0010"
+      "source_id": "SRC-0010",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Labor",
@@ -114,10 +116,123 @@
       "difference": -0.001999999999497959,
       "unit": "USD",
       "interpretation": "Rounded",
-      "source_id": "SRC-0010"
+      "source_id": "SRC-0010",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 60,
   "table_evidence_path": "icrs/202409-2126-001/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "low",
+  "tsa_relevance_original": "indirect",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0009",
+        "SRC-0010"
+      ],
+      "section": "Item12",
+      "rationale": "Three stages and ten-minute times permit reconstruction; truncates each stage."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0009",
+        "SRC-0010"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "21.92 wage lacks source/vintage/occupation; contract value supplied."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0009",
+        "SRC-0010"
+      ],
+      "section": "Item12",
+      "rationale": "Pretest,pilot,main survey are distinct and proportionate."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0009",
+        "SRC-0010"
+      ],
+      "section": "Item12",
+      "rationale": "Unloaded/loaded status and wage provenance missing."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0009",
+        "SRC-0010"
+      ],
+      "section": "Item13",
+      "rationale": "Zero asserted; online collection makes plausible but not explained."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0009",
+        "SRC-0010"
+      ],
+      "section": "Item14",
+      "rationale": "Incremental35950.25 task isolated within649910.53 broader contract."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0009",
+        "SRC-0010"
+      ],
+      "section": "Item15",
+      "rationale": "New ICR clearly identified; Item15 N/A less useful than explicit zero-to-new bridge."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0009",
+        "SRC-0010"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Prospective pretest/pilot not evidence of validated response time yet."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0009",
+        "SRC-0010"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Small hour truncation; annualization of one-time base-year work unclear."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 2126-0085 | ICR Reference No: 202409-2126-001 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: | Agency/Subagency: DOT/FMCSA"
+    },
+    {
+      "line": 71,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 03/06/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 74,
+      "text": "Conclusion Date: 03/06/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 11/22/2024"
+    },
+    {
+      "line": 79,
+      "text": "Date Received in OIRA: 11/22/2024 | Terms of Clearance: In accordance with 5 CFR 1320, this information collection is approved | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0010",
+        "document_date": "09/18/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

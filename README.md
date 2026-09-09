@@ -1,11 +1,24 @@
-# ICR Items 12–15 Federal Benchmark
+# ICR Items12–15 Federal Benchmark — Mission1
 
-Mission 1: empirical and methodological research for a future quantitative modeling tool. No application or publication report is being built in this mission.
+This repository is the durable evidence and methodological state for ASTRA Mission1. Read **research/research-state.json** first. Mission2 is synthesis and publication; no modeling application or publication-quality report is built here.
 
-Status: INITIALIZING. Evidence is not frozen. No ICR has yet been scored.
+73 unique recent ICR package reviews include10 TSA collections across38 agency/component labels. The study asks whether another analyst can identify inputs, reproduce calculations, update estimates and defend assumptions. The sample is purposive, not representative of all federal ICRs.
 
-Primary window: September 9, 2023–September 9, 2026. North Star: independent reconstruction of Items 12–15 calculations, sources, assumptions, and changes.
+| Purpose | Location |
+|---|---|
+| State and handoff | research/research-state.json; research/mission-2-handoff.md |
+| Concise findings and limitations | research/research-summary.md; research/limitations.md |
+| Dataset, scores and checks | data/icrs.csv; data/scores.csv; data/calculation-checks.csv |
+| Structured models | data/model-sections.jsonl; icrs/*/extraction.json |
+| Original evidence and tables | icrs/*/raw; icrs/*/table-evidence.json; raw |
+| Source and claim provenance | data/sources.jsonl; data/claims.jsonl |
+| Data sources and assumptions | data/data-sources.csv; data/assumptions.csv |
+| Compliance, rubric and calibration | methodology/requirements-floor.md; methodology/rubric.md; methodology/calibration.md |
+| Architecture and tool specification | methodology/canonical-model.md; methodology/canonical-data-dictionary.md; methodology/tool-requirements.md |
+| TSA gaps and exemplars | methodology/tsa-comparison.md; methodology/exemplars.md |
+| Sampling and saturation | methodology/sampling-strategy.md; logs; research/saturation-log.md |
+| Validation and content hashes | research/final-validation.json; research/evidence-manifest.json |
 
-The repository is the authoritative mission memory. Start with `research/research-state.json` when available. Preserve public primary-source evidence separately from extraction and interpretation. Never equate a discovered record with a completed review.
+BLS SOII has the strongest overall observed score83. TSA spans50–76, mean67.4; its flight-training Item12 model is close to the strongest examples. Other agencies contribute stronger change bridges, validation and particular cost methods. This does not establish a population agency ranking or the effect of TSA's reported overhaul.
 
-Freeze requires at least 40 recent ICRs, 8 agencies/components, meaningful TSA coverage, two consecutive saturated batches after the minimum, an adversarial challenge round, and validated datasets and citations.
+Original source values are preserved when checks disagree. Correct arithmetic does not prove valid assumptions. Null means missing/not normalized, never zero. The dataset is an evidence foundation, not73 fully executable replacement models. Versions and limitations are in the handoff.

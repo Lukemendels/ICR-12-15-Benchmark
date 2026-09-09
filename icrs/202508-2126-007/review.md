@@ -1,28 +1,28 @@
 # Hours of Service (HOS) of Drivers Regulations
 
-Provisional review. 202508-2126-007; sources SRC-0074, SRC-0073.
+Reviewed under rubric1.0.0. 202508-2126-007; sources SRC-0073, SRC-0074.
 
-Score 61/100. Public documentation only. extensive statement; high complexity.
+Score 61/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 13. Forecastanddailyrecord tables; weightingdenominator wrong andcarrierrounding producesconflictingtotals.
+- reproducibility: 13/20. Forecastanddailyrecord tables; weightingdenominator wrong andcarrierrounding producesconflictingtotals.
 
-- provenance: 10. MCMISdatedquery,BLSprojections,OEWS/ECEC andvendorprices; allunderlyingquotesnotyetverified.
+- provenance: 10/15. MCMISdatedquery,BLSprojections,OEWS/ECEC andvendorprices; allunderlyingquotesnotyetverified.
 
-- segmentation: 13. Driver/carrier,new/existing,exemptDOL andequipment/service split.
+- segmentation: 13/15. Driver/carrier,new/existing,exemptDOL andequipment/service split.
 
-- labor: 4. FourSOCweights exceed100%;nestedpassengercategories anddenominator concerns;ECECbenefits mislabeledoverhead.
+- labor: 4/10. FourSOCweights exceed100%;nestedpassengercategories anddenominator concerns;ECECbenefits mislabeledoverhead.
 
-- item13: 6. Vendorprice ranges andmedian,installation,andmonthlyservice;replacement omittedandannualtotalincorrect.
+- item13: 6/10. Vendorprice ranges andmedian,installation,andmonthlyservice;replacement omittedandannualtotalincorrect.
 
-- item14: 6. Noincremental federalcost justified asnormalduties; inspectionallocationquestion.
+- item14: 6/10. Noincremental federalcost justified asnormalduties; inspectionallocationquestion.
 
-- item15: 6. Old/newinputs andcosts shown butseveraldeltas arithmeticallywrong.
+- item15: 6/10. Old/newinputs andcosts shown butseveraldeltas arithmeticallywrong.
 
-- validation: 3. MCMISobservations andinvestigator50%reviewbasis; malfunctionrates explicitlyunknown.
+- validation: 3/5. MCMISobservations andinvestigator50%reviewbasis; malfunctionrates explicitlyunknown.
 
-- consistency: 0. 53.40v53.44mhours,1.6206bv1.63553bcost,over100%wageweights.
+- consistency: 0/5. 53.40v53.44mhours,1.6206bv1.63553bcost,over100%wageweights.
 
 ## Reconstruction issues
 

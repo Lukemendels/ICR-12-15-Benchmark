@@ -1,28 +1,28 @@
 # Annual Business Survey
 
-Provisional review. 202602-0607-001; sources SRC-0050, SRC-0049.
+Reviewed under rubric1.0.0. 202602-0607-001; sources SRC-0049, SRC-0050.
 
-Score 71/100. Public documentation only. extensive statement; medium complexity.
+Score 71/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 18. Three clear rows reconstruct totals with one-hour rounding; transferred BERD burden differs from stated minutes.
+- reproducibility: 18/20. Three clear rows reconstruct totals with one-hour rounding; transferred BERD burden differs from stated minutes.
 
-- provenance: 9. BLS May2024 SOC specified; accountant proxy sensible; timing provenance partly inherited.
+- provenance: 9/15. BLS May2024 SOC specified; accountant proxy sensible; timing provenance partly inherited.
 
-- segmentation: 14. Employer with/without BERD and nonprofit scope distinguished.
+- segmentation: 14/15. Employer with/without BERD and nonprofit scope distinguished.
 
-- labor: 4. 44.96 base accountant wage no benefit treatment.
+- labor: 4/10. 44.96 base accountant wage no benefit treatment.
 
-- item13: 10. Clear zero rationale: existing records,no new software,customary outside services.
+- item13: 10/10. Clear zero rationale: existing records,no new software,customary outside services.
 
-- item14: 4. 10m total and20/80 funding split; activity costs not quantified.
+- item14: 4/10. 10m total and20/80 funding split; activity costs not quantified.
 
-- item15: 6. Added16minutes and transferred BERD identified;124450 transfer does not reproduce157minutes*47500.
+- item15: 6/10. Added16minutes and transferred BERD identified;124450 transfer does not reproduce157minutes*47500.
 
-- validation: 3. Cognitive and usability testing planned, not evidence completed for all burden times.
+- validation: 3/5. Cognitive and usability testing planned, not evidence completed for all burden times.
 
-- consistency: 3. Inconsistent transfer arithmetic; main table mostly reconciles.
+- consistency: 3/5. Inconsistent transfer arithmetic; main table mostly reconciles.
 
 ## Reconstruction issues
 

@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202508-1218-005",
+  "retrieved_at": "2026-09-09T12:17:22.064663+00:00",
+  "documents": [
+    {
+      "title": "SS_1218-0200_PSM of Highly Hazardous Chemicals_01-27-2026_ROCIS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=161728301",
+      "path": "icrs/202508-1218-005/raw/supporting-statement-a-1.docx",
+      "sha256": "a7e5d869d3e583cfc5ec92e89e245cd8b17fec7bc2ba92bcd89e8c4ee79d05bf",
+      "text_chars": 94851
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202508-1218-005",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202508-1218-005",
+  "agency": "DOL/OSHA",
+  "title": "Standard on Process Safety Management of Highly Hazardous Chemicals (29 CFR 1910.119, 29 CFR 1926.64)",
+  "omb_control_number": "1218-0200",
+  "submission_date": "02/04/2026",
+  "record_source_id": "SRC-0186",
+  "supporting_statement_source_ids": [
+    "SRC-0187"
+  ]
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "file": "icrs/202603-0535-001/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Survey Schedule: Data Collection and Publication"
+      ],
+      [
+        "Survey",
+        "Data Collection ",
+        "Release Date ",
+        "Publication"
+      ],
+      [
+        "June Area – Agricultural Survey",
+        "Jun",
+        "late June",
+        "Acreage, Hogs and Pigs, Grain Stocks"
+      ],
+      [
+        "",
+        "",
+        "Mid-Feb",
+        "Farms  and  Land in Farms"
+      ],
+      [
+        "Agricultural Survey",
+        "Mar",
+        "late Mar",
+        "Prospective Plantings, Grain Stocks, Rice Stocks"
+      ],
+      [
+        "",
+        "Jun",
+        "late Jun",
+        "Acreage, Grain Stocks,  Rice  Stocks"
+      ],
+      [
+        "",
+        "Sep",
+        "late Sep",
+        "Grain Stocks, Small Grains Summary"
+      ],
+      [
+        "",
+        "Dec",
+        "mid-Jan",
+        "Crop Production Annual Summary, Grain Stocks,  Rice  Stocks"
+      ],
+      [
+        "Ag Yield Survey",
+        "May- Nov",
+        "mid-month",
+        "Crop Production, Monthly"
+      ],
+      [
+        "Cattle Report",
+        "Jan",
+        "Last week of Jan",
+        "Cattle"
+      ],
+      [
+        "",
+        "Jul",
+        "4 th  week Jul",
+        ""
+      ],
+      [
+        "Cattle on Feed",
+        "Jan  –  Dec",
+        "3 rd  week of each month",
+        "Cattle on Feed"
+      ],
+      [
+        "Hog Report",
+        "Qtrly",
+        "last  Thurs day  in survey month",
+        "Hogs and Pigs"
+      ],
+      [
+        "Agricultural Land Values",
+        "Apr  -  Jun",
+        "1 st  week Aug",
+        "Land Values , Technology Use ( odd   years  only)"
+      ],
+      [
+        "Sheep  and Goat  Report",
+        "Jan",
+        "4 th  week Jan",
+        "Sheep and Goats"
+      ],
+      [
+        "On Farm Rice Stocks",
+        "Aug",
+        "  3 rd  week  Aug",
+        "Rice Stocks"
+      ]
+    ]
+  }
+]

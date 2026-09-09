@@ -1,8 +1,8 @@
 {
-  "at": "2026-09-09T12:16:56.680760+00:00",
-  "review_count": 69,
-  "unique_controls": 69,
-  "sources": 181,
+  "at": "2026-09-09T12:37:45.029940+00:00",
+  "review_count": 73,
+  "unique_controls": 73,
+  "sources": 200,
   "errors": [],
   "scope": "Intermediate structural and arithmetic validation; not final freeze gate."
 }

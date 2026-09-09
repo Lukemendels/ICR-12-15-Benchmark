@@ -6,8 +6,8 @@
   "submission_date": "10/22/2024",
   "archetype": "administrative disability-benefit appeal",
   "complexity": "high",
-  "tsa_relevance": "method transfer",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "technique",
+  "review_status": "REVIEWED",
   "review_iteration": 1,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -145,7 +145,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0014"
+      "source_id": "SRC-0014",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Expanded hours",
@@ -155,7 +157,9 @@
       "difference": 73459.3999999999,
       "unit": "hours",
       "interpretation": "Material unexplained reconciliation difference",
-      "source_id": "SRC-0014"
+      "source_id": "SRC-0014",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal sum",
@@ -165,7 +169,9 @@
       "difference": -1,
       "unit": "USD",
       "interpretation": "One-dollar table residual",
-      "source_id": "SRC-0014"
+      "source_id": "SRC-0014",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Opportunity dollars",
@@ -175,10 +181,123 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0014"
+      "source_id": "SRC-0014",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 62,
   "table_evidence_path": "icrs/202410-0960-002/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "method transfer",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0013",
+        "SRC-0014"
+      ],
+      "section": "Item12",
+      "rationale": "Mode counts/times and extra burdens exposed but ROCIS bridge does not reconstruct."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0013",
+        "SRC-0014"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Administrative wait/interview sources identified; wage citations and role mapping garbled."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0013",
+        "SRC-0014"
+      ],
+      "section": "Item12",
+      "rationale": "Individual/representative and paper/interview/internet paths;wait,travel,learning separately."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0013",
+        "SRC-0014"
+      ],
+      "section": "Item12",
+      "rationale": "Beneficiary versus representative value distinction useful; wage derivation unclear."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0013",
+        "SRC-0014"
+      ],
+      "section": "Item13",
+      "rationale": "Known other costs zero; opportunity value distinct from out-of-pocket charges."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0013",
+        "SRC-0014"
+      ],
+      "section": "Item14",
+      "rationale": "Cost-factor table present but processing hours/rates absent;table/prose totals differ."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0013",
+        "SRC-0014"
+      ],
+      "section": "Item15",
+      "rationale": "Old584756,new842365 and ROCIS986339 disclosed but change not fully reconciled."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0013",
+        "SRC-0014"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Actual interview and management data;travel assumptions candid and OIRA-directed spatial estimate."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0013",
+        "SRC-0014"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Extra-hour bridge and federal sum disagree; learning burden may overlap described base scope."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 0960-0144 | ICR Reference No: 202410-0960-002 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202009-0960-009 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 07/24/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 07/24/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 10/22/2024"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 10/22/2024 | Terms of Clearance: At its earliest convenience, the agency will conduct a non-substantive change request to upload final versions of the paper and electronic modalities. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0014",
+        "document_date": "10/22/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

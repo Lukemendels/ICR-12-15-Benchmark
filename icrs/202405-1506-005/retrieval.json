@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202405-1506-005",
+  "retrieved_at": "2026-09-09T12:17:22.063839+00:00",
+  "documents": [
+    {
+      "title": "SAR Supporting Statement 5_30_2024 FINAL.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143239001",
+      "path": "icrs/202405-1506-005/raw/supporting-statement-a-1.docx",
+      "sha256": "3a3f81eb89a44c0e2235b457985846d4791fd1e25f97cfb4c0d5ab6ecd81ad3b",
+      "text_chars": 21058
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202405-1506-005",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202405-1506-005",
+  "agency": "TREAS/FINCEN",
+  "title": "FinCEN Form 111 - Suspicious Activity Report",
+  "omb_control_number": "1506-0065",
+  "submission_date": "05/31/2024",
+  "record_source_id": "SRC-0184",
+  "supporting_statement_source_ids": [
+    "SRC-0185"
+  ]
+}

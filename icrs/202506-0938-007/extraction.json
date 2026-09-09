@@ -6,8 +6,8 @@
   "submission_date": "06/11/2025",
   "archetype": "hospital cost reporting",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 4,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -129,7 +129,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0090"
+      "source_id": "SRC-0090",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Labor",
@@ -139,7 +141,9 @@
       "difference": 0.36000001430511475,
       "unit": "USD",
       "interpretation": "Rounding",
-      "source_id": "SRC-0090"
+      "source_id": "SRC-0090",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Change",
@@ -149,10 +153,123 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0090"
+      "source_id": "SRC-0090",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 60,
   "table_evidence_path": "icrs/202506-0938-007/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0089",
+        "SRC-0090"
+      ],
+      "section": "Item12",
+      "rationale": "Hospital count and two activity/occupation groups reconstruct hours and labor cost."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0089",
+        "SRC-0090"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Dated STAR registry and 2023 OEWS occupation inputs; burden hours inherited."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0089",
+        "SRC-0090"
+      ],
+      "section": "Item12",
+      "rationale": "Reporting and recordkeeping separated, but hospital complexity variation not modeled."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0089",
+        "SRC-0090"
+      ],
+      "section": "Item12",
+      "rationale": "Occupation match and doubling stated; 100% benefit/overhead markup is not derived."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0089",
+        "SRC-0090"
+      ],
+      "section": "Item13",
+      "rationale": "Capital zero asserted without discussion of O&M and cost-report software."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0089",
+        "SRC-0090"
+      ],
+      "section": "Item14",
+      "rationale": "MAC and CMS totals supplied without hours, rates or allocation methodology."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0089",
+        "SRC-0090"
+      ],
+      "section": "Item15",
+      "rationale": "Old/new hospital counts, time and cost shown, with transfers from two controls; transfer-to-average-hour derivation unclear."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0089",
+        "SRC-0090"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Administrative population count supported; 675 hours lacks measured timing validation."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0089",
+        "SRC-0090"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Main products reconcile; transferred requirement counts do not directly explain one additional hour for all hospitals."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 0938-0050 | ICR Reference No: 202506-0938-007 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202206-0938-017 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 09/28/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 09/28/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 06/11/2025"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 06/11/2025 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0090",
+        "document_date": "07/02/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

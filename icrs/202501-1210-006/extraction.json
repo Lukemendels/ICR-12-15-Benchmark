@@ -6,8 +6,8 @@
   "submission_date": "04/14/2025",
   "archetype": "employee benefit settlement exemption notices",
   "complexity": "low",
-  "tsa_relevance": "adjacent",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "medium",
+  "review_status": "REVIEWED",
   "review_iteration": 4,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -111,7 +111,9 @@
       "difference": 0,
       "unit": "responses",
       "interpretation": "Exact",
-      "source_id": "SRC-0086"
+      "source_id": "SRC-0086",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Hours",
@@ -121,7 +123,9 @@
       "difference": 0.2333333333333334,
       "unit": "hours",
       "interpretation": "Displayed whole-hour rounding",
-      "source_id": "SRC-0086"
+      "source_id": "SRC-0086",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Labor",
@@ -131,7 +135,9 @@
       "difference": -0.19433333333330438,
       "unit": "USD",
       "interpretation": "Rounding",
-      "source_id": "SRC-0086"
+      "source_id": "SRC-0086",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Mail",
@@ -141,10 +147,123 @@
       "difference": 0.0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0086"
+      "source_id": "SRC-0086",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 82,
   "table_evidence_path": "icrs/202501-1210-006/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "low",
+  "tsa_relevance_original": "adjacent",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0085",
+        "SRC-0086"
+      ],
+      "section": "Item12",
+      "rationale": "Small model exposes plans, participants, preparation and mailing time; display rounds total hours."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0085",
+        "SRC-0086"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Investigation counts 2019–2024, postage and agency labor methodology cited; electronic shares inherited."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0085",
+        "SRC-0086"
+      ],
+      "section": "Item12",
+      "rationale": "Preparation and paper distribution separated proportionately."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0085",
+        "SRC-0086"
+      ],
+      "section": "Item12",
+      "rationale": "Accountant/clerk costs linked to EBSA common methodology; current rate derivation not reproduced locally."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0085",
+        "SRC-0086"
+      ],
+      "section": "Item13",
+      "rationale": "Mail volume, page price and postage are explicit; zero capital follows existing settlement process."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0085",
+        "SRC-0086"
+      ],
+      "section": "Item14",
+      "rationale": "Explains no additional government cost within an existing settlement process."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0085",
+        "SRC-0086"
+      ],
+      "section": "Item15",
+      "rationale": "Old/new totals and drivers supplied; no isolated decomposition for electronic delivery versus population."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0085",
+        "SRC-0086"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "13 observed investigations over six years support conservative rounding from 2.2 to 3 plans."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0085",
+        "SRC-0086"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Formula label omits postage factor but numerical cost includes it; rounded hours explain apparent discrepancy."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1210-0091 | ICR Reference No: 202501-1210-006 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202201-1210-005 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 05/20/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 05/20/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 04/14/2025"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 04/14/2025 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0086",
+        "document_date": "05/15/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

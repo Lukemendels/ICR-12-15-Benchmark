@@ -1,0 +1,641 @@
+[
+  {
+    "file": "icrs/202401-2070-005/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Information Collection ",
+        "Number of Respon dents",
+        "Average Annual Burden Hours ",
+        "Average Annual Costs "
+      ],
+      [
+        "Form U Submission: Prepare and Submit Report, and Maintain Records"
+      ],
+      [
+        "Rule Familiarization",
+        "5460",
+        "5,395",
+        "$456,347"
+      ],
+      [
+        "Compliance Determination",
+        "5460",
+        "10,107",
+        "$857,206"
+      ],
+      [
+        "Recordkeeping",
+        "5460",
+        "4,095",
+        "$299,058"
+      ],
+      [
+        "Average Multi-Chemical Form Completion besides Function Category Data Elements (7.38 chemicals)",
+        "5460",
+        "620,499",
+        "$67,255,338"
+      ],
+      [
+        "Function Category Data Elements (7.38 chemicals per site)",
+        "5460",
+        "89,259",
+        "$9,733,679"
+      ],
+      [
+        "CDX Registration and eSignature",
+        "1365",
+        "181",
+        "$14,558"
+      ],
+      [
+        "Respondent Totals",
+        "",
+        "729,465",
+        "$78,616,166"
+      ],
+      [
+        "Total Agency ",
+        "-",
+        "3,458",
+        "$822,928 "
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202401-2070-005/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Form U Reporting Universe 1"
+      ],
+      [
+        "Sites",
+        "Chemical Reports",
+        "Chemicals"
+      ],
+      [
+        "5,460 ",
+        "40,286 ",
+        "8,484"
+      ],
+      [
+        "Overall Submitter Characteristics, % of Chemical Reports",
+        " ",
+        " "
+      ],
+      [
+        "Characteristic",
+        "Value"
+      ],
+      [
+        "Chemicals per Report",
+        "7.38"
+      ],
+      [
+        "% of Partial Reports",
+        "21.92%"
+      ],
+      [
+        "% Joint Reporters",
+        "1.72%"
+      ],
+      [
+        "% CBI Chem ID",
+        "1.44%"
+      ],
+      [
+        "% Part II.A CBI Substantiation for Connection to Company ID,   Site ID, and/or Technical Contact",
+        "17.36%"
+      ],
+      [
+        "% Part II.C CBI",
+        "35.93%"
+      ],
+      [
+        "% Part II.D CBI",
+        "8.40%"
+      ],
+      [
+        "CDX Registrations Universe"
+      ],
+      [
+        "Type",
+        "Value"
+      ],
+      [
+        "CDX Registrations 2",
+        "1,365"
+      ],
+      [
+        "Table Footnotes 1  Sites, Chemical Reports, Chemicals and Chemicals per Report information are based on observations in 2016 CDR (US EPA, 2018), adjusting for the reduction in reporting associated with the 2020  rules (EPA, 2020 a,b ) . Percent of reports etc, are estimated from the unadjusted 2016  CDR   2  CDX registrations, as estimated based on 25% of the count for firms submitting the Form U."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202401-2070-005/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        " ",
+        "Average Unit Burden and Cost 1",
+        "Universe",
+        "Total Burden and Cost"
+      ],
+      [
+        "Form U Submitters"
+      ],
+      [
+        "IC: Prepare and Submit Report, and Maintain Reports",
+        "Unit Burden per Average Site (hours)",
+        "Unit Cost per Average Site (2020$)",
+        "Respondents (Number of Sites)",
+        "Total Burden (hours)",
+        "Total Cost (2020$)"
+      ],
+      [
+        "2024 Cycle (Second Cycle)"
+      ],
+      [
+        "Rule Familiarization",
+        "3.952",
+        "$334.32",
+        "              5,460 ",
+        "21,578",
+        "$1,825,387"
+      ],
+      [
+        "Compliance Determination",
+        "7.404",
+        "$627.99",
+        "              5,460 ",
+        "40,426",
+        "$3,428,825"
+      ],
+      [
+        "Recordkeeping",
+        "3.000",
+        "$219.09",
+        "              5,460 ",
+        "16,380",
+        "$1,196,231"
+      ],
+      [
+        "Average Multi-Chemical Form Completion besides Function Category Data Elements (7.38 chemicals)",
+        "454.541",
+        "$49,271.31",
+        "              5,460 ",
+        "2,481,794",
+        "$269,021,353"
+      ],
+      [
+        "Function Category Data Elements (7.38 chemicals per site)",
+        "71.016",
+        "$7,744.25",
+        "              5,460 ",
+        "387,747",
+        "$42,283,605"
+      ],
+      [
+        "Total ",
+        "539.913",
+        "$58,196.96",
+        "              5,460 ",
+        "2,947,925",
+        "$317,755,401"
+      ],
+      [
+        "2028 Cycle (Future Cycle)"
+      ],
+      [
+        "Rule Familiarization",
+        "3.952",
+        "$334.32",
+        "              5,460 ",
+        "21,578",
+        "$1,825,387"
+      ],
+      [
+        "Compliance Determination",
+        "7.404",
+        "$627.99",
+        "              5,460 ",
+        "40,426",
+        "$3,428,825"
+      ],
+      [
+        "Recordkeeping",
+        "3.000",
+        "$219.09",
+        "              5,460 ",
+        "16,380",
+        "$1,196,231"
+      ],
+      [
+        "Average Multi-Chemical Form Completion besides Function Category Data Elements (7.38 chemicals)",
+        "454.541",
+        "$49,271.31",
+        "              5,460 ",
+        "2,481,794",
+        "$269,021,353"
+      ],
+      [
+        "Function Category Data Elements (7.38 chemicals per site)",
+        "59.767",
+        "$6,517.55",
+        "              5,460 ",
+        "326,328",
+        "$35,585,823"
+      ],
+      [
+        "Total ",
+        "528.664",
+        "$56,970.26",
+        "              5,460 ",
+        "2,886,506",
+        "$311,057,619"
+      ],
+      [
+        "Table Footnotes:"
+      ],
+      [
+        "1 Overall unit burden is based on about 15% new reporting sites except for the Function Category Data Elements in the second cycle, where the overall unit burden is based on 90% new reporting sites ."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202401-2070-005/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Burden Category",
+        "CDR Reporting Cycle Burden (hours) 1",
+        "ICR Renewal Period ( July  '2 3   -  June  '2 6 ) 2"
+      ],
+      [
+        "",
+        "Second Reporting Cycle (2024 Cycle)",
+        "Future Reporting Cycle (2028 Cycle)",
+        "Annual Average Burden (hours)",
+        "Annual Average Cost (2020$)",
+        "Total Burden (hours)",
+        "Total Cost (2020$)"
+      ],
+      [
+        "",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026",
+        "2027",
+        "2028",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Reporter Burden"
+      ],
+      [
+        "CDX Registration and eSignature",
+        "723",
+        "723",
+        "                      181 ",
+        "$14,558",
+        "                 543 ",
+        "$43,674"
+      ],
+      [
+        "Form U Submission: Prepare and Submit Report, and Maintain Records 3",
+        "2,947,925",
+        "2,886,506",
+        "                 729,304  ",
+        "$ 78,601,628",
+        "        2, 187,912  ",
+        "$23 5,804,883"
+      ],
+      [
+        "Reporter Burden, Total",
+        "2,948,646",
+        "2,887,229",
+        "              735,4 85",
+        "$78,616,186",
+        "$2, 188,455",
+        "$23 5,848,557"
+      ],
+      [
+        "Table Footnotes:"
+      ],
+      [
+        "1 EPA assumes that reporting activities for a CDR cycle begin on the first day of the calendar year following the previous cycle, at which point reporters have complete information for the first reporting year of the cycle. Because the CDR cycle is four years, EPA assumes that reporting activities for a CDR cycle end on the last day of the calendar year of the cycle. For example, reporting activities for the 2024 cycle begin on January 1,  2021  and end on December 31, 2024."
+      ],
+      [
+        "2 ICR Renewal Period burden and cost are calculated as a prorated sum of Second Cycle and Future Cycle burden and cost. The ICR renewal period is comprised of  3 6  months ( July 2023  through  June 202 6 )  with  18 months in  the second four-year reporting cycle and  18   months  in  the subsequent future four-year reporting cycle. "
+      ],
+      [
+        "3 Includes rule familiarization (new reporters), compliance determination, form completion, and recordkeeping."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202401-2070-005/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Activity",
+        "Staff",
+        "Affected Universe",
+        "Unit Burden and Cost",
+        "Total Burden and Cost"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Burden per Activity (hours)",
+        "Cost per Activity (2020$)",
+        "Total Burden (hours)",
+        "Total Cost (2020$) 1"
+      ],
+      [
+        "Variable Burdens and Costs"
+      ],
+      [
+        "Submission Receipt and Tracking; Data Review",
+        "Contractor",
+        "5,460 Sites",
+        "N/A",
+        "N/A",
+        "N/A",
+        "$25,900 "
+      ],
+      [
+        "Quality Control, except CDX Registration",
+        "EPA Staff ",
+        "40,286 Reports",
+        "0.005",
+        "$0.51 ",
+        "188",
+        "$20,614 "
+      ],
+      [
+        "Quality Control",
+        "Contractor",
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "$25,000 "
+      ],
+      [
+        "Quality Control, CDX Registration",
+        "EPA Staff",
+        "1,365 CDX Registrations",
+        "0.0081",
+        "$0.89 ",
+        "11",
+        "$1,215 "
+      ],
+      [
+        "Total Variable Burden and Cost",
+        "199",
+        "$72,729 "
+      ],
+      [
+        "Printing and Publishing Forms and Materials"
+      ],
+      [
+        "Data Processing, Systems Development; Contract Oversight and Management",
+        "EPA Staff",
+        "N/A",
+        "N/A",
+        "N/A",
+        "2,080",
+        "$228,070 "
+      ],
+      [
+        "Development and maintenance of the electronic data collection tool (incl. electronic guidance)",
+        "Contractor",
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "$162,000 "
+      ],
+      [
+        "Back Up Systems Operations and Maintenance",
+        "Contractor",
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "$161,000 "
+      ],
+      [
+        "Publishing Forms and Materials",
+        "Contractor",
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "$8,333 "
+      ],
+      [
+        "Managing the TSCA Hotline",
+        "Contractor",
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "$56,520 "
+      ],
+      [
+        "Development of Reporting Instructions, webinars, group communications",
+        "EPA Staff",
+        "N/A",
+        "N/A",
+        "N/A",
+        "               1,179 ",
+        "$129,276 "
+      ],
+      [
+        "Development of Reporting Instructions",
+        "Contractor",
+        "N/A",
+        "N/A",
+        "N/A",
+        "N/A",
+        "$5,000 "
+      ],
+      [
+        "Total Fixed Burden and Cost",
+        "3,259",
+        "$750,199 "
+      ],
+      [
+        "Total Agency Burden and Cost",
+        "3,458",
+        "$822,928 "
+      ],
+      [
+        "Table Footnotes 1  Based on Labor rates (see Table A-1) for Program Staff GS13 Step 5"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202401-2070-005/raw/supporting-statement-a-1.docx",
+    "table": 6,
+    "rows": [
+      [
+        "Information Collection (IC)",
+        "Previous ICR",
+        "Changes",
+        "ICR Renewal"
+      ],
+      [
+        "",
+        "",
+        "(1) Changes to the Counts of Reporters 1",
+        "(2) New and Modified Reporting Activities 2",
+        ""
+      ],
+      [
+        "",
+        "Unit",
+        "Total",
+        "Unit",
+        "Total",
+        "Unit",
+        "Total",
+        "Unit",
+        "Total"
+      ],
+      [
+        "Reporter Burden"
+      ],
+      [
+        "CDX Registration",
+        "0.133",
+        "188",
+        " ",
+        "-7",
+        "0",
+        "0",
+        "0.133",
+        "181"
+      ],
+      [
+        "Form U Submission: Prepare and Submit Report, and Maintain Records 3",
+        "127.05",
+        "719,103",
+        " ",
+        "-25, 410",
+        "6.5216",
+        "35,611",
+        "134.666",
+        "729,304"
+      ],
+      [
+        "Reporter Burden, Total",
+        "7 19,291",
+        "-25, 417",
+        "35,611",
+        "729,485"
+      ],
+      [
+        "General Notes:"
+      ],
+      [
+        "• All unit and total burden estimates are reported in hours and are on an annual basis."
+      ],
+      [
+        "• The total burdens presented in this table may not equal the product of the unit burden and the reporting universe count of sites due to rounding."
+      ],
+      [
+        "Table Footnotes:"
+      ],
+      [
+        "1 From 5,660 sites in 2018 CDR ICR to an estimated 5460 sites in the 2022 CDR ICR. Note that the number of sites in the previous ICR has been adjusted from 5,662 to 5,660 to account for  the removal of  two  test sites  identified in the 2016 CDR after the preparation of the 2018 ICR renewal."
+      ],
+      [
+        "2 New and modified reporting activities include new and modified reportable data elements, changes to CBI substantiation requirements, and the rule familiarization and compliance determination associated with the changes in the 2020 CDR Revisions Rule and the 2020 8(a) SMD Update Rule."
+      ],
+      [
+        "3 Includes rule familiarization (new reporters), compliance determination, form completion, and recordkeeping."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202401-2070-005/raw/supporting-statement-a-1.docx",
+    "table": 7,
+    "rows": [
+      [
+        "Attachment",
+        "Title "
+      ],
+      [
+        "1.",
+        "Statutory Authority"
+      ],
+      [
+        "2.",
+        "Implementing Regulation  "
+      ],
+      [
+        "3.",
+        "Uses of Specific Data Elements"
+      ],
+      [
+        "4.",
+        "Wage  R ate s"
+      ],
+      [
+        "5.",
+        "CDX User Guide"
+      ],
+      [
+        "6. ",
+        "CDR Screen shots "
+      ],
+      [
+        "7.",
+        "Consultation  Email  "
+      ],
+      [
+        "8. ",
+        "Consultation Response from Arakawa "
+      ],
+      [
+        "9. ",
+        "Summarized  Comments and Responses"
+      ],
+      [
+        "10. ",
+        "Form U EPA Form No.  9600-010"
+      ],
+      [
+        "1 1 . ",
+        "Form U Primary Manufacturer Import EPA Form No.9600-011"
+      ],
+      [
+        "1 2 .",
+        "Form U. Primary Co-Manufacture EPA Form No 9600-012"
+      ],
+      [
+        "1 3 .",
+        "Form U Primary Co-Manufacturer  Producing  EPA Form No. 9600-013  "
+      ],
+      [
+        "1 4 . ",
+        "Form U Secondary or Tertiary EPA Form No.9600-014 "
+      ],
+      [
+        "1 5 . ",
+        "Form U Secondary Notify Tertiary EPA Form No. 9600-015"
+      ]
+    ]
+  }
+]

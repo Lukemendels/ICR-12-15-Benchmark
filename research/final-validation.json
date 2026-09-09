@@ -1,0 +1,39 @@
+{
+  "validation_date": "2026-09-09T12:38:36.242472+00:00",
+  "evidence_version": "M1-1.0.0",
+  "reviewed_unique_controls": 73,
+  "components": 38,
+  "tsa_n": 10,
+  "sources": 200,
+  "claims": 389,
+  "curated_claims": 24,
+  "calculation_checks": 267,
+  "arithmetic_status_counts": {
+    "exact": 133,
+    "difference_requires_interpretation": 82,
+    "within_display_rounding": 52
+  },
+  "catalog_entries": 28,
+  "assumption_types": 24,
+  "source_archive_limitations": [
+    {
+      "source_id": "SRC-0197",
+      "limitation": "HTTP Error 403: Forbidden",
+      "role": "Catalog or underlying source; not an unreviewed sampled statement"
+    },
+    {
+      "source_id": "SRC-0198",
+      "limitation": "HTTP Error 403: Forbidden",
+      "role": "Catalog or underlying source; not an unreviewed sampled statement"
+    }
+  ],
+  "errors": [],
+  "result": "PASS",
+  "scope": "IDs, links, archive hashes, metadata, primary statement presence, date window, score bounds/sums/rationale, model sections, CSV joins and replay of selected arithmetic checks. Not full independent replication or validation of all agency assumptions.",
+  "manual_gates": {
+    "saturation": "Iterations7 and8; all seven predicates recorded",
+    "adversarial": "Iteration9 four new challengers and score/complexity sensitivity",
+    "unresolved_questions": "Reviewed and retained in limitations; no undisclosed ordinary-research blocker",
+    "rubric_calibration": "Same analyst anchor review; no independent rater"
+  }
+}

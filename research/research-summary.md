@@ -1,0 +1,28 @@
+# Mission1 concise research summary
+
+Evidence version M1-1.0.0 covers73 unique recent ICR package reviews,38 agency/component labels and10 TSA collections. Rubric1.0.0 retains the user's100-point weights. Canonical architecture0.5.0 captures the methods discovered; no application was built. Two consecutive strategic batches passed saturation, followed by a separate four-collection adversarial round. This is a concise research summary; publication synthesis is reserved for Mission2.
+
+| Core question | Evidence-based answer |
+|---|---|
+| What is best practice? | A reconstructable chain from obligations and populations through supported activity times, compensation/purchases, federal resources and exact change bridges. Best methods are distributed across agencies, not concentrated in one long statement. |
+| How does recent TSA compare? | Ten cases score50–76, mean67.4. TSA has strong activity, occupation and cohort methods; flight training scores52/60 on Item12, close to BLS SOII/NCS53. |
+| Is TSA unusually rigorous or best-in-class? | The observable sample is inconsistent and does not establish uniqueness or universal superiority. A purposive sample cannot determine whether TSA is statistically typical or unusually rigorous government-wide. |
+| Who outperforms particular TSA dimensions? | FCC IPCS change reconciliation; Census AIES burden measurement; BLS SOII obligation boundaries; OSHA process safety segmentation/change tables; Coast Guard security overlap and removal accounting. See exemplars and calibration. |
+| What should TSA retain? | Atomic activities, occupational identifiers and selection reasons, explicit benefits methods, year-specific cohorts, employer/applicant separation and federal workload equations. |
+| What should TSA improve? | Pathway partitions, units and rate periods, task-representative wage weights, assumption evidence, fee/resource separation, single-source tables/prose and driver-level Item15 bridges. |
+| What should TSA adopt? | Cross-control obligation ledgers, make-or-buy partitions, measurement-scope metadata, named baselines, case funnels, explicit asset life and allocation drivers. |
+| Which data sources are useful? | OEWS for wages, ECEC for compensation/benefits, ECI for appropriate compensation updates, OPM for federal pay, Census for populations/expense structures, EIA for physical-asset proxies, BEA/PPI for justified price transformations, and dated administrative/workload records. No source's authority validates an inappropriate proxy. |
+| Which assumptions need evidence? | Response time, eligibility, frequency, familiarization/review, labor mix, outsourcing, benefits/overhead, useful life, federal effort and allocation. Strong evidence matches population, tasks, period and measurement scope; inherited constants or unexplained multipliers are weaker. |
+| What data structure is needed? | Versioned scenarios and baselines; linked sources/locators; populations/segments/obligations; atomic activities and role-time; separate compensation/overhead; purchases/assets/cohorts; federal workload/allocation; formulas, uncertainty, validation and change events; deterministic output bindings. |
+
+BLS SOII is the highest-scoring observed individual case83; EBSA settlement82 and OSHA process safety80 are nearby. The Item12 leaders are BLS SOII/NCS, while TSA flight training is close. FCC IPCS has the strongest observed Item15 bridge. Legitimate Item13/14 zeros can be well documented, but are not nonzero capital/federal-cost exemplars. No agency-wide quality or consistency winner is established. Removing Item13/14 scores does not reverse the broad non-uniqueness finding.
+
+The causal TSA hypothesis remains unresolved. Public documents do not identify why TSA invests in analysis. EBSA explicitly publishes shared PRA/RIA labor methodology, and CMMC connects burden estimates to regulatory analysis, so downstream reuse is not unique to TSA (CLM-FINDING-004/005). The two newest TSA requests were submitted August21 and September1,2026; both were pending at retrieval. They are temporally eligible for investigation of the user-reported overhaul, but process adoption is not demonstrated.
+
+Required PRA compliance includes an objectively supported burden estimate and explanation of costs and changes; it is not a license for unsupported estimates. Enhanced practice adds reusable formulas, input-level lineage, deterministic tables/prose, systematic validation and complete driver decomposition. Current instructions contain purchased-service routing and numbering inconsistencies; these are recorded rather than silently corrected.
+
+The evidence foundation includes machine-readable extracts, source and claim registries,28 catalog entries,24 recurring assumption types,267 performed calculation checks, a27-entity model dictionary, tool requirements and preserved primary documents. Selected checks find material reconstruction questions, but differences are not automatically proved agency errors. Hidden precision, source versions and scope must be assessed. All source-reported values remain separate from independent calculations.
+
+Read research/limitations.md before interpreting rankings. Consequential findings have curated CLM-FINDING records with source IDs and locators; remaining issue/method claims link to per-ICR models and checks. No claim is made that all peripheral rows are normalized into executable models or that every underlying citation was independently obtained.
+
+Descriptive repeated-component lens (n>=3 only): BLS has the highest observed mean76.67(n3); Census has the narrowest observed score dispersion1.41(n3,range71–74). These are within-sample summaries, not agency population rankings.

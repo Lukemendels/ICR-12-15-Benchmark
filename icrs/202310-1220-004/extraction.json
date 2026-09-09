@@ -7,7 +7,7 @@
   "archetype": "establishment compensation survey",
   "complexity": "high",
   "tsa_relevance": "technique",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 4,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -148,7 +148,9 @@
       "difference": 0.33333333333575865,
       "unit": "hours",
       "interpretation": "Rounding",
-      "source_id": "SRC-0078"
+      "source_id": "SRC-0078",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Compensation",
@@ -158,7 +160,9 @@
       "difference": -0.0020000000000024443,
       "unit": "USD/hour",
       "interpretation": "Rounding",
-      "source_id": "SRC-0078"
+      "source_id": "SRC-0078",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Annual labor",
@@ -168,10 +172,123 @@
       "difference": -0.20000000018626451,
       "unit": "USD",
       "interpretation": "Rounding",
-      "source_id": "SRC-0078"
+      "source_id": "SRC-0078",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 78,
   "table_evidence_path": "icrs/202310-1220-004/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "technique",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0077",
+        "SRC-0078"
+      ],
+      "section": "Item12",
+      "rationale": "Year, sector, contact type, response frequency and minutes are tabulated; averages use rounded annual totals."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0077",
+        "SRC-0078"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "March 2023 ECEC and historical collection experience identified; citation filename and underlying timing studies require verification."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0077",
+        "SRC-0078"
+      ],
+      "section": "Item12",
+      "rationale": "Initiation, update, nonresponse, testing and quality recontacts are distinct, with public/private strata."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0077",
+        "SRC-0078"
+      ],
+      "section": "Item12",
+      "rationale": "Direct ECEC compensation avoids a second benefits load; historical 70/30 occupational mix disclosed."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0077",
+        "SRC-0078"
+      ],
+      "section": "Item13",
+      "rationale": "Explicitly excludes capital, O&M and purchased services because only respondent time is used."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0077",
+        "SRC-0078"
+      ],
+      "section": "Item14",
+      "rationale": "Only collection/noncollection budget split, without workload or allocation derivation."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0077",
+        "SRC-0078"
+      ],
+      "section": "Item15",
+      "rationale": "Prior approval and new total identified; increased sample explains direction but no quantitative driver bridge."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0077",
+        "SRC-0078"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Past collection experience supports timing and mix; specific timing-study evidence not supplied."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0077",
+        "SRC-0078"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Annualization and wage products reconcile within rounding; unique respondents versus repeated QA contacts requires care."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1220-0164 | ICR Reference No: 202310-1220-004 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Historical Active | Previous ICR Reference No: 202110-1220-001 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 05/08/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 05/08/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 01/31/2024"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 01/31/2024 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0078",
+        "document_date": "01/24/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

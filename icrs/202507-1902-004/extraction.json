@@ -6,8 +6,8 @@
   "submission_date": "07/30/2025",
   "archetype": "bulk power reliability rule and baseline transfers",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 5,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -152,7 +152,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0072"
+      "source_id": "SRC-0072",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Current hours",
@@ -162,7 +164,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0072"
+      "source_id": "SRC-0072",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Weighted rate",
@@ -172,7 +176,9 @@
       "difference": -0.0024999999999977263,
       "unit": "USD/hour",
       "interpretation": "Rounding",
-      "source_id": "SRC-0072"
+      "source_id": "SRC-0072",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Transfer subtotal",
@@ -182,9 +188,142 @@
       "difference": -2000,
       "unit": "hours",
       "interpretation": "2000-hour discrepancy",
-      "source_id": "SRC-0072"
+      "source_id": "SRC-0072",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 64,
-  "review_scope": "One collection family; recent amendment reviewed with full prior renewal. Prior renewal not separately counted."
+  "review_scope": "One collection family; recent amendment reviewed with full prior renewal. Prior renewal not separately counted.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0071",
+        "SRC-0072",
+        "SRC-0111",
+        "SRC-0112"
+      ],
+      "section": "Item12",
+      "rationale": "New97*4-hour task plus retrieved prior master table permits full hour reconstruction; amendment alone uses obsolete baseline."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0071",
+        "SRC-0072",
+        "SRC-0111",
+        "SRC-0112"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "NERC registry date and BLS occupations identified; underlying load and task-time evidence incomplete."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0071",
+        "SRC-0072",
+        "SRC-0111",
+        "SRC-0112"
+      ],
+      "section": "Item12",
+      "rationale": "Reliability standards, registration roles, records and transfer destinations distinguished."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0071",
+        "SRC-0072",
+        "SRC-0111",
+        "SRC-0112"
+      ],
+      "section": "Item12",
+      "rationale": "75/25 engineer/clerk mix explicit; benefits embedded in rates without complete derivation."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0071",
+        "SRC-0072",
+        "SRC-0111",
+        "SRC-0112"
+      ],
+      "section": "Item13",
+      "rationale": "Statement says no nonlabor cost while ROCIS carries371100; prior statement also contradicts its own cost table."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0071",
+        "SRC-0072",
+        "SRC-0111",
+        "SRC-0112"
+      ],
+      "section": "Item14",
+      "rationale": "PRA administration allowance explained, but updated7978 versus prior8396 is not derived."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0071",
+        "SRC-0072",
+        "SRC-0111",
+        "SRC-0112"
+      ],
+      "section": "Item15",
+      "rationale": "Incremental388-hour change clear; stale prior baseline and unresolved transfer arithmetic weaken full bridge."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0071",
+        "SRC-0072",
+        "SRC-0111",
+        "SRC-0112"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Registry supports population; four-hour task and inherited120/160-hour workloads untested."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0071",
+        "SRC-0072",
+        "SRC-0111",
+        "SRC-0112"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Statement totals use1407238 baseline while ROCIS correctly uses1103040; prior master and transfer tables contain errors."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202507-1902-004/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1902-0244 | ICR Reference No: 202507-1902-004 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202408-1902-001 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 11/20/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 11/20/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 07/30/2025"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 07/30/2025 | Terms of Clearance: Because the agency sought comments only on the changes associated with the regulation, the existing expiration date remains the same for this collection. In accordance with 5 CFR 1320, the information collection is approved. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0072",
+        "document_date": "07/29/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

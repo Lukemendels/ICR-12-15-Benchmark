@@ -7,7 +7,7 @@
   "archetype": "emissions capital and trading",
   "complexity": "very high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 6,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -225,7 +225,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0131"
+      "source_id": "SRC-0131",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Capital and O&M",
@@ -235,7 +237,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact at published annual unit prices.",
-      "source_id": "SRC-0131"
+      "source_id": "SRC-0131",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal summary hours",
@@ -245,7 +249,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Summary itself reconciles; underlying permit workload does not.",
-      "source_id": "SRC-0131"
+      "source_id": "SRC-0131",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "NOx table hours",
@@ -255,8 +261,111 @@
       "difference": 6,
       "unit": "hours",
       "interpretation": "6-hour discrepancy; footnote21 resolves total but not displayed row.",
-      "source_id": "SRC-0131"
+      "source_id": "SRC-0131",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 67
+  "total_score": 67,
+  "complexity_original": "very high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0130",
+        "SRC-0131"
+      ],
+      "section": "Item12",
+      "rationale": "Detailed task/technology model and aggregate totals, but federal subtable inconsistencies."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0130",
+        "SRC-0131"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Current population and ECI update; legacy CEM capital inputs incomplete."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0130",
+        "SRC-0131"
+      ],
+      "section": "Item12",
+      "rationale": "Six monitoring models and permitting/trading roles; overlapping add-on models identified."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0130",
+        "SRC-0131"
+      ],
+      "section": "Item12",
+      "rationale": "Same differentiated wage method as CSAPR, incomplete original loading provenance."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0130",
+        "SRC-0131"
+      ],
+      "section": "Item13",
+      "rationale": "Explicit7% annuity convention and separate outside contracts; missing life/principal prevents reconstruction of unit annuities."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0130",
+        "SRC-0131"
+      ],
+      "section": "Item14",
+      "rationale": "Workload, grade, contractor and system costs explicit; state authority mixed into federal aggregate and table errors."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0130",
+        "SRC-0131"
+      ],
+      "section": "Item15",
+      "rationale": "Percentage changes and reasons only."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0130",
+        "SRC-0131"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Industry consultation and program observations; underlying cost evidence mostly not published here."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0130",
+        "SRC-0131"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Federal permits/NOx tables conflict with prose and totals; overlapping monitoring counts require care."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202504-2060-006/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 47,
+      "text": "Status: Received in OIRA | Previous ICR Reference No: 202110-2060-010 | Agency/Subagency:"
+    },
+    {
+      "line": 71,
+      "text": "Date Submitted to OIRA: 05/30/2025 | | Requested | Previously Approved | Expiration Date |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0131",
+        "document_date": "05/27/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

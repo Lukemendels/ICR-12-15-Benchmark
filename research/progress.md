@@ -1,13 +1,9 @@
-# Mission 1 progress
+# Mission1 progress
 
-Status: IN_PROGRESS. Iteration 5 completed with 44 provisional reviews, including eight TSA collections. The numerical minimum of 40 has been met, but the saturation and validation gates have not. Saturation streak is zero. No evidence freeze or final report is authorized by the evidence state.
+73 unique recent controls reviewed across38 agency/component labels, including10 TSA. Nine research iterations completed. Iterations7 and8 passed all seven saturation predicates; iteration9 was a separate adversarial challenge. Final validation passed with no structural errors.
 
-Completed: governing instructions; five research batches; structured extractions and dimension rationales; arithmetic checks; source and claim registries; data-source and assumption catalogs; canonical model v0.5.0; provisional tool requirements and TSA comparison.
+Completed: dataset and model extractions; rubric1.0.0;200-source registry;389claim records including24curated findings/method records;28data-source catalog entries;24assumption types;267performed arithmetic checks; canonical model0.5.0; TSA gap analysis;20tool requirements; exemplars; saturation record; limitations and Mission2 handoff.
 
-New in iteration 4: statistical burden-model architecture (IRS), burden measurement triangulation (Census AIES), occupational overhead allocation (EBSA), and repeated agency evidence. These are substantive findings, so the batch would not qualify as saturated even after the numerical minimum.
+Numerical differences are retained as evidence questions, not silently corrected. All primary statements are archived. Two additional catalog program pages were blocked from direct download; their access limits are recorded. Other extraction/access limits are in research/limitations.md.
 
-Next: finish deliberate MSHA/SEC challengers and EPA/FERC baseline reconstruction. Review coverage and scoring calibration before post-minimum saturation testing. Validate source archival paths and remaining underlying citations. Then conduct two qualifying saturated batches and the separate adversarial round if supported by evidence.
-
-Iteration6:52 reviewed;8 TSA; status IN_PROGRESS; saturation0. See logs/iteration-006-results.md.
-
-Iteration7:61reviewed;8TSA; first saturated batch. IN_PROGRESS.
+Read research/research-state.json for canonical status and research/mission-2-handoff.md for next work. No application or final publication report was built.

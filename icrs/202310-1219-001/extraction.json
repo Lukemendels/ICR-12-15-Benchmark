@@ -6,8 +6,8 @@
   "submission_date": "04/18/2024",
   "archetype": "silica exposure monitoring and medical records",
   "complexity": "very high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 5,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -225,7 +225,9 @@
       "difference": 0.6666666666642413,
       "unit": "hours",
       "interpretation": "Underlying unrounded values needed; displayed average differs0.67",
-      "source_id": "SRC-0106"
+      "source_id": "SRC-0106",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Annual labor",
@@ -235,7 +237,9 @@
       "difference": -0.4833333333954215,
       "unit": "USD",
       "interpretation": "Rounding",
-      "source_id": "SRC-0106"
+      "source_id": "SRC-0106",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Repeat attempts",
@@ -245,7 +249,9 @@
       "difference": 0.0,
       "unit": "attempts",
       "interpretation": "Exact",
-      "source_id": "SRC-0106"
+      "source_id": "SRC-0106",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Corrective cost",
@@ -255,7 +261,9 @@
       "difference": 24959.4689,
       "unit": "USD",
       "interpretation": "Material discrepancy",
-      "source_id": "SRC-0106"
+      "source_id": "SRC-0106",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Transmission cost",
@@ -265,8 +273,123 @@
       "difference": 3.5687624751590192,
       "unit": "USD",
       "interpretation": "Rounding",
-      "source_id": "SRC-0106"
+      "source_id": "SRC-0106",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 73
+  "total_score": 73,
+  "complexity_original": "very high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0105",
+        "SRC-0106"
+      ],
+      "section": "Item12",
+      "rationale": "Year/sector/size/season and activity matrices reconstruct most quantities; corrective-action dollars conflict with displayed hours and rates."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0105",
+        "SRC-0106"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Administrative2019 employment and historical inspection samples identified; series codes and wage transformations precise."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0105",
+        "SRC-0106"
+      ],
+      "section": "Item12",
+      "rationale": "Coal/nonmetal, size, seasonal quarters, entry cohorts and exposure thresholds meaningfully differentiated."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0105",
+        "SRC-0106"
+      ],
+      "section": "Item12",
+      "rationale": "Occupation/benefit/overhead stages explicit, but ECI and GDP changes both update the same period without economic explanation."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0105",
+        "SRC-0106"
+      ],
+      "section": "Item13",
+      "rationale": "Separates medical result transmission from broader medical examination costs; quantity and inflation explicit,10-dollar price unsupported."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0105",
+        "SRC-0106"
+      ],
+      "section": "Item14",
+      "rationale": "Zero routine-inspection cost rationale does not address newly required NIOSH result flow or system costs."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0105",
+        "SRC-0106"
+      ],
+      "section": "Item15",
+      "rationale": "New control plus effects on two existing controls quantified; one-hour rounding differences and labels need care."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0105",
+        "SRC-0106"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Inspection exposure data and final-versus-proposed assumption revision; projected compliance decline and timing remain assumptions."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0105",
+        "SRC-0106"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Corrective-action dollar error and mixed miner/mine respondent units; major tables otherwise traceable."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202310-1219-001/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1219-0156 | ICR Reference No: 202310-1219-001 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202007-1219-006 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 05/06/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 05/06/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 04/18/2024"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 04/18/2024 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0106",
+        "document_date": "03/22/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

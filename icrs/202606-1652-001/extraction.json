@@ -6,8 +6,8 @@
   "submission_date": "09/01/2026",
   "archetype": "regulated surface-transport cybersecurity",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 1,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -227,7 +227,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact sum of rounded rows",
-      "source_id": "SRC-0022"
+      "source_id": "SRC-0022",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal hours",
@@ -237,7 +239,9 @@
       "difference": 279.51700000000005,
       "unit": "hours",
       "interpretation": "Material discrepancy",
-      "source_id": "SRC-0022"
+      "source_id": "SRC-0022",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal table hours",
@@ -247,7 +251,9 @@
       "difference": 268,
       "unit": "hours",
       "interpretation": "Even printed rows do not sum",
-      "source_id": "SRC-0022"
+      "source_id": "SRC-0022",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "ROCIS hour bridge",
@@ -257,7 +263,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact package bridge;not driver attribution",
-      "source_id": "SRC-0022"
+      "source_id": "SRC-0022",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "J-loaded pay",
@@ -267,10 +275,111 @@
       "difference": 0.0044130330618088465,
       "unit": "USD/hour",
       "interpretation": "Rounding",
-      "source_id": "SRC-0022"
+      "source_id": "SRC-0022",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 66,
   "table_evidence_path": "icrs/202606-1652-001/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0022"
+      ],
+      "section": "Item12",
+      "rationale": "Atomic activity models clear and public hours sum; scope omissions and turnover-period error hinder defensibility."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0022"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "BLS/OPM/Census source detail unusually explicit, but SOC labels and reference control numbers conflict."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0022"
+      ],
+      "section": "Item12",
+      "rationale": "Rail/transit/bus and plans/reports/recordkeeping separated;events versus persons muddled."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0022"
+      ],
+      "section": "Item12",
+      "rationale": "Blended manager/analyst wages and compensation ratio explicit;occupation labels and sector proxy require review."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0022"
+      ],
+      "section": "Item13",
+      "rationale": "Zero costs attributed to other control number, but two different control numbers given and no general IT cost exclusion basis."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0022"
+      ],
+      "section": "Item14",
+      "rationale": "Loaded federal annual salary+benefits/2087 transparent;total federal hours incorrect."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0022"
+      ],
+      "section": "Item15",
+      "rationale": "Removes one-time costs and updates populations but no full hours bridge;no-program-change prose conflicts with ROCIS discretion."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0022"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Named SMEs,turnover,mobility sources;monthly/annual substitution and personal-mobility proxy weaken validity."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0021",
+        "SRC-0022"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Federal hours sum not881;coordinator5 hours inconsistent with199*0.083;cost typo29918;cross-ICR identifier typo."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 50,
+      "text": "Status: Received in OIRA | Previous ICR Reference No: 202303-1652-001 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "Date Submitted to OIRA: 09/01/2026 | | Requested | Previously Approved | Expiration Date |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0022",
+        "document_date": "09/01/2026"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

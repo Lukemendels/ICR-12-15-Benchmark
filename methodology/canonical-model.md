@@ -56,3 +56,9 @@ Compensation and overhead may use different allocation models. EBSA's published 
 Change events must distinguish revised obligations, population projections, methodological recalibration and redistribution between time and purchased services. IRS demonstrates why a reduction in modeled hours may accompany increased out-of-pocket cost without equivalent changes in real requirements. Preserve agency analytical labels and their ROCIS classification mapping separately.
 
 Version 0.5.0 adds these empirically motivated entities. Rubric weights remain unchanged; the existing provenance, reproducibility, validation and labor dimensions cover them. Saturation is not reached.
+
+## Mission1 freeze note
+
+Version0.5.0 is frozen with evidence M1-1.0.0 after73 reviews, two saturated batches and the separate adversarial round. Earlier provisional/no-saturation language above records development history. Iterations5–9 supplied applications and stress tests without new major entities. The27-entity dictionary in canonical-data-dictionary.md defines the reference data contract. This is a research architecture, not implemented software.
+
+A future Excel artifact should expose inputs/sources, assumptions, activity labor, purchases/capital, federal costs, prior baseline, change bridge, validation and output tables as separate linked views. Formulas retain full precision and source-reported versus recomputed values. Supporting-statement prose binds to the same scenario and formulas, cites sources, and leaves unsupported material inputs for analyst resolution. This makes renewals a versioned input change rather than narrative reconstruction.

@@ -16,3 +16,5 @@ Score anchors: 0=no usable support; approximately 25%=bare asserted total; 50%=p
 Do not punish a legitimate zero or irrelevant segmentation. Full marks require the reason to be explicit and consistent with collection scope. Do not require sensitivity analysis for simple collections; credible validation can earn full validation marks. Store document thoroughness separately (brief/moderate/extensive), plus complexity and TSA relevance.
 Record model arithmetic checks as pass, fail, rounding, or not_tested. A reported equation is not a performed check. Record source retrieval depth separately from scoring.
 Revision history: 2026-09-09 v1.0.0: adopts user weights and provides operational scoring anchors; no empirical reweighting.
+
+Freeze note,2026-09-09: rubric1.0.0 is the final Mission1 scoring rubric. All73 reviews have nine dimension scores and rationale; methodology/calibration.md records the final anchor review and sensitivity analysis. No material revision or weight change occurred. Scores remain bounded single-analyst assessments, not a validated agency performance index.

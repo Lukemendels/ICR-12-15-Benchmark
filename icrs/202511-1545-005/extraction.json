@@ -6,8 +6,8 @@
   "submission_date": "12/15/2025",
   "archetype": "business tax compliance statistical burden model",
   "complexity": "very high",
-  "tsa_relevance": "adjacent",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "medium",
+  "review_status": "REVIEWED",
   "review_iteration": 4,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -141,7 +141,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0094"
+      "source_id": "SRC-0094",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Time dollars bridge",
@@ -151,7 +153,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0094"
+      "source_id": "SRC-0094",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "OOP bridge",
@@ -161,7 +165,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0094"
+      "source_id": "SRC-0094",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal processing",
@@ -171,10 +177,141 @@
       "difference": -1314608,
       "unit": "USD",
       "interpretation": "Material subtotal discrepancy",
-      "source_id": "SRC-0094"
+      "source_id": "SRC-0094",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 73,
   "table_evidence_path": "icrs/202511-1545-005/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "very high",
+  "tsa_relevance_original": "adjacent",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0093",
+        "SRC-0094",
+        "SRC-0100",
+        "SRC-0101"
+      ],
+      "section": "Item12",
+      "rationale": "Aggregate and change arithmetic are reproducible, but model coefficients and microdata are not available in this package."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0093",
+        "SRC-0094",
+        "SRC-0100",
+        "SRC-0101"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Tax-year survey, model update, legal cutoff and economic inputs identified; coefficient-level provenance incomplete."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0093",
+        "SRC-0094",
+        "SRC-0100",
+        "SRC-0101"
+      ],
+      "section": "Item12",
+      "rationale": "Entity type, size, receipts, preparation method and tax complexity are explicitly modeled."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0093",
+        "SRC-0094",
+        "SRC-0100",
+        "SRC-0101"
+      ],
+      "section": "Item12",
+      "rationale": "Economic-value methodology has floor and ceiling tied to wage/compensation data; exact function and inputs are not exposed."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0093",
+        "SRC-0094",
+        "SRC-0100",
+        "SRC-0101"
+      ],
+      "section": "Item13",
+      "rationale": "Survey/model estimates include preparer fees and software; aggregate out-of-pocket estimate lacks public reconstruction coefficients."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0093",
+        "SRC-0094",
+        "SRC-0100",
+        "SRC-0101"
+      ],
+      "section": "Item14",
+      "rationale": "383 product allocations supplement the cost estimate; processing subtotal does not add and several federal categories are excluded."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0093",
+        "SRC-0094",
+        "SRC-0100",
+        "SRC-0101"
+      ],
+      "section": "Item15",
+      "rationale": "Separates technical recalibration, projection and legislation with quantified time and dollar changes; ROCIS classification needs reconciliation."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0093",
+        "SRC-0094",
+        "SRC-0100",
+        "SRC-0101"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Business taxpayer survey anchors the model; uncertainty and validation performance are not reported in this statement."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0093",
+        "SRC-0094",
+        "SRC-0100",
+        "SRC-0101"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Main time and dollar bridges reconcile; federal processing sum is inconsistent."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1545-0123 | ICR Reference No: 202511-1545-005 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202411-1545-007 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 01/16/2026 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 01/16/2026 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 12/15/2025"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 12/15/2025 | Terms of Clearance: Terms of clearance: Per its pre-existing agreement with IRS, OMB's approval of the U. S. Business Income Tax Return and associated forms is extended through December 2026. IRS shall submit its next request for an extension of OMB approval before this expiration date, and continue to do so on an annual basis. Supporting statement response 15 should summarize the nature of notable substantive revisions to forms contained in the ICR. For fiscal year 2027, the IRS will work with OIRA to develop an accurate estimate of IRS expenditures in support of assisting taxpayers for each bucket. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0094",
+        "document_date": "12/15/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

@@ -6,8 +6,8 @@
   "submission_date": "05/16/2025",
   "archetype": "utility central-service financial reporting",
   "complexity": "medium",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 3,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -137,7 +137,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0066"
+      "source_id": "SRC-0066",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federalcost",
@@ -147,7 +149,9 @@
       "difference": -0.40000000002328306,
       "unit": "USD",
       "interpretation": "Rounding",
-      "source_id": "SRC-0066"
+      "source_id": "SRC-0066",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Storage",
@@ -157,7 +161,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact",
-      "source_id": "SRC-0066"
+      "source_id": "SRC-0066",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Change",
@@ -167,10 +173,123 @@
       "difference": 0.0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0066"
+      "source_id": "SRC-0066",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 69,
   "table_evidence_path": "icrs/202504-1902-007/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "medium",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0065",
+        "SRC-0066"
+      ],
+      "section": "Item12",
+      "rationale": "Three activity rows expose populations, frequencies and hours; their sum is exactly57,973."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0065",
+        "SRC-0066"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Actualfilerbasis,2024FERCsalary andBLSclerk source; BLSvintage/load notderived."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0065",
+        "SRC-0066"
+      ],
+      "section": "Item12",
+      "rationale": "Reporter versusrepresentedcompany correction useful; recordkeeping distinct."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0065",
+        "SRC-0066"
+      ],
+      "section": "Item12",
+      "rationale": "Federalaveragepayproxy justified generically;39.53fileclerkrate withbenefitsnotderived."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0065",
+        "SRC-0066"
+      ],
+      "section": "Item13",
+      "rationale": "1GB*10*51=510 transparent; marketpriceexamples mismatchunitpriceconservatism unexplained."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0065",
+        "SRC-0066"
+      ],
+      "section": "Item14",
+      "rationale": "FTEsalary plusPRAadmin allowance;8369basisnotbottomup andtwofiledcollectionsfor3ICs unexplained."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0065",
+        "SRC-0066"
+      ],
+      "section": "Item15",
+      "rationale": "Detailedoldnewrows andcountmethodchange; costrow calledROCIScost butcontainslabor."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0065",
+        "SRC-0066"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Observedfilers supportcounts; no1080hourrecordkeeping validation."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0065",
+        "SRC-0066"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Item15 laborcost mislabeledROCISannualcost; newhoursrowssum57973 but componentreported earlier55080+2886+7=57973."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1902-0215 | ICR Reference No: 202504-1902-007 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202310-1902-009 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 08/29/2025 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 08/29/2025 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 05/16/2025"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 05/16/2025 | Terms of Clearance: In accordance with 5 CFR 1320, the information collection is approved. | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0066",
+        "document_date": "05/16/2025"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

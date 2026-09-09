@@ -6,8 +6,8 @@
   "submission_date": "07/09/2024",
   "archetype": "portable fire extinguisher inspection records",
   "complexity": "high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 3,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -112,7 +112,9 @@
       "difference": -0.25,
       "unit": "extinguishers",
       "interpretation": "Rounding",
-      "source_id": "SRC-0060"
+      "source_id": "SRC-0060",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Outsourcedcost",
@@ -122,7 +124,9 @@
       "difference": -0.5,
       "unit": "USD",
       "interpretation": "Rounding",
-      "source_id": "SRC-0060"
+      "source_id": "SRC-0060",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Loaded wage",
@@ -132,7 +136,9 @@
       "difference": -0.0005949008498546959,
       "unit": "USD/hour",
       "interpretation": "Rounding",
-      "source_id": "SRC-0060"
+      "source_id": "SRC-0060",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Hourbridge",
@@ -142,10 +148,123 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0060"
+      "source_id": "SRC-0060",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
   "total_score": 78,
   "table_evidence_path": "icrs/202405-1218-005/table-evidence.json",
-  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "complexity_original": "high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0059",
+        "SRC-0060"
+      ],
+      "section": "Item12",
+      "rationale": "Building-area exposure model andoutsourcing partitions clear; prose describes multiplication where division required."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0059",
+        "SRC-0060"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "EIA CBECS/MECS vintages,SOC/ECEC andindustry consultations identified; currentlinksnotarchives."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0059",
+        "SRC-0060"
+      ],
+      "section": "Item12",
+      "rationale": "Manufacturing/nonmanufacturing,customary85%,outsourced90%,inhouse10% meaningful."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0059",
+        "SRC-0060"
+      ],
+      "section": "Item12",
+      "rationale": "30.76/(1-.294)=43.57; occupation transparent, no separateoverhead."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0059",
+        "SRC-0060"
+      ],
+      "section": "Item13",
+      "rationale": "Price range42–59,midpoint50.5 andoutsourcedquantity explicit; survey age unclear."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0059",
+        "SRC-0060"
+      ],
+      "section": "Item14",
+      "rationale": "Zero federalcost asserted; tagvisiblewithoutemployerdisclosure supports limitedincrementalburden."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0059",
+        "SRC-0060"
+      ],
+      "section": "Item15",
+      "rationale": "Oldnew hours,extinguisherstock,price andsurveyvintage table clear; effectsnotfullydecomposed."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0059",
+        "SRC-0060"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Industryconsultations andeconomist verification ofsurveyvintage jump; datedcalibration of85/90%missing."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0059",
+        "SRC-0060"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Item13 prose calls9567848contracted butcalculationuses8611063; tablecallsassetsrespondents."
+    }
+  },
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 1218-0238 | ICR Reference No: 202405-1218-005 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202010-1218-001 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 08/19/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 08/19/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 07/09/2024"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 07/09/2024 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0060",
+        "document_date": "08/05/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

@@ -7,7 +7,7 @@
   "archetype": "vessel monitoring systems",
   "complexity": "high",
   "tsa_relevance": "high",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "review_status": "REVIEWED",
   "review_iteration": 6,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -163,7 +163,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact at rounded counts.",
-      "source_id": "SRC-0127"
+      "source_id": "SRC-0127",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Costs",
@@ -173,7 +175,9 @@
       "difference": 0,
       "unit": "USD",
       "interpretation": "Exact.",
-      "source_id": "SRC-0127"
+      "source_id": "SRC-0127",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Federal",
@@ -183,7 +187,9 @@
       "difference": 0.4499999999970896,
       "unit": "USD",
       "interpretation": "Dollar rounding.",
-      "source_id": "SRC-0127"
+      "source_id": "SRC-0127",
+      "arithmetic_status": "within_display_rounding",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Hour change",
@@ -193,8 +199,123 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact.",
-      "source_id": "SRC-0127"
+      "source_id": "SRC-0127",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 70
+  "total_score": 70,
+  "complexity_original": "high",
+  "tsa_relevance_original": "high",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0126",
+        "SRC-0127"
+      ],
+      "section": "Item12",
+      "rationale": "Four activity calculations explicit; initial rounding and automatic-response boundary need qualification."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0126",
+        "SRC-0127"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Vendor range, local technician quotes and CAPS2024 identified; some prices not linked."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0126",
+        "SRC-0127"
+      ],
+      "section": "Item12",
+      "rationale": "New, replacement, maintenance and failure activities separated."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0126",
+        "SRC-0127"
+      ],
+      "section": "Item12",
+      "rationale": "Owner presence hours assigned zero labor cost because technician paid in Item13; distinct owner opportunity cost unvalued."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0126",
+        "SRC-0127"
+      ],
+      "section": "Item13",
+      "rationale": "Equipment, service and repair costs explicit, but reimbursements netted and higher reporting-frequency scenarios unsupported."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0126",
+        "SRC-0127"
+      ],
+      "section": "Item14",
+      "rationale": "Two federal grades, FTE shares and52% load; equipment reimbursements omitted from cost boundary."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0126",
+        "SRC-0127"
+      ],
+      "section": "Item15",
+      "rationale": "Old/new by activity, with program versus adjustment explanations; combined effects not fully decomposed."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0126",
+        "SRC-0127"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Three local technician quotes and known fleet, but service-price offset assumption untested."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0126",
+        "SRC-0127"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Main arithmetic reconciles at rounded counts; maintenance frequency and response definition conflict."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": "icrs/202402-0648-005/table-evidence.json",
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 0648-0445 | ICR Reference No: 202402-0648-005 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Active | Previous ICR Reference No: 202008-0648-006 | Agency/Subagency:"
+    },
+    {
+      "line": 72,
+      "text": "OIRA Conclusion Action: Approved with change | Conclusion Date: 06/21/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 75,
+      "text": "Conclusion Date: 06/21/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 02/20/2024"
+    },
+    {
+      "line": 80,
+      "text": "Date Received in OIRA: 02/20/2024 | Terms of Clearance: None | |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0127",
+        "document_date": "06/20/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

@@ -6,8 +6,8 @@
   "submission_date": "01/11/2024",
   "archetype": "private fund reporting and systems implementation",
   "complexity": "very high",
-  "tsa_relevance": "direct",
-  "review_status": "REVIEWED_PROVISIONAL",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED",
   "review_iteration": 5,
   "rubric_version": "1.0.0",
   "source_ids": [
@@ -214,7 +214,9 @@
       "difference": 0,
       "unit": "hours",
       "interpretation": "Exact",
-      "source_id": "SRC-0108"
+      "source_id": "SRC-0108",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Financial rate",
@@ -224,7 +226,9 @@
       "difference": 22.5,
       "unit": "USD/hour",
       "interpretation": "Material discrepancy",
-      "source_id": "SRC-0108"
+      "source_id": "SRC-0108",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Initial hedge labor",
@@ -234,7 +238,9 @@
       "difference": 60.0,
       "unit": "USD",
       "interpretation": "60-dollar discrepancy from displayed75600 subtotal",
-      "source_id": "SRC-0108"
+      "source_id": "SRC-0108",
+      "arithmetic_status": "difference_requires_interpretation",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     },
     {
       "label": "Displayed annual hours",
@@ -244,8 +250,123 @@
       "difference": 0.0,
       "unit": "hours",
       "interpretation": "Exact sum of displayed rows; underlying cohort annualization remains questionable",
-      "source_id": "SRC-0108"
+      "source_id": "SRC-0108",
+      "arithmetic_status": "exact",
+      "status_scope": "Numerical tolerance only; read interpretation to distinguish rounding, inconsistent source, proxy and inferred calculation."
     }
   ],
-  "total_score": 61
+  "total_score": 61,
+  "complexity_original": "very high",
+  "tsa_relevance_original": "direct",
+  "score_status": "CALIBRATED_SINGLE_ANALYST",
+  "calibration_date": "2026-09-09",
+  "score_locators": {
+    "reproducibility": {
+      "source_ids": [
+        "SRC-0107",
+        "SRC-0108"
+      ],
+      "section": "Item12",
+      "rationale": "Extensive task/respondent tables and formulas; initial cohorts and inconsistent counts complicate independent totals."
+    },
+    "provenance": {
+      "source_ids": [
+        "SRC-0107",
+        "SRC-0108"
+      ],
+      "section": "Items12–15 and footnotes",
+      "rationale": "Private Fund Statistics vintage and historical entry rates disclosed; SIFMA2013 data and inflation chain incomplete."
+    },
+    "segmentation": {
+      "source_ids": [
+        "SRC-0107",
+        "SRC-0108"
+      ],
+      "section": "Item12",
+      "rationale": "Fund size/type, initial/ongoing/event/transition/final filings and professional roles distinct."
+    },
+    "labor": {
+      "source_ids": [
+        "SRC-0107",
+        "SRC-0108"
+      ],
+      "section": "Item12",
+      "rationale": "Detailed labor mix but several averages and products conflict; combined multipliers not decomposed."
+    },
+    "item13": {
+      "source_ids": [
+        "SRC-0107",
+        "SRC-0108"
+      ],
+      "section": "Item13",
+      "rationale": "Filing fee and startup service cost separated;50000 average derived from0–100000 range without distribution,annual entrant annualization questionable."
+    },
+    "item14": {
+      "source_ids": [
+        "SRC-0107",
+        "SRC-0108"
+      ],
+      "section": "Item14",
+      "rationale": "No directly attributable federal costs asserted without resource explanation."
+    },
+    "item15": {
+      "source_ids": [
+        "SRC-0107",
+        "SRC-0108"
+      ],
+      "section": "Item15",
+      "rationale": "Old/new totals and liquidity-fund changes shown; hour and dollar tables use inconsistent underlying counts/times."
+    },
+    "validation": {
+      "source_ids": [
+        "SRC-0107",
+        "SRC-0108"
+      ],
+      "section": "Items8 and12–15; cited consultation/method documents",
+      "rationale": "Observed entrant rates and discussion of range; time assumptions are agency estimates."
+    },
+    "consistency": {
+      "source_ids": [
+        "SRC-0107",
+        "SRC-0108"
+      ],
+      "section": "Items12–15 and ROCIS summary",
+      "rationale": "Financial blended rate, event role hours, final-filing counts and prior-equity hours disagree across tables."
+    }
+  },
+  "extraction_scope": "Structured analytical model and selected performed checks; all Word table cells in table-evidence.json; PDF layout text and original files preserve remaining rows. This is research evidence, not an executable replica of every source workbook. Null means unreported or not normalized, never zero.",
+  "table_evidence_path": null,
+  "package_status_evidence": [
+    {
+      "line": 41,
+      "text": "View ICR - OIRA Conclusion OMB Control No: 3235-0679 | ICR Reference No: 202401-3235-005 |"
+    },
+    {
+      "line": 48,
+      "text": "Status: Historical Active | Previous ICR Reference No: 202305-3235-023 | Agency/Subagency:"
+    },
+    {
+      "line": 73,
+      "text": "OIRA Conclusion Action: Approved without change | Conclusion Date: 03/15/2024 | Retrieve Notice of Action (NOA)"
+    },
+    {
+      "line": 76,
+      "text": "Conclusion Date: 03/15/2024 | Retrieve Notice of Action (NOA) | Date Received in OIRA: 01/11/2024"
+    },
+    {
+      "line": 81,
+      "text": "Date Received in OIRA: 01/11/2024 | Terms of Clearance: | | Inventory as of this Action |"
+    }
+  ],
+  "date_basis": {
+    "benchmark_window": "2023-09-09/2026-09-09",
+    "eligibility": "Actual OIRA receipt date, not reference-number prefix",
+    "statement_dates": [
+      {
+        "source_id": "SRC-0108",
+        "document_date": "01/11/2024"
+      }
+    ],
+    "caution": "A recent package may retain an older supporting analysis; approval does not certify arithmetic."
+  }
 }

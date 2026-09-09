@@ -1,28 +1,28 @@
 # Transportation Worker Identification Credential
 
-Provisional review. 202504-1652-008; sources SRC-0180, SRC-0179.
+Reviewed under rubric1.0.0. 202504-1652-008; sources SRC-0179, SRC-0180.
 
-Score 75/100. Public documentation only. extensive statement; high complexity.
+Score 75/100. Single-analyst public-evidence assessment; small score differences are not meaningful agency rankings.
 
 ## Scoring
 
-- reproducibility: 18. Three-year cohort/pathway tables reconstruct totals; early time rounding and labels conflict.
+- reproducibility: 18/20. Three-year cohort/pathway tables reconstruct totals; early time rounding and labels conflict.
 
-- provenance: 11. Historical TWIC population, exactOEWSandECEC references; forecasts and data-selection details less accessible.
+- provenance: 11/15. Historical TWIC population, exactOEWSandECEC references; forecasts and data-selection details less accessible.
 
-- segmentation: 15. New/comparable/renewal/replacement, online/inperson, pickup, appeals and surveys separated.
+- segmentation: 15/15. New/comparable/renewal/replacement, online/inperson, pickup, appeals and surveys separated.
 
-- labor: 6. Seven wage populations andratio loading explicit; nationaltruckdriver majority weakTWICrepresentativeness; inverted equation label.
+- labor: 6/10. Seven wage populations andratio loading explicit; nationaltruckdriver majority weakTWICrepresentativeness; inverted equation label.
 
-- item13: 8. Fee schedules and reduced-fee cohorts explicit, appeal copies separated.
+- item13: 8/10. Fee schedules and reduced-fee cohorts explicit, appeal copies separated.
 
-- item14: 5. Federal cost equated with fee revenue, not resource workload; revenue-model scope acknowledged.
+- item14: 5/10. Federal cost equated with fee revenue, not resource workload; revenue-model scope acknowledged.
 
-- item15: 6. Old/new hours/respondents andfeechange, no driver-level dollar/hour decomposition.
+- item15: 6/10. Old/new hours/respondents andfeechange, no driver-level dollar/hour decomposition.
 
-- validation: 3. Administrative disqualification andusage shares; six-hour appeal assumption lacks evidence.
+- validation: 3/5. Administrative disqualification andusage shares; six-hour appeal assumption lacks evidence.
 
-- consistency: 3. Core totals largelyreconcile; survey/appeal respondents duplicated as uniquepeople and severalfee-count labels wrong.
+- consistency: 3/5. Core totals largelyreconcile; survey/appeal respondents duplicated as uniquepeople and severalfee-count labels wrong.
 
 ## Reconstruction issues
 
