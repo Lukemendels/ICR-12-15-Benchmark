@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "pdf_sha256": "f06b03b911c1beb829006f6e5a2d3cb6ebbab00fb068372aa782e1fc7b40c0b4",
+  "page_count": 55,
+  "passes": {
+    "evidence": "PASS",
+    "classification": "PASS",
+    "quantitative": "PASS",
+    "argument": "PASS",
+    "causal-boundary": "PASS",
+    "terminology": "PASS",
+    "citation": "PASS",
+    "figure-table": "PASS",
+    "pdf-visual": "PASS"
+  },
+  "material_open_issues": [],
+  "frozen_files_verified": 2189,
+  "quantitative_checks_reproduced": 341,
+  "source_locators_verified": 325,
+  "evidence_reopened": false,
+  "classification_changes": 0,
+  "leadership_phase_ready": true
+}

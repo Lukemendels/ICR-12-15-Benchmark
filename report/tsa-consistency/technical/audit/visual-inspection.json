@@ -1,0 +1,302 @@
+{
+  "status": "PASS",
+  "pdf_sha256": "f06b03b911c1beb829006f6e5a2d3cb6ebbab00fb068372aa782e1fc7b40c0b4",
+  "page_count": 55,
+  "render_command": "pdftoppm -r 100 -png final/TSA-ICR-Consistency-and-Defensibility-Report.pdf page",
+  "method": "Every page reviewed in rendered four-page contact sheets; changed pages re-rendered and reviewed after repairs. PDF geometry and extracted text audited separately.",
+  "checks": [
+    "clipping",
+    "overflow",
+    "table breaks",
+    "page breaks",
+    "duplicate text",
+    "font legibility",
+    "references and citation formatting",
+    "orphan headings",
+    "blank pages",
+    "spacing"
+  ],
+  "material_defects_remaining": [],
+  "repaired": [
+    "Isolated conclusion fragment moved to an intact conclusion page",
+    "Removed two internal appendix production notes",
+    "Improved table wrapping and bibliography identity"
+  ],
+  "pages": [
+    {
+      "pdf_page": 1,
+      "status": "PASS",
+      "render_sha256": "1aaa5d033c036cef8ee413b64767f95b9fd01025b4a28e73f546b7ebd00c3419"
+    },
+    {
+      "pdf_page": 2,
+      "status": "PASS",
+      "render_sha256": "ea2bc2bcab7b21b699186fc78e847700e056ed045075411533d54afe0338aec6"
+    },
+    {
+      "pdf_page": 3,
+      "status": "PASS",
+      "render_sha256": "55bbec8ce9eeb749de5d6c741b1a02021f1b136b8453e0463a735987aad4e9a1"
+    },
+    {
+      "pdf_page": 4,
+      "status": "PASS",
+      "render_sha256": "6e3037b7edc0e16f752c9192a4a6f71f2294ce296a673b142f2e2a911d83b68d"
+    },
+    {
+      "pdf_page": 5,
+      "status": "PASS",
+      "render_sha256": "a03755ebf33085c1bb3d049d93c188db44c3f6f83456b912eb1ea015db3edd23"
+    },
+    {
+      "pdf_page": 6,
+      "status": "PASS",
+      "render_sha256": "2cf01e656017fcb4de58710d9318a327ca531990d4bdf67b21dea3ffe83a3fd0"
+    },
+    {
+      "pdf_page": 7,
+      "status": "PASS",
+      "render_sha256": "7e094e3ad6412140468858077ea0d4ca5277197b90fbe24d8bb9f2bfe8609a2f"
+    },
+    {
+      "pdf_page": 8,
+      "status": "PASS",
+      "render_sha256": "f49103e5f15ff2634faaaeba6dfa306d3d77fb5a8f5e47a5d434020a9390d772"
+    },
+    {
+      "pdf_page": 9,
+      "status": "PASS",
+      "render_sha256": "ff98844851b3460e0b3b50b55cd1f83f8e3620492481b311748f0c12c3e1d982"
+    },
+    {
+      "pdf_page": 10,
+      "status": "PASS",
+      "render_sha256": "c1727dd32d3fbef99bdd1db3eb9ecdfdb6e62163e60865f3d9cbf3339bef156f"
+    },
+    {
+      "pdf_page": 11,
+      "status": "PASS",
+      "render_sha256": "5551d4f52bef19b2b0055c5213f8b40f83d33006e2ba90c85793eddf962380a4"
+    },
+    {
+      "pdf_page": 12,
+      "status": "PASS",
+      "render_sha256": "ab54dadd28875fc51d054008844f19d3a8041ff2dce658f670f28fde807d4c05"
+    },
+    {
+      "pdf_page": 13,
+      "status": "PASS",
+      "render_sha256": "3c396f4b2c9a99f0ea36e20bd43f0c07a6a6dda08b65047582cb32dcd2f7a27d"
+    },
+    {
+      "pdf_page": 14,
+      "status": "PASS",
+      "render_sha256": "c2e14dc94705b05e4f2501cfce4d2f85b2f4242601b6d683235cdbe6c9efa337"
+    },
+    {
+      "pdf_page": 15,
+      "status": "PASS",
+      "render_sha256": "796435569322d1d251d51708e4032663fb8d7ba8af31d384a5782a3e3abe253a"
+    },
+    {
+      "pdf_page": 16,
+      "status": "PASS",
+      "render_sha256": "082afb6fedcfbc636701ddb0d8c05cde9b26fddfaac1338bc2a0739fb80eab91"
+    },
+    {
+      "pdf_page": 17,
+      "status": "PASS",
+      "render_sha256": "82ea24af240cc81814e56693a56603befed9d8c2965fb616596ef1d177834d39"
+    },
+    {
+      "pdf_page": 18,
+      "status": "PASS",
+      "render_sha256": "f0df6b777012240bad0aa1da02aba2a214c02cb93764cf3a3cae8df41a25edef"
+    },
+    {
+      "pdf_page": 19,
+      "status": "PASS",
+      "render_sha256": "21d0cba24a52051e318a6ba1ed0a0618cdd149fa5bbba6f09a9934c1435aa6da"
+    },
+    {
+      "pdf_page": 20,
+      "status": "PASS",
+      "render_sha256": "1dabb9378e9365b4fcedc8e5fe04ad526eece78320d17a61c5b26f88451565f1"
+    },
+    {
+      "pdf_page": 21,
+      "status": "PASS",
+      "render_sha256": "cf73805bd0be085a03178ebb52a115d769146d9876436bebfcff231f880b7e68"
+    },
+    {
+      "pdf_page": 22,
+      "status": "PASS",
+      "render_sha256": "73f8bc96c36a2dc8ebe833aec2284a5ad74c62f9b749573366e2726bc7cb0f65"
+    },
+    {
+      "pdf_page": 23,
+      "status": "PASS",
+      "render_sha256": "4eabccc58ab89ea20bc1577aede9700ab9ca228804b695b641000251bac266fd"
+    },
+    {
+      "pdf_page": 24,
+      "status": "PASS",
+      "render_sha256": "64e60bf060bf0c7f1df5a8911ce36c69468c5869fa84486ac19c9729d54ed53c"
+    },
+    {
+      "pdf_page": 25,
+      "status": "PASS",
+      "render_sha256": "1aec9cbdf714795f1da7ea8b1389f4a726c4a95a09ed20e60b8fdb838b0b0502"
+    },
+    {
+      "pdf_page": 26,
+      "status": "PASS",
+      "render_sha256": "38ce91a76786b145f80c2fbc8a6a2d8843559ef9ed1f8d9bf4248ec84f06ab84"
+    },
+    {
+      "pdf_page": 27,
+      "status": "PASS",
+      "render_sha256": "0c7f8767191dab06692e1b040c0bea4ffd47d0beda945e63e1a28d5822f64a57"
+    },
+    {
+      "pdf_page": 28,
+      "status": "PASS",
+      "render_sha256": "2e77b54a31b366cc151d518246c3df68e597bf0d4963db4f7834b433de0ffe49"
+    },
+    {
+      "pdf_page": 29,
+      "status": "PASS",
+      "render_sha256": "a08f3e5466b93df96294828d524e3e6fe99a602de2afe8cfc552b331831b7658"
+    },
+    {
+      "pdf_page": 30,
+      "status": "PASS",
+      "render_sha256": "d437741f6a24aa14a21404c7fc5d4816acf7580561fe3ad22bf2fcbab8c036d0"
+    },
+    {
+      "pdf_page": 31,
+      "status": "PASS",
+      "render_sha256": "d2018877c720b17a26718f88e7617b24ed2e194796e5d966a85750e3604c2e5a"
+    },
+    {
+      "pdf_page": 32,
+      "status": "PASS",
+      "render_sha256": "3a5089214c056626ec20c2b66fb3bfdb95c745965fe4c3f0bf23e1fa59df875a"
+    },
+    {
+      "pdf_page": 33,
+      "status": "PASS",
+      "render_sha256": "b691c6573837b5279a1b58d5873e5d5b1b9019f77bbd89022768785d46608090"
+    },
+    {
+      "pdf_page": 34,
+      "status": "PASS",
+      "render_sha256": "bfc1c6ca16892018bc28733811d0b4caed212b558aabcff3205fc57217c6b15e"
+    },
+    {
+      "pdf_page": 35,
+      "status": "PASS",
+      "render_sha256": "d99e4a8f62e858dd853f0f7447c3d84e76425c55c1c8494b3223258e05f1b47e"
+    },
+    {
+      "pdf_page": 36,
+      "status": "PASS",
+      "render_sha256": "5615799dc6ca54bb1b266e645dcdf58ba53064c02f188b04bd7e691cfb37c0d5"
+    },
+    {
+      "pdf_page": 37,
+      "status": "PASS",
+      "render_sha256": "92220039d0069f0dcf12b3affc5911b539671852ff1b53fde13dc009d7f4c3f4"
+    },
+    {
+      "pdf_page": 38,
+      "status": "PASS",
+      "render_sha256": "ee82c83e24099cbbd91867fb634a22993e86995df6730b375582729ee462dcec"
+    },
+    {
+      "pdf_page": 39,
+      "status": "PASS",
+      "render_sha256": "b3ba41dd702e511368400ad8e51438f8a6a698520d0b48cf83b49d7de0aee7c4"
+    },
+    {
+      "pdf_page": 40,
+      "status": "PASS",
+      "render_sha256": "d754d370ee83590aa5725539c8a9dd79098877c13f9d7b7f67ab57b6265e8c81"
+    },
+    {
+      "pdf_page": 41,
+      "status": "PASS",
+      "render_sha256": "b7e28f8e349fa9b14cd8955ea40b6260a29ef2f7ae259931f92b2680abb89005"
+    },
+    {
+      "pdf_page": 42,
+      "status": "PASS",
+      "render_sha256": "7022bfe83e4b706f67cd26cd838e3cc80959b599953999cccdd23ce75f14d09d"
+    },
+    {
+      "pdf_page": 43,
+      "status": "PASS",
+      "render_sha256": "64265c19898d3593a6ede32c45a234674af085e99b71ee163bd2936d391f3f36"
+    },
+    {
+      "pdf_page": 44,
+      "status": "PASS",
+      "render_sha256": "0da0a7c58a12eb02778b15858e25989ddfaedb6ed03f1466bdd8b5b041f961ec"
+    },
+    {
+      "pdf_page": 45,
+      "status": "PASS",
+      "render_sha256": "4d0bc480951a89230a8486d7274c26c93aa10065f48964f27b0b0e5bcba2d3f1"
+    },
+    {
+      "pdf_page": 46,
+      "status": "PASS",
+      "render_sha256": "754d130a7a49961397e111298983593ac53088f216237c78955d0c26a7bfec6b"
+    },
+    {
+      "pdf_page": 47,
+      "status": "PASS",
+      "render_sha256": "ea271665c5a135c3ba044d33d7b3a4593d13aa0cb4720fa46311156372b96156"
+    },
+    {
+      "pdf_page": 48,
+      "status": "PASS",
+      "render_sha256": "996a3686f0c5e72717fa6cad2e59e47cf23dad54d075ab4b2d470d7a7b53390e"
+    },
+    {
+      "pdf_page": 49,
+      "status": "PASS",
+      "render_sha256": "57552ec36f36f0d4257e62d20d370cecd23cfa77995b70381e39e01831bf9bf7"
+    },
+    {
+      "pdf_page": 50,
+      "status": "PASS",
+      "render_sha256": "6999ef7c55999e9ee3e7f66015ad07d66492eeacde3b7fe9a237bfe030196c42"
+    },
+    {
+      "pdf_page": 51,
+      "status": "PASS",
+      "render_sha256": "f84f0561649015df750443bad06184506a856885208b85aff9c41637b20fd29b"
+    },
+    {
+      "pdf_page": 52,
+      "status": "PASS",
+      "render_sha256": "d128106fb0a4c9d8b8fe5090802928edcfa976b5c40fd9070b8a24d55a5017b7"
+    },
+    {
+      "pdf_page": 53,
+      "status": "PASS",
+      "render_sha256": "06e2dce17ee8ba204529e9aa01f79c78489550895da72ba9984b3ebcd4f8df20"
+    },
+    {
+      "pdf_page": 54,
+      "status": "PASS",
+      "render_sha256": "bf85a34a64fa33d67311af4841145d30ccbb61b95dc76e569dac3e0004a66366"
+    },
+    {
+      "pdf_page": 55,
+      "status": "PASS",
+      "render_sha256": "32103014e411d8d5c01f856409696d21becdec18d649cb853c74afd8840847bc"
+    }
+  ]
+}

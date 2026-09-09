@@ -1,0 +1,2140 @@
+{
+  "status": "PASS",
+  "counts": {
+    "packages": 90,
+    "histories": 48,
+    "activity_representations": 468,
+    "assumptions": 162,
+    "checks": 341,
+    "check_versions": 40
+  },
+  "equation_replays": [
+    {
+      "id": "QA-M1-442ef4f9697faa0869e9",
+      "recomputed": 165,
+      "registered_calculated": 165,
+      "match": true
+    },
+    {
+      "id": "QA-M1-15c746612d2003c597da",
+      "recomputed": 8503.5,
+      "registered_calculated": 8503.5,
+      "match": true
+    },
+    {
+      "id": "QA-M1-6d055a430bda9617d6f7",
+      "recomputed": 4038500,
+      "registered_calculated": 4038500,
+      "match": true
+    },
+    {
+      "id": "QA-M1-371cda886737bdd8d4ab",
+      "recomputed": 24902471,
+      "registered_calculated": 24902471,
+      "match": true
+    },
+    {
+      "id": "QA-M1-f871804e8001e0eb227b",
+      "recomputed": 74707413,
+      "registered_calculated": 74707413,
+      "match": true
+    },
+    {
+      "id": "QA-M1-21a9c3f88f26b0cdcf85",
+      "recomputed": 15121.166666666666,
+      "registered_calculated": 15121.166666666666,
+      "match": true
+    },
+    {
+      "id": "QA-M1-2b54e9e8af399a75195e",
+      "recomputed": 2706305,
+      "registered_calculated": 2706305,
+      "match": true
+    },
+    {
+      "id": "QA-M1-152e2435eadd3c19387a",
+      "recomputed": 33596,
+      "registered_calculated": 33596,
+      "match": true
+    },
+    {
+      "id": "QA-M1-7efa270650f0bab19708",
+      "recomputed": 3844.0,
+      "registered_calculated": 3844.0,
+      "match": true
+    },
+    {
+      "id": "QA-M1-088207ca190e6a7e4c1c",
+      "recomputed": 251708.6,
+      "registered_calculated": 251708.6,
+      "match": true
+    },
+    {
+      "id": "QA-M1-c3175d315c6462bd3acf",
+      "recomputed": 4010760,
+      "registered_calculated": 4010760,
+      "match": true
+    },
+    {
+      "id": "QA-M1-2957eedad651fd921213",
+      "recomputed": 20165544.55,
+      "registered_calculated": 20165544.55,
+      "match": true
+    },
+    {
+      "id": "QA-M1-8ba727ca415a7ca0538f",
+      "recomputed": 6049,
+      "registered_calculated": 6049,
+      "match": true
+    },
+    {
+      "id": "QA-M1-733564c298cd6c03205d",
+      "recomputed": 285319,
+      "registered_calculated": 285319,
+      "match": true
+    },
+    {
+      "id": "QA-M1-52a6750989d163f7b34d",
+      "recomputed": 281219,
+      "registered_calculated": 281219,
+      "match": true
+    },
+    {
+      "id": "QA-M1-034433150c410c68ad51",
+      "recomputed": 11263.0,
+      "registered_calculated": 11263.0,
+      "match": true
+    },
+    {
+      "id": "QA-M1-b66e713e5bb18381546c",
+      "recomputed": 3900.0,
+      "registered_calculated": 3900.0,
+      "match": true
+    },
+    {
+      "id": "QA-M1-171b67dc37b81347c754",
+      "recomputed": 179946.0,
+      "registered_calculated": 179946.0,
+      "match": true
+    },
+    {
+      "id": "QA-M1-e317e992a41030b5198c",
+      "recomputed": 2737.5,
+      "registered_calculated": 2737.5,
+      "match": true
+    },
+    {
+      "id": "QA-M1-1e0468a44e54f4e28ec6",
+      "recomputed": 344208.96444657404,
+      "registered_calculated": 344208.96444657404,
+      "match": true
+    },
+    {
+      "id": "QA-M1-8f9571e2dbe2140c90d8",
+      "recomputed": 0.08333333333333333,
+      "registered_calculated": 0.08333333333333333,
+      "match": true
+    },
+    {
+      "id": "QA-M1-7b7e90fdcc2b5ffbc4ff",
+      "recomputed": 2095043,
+      "registered_calculated": 2095043,
+      "match": true
+    },
+    {
+      "id": "QA-M1-759b7ecb72178e4c8124",
+      "recomputed": 58953375.0,
+      "registered_calculated": 58953375.0,
+      "match": true
+    },
+    {
+      "id": "QA-M1-45e24973629e90b0782d",
+      "recomputed": 921400.9714901773,
+      "registered_calculated": 921400.9714901773,
+      "match": true
+    },
+    {
+      "id": "QA-M1-5d31a4c242f16f03561f",
+      "recomputed": 50.19364267129228,
+      "registered_calculated": 50.19364267129228,
+      "match": true
+    },
+    {
+      "id": "QA-M1-9900ce0e9a3adb55e0c9",
+      "recomputed": 510472,
+      "registered_calculated": 510472,
+      "match": true
+    },
+    {
+      "id": "QA-M1-e456b8f9f7446391e2c5",
+      "recomputed": 78706110,
+      "registered_calculated": 78706110,
+      "match": true
+    },
+    {
+      "id": "QA-M1-375e5b706bb68931408d",
+      "recomputed": 5565.816666666667,
+      "registered_calculated": 5565.816666666667,
+      "match": true
+    },
+    {
+      "id": "QA-M1-7a883bb486546d33e19e",
+      "recomputed": 39.51943767717743,
+      "registered_calculated": 39.51943767717743,
+      "match": true
+    },
+    {
+      "id": "QA-M1-dd707df62b1c72a7afc6",
+      "recomputed": 156874666.66666666,
+      "registered_calculated": 156874666.66666666,
+      "match": true
+    },
+    {
+      "id": "QA-M1-42c11f2ccfaf668b06e5",
+      "recomputed": 10000.0,
+      "registered_calculated": 10000.0,
+      "match": true
+    },
+    {
+      "id": "QA-M1-0d1deea269c540f710af",
+      "recomputed": 33.00043373493976,
+      "registered_calculated": 33.00043373493976,
+      "match": true
+    },
+    {
+      "id": "QA-M1-0ac3ff363cadd5d51f64",
+      "recomputed": 22167,
+      "registered_calculated": 22167,
+      "match": true
+    },
+    {
+      "id": "QA-M1-d0ba2568cc9909cd1acd",
+      "recomputed": 1160.517,
+      "registered_calculated": 1160.517,
+      "match": true
+    },
+    {
+      "id": "QA-M1-c6ee6d516f51ffa0735c",
+      "recomputed": 1149,
+      "registered_calculated": 1149,
+      "match": true
+    },
+    {
+      "id": "QA-M1-ed7a6807fd7ce3a9afe8",
+      "recomputed": 22167,
+      "registered_calculated": 22167,
+      "match": true
+    },
+    {
+      "id": "QA-M1-a72001a5c31810104860",
+      "recomputed": 104.17441303306181,
+      "registered_calculated": 104.17441303306181,
+      "match": true
+    },
+    {
+      "id": "QA-M1-10c2ad66be3efba5b5be",
+      "recomputed": 169671.5475,
+      "registered_calculated": 169671.5475,
+      "match": true
+    },
+    {
+      "id": "QA-M1-debe45a627cb4f1b556d",
+      "recomputed": 518.712,
+      "registered_calculated": 518.712,
+      "match": true
+    },
+    {
+      "id": "QA-M1-22f99e97efa2656bb926",
+      "recomputed": 1.312,
+      "registered_calculated": 1.312,
+      "match": true
+    },
+    {
+      "id": "QA-M1-212bed665a7d550f6532",
+      "recomputed": 769261,
+      "registered_calculated": 769261,
+      "match": true
+    },
+    {
+      "id": "QA-MD3-COST",
+      "recomputed": 148194.405,
+      "registered_calculated": 148194.405,
+      "match": true
+    },
+    {
+      "id": "QA-MD3-PERPERSON",
+      "recomputed": 565.6275,
+      "registered_calculated": 565.6275,
+      "match": true
+    },
+    {
+      "id": "QA-LEO-ANNUAL",
+      "recomputed": 158997.4765,
+      "registered_calculated": 158997.4765,
+      "match": true
+    },
+    {
+      "id": "QA-LEO-3YEAR",
+      "recomputed": 476992.42949999997,
+      "registered_calculated": 476992.42949999997,
+      "match": true
+    },
+    {
+      "id": "QA-GENERIC-FEEDBACK",
+      "recomputed": 441799.5,
+      "registered_calculated": 441799.5,
+      "match": true
+    },
+    {
+      "id": "QA-GENERIC-COUNT",
+      "recomputed": 4149166,
+      "registered_calculated": 4149166,
+      "match": true
+    },
+    {
+      "id": "QA-GENERIC-TOTAL",
+      "recomputed": 1180050,
+      "registered_calculated": 1180050,
+      "match": true
+    },
+    {
+      "id": "QA-EXIS-2025",
+      "recomputed": 12564,
+      "registered_calculated": 12564,
+      "match": true
+    },
+    {
+      "id": "QA-EXIS-2026",
+      "recomputed": 13976.4,
+      "registered_calculated": 13976.4,
+      "match": true
+    },
+    {
+      "id": "QA-EXIS-2027",
+      "recomputed": 15513.7,
+      "registered_calculated": 15513.7,
+      "match": true
+    },
+    {
+      "id": "QA-FAC-ROUNDING",
+      "recomputed": 5040,
+      "registered_calculated": 5040,
+      "match": true
+    },
+    {
+      "id": "QA-PARTITION-1",
+      "recomputed": 0.0,
+      "registered_calculated": 0.0,
+      "match": true
+    },
+    {
+      "id": "QA-PARTITION-2",
+      "recomputed": 0.0,
+      "registered_calculated": 0.0,
+      "match": true
+    },
+    {
+      "id": "QA-PARTITION-3",
+      "recomputed": 0.0,
+      "registered_calculated": 0.0,
+      "match": true
+    },
+    {
+      "id": "QA-PARTITION-4",
+      "recomputed": 53182.0,
+      "registered_calculated": 53182.0,
+      "match": true
+    },
+    {
+      "id": "QA-PARTITION-5",
+      "recomputed": 54840.0,
+      "registered_calculated": 54840.0,
+      "match": true
+    },
+    {
+      "id": "QA-PARTITION-6",
+      "recomputed": 53816.0,
+      "registered_calculated": 53816.0,
+      "match": true
+    },
+    {
+      "id": "QA-PARTITION-7",
+      "recomputed": 0.0,
+      "registered_calculated": 0.0,
+      "match": true
+    },
+    {
+      "id": "QA-PARTITION-8",
+      "recomputed": 0.0,
+      "registered_calculated": 0.0,
+      "match": true
+    },
+    {
+      "id": "QA-PARTITION-9",
+      "recomputed": 0.0,
+      "registered_calculated": 0.0,
+      "match": true
+    },
+    {
+      "id": "QA-PARTITION-10",
+      "recomputed": 0.0,
+      "registered_calculated": 0.0,
+      "match": true
+    },
+    {
+      "id": "QA-TWIC-BRIDGE",
+      "recomputed": 510471,
+      "registered_calculated": 510471,
+      "match": true
+    },
+    {
+      "id": "QA-CYBER-COST",
+      "recomputed": 347824.0,
+      "registered_calculated": 347824.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-1b1433327924e4bd8dee",
+      "recomputed": 804,
+      "registered_calculated": 804,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-932eb67e346b598086d7",
+      "recomputed": 13364,
+      "registered_calculated": 13364,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-9eef2a1c9dbef615bdc0",
+      "recomputed": 165,
+      "registered_calculated": 165,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-43aa2f201a6ce1a613c9",
+      "recomputed": 600,
+      "registered_calculated": 600,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c0dd9356fb9994d1aee8",
+      "recomputed": 946,
+      "registered_calculated": 946,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-2e0cc1a085cbccaa4ecf",
+      "recomputed": 24625.0,
+      "registered_calculated": 24625.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-41d163d68ab4aad2514e",
+      "recomputed": 26666.666666666668,
+      "registered_calculated": 26666.666666666668,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-15fc9730eba0fd03a8d6",
+      "recomputed": 1400,
+      "registered_calculated": 1400,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-9084b53bde3cf89129e0",
+      "recomputed": 8503.5,
+      "registered_calculated": 8503.5,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-1e222409ed530e0515ab",
+      "recomputed": 360,
+      "registered_calculated": 360,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-1c5bed91b6b2677af1e6",
+      "recomputed": 1152,
+      "registered_calculated": 1152,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-0b0fa7932c4e893bf27e",
+      "recomputed": 192,
+      "registered_calculated": 192,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-64b196ab555aeabf56af",
+      "recomputed": 120,
+      "registered_calculated": 120,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-edfebcf99604a5df1f92",
+      "recomputed": 37440.0,
+      "registered_calculated": 37440.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c952f2d76b25095a97bd",
+      "recomputed": 18720.0,
+      "registered_calculated": 18720.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-721f1e39e8c75f15178e",
+      "recomputed": 192,
+      "registered_calculated": 192,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-6025351fd19edbbb9d2a",
+      "recomputed": 24960,
+      "registered_calculated": 24960,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-cd5e2acd7e826cb2c4a4",
+      "recomputed": 1152,
+      "registered_calculated": 1152,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-6d90b28b9d14baf13427",
+      "recomputed": 60,
+      "registered_calculated": 60,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-9ce86fe23c2723368e5e",
+      "recomputed": 431440.8333333333,
+      "registered_calculated": 431440.8333333333,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-f008e613876cf30058dd",
+      "recomputed": 1483.3333333333333,
+      "registered_calculated": 1483.3333333333333,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-2265f19f931663c0025c",
+      "recomputed": 24960,
+      "registered_calculated": 24960,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-1cef3de5855b1523f925",
+      "recomputed": 400.0,
+      "registered_calculated": 400.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-8acdea8b75db081d22e1",
+      "recomputed": 9376,
+      "registered_calculated": 9376,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-91e30388dae87c067a04",
+      "recomputed": 1125.0,
+      "registered_calculated": 1125.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-9e5a2feff73f943fa6d6",
+      "recomputed": 562.5,
+      "registered_calculated": 562.5,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-8e0935784aed001b0d71",
+      "recomputed": 187.5,
+      "registered_calculated": 187.5,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-9e4e155066b5e1c526bb",
+      "recomputed": 4800,
+      "registered_calculated": 4800,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-dee618a3bd499f8a81d6",
+      "recomputed": 120,
+      "registered_calculated": 120,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-54ad15eeccb34cd23484",
+      "recomputed": 1714.75,
+      "registered_calculated": 1714.75,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-be13865aa8812c9d0e75",
+      "recomputed": 500,
+      "registered_calculated": 500,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d16cda3eaff1743ca463",
+      "recomputed": 108750,
+      "registered_calculated": 108750,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-b314c8a69ab9aa1065cf",
+      "recomputed": 108750,
+      "registered_calculated": 108750,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-e09b36923c4cb604b2cd",
+      "recomputed": 261000,
+      "registered_calculated": 261000,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a5961de166f4b35b5152",
+      "recomputed": 521250.0,
+      "registered_calculated": 521250.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-ee668167982a9b87a978",
+      "recomputed": 494867.44999999995,
+      "registered_calculated": 494867.44999999995,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-dd195ce404f210e94fa3",
+      "recomputed": 353476.75,
+      "registered_calculated": 353476.75,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-e0f022c81ccc28e6c143",
+      "recomputed": 70695.35,
+      "registered_calculated": 70695.35,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-dbfbde50c031e267c556",
+      "recomputed": 83533.66666666666,
+      "registered_calculated": 83533.66666666666,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-674f8c3c0cc772516fdb",
+      "recomputed": 87000,
+      "registered_calculated": 87000,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c25d81d8d1b6d0b53481",
+      "recomputed": 5220,
+      "registered_calculated": 5220,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-da89658142e1227c8dd3",
+      "recomputed": 14517.25,
+      "registered_calculated": 14517.25,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-81cdf14be6c43fca34c8",
+      "recomputed": 15121.166666666668,
+      "registered_calculated": 15121.166666666668,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c7dfc121c0e361a7978e",
+      "recomputed": 3255.75,
+      "registered_calculated": 3255.75,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-051443711ee8f5fea3b3",
+      "recomputed": 114.41666666666667,
+      "registered_calculated": 114.41666666666667,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c197dfce3b55137aac52",
+      "recomputed": 475.30555555555554,
+      "registered_calculated": 475.30555555555554,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-7787a905b78d7234c610",
+      "recomputed": 110.63333333333333,
+      "registered_calculated": 110.63333333333333,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d8221d737eb83f16448e",
+      "recomputed": 5724.84,
+      "registered_calculated": 5724.84,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a92d02fd1eb5adf05ec4",
+      "recomputed": 38594.98499999999,
+      "registered_calculated": 38594.98499999999,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c179d7f18e03d1bc6f76",
+      "recomputed": 677.105,
+      "registered_calculated": 677.105,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-cfb21eb0589582617813",
+      "recomputed": 59942.784,
+      "registered_calculated": 59942.784,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-139e6e901425dc618d2a",
+      "recomputed": 42.657615,
+      "registered_calculated": 42.657615,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-2dd9f776e62c5252d5d7",
+      "recomputed": 73034.64959999999,
+      "registered_calculated": 73034.64959999999,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-9ec5cee624415690a6d6",
+      "recomputed": 87143.61600000001,
+      "registered_calculated": 87143.61600000001,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-7435544bcccc6ce3b10c",
+      "recomputed": 9170.828160000001,
+      "registered_calculated": 9170.828160000001,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-60f4ff14eedefb9f8336",
+      "recomputed": 62992.32,
+      "registered_calculated": 62992.32,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-6d1ec560e9d1b406cbe8",
+      "recomputed": 518.6999999999999,
+      "registered_calculated": 518.6999999999999,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-1bfc8b347ab767ec149c",
+      "recomputed": 18888,
+      "registered_calculated": 18888,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-02d12598580fd45bd83e",
+      "recomputed": 360.0,
+      "registered_calculated": 360.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-09c3e690327a3798c865",
+      "recomputed": 1152.0,
+      "registered_calculated": 1152.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d08a6e27b2ac28204721",
+      "recomputed": 192.0,
+      "registered_calculated": 192.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-7b78841c8e629620c105",
+      "recomputed": 120.0,
+      "registered_calculated": 120.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-1df7731bfe35189f7541",
+      "recomputed": 37440.0,
+      "registered_calculated": 37440.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-59c0a3f7fe9618b6d2db",
+      "recomputed": 18720.0,
+      "registered_calculated": 18720.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-6fb6ece5b5d8f59007b9",
+      "recomputed": 192.0,
+      "registered_calculated": 192.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-abd9b4bf953e1073cee2",
+      "recomputed": 24960.0,
+      "registered_calculated": 24960.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c0f436935f64c865f69d",
+      "recomputed": 1152.0,
+      "registered_calculated": 1152.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-5bd6908cd8ec80890bba",
+      "recomputed": 60.0,
+      "registered_calculated": 60.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a9bc4f0d9ae0c4c17234",
+      "recomputed": 440069.65,
+      "registered_calculated": 440069.65,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-f6ffc33b41cda2f1ea4c",
+      "recomputed": 1424.0,
+      "registered_calculated": 1424.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-7d5702be58ae3c54ec7f",
+      "recomputed": 24960.0,
+      "registered_calculated": 24960.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-8f2af94f895478a68fce",
+      "recomputed": 396.0,
+      "registered_calculated": 396.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d223efec0dd80a26e513",
+      "recomputed": 9376.0,
+      "registered_calculated": 9376.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-f0a0a458d31e096cd0a8",
+      "recomputed": 1125.0,
+      "registered_calculated": 1125.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-b0f3e5debbaf1fc039d9",
+      "recomputed": 562.5,
+      "registered_calculated": 562.5,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-810979d6dd405e7b2f59",
+      "recomputed": 180.0,
+      "registered_calculated": 180.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-de91b27c0d659bf312db",
+      "recomputed": 3240.0,
+      "registered_calculated": 3240.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-ee3b98a83dd8b19ae67c",
+      "recomputed": 83.0,
+      "registered_calculated": 83.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a67a53d36956c43ab0c8",
+      "recomputed": 5352.0,
+      "registered_calculated": 5352.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d20f32c6294e29b90896",
+      "recomputed": 4320.0,
+      "registered_calculated": 4320.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-aa97504f7b43588d0a3a",
+      "recomputed": 30.0,
+      "registered_calculated": 30.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-4638e607b5bdd64977c7",
+      "recomputed": 261482.76,
+      "registered_calculated": 261482.76,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-dd2f46263613953fa69e",
+      "recomputed": 3240.0,
+      "registered_calculated": 3240.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-4736fc7e95f44c478363",
+      "recomputed": 83.0,
+      "registered_calculated": 83.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-bdac78154800e23a7faf",
+      "recomputed": 5352.0,
+      "registered_calculated": 5352.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-219ef930f2876884718e",
+      "recomputed": 4320.0,
+      "registered_calculated": 4320.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-7ec85279004c676524f9",
+      "recomputed": 30.0,
+      "registered_calculated": 30.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-aecd45abd0b519cee01f",
+      "recomputed": 226177.05000000002,
+      "registered_calculated": 226177.05000000002,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-52ad7819b69862bb25ec",
+      "recomputed": 804.0,
+      "registered_calculated": 804.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-fb83a7d298bbad2d4d3a",
+      "recomputed": 13364.0,
+      "registered_calculated": 13364.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-ffb11cab200abb9692a2",
+      "recomputed": 165.0,
+      "registered_calculated": 165.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-aa20b6e777693d08d361",
+      "recomputed": 600.0,
+      "registered_calculated": 600.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-b4094922f7bfdc78bc97",
+      "recomputed": 946.0,
+      "registered_calculated": 946.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-ea9b2ee9d82694dc9135",
+      "recomputed": 24625.0,
+      "registered_calculated": 24625.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-7b1104fa28ba85993ae7",
+      "recomputed": 26400.0,
+      "registered_calculated": 26400.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-29f680925577093ff3e6",
+      "recomputed": 1400.0,
+      "registered_calculated": 1400.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-dc622bf1c69c9ddb37e9",
+      "recomputed": 8163.360000000001,
+      "registered_calculated": 8163.360000000001,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-9bd3d2c2277278e07a5c",
+      "recomputed": 244.0,
+      "registered_calculated": 244.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-5d209dbd4bfbadbc5d2a",
+      "recomputed": 832.0,
+      "registered_calculated": 832.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-03031201b662a74f9984",
+      "recomputed": 1998.7395,
+      "registered_calculated": 1998.7395,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a9e47a922ed4dccc3e86",
+      "recomputed": 120.0,
+      "registered_calculated": 120.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-fc1abd0beedef6d2da5d",
+      "recomputed": 226.347,
+      "registered_calculated": 226.347,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a133c108d403f4f9f616",
+      "recomputed": 2352.0,
+      "registered_calculated": 2352.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-7a5d2fe1b8884dd1f2e9",
+      "recomputed": 1255.197,
+      "registered_calculated": 1255.197,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-7c16dfc5dac36ece80e6",
+      "recomputed": 86.64,
+      "registered_calculated": 86.64,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-5ae06373e8b579de5ebc",
+      "recomputed": 324.0,
+      "registered_calculated": 324.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-41b303ca487af66be06f",
+      "recomputed": 612.0,
+      "registered_calculated": 612.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-855587fdd4a3d3442a7a",
+      "recomputed": 153.12,
+      "registered_calculated": 153.12,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-bdc85b6eaeddeec3b2c5",
+      "recomputed": 864.0,
+      "registered_calculated": 864.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-8166b430b5319775bff7",
+      "recomputed": 82.94,
+      "registered_calculated": 82.94,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-039e2beb4b7f70f17903",
+      "recomputed": 1.89,
+      "registered_calculated": 1.89,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a3e747d36f67341f2231",
+      "recomputed": 2.04,
+      "registered_calculated": 2.04,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-2e74e88b1251b3b894b7",
+      "recomputed": 5.16,
+      "registered_calculated": 5.16,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-dfee160914649f9729d0",
+      "recomputed": 4.64,
+      "registered_calculated": 4.64,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-57901066428426232999",
+      "recomputed": 4800.0,
+      "registered_calculated": 4800.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-352c1cb9666027bb9924",
+      "recomputed": 783.0,
+      "registered_calculated": 783.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-f673af07b727d82fbef9",
+      "recomputed": 1.0,
+      "registered_calculated": 1.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-2776e197bc8ad10d58cd",
+      "recomputed": 400.0,
+      "registered_calculated": 400.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-0e4d1408c3b3cfe84afc",
+      "recomputed": 60.0,
+      "registered_calculated": 60.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-4527a2110914ad9dc150",
+      "recomputed": 4.95,
+      "registered_calculated": 4.95,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-33c31e3d2e96e4ec0919",
+      "recomputed": 120.0,
+      "registered_calculated": 120.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-84e8b95bc503c27cb0d3",
+      "recomputed": 10.0,
+      "registered_calculated": 10.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-f19c7165d3d6088e3bf2",
+      "recomputed": 400.0,
+      "registered_calculated": 400.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-5127fdf110c66086597a",
+      "recomputed": 1.5,
+      "registered_calculated": 1.5,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-348a73f4b82aa01f7d81",
+      "recomputed": 4.95,
+      "registered_calculated": 4.95,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-b3b4073efae00941c3d5",
+      "recomputed": 2.0,
+      "registered_calculated": 2.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-b4060e57c9ff1078001a",
+      "recomputed": 4.95,
+      "registered_calculated": 4.95,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-66b430c781c99ddf93b9",
+      "recomputed": 15.0,
+      "registered_calculated": 15.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-41d94cd28ce83ea7d7d5",
+      "recomputed": 350.0,
+      "registered_calculated": 350.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a8496e38fda53ffc77c2",
+      "recomputed": 22.0,
+      "registered_calculated": 22.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a5f078370373e0c44208",
+      "recomputed": 2.25,
+      "registered_calculated": 2.25,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-3e875caaea68a28c5f63",
+      "recomputed": 10.0,
+      "registered_calculated": 10.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-82ab953ede1f4bab5bd1",
+      "recomputed": 12.0,
+      "registered_calculated": 12.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-bf4e594eabbd4f940ec9",
+      "recomputed": 17.5,
+      "registered_calculated": 17.5,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-b0b18b951de416408463",
+      "recomputed": 289.0,
+      "registered_calculated": 289.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-bfb526d0728b88a71282",
+      "recomputed": 1.0,
+      "registered_calculated": 1.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a038e7b370094aa45aab",
+      "recomputed": 10.0,
+      "registered_calculated": 10.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a22f08887e9f87f0714f",
+      "recomputed": 12.0,
+      "registered_calculated": 12.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-1b73b41cd320efccb992",
+      "recomputed": 160.0,
+      "registered_calculated": 160.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-cda1fc4c86866d89fff0",
+      "recomputed": 60.0,
+      "registered_calculated": 60.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-5b5ca08c91471c06045a",
+      "recomputed": 160.0,
+      "registered_calculated": 160.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a77c0a4b6afa9e1faca9",
+      "recomputed": 60.0,
+      "registered_calculated": 60.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-2cf94d93cb9e3b612966",
+      "recomputed": 4000.0,
+      "registered_calculated": 4000.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-847c051b99f6a7a53aab",
+      "recomputed": 8000.0,
+      "registered_calculated": 8000.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-93472d9e3ca4efe4acd3",
+      "recomputed": 120.0,
+      "registered_calculated": 120.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-0a39f9c2e181a0cc3500",
+      "recomputed": 60.0,
+      "registered_calculated": 60.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d04cea320066515f4a35",
+      "recomputed": 4000.0,
+      "registered_calculated": 4000.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-0fd6a648cf41d0da15ee",
+      "recomputed": 8000.0,
+      "registered_calculated": 8000.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-4cbbdc347f97c1f31e8f",
+      "recomputed": 168.0,
+      "registered_calculated": 168.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c0994f6b0c1b65f637e8",
+      "recomputed": 63.0,
+      "registered_calculated": 63.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-1ccbf1d8cbcf75fc2a9c",
+      "recomputed": 4158.0,
+      "registered_calculated": 4158.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a815ec0fa5d923748543",
+      "recomputed": 16000.0,
+      "registered_calculated": 16000.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-36bd0a8b107280ceca47",
+      "recomputed": 16000.0,
+      "registered_calculated": 16000.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-788d4552ba19ba14076f",
+      "recomputed": 2920.0,
+      "registered_calculated": 2920.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-75bd3304a2e48f695e38",
+      "recomputed": 5840.0,
+      "registered_calculated": 5840.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-4ebfa720c124fafe69e0",
+      "recomputed": 457.0,
+      "registered_calculated": 457.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-6b2e310ba005bb55c6ed",
+      "recomputed": 115.0,
+      "registered_calculated": 115.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-1b75e0e6834ec14af200",
+      "recomputed": 209.0,
+      "registered_calculated": 209.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-29d5f11469f9b5820c0b",
+      "recomputed": 36560.0,
+      "registered_calculated": 36560.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-f836cc795bfb790d17f2",
+      "recomputed": 9200.0,
+      "registered_calculated": 9200.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-f9d93cdf9d9d5f0df5f2",
+      "recomputed": 16720.0,
+      "registered_calculated": 16720.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-3b6a076f76412eec53e2",
+      "recomputed": 19194.0,
+      "registered_calculated": 19194.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-74944c1594ba72b7baaa",
+      "recomputed": 4830.0,
+      "registered_calculated": 4830.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-f412a48118a18e5c05ba",
+      "recomputed": 8778.0,
+      "registered_calculated": 8778.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-4fd4332b63f464b98ede",
+      "recomputed": 2920.0,
+      "registered_calculated": 2920.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-58f1df97fdd37db09d82",
+      "recomputed": 5840.0,
+      "registered_calculated": 5840.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-0dff596b717db9e88c55",
+      "recomputed": 457.0,
+      "registered_calculated": 457.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-f764ca372d1b9c6ea0cd",
+      "recomputed": 115.0,
+      "registered_calculated": 115.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-5760a2b33f478ea57023",
+      "recomputed": 209.0,
+      "registered_calculated": 209.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-b5fcaf735e7bd5baa862",
+      "recomputed": 36560.0,
+      "registered_calculated": 36560.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d26bfe27e7a2c9d84e3e",
+      "recomputed": 9200.0,
+      "registered_calculated": 9200.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-7d155e56bc63c169eb75",
+      "recomputed": 16720.0,
+      "registered_calculated": 16720.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-e48c42f7bf7b5c49fefe",
+      "recomputed": 19194.0,
+      "registered_calculated": 19194.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d8047c266d3863939e6f",
+      "recomputed": 4830.0,
+      "registered_calculated": 4830.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-2b5c67d5ec9ef8bf61b6",
+      "recomputed": 8778.0,
+      "registered_calculated": 8778.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-ced90699102b8cba6797",
+      "recomputed": 3750.0,
+      "registered_calculated": 3750.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-5c4d4a59ecac83675180",
+      "recomputed": 150.0,
+      "registered_calculated": 150.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-adad1a25eabe102a9ea3",
+      "recomputed": 0.08333333333333333,
+      "registered_calculated": 0.08333333333333333,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-52664fb549dfaaac428d",
+      "recomputed": 7213.3215,
+      "registered_calculated": 7213.3215,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-149d76485eb45905395a",
+      "recomputed": 2966.9178,
+      "registered_calculated": 2966.9178,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-4d370f1732fce0aaa09a",
+      "recomputed": 172.3775,
+      "registered_calculated": 172.3775,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-0238ccfa506d298e8a61",
+      "recomputed": 70.8564,
+      "registered_calculated": 70.8564,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-eb9585d5b4c9cedf8d3a",
+      "recomputed": 18930.826388888887,
+      "registered_calculated": 18930.826388888887,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d91953a1debd3cd8cc9d",
+      "recomputed": 4206.75,
+      "registered_calculated": 4206.75,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-77813b9894e5ebe746e2",
+      "recomputed": 76.5,
+      "registered_calculated": 76.5,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-40fb8faf8fb36a5809fe",
+      "recomputed": 10000.0,
+      "registered_calculated": 10000.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-b63acb826735c629617a",
+      "recomputed": 510,
+      "registered_calculated": 510,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-8acce34e85f88b93302c",
+      "recomputed": 8040,
+      "registered_calculated": 8040,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-18ee9bbc85f371e1c765",
+      "recomputed": 8040,
+      "registered_calculated": 8040,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-ff90c0e9d49216b14ca3",
+      "recomputed": 5360,
+      "registered_calculated": 5360,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-6b0cae72aff7d0abd734",
+      "recomputed": 9.711,
+      "registered_calculated": 9.711,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-95f077f839a273293323",
+      "recomputed": 5.229,
+      "registered_calculated": 5.229,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a6a8203d1253c51e2e17",
+      "recomputed": 1.5770000000000002,
+      "registered_calculated": 1.5770000000000002,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-178f3b91d58b87e61206",
+      "recomputed": 180,
+      "registered_calculated": 180,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-62b6f5e9af0d3592c282",
+      "recomputed": 20,
+      "registered_calculated": 20,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c7869ab4c1624a61119f",
+      "recomputed": 30255.0,
+      "registered_calculated": 30255.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-4898b91e88f287e3766e",
+      "recomputed": 14911.5,
+      "registered_calculated": 14911.5,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-65e97f79b5eb38ec5d37",
+      "recomputed": 516.26,
+      "registered_calculated": 516.26,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-f474f4c55459ad99f67c",
+      "recomputed": 54003.0,
+      "registered_calculated": 54003.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-bd08f4e9bedb55ca9f8b",
+      "recomputed": 3044.523,
+      "registered_calculated": 3044.523,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-134ee76192863784bef1",
+      "recomputed": 1067.463,
+      "registered_calculated": 1067.463,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-4389e19c579f0f9ff267",
+      "recomputed": 63521.28,
+      "registered_calculated": 63521.28,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-79d8c9438c86911ca577",
+      "recomputed": 64172.159999999996,
+      "registered_calculated": 64172.159999999996,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-5493e07c90991fea351d",
+      "recomputed": 64828.799999999996,
+      "registered_calculated": 64828.799999999996,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c3b08adb25846441c455",
+      "recomputed": 75790.8,
+      "registered_calculated": 75790.8,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-e6b38916b11da79010f4",
+      "recomputed": 76568.40000000001,
+      "registered_calculated": 76568.40000000001,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a34218820b2e504a5289",
+      "recomputed": 77353.2,
+      "registered_calculated": 77353.2,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-8de4fdfcd6b80f7b1b2a",
+      "recomputed": 32446.4,
+      "registered_calculated": 32446.4,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-689bbea793404f441058",
+      "recomputed": 32778.88,
+      "registered_calculated": 32778.88,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-56517775e4138ba558eb",
+      "recomputed": 33114.88,
+      "registered_calculated": 33114.88,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d5352309c332fd0ba9d3",
+      "recomputed": 129540.6,
+      "registered_calculated": 129540.6,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-956c974166391dedef73",
+      "recomputed": 125141.40000000001,
+      "registered_calculated": 125141.40000000001,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c430db01bcbb0f709d4a",
+      "recomputed": 120889.8,
+      "registered_calculated": 120889.8,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-fce2b1c9a80d42dc2925",
+      "recomputed": 11036.625,
+      "registered_calculated": 11036.625,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-937fa6e51244fad9b598",
+      "recomputed": 11149.75,
+      "registered_calculated": 11149.75,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-ccb663ff342954f3dbfe",
+      "recomputed": 11264.0,
+      "registered_calculated": 11264.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-969a2e4c8f3ccaf0e422",
+      "recomputed": 14517.0,
+      "registered_calculated": 14517.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c0c1dc5f80537a6e92b2",
+      "recomputed": 15034.759999999998,
+      "registered_calculated": 15034.759999999998,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-f723d3ad6892831f96e2",
+      "recomputed": 3255.75,
+      "registered_calculated": 3255.75,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-54b96343a0edba8a03ee",
+      "recomputed": 114.5,
+      "registered_calculated": 114.5,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-02e268b7c7799e12fe2c",
+      "recomputed": 476.25059999999996,
+      "registered_calculated": 476.25059999999996,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-16860e179b2c13ca691e",
+      "recomputed": 110.85459999999999,
+      "registered_calculated": 110.85459999999999,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-979fdaea48e7ac02cb78",
+      "recomputed": 63521.28,
+      "registered_calculated": 63521.28,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-298aa252279b9f388192",
+      "recomputed": 64172.159999999996,
+      "registered_calculated": 64172.159999999996,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-f6649dca547c1521db36",
+      "recomputed": 64828.799999999996,
+      "registered_calculated": 64828.799999999996,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-7de4deedbcbd87f91af8",
+      "recomputed": 75790.8,
+      "registered_calculated": 75790.8,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d253617012e0af0d32bd",
+      "recomputed": 76568.40000000001,
+      "registered_calculated": 76568.40000000001,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-59dede426f3f76306247",
+      "recomputed": 77353.2,
+      "registered_calculated": 77353.2,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-5c15461a126dc19c82d2",
+      "recomputed": 32446.4,
+      "registered_calculated": 32446.4,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d6f97db465f2fc10e8d6",
+      "recomputed": 32778.88,
+      "registered_calculated": 32778.88,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-7f2a080183293761803f",
+      "recomputed": 33114.88,
+      "registered_calculated": 33114.88,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-cdf008b03891ad446364",
+      "recomputed": 129540.6,
+      "registered_calculated": 129540.6,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-7afb73c1b14ce8a0ffb9",
+      "recomputed": 125141.40000000001,
+      "registered_calculated": 125141.40000000001,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-24b56d54640dbc3fb280",
+      "recomputed": 120889.8,
+      "registered_calculated": 120889.8,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-8d213570971e589adb26",
+      "recomputed": 11036.625,
+      "registered_calculated": 11036.625,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-4d204f8fdfbea1e71b68",
+      "recomputed": 11149.75,
+      "registered_calculated": 11149.75,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d1abe36a07a4932c727d",
+      "recomputed": 11264.0,
+      "registered_calculated": 11264.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-ed9d69e8c7f001b079e8",
+      "recomputed": 511.34999999999997,
+      "registered_calculated": 511.34999999999997,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-cb2aa6d1dc668aeaf3c2",
+      "recomputed": 527.31,
+      "registered_calculated": 527.31,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-b4f4bc895a475ee2bfa4",
+      "recomputed": 517.47,
+      "registered_calculated": 517.47,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-8e394d67f2931b680911",
+      "recomputed": 1796.0,
+      "registered_calculated": 1796.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-ef1e043dc91240b88b91",
+      "recomputed": 1700.0,
+      "registered_calculated": 1700.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-13b44615b29e29f332d3",
+      "recomputed": 2561.3500000000004,
+      "registered_calculated": 2561.3500000000004,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-dcf3b432695935865dba",
+      "recomputed": 4224.0,
+      "registered_calculated": 4224.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-894dfe23ec8c100152fe",
+      "recomputed": 3072.8500000000004,
+      "registered_calculated": 3072.8500000000004,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-292216f728d03f5a5c70",
+      "recomputed": 4100.0,
+      "registered_calculated": 4100.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-e0404a8c47f429dcb152",
+      "recomputed": 100.0,
+      "registered_calculated": 100.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d4004586a257f9c8aa4d",
+      "recomputed": 25.0,
+      "registered_calculated": 25.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-a95068d0fb980b844dc6",
+      "recomputed": 50.0,
+      "registered_calculated": 50.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-84ddc8e9af94eacab9cd",
+      "recomputed": 25.0,
+      "registered_calculated": 25.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d8ba89611b542061b690",
+      "recomputed": 100.0,
+      "registered_calculated": 100.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-56aa9c17e528b0c07b90",
+      "recomputed": 25.0,
+      "registered_calculated": 25.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-df98d9e55326582d7e60",
+      "recomputed": 71.0,
+      "registered_calculated": 71.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-ef38054771eab7ea4cbf",
+      "recomputed": 2260.0,
+      "registered_calculated": 2260.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-2a0fc202760d26961bd8",
+      "recomputed": 1796.0,
+      "registered_calculated": 1796.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c9dc95e3432422ab3f5d",
+      "recomputed": 1700.0,
+      "registered_calculated": 1700.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c5fd71bc1e6f9d5599c6",
+      "recomputed": 166.66666666666666,
+      "registered_calculated": 166.66666666666666,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-8f2686bdcbd1e665f6a4",
+      "recomputed": 10000.0,
+      "registered_calculated": 10000.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-b3db7dad645774f2ae4a",
+      "recomputed": 76.5,
+      "registered_calculated": 76.5,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-0c935e323ba7ee551d32",
+      "recomputed": 7798.0,
+      "registered_calculated": 7798.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-cceb1cd1f9bdf9b511c6",
+      "recomputed": 276.5,
+      "registered_calculated": 276.5,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-acfceb182e58c86dbf2c",
+      "recomputed": 3348.05,
+      "registered_calculated": 3348.05,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-83b2c89e1991deffb264",
+      "recomputed": 3528.0,
+      "registered_calculated": 3528.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-8bae6b52750eca961936",
+      "recomputed": 480.0,
+      "registered_calculated": 480.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-3bbd717d0448298209c1",
+      "recomputed": 12.0,
+      "registered_calculated": 12.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-102fed8aa8f08083fb50",
+      "recomputed": 480.0,
+      "registered_calculated": 480.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-927fe49032471e9a7f87",
+      "recomputed": 12.0,
+      "registered_calculated": 12.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-b92f82edd0234291e08a",
+      "recomputed": 588333.3333333333,
+      "registered_calculated": 588333.3333333333,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-d11c823dbd9b386f49d5",
+      "recomputed": 441799.5,
+      "registered_calculated": 441799.5,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-192f09c713126a06a3a2",
+      "recomputed": 2500.0,
+      "registered_calculated": 2500.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-27326c6ffd5f86a863d4",
+      "recomputed": 50.0,
+      "registered_calculated": 50.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-2f08d27ec2d5770045ff",
+      "recomputed": 100.0,
+      "registered_calculated": 100.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-70aa3a420ef3404cfe04",
+      "recomputed": 588333.3333333333,
+      "registered_calculated": 588333.3333333333,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-1b5dfb9648d3b0c1b53e",
+      "recomputed": 441799.5,
+      "registered_calculated": 441799.5,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-c74a079ee14d797f995b",
+      "recomputed": 2500.0,
+      "registered_calculated": 2500.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-34efce6eb068cc8ddbf4",
+      "recomputed": 50.0,
+      "registered_calculated": 50.0,
+      "match": true
+    },
+    {
+      "id": "QA-ROW-876cdc7b61012a47e086",
+      "recomputed": 100.0,
+      "registered_calculated": 100.0,
+      "match": true
+    }
+  ],
+  "report_derived_checks": [
+    {
+      "label": "TWIC component prior sum",
+      "actual": 430317,
+      "expected": 430317,
+      "match": true
+    },
+    {
+      "label": "TWIC component current sum",
+      "actual": 510471,
+      "expected": 510471,
+      "match": true
+    },
+    {
+      "label": "TWIC deltas",
+      "actual": 80154,
+      "expected": 80154,
+      "match": true
+    },
+    {
+      "label": "TWIC residual",
+      "actual": 0,
+      "expected": 0,
+      "match": true
+    },
+    {
+      "label": "PreCheck hours difference",
+      "actual": 53317,
+      "expected": 53317,
+      "match": true
+    },
+    {
+      "label": "PreCheck excluded components",
+      "actual": 53316,
+      "expected": 53316,
+      "match": true
+    },
+    {
+      "label": "PreCheck rounding residual",
+      "actual": 1,
+      "expected": 1,
+      "match": true
+    },
+    {
+      "label": "Cyber cost difference",
+      "actual": 56998.159999999974,
+      "expected": 56998.16,
+      "match": true
+    },
+    {
+      "label": "Cyber role hours",
+      "actual": 3200,
+      "expected": 3200,
+      "match": true
+    },
+    {
+      "label": "FCC approved bridge",
+      "actual": 15175,
+      "expected": 15175,
+      "match": true
+    },
+    {
+      "label": "FCC notice bridge",
+      "actual": 15175,
+      "expected": 15175,
+      "match": true
+    },
+    {
+      "label": "BLS weighted compensation, display",
+      "actual": 54.32,
+      "expected": 54.32,
+      "match": true
+    },
+    {
+      "label": "CBP displayed workload",
+      "actual": 576,
+      "expected": 576,
+      "match": true
+    }
+  ],
+  "scope": "Replay validates stated calculations and reporting counts; it does not adopt corrected official totals or validate behavioral assumptions."
+}

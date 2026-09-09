@@ -90,7 +90,7 @@ story=[];resolved=[];tablecount=figurecount=0;heading_records=[]
 def p(s,style='body',where=''):
  v=inline(s,where);story.append(Paragraph(v,styles[style]));resolved.append(citations(s) if '[[' in s else s)
 # Cover page without numbering.
-story+=[Spacer(1,72),Paragraph('TSA INFORMATION COLLECTIONS',ParagraphStyle('kicker',fontName='UIB',fontSize=10,leading=14,textColor=colors.HexColor(TEAL),spaceAfter=24)),Paragraph('Consistency and Defensibility<br/>of Burden and Cost Estimation<br/>Across TSA Information Collections',ParagraphStyle('title',fontName='UIB',fontSize=26,leading=34,textColor=colors.HexColor(NAVY),spaceAfter=24)),Paragraph('Comprehensive technical analytical report',ParagraphStyle('subtitle',fontName='UI',fontSize=13,leading=19,textColor=colors.HexColor(GRAY))),Spacer(1,34),Paragraph('Public evidence through September 9, 2026',styles['body']),Spacer(1,40),Paragraph('Comparable methods show substantial coherence.<br/>The principal observed control risks concern reconciliation<br/>within individual published Supporting Statements.',ParagraphStyle('coverfinding',fontName='Body',fontSize=12.3,leading=19,textColor=colors.HexColor(NAVY))),Spacer(1,35),Paragraph('An empirical analysis for economic analysts, program and policy partners, PRA practitioners, and analytical reviewers.',styles['note']),PageBreak()]
+story+=[Spacer(1,72),Paragraph('TSA INFORMATION COLLECTIONS',ParagraphStyle('kicker',fontName='UIB',fontSize=10,leading=14,textColor=colors.HexColor(TEAL),spaceAfter=24)),Paragraph('Consistency and Defensibility<br/>of Burden and Cost Estimation<br/>Across TSA Information Collections',ParagraphStyle('title',fontName='UIB',fontSize=26,leading=34,textColor=colors.HexColor(NAVY),spaceAfter=24)),Paragraph('Comprehensive technical analytical report',ParagraphStyle('subtitle',fontName='UI',fontSize=13,leading=19,textColor=colors.HexColor(GRAY))),Spacer(1,34),Paragraph('Public evidence through September 9, 2026',styles['body']),Spacer(1,40),Paragraph('Comparable methods show substantial coherence.<br/>The principal observed control risks concern reconciliation<br/>within individual published Supporting Statements.',ParagraphStyle('coverfinding',fontName='Body',fontSize=12.3,leading=19,textColor=colors.HexColor(NAVY))),Spacer(1,35),Paragraph('An empirical analysis for economic analysts, program and policy partners, Paperwork Reduction Act (PRA) practitioners, and analytical reviewers.',styles['note']),PageBreak()]
 # Contents is generated from section headings, not hard-coded page numbers.
 story.append(Paragraph('Contents',styles['h1']));toc=TableOfContents();toc.levelStyles=[ParagraphStyle('TOC',fontName='UI',fontSize=10,leading=14.5,spaceBefore=7,leftIndent=0,firstLineIndent=0,textColor=colors.HexColor(NAVY))];story.append(toc);story.append(PageBreak())
 def add_table(key):
@@ -115,7 +115,7 @@ for filename in ['report.md','appendices.md']:
   if b.startswith('## '):
    if entry_start is not None:
     story[entry_start:]=[KeepTogether(story[entry_start:])];entry_start=None
-   title=b[3:];story.append(PageBreak() if title.startswith(('1. Purpose','7. Within','Appendix ')) else CondPageBreak(135));p(title,'h1',where);continue
+   title=b[3:];story.append(PageBreak() if title.startswith(('1. Purpose','7. Within','14. Conclusion','Appendix ')) else CondPageBreak(135));p(title,'h1',where);continue
   if b.startswith('### '):
    if filename=='appendices.md':
     if entry_start is not None:story[entry_start:]=[KeepTogether(story[entry_start:])]

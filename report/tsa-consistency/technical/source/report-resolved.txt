@@ -144,9 +144,9 @@ Training record entry is separately estimated at one minute per record for freig
 
 4.3 Compensation and applicant-time components
 
-Two pipeline packages use compensation-loading ratios of 1.467370066 and 1.467370 with aligned source period and employee universe. Their difference is displayed precision. This supports a common treatment of the formula and precision convention, not a requirement that the same ratio apply to different years or worker populations. [10, 40]
+Two pipeline packages use compensation-loading ratios of 1.467370066 and 1.467370 with aligned source period and employee universe. Their difference is displayed precision. The first of these packages, 202601-1652-004, was pending. The comparison supports a common treatment of the formula and precision convention, not a requirement that the same ratio apply to different years or worker populations. [10, 40]
 
-The Federal Air Marshal Service (FAMS) and Transportation Security Officer (TSO) medical applicant statements share a $32.66 mean wage, a 1.4582 loading factor, and an 11-minute waiting assumption for the compared applicant component. Provider compensation and incumbent Federal employee travel have different actor boundaries. The agreement does not resolve the separate travel-proxy questions discussed in Section 6. [16, 23]
+The Federal Air Marshal Service (FAMS) medical package was pending at the evidence cutoff. Its published applicant estimate and the Transportation Security Officer (TSO) medical applicant statement share a $32.66 mean wage, a 1.4582 loading factor, and an 11-minute waiting assumption for the compared applicant component. Provider compensation and incumbent Federal employee travel have different actor boundaries. The agreement does not resolve the separate travel-proxy questions discussed in Section 6. [16, 23]
 
 HME and TWIC describe fee financing, and TWIC explicitly distinguishes excess revenue as a transfer. The consistency finding concerns that financing convention. It does not show that fee-funded activities have no resource cost or that fees should be added to underlying Federal costs to estimate total social cost. Gross resource use, fee receipts, and net budget effects remain different quantities. [26, 27]
 
@@ -154,7 +154,7 @@ HME and TWIC describe fee financing, and TWIC explicitly distinguishes excess re
 
 Cybersecurity implementation-plan reviews retain eight manager hours and 24 analyst hours per plan across surface and pipeline packages and their versions. This is one of the clearest examples of a reusable role-based activity structure. It is also the clearest demonstration that method consistency and output consistency are separate: the plan-review staffing component is consistent, while a later pipeline cost total does not reproduce from its displayed wages and workload. [6-10]
 
-Maryland Three familiarization remains a distinct half-hour step across renewal versions, separate from travel and the complete 5.75-hour process. Proposed cybersecurity operational implementation-plan legal review retains a four-hour Federal component across submissions; the 50 percent eligibility coefficient is separate. Those proposed submissions are not two implemented programs. The first had an improperly submitted outcome, and the later assigned-control submission had a proposed-rule comment outcome. [30, 31, 41, 42]
+Maryland Three familiarization remains a distinct half-hour step across renewal versions, separate from travel and the complete 5.75-hour process. Proposed cybersecurity operational implementation-plan (COIP) legal review retains a four-hour Federal component across submissions; the 50 percent eligibility coefficient is separate. Those proposed submissions are not two implemented programs. The first had an improperly submitted outcome, and the later assigned-control submission had a proposed-rule comment outcome. [30, 31, 41, 42]
 
 Other stable components include an eight-hour Law Enforcement Officers Safety Act (LEOSA) rejection-review request, a 30-minute maximum for pipeline physical-incident reporting, a one-hour Ronald Reagan Washington National Airport (DCA) Access Standard Security Program (DASSP) initial operator application coefficient, claim filing, a 130-second Secure Flight identity-transmission component, and a 10-minute canine adoption application. The incident-reporting statistic is a maximum, not a measured mean. DASSP field scope is not proven identical across versions, and neighboring armed-security-officer nomination work is excluded. Secure Flight resolution calls and visitor applications are outside the identity-transmission comparison. [22, 43-53]
 
@@ -178,7 +178,7 @@ Source: eight adjudicated task/method comparisons. Published explanations do not
 
 Comment-card processing distinguishes Federal security-threat triage, at 0.5 minute, from contractor reading and response selection, at five minutes. These are sequential functions performed by different actors. A ratio between their times would obscure the workflow rather than measure inconsistency. [12]
 
-The mobile driver's license (mDL) application example distinguishes 20 hours of initial work from five hours for resubmission of an insufficient application. The latter is an incremental 25 percent of initial effort. It is not an alternative that replaces all initial work. By contrast, credentialing pathways can be mutually exclusive when the source says online renewal avoids an in-person visit. A common architecture must express both additive follow-up work and exclusive alternatives. [17, 27, 29]
+The mobile driver's license (mDL) application example comes from package 202409-1652-003, which was improperly submitted. Its published construct distinguishes 20 hours of initial work from five hours for resubmission of an insufficient application. The latter is an incremental 25 percent of initial effort. It is not an alternative that replaces all initial work. By contrast, credentialing pathways can be mutually exclusive when the source says online renewal avoids an in-person visit. A common architecture must express both additive follow-up work and exclusive alternatives. [17, 27, 29]
 
 For bidders seeking Sensitive Security Information (SSI) access, the path with a criminal history records check (CHRC) includes fingerprinting and travel/wait activities that the no-CHRC path omits. Published totals of 116 and 15 minutes therefore have an observable scope explanation. Uniformity would be inappropriate if it removed work that one pathway actually includes. [20]
 
@@ -532,7 +532,7 @@ A03. Training record entry across surface modes
 
 **Disposition: Consistent.** Comparison type: within ICR. Package references: 202304-1652-002. [4]
 
-1 minute per record across freight rail, PTPR and OTRB. Source paragraphs isolate recordkeeping; training itself is outside this task.
+1 minute per record across freight rail, public transportation/passenger railroad and over-the-road bus. Source paragraphs isolate recordkeeping; training itself is outside this task.
 
 **Boundary.** No inference about actual respondent performance or agency intent.
 
@@ -564,7 +564,7 @@ A07. Loading variation by employee universe and source vintage
 
 **Disposition: Different, explained.** Comparison type: cross ICR. Package references: 202412-1652-001, 202406-1652-001. [1, 11]
 
-1.454667 full-time private industry, June 2024; 1.4582 transportation/material-moving source, March 2023. Different cited populations and periods explain why the ratios differ. This does not establish that each proxy is optimal; domestic paragraph also has a month-label ambiguity.
+1.454667 full-time private industry, June 2024; 1.4582 transportation and material moving source, March 2023. Different cited populations and periods explain why the ratios differ. This does not establish that each proxy is optimal; domestic paragraph also has a month-label ambiguity.
 
 **Boundary.** Explanation of numeric variation is not an endorsement of proxy selection; March/June wording ambiguity retained.
 
@@ -582,7 +582,7 @@ A09. Medical applicant travel assumptions
 
 FAMS uses 20 minutes each way; TSO uses 34 each way. Different studies visibly explain source selection. Primary Altarum brief describes diary-day travel rather than explicitly one-way travel; TSO doubling needs clarification. FAMS source surveys adults aged 50+, not a measured applicant sample.
 
-**Boundary.** Source-selection difference is observable; neither a corrected TSO total nor applicant-specific travel accuracy is established. See external-source-review.json.
+**Boundary.** Source-selection difference is observable; neither a corrected TSO total nor applicant-specific travel accuracy is established.
 
 A10. Online credential renewal times
 
@@ -620,9 +620,9 @@ A14. Federal amendment-review bundles
 
 **Disposition: Unresolved.** Comparison type: cross ICR. Package references: 202402-1652-002, 202411-1652-003. [2, 3]
 
-IAC 120 hours versus FAC 4 hours field review plus 6.75 hours headquarters review. IAC converts fifteen days into 120 hours without decomposition and pools TSA-issued and industry-requested amendments. FAC separately describes research/drafting and headquarters review. Identical case complexity and staffing are not established.
+indirect air carrier 120 hours versus foreign air carrier 4 hours field review plus 6.75 hours headquarters review. indirect air carrier converts fifteen days into 120 hours without decomposition and pools TSA-issued and industry-requested amendments. foreign air carrier separately describes research/drafting and headquarters review. Identical case complexity and staffing are not established.
 
-**Boundary.** No inference that a fifteen-day period is necessarily elapsed time or that the pooled IAC mean equals the industry-only mean.
+**Boundary.** No inference that a fifteen-day period is necessarily elapsed time or that the pooled indirect air carrier mean equals the industry-only mean.
 
 A15. Medical examination payer change
 
@@ -788,7 +788,7 @@ Maryland Three costs
 
 **Potentially inconsistent.** Annual published 208718 differs from displayed product 148194.405; per-person product 565.6275 differs from 563.63. [30, 31]
 
-Expression: 262 * 5.75 * 98.37. Calculated: 148,194.405; published/comparator: 208,718. Unit: USD; period: annual. Prior tolerance of 9 USD understated a conservative ±.005 hour input interval. Corrected interval remains far below 208718; major finding unchanged.
+Expression: 262 * 5.75 * 98.37. Calculated: 148,194.405; published/comparator: 208,718. Unit: USD; period: annual. A conservative input-rounding interval remains far below the published annual cost.
 
 Expression: 5.75 * 98.37. Calculated: 565.6275; published/comparator: 563.63. Unit: USD/person; period: per application. Displayed task times and wage do not reproduce per-person total; do not infer a copy/paste cause.
 
@@ -808,7 +808,7 @@ Expression: 1180050. Calculated: 1,180,050; published/comparator: 13,383. Unit: 
 
 EXIS populations
 
-**Potentially inconsistent.** Table 4 uses 95%of all limited users, whereas Table 3 applies 5%to new users. [34, 35]
+**Potentially inconsistent.** Table 4 uses 95% of all limited users, whereas Table 3 applies 5% to new users. [34, 35]
 
 Expression: stock - Table3 exercisers. Calculated: 12,564; published/comparator: 12,021.3. Unit: responses; period: 2025. Narrative subtracts Table 3 new-user exercisers; Table 4 instead applies 95% to total user stock. A different lifecycle assumption could explain table only by departing from the stated subtraction.
 
@@ -816,7 +816,7 @@ Expression: stock - Table3 exercisers. Calculated: 13,976.4; published/comparato
 
 Expression: stock - Table3 exercisers. Calculated: 15,513.7; published/comparator: 14,811.5. Unit: responses; period: 2027. Narrative subtracts Table 3 new-user exercisers; Table 4 instead applies 95% to total user stock. A different lifecycle assumption could explain table only by departing from the stated subtraction.
 
-**Evidence needed.** An explicit assumption that 5%of the entire stock exercises annually, replacing the new-user-only model.
+**Evidence needed.** An explicit assumption that 5% of the entire stock exercises annually, replacing the new-user-only model.
 
 LEO Federal cost
 
@@ -830,9 +830,9 @@ Expression: 83749 * .025 * 75.94 * 3. Calculated: 476,992.4295; published/compar
 
 Surface-cyber turnover
 
-**Potentially inconsistent.** Monthly-average 4%is used annually and combined with 9%residential mobility as contact changes. [9, 21]
+**Potentially inconsistent.** Monthly-average 4% is used annually and combined with 9% residential mobility as contact changes. [9, 21]
 
-**Evidence needed.** An explicit annual calibration of the 4%coefficient to coordinator posts plus a documented mobility/contact-update and overlap mapping.
+**Evidence needed.** An explicit annual calibration of the 4% coefficient to coordinator posts plus a documented mobility/contact-update and overlap mapping.
 
 PreCheck valuation
 
@@ -876,124 +876,124 @@ References
 
 Numbered citations identify the Supporting Statements and prior analytical sources used in the text, tables, and appendices. Package receipt dates identify the administrative version and do not necessarily equal document upload dates. The linked source document and package record provide the public retrieval route; the accompanying citation data retain exact archived locators. No new source search was conducted for this report.
 
-[1] DHS/TSA. Aircraft Operator Security, 49 CFR Part 1544. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202406-1652-001. OMB control 1652-0003. Package received 06/26/2024. Reviewed September 9, 2026.
+[1] Transportation Security Administration. Aircraft Operator Security, 49 CFR Part 1544. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202406-1652-001. OMB control 1652-0003. Package received 06/26/2024. Reviewed September 9, 2026.
 
-[2] DHS/TSA. Security Programs for Foreign Air Carriers. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1652-003. OMB control 1652-0005. Package received 12/05/2024. Reviewed September 9, 2026.
+[2] Transportation Security Administration. Security Programs for Foreign Air Carriers. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1652-003. OMB control 1652-0005. Package received 12/05/2024. Reviewed September 9, 2026.
 
-[3] DHS/TSA. Air Cargo Security Requirements. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202402-1652-002. OMB control 1652-0040. Package received 03/27/2024. Reviewed September 9, 2026.
+[3] Transportation Security Administration. Air Cargo Security Requirements. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202402-1652-002. OMB control 1652-0040. Package received 03/27/2024. Reviewed September 9, 2026.
 
-[4] DHS/TSA. Security Training Program for Surface Transportation Employees. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202304-1652-002. OMB control 1652-0066. Package received 05/01/2023. Reviewed September 9, 2026.
+[4] Transportation Security Administration. Security Training Program for Surface Transportation Employees. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202304-1652-002. OMB control 1652-0066. Package received 05/01/2023. Reviewed September 9, 2026.
 
-[5] DHS/TSA. Physical Surface Transportation Security. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202504-1652-004. OMB control 1652-0051. Package received 07/02/2025. Reviewed September 9, 2026.
+[5] Transportation Security Administration. Physical Surface Transportation Security. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202504-1652-004. OMB control 1652-0051. Package received 07/02/2025. Reviewed September 9, 2026.
 
-[6] DHS/TSA. Pipeline Corporate Security Review. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202207-1652-001. OMB control 1652-0056. Package received 07/27/2022. Reviewed September 9, 2026.
+[6] Transportation Security Administration. Pipeline Corporate Security Review. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202207-1652-001. OMB control 1652-0056. Package received 07/27/2022. Reviewed September 9, 2026.
 
-[7] DHS/TSA. Cybersecurity Measures for Surface Modes. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202210-1652-001. OMB control 1652-0074. Package received 10/26/2022. Reviewed September 9, 2026.
+[7] Transportation Security Administration. Cybersecurity Measures for Surface Modes. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202210-1652-001. OMB control 1652-0074. Package received 10/26/2022. Reviewed September 9, 2026.
 
-[8] DHS/TSA. Pipeline Corporate Security Reviews and Security Directives. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202212-1652-001. OMB control 1652-0056. Package received 01/09/2023. Reviewed September 9, 2026.
+[8] Transportation Security Administration. Pipeline Corporate Security Reviews and Security Directives. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202212-1652-001. OMB control 1652-0056. Package received 01/09/2023. Reviewed September 9, 2026.
 
-[9] DHS/TSA. Cybersecurity Measures for Surface Modes. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202303-1652-001. OMB control 1652-0074. Package received 03/10/2023. Reviewed September 9, 2026.
+[9] Transportation Security Administration. Cybersecurity Measures for Surface Modes. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202303-1652-001. OMB control 1652-0074. Package received 03/10/2023. Reviewed September 9, 2026.
 
-[10] DHS/TSA. Pipeline Corporate Security Reviews and TSA Security Directive Pipeline- 2021-02 Series. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202512-1652-001. OMB control 1652-0056. Package received 01/02/2026. Reviewed September 9, 2026.
+[10] Transportation Security Administration. Pipeline Corporate Security Reviews and TSA Security Directive Pipeline- 2021-02 Series. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202512-1652-001. OMB control 1652-0056. Package received 01/02/2026. Reviewed September 9, 2026.
 
-[11] DHS/TSA. Airport Security Part 1542. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202412-1652-001. OMB control 1652-0002. Package received 03/20/2025. Reviewed September 9, 2026.
+[11] Transportation Security Administration. Airport Security Part 1542. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202412-1652-001. OMB control 1652-0002. Package received 03/20/2025. Reviewed September 9, 2026.
 
-[12] DHS/TSA. TSA Customer Comment Tools. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202504-1652-006. OMB control 1652-0030. Package received 06/02/2025. Reviewed September 9, 2026.
+[12] Transportation Security Administration. TSA Customer Comment Tools. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202504-1652-006. OMB control 1652-0030. Package received 06/02/2025. Reviewed September 9, 2026.
 
-[13] DHS/TSA. Federal Flight Deck Officer (FFDO) Program. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1652-006. OMB control 1652-0011. Package received 12/06/2024. Reviewed September 9, 2026.
+[13] Transportation Security Administration. Federal Flight Deck Officer (FFDO) Program. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1652-006. OMB control 1652-0011. Package received 12/06/2024. Reviewed September 9, 2026.
 
-[14] DHS/TSA. Law Enforcement Officers (LEOs) Flying Armed. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202509-1652-001. OMB control 1652-0072. Package received 02/11/2026. Reviewed September 9, 2026.
+[14] Transportation Security Administration. Law Enforcement Officers (LEOs) Flying Armed. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202509-1652-001. OMB control 1652-0072. Package received 02/11/2026. Reviewed September 9, 2026.
 
-[15] DHS/TSA. Law Enforcement Officers (LEOs) Flying Armed. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202206-1652-001. OMB control 1652-0072. Package received 07/07/2022. Reviewed September 9, 2026.
+[15] Transportation Security Administration. Law Enforcement Officers (LEOs) Flying Armed. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202206-1652-001. OMB control 1652-0072. Package received 07/07/2022. Reviewed September 9, 2026.
 
-[16] DHS/TSA. Transportation Security Officer Medical Questionnaire. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202606-1652-003. OMB control 1652-0032. Package received 06/09/2026. Reviewed September 9, 2026.
+[16] Transportation Security Administration. Transportation Security Officer Medical Questionnaire. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202606-1652-003. OMB control 1652-0032. Package received 06/09/2026. Reviewed September 9, 2026.
 
-[17] DHS/TSA. Minimum Standards for Driver’s licenses and Identification Cards Acceptable by Federal Agencies for Official Purposes. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202409-1652-003. Package received 10/25/2024. Reviewed September 9, 2026.
+[17] Transportation Security Administration. Minimum Standards for Driver’s licenses and Identification Cards Acceptable by Federal Agencies for Official Purposes. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202409-1652-003. Package received 10/25/2024. Reviewed September 9, 2026.
 
-[18] DHS/TSA. DHS Traveler Redress Inquiry Program (DHS TRIP). Supporting Statement A, Items 12-15 and associated footnotes. ICR 202502-1652-003. OMB control 1652-0044. Package received 02/27/2025. Reviewed September 9, 2026.
+[18] Transportation Security Administration. DHS Traveler Redress Inquiry Program (DHS TRIP). Supporting Statement A, Items 12-15 and associated footnotes. ICR 202502-1652-003. OMB control 1652-0044. Package received 02/27/2025. Reviewed September 9, 2026.
 
-[19] DHS/TSA. DHS Traveler Redress Inquiry Program (DHS TRIP). Supporting Statement A, Items 12-15 and associated footnotes. ICR 202511-1652-001. OMB control 1652-0044. Package received 11/26/2025. Reviewed September 9, 2026.
+[19] Transportation Security Administration. DHS Traveler Redress Inquiry Program (DHS TRIP). Supporting Statement A, Items 12-15 and associated footnotes. ICR 202511-1652-001. OMB control 1652-0044. Package received 11/26/2025. Reviewed September 9, 2026.
 
-[20] DHS/TSA. Sensitive Security Information Threat Assesment Application. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1652-008. OMB control 1652-0042. Package received 12/17/2024. Reviewed September 9, 2026.
+[20] Transportation Security Administration. Sensitive Security Information Threat Assesment Application. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1652-008. OMB control 1652-0042. Package received 12/17/2024. Reviewed September 9, 2026.
 
-[21] DHS/TSA. Cybersecurity Measures for Surface Modes. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202606-1652-001. OMB control 1652-0074. Package received 09/01/2026. Reviewed September 9, 2026.
+[21] Transportation Security Administration. Cybersecurity Measures for Surface Modes. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202606-1652-001. OMB control 1652-0074. Package received 09/01/2026. Reviewed September 9, 2026.
 
-[22] DHS/TSA. Pipeline Operator Security Information. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202504-1652-005. OMB control 1652-0055. Package received 06/02/2025. Reviewed September 9, 2026.
+[22] Transportation Security Administration. Pipeline Operator Security Information. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202504-1652-005. OMB control 1652-0055. Package received 06/02/2025. Reviewed September 9, 2026.
 
-[23] DHS/TSA. Law Enforcement/Federal Air Marshal Service (OLE/FAMS) Physical and Mental Health Certification. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202605-1652-001. OMB control 1652-0043. Package received 09/04/2026. Reviewed September 9, 2026.
+[23] Transportation Security Administration. Law Enforcement/Federal Air Marshal Service (OLE/FAMS) Physical and Mental Health Certification. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202605-1652-001. OMB control 1652-0043. Package received 09/04/2026. Reviewed September 9, 2026.
 
-[24] Travel and Wait Times are Longest for Health Care Services. Altarum, 2019. PDF pages 1, 3, 5-6. Previously reviewed September 9, 2026; interpretation remains bounded by study population and measurement scope.
+[24] Travel and Wait Times are Longest for Health Care Services. Altarum. PDF pages 1, 3, 5-6. Previously reviewed September 9, 2026; interpretation remains bounded by study population and measurement scope.
 
 [25] Current and Maximum Acceptable Travel Times to Primary Care Among US Older Adults. JAMA Network Open, 2025. DOI: 10.1001/jamanetworkopen.2025.45280. Methods and Results. Previously reviewed September 9, 2026; interpretation remains bounded by study population and measurement scope.
 
-[26] DHS/TSA. Transportation Worker Identification Credential. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202504-1652-008. OMB control 1652-0047. Package received 05/05/2025. Reviewed September 9, 2026.
+[26] Transportation Security Administration. Transportation Worker Identification Credential. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202504-1652-008. OMB control 1652-0047. Package received 05/05/2025. Reviewed September 9, 2026.
 
-[27] DHS/TSA. Security Threat Assessment for Individuals Applying for a Hazardous Materials Endorsement for a Commercial Driver's License. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202606-1652-002. OMB control 1652-0027. Package received 08/21/2026. Reviewed September 9, 2026.
+[27] Transportation Security Administration. Security Threat Assessment for Individuals Applying for a Hazardous Materials Endorsement for a Commercial Driver's License. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202606-1652-002. OMB control 1652-0027. Package received 08/21/2026. Reviewed September 9, 2026.
 
-[28] DHS/TSA. TSA Pre-Check Application Program. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202605-1652-002. OMB control 1652-0059. Package received 06/03/2026. Reviewed September 9, 2026.
+[28] Transportation Security Administration. TSA Pre-Check Application Program. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202605-1652-002. OMB control 1652-0059. Package received 06/03/2026. Reviewed September 9, 2026.
 
-[29] DHS/TSA. Security Threat Assessment for Individuals Applying for a Hazardous Materials Endorsement for a Commercial Driver's License. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202502-1652-005. OMB control 1652-0027. Package received 02/27/2025. Reviewed September 9, 2026.
+[29] Transportation Security Administration. Security Threat Assessment for Individuals Applying for a Hazardous Materials Endorsement for a Commercial Driver's License. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202502-1652-005. OMB control 1652-0027. Package received 02/27/2025. Reviewed September 9, 2026.
 
-[30] DHS/TSA. Maryland-3 Airports: Enhanced Security Procedures at Certain Airports in the Washington, DC Area. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202501-1652-002. OMB control 1652-0029. Package received 05/05/2025. Reviewed September 9, 2026.
+[30] Transportation Security Administration. Maryland-3 Airports: Enhanced Security Procedures at Certain Airports in the Washington, DC Area. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202501-1652-002. OMB control 1652-0029. Package received 05/05/2025. Reviewed September 9, 2026.
 
-[31] DHS/TSA. Maryland-3 Airports: Enhanced Security Procedures at Certain Airports in the Washington, DC Area. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202112-1652-002. OMB control 1652-0029. Package received 01/06/2022. Reviewed September 9, 2026.
+[31] Transportation Security Administration. Maryland-3 Airports: Enhanced Security Procedures at Certain Airports in the Washington, DC Area. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202112-1652-002. OMB control 1652-0029. Package received 01/06/2022. Reviewed September 9, 2026.
 
-[32] DHS/TSA. Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202504-1652-003. OMB control 1652-0058. Package received 07/02/2025. Reviewed September 9, 2026.
+[32] Transportation Security Administration. Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202504-1652-003. OMB control 1652-0058. Package received 07/02/2025. Reviewed September 9, 2026.
 
-[33] DHS/TSA. Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202203-1652-004. OMB control 1652-0058. Package received 03/24/2022. Reviewed September 9, 2026.
+[33] Transportation Security Administration. Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202203-1652-004. OMB control 1652-0058. Package received 03/24/2022. Reviewed September 9, 2026.
 
-[34] DHS/TSA. Exercise Information System. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1652-004. OMB control 1652-0057. Package received 12/05/2024. Reviewed September 9, 2026.
+[34] Transportation Security Administration. Exercise Information System. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1652-004. OMB control 1652-0057. Package received 12/05/2024. Reviewed September 9, 2026.
 
-[35] TSA. 1652-0057 EXIS_Supp_Stmt 9.3.2021.docx. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202109-1652-001. Reviewed September 9, 2026.
+[35] Transportation Security Administration. Exercise Information System. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202109-1652-001. OMB control 1652-0057. Reviewed September 9, 2026.
 
-[36] DHS/TSA. TSA Pre-Check Application Program. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202407-1652-001. OMB control 1652-0059. Package received 09/06/2024. Reviewed September 9, 2026.
+[36] Transportation Security Administration. TSA Pre-Check Application Program. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202407-1652-001. OMB control 1652-0059. Package received 09/06/2024. Reviewed September 9, 2026.
 
 [37] Office of Management and Budget. Information Collection Review: TSA recent, active and pending package searches and control histories. Search snapshot September 9, 2026; agency/component 1652; recent receipt window September 9, 2021-September 9, 2026. Individual package identifiers and statuses are retained in the accompanying inventory table.
 
-[38] DHS/TSA. Flight Training Security Program. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202402-1652-001. OMB control 1652-0021. Package received 05/10/2024. Reviewed September 9, 2026.
+[38] Transportation Security Administration. Flight Training Security Program. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202402-1652-001. OMB control 1652-0021. Package received 05/10/2024. Reviewed September 9, 2026.
 
-[39] DHS/TSA. Law Enforcement Officer (LEO) Flying Armed Training. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1652-001. OMB control 1652-0034. Package received 11/26/2024. Reviewed September 9, 2026.
+[39] Transportation Security Administration. Law Enforcement Officer (LEO) Flying Armed Training. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1652-001. OMB control 1652-0034. Package received 11/26/2024. Reviewed September 9, 2026.
 
-[40] DHS/TSA. Critical Facility Information from the Top 100 Most Critical Pipeline Operators. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202601-1652-004. OMB control 1652-0050. Package received 05/07/2026. Reviewed September 9, 2026.
+[40] Transportation Security Administration. Critical Facility Information from the Top 100 Most Critical Pipeline Operators. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202601-1652-004. OMB control 1652-0050. Package received 05/07/2026. Reviewed September 9, 2026.
 
-[41] DHS/TSA. Enhancing Surface Cyber Risk Management. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202403-1652-002. Package received 04/18/2024. Reviewed September 9, 2026.
+[41] Transportation Security Administration. Enhancing Surface Cyber Risk Management. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202403-1652-002. Package received 04/18/2024. Reviewed September 9, 2026.
 
-[42] DHS/TSA. Enhancing Surface Cyber Risk Management. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202409-1652-001. OMB control 1652-0078. Package received 11/12/2024. Reviewed September 9, 2026.
+[42] Transportation Security Administration. Enhancing Surface Cyber Risk Management. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202409-1652-001. OMB control 1652-0078. Package received 11/12/2024. Reviewed September 9, 2026.
 
-[43] DHS/TSA. Law Enforcement Officers Safety Act (LEOSA) and Retired Badge/Credential. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202203-1652-006. OMB control 1652-0071. Package received 03/24/2022. Reviewed September 9, 2026.
+[43] Transportation Security Administration. Law Enforcement Officers Safety Act (LEOSA) and Retired Badge/Credential. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202203-1652-006. OMB control 1652-0071. Package received 03/24/2022. Reviewed September 9, 2026.
 
-[44] DHS/TSA. Law Enforcement Officers Safety Act (LEOSA) and Retired Badge/Credential. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202507-1652-001. OMB control 1652-0071. Package received 07/31/2025. Reviewed September 9, 2026.
+[44] Transportation Security Administration. Law Enforcement Officers Safety Act (LEOSA) and Retired Badge/Credential. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202507-1652-001. OMB control 1652-0071. Package received 07/31/2025. Reviewed September 9, 2026.
 
-[45] DHS/TSA. Pipeline Operator Security Information. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202109-1652-008. OMB control 1652-0055. Package received 10/14/2021. Reviewed September 9, 2026.
+[45] Transportation Security Administration. Pipeline Operator Security Information. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202109-1652-008. OMB control 1652-0055. Package received 10/14/2021. Reviewed September 9, 2026.
 
-[46] DHS/TSA. Enhanced Security Procedures at Ronald Reagan Washington National Airport (DCA). Supporting Statement A, Items 12-15 and associated footnotes. ICR 202205-1652-002. OMB control 1652-0035. Package received 05/24/2022. Reviewed September 9, 2026.
+[46] Transportation Security Administration. Enhanced Security Procedures at Ronald Reagan Washington National Airport (DCA). Supporting Statement A, Items 12-15 and associated footnotes. ICR 202205-1652-002. OMB control 1652-0035. Package received 05/24/2022. Reviewed September 9, 2026.
 
-[47] DHS/TSA. Enhanced Security Procedures at Ronald Reagan Washington National Airport (DCA). Supporting Statement A, Items 12-15 and associated footnotes. ICR 202503-1652-002. OMB control 1652-0035. Package received 04/23/2025. Reviewed September 9, 2026.
+[47] Transportation Security Administration. Enhanced Security Procedures at Ronald Reagan Washington National Airport (DCA). Supporting Statement A, Items 12-15 and associated footnotes. ICR 202503-1652-002. OMB control 1652-0035. Package received 04/23/2025. Reviewed September 9, 2026.
 
-[48] DHS/TSA. TSA Claims Application. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202202-1652-001. OMB control 1652-0039. Package received 02/17/2022. Reviewed September 9, 2026.
+[48] Transportation Security Administration. TSA Claims Application. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202202-1652-001. OMB control 1652-0039. Package received 02/17/2022. Reviewed September 9, 2026.
 
-[49] DHS/TSA. TSA Claims Application. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1652-007. OMB control 1652-0039. Package received 12/17/2024. Reviewed September 9, 2026.
+[49] Transportation Security Administration. TSA Claims Application. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1652-007. OMB control 1652-0039. Package received 12/17/2024. Reviewed September 9, 2026.
 
-[50] DHS/TSA. Secure Flight Program. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202301-1652-003. OMB control 1652-0046. Package received 01/24/2023. Reviewed September 9, 2026.
+[50] Transportation Security Administration. Secure Flight Program. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202301-1652-003. OMB control 1652-0046. Package received 01/24/2023. Reviewed September 9, 2026.
 
-[51] DHS/TSA. Secure Flight Program. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202508-1652-001. OMB control 1652-0046. Package received 12/11/2025. Reviewed September 9, 2026.
+[51] Transportation Security Administration. Secure Flight Program. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202508-1652-001. OMB control 1652-0046. Package received 12/11/2025. Reviewed September 9, 2026.
 
-[52] DHS/TSA. TSA Canine Training Center Adoption Application. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202303-1652-002. OMB control 1652-0067. Package received 03/20/2023. Reviewed September 9, 2026.
+[52] Transportation Security Administration. TSA Canine Training Center Adoption Application. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202303-1652-002. OMB control 1652-0067. Package received 03/20/2023. Reviewed September 9, 2026.
 
-[53] DHS/TSA. TSA Canine Training Center Adoption Application. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202601-1652-003. OMB control 1652-0067. Package received 04/14/2026. Reviewed September 9, 2026.
+[53] Transportation Security Administration. TSA Canine Training Center Adoption Application. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202601-1652-003. OMB control 1652-0067. Package received 04/14/2026. Reviewed September 9, 2026.
 
-[54] DHS/TSA. Transportation Worker Identification Credential. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202502-1652-004. OMB control 1652-0047. Package received 02/27/2025. Reviewed September 9, 2026.
+[54] Transportation Security Administration. Transportation Worker Identification Credential. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202502-1652-004. OMB control 1652-0047. Package received 02/27/2025. Reviewed September 9, 2026.
 
-[55] DOL/BLS. OMB Supporting Statement Part A -1-24-24.docx. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202310-1220-004. OMB control 1220-0164. Document date 01/24/2024. Reviewed September 9, 2026.
+[55] Bureau of Labor Statistics. National Compensation Survey. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202310-1220-004. OMB control 1220-0164. Recorded document upload date 01/24/2024. Reviewed September 9, 2026.
 
 [56] Federal ICR Items 12-15 Benchmark: canonical analytical model and data dictionary. September 9, 2026. Source-to-input, compensation, population, validation, baseline/change and generated-output architecture. Prior analytical design used selectively in this report.
 
 [57] Federal ICR Items 12-15 Benchmark Report. September 9, 2026. Comparative analysis of 73 recent Federal ICRs and distributed methodological strengths; selective reference to the four cases identified in Section 9.
 
-[58] DOC/CENSUS. AIES Supporting Statement A_OMB_Final.docx. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202310-0607-003. OMB control 0607-1024. Document date 02/07/2024. Reviewed September 9, 2026.
+[58] U.S. Census Bureau. Annual Integrated Economic Survey. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202310-0607-003. OMB control 0607-1024. Recorded document upload date 02/07/2024. Reviewed September 9, 2026.
 
-[59] FCC. Revised April 2025 IPCS Rules Supporting Statement_Final Version.docx. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202503-3060-020. OMB control 3060-1222. Document date 04/01/2025. Reviewed September 9, 2026.
+[59] Federal Communications Commission. Incarcerated People’s Communications Services (IPCS) Provider Annual Reporting, Certification, and Other Requirements, WC Docket Nos. 23-62, 12-375. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202503-3060-020. OMB control 3060-1222. Recorded document upload date 04/01/2025. Reviewed September 9, 2026.
 
-[60] DHS/USCBP. 05-2025 ROCIS Supporting Statement 1651-0NEW Global Interoperability Standard (GIS).docx. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1651-004. OMB control 1651-0148. Document date 05/12/2025. Reviewed September 9, 2026.
+[60] U.S. Customs and Border Protection. Global Interoperability Standards (GIS). Supporting Statement A, Items 12-15 and associated footnotes. ICR 202411-1651-004. OMB control 1651-0148. Recorded document upload date 05/12/2025. Reviewed September 9, 2026.
 
-[61] DHS/TSA. Crew Member Self-Defense Training - Registration and Evaluation. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202405-1652-002. OMB control 1652-0028. Package received 09/13/2024. Reviewed September 9, 2026.
+[61] Transportation Security Administration. Crew Member Self-Defense Training - Registration and Evaluation. Supporting Statement A, Items 12-15 and associated footnotes. ICR 202405-1652-002. OMB control 1652-0028. Package received 09/13/2024. Reviewed September 9, 2026.

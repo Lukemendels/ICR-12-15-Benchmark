@@ -1,0 +1,451 @@
+{
+  "status": "PASS",
+  "page_count": 55,
+  "pdf_sha256": "f06b03b911c1beb829006f6e5a2d3cb6ebbab00fb068372aa782e1fc7b40c0b4",
+  "bounds_errors": [],
+  "replacement_glyph_pages": [],
+  "blank_pages": [],
+  "pages": [
+    {
+      "pdf_page": 1,
+      "body_characters": 498,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 554.369873046875,
+      "image_count": 0,
+      "text_sha256": "9808a2b6e8075779509bf56cf837c9c585985c4ed85752b7e7b6cace3113e149"
+    },
+    {
+      "pdf_page": 2,
+      "body_characters": 614,
+      "body_min_font": 10.0,
+      "body_bottom": 722.40234375,
+      "image_count": 0,
+      "text_sha256": "e492ca64bb2f2d414f7b10c94f4079b0d84786acc844ba2593eb5d459555bd94"
+    },
+    {
+      "pdf_page": 3,
+      "body_characters": 3520,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 728.8504028320312,
+      "image_count": 0,
+      "text_sha256": "a027c25293743518c4ad22b1d910e5c4525d9f71d7f5cc514e82fe99d44e492f"
+    },
+    {
+      "pdf_page": 4,
+      "body_characters": 2180,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 461.6503601074219,
+      "image_count": 0,
+      "text_sha256": "ea83ea7226a44a1aaa2a208229c5dd4d01b7c9ca17eeb0f2a4df008f31d9683b"
+    },
+    {
+      "pdf_page": 5,
+      "body_characters": 3139,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 733.650390625,
+      "image_count": 0,
+      "text_sha256": "3de2667f7e76f81e85b107301c5a8700d3866c0e3a45102ba5f8d8ad0ed2a880"
+    },
+    {
+      "pdf_page": 6,
+      "body_characters": 3146,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 731.650390625,
+      "image_count": 0,
+      "text_sha256": "92abec788aef4c317d6b6fb7df077b056a68f00e3d0cceb51beda09fd4e2714c"
+    },
+    {
+      "pdf_page": 7,
+      "body_characters": 2329,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 656.7504272460938,
+      "image_count": 0,
+      "text_sha256": "ebed9707848414026b712a0ccd3e9f0f239103e9c128029e8be048bdab528797"
+    },
+    {
+      "pdf_page": 8,
+      "body_characters": 3075,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 713.8504028320312,
+      "image_count": 0,
+      "text_sha256": "48bbc5def30b06cbba0e37df0a3eb2f43b8776a8bd73303d92e2938b47183fba"
+    },
+    {
+      "pdf_page": 9,
+      "body_characters": 293,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 422.7406005859375,
+      "image_count": 1,
+      "text_sha256": "8f7b3ae5917dc339a5c5de88bd818536ddb9892ac5e4e44798394bbdbd3b77be"
+    },
+    {
+      "pdf_page": 10,
+      "body_characters": 1471,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 528.2504272460938,
+      "image_count": 0,
+      "text_sha256": "8f1d5c5a46ad505e16ddd5983192e8337def7c0e8f4dc5153c50fd7d7436b2c6"
+    },
+    {
+      "pdf_page": 11,
+      "body_characters": 1492,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 708.3504028320312,
+      "image_count": 0,
+      "text_sha256": "6a5a23929edb40f7e0728ec5a62b34ba1069de779de826ed0c6a4446ac48698a"
+    },
+    {
+      "pdf_page": 12,
+      "body_characters": 2578,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 641.0504150390625,
+      "image_count": 0,
+      "text_sha256": "5ba9f37710e032ada8eccb9b6b91d4103b6eb652c1503ee0ab45ffe5fb09d131"
+    },
+    {
+      "pdf_page": 13,
+      "body_characters": 2775,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 610.650390625,
+      "image_count": 0,
+      "text_sha256": "cd0f08d9ebca7a75b1cf42b61e5323cc686c588e724de544ace7193141eff9f0"
+    },
+    {
+      "pdf_page": 14,
+      "body_characters": 2898,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 715.2504272460938,
+      "image_count": 0,
+      "text_sha256": "e486aacb586e6d9e15fd7f10852acbf2a1545306d392f83fd44a70aacd569e8f"
+    },
+    {
+      "pdf_page": 15,
+      "body_characters": 2735,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 729.650390625,
+      "image_count": 0,
+      "text_sha256": "8fe29f259e88af2b985a1dab637d675cca6c525eb382901032400b2bb91eb919"
+    },
+    {
+      "pdf_page": 16,
+      "body_characters": 2485,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 594.0504150390625,
+      "image_count": 0,
+      "text_sha256": "7792ccab782b22da3ba414bb143d91271cdfae92e0fb842197eac2d9491c2358"
+    },
+    {
+      "pdf_page": 17,
+      "body_characters": 2556,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 723.869873046875,
+      "image_count": 0,
+      "text_sha256": "2db400cf372eda4345974be73552dc35cba732036ea09c38c25e594c6d6addc4"
+    },
+    {
+      "pdf_page": 18,
+      "body_characters": 3320,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 728.650390625,
+      "image_count": 0,
+      "text_sha256": "978fdb43e9b6bf03acf2e3649811117e36f7858221829a06cdeb84f0f517a12e"
+    },
+    {
+      "pdf_page": 19,
+      "body_characters": 2166,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 693.7504272460938,
+      "image_count": 0,
+      "text_sha256": "6692f2431ab90e6c112d233f3ca8b0e60dbf117f8180ab6b3dd2561b8d2fd252"
+    },
+    {
+      "pdf_page": 20,
+      "body_characters": 2815,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 701.8504028320312,
+      "image_count": 0,
+      "text_sha256": "a4d6c68397d0be02ee2179f6247319242ae49de194e9aeb8f43841977eacf044"
+    },
+    {
+      "pdf_page": 21,
+      "body_characters": 3109,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 705.650390625,
+      "image_count": 0,
+      "text_sha256": "a78fc42c6055d123c50a1e4ade0e77cb0e3108d26f247311d399b263b923db7d"
+    },
+    {
+      "pdf_page": 22,
+      "body_characters": 3233,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 735.2504272460938,
+      "image_count": 0,
+      "text_sha256": "a9c67c50f7aeca56fd7466a0ccf8602ee7dbbaf79cbab23492cefc4ccabb6157"
+    },
+    {
+      "pdf_page": 23,
+      "body_characters": 2884,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 662.4503784179688,
+      "image_count": 0,
+      "text_sha256": "8aa62bd7f98b1cbe80e63bfdf91c378f4f14badf917b46475ca2f9f8105a8978"
+    },
+    {
+      "pdf_page": 24,
+      "body_characters": 1088,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 717.2215576171875,
+      "image_count": 1,
+      "text_sha256": "222f11b45b3c0c31a2cdbbf45950704edf62326212ffa406eaaa7d2b51029a09"
+    },
+    {
+      "pdf_page": 25,
+      "body_characters": 1244,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 660.902099609375,
+      "image_count": 1,
+      "text_sha256": "2c2f9e1e8ffc4d05c75e9646d5e777357a6f0e1bc70f554058bc5581b77df007"
+    },
+    {
+      "pdf_page": 26,
+      "body_characters": 1796,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 700.0504150390625,
+      "image_count": 0,
+      "text_sha256": "af44158db35b558e22f029cb558e7a675039b2d4b8937b71d63cf95a01e8558b"
+    },
+    {
+      "pdf_page": 27,
+      "body_characters": 3140,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 728.650390625,
+      "image_count": 0,
+      "text_sha256": "5f4832c0a99737ccfc5f8ec5331fc867309cf0a6f086a3a03a01d607996f0102"
+    },
+    {
+      "pdf_page": 28,
+      "body_characters": 2186,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 650.5504150390625,
+      "image_count": 0,
+      "text_sha256": "8c381b3113bc298a7992685bf3aa164eaea9dd5ccb8cb119d3c5deefd5bdb7d1"
+    },
+    {
+      "pdf_page": 29,
+      "body_characters": 2545,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 656.0504150390625,
+      "image_count": 0,
+      "text_sha256": "def8b2d74850a2973243e67d694c3c49aef9e2571ffd340bb6e8bbb9a807bd74"
+    },
+    {
+      "pdf_page": 30,
+      "body_characters": 2774,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 714.8504028320312,
+      "image_count": 0,
+      "text_sha256": "f67814c2e5139418e5ea1cc727301ba151e85a61763c99a0bc588126d01bcc06"
+    },
+    {
+      "pdf_page": 31,
+      "body_characters": 700,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 568.1384887695312,
+      "image_count": 1,
+      "text_sha256": "5d555119b94e0de17bc7a2ae8466851f0c5016972c22004d147c5ea2f2647c73"
+    },
+    {
+      "pdf_page": 32,
+      "body_characters": 2200,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 645.7504272460938,
+      "image_count": 0,
+      "text_sha256": "bbdf202ac8c5aab4db9e79ece835f7a5e1767418a36887ade0e290efda63c569"
+    },
+    {
+      "pdf_page": 33,
+      "body_characters": 2584,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 641.2504272460938,
+      "image_count": 0,
+      "text_sha256": "66d2b3dbfd1e49769f1339b1a2fedce34371465dabc41049a63e8e823a08d50f"
+    },
+    {
+      "pdf_page": 34,
+      "body_characters": 2418,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 724.7504272460938,
+      "image_count": 0,
+      "text_sha256": "1bd0febb91facff03bda335bcb4200cd1db52af1b7209ad81de7c82816a5fe24"
+    },
+    {
+      "pdf_page": 35,
+      "body_characters": 2973,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 723.0504150390625,
+      "image_count": 0,
+      "text_sha256": "0d2c95da0cd089c628532a691e0ad52a729bf3fda452b95918488986cf55d1ef"
+    },
+    {
+      "pdf_page": 36,
+      "body_characters": 1972,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 456.0503845214844,
+      "image_count": 0,
+      "text_sha256": "22bd1acf7415711f09511dc2b24560841d6a4fc566c01efd7c7f69dd37bd3075"
+    },
+    {
+      "pdf_page": 37,
+      "body_characters": 1340,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 341.6503601074219,
+      "image_count": 0,
+      "text_sha256": "1f454fb558ce41df9e1ea8ae3badd5ace2e675c4d79e98d072ce3c34fc36ab1d"
+    },
+    {
+      "pdf_page": 38,
+      "body_characters": 2224,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 735.650390625,
+      "image_count": 0,
+      "text_sha256": "fe9322581a873086a58b3835110e7deddd68133da6c7756fab50e597e10cd5c2"
+    },
+    {
+      "pdf_page": 39,
+      "body_characters": 1947,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 641.8504028320312,
+      "image_count": 0,
+      "text_sha256": "94759b9dd7173c60da7f22ff48455c879b09cdfe2a48e7e9459edf39bf8b5798"
+    },
+    {
+      "pdf_page": 40,
+      "body_characters": 2026,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 686.2504272460938,
+      "image_count": 0,
+      "text_sha256": "710849e77c4d5d8d9c0f0f2c87ce9c50f6f8bd9a9e64a12b68839935cf357e54"
+    },
+    {
+      "pdf_page": 41,
+      "body_characters": 2075,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 671.4503784179688,
+      "image_count": 0,
+      "text_sha256": "72aa43cc97e29e4b87e20e718d6c75428253128e5626637d6e533cf03d42ce33"
+    },
+    {
+      "pdf_page": 42,
+      "body_characters": 1939,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 641.8504028320312,
+      "image_count": 0,
+      "text_sha256": "c9eecf654cdda0a06d02085c2a16042744eae8e10e538b3aad75abfb790f5a5c"
+    },
+    {
+      "pdf_page": 43,
+      "body_characters": 1984,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 656.650390625,
+      "image_count": 0,
+      "text_sha256": "4cea00b04a2ad172b0ed0092c4bf28dc8dba0f1b06699d246ed0d25a7edb240f"
+    },
+    {
+      "pdf_page": 44,
+      "body_characters": 1938,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 641.8504028320312,
+      "image_count": 0,
+      "text_sha256": "c7074e6cb7d290f382ba8d3a5a7cd828a0910ca1ec3203d5a755feddbd4ad96a"
+    },
+    {
+      "pdf_page": 45,
+      "body_characters": 1719,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 612.2504272460938,
+      "image_count": 0,
+      "text_sha256": "9383c56698db72c7158c09c1142ebf7489a654549bec3e4aae75adb302256da8"
+    },
+    {
+      "pdf_page": 46,
+      "body_characters": 2209,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 662.0504150390625,
+      "image_count": 0,
+      "text_sha256": "0b32cf4375d1af341b6f52d9d19cc2a6f2584ebc2ae502ef38da46c4d27e4148"
+    },
+    {
+      "pdf_page": 47,
+      "body_characters": 2197,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 613.0504150390625,
+      "image_count": 0,
+      "text_sha256": "8b74aad79363898b8da543ceff778d1c37b9e8ba0ee9fab3a435626a71eab989"
+    },
+    {
+      "pdf_page": 48,
+      "body_characters": 1866,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 633.8504028320312,
+      "image_count": 0,
+      "text_sha256": "989747958f1d6561ae52ad6250e0e8af010a74d71571bb4270a69febbfc62352"
+    },
+    {
+      "pdf_page": 49,
+      "body_characters": 2496,
+      "body_min_font": 10.199999809265137,
+      "body_bottom": 612.8504028320312,
+      "image_count": 0,
+      "text_sha256": "db6093477c4d15180feb342df23f00f5954fbf48bfcc1f23519a739012ebb952"
+    },
+    {
+      "pdf_page": 50,
+      "body_characters": 3420,
+      "body_min_font": 8.199999809265137,
+      "body_bottom": 733.2341918945312,
+      "image_count": 0,
+      "text_sha256": "9f1f77eaf9dcbcc4beca8227536a2f87306be8a41558236cc5ba7d8e289751b8"
+    },
+    {
+      "pdf_page": 51,
+      "body_characters": 3285,
+      "body_min_font": 9.300000190734863,
+      "body_bottom": 701.8341674804688,
+      "image_count": 0,
+      "text_sha256": "7922ddec57b9dede50b0abe9eb740d020295b2d0ce9187723849ab6f745c7a6b"
+    },
+    {
+      "pdf_page": 52,
+      "body_characters": 3546,
+      "body_min_font": 9.300000190734863,
+      "body_bottom": 688.5341796875,
+      "image_count": 0,
+      "text_sha256": "c68586a5d88b20a7ed0a4dfc35d82bc324df3e7efdad600686af6728ed1cbc90"
+    },
+    {
+      "pdf_page": 53,
+      "body_characters": 3648,
+      "body_min_font": 9.300000190734863,
+      "body_bottom": 724.1342163085938,
+      "image_count": 0,
+      "text_sha256": "65d3b3d022193311aeaf8c7183547d28f30d6bac177f6afcfb4c6062122ae076"
+    },
+    {
+      "pdf_page": 54,
+      "body_characters": 3486,
+      "body_min_font": 9.300000190734863,
+      "body_bottom": 697.5341796875,
+      "image_count": 0,
+      "text_sha256": "1438b31461fcbc98a87111d4abfcaffb476b77067796111a2c2896ef688a45e2"
+    },
+    {
+      "pdf_page": 55,
+      "body_characters": 1511,
+      "body_min_font": 9.300000190734863,
+      "body_bottom": 341.9342041015625,
+      "image_count": 0,
+      "text_sha256": "6603fc79da59fad31bb1820576ec87198c41cbd33cfc4945017fd5e5d8e3ef11"
+    }
+  ],
+  "visual_review": "Separate visual-inspection.json must match the final PDF hash."
+}

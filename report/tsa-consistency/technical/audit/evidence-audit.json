@@ -1,0 +1,1644 @@
+{
+  "status": "PASS",
+  "source_locator_instances": 325,
+  "exact_matches": 325,
+  "cited_record_count": 45,
+  "paragraph_mapping": "citation-use.json",
+  "source_mapping": "claim-source-locators.json",
+  "locator_replay": [
+    {
+      "record_id": "CMP-01",
+      "locator": "mission-3/sources/202406-1652-001/a895125d1fb1ab4d.txt:L122",
+      "match": true
+    },
+    {
+      "record_id": "CMP-01",
+      "locator": "mission-3/sources/202411-1652-003/e2f3e7d603d2ca71.txt:L83",
+      "match": true
+    },
+    {
+      "record_id": "CMP-01",
+      "locator": "mission-3/sources/202402-1652-002/e7d4bdb069c78749.txt:L104",
+      "match": true
+    },
+    {
+      "record_id": "CMP-02",
+      "locator": "mission-3/sources/202304-1652-002/02f2c1d790421fdd.txt:L118",
+      "match": true
+    },
+    {
+      "record_id": "CMP-02",
+      "locator": "mission-3/sources/202304-1652-002/02f2c1d790421fdd.txt:L129",
+      "match": true
+    },
+    {
+      "record_id": "CMP-02",
+      "locator": "mission-3/sources/202304-1652-002/02f2c1d790421fdd.txt:L140",
+      "match": true
+    },
+    {
+      "record_id": "CMP-02",
+      "locator": "mission-3/sources/202504-1652-004/1d1cba8760d91677.txt:L109",
+      "match": true
+    },
+    {
+      "record_id": "CMP-03",
+      "locator": "mission-3/sources/202304-1652-002/02f2c1d790421fdd.txt:L164",
+      "match": true
+    },
+    {
+      "record_id": "CMP-03",
+      "locator": "mission-3/sources/202304-1652-002/02f2c1d790421fdd.txt:L175",
+      "match": true
+    },
+    {
+      "record_id": "CMP-03",
+      "locator": "mission-3/sources/202304-1652-002/02f2c1d790421fdd.txt:L186",
+      "match": true
+    },
+    {
+      "record_id": "CMP-04",
+      "locator": "mission-3/sources/202412-1652-001/a5016d2bfc99e07f.txt:L7",
+      "match": true
+    },
+    {
+      "record_id": "CMP-04",
+      "locator": "mission-3/sources/202412-1652-001/a5016d2bfc99e07f.txt:L144",
+      "match": true
+    },
+    {
+      "record_id": "CMP-04",
+      "locator": "mission-3/sources/202406-1652-001/a895125d1fb1ab4d.txt:L122",
+      "match": true
+    },
+    {
+      "record_id": "CMP-05",
+      "locator": "mission-3/sources/202606-1652-001/b4c6f91a6ebc5180.txt:L183",
+      "match": true
+    },
+    {
+      "record_id": "CMP-05",
+      "locator": "mission-3/sources/202606-1652-001/b4c6f91a6ebc5180.txt:L185",
+      "match": true
+    },
+    {
+      "record_id": "CMP-05",
+      "locator": "mission-3/sources/202504-1652-005/9b52414d3682ca71.txt:L107",
+      "match": true
+    },
+    {
+      "record_id": "CMP-05",
+      "locator": "mission-3/sources/202504-1652-005/9b52414d3682ca71.txt:L169",
+      "match": true
+    },
+    {
+      "record_id": "CMP-06",
+      "locator": "mission-3/sources/202601-1652-004/bdc1aca1363f9259.txt:L140",
+      "match": true
+    },
+    {
+      "record_id": "CMP-06",
+      "locator": "mission-3/sources/202512-1652-001/e21e863d84c9cbf0.txt:L259",
+      "match": true
+    },
+    {
+      "record_id": "CMP-07",
+      "locator": "mission-3/sources/202412-1652-001/a5016d2bfc99e07f.txt:L294",
+      "match": true
+    },
+    {
+      "record_id": "CMP-07",
+      "locator": "mission-3/sources/202406-1652-001/a895125d1fb1ab4d.txt:L254",
+      "match": true
+    },
+    {
+      "record_id": "CMP-08",
+      "locator": "mission-3/sources/202605-1652-001/af0654b8aa99fbd8.txt:L55",
+      "match": true
+    },
+    {
+      "record_id": "CMP-08",
+      "locator": "mission-3/sources/202605-1652-001/af0654b8aa99fbd8.txt:L73",
+      "match": true
+    },
+    {
+      "record_id": "CMP-08",
+      "locator": "mission-3/sources/202606-1652-003/7e92d50279d4ee1d.txt:L66",
+      "match": true
+    },
+    {
+      "record_id": "CMP-08",
+      "locator": "mission-3/sources/202606-1652-003/7e92d50279d4ee1d.txt:L68",
+      "match": true
+    },
+    {
+      "record_id": "CMP-09",
+      "locator": "mission-3/sources/202605-1652-001/af0654b8aa99fbd8.txt:L73",
+      "match": true
+    },
+    {
+      "record_id": "CMP-09",
+      "locator": "mission-3/sources/202605-1652-001/af0654b8aa99fbd8.txt:L136",
+      "match": true
+    },
+    {
+      "record_id": "CMP-09",
+      "locator": "mission-3/sources/202606-1652-003/7e92d50279d4ee1d.txt:L66",
+      "match": true
+    },
+    {
+      "record_id": "CMP-09",
+      "locator": "mission-3/sources/202606-1652-003/7e92d50279d4ee1d.txt:L122",
+      "match": true
+    },
+    {
+      "record_id": "CMP-09",
+      "locator": "mission-3/sources/202606-1652-003/7e92d50279d4ee1d.txt:L123",
+      "match": true
+    },
+    {
+      "record_id": "CMP-09",
+      "locator": "mission-3/sources/202606-1652-003/7e92d50279d4ee1d.txt:L124",
+      "match": true
+    },
+    {
+      "record_id": "CMP-09",
+      "locator": "mission-3/sources/202606-1652-003/7e92d50279d4ee1d.txt:L125",
+      "match": true
+    },
+    {
+      "record_id": "CMP-10",
+      "locator": "mission-3/sources/202504-1652-008/ec91651842d62d7c.txt:L58",
+      "match": true
+    },
+    {
+      "record_id": "CMP-10",
+      "locator": "mission-3/sources/202504-1652-008/ec91651842d62d7c.txt:L140",
+      "match": true
+    },
+    {
+      "record_id": "CMP-10",
+      "locator": "mission-3/sources/202606-1652-002/00a9c8c3eeb406bf.txt:L217",
+      "match": true
+    },
+    {
+      "record_id": "CMP-10",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L238",
+      "match": true
+    },
+    {
+      "record_id": "CMP-10",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L251",
+      "match": true
+    },
+    {
+      "record_id": "CMP-11",
+      "locator": "mission-3/sources/202504-1652-006/caa362cc8f9f7bcf.txt:L119",
+      "match": true
+    },
+    {
+      "record_id": "CMP-12",
+      "locator": "mission-3/sources/202411-1652-006/c1c6fc1c79e0a1b2.txt:L13",
+      "match": true
+    },
+    {
+      "record_id": "CMP-12",
+      "locator": "mission-3/sources/202411-1652-006/c1c6fc1c79e0a1b2.txt:L95",
+      "match": true
+    },
+    {
+      "record_id": "CMP-13",
+      "locator": "mission-3/sources/202509-1652-001/93787579c5ece659.txt:L64",
+      "match": true
+    },
+    {
+      "record_id": "CMP-13",
+      "locator": "mission-3/sources/202509-1652-001/93787579c5ece659.txt:L86",
+      "match": true
+    },
+    {
+      "record_id": "CMP-13",
+      "locator": "mission-3/sources/202206-1652-001/7874f8a5e3aab5f2.txt:L53",
+      "match": true
+    },
+    {
+      "record_id": "CMP-14",
+      "locator": "mission-3/sources/202402-1652-002/e7d4bdb069c78749.txt:L141",
+      "match": true
+    },
+    {
+      "record_id": "CMP-14",
+      "locator": "mission-3/sources/202411-1652-003/e2f3e7d603d2ca71.txt:L123",
+      "match": true
+    },
+    {
+      "record_id": "CMP-14",
+      "locator": "mission-3/sources/202411-1652-003/e2f3e7d603d2ca71.txt:L125",
+      "match": true
+    },
+    {
+      "record_id": "CMP-15",
+      "locator": "mission-3/sources/202606-1652-003/7e92d50279d4ee1d.txt:L103",
+      "match": true
+    },
+    {
+      "record_id": "CMP-16",
+      "locator": "mission-3/sources/202207-1652-001/4904ecec8803db9f.txt:L206",
+      "match": true
+    },
+    {
+      "record_id": "CMP-16",
+      "locator": "mission-3/sources/202210-1652-001/a20543d8563c4a99.txt:L248",
+      "match": true
+    },
+    {
+      "record_id": "CMP-16",
+      "locator": "mission-3/sources/202212-1652-001/38525f9ff94b6af4.txt:L221",
+      "match": true
+    },
+    {
+      "record_id": "CMP-16",
+      "locator": "mission-3/sources/202303-1652-001/01950023de75cb9e.txt:L263",
+      "match": true
+    },
+    {
+      "record_id": "CMP-16",
+      "locator": "mission-3/sources/202512-1652-001/e21e863d84c9cbf0.txt:L216",
+      "match": true
+    },
+    {
+      "record_id": "CMP-17",
+      "locator": "mission-3/sources/202405-1652-002/c13c5210a425ffaf.txt:L102",
+      "match": true
+    },
+    {
+      "record_id": "CMP-17",
+      "locator": "mission-3/sources/202512-1652-001/e21e863d84c9cbf0.txt:L216",
+      "match": true
+    },
+    {
+      "record_id": "CMP-18",
+      "locator": "mission-3/sources/202606-1652-002/00a9c8c3eeb406bf.txt:L340",
+      "match": true
+    },
+    {
+      "record_id": "CMP-18",
+      "locator": "mission-3/sources/202606-1652-002/00a9c8c3eeb406bf.txt:L384",
+      "match": true
+    },
+    {
+      "record_id": "CMP-18",
+      "locator": "mission-3/sources/202504-1652-008/ec91651842d62d7c.txt:L371",
+      "match": true
+    },
+    {
+      "record_id": "CMP-18",
+      "locator": "mission-3/sources/202504-1652-008/ec91651842d62d7c.txt:L405",
+      "match": true
+    },
+    {
+      "record_id": "CMP-19",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L74",
+      "match": true
+    },
+    {
+      "record_id": "CMP-19",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L77",
+      "match": true
+    },
+    {
+      "record_id": "CMP-20",
+      "locator": "mission-3/sources/202403-1652-002/5dc510e334685364.txt:L301",
+      "match": true
+    },
+    {
+      "record_id": "CMP-20",
+      "locator": "mission-3/sources/202409-1652-001/c98ecb748ce95a14.txt:L301",
+      "match": true
+    },
+    {
+      "record_id": "CMP-21",
+      "locator": "mission-3/sources/202606-1652-001/b4c6f91a6ebc5180.txt:L185",
+      "match": true
+    },
+    {
+      "record_id": "CMP-21",
+      "locator": "mission-3/sources/202504-1652-005/9b52414d3682ca71.txt:L107",
+      "match": true
+    },
+    {
+      "record_id": "CMP-22",
+      "locator": "mission-3/sources/202409-1652-003/d981aa6f238df6f1.txt:L118",
+      "match": true
+    },
+    {
+      "record_id": "CMP-23",
+      "locator": "mission-3/sources/202402-1652-001/063a47f93f61f15f.txt:L86",
+      "match": true
+    },
+    {
+      "record_id": "CMP-23",
+      "locator": "mission-3/sources/202304-1652-002/02f2c1d790421fdd.txt:L164",
+      "match": true
+    },
+    {
+      "record_id": "CMP-24",
+      "locator": "mission-3/sources/202502-1652-003/2efbc1473ae7c01a.txt:L82",
+      "match": true
+    },
+    {
+      "record_id": "CMP-24",
+      "locator": "mission-3/sources/202511-1652-001/6294f56ee7c9fc3c.txt:L91",
+      "match": true
+    },
+    {
+      "record_id": "CMP-24",
+      "locator": "mission-3/sources/202511-1652-001/6294f56ee7c9fc3c.txt:L145",
+      "match": true
+    },
+    {
+      "record_id": "CMP-25",
+      "locator": "mission-3/sources/202411-1652-008/cd40aa0f0f51e80e.txt:L71",
+      "match": true
+    },
+    {
+      "record_id": "CMP-26",
+      "locator": "mission-3/sources/202203-1652-006/25c6c152728ad171.txt:L67",
+      "match": true
+    },
+    {
+      "record_id": "CMP-26",
+      "locator": "mission-3/sources/202507-1652-001/858bb1d7e5db0f50.txt:L71",
+      "match": true
+    },
+    {
+      "record_id": "CMP-27",
+      "locator": "mission-3/sources/202109-1652-008/8cd15670b08f390c.txt:L85",
+      "match": true
+    },
+    {
+      "record_id": "CMP-27",
+      "locator": "mission-3/sources/202504-1652-005/9b52414d3682ca71.txt:L103",
+      "match": true
+    },
+    {
+      "record_id": "CMP-28",
+      "locator": "mission-3/sources/202411-1652-006/c1c6fc1c79e0a1b2.txt:L83",
+      "match": true
+    },
+    {
+      "record_id": "CMP-28",
+      "locator": "mission-3/sources/202411-1652-001/49b2b9502541f02b.txt:L72",
+      "match": true
+    },
+    {
+      "record_id": "CMP-29",
+      "locator": "mission-3/sources/202205-1652-002/fa0da99226dd3cd2.txt:L67",
+      "match": true
+    },
+    {
+      "record_id": "CMP-29",
+      "locator": "mission-3/sources/202503-1652-002/c4aa0bc913517a15.txt:L71",
+      "match": true
+    },
+    {
+      "record_id": "CMP-30",
+      "locator": "mission-3/sources/202202-1652-001/6da19e778d42372d.txt:L63",
+      "match": true
+    },
+    {
+      "record_id": "CMP-30",
+      "locator": "mission-3/sources/202411-1652-007/324a50c2081f81eb.txt:L74",
+      "match": true
+    },
+    {
+      "record_id": "CMP-31",
+      "locator": "mission-3/sources/202301-1652-003/fd52e752050b550e.txt:L79",
+      "match": true
+    },
+    {
+      "record_id": "CMP-31",
+      "locator": "mission-3/sources/202301-1652-003/fd52e752050b550e.txt:L94",
+      "match": true
+    },
+    {
+      "record_id": "CMP-31",
+      "locator": "mission-3/sources/202508-1652-001/64500383ca91f536.txt:L76",
+      "match": true
+    },
+    {
+      "record_id": "CMP-31",
+      "locator": "mission-3/sources/202508-1652-001/64500383ca91f536.txt:L91",
+      "match": true
+    },
+    {
+      "record_id": "CMP-32",
+      "locator": "mission-3/sources/202303-1652-002/818f6884d463de87.txt:L55",
+      "match": true
+    },
+    {
+      "record_id": "CMP-32",
+      "locator": "mission-3/sources/202601-1652-003/981dcb8d202488cb.txt:L60",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202606-1652-002/00a9c8c3eeb406bf.txt:L192",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202606-1652-002/00a9c8c3eeb406bf.txt:L205",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202606-1652-002/00a9c8c3eeb406bf.txt:L211",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202606-1652-002/00a9c8c3eeb406bf.txt:L217",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L176",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L189",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L195",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L201",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L209",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L210",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L211",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L212",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L217",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L218",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L219",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L220",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L225",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L226",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L227",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L228",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L176",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L189",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L195",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L201",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L209",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L210",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L211",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L212",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L217",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L218",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L219",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L220",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L225",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L226",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L227",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L228",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202606-1652-002/00a9c8c3eeb406bf.txt:L192",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202606-1652-002/00a9c8c3eeb406bf.txt:L205",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202606-1652-002/00a9c8c3eeb406bf.txt:L211",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202606-1652-002/00a9c8c3eeb406bf.txt:L217",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L176",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L189",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L195",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L201",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L209",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L210",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L211",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L212",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L217",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L218",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L219",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L220",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L225",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L226",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L227",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L228",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L176",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L189",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L195",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L201",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L209",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L210",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L211",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L212",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L217",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L218",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L219",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L220",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L225",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L226",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L227",
+      "match": true
+    },
+    {
+      "record_id": "FIND-HME",
+      "locator": "mission-3/sources/202502-1652-005/f0d95b1c8890ec97.txt:L228",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L69",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L73",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L77",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L78",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L79",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L80",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L81",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L82",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L83",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L84",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L55",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L66",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L70",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L74",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L79",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L80",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L137",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L69",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L73",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L77",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L78",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L79",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L80",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L81",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L82",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L83",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202501-1652-002/8af37d2513d06399.txt:L84",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L55",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L66",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L70",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L74",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L79",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L80",
+      "match": true
+    },
+    {
+      "record_id": "FIND-MD3",
+      "locator": "mission-3/sources/202112-1652-002/358386eb0116ab14.txt:L137",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L88",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L91",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L92",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L93",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L94",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L95",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L96",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L97",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L90",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L91",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L92",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L93",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L94",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L95",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L96",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L90",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L91",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L92",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L93",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L94",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L95",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L96",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L88",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L91",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L92",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L93",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L94",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L95",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L96",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202504-1652-003/b705c84a5d18cab7.txt:L97",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L90",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L91",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L92",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L93",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L94",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L95",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L96",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L90",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L91",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L92",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L93",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L94",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L95",
+      "match": true
+    },
+    {
+      "record_id": "FIND-GENERIC",
+      "locator": "mission-3/sources/202203-1652-004/b5242b4bd76ccb4f.txt:L96",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L134",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L139",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L140",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L141",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L146",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L149",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L150",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L151",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L152",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L153",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202109-1652-001/6121af71f758ff88.txt:L128",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202109-1652-001/6121af71f758ff88.txt:L139",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202109-1652-001/6121af71f758ff88.txt:L141",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202109-1652-001/6121af71f758ff88.txt:L151",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L134",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L139",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L140",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L141",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L146",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L149",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L150",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L151",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L152",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt:L153",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202109-1652-001/6121af71f758ff88.txt:L128",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202109-1652-001/6121af71f758ff88.txt:L139",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202109-1652-001/6121af71f758ff88.txt:L141",
+      "match": true
+    },
+    {
+      "record_id": "FIND-EXIS",
+      "locator": "mission-3/sources/202109-1652-001/6121af71f758ff88.txt:L151",
+      "match": true
+    },
+    {
+      "record_id": "FIND-LEO",
+      "locator": "mission-3/sources/202509-1652-001/93787579c5ece659.txt:L77",
+      "match": true
+    },
+    {
+      "record_id": "FIND-LEO",
+      "locator": "mission-3/sources/202509-1652-001/93787579c5ece659.txt:L80",
+      "match": true
+    },
+    {
+      "record_id": "FIND-LEO",
+      "locator": "mission-3/sources/202509-1652-001/93787579c5ece659.txt:L81",
+      "match": true
+    },
+    {
+      "record_id": "FIND-LEO",
+      "locator": "mission-3/sources/202509-1652-001/93787579c5ece659.txt:L82",
+      "match": true
+    },
+    {
+      "record_id": "FIND-LEO",
+      "locator": "mission-3/sources/202206-1652-001/7874f8a5e3aab5f2.txt:L66",
+      "match": true
+    },
+    {
+      "record_id": "FIND-LEO",
+      "locator": "mission-3/sources/202509-1652-001/93787579c5ece659.txt:L77",
+      "match": true
+    },
+    {
+      "record_id": "FIND-LEO",
+      "locator": "mission-3/sources/202509-1652-001/93787579c5ece659.txt:L80",
+      "match": true
+    },
+    {
+      "record_id": "FIND-LEO",
+      "locator": "mission-3/sources/202509-1652-001/93787579c5ece659.txt:L81",
+      "match": true
+    },
+    {
+      "record_id": "FIND-LEO",
+      "locator": "mission-3/sources/202509-1652-001/93787579c5ece659.txt:L82",
+      "match": true
+    },
+    {
+      "record_id": "FIND-LEO",
+      "locator": "mission-3/sources/202206-1652-001/7874f8a5e3aab5f2.txt:L66",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202606-1652-001/b4c6f91a6ebc5180.txt:L183",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202606-1652-001/b4c6f91a6ebc5180.txt:L185",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202606-1652-001/b4c6f91a6ebc5180.txt:L309",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202606-1652-001/b4c6f91a6ebc5180.txt:L310",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202303-1652-001/01950023de75cb9e.txt:L174",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202303-1652-001/01950023de75cb9e.txt:L191",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202303-1652-001/01950023de75cb9e.txt:L273",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202606-1652-001/b4c6f91a6ebc5180.txt:L183",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202606-1652-001/b4c6f91a6ebc5180.txt:L185",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202606-1652-001/b4c6f91a6ebc5180.txt:L309",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202606-1652-001/b4c6f91a6ebc5180.txt:L310",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202303-1652-001/01950023de75cb9e.txt:L174",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202303-1652-001/01950023de75cb9e.txt:L191",
+      "match": true
+    },
+    {
+      "record_id": "FIND-TURNOVER",
+      "locator": "mission-3/sources/202303-1652-001/01950023de75cb9e.txt:L273",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L378",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L381",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L386",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L387",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L402",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L404",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202407-1652-001/d34f137d5c9271f3.txt:L289",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202407-1652-001/d34f137d5c9271f3.txt:L298",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202407-1652-001/d34f137d5c9271f3.txt:L315",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202407-1652-001/d34f137d5c9271f3.txt:L324",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L378",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L381",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L386",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L387",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L402",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt:L404",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202407-1652-001/d34f137d5c9271f3.txt:L289",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202407-1652-001/d34f137d5c9271f3.txt:L298",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202407-1652-001/d34f137d5c9271f3.txt:L315",
+      "match": true
+    },
+    {
+      "record_id": "FIND-PRECHECK",
+      "locator": "mission-3/sources/202407-1652-001/d34f137d5c9271f3.txt:L324",
+      "match": true
+    },
+    {
+      "record_id": "FIND-CYBER-COST",
+      "locator": "mission-3/sources/202512-1652-001/e21e863d84c9cbf0.txt:L216",
+      "match": true
+    },
+    {
+      "record_id": "FIND-CYBER-COST",
+      "locator": "mission-3/sources/202212-1652-001/38525f9ff94b6af4.txt:L221",
+      "match": true
+    },
+    {
+      "record_id": "FIND-CYBER-COST",
+      "locator": "mission-3/sources/202212-1652-001/38525f9ff94b6af4.txt:L221",
+      "match": true
+    },
+    {
+      "record_id": "FIND-CYBER-COST",
+      "locator": "mission-3/sources/202512-1652-001/e21e863d84c9cbf0.txt:L216",
+      "match": true
+    },
+    {
+      "record_id": "FIND-CYBER-COST",
+      "locator": "mission-3/sources/202212-1652-001/38525f9ff94b6af4.txt:L221",
+      "match": true
+    },
+    {
+      "record_id": "FIND-CYBER-COST",
+      "locator": "mission-3/sources/202212-1652-001/38525f9ff94b6af4.txt:L221",
+      "match": true
+    },
+    {
+      "record_id": "ANALOGUE-202310-0607-003",
+      "locator": "icrs/202310-0607-003/extraction.json#/model",
+      "match": true
+    },
+    {
+      "record_id": "ANALOGUE-202503-3060-020",
+      "locator": "icrs/202503-3060-020/extraction.json#/model",
+      "match": true
+    },
+    {
+      "record_id": "ANALOGUE-202310-1220-004",
+      "locator": "icrs/202310-1220-004/extraction.json#/model",
+      "match": true
+    },
+    {
+      "record_id": "ANALOGUE-202411-1651-004",
+      "locator": "icrs/202411-1651-004/extraction.json#/model",
+      "match": true
+    },
+    {
+      "record_id": "BASELINE-TWIC-2025",
+      "locator": "mission-3/sources/202504-1652-008/ec91651842d62d7c.txt:L241",
+      "match": true
+    },
+    {
+      "record_id": "BASELINE-TWIC-2025",
+      "locator": "mission-3/sources/202504-1652-008/ec91651842d62d7c.txt:L247",
+      "match": true
+    },
+    {
+      "record_id": "BASELINE-TWIC-2025",
+      "locator": "mission-3/sources/202504-1652-008/ec91651842d62d7c.txt:L377",
+      "match": true
+    },
+    {
+      "record_id": "BASELINE-TWIC-2025",
+      "locator": "mission-3/sources/202502-1652-004/4639c859f157e253.txt:L223",
+      "match": true
+    },
+    {
+      "record_id": "BASELINE-TWIC-2025",
+      "locator": "mission-3/sources/202502-1652-004/4639c859f157e253.txt:L227",
+      "match": true
+    },
+    {
+      "record_id": "BASELINE-TWIC-2025",
+      "locator": "mission-3/sources/202502-1652-004/4639c859f157e253.txt:L233",
+      "match": true
+    }
+  ],
+  "aggregate_claim_sources": [
+    "mission-3/release-counts.json",
+    "mission-3/inventory.json",
+    "mission-3/lineage-resolved.json",
+    "evidence-graph/manifest.json",
+    "analysis/qa-summary.json"
+  ],
+  "interpretive_review": "editorial-audits.md",
+  "boundary": "Evidence comes exclusively from the frozen release and selected frozen Federal analogues. No public source availability search repeated."
+}

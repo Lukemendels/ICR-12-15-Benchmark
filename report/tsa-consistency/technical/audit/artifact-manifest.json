@@ -1,0 +1,295 @@
+{
+  "scope": "All reporting deliverables except this manifest itself; frozen evidence excluded",
+  "files": [
+    {
+      "path": "mission-4/handoff.md",
+      "sha256": "5ee5ad25c150103d68e6281e81a472e8ef27129acf2f3b4e74bb4f70c4d91bc7",
+      "bytes": 5880
+    },
+    {
+      "path": "mission-4/report-state.json",
+      "sha256": "8d847f82521663818d3f8f5ffa79f3e11ad19af760069506e327330341e71128",
+      "bytes": 1528
+    },
+    {
+      "path": "report/tsa-consistency/technical/README.md",
+      "sha256": "724c71d821dfdf196ad572c0409083527539e4d2504388fe0dab41293fac9044",
+      "bytes": 3414
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/automated-audit-summary.json",
+      "sha256": "7c5cecd7a46a045db6493463508f8aad4555207378b8d824c8a8417888025d22",
+      "bytes": 265
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/build-summary.json",
+      "sha256": "cceb3706b2dd3e4a8f652342b969f2e48d4783018ec0e37078b64197854f1f56",
+      "bytes": 1326
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/citation-audit.json",
+      "sha256": "baacd4803dd598dc3c9ce11a362a045562a370428d339c9bd1257ff8a29c4e49",
+      "bytes": 436
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/citation-use.json",
+      "sha256": "6b19e465d24a6692c66946865e7d1f083e9774892e06faad8b140bc47bc4fbf7",
+      "bytes": 137606
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/claim-source-locators.json",
+      "sha256": "6790872a550a02a2cb7f4fc65f97db679f855599f6624506585024084b60ed92",
+      "bytes": 202844
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/classification-audit.json",
+      "sha256": "e3635c8ce5f782a0bd0d14bbb490f3f1f40cf7af3cec10d79afc5fc833260da3",
+      "bytes": 688
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/completion-audit.json",
+      "sha256": "f006354b0c3dd7f17dab8e7dd7849cea8ed46b054457e429621fbb31cf264b50",
+      "bytes": 621
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/document-structure.json",
+      "sha256": "f5eb127bc0f51a2ac4b90c1848bb16359ca02c297816836d21f000f82e4f17ab",
+      "bytes": 1878
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/editorial-audits.md",
+      "sha256": "decd8c7482cbaf1c54c7d83359ad50418cdf2f092cdfb94e303b4c85c66d809b",
+      "bytes": 7588
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/evidence-audit.json",
+      "sha256": "b74552aa16cae9588e75e2fefdf2761391ab1369889b940feb7e3a68ff06a530",
+      "bytes": 47623
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/figure-table-audit.json",
+      "sha256": "f0ed71b45176f1fa8927263a723e4a87d6c2cab218c0d932873b0fd69c3b43f8",
+      "bytes": 1032
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/frozen-integrity.json",
+      "sha256": "1fa14ad1a2e27d66950ba3b7b07fcc79764cd83565d75fd94963b3c1e28a1894",
+      "bytes": 511436
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/frozen-tree.json",
+      "sha256": "4626b795301dab5d565a1c2acf1e78960d1e461a6f306499555dc90cfae2689a",
+      "bytes": 681068
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/input-register.json",
+      "sha256": "e29be7dbc6f6c98b1c0ffc2abb60edb95100dddf4ae1e2be52e686e9fd78eb0f",
+      "bytes": 16635
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/pdf-structure-audit.json",
+      "sha256": "cd8bce1ff33672a4ee289356955df4fb481c61819a687b3a79d934da37670f51",
+      "bytes": 14562
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/quantitative-audit.json",
+      "sha256": "58bcf450e4e963445860c26479eec71e18a81edd3a748a2bcd6ff5d655da95b8",
+      "bytes": 51369
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/runtime.json",
+      "sha256": "216c21d820327c092a0a2b5544844a403c5f78b3e24a6ed79d47de543d253c5f",
+      "bytes": 320
+    },
+    {
+      "path": "report/tsa-consistency/technical/audit/visual-inspection.json",
+      "sha256": "9032d82b45f5060045c87445c71fc09c3fced6d165aa56620a53fcf15e72335b",
+      "bytes": 9084
+    },
+    {
+      "path": "report/tsa-consistency/technical/figures/architecture.pdf",
+      "sha256": "445271d4abe90a1cbee10f5e76a32f75cefe6409c5b0d6056e3dd5576b7407dc",
+      "bytes": 25129
+    },
+    {
+      "path": "report/tsa-consistency/technical/figures/architecture.png",
+      "sha256": "437db4dfdb05adc2c9c9e4f04403f1abff40990ec2d2a7b4282d34f00519a1f5",
+      "bytes": 123394
+    },
+    {
+      "path": "report/tsa-consistency/technical/figures/assumptions.pdf",
+      "sha256": "6c0f108807d15d540448b3a556cd4e113d4573f43d793b8f52d2558829dc8364",
+      "bytes": 17686
+    },
+    {
+      "path": "report/tsa-consistency/technical/figures/assumptions.png",
+      "sha256": "3f98e73a8a792ce267b233b11d7eafefe0a8ce6d0e7a17294f2c069bc777d361",
+      "bytes": 83952
+    },
+    {
+      "path": "report/tsa-consistency/technical/figures/classification.pdf",
+      "sha256": "749cfcf76ee2d758f3e9bd8576ca1ee0f85e5a4b0456bb5d654be67f40b032af",
+      "bytes": 17174
+    },
+    {
+      "path": "report/tsa-consistency/technical/figures/classification.png",
+      "sha256": "4b9eada71f04245292685e4011b3d684ca3a45f3e8c510ba83fd66504bb5d6d0",
+      "bytes": 53822
+    },
+    {
+      "path": "report/tsa-consistency/technical/figures/twic.pdf",
+      "sha256": "d81655f27ac9411bc9aaecdaf1ed95fe323433d241037f1d28abf83c00c69300",
+      "bytes": 15303
+    },
+    {
+      "path": "report/tsa-consistency/technical/figures/twic.png",
+      "sha256": "caa2ed761e81fa34f6d3c33174e0efc542290cfd01cf15968032fca17116ce71",
+      "bytes": 41428
+    },
+    {
+      "path": "report/tsa-consistency/technical/final/TSA-ICR-Consistency-and-Defensibility-Report.pdf",
+      "sha256": "f06b03b911c1beb829006f6e5a2d3cb6ebbab00fb068372aa782e1fc7b40c0b4",
+      "bytes": 530848
+    },
+    {
+      "path": "report/tsa-consistency/technical/scripts/audit.py",
+      "sha256": "58e1c431a9a71a530e0da9adb399458a5f480e54bb294cb3fd846ae4d92ce324",
+      "bytes": 12460
+    },
+    {
+      "path": "report/tsa-consistency/technical/scripts/build.py",
+      "sha256": "03c9e8e7f77a6451ec70ad60a2460878a4ce3ff3ee84c7143aed1a8b2651b27f",
+      "bytes": 17125
+    },
+    {
+      "path": "report/tsa-consistency/technical/scripts/prepare.py",
+      "sha256": "000996ec1316924732eb94f95f38b1fa7c6de25c7811dfee72b4dab5157b5d53",
+      "bytes": 26728
+    },
+    {
+      "path": "report/tsa-consistency/technical/scripts/requirements.txt",
+      "sha256": "feb463a7a452d8def57c367b664e0883c8ff3325862328c17f148323915665c9",
+      "bytes": 67
+    },
+    {
+      "path": "report/tsa-consistency/technical/source/appendices.md",
+      "sha256": "443d495e8e2cb0f3787809dec1a6963997bfcc2f905b07b13e32a82b68199b06",
+      "bytes": 25863
+    },
+    {
+      "path": "report/tsa-consistency/technical/source/reference-registry.json",
+      "sha256": "f8b3484916f46583cf4bd4aa062b7f79883907aceb63cd9add66f766b6248777",
+      "bytes": 46851
+    },
+    {
+      "path": "report/tsa-consistency/technical/source/references.json",
+      "sha256": "ca528f4f7a828783d32cd404728e695bf93a86a7b039a57b328920dfd18bc314",
+      "bytes": 34369
+    },
+    {
+      "path": "report/tsa-consistency/technical/source/references.md",
+      "sha256": "7fd98470a26b759fc65d132a317d618c02db685a66ad27d8f1b09007aa9bf78a",
+      "bytes": 21049
+    },
+    {
+      "path": "report/tsa-consistency/technical/source/report-data.json",
+      "sha256": "e1e052199c1adc0532b270225461757e1f94f40a2bf33842570fd8e80a999015",
+      "bytes": 78167
+    },
+    {
+      "path": "report/tsa-consistency/technical/source/report-resolved.txt",
+      "sha256": "02335c813dbc932b4c7ee220f2ef4ca51b94d365050bc1e735c66757ebb0036e",
+      "bytes": 115480
+    },
+    {
+      "path": "report/tsa-consistency/technical/source/report.md",
+      "sha256": "585de2b2aa7480bca13ff34d650962857e6b1616dc8729a1db1fea3bf05a59d3",
+      "bytes": 71534
+    },
+    {
+      "path": "report/tsa-consistency/technical/source/tables.json",
+      "sha256": "9aba888b4efb43d51677ff2c772979a5325e897dd03f21f6495d34b3c986504a",
+      "bytes": 22028
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/analogues.csv",
+      "sha256": "a9149809bf155ec82537e2b298e322c1f3a7b1674edd30340962c2199bb25118",
+      "bytes": 815
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/architecture.csv",
+      "sha256": "fde3f2aee98b9dcba734da213e42e1e0222a4c609d6de10b3ab14245520fc82f",
+      "bytes": 915
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/assumptions.csv",
+      "sha256": "7caa11da100a130e480439096568b1b6191cce7b143e42a6a866d4ffc2805a2b",
+      "bytes": 1299
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/comparison-register.csv",
+      "sha256": "dbdf5aec05756ae1147a11ebf42ae04e84f488ef26245e1d4c32eca09f129452",
+      "bytes": 12984
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/controls.csv",
+      "sha256": "149fcb738587323ec49f3d1e2daae279d09e1fc9d7ce104f3c5d7a874ddea5da",
+      "bytes": 1063
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/coverage.csv",
+      "sha256": "ba4fcffa6913f8fab6026f1a600128fba057fa0722ca477184315d8777d1aa1e",
+      "bytes": 947
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/definitions.csv",
+      "sha256": "f3281f46fb7399a6d4e3c8a926eec892bd64f48219cdb1831727fbb089cae86d",
+      "bytes": 593
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/explained.csv",
+      "sha256": "c815b9207e304f7df5cf2b975da8cd592a86a416ca11af5df610d732b5f36f67",
+      "bytes": 2156
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/finding-register.csv",
+      "sha256": "483042f872835ae13f3dbc2a6dd23222b72cbe47f9acdabc1ff9f1f0ef25fcad",
+      "bytes": 4316
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/findings.csv",
+      "sha256": "e93e28d23e7a80fca2980f2a6db4831e2334dee51b84d1d9497b0a293a215e81",
+      "bytes": 1149
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/hme.csv",
+      "sha256": "c3318ae60f76e0c0b7e30eca8d0d4dbe54e7c32b81969a617fd8389c0359aa61",
+      "bytes": 212
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/package-inventory.csv",
+      "sha256": "44ec2e6f2e3eb1c38eafcee1525437b43947524e82a5e22c6606895e859a0b7c",
+      "bytes": 16736
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/portfolio.csv",
+      "sha256": "6f85c2899880d16ef9c4e4d61a479130b07a6084400500664f7a73880c35d01e",
+      "bytes": 228
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/status.csv",
+      "sha256": "0b015c0be8023156f22175c196b69c331f55a5d23fb274d3a254678fd945620d",
+      "bytes": 219
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/twic.csv",
+      "sha256": "1c811508dde2ae6e739220cd6ebb16aaac026ad16390b11a19a3f9684dc0d2ad",
+      "bytes": 338
+    },
+    {
+      "path": "report/tsa-consistency/technical/tables/unresolved.csv",
+      "sha256": "87b547b7ef5c404c3b2e01c20cb0a6b6f5c0277773b2dc478aff1678973a4eb3",
+      "bytes": 2124
+    }
+  ]
+}

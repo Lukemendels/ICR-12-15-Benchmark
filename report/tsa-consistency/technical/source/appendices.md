@@ -22,7 +22,7 @@ Each uses 1 hour per request. All three paragraphs explicitly isolate industry/c
 
 **Disposition: Consistent.** Comparison type: within ICR. Package references: 202304-1652-002. [[CMP-03]]
 
-1 minute per record across freight rail, PTPR and OTRB. Source paragraphs isolate recordkeeping; training itself is outside this task.
+1 minute per record across freight rail, public transportation/passenger railroad and over-the-road bus. Source paragraphs isolate recordkeeping; training itself is outside this task.
 
 **Boundary.** No inference about actual respondent performance or agency intent.
 
@@ -54,7 +54,7 @@ Surface 5 minutes for a new coordinator or alternate; pipeline 30 minutes for co
 
 **Disposition: Different, explained.** Comparison type: cross ICR. Package references: 202412-1652-001, 202406-1652-001. [[CMP-07]]
 
-1.454667 full-time private industry, June 2024; 1.4582 transportation/material-moving source, March 2023. Different cited populations and periods explain why the ratios differ. This does not establish that each proxy is optimal; domestic paragraph also has a month-label ambiguity.
+1.454667 full-time private industry, June 2024; 1.4582 transportation and material moving source, March 2023. Different cited populations and periods explain why the ratios differ. This does not establish that each proxy is optimal; domestic paragraph also has a month-label ambiguity.
 
 **Boundary.** Explanation of numeric variation is not an endorsement of proxy selection; March/June wording ambiguity retained.
 
@@ -72,7 +72,7 @@ Both use $32.66 mean wage, 1.4582 loading and 11-minute waiting assumption. Publ
 
 FAMS uses 20 minutes each way; TSO uses 34 each way. Different studies visibly explain source selection. Primary Altarum brief describes diary-day travel rather than explicitly one-way travel; TSO doubling needs clarification. FAMS source surveys adults aged 50+, not a measured applicant sample.
 
-**Boundary.** Source-selection difference is observable; neither a corrected TSO total nor applicant-specific travel accuracy is established. See external-source-review.json.
+**Boundary.** Source-selection difference is observable; neither a corrected TSO total nor applicant-specific travel accuracy is established.
 
 ### A10. Online credential renewal times
 
@@ -110,9 +110,9 @@ Prior 1 minute becomes 4 minutes. Recent Item 15 cites user-experience feedback 
 
 **Disposition: Unresolved.** Comparison type: cross ICR. Package references: 202402-1652-002, 202411-1652-003. [[CMP-14]]
 
-IAC 120 hours versus FAC 4 hours field review plus 6.75 hours headquarters review. IAC converts fifteen days into 120 hours without decomposition and pools TSA-issued and industry-requested amendments. FAC separately describes research/drafting and headquarters review. Identical case complexity and staffing are not established.
+indirect air carrier 120 hours versus foreign air carrier 4 hours field review plus 6.75 hours headquarters review. indirect air carrier converts fifteen days into 120 hours without decomposition and pools TSA-issued and industry-requested amendments. foreign air carrier separately describes research/drafting and headquarters review. Identical case complexity and staffing are not established.
 
-**Boundary.** No inference that a fifteen-day period is necessarily elapsed time or that the pooled IAC mean equals the industry-only mean.
+**Boundary.** No inference that a fifteen-day period is necessarily elapsed time or that the pooled indirect air carrier mean equals the industry-only mean.
 
 ### A15. Medical examination payer change
 
@@ -278,7 +278,7 @@ Expression: pre_enrollment + no_pre_enrollment + online_renewal - all_applicants
 
 **Potentially inconsistent.** Annual published 208718 differs from displayed product 148194.405; per-person product 565.6275 differs from 563.63. [[FIND-MD3]]
 
-Expression: 262 * 5.75 * 98.37. Calculated: 148,194.405; published/comparator: 208,718. Unit: USD; period: annual. Prior tolerance of 9 USD understated a conservative ±.005 hour input interval. Corrected interval remains far below 208718; major finding unchanged.
+Expression: 262 * 5.75 * 98.37. Calculated: 148,194.405; published/comparator: 208,718. Unit: USD; period: annual. A conservative input-rounding interval remains far below the published annual cost.
 
 Expression: 5.75 * 98.37. Calculated: 565.6275; published/comparator: 563.63. Unit: USD/person; period: per application. Displayed task times and wage do not reproduce per-person total; do not infer a copy/paste cause.
 
@@ -298,7 +298,7 @@ Expression: 1180050. Calculated: 1,180,050; published/comparator: 13,383. Unit: 
 
 ### EXIS populations
 
-**Potentially inconsistent.** Table 4 uses 95%of all limited users, whereas Table 3 applies 5%to new users. [[FIND-EXIS]]
+**Potentially inconsistent.** Table 4 uses 95% of all limited users, whereas Table 3 applies 5% to new users. [[FIND-EXIS]]
 
 Expression: stock - Table3 exercisers. Calculated: 12,564; published/comparator: 12,021.3. Unit: responses; period: 2025. Narrative subtracts Table 3 new-user exercisers; Table 4 instead applies 95% to total user stock. A different lifecycle assumption could explain table only by departing from the stated subtraction.
 
@@ -306,7 +306,7 @@ Expression: stock - Table3 exercisers. Calculated: 13,976.4; published/comparato
 
 Expression: stock - Table3 exercisers. Calculated: 15,513.7; published/comparator: 14,811.5. Unit: responses; period: 2027. Narrative subtracts Table 3 new-user exercisers; Table 4 instead applies 95% to total user stock. A different lifecycle assumption could explain table only by departing from the stated subtraction.
 
-**Evidence needed.** An explicit assumption that 5%of the entire stock exercises annually, replacing the new-user-only model.
+**Evidence needed.** An explicit assumption that 5% of the entire stock exercises annually, replacing the new-user-only model.
 
 ### LEO Federal cost
 
@@ -320,9 +320,9 @@ Expression: 83749 * .025 * 75.94 * 3. Calculated: 476,992.4295; published/compar
 
 ### Surface-cyber turnover
 
-**Potentially inconsistent.** Monthly-average 4%is used annually and combined with 9%residential mobility as contact changes. [[FIND-TURNOVER]]
+**Potentially inconsistent.** Monthly-average 4% is used annually and combined with 9% residential mobility as contact changes. [[FIND-TURNOVER]]
 
-**Evidence needed.** An explicit annual calibration of the 4%coefficient to coordinator posts plus a documented mobility/contact-update and overlap mapping.
+**Evidence needed.** An explicit annual calibration of the 4% coefficient to coordinator posts plus a documented mobility/contact-update and overlap mapping.
 
 ### PreCheck valuation
 

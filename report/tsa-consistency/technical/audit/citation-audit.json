@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "references": 61,
+  "nonduplicated_urls": 59,
+  "all_reference_numbers_used": true,
+  "first_use": "Numbered scholarly citations resolve to full identifying entries in References; case studies also identify package/control and snapshot status.",
+  "exact_locators": "claim-source-locators.json",
+  "links": "Public source document and package links drawn from frozen metadata; no live availability assertion."
+}

@@ -1,0 +1,11 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "packages": {
+    "reportlab": "4.4.9",
+    "matplotlib": "3.10.8",
+    "PyMuPDF": "1.26.6",
+    "Pillow": "12.3.0"
+  },
+  "fonts": "DejaVu Serif and DejaVu Sans from /usr/share/fonts/truetype/dejavu",
+  "rendering": "Poppler pdftoppm, 100 dpi"
+}

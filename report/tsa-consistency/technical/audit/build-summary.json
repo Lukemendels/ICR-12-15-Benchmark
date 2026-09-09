@@ -1,6 +1,6 @@
 {
   "pdf": "report/tsa-consistency/technical/final/TSA-ICR-Consistency-and-Defensibility-Report.pdf",
-  "page_count": 54,
+  "page_count": 55,
   "tables": 13,
   "figures": 4,
   "references": 61,
@@ -55,5 +55,5 @@
     "CMP-17": 2
   },
   "build_command": "python report/tsa-consistency/technical/scripts/build.py",
-  "pdf_sha256": "a6c4b1c96f3266fa9a67c922cef6badd5ef4cf3281004e75661317377dfa4ab6"
+  "pdf_sha256": "f06b03b911c1beb829006f6e5a2d3cb6ebbab00fb068372aa782e1fc7b40c0b4"
 }

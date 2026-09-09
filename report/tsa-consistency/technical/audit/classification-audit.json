@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "task_method": {
+    "CONSISTENT": 15,
+    "UNRESOLVED": 6,
+    "DIFFERENT_EXPLAINED": 8,
+    "NOT_COMPARABLE": 3
+  },
+  "within_icr": {
+    "POTENTIALLY_INCONSISTENT": 7,
+    "UNRESOLVED": 1
+  },
+  "zero_potential_cross_icr": true,
+  "register_counts": [
+    32,
+    8
+  ],
+  "all_dispositions_match_frozen_challenges": true,
+  "method_level_counts": {
+    "cross_ICR": 11,
+    "cross_ICR_and_lineage": 3,
+    "within_ICR": 2,
+    "lineage": 6,
+    "cross_ICR_or_lineage": 10
+  },
+  "interpretation": "The 32-register denominator includes lineage and within-package component comparisons; it is not 32 independent cross-program tests. No frozen class changed."
+}

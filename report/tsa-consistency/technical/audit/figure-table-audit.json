@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "tables": 13,
+  "figures": 4,
+  "table_data_match_csv": true,
+  "classification_counts": {
+    "task_method": {
+      "CONSISTENT": 15,
+      "UNRESOLVED": 6,
+      "DIFFERENT_EXPLAINED": 8,
+      "NOT_COMPARABLE": 3
+    },
+    "within_icr": {
+      "POTENTIALLY_INCONSISTENT": 7,
+      "UNRESOLVED": 1
+    }
+  },
+  "assumption_counts": {
+    "turnover": 3,
+    "purchased_services": 2,
+    "familiarization": 2,
+    "capital_life": 1,
+    "benefit_loading": 10,
+    "pathway_share": 58,
+    "federal_review_time": 12,
+    "recordkeeping": 3,
+    "legal_review": 2,
+    "task_duration": 43,
+    "federal_grade_pay": 10,
+    "fee_treatment": 3,
+    "wage_statistic": 2,
+    "manager_review": 7,
+    "occupational_assignment": 2,
+    "renewal": 2
+  },
+  "twic_bridge_residual": 0,
+  "architecture": "Clearly labeled proposed analytical design; no claim about current TSA workflow.",
+  "figure_source": "scripts/build.py",
+  "table_source": "scripts/prepare.py",
+  "no_prevalence_or_independence_claim": true
+}

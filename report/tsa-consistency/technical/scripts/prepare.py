@@ -22,7 +22,9 @@ for p in sorted(inputs):
 write('audit/input-register.json',[{'path':p,'sha256':hashlib.sha256((ROOT/p).read_bytes()).hexdigest()} for p in sorted(inputs)])
 
 def nice(s):
- s=str(s).replace('_',' ')
+ s=str(s).replace('_',' ').replace('transportation/material-moving','transportation and material moving').replace(' See external-source-review.json.','')
+ s=re.sub(r'(?<=%)(?=[A-Za-z])',' ',s)
+ s=re.sub(r'\bIAC\b','indirect air carrier',s);s=re.sub(r'\bFAC\b','foreign air carrier',s);s=re.sub(r'\bPTPR\b','public transportation/passenger railroad',s);s=re.sub(r'\bOTRB\b','over-the-road bus',s)
  return re.sub(r'(?<=\d)(?=[A-Za-z])|(?<=[a-z])(?=\d)', ' ', s)
 labels={'CONSISTENT':'Consistent','DIFFERENT_EXPLAINED':'Different, explained','POTENTIALLY_INCONSISTENT':'Potentially inconsistent','NOT_COMPARABLE':'Not comparable','UNRESOLVED':'Unresolved'}
 T={}
@@ -73,7 +75,7 @@ for d in F:
  for q in Q:
   if q['id'] not in d['check_ids']:continue
   def fmt(v):return 'Not a published scalar; identity test' if v is None else f'{v:,.6f}'.rstrip('0').rstrip('.')
-  app += [f"Expression: {q['formula']}. Calculated: {fmt(q['calculated_value'])}; published/comparator: {fmt(q.get('published_value'))}. Unit: {q['unit']}; period: {q.get('period') or 'not separately encoded'}. "+nice(q['interpretation'])]
+  app += [f"Expression: {q['formula']}. Calculated: {fmt(q['calculated_value'])}; published/comparator: {fmt(q.get('published_value'))}. Unit: {q['unit']}; period: {q.get('period') or 'not separately encoded'}. "+nice('A conservative input-rounding interval remains far below the published annual cost.' if q['id']=='QA-MD3-COST' else q['interpretation'])]
  app += ['**Evidence needed.** '+nice(d['adversarial_challenge']['legitimating_evidence_needed'])]
 app += ['## Appendix C. Terminology and reading guide',
  '**Burden.** Time or other resources represented as necessary to perform the information-collection activities in scope; the report distinguishes respondent hours, their labor valuation, nonlabor costs and Federal costs.',
@@ -95,12 +97,16 @@ def source_entry(sid):
  if not ref:
   match=re.search(r'(20\d{4}-\d{4}-\d{3})',s.get('local_path',''));ref=match.group(1) if match else None
  meta=inv.get(ref,versions.get(ref,{}).get('inventory',{})) or {}
- title=meta.get('title') or s['title'];agency=meta.get('agency') or s.get('authoring_entity','TSA');control=meta.get('control') or s.get('omb_control_number');date=meta.get('received')
+ if ref and not meta.get('title') and (ROOT/f'mission-3/sources/{ref}/record.txt').exists():
+  raw=(ROOT/f'mission-3/sources/{ref}/record.txt').read_text().splitlines()
+  for label,field in [('Title:','title'),('Agency/Subagency:','agency'),('OMB Control No:','control')]:
+   if label in raw:meta[field]=raw[raw.index(label)+1]
+ title=meta.get('title') or next((a['title'] for a in A if a['ref']==ref),None) or s['title'];agency=meta.get('agency') or s.get('authoring_entity','TSA');agency={'DHS/TSA':'Transportation Security Administration','DOL/BLS':'Bureau of Labor Statistics','DOC/CENSUS':'U.S. Census Bureau','FCC':'Federal Communications Commission','DHS/USCBP':'U.S. Customs and Border Protection'}.get(agency,agency);control=meta.get('control') or s.get('omb_control_number');date=meta.get('received')
  detail=f"{agency}. {title}. Supporting Statement A, Items 12–15 and associated footnotes."
  if ref:detail+=f" ICR {ref}."
  if control:detail+=f" OMB control {control}."
  if date:detail+=f" Package received {date}."
- if not date and s.get('publication_date'):detail+=f" Document date {s['publication_date']}."
+ if not date and s.get('publication_date'):detail+=f" Recorded document upload date {s['publication_date']}."
  detail+=' Reviewed September 9, 2026.'
  return {'url':url,'text':detail,'source_ids':[sid],'ref':ref,'record_url':meta.get('record_url') or (f'https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr={ref}' if ref else None)}
 for key,d in records.items():
@@ -114,7 +120,7 @@ for key,d in records.items():
  key_sources[key]=ss
 # Previously reviewed primary travel studies support the bounded source-interpretation claim.
 for ext in read('mission-3/external-sources/external-source-review.json')['sources']:
- u=ext['url'];refs[u]={'url':u,'text':ext['title']+'. '+('Altarum, 2019. PDF pages 1, 3, 5-6.' if 'ALTARUM' in ext['id'] else 'JAMA Network Open, 2025. DOI: '+ext['doi']+'. Methods and Results.')+' Previously reviewed September 9, 2026; interpretation remains bounded by study population and measurement scope.','source_ids':[ext['id']]}
+ u=ext['url'];refs[u]={'url':u,'text':ext['title']+'. '+('Altarum. PDF pages 1, 3, 5-6.' if 'ALTARUM' in ext['id'] else 'JAMA Network Open, 2025. DOI: '+ext['doi']+'. Methods and Results.')+' Previously reviewed September 9, 2026; interpretation remains bounded by study population and measurement scope.','source_ids':[ext['id']]}
  key_sources['CMP-09'].append(u)
 # Canonical architecture / benchmark are prior analytical works, not new external evidence.
 custom={

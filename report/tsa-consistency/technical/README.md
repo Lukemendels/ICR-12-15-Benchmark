@@ -1,37 +1,42 @@
 # TSA consistency and defensibility technical report
 
-This reporting area consumes the frozen evidence at b96aaaa4d81fe4df432602a0ae1346be78a151b1. It does not modify earlier evidence or reports. Reporting state lives in mission-4/report-state.json.
+Completed report: `final/TSA-ICR-Consistency-and-Defensibility-Report.pdf` (55 PDF pages including cover, contents, appendices and references). Reporting state and leadership-phase handoff are in `mission-4/`. No leadership brief was created.
 
-Planned source: source/report.md; derived appendices, references, figures and tables; scripts/build.py for deterministic PDF production. Audit records retain source-to-claim mappings and validation outcomes. The final PDF will be final/TSA-ICR-Consistency-and-Defensibility-Report.pdf.
+## Evidence boundary
 
-## Analytical outline
+This report consumes the authoritative frozen repository at `b96aaaa4d81fe4df432602a0ae1346be78a151b1`, with Mission 3 evidence M3-1.0.0 and graph 1.0.0. All 2,189 original files retain their frozen Git blob identities. No new broad research or evidence re-adjudication was performed.
 
-1. Executive summary: bounded coherence across methods; within-document control risks.
-2. Purpose and scope: receipt window, versions, public-evidence boundary.
-3. Analytical method: similarity before difference, classifications, challenge and QA.
-4. Portfolio and evidence coverage: separate package, history, activity, assumption and QA denominators.
-5. Cross-ICR method consistency: representative stable components, including lineage limits.
-6. Explainable variation: all eight adjudications and their observable explanations.
-7. Unresolved comparisons: all six questions and evidence required for closure.
-8. Within-ICR reconstruction: eight case studies with package status, exact values and challenge outcomes.
-9. Recurring assumptions: reviewed counts, reusable structures and case-specific coefficients.
-10. Federal benchmark: four authorized methodological analogues.
-11. Institutional implications: method governance and representation governance.
-12. Recommended architecture: source-bound inputs through validated tables and narrative.
-13. Implementable recommendations: preserve, standardize, control and investigate.
-14. Limitations.
-15. Conclusion.
-Appendices: complete comparison register; numerical reconciliation register; glossary and reference data.
+## Reproduce
 
-## Nonnegotiable qualifications
+Use a checkout containing the frozen evidence and this reporting directory. A standalone source archive must be overlaid into that checkout; it does not duplicate the frozen evidence corpus. Run from the repository root:
 
-- The 32-record task/method register includes cross-ICR, lineage and within-package component comparisons. Preserve all frozen categories without implying 32 independent cross-program tests.
-- No portfolio inconsistency prevalence, corrected official aggregate or undocumented internal cause.
-- HME and surface cyber cases use pending packages; proposal evidence is not implemented workload.
-- PreCheck is unresolved valuation scope, not an arithmetic-error finding.
-- Prior HME and TWIC partitions reconcile; LEO annual narrative is coherent.
-- Only the registered TWIC baseline/component bridge is verified.
+```bash
+python -m pip install -r report/tsa-consistency/technical/scripts/requirements.txt
+python report/tsa-consistency/technical/scripts/build.py
+python report/tsa-consistency/technical/scripts/audit.py
+```
 
-## Audit passes
+The build requires DejaVu Serif and Sans fonts at `/usr/share/fonts/truetype/dejavu`. Runtime versions are in `audit/runtime.json`. `build.py` invokes `prepare.py` to derive tables, appendices and citation data from frozen records, then creates four figures and the searchable PDF. No research or frozen evidence validation scripts are executed. PDF and figure metadata timestamps may vary between builds; substantive values, classifications and layout are reproducible with the recorded environment.
 
-Separate evidence, classification, quantitative, argument, causal-boundary, terminology, citation, figure/table and page-by-page PDF visual audits are required before REPORT_COMPLETE.
+Render a rebuilt PDF with Poppler for a new visual inspection:
+
+```bash
+pdftoppm -r 100 -png report/tsa-consistency/technical/final/TSA-ICR-Consistency-and-Defensibility-Report.pdf /tmp/tsa-report-page
+```
+
+The visual audit applies to its identified PDF hash, not automatically to future builds. Inspect every page after report changes.
+
+## Deliverables and audit trail
+
+- `source/report.md`: editable analytical manuscript.
+- `source/appendices.md`: complete 32-comparison register, eight-case reconstruction register and terminology guide.
+- `source/tables.json`, `tables/*.csv`: 13 report tables and supporting registers.
+- `source/references.*`, `source/reference-registry.json`: 61 deduplicated scholarly references and source identities.
+- `figures/`: PNG and vector PDF figures; generating source is in `scripts/build.py`.
+- `audit/input-register.json`, `claim-source-locators.json`, `citation-use.json`: frozen inputs and claim-to-record-to-reference provenance.
+- `audit/`: separate evidence, classification, quantitative, argument, causal-boundary, terminology, citation, figure/table and visual audit results, plus protected-file integrity.
+- `audit/completion-audit.json`: final audit disposition and PDF hash.
+
+## Qualifications that must survive reuse
+
+The 32-record task/method register includes cross-ICR, lineage and selected within-package component comparisons. It is not 32 independent cross-program tests. The within-ICR register has seven potentially inconsistent cases and one unresolved valuation-scope case. These denominators do not establish portfolio prevalence. Pending and proposed evidence is identified. Published discrepancies are not official corrected totals or proof of internal causes. Counterevidence and source limitations must accompany compression. Only the registered TWIC baseline/component bridge is fully verified.
