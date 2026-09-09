@@ -27,9 +27,10 @@
     "Batch11:17 recurring assumption-family discovery indexes across134 statements, explicitlyINFERRED;40 separately reviewed scalar assumptions cover loading, turnover, pathways, recordkeeping, renewal, legal/Federal review, purchases and construction.",
     "Batch12:59 additional source-specific task durations across32 previously untyped recent versions; all90 recent versions now have principal task normalization. Bundled processes, annual recordkeeping and per-event time remain distinct.",
     "Batch13: 15 inspectable comparisons adjudicated with actor/task/unit/period rationale and explanation challenges; medical travel primary sources checked. No numeric difference classified as inconsistency without adequate comparability.",
-    "Batch14:22 source-specific quantitative checks, seven challenged findings, and one fully reconciled TWIC component bridge with independently verified prior baseline;41 frozen TSA checks reused by reference. No schema/comparison-rule novelty in second post-coverage analytical batch."
+    "Batch14:22 source-specific quantitative checks, seven challenged findings, and one fully reconciled TWIC component bridge with independently verified prior baseline;41 frozen TSA checks reused by reference. No schema/comparison-rule novelty in second post-coverage analytical batch.",
+    "Batch15:29 additional reviewed manager/analyst/grade/fee/wage assumptions;18 comparisons include explicit negative match; current pipeline Federal review-cost calculation challenged and retained. Same ontology and comparison rules."
   ],
-  "next": "Populate typed evidence graph, close provenance exceptions, implement deterministic queries and complete freeze-gate assessment.",
+  "next": "Populate graph and perform source and graph integrity QA; then query validation, gate assessment and handoff.",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,

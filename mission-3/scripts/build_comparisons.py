@@ -25,5 +25,6 @@ add('14','Federal amendment-review bundles','cross_ICR','federal_review_time',{'
 add('15','Medical examination payer change','lineage','purchased_services',{'202606-1652-003':[103]},'Medical screening requirement; resource cost and payer boundaries.','Contractor Federal cost removed and candidate $150 per exam added for 18,000 exams.','Test whether cost reduction is an efficiency gain or a transfer of payer.','Statement explicitly assigns local examination cost to candidates. Payer change explains category movement; no claim of net savings.','DIFFERENT_EXPLAINED','strong')
 for r in rows:
  r['adversarial_challenge']={'hypothesis_to_falsify':r['classification'],'alternative':r['candidate_explanation_tested'],'result':r['evidence_assessed'],'retained_classification':r['classification'],'method':'Read cited source paragraphs, separate actor/task/unit/period; test scope and lineage alternatives before classification.'}
-(OUT/'comparisons.jsonl').write_text(''.join(json.dumps(r,ensure_ascii=False)+'\n' for r in rows))
-print('comparisons',len(rows))
+if __name__ == '__main__':
+ (OUT/'comparisons.jsonl').write_text(''.join(json.dumps(r,ensure_ascii=False)+'\n' for r in rows))
+ print('comparisons',len(rows))
