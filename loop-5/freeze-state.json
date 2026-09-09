@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "mission": "Loop 5.1",
+  "checkpoint": "E",
+  "mission_status": "ICR_EVIDENCE_RELEASE_FROZEN",
+  "terminal_state": "ICR_EVIDENCE_RELEASE_FROZEN",
+  "release_id": "ICR-EVIDENCE-1.0.0",
+  "release_version": "1.0.0",
+  "release_path": "release/icr-evidence/v1.0.0",
+  "release_manifest_sha256": "572e8a414c5867e75a5d24eb4d5e939a475969c92bb1d81b3f183f436b4663a9",
+  "validated_release_commit": "afdffadf8623735a19aca876f7bdfe410979dbdc",
+  "final_acceptance_result": "PASS",
+  "final_acceptance_gate_path": "release/icr-evidence/v1.0.0/validation/final-acceptance-gate.json",
+  "freeze_receipt_path": "release/icr-evidence/v1.0.0/FREEZE-RECEIPT.json",
+  "loop_5_2_handoff_path": "release/icr-evidence/v1.0.0/LOOP-5.2-HANDOFF.md",
+  "freeze_timestamp": "2026-09-09T22:47:08Z",
+  "manifest_hash_boundary": {
+    "canonical_manifest_path": "release/icr-evidence/v1.0.0/release-manifest.json",
+    "canonical_files_rule": "Exactly release-manifest.json plus the 87 relative paths in its files array. All 88 pre-closeout blobs remain unchanged.",
+    "administrative_files_outside_manifest": [
+      "release/icr-evidence/v1.0.0/FREEZE-RECEIPT.json",
+      "release/icr-evidence/v1.0.0/validation/final-acceptance-gate.json",
+      "loop-5/freeze-state.json"
+    ],
+    "consumer_adapter_rule": "When loading the repository release directory, remove only FREEZE-RECEIPT.json and validation/final-acceptance-gate.json from the actual listPaths result before passing it to the unchanged consumer. Do not synthesize listPaths from the manifest or suppress any other unexpected file. readBytes continues to expose the original canonical bytes.",
+    "cli_rule": "The unchanged runtime/verify.mjs expects a canonical-only directory. Copy the manifest and its listed files to an isolated directory before running that CLI; do not run it against the directory containing administrative freeze metadata.",
+    "state_authority": "The manifest status CANDIDATE is historical build metadata. This freeze-state.json and the matching FREEZE-RECEIPT.json establish terminal lifecycle state for the exact manifest digest.",
+    "hash_rule": "SHA-256 covers exact UTF-8 manifest bytes including its trailing newline. The manifest excludes itself and administrative closeout metadata. No canonical manifest rebuild or evidence mutation occurs.",
+    "commit_rule": "validated_release_commit pins the existing canonical release. The freeze commit is the Git commit containing these closeout files, discoverable from Git history; its own hash is deliberately not embedded."
+  },
+  "non_blocking_limitations": [
+    "Original publication URL availability was not retested; original publication binaries and report PDFs are outside the portable release.",
+    "Frozen analytical coverage limits and unresolved questions remain as documented in KNOWN-ISSUES.md and provenance/limitations.json.",
+    "No Workbench UI or DHSChat bus was built or tested in Loop 5.1."
+  ]
+}

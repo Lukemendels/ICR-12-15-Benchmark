@@ -1,0 +1,337 @@
+{
+  "schema_version": "1.0.0",
+  "mission": "Loop 5.1",
+  "release_id": "ICR-EVIDENCE-1.0.0",
+  "release_version": "1.0.0",
+  "validated_release_commit": "afdffadf8623735a19aca876f7bdfe410979dbdc",
+  "release_manifest_sha256": "572e8a414c5867e75a5d24eb4d5e939a475969c92bb1d81b3f183f436b4663a9",
+  "checked_at": "2026-09-09T22:47:08Z",
+  "evaluation_rule": "overall_result is PASS if and only if every required criterion has result PASS.",
+  "criteria": [
+    {
+      "id": "validation-report",
+      "criterion": "validation report is PASS",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/validation-report.json"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "source-preservation-report",
+      "criterion": "source preservation report is PASS",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/source-preservation-report.json"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "clean-load-report",
+      "criterion": "clean load report is PASS",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/clean-load-report.json"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "integrity-report",
+      "criterion": "integrity report is PASS",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/integrity-report.json"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "compatibility-report",
+      "criterion": "compatibility report is PASS",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/compatibility-report.json"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "build-reproducibility-report",
+      "criterion": "build reproducibility report is PASS",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/build-reproducibility-report.json"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "negative-tests",
+      "criterion": "negative tests is PASS",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/negative-tests.json"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "schemas-identities-relations-counts",
+      "criterion": "Consumer schema, ID, provenance, relationship and count validation passes",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/validation-report.json"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "frozen-sources-and-reports-preserved",
+      "criterion": "Frozen Mission 1/Mission 3 evidence and completed reports/briefs remain preserved without new research",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/source-preservation-report.json"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "lossless-registers",
+      "criterion": "All recorded lossless dataset checks pass",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/source-preservation-report.json"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "clean-load-enumerate_tsa_portfolio",
+      "criterion": "Isolated release-only acceptance: enumerate_tsa_portfolio",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/clean-load-report.json#/tests"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "clean-load-select_icr_version",
+      "criterion": "Isolated release-only acceptance: select_icr_version",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/clean-load-report.json#/tests"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "clean-load-normalized_activities",
+      "criterion": "Isolated release-only acceptance: normalized_activities",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/clean-load-report.json#/tests"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "clean-load-associated_assumptions",
+      "criterion": "Isolated release-only acceptance: associated_assumptions",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/clean-load-report.json#/tests"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "clean-load-comparison_adjudications",
+      "criterion": "Isolated release-only acceptance: comparison_adjudications",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/clean-load-report.json#/tests"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "clean-load-linked_public_sources",
+      "criterion": "Isolated release-only acceptance: linked_public_sources",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/clean-load-report.json#/tests"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "clean-load-pipeline_federal_cost_case",
+      "criterion": "Isolated release-only acceptance: pipeline_federal_cost_case",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/clean-load-report.json#/tests"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "clean-load-validated_twic_item15_bridge",
+      "criterion": "Isolated release-only acceptance: validated_twic_item15_bridge",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/clean-load-report.json#/tests"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "clean-load-six_unresolved_task_method_questions",
+      "criterion": "Isolated release-only acceptance: six_unresolved_task_method_questions",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/clean-load-report.json#/tests"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "clean-load-federal_comparator_material",
+      "criterion": "Isolated release-only acceptance: federal_comparator_material",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/clean-load-report.json#/tests"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "clean-load-federal_review_time_assumption_query",
+      "criterion": "Isolated release-only acceptance: federal_review_time_assumption_query",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/clean-load-report.json#/tests"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "clean-load-carrier_amendment_query",
+      "criterion": "Isolated release-only acceptance: carrier_amendment_query",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/clean-load-report.json#/tests"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "negative-and-pagination-cases",
+      "criterion": "All 18 recorded rejection and pagination cases pass",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/validation/negative-tests.json"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    },
+    {
+      "id": "required-version-identities",
+      "criterion": "Release and frozen input versions match the authorized identities",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/release-manifest.json"
+      ],
+      "verification_basis": "Direct closeout metadata check"
+    },
+    {
+      "id": "manifest-and-attestations-authentic",
+      "criterion": "Manifest, reviewed reports, limitations and handoff match checkpoint Git blob identities; manifest-listed reviewed bytes match SHA-256 and size",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "afdffadf8623735a19aca876f7bdfe410979dbdc",
+        "release/icr-evidence/v1.0.0/release-manifest.json"
+      ],
+      "verification_basis": "Exact fetched UTF-8 bytes checked locally against pinned Git tree and manifest; full evidence not reread"
+    },
+    {
+      "id": "loop-5-2-handoff",
+      "criterion": "Loop 5.2 handoff exists and names the freeze-state mechanism",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/LOOP-5.2-HANDOFF.md"
+      ],
+      "verification_basis": "Pinned nonempty handoff read; Git blob and manifest SHA-256 checked"
+    },
+    {
+      "id": "immutable-base-declaration",
+      "criterion": "Receipt declares immutable versioned base and preserves separate overlays",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/FREEZE-RECEIPT.json"
+      ],
+      "verification_basis": "Direct closeout metadata check"
+    },
+    {
+      "id": "terminal-state-discovery",
+      "criterion": "Existing handoff-named mechanism exposes deterministic frozen state, receipt, gate and handoff",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "loop-5/freeze-state.json",
+        "release/icr-evidence/v1.0.0/FREEZE-RECEIPT.json"
+      ],
+      "verification_basis": "Direct cross-file consistency check"
+    },
+    {
+      "id": "canonical-release-unchanged",
+      "criterion": "Closeout is limited to three new administrative files; no existing canonical, evidence or report blob is replaced",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "afdffadf8623735a19aca876f7bdfe410979dbdc",
+        "loop-5/freeze-state.json",
+        "release/icr-evidence/v1.0.0/FREEZE-RECEIPT.json",
+        "release/icr-evidence/v1.0.0/validation/final-acceptance-gate.json"
+      ],
+      "verification_basis": "Construct Git tree from pinned parent using only these new paths. Confirm returned tree before commit; no broad content scan."
+    },
+    {
+      "id": "administrative-hash-boundary",
+      "criterion": "Exact administrative exclusions preserve canonical inventory and unexpected-file rejection",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "loop-5/freeze-state.json#/manifest_hash_boundary"
+      ],
+      "verification_basis": "Targeted inventory adapter check; canonical consumer and manifest unchanged"
+    },
+    {
+      "id": "limitations-retained",
+      "criterion": "Known coverage limits and unperformed UI/link checks are retained",
+      "required": true,
+      "result": "PASS",
+      "evidence": [
+        "release/icr-evidence/v1.0.0/KNOWN-ISSUES.md",
+        "release/icr-evidence/v1.0.0/validation/validation-report.json"
+      ],
+      "verification_basis": "Existing Checkpoint D evidence; not rerun"
+    }
+  ],
+  "required_criteria_count": 31,
+  "passed_criteria_count": 31,
+  "overall_result": "PASS",
+  "scope": "Terminal acceptance over unchanged Checkpoint D evidence and additions-only closeout metadata. Existing validation reports are inherited attestations, not newly executed tests. Git commit success is the final external completion condition and is reported from the GitHub response, never claimed by a self-referential commit hash.",
+  "known_limitations": [
+    "Original publication URL availability was not retested; original publication binaries and report PDFs are outside the portable release.",
+    "Frozen analytical coverage limits and unresolved questions remain as documented in KNOWN-ISSUES.md and provenance/limitations.json.",
+    "No Workbench UI or DHSChat bus was built or tested in Loop 5.1."
+  ]
+}
