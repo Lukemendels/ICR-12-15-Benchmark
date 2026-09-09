@@ -1,0 +1,370 @@
+{
+  "version": "1.0.0",
+  "evidence_version": "M3-1.0.0",
+  "graph_version": "1.0.0",
+  "status": "DETERMINISTIC_QUERY_CONTRACT",
+  "purpose": "Bounded read-only substrate; no UI or model-generated adjudication.",
+  "input_contract": {
+    "query_id": "One registered ID only",
+    "filters": {
+      "refs": "Optional exact package refs; intersect registered scope",
+      "classifications": "Optional schema classification enum list",
+      "recent_only": "Optional boolean; read ICR_VERSION.data.recent",
+      "record_status": "Optional exact ICR_VERSION.data.record_status values",
+      "limit": "Integer 1..100; default 50",
+      "after_id": "Optional last returned stable ID; lexicographic pagination"
+    },
+    "reject": "Unknown query IDs, fields/operators, executable code, arbitrary traversal and out-of-range limits."
+  },
+  "execution_rules": [
+    "Select the registered IDs or exact family values; apply filters by intersection; join refs to VER-<ref>. Never infer approved status from recency.",
+    "Sort by stable finding/assumption/baseline ID, then observation ID; paginate after sorting. Count unique records by ID; comparison and QA ledgers have separate denominators.",
+    "Traverse only listed edge types and named joins, at most three hops. Return null with an unknown reason for absent fields. A missing edge is not evidence of absence.",
+    "Only calculate paired differences/ratios where an existing adjudication authorizes the named component and units, period, statistic and denominator match. No pooling across versions or overlapping representations.",
+    "Return existing classifications unchanged. NOT_COMPARABLE and UNRESOLVED results are explanatory evidence, not numeric ratios.",
+    "Read manifest-listed shards only. Join full canonical adjudication/challenge ledgers by finding_id where graph projection omits detailed evidence. SOURCE.data.review_status is historical retrieval metadata; canonical reviewed ledgers govern review status."
+  ],
+  "common_output_fields": [
+    "id",
+    "record_kind",
+    "ref or refs",
+    "ICR_VERSION.data.record_status",
+    "ICR_VERSION.data.inventory.conclusion",
+    "ICR_VERSION.data.recent",
+    "family",
+    "actor/scope if observed",
+    "original_value",
+    "original_unit",
+    "normalized_value",
+    "unit",
+    "period",
+    "vintage if observed",
+    "classification",
+    "confidence",
+    "epistemic_status",
+    "unknown_reason"
+  ],
+  "provenance_contract": [
+    "Return source_id, document_id, locator, original, extraction_method, transformation, status from each selected record and traversed supporting edge.",
+    "Resolve source_id to SOURCE.data.url for Mission 3; for Mission 1 use report/leadership/source/citation-registry.json, report/source/citation-registry.json. Retain raw/text hashes where present.",
+    "Return version record URL, source download URL, archived locator, and canonical ledger path/record ID; no invented page numbers.",
+    "Include classification rationale, limitations and adversarial-challenge result with each finding."
+  ],
+  "caveats": [
+    "An empty result means no reviewed match within frozen query scope, not no such assumption in TSA.",
+    "Discovery indexes are excluded from reviewed results; they may only be used in a separately labeled future discovery mode.",
+    "Lineage is not numerical baseline verification; serial versions and transfers are not independent replications."
+  ],
+  "queries": [
+    {
+      "id": "Q01",
+      "user_question": "What management-review assumptions recur, and where are the tasks comparable?",
+      "graph_pattern": "ASSUMPTION -> MEMBER_OF -> ASSUMPTION_FAMILY; ACTIVITY -> USES_ASSUMPTION -> ASSUMPTION; CONSISTENCY_FINDING -> SUPPORTED_BY -> SOURCE_OBSERVATION",
+      "filters": {
+        "assumption_families": [
+          "manager_review"
+        ],
+        "finding_ids": [
+          "CMP-16",
+          "CMP-17",
+          "FIND-CYBER-COST"
+        ],
+        "baseline_ids": [],
+        "scope_rule": "For assumption families select ASSUMPTION.data.family; finding_ids are a separate OR branch. Apply user filters by intersection to each branch."
+      },
+      "comparison_operation": "Compare the registered per-plan manager/analyst components; show the rejected manager-title match separately.",
+      "output_fields": [
+        "scope",
+        "actor",
+        "normalized_value",
+        "unit",
+        "period",
+        "vintage",
+        "candidate_explanation_tested"
+      ],
+      "provenance_returned": "Full common provenance contract, plus canonical finding/challenge or baseline record.",
+      "caveats": [
+        "Manager title does not align scope; wage-cost QA and per-plan time consistency are separate."
+      ]
+    },
+    {
+      "id": "Q02",
+      "user_question": "How do published security-program amendment burdens compare?",
+      "graph_pattern": "CONSISTENCY_FINDING -> SUPPORTED_BY -> SOURCE_OBSERVATION -> MEMBER_OF -> ASSUMPTION_FAMILY",
+      "filters": {
+        "assumption_families": [
+          "task_duration"
+        ],
+        "finding_ids": [
+          "CMP-01",
+          "CMP-02",
+          "CMP-04",
+          "CMP-14"
+        ],
+        "baseline_ids": [],
+        "scope_rule": "For assumption families select ASSUMPTION.data.family; finding_ids are a separate OR branch. Apply user filters by intersection to each branch."
+      },
+      "comparison_operation": "Display adjudicated amendment components, grouped by respondent/Federal actor and source-defined request; compute differences only for comparable equal-unit components.",
+      "output_fields": [
+        "activity",
+        "similarity",
+        "evidence_assessed",
+        "classification"
+      ],
+      "provenance_returned": "Full common provenance contract, plus canonical finding/challenge or baseline record.",
+      "caveats": [
+        "Airport preparation and carrier request documentation have unresolved scope; consolidated surface requirements are lineage continuity."
+      ]
+    },
+    {
+      "id": "Q03",
+      "user_question": "Which compensation-loading methods and source vintages are used?",
+      "graph_pattern": "ASSUMPTION -> MEMBER_OF -> ASSUMPTION_FAMILY; CONSISTENCY_FINDING -> SUPPORTED_BY -> SOURCE_OBSERVATION",
+      "filters": {
+        "assumption_families": [
+          "benefit_loading",
+          "wage_statistic",
+          "occupational_assignment",
+          "federal_grade_pay"
+        ],
+        "finding_ids": [
+          "CMP-06",
+          "CMP-07",
+          "CMP-08"
+        ],
+        "baseline_ids": [],
+        "scope_rule": "For assumption families select ASSUMPTION.data.family; finding_ids are a separate OR branch. Apply user filters by intersection to each branch."
+      },
+      "comparison_operation": "Compare categorical method, employee universe, vintage and displayed precision before comparing factors.",
+      "output_fields": [
+        "original_value",
+        "normalized_value",
+        "vintage",
+        "scope",
+        "evidence_assessed"
+      ],
+      "provenance_returned": "Full common provenance contract, plus canonical finding/challenge or baseline record.",
+      "caveats": [
+        "Direct compensation, total-compensation/wage ratios and markups differ; no silent inflation adjustment or claim of optimal proxy."
+      ]
+    },
+    {
+      "id": "Q04",
+      "user_question": "How are turnover and separation assumptions applied?",
+      "graph_pattern": "ASSUMPTION -> MEMBER_OF -> ASSUMPTION_FAMILY; CONSISTENCY_FINDING -> SUPPORTED_BY -> SOURCE_OBSERVATION",
+      "filters": {
+        "assumption_families": [
+          "turnover"
+        ],
+        "finding_ids": [
+          "CMP-21",
+          "FIND-TURNOVER"
+        ],
+        "baseline_ids": [],
+        "scope_rule": "For assumption families select ASSUMPTION.data.family; finding_ids are a separate OR branch. Apply user filters by intersection to each branch."
+      },
+      "comparison_operation": "Display original statistical period, applied model period and denominator; return unresolved mapping and overlap questions without an annualized ratio.",
+      "output_fields": [
+        "scope",
+        "period",
+        "difference_observed",
+        "legitimating_evidence_needed"
+      ],
+      "provenance_returned": "Full common provenance contract, plus canonical finding/challenge or baseline record.",
+      "caveats": [
+        "Monthly separation events cannot be mechanically converted into a calibrated individual annual hazard; mobility and turnover may overlap."
+      ]
+    },
+    {
+      "id": "Q05",
+      "user_question": "Which comparable tasks retain or change their published time assumptions?",
+      "graph_pattern": "CONSISTENCY_FINDING -> SUPPORTED_BY -> SOURCE_OBSERVATION; optional SOURCE_OBSERVATION -> DERIVED_FROM -> ACTIVITY",
+      "filters": {
+        "assumption_families": [
+          "task_duration",
+          "renewal",
+          "recordkeeping",
+          "familiarization",
+          "legal_review"
+        ],
+        "finding_ids": [
+          "CMP-01",
+          "CMP-02",
+          "CMP-03",
+          "CMP-04",
+          "CMP-05",
+          "CMP-09",
+          "CMP-10",
+          "CMP-13",
+          "CMP-19",
+          "CMP-20",
+          "CMP-23",
+          "CMP-31"
+        ],
+        "baseline_ids": [],
+        "scope_rule": "For assumption families select ASSUMPTION.data.family; finding_ids are a separate OR branch. Apply user filters by intersection to each branch."
+      },
+      "comparison_operation": "Return member values and existing scope adjudication; differences permitted only within CONSISTENT or DIFFERENT_EXPLAINED named components with compatible units/periods.",
+      "output_fields": [
+        "activity",
+        "similarity",
+        "original_values",
+        "normalized_values",
+        "units",
+        "evidence_assessed"
+      ],
+      "provenance_returned": "Full common provenance contract, plus canonical finding/challenge or baseline record.",
+      "caveats": [
+        "Semantic normalization alone creates no comparability; maximum, average, annual bundle and per-event duration remain distinct."
+      ]
+    },
+    {
+      "id": "Q06",
+      "user_question": "What Federal review-time and staffing assumptions are supported?",
+      "graph_pattern": "ACTIVITY -> USES_ASSUMPTION -> ASSUMPTION; CONSISTENCY_FINDING -> SUPPORTED_BY -> SOURCE_OBSERVATION",
+      "filters": {
+        "assumption_families": [
+          "federal_review_time",
+          "manager_review",
+          "legal_review",
+          "federal_grade_pay"
+        ],
+        "finding_ids": [
+          "CMP-11",
+          "CMP-14",
+          "CMP-16",
+          "CMP-17",
+          "CMP-20",
+          "CMP-28",
+          "FIND-CYBER-COST"
+        ],
+        "baseline_ids": [],
+        "scope_rule": "For assumption families select ASSUMPTION.data.family; finding_ids are a separate OR branch. Apply user filters by intersection to each branch."
+      },
+      "comparison_operation": "Separate role-specific hours, reviewer bundle and recurrence; show cost replay only via registered validation checks.",
+      "output_fields": [
+        "actor",
+        "scope",
+        "period",
+        "vintage",
+        "check_ids",
+        "evidence_assessed"
+      ],
+      "provenance_returned": "Full common provenance contract, plus canonical finding/challenge or baseline record.",
+      "caveats": [
+        "Do not equate Federal processing, substantive verification and contractor response handling; proposed COIP is not implemented workload."
+      ]
+    },
+    {
+      "id": "Q07",
+      "user_question": "Which Item 15 baseline and component bridge can be reproduced?",
+      "graph_pattern": "CHANGE_EVENT -> DERIVED_FROM -> BASELINE; BASELINE -> RECONCILES_WITH -> ICR_VERSION; CHANGE_EVENT -> CHANGES_TO -> ICR_VERSION",
+      "filters": {
+        "assumption_families": [
+          "item15_baseline"
+        ],
+        "finding_ids": [],
+        "baseline_ids": [
+          "BASELINE-TWIC-2025"
+        ],
+        "scope_rule": "For assumption families select ASSUMPTION.data.family; finding_ids are a separate OR branch. Apply user filters by intersection to each branch."
+      },
+      "comparison_operation": "Read analysis/item15-bridges.jsonl by baseline ID; replay sum of the six registered component deltas and prior plus net change.",
+      "output_fields": [
+        "prior_ref",
+        "current_ref",
+        "prior_hours",
+        "current_hours",
+        "component_deltas",
+        "net_change",
+        "unit",
+        "period"
+      ],
+      "provenance_returned": "Full common provenance contract, plus canonical finding/challenge or baseline record.",
+      "caveats": [
+        "One verified TWIC aggregate component bridge; a prior-package link or displayed subtraction does not verify other baselines or causal attribution."
+      ]
+    },
+    {
+      "id": "Q08",
+      "user_question": "Which published within-ICR QA conflicts survived challenge?",
+      "graph_pattern": "CONSISTENCY_FINDING -> SUPPORTED_BY -> VALIDATION_CHECK -> USES_FORMULA -> FORMULA; VALIDATION_CHECK -> SUPPORTED_BY -> SOURCE",
+      "filters": {
+        "assumption_families": [],
+        "finding_ids": [
+          "FIND-HME",
+          "FIND-MD3",
+          "FIND-GENERIC",
+          "FIND-EXIS",
+          "FIND-LEO",
+          "FIND-TURNOVER",
+          "FIND-PRECHECK",
+          "FIND-CYBER-COST"
+        ],
+        "baseline_ids": [],
+        "scope_rule": "For assumption families select ASSUMPTION.data.family; finding_ids are a separate OR branch. Apply user filters by intersection to each branch."
+      },
+      "comparison_operation": "Return the eight adjudicated findings and their linked registered checks; show published/calculated values and tolerance without overwriting source values.",
+      "output_fields": [
+        "check_ids",
+        "formula",
+        "replay_formula",
+        "published_value",
+        "calculated_value",
+        "difference",
+        "tolerance",
+        "unit",
+        "period",
+        "classification"
+      ],
+      "provenance_returned": "Full common provenance contract, plus canonical finding/challenge or baseline record.",
+      "caveats": [
+        "341 checks are evidence records across 40 versions, not 341 errors or a portfolio error rate; PreCheck remains a scope question."
+      ]
+    },
+    {
+      "id": "Q09",
+      "user_question": "What assumption continuity or change is documented across versions?",
+      "graph_pattern": "ICR_VERSION -> UPDATES_FROM -> ICR_VERSION; CONSISTENCY_FINDING -> SUPPORTED_BY -> SOURCE_OBSERVATION",
+      "filters": {
+        "assumption_families": [],
+        "finding_ids": [
+          "CMP-02",
+          "CMP-12",
+          "CMP-13",
+          "CMP-15",
+          "CMP-16",
+          "CMP-19",
+          "CMP-20",
+          "CMP-21",
+          "CMP-22",
+          "CMP-23",
+          "CMP-24",
+          "CMP-25",
+          "CMP-26",
+          "CMP-27",
+          "CMP-28",
+          "CMP-29",
+          "CMP-30",
+          "CMP-31",
+          "CMP-32"
+        ],
+        "baseline_ids": [],
+        "scope_rule": "For assumption families select ASSUMPTION.data.family; finding_ids are a separate OR branch. Apply user filters by intersection to each branch."
+      },
+      "comparison_operation": "Join existing lineage links and observations by exact ref and registered finding ID; return prior inspection and source-supported explanation from challenge ledger.",
+      "output_fields": [
+        "prior_versions_inspected",
+        "record_status",
+        "original_value",
+        "normalized_value",
+        "period",
+        "evidence_assessed"
+      ],
+      "provenance_returned": "Full common provenance contract, plus canonical finding/challenge or baseline record.",
+      "caveats": [
+        "Do not manufacture assumption-to-assumption lineage from shared labels; administrative predecessors remain visible and baseline_verified is separate."
+      ]
+    }
+  ]
+}

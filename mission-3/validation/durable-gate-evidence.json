@@ -1,0 +1,22 @@
+{
+  "verified_on_main_commit": "621fc14353a0537611edf1dbfc874bd432a499d2",
+  "files": [
+    {
+      "path": "analysis/adjudicated-comparisons.jsonl",
+      "sha": "15b5468b4ee40c16dd2e382539ea92dfc50e8c46"
+    },
+    {
+      "path": "analysis/adjudicated-findings.jsonl",
+      "sha": "42ef7ac800f8259c7ae6ba758ce13f360d598483"
+    },
+    {
+      "path": "analysis/adversarial-challenge.jsonl",
+      "sha": "8e2bf04a27b71f0da7deee314d354c251a268aab"
+    },
+    {
+      "path": "mission-3/stability-batches.json",
+      "sha": "476e31fa8935a6bd8a495fc7d8611db8434144d6"
+    }
+  ],
+  "method": "All 2177 tracked blobs in the local baseline matched the GitHub recursive tree at main; these gate records are preserved byte-for-byte through closure."
+}

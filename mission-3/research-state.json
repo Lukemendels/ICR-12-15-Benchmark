@@ -1,7 +1,7 @@
 {
-  "MISSION_STATUS": "COMPARISON_ADJUDICATION_AND_VALIDATION",
-  "evidence_version": "M3-0.1.0",
-  "graph_version": "0.1.0",
+  "MISSION_STATUS": "FINAL_FREEZE_VALIDATION",
+  "evidence_version": "M3-1.0.0",
+  "graph_version": "1.0.0",
   "base_commit": "d041cde75fe33b0bf9dec29c7cc6ae7309ca8a69",
   "mission_1": "EVIDENCE_FROZEN",
   "window": [
@@ -38,18 +38,18 @@
     "Final analysis F: two held-out application comparisons adjudicated; source paragraph checks preserve DASSP field-scope caveat. First stable final analytical batch.",
     "Final analysis G: held-out identity-transmission and application comparisons stable; two successive analytical batches complete without major finding or framework change."
   ],
-  "next": "Validate source locators, graph endpoints and epistemic labels; complete query catalog and two stable analytical review batches.",
+  "next": "Run bounded final closure validation; freeze only on PASS.",
   "freeze_gates": {
     "portfolio": true,
-    "current_recent_coverage": false,
-    "needed_lineage": false,
-    "shapes": false,
-    "repeated_families": false,
-    "two_stable_batches": false,
-    "adversarial_challenge": false,
-    "provenance_validation": false,
-    "gaps_documented": false,
-    "tool_readiness": false
+    "current_recent_coverage": true,
+    "needed_lineage": true,
+    "shapes": true,
+    "repeated_families": true,
+    "two_stable_batches": true,
+    "adversarial_challenge": true,
+    "provenance_validation": true,
+    "gaps_documented": true,
+    "tool_readiness": true
   },
   "recovery_base_commit": "acc9b604e446220651f55d3364653368f781a7a5",
   "inventory_counts": {
@@ -64,5 +64,9 @@
   "continuation_base_commit": "23074f3d4927c42b15f552f79368496aa8772f48",
   "final_analysis_base_commit": "d17ed03d740f7c52abfa00cac53f7b8c4fdbb34c",
   "integrated_checkpoint": "a3345edf633b0fcc3309256acb8277ff1e20a891",
-  "concurrent_checkpoint_integrated": "9e29c5620465c879b4c35039f3d3dc0a04d7bc28"
+  "concurrent_checkpoint_integrated": "9e29c5620465c879b4c35039f3d3dc0a04d7bc28",
+  "closure_base_commit": "621fc14353a0537611edf1dbfc874bd432a499d2",
+  "freeze_gate_record": "mission-3/freeze-gates.json",
+  "final_validation": "mission-3/validation/final-validation.json",
+  "release_counts": "mission-3/release-counts.json"
 }

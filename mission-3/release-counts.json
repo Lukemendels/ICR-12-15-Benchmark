@@ -1,0 +1,35 @@
+{
+  "tsa_recent_packages": 90,
+  "tsa_control_histories": 48,
+  "unassigned_control_packages": 5,
+  "represented_versions_including_lineage": 135,
+  "archived_statement_versions": 134,
+  "activity_representations": 468,
+  "graph_activity_nodes": 493,
+  "assumption_context_activity_nodes": 25,
+  "assumption_observations": 162,
+  "reviewed_scalar_categorical_assumptions": 69,
+  "formula_header_observations": 93,
+  "task_method_comparisons": 32,
+  "within_icr_findings": 8,
+  "adjudicated_records": 40,
+  "comparison_classifications": {
+    "CONSISTENT": 15,
+    "UNRESOLVED": 6,
+    "DIFFERENT_EXPLAINED": 8,
+    "NOT_COMPARABLE": 3
+  },
+  "within_icr_classifications": {
+    "POTENTIALLY_INCONSISTENT": 7,
+    "UNRESOLVED": 1
+  },
+  "combined_classifications": {
+    "CONSISTENT": 15,
+    "UNRESOLVED": 7,
+    "DIFFERENT_EXPLAINED": 8,
+    "NOT_COMPARABLE": 3,
+    "POTENTIALLY_INCONSISTENT": 7
+  },
+  "quantitative_checks": 341,
+  "versions_with_quantitative_checks": 40
+}

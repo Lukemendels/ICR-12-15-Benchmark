@@ -1,0 +1,27 @@
+{
+  "base_commit": "621fc14353a0537611edf1dbfc874bd432a499d2",
+  "algorithm": "git-blob-sha1",
+  "groups": {
+    "all_protected": {
+      "prefix": "",
+      "file_count": 891,
+      "sha256_path_blob_manifest": "e3b0fea2797ce00ad7445fabdbeb44ac9407799608dffabf683eb0ec8d0b7ac5"
+    },
+    "mission_1_evidence": {
+      "prefix": "research/",
+      "file_count": 12,
+      "sha256_path_blob_manifest": "440e075a048f744644ba61b3023838bf93afea501ddd21e6418fea3a38a75fb4"
+    },
+    "technical_and_leadership_reports": {
+      "prefix": "report/",
+      "file_count": 58,
+      "sha256_path_blob_manifest": "d7aa5aaf2e53d3d9d89ea6f3dd121075b5b4c378484787cf81c1041c5cec5fa2"
+    },
+    "leadership_brief": {
+      "prefix": "report/leadership/",
+      "file_count": 16,
+      "sha256_path_blob_manifest": "52a0c341fa6b0a105752ddf04966909c98092c91c49b14862347970f90e04526"
+    }
+  },
+  "scope": "All baseline tracked paths outside mission-3/, analysis/ and evidence-graph/. Compare sorted path/Git-blob-SHA objects. Report group contains both technical benchmark and leadership brief."
+}

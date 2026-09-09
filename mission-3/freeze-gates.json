@@ -1,0 +1,110 @@
+{
+  "evidence_version": "M3-1.0.0",
+  "graph_version": "1.0.0",
+  "reviewed_base_commit": "621fc14353a0537611edf1dbfc874bd432a499d2",
+  "decision": "SATISFIED_SUBJECT_TO_FINAL_VALIDATION_PASS",
+  "gates": {
+    "portfolio": {
+      "satisfied": true,
+      "evidence": "Official inventory: 90 recent TSA packages, 48 assigned control histories, five unassigned proposals; two OPM common-form records excluded.",
+      "files": [
+        "mission-3/inventory.json",
+        "mission-3/control-histories.json",
+        "mission-3/inventory-method.md"
+      ],
+      "public_data_boundary": "See mission-3/limitations.md; bounded public gaps do not block the stated release scope."
+    },
+    "current_recent_coverage": {
+      "satisfied": true,
+      "evidence": "All 90 recent versions have Items 12–15 section coverage and principal task normalization. This is principal coverage, not all-cell reconstruction.",
+      "files": [
+        "mission-3/logs/012-portfolio-task-coverage.md",
+        "analysis/qa-summary.json",
+        "evidence-graph/manifest.json"
+      ],
+      "public_data_boundary": "See mission-3/limitations.md; bounded public gaps do not block the stated release scope."
+    },
+    "needed_lineage": {
+      "satisfied": true,
+      "evidence": "84 linked recent packages reach usable statements; six have no previous link. Administrative-only predecessor retained. Major challenges inspect available relevant predecessors; only explicitly verified numerical baselines are claimed.",
+      "files": [
+        "mission-3/lineage-resolved.json",
+        "mission-3/logs/010-lineage.md",
+        "analysis/adversarial-challenge.jsonl",
+        "analysis/item15-bridges.jsonl"
+      ],
+      "public_data_boundary": "See mission-3/limitations.md; bounded public gaps do not block the stated release scope."
+    },
+    "shapes": {
+      "satisfied": true,
+      "evidence": "Principal tasks represented for every recent version; shape and comparability rules retain actor, lifecycle, period and population boundaries. Three negative matches and six unresolved task comparisons enforce limits.",
+      "files": [
+        "evidence-graph/shape-taxonomy.md",
+        "evidence-graph/normalization-rules.md",
+        "analysis/comparability-protocol.md",
+        "analysis/adjudicated-comparisons.jsonl"
+      ],
+      "public_data_boundary": "See mission-3/limitations.md; bounded public gaps do not block the stated release scope."
+    },
+    "repeated_families": {
+      "satisfied": true,
+      "evidence": "17-family discovery catalogue distinguished from 162 reviewed observations in 16 families; recurring review, loading, turnover, task-time and lineage patterns adjudicated.",
+      "files": [
+        "mission-3/assumptions/family-catalog.json",
+        "mission-3/assumptions/reviewed.jsonl",
+        "mission-3/assumptions/reviewed-review-and-fees.jsonl",
+        "mission-3/extractions/07-cohort-formula-assumptions.jsonl"
+      ],
+      "public_data_boundary": "See mission-3/limitations.md; bounded public gaps do not block the stated release scope."
+    },
+    "two_stable_batches": {
+      "satisfied": true,
+      "evidence": "Committed batches F (CMP-29/30) and G (CMP-31/32) are successive STABLE reviews with no material framework or major-finding change and identical major-findings blob.",
+      "files": [
+        "mission-3/stability-batches.json",
+        "analysis/adjudicated-comparisons.jsonl"
+      ],
+      "public_data_boundary": "See mission-3/limitations.md; bounded public gaps do not block the stated release scope."
+    },
+    "adversarial_challenge": {
+      "satisfied": true,
+      "evidence": "41 challenge records cover all 32 comparisons and eight findings, plus the rejected FAC rounding candidate. Source, scope, precision, lineage and alternative explanation tests are retained.",
+      "files": [
+        "analysis/adversarial-challenge.jsonl",
+        "analysis/adjudicated-findings.jsonl",
+        "analysis/review-questions.jsonl"
+      ],
+      "public_data_boundary": "See mission-3/limitations.md; bounded public gaps do not block the stated release scope."
+    },
+    "provenance_validation": {
+      "satisfied": true,
+      "evidence": "Final bounded replay resolves graph endpoints, unique IDs, enum labels and exact content-level locators; all 134 archived statement text hashes match.",
+      "files": [
+        "mission-3/validation/graph-validation.json",
+        "mission-3/validation/provenance-validation.json",
+        "mission-3/validation/final-validation.json"
+      ],
+      "public_data_boundary": "See mission-3/limitations.md; bounded public gaps do not block the stated release scope."
+    },
+    "gaps_documented": {
+      "satisfied": true,
+      "evidence": "Remaining public-evidence questions explicitly bounded; no undocumented cause, silent equivalence, missing-as-zero or approved-status inference is authorized.",
+      "files": [
+        "mission-3/limitations.md",
+        "mission-3/open-questions.md",
+        "mission-3/handoff.md"
+      ],
+      "public_data_boundary": "See mission-3/limitations.md; bounded public gaps do not block the stated release scope."
+    },
+    "tool_readiness": {
+      "satisfied": true,
+      "evidence": "Nine deterministic bounded query contracts cover all requested families and return provenance, status, explanations and caveats; graph/schema manifest and exact Mission 4 inputs are complete. No UI built.",
+      "files": [
+        "evidence-graph/query-catalog.json",
+        "evidence-graph/manifest.json",
+        "mission-3/handoff.md"
+      ],
+      "public_data_boundary": "See mission-3/limitations.md; bounded public gaps do not block the stated release scope."
+    }
+  }
+}
