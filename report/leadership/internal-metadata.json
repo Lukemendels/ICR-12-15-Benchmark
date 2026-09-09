@@ -1,5 +1,5 @@
 {
-  "brief_version": "1.0.0",
+  "brief_version": "1.0.1",
   "generation_date": "2026-09-09",
   "source_evidence_release": "M1-1.0.0",
   "source_report_release": "M2-1.0.0",
@@ -9,11 +9,13 @@
   "rubric_version": "1.0.0",
   "source_report_pdf_sha256": "3bfb6c8a08a78d8f6ae422f9649a199663a2f1f447a4ffef70e426db8718cfb6",
   "source_report_md_sha256": "f382d2f36f23f36d8ac5adcefd6cd11f82ff8ae0ea762ca4bab561e855671f8a",
-  "pdf_sha256": "ea3e5b232c1ba32453acd530b53e31a5dda6d639e81569c54e18855be7db51dc",
+  "pdf_sha256": "adc46a4b87f634e82505f71ca98ebbe9f93f53eb2b9f0ab9d51e8c6a71bf72ae",
   "pages": 11,
   "source_pages": 49,
   "new_broad_research": false,
   "frozen_evidence_modified": false,
   "technical_report_modified": false,
-  "scope": "Separate editorial derivative; no application or evidence graph built."
+  "scope": "Separate editorial derivative; no application or evidence graph built.",
+  "previous_brief_commit": "dbd0fabd399be567cbde43ef1c9c74b8db70f25e",
+  "revision_scope": "Targeted institutional-tone, conditional-action and plain-language polish; 11 pages retained."
 }

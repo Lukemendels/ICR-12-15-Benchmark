@@ -12,15 +12,15 @@ A review of 73 recent federal Information Collection Requests (ICRs), including 
 
 **2. TSA has meaningful strengths, particularly in Item 12.** Reviewed collections distinguish activities, applicant and employer effort, transition cohorts, and occupations. Several also expose Federal workload equations. Preserve these foundations.
 
-**3. Preventable consistency and reconstruction risks reached publication.** Selected TSA statements contain nonreconciling subtotals and Federal hours, conflicting table and narrative costs, and an applied wage that does not match its footnote. These differences impede reconstruction and reuse of the intended estimate; they are more than presentation defects.
+**3. Published TSA statements show consistency and reconstruction risks.** Several statements contain conflicting subtotals, Federal hours, table and narrative costs, or wage footnotes. These differences can impede an analyst's ability to reproduce and reuse the intended estimate. They are analytical control issues, not merely formatting problems, that stronger links between the model and its outputs could prevent.
 
-**4. The principal opportunity is architectural.** One source-bound model should produce the Excel model and all Items 12-15 outputs after arithmetic, unit, period, and pathway checks. The value is one analytical source of truth producing every downstream representation. Human review remains responsible for the validity of assumptions and cost scope.
+**4. The principal opportunity is a common quantitative record.** Each material input should be tied to its source, unit, period, and transformation. This source-bound model would produce Excel and Items 12-15 outputs after validation: one analytical source of truth for every representation. Human review remains responsible for assumptions and cost scope.
 
-**5. Federal examples provide concrete methods to adopt.** An obligation ledger can prevent counting work already assigned elsewhere; measured burden should include preparation; purchased services should be separated from internal effort; and Item 15 should quantify changes from a named baseline.
+**5. Federal examples provide concrete methods to adopt.** Record which collection owns each obligation to avoid double counting; include preparation in measured burden; separate purchases from internal effort; and quantify Item 15 changes from an identified prior estimate.
 
-**Recommended next step.** Establish common QA controls and sponsor a bounded prototype on one upcoming TSA collection. Require source-to-output traceability and reconciled outputs before expanding. Then use the reviewed corpus to compare assumptions across similarly shaped TSA collections.
+**Recommended next step.** Consider common QA controls and a bounded prototype on one upcoming collection, followed by comparison of assumptions across similarly shaped TSA collections.
 
-The evidence establishes published reconstruction risks, not their internal causes. Detailed methodology, benchmark results, and technical appendices are retained separately.
+This review identifies practical controls for future economic analysis; it does not evaluate individual analysts or infer undocumented production causes. Detailed methodology and supporting evidence are retained separately.
 
 <!-- PAGE -->
 # 1. Why this matters
@@ -62,13 +62,13 @@ A common model should preserve operational differences. An estimate can reproduc
 
 ## Three methods worth transferring first
 
-**Assign obligations before adding hours.** The BLS example distinguishes establishments already required to keep OSHA records from those newly required to keep records for the survey. The transferable principle is to identify who already bears an obligation and where it is counted. For TSA, an obligation ledger should identify the responsible control and explain exclusions or transfers. Shared requirements should not become duplicated burden merely because they appear in more than one analytical view.[@SRC-0008|Item 12, recording burden and Table 9]
+**Assign obligations before adding hours.** The BLS example distinguishes establishments already required to keep OSHA records from those newly required to keep records for the survey. For TSA, an obligation ledger - a record of which collection owns each requirement - should identify the responsible control and explain exclusions or transfers. This prevents shared requirements from being counted twice.[@SRC-0008|Item 12, recording burden and Table 9]
 
 **Measure the whole task.** Census's Annual Integrated Economic Survey testing distinguishes preparation, questionnaire-reported estimates, and paradata. These observations differ in scope and statistic. Time spent in an instrument does not necessarily include preparation, coordination, or record retrieval; a median cannot silently stand in for a mean. TSA timing evidence should identify the activity measured, respondent segment, observation period, and statistic before it is used to validate a burden assumption.[@SRC-0099|Printed p. 19, burden measurement comparison]
 
 **Make Item 15 a numerical explanation.** The Coast Guard security-plan example removes 980 two-minute addendum responses, or approximately 33 annual hours. This is useful because the change in a requirement is linked to an interpretable workload effect. Its underlying administrative query is unavailable, so the example teaches reconciliation rather than complete replication of every input.[@SRC-0174|Items 12 and 15, removal of CG-6025A]
 
-For TSA, retain a named prior baseline and a separate explanation of changes in responses, hours, and nonlabor dollars. A change in population, task time, collection requirements, or estimation method should have an identifiable effect. When multiple inputs change together, disclose how their joint effect is allocated rather than silently switching the comparison basis.[@TECH|Sections 8, 10 and 14]
+For TSA, identify the prior estimate used as the baseline and quantify the changes leading to the new estimate. These Item 15 bridges should separately explain changes in responses, hours, and nonlabor dollars. A change in population, task time, collection requirements, or estimation method should have an identifiable effect. When multiple inputs change together, disclose how their joint effect is allocated rather than silently switching the comparison basis.[@TECH|Sections 8, 10 and 14]
 
 ## Transfer methods; revalidate assumptions
 
@@ -149,7 +149,7 @@ The examples on the next two pages show why those connections matter. Detailed a
 
 ## What the pattern establishes
 
-The benchmark does not establish poor internal models or that manual processing caused these differences. **It establishes that inconsistent representations survived into public documents.** The quality-control implication is that the production approach permits avoidable alignment failures. Separate representations create opportunities for drift; this is an architectural interpretation, not an observation of internal production history.
+**Several published TSA Supporting Statements contain internal inconsistencies that stronger model-to-output controls could prevent.** These controls align calculations, tables, footnotes, and narrative. Separate representations can drift apart; this describes a design risk, not the undocumented causes of these cases. Internal model quality and any causal role of manual processing remain unestablished.
 
 Possible pathway duplication requires a scope decision; small precision residuals require a rounding check. The technical report retains these distinct additional cases.
 
@@ -163,7 +163,7 @@ These recommendations translate the findings into branch practice.[@TECH|Section
 | Action | Priority for Economic Analysis |
 | **KEEP** | Preserve task-level activities, applicant/employer distinctions, year-specific cohorts, occupation rationale, and workload-based Federal costing. |
 | **IMPROVE** | Validate population partitions and additive tasks; check units, rate periods, transformations, and arithmetic; synchronize tables, footnotes, and narrative; record support for material assumptions. |
-| **ADOPT** | Use named-baseline Item 15 bridges, a cross-control obligation ledger, burden observations with measurement scope, and explicit internal-work/purchased-service distinctions. |
+| **ADOPT** | Use Item 15 bridges from identified prior estimates, an obligation ledger across collections, burden observations with measurement scope, and explicit internal-work/purchased-service distinctions. |
 | **INVESTIGATE** | Resolve purchased-service routing, overhead overlap, Federal system allocations, and proxy validity before imposing common defaults. |
 
 ## Make the review outcomes explicit
@@ -204,7 +204,7 @@ The expected benefit is less reconciliation and more focused review. Savings are
 <!-- PAGE -->
 # 6. Recommended next steps
 
-## Start with a bounded branch decision
+## A bounded starting point for discussion
 
 **Near term: adopt common QA controls.** Assign responsibility for a shared review checklist covering populations, rates and periods, arithmetic, output agreement, assumptions, and Item 15. Apply it to an upcoming collection. Record unresolved questions separately from corrected arithmetic so review can focus on the decisions that remain.
 
@@ -222,4 +222,4 @@ Differences warrant review, not automatic correction. Preserve task scope, popul
 
 For the pilot, track analyst preparation and reconciliation time, reviewer questions, traceability of material inputs, and contradictions remaining at final review. Establish a comparison basis before claiming gains; these are proposed success measures.
 
-**Leadership decision requested:** designate an analytical lead, select the pilot collection, and authorize the bounded prototype with the controls above as acceptance conditions. 
+**If leadership wants to proceed,** the next decision would be to designate an analytical lead, select a pilot collection, and authorize a bounded prototype with the recommended controls as acceptance conditions. 

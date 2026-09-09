@@ -1,10 +1,11 @@
 {
   "pages": 11,
-  "extracted_words": 3596,
+  "extracted_words": 3606,
   "jargon_hits": [],
   "out_of_bounds": [],
   "links": 20,
   "content_font_size": 10.6,
   "table_font_size": 9.4,
-  "footnote_font_size": 8.0
+  "footnote_font_size": 8.0,
+  "pdf_sha256": "adc46a4b87f634e82505f71ca98ebbe9f93f53eb2b9f0ab9d51e8c6a71bf72ae"
 }

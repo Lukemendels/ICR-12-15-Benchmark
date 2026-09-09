@@ -1,9 +1,9 @@
 [
   {
     "page": 1,
-    "body_bottom": 110.0,
+    "body_bottom": 125.0,
     "footnote_top": 86.2,
-    "gap": 9.8,
+    "gap": 24.8,
     "notes": 1
   },
   {
@@ -64,9 +64,9 @@
   },
   {
     "page": 10,
-    "body_bottom": 118.0,
+    "body_bottom": 103.0,
     "footnote_top": 75.6,
-    "gap": 28.4,
+    "gap": 13.4,
     "notes": 1
   },
   {
