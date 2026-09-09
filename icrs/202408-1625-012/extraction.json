@@ -1,0 +1,212 @@
+{
+  "icr_id": "202408-1625-012",
+  "omb_control_number": "1625-0077",
+  "agency": "DHS/USCG",
+  "title": "Security Plan for Ports, Vessels, Facilities, Outer Continental Shelf Facilities and Other Security-Related Requirements",
+  "submission_date": "09/30/2024",
+  "archetype": "maritime security plans and declarations",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 8,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0174",
+    "SRC-0173"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 10,
+    "segmentation": 14,
+    "labor": 6,
+    "item13": 8,
+    "item14": 6,
+    "item15": 8,
+    "validation": 3,
+    "consistency": 4
+  },
+  "score_rationale": {
+    "reproducibility": "Appendix reconstructs allpopulation/activitytotals; some conservativecohortrounding.",
+    "provenance": "MISLEpopulation,OEWS2023SOCandCGcostinstruction; timeandfederalrateversionsnotfullyspecified.",
+    "segmentation": "Port,vessel,facility,OCS,new/annual/fiveyearanddeclarations distinguished.",
+    "labor": "Complianceofficerwage+50%rounded58; loadingfactorasserted.",
+    "item13": "Explicitzeroequipment/maintenance forplan/reportcollection; reasonlimited.",
+    "item14": "Contract380000plusfacility1.92m;43units*.5FTEformula butLTwagerateomitted.",
+    "item15": "980responses*2min=>33hprogramreduction linkedtoremovedaddendum.",
+    "validation": "MISLEandoperationalexperience;100%stakeholderparticipationacknowledgedupperbound.",
+    "consistency": "Appendix totalsreconcile; unique stakeholderoverlap andperiodicreviewpartition notfullyvalidated."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Area plans",
+        86000,
+        5,
+        430000
+      ],
+      [
+        "New vessels",
+        263,
+        80,
+        21040
+      ],
+      [
+        "Annual vessels",
+        8147,
+        8,
+        65176
+      ],
+      [
+        "Fiveyear vessels",
+        2103,
+        12,
+        25236
+      ],
+      [
+        "New facilities",
+        28,
+        100,
+        2800
+      ],
+      [
+        "Annual facilities",
+        2192,
+        10,
+        21920
+      ],
+      [
+        "Fiveyear facilities",
+        556,
+        15,
+        8340
+      ],
+      [
+        "Facility DoS",
+        1943200,
+        0.25,
+        485800
+      ],
+      [
+        "Removed addendum",
+        -980,
+        0.03333333333333333,
+        -33
+      ],
+      [
+        "New OCS",
+        2,
+        40,
+        80
+      ],
+      [
+        "Annual OCS",
+        43,
+        4,
+        172
+      ],
+      [
+        "Fiveyear OCS",
+        11,
+        6,
+        66
+      ],
+      [
+        "OCS DoS",
+        39200,
+        0.25,
+        9800
+      ]
+    ],
+    "labor": {
+      "soc": "13-1041",
+      "vintage": 2023,
+      "loading": 1.5,
+      "loaded_rounded": 58,
+      "reported": 62083026
+    },
+    "item13": {
+      "reported": 0,
+      "scope": "Securityplan/reportobligations"
+    },
+    "item14": {
+      "vessel_contract": 380000,
+      "facility_cost": 1920000,
+      "units": 43,
+      "hours_per_unit": 1000,
+      "grade": "LT O3",
+      "source": "COMDTINST7310.1 in-governmentrate,editionunspecified",
+      "reported": 2300000
+    },
+    "item15": {
+      "removed_form": "CG6025A",
+      "responses_delta": -980,
+      "minutes_saved": 2,
+      "hours_delta": -33,
+      "new_hours": 1070397
+    },
+    "assumptions": [
+      "200stakeholdersper43committees,10events*5h.",
+      "Annualnewshares vessels2.5%,facilities1%,OCS2%.",
+      "DoS700perfacilityperyear; countedonceforjointvessel/facilitysignature."
+    ]
+  },
+  "reconstruction_issues": [
+    "Federal LTpayvalueandCOMDTINSTedition notprovided; mustinfer44.65/hrfromtotal.",
+    "Stakeholdercount8600mayoverlapvessel/facilityofficers; uniquepeoplecannotbeobtainedbysummingroles."
+  ],
+  "methods_worth_testing": [
+    "Countjointly signeddeclarationonce.",
+    "Explicitnew/annual/fiveyearcohorts andnegativeform-removalrow."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "430000+111452+518827+10118",
+      "calculated": 1070397,
+      "reported": 1070397,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0174"
+    },
+    {
+      "label": "Labor",
+      "formula": "1070397*58",
+      "calculated": 62083026,
+      "reported": 62083026,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0174"
+    },
+    {
+      "label": "Change",
+      "formula": "980*2/60",
+      "calculated": 32.666666666666664,
+      "reported": 33,
+      "difference": -0.3333333333333357,
+      "unit": "hours",
+      "interpretation": "Wholehourrounding.",
+      "source_id": "SRC-0174"
+    },
+    {
+      "label": "Federal",
+      "formula": "380000+1920000",
+      "calculated": 2300000,
+      "reported": 2300000,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exactcomponenttotal.",
+      "source_id": "SRC-0174"
+    }
+  ],
+  "total_score": 77
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "file": "icrs/202404-1240-007/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Contact",
+        "Organization",
+        "Email",
+        "Phone"
+      ],
+      [
+        "Myra XXXX",
+        "Department of Labor  Payment Systems Specialist",
+        "XXX",
+        "XXX"
+      ],
+      [
+        "Marcela XXXX",
+        "Claims Examiner/Analyst, Bra n ch of Policy Analysis and Program Standards",
+        "XXX",
+        "XXX"
+      ],
+      [
+        "Bill XXXX ",
+        "Claimant ",
+        "XXX",
+        "XXX"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202404-1240-007/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Activity",
+        "No.  of Respondents",
+        "No. of Responses  per  Respondent",
+        "Total Responses",
+        "Average Burden (H our s)",
+        "Total Burden (Hours)",
+        "Hourly Wage Rate",
+        "Monetized Value of Respondent Time"
+      ],
+      [
+        "OWCP-915",
+        "54,067",
+        "1",
+        "54,067",
+        "0.167",
+        "9,029",
+        "$ 36 .43",
+        "$ 328,9 26.47"
+      ]
+    ]
+  }
+]

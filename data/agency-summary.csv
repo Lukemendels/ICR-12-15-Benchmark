@@ -1,17 +1,20 @@
 agency,n,mean,median,min,max,population_sd,inference
 CFPB,2,50,50.0,46,54,4.0,purposive descriptive sample; no agency population rank
 CFTC,1,67,67,67,67,0.0,purposive descriptive sample; no agency population rank
-DHS/TSA,8,66,67.0,50,76,7.75,purposive descriptive sample; no agency population rank
+DHS/TSA,10,67.4,69.0,50,76,7.53,purposive descriptive sample; no agency population rank
 DHS/USCBP,1,57,57,57,57,0.0,purposive descriptive sample; no agency population rank
+DHS/USCG,1,77,77,77,77,0.0,purposive descriptive sample; no agency population rank
 DHS/USCIS,1,69,69,69,69,0.0,purposive descriptive sample; no agency population rank
-DOC/CENSUS,2,72.5,72.5,71,74,1.5,purposive descriptive sample; no agency population rank
+DOC/CENSUS,3,73,74,71,74,1.41,purposive descriptive sample; no agency population rank
 DOC/NOAA,1,70,70,70,70,0.0,purposive descriptive sample; no agency population rank
 DOI/BLM,1,73,73,73,73,0.0,purposive descriptive sample; no agency population rank
-DOL/BLS,2,80.5,80.5,78,83,2.5,purposive descriptive sample; no agency population rank
+DOL/BLS,3,76.67,78,69,83,5.79,purposive descriptive sample; no agency population rank
 DOL/EBSA,2,76.5,76.5,71,82,5.5,purposive descriptive sample; no agency population rank
 DOL/ETA,1,77,77,77,77,0.0,purposive descriptive sample; no agency population rank
 DOL/MSHA,2,72.5,72.5,72,73,0.5,purposive descriptive sample; no agency population rank
 DOL/OSHA,3,74.67,77,69,78,4.03,purposive descriptive sample; no agency population rank
+DOL/OWCP,1,64,64,64,64,0.0,purposive descriptive sample; no agency population rank
+DOT/FAA,1,69,69,69,69,0.0,purposive descriptive sample; no agency population rank
 DOT/FMCSA,2,60.5,60.5,60,61,0.5,purposive descriptive sample; no agency population rank
 DOT/FRA,1,67,67,67,67,0.0,purposive descriptive sample; no agency population rank
 DOT/PHMSA,2,66,66.0,64,68,2.0,purposive descriptive sample; no agency population rank
@@ -27,7 +30,7 @@ HHS/CMS,2,62.5,62.5,60,65,2.5,purposive descriptive sample; no agency population
 HHS/FDA,2,62,62.0,60,64,2.0,purposive descriptive sample; no agency population rank
 NRC,1,73,73,73,73,0.0,purposive descriptive sample; no agency population rank
 SEC,4,64.5,64.5,53,76,8.5,purposive descriptive sample; no agency population rank
-SSA,1,62,62,62,62,0.0,purposive descriptive sample; no agency population rank
+SSA,2,63,63.0,62,64,1.0,purposive descriptive sample; no agency population rank
 TREAS/IRS,1,73,73,73,73,0.0,purposive descriptive sample; no agency population rank
 USDA/FAS,1,70,70,70,70,0.0,purposive descriptive sample; no agency population rank
 USDA/FSA,1,69,69,69,69,0.0,purposive descriptive sample; no agency population rank

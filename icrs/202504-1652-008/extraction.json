@@ -1,0 +1,212 @@
+{
+  "icr_id": "202504-1652-008",
+  "omb_control_number": "1652-0047",
+  "agency": "DHS/TSA",
+  "title": "Transportation Worker Identification Credential",
+  "submission_date": "05/05/2025",
+  "archetype": "maritime credential enrollment",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 8,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0180",
+    "SRC-0179"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 11,
+    "segmentation": 15,
+    "labor": 6,
+    "item13": 8,
+    "item14": 5,
+    "item15": 6,
+    "validation": 3,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Three-year cohort/pathway tables reconstruct totals; early time rounding and labels conflict.",
+    "provenance": "Historical TWIC population, exactOEWSandECEC references; forecasts and data-selection details less accessible.",
+    "segmentation": "New/comparable/renewal/replacement, online/inperson, pickup, appeals and surveys separated.",
+    "labor": "Seven wage populations andratio loading explicit; nationaltruckdriver majority weakTWICrepresentativeness; inverted equation label.",
+    "item13": "Fee schedules and reduced-fee cohorts explicit, appeal copies separated.",
+    "item14": "Federal cost equated with fee revenue, not resource workload; revenue-model scope acknowledged.",
+    "item15": "Old/new hours/respondents andfeechange, no driver-level dollar/hour decomposition.",
+    "validation": "Administrative disqualification andusage shares; six-hour appeal assumption lacks evidence.",
+    "consistency": "Core totals largelyreconcile; survey/appeal respondents duplicated as uniquepeople and severalfee-count labels wrong."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "New/comparable enrollment",
+        295283,
+        null,
+        269571
+      ],
+      [
+        "Renewal",
+        334114,
+        null,
+        135918
+      ],
+      [
+        "Replacement",
+        47707,
+        0.12,
+        5725
+      ],
+      [
+        "Pickup",
+        40626.299999999996,
+        0.95,
+        38595
+      ],
+      [
+        "Enrollment survey",
+        16927.625,
+        0.04,
+        677
+      ],
+      [
+        "Appeal",
+        9990.464,
+        6,
+        59943
+      ],
+      [
+        "Issuance survey",
+        1015.6574999999999,
+        0.042,
+        43
+      ]
+    ],
+    "labor": {
+      "populations": [
+        11380,
+        12570,
+        3230,
+        1220,
+        4730,
+        35920,
+        2044400
+      ],
+      "wages": [
+        25.72,
+        54.51,
+        54.86,
+        32.4,
+        29.6,
+        40.11,
+        26.92
+      ],
+      "compensation_ratio": [
+        35.83,
+        24.8
+      ],
+      "loaded": 39.52,
+      "reported": 20173805
+    },
+    "item13": {
+      "new_fee": 124,
+      "comparable_fee": 93,
+      "section809_fee": 98.25,
+      "section809_count": 9290,
+      "inperson_renewal": 124,
+      "online_renewal": 116,
+      "replacement": 60,
+      "appeal_copy": 1,
+      "components": [
+        35308401,
+        912743,
+        39612556,
+        2862420,
+        9990
+      ],
+      "reported": 78706109
+    },
+    "item14": {
+      "reported": 78706109,
+      "method": "Fee revenue used as proxy for costs acrossfive-yearcredentiallife; operationalresourcebreakdownabsent"
+    },
+    "item15": {
+      "old_hours": 430317,
+      "new_hours": 510471,
+      "old_reported_respondents": 741518,
+      "new_reported_respondents": 705038,
+      "drivers": [
+        "FBIfee11.25->10",
+        "enrollment/renewal/replacement/appealvolume",
+        "greatermailing",
+        "fewersurveyresponses"
+      ]
+    },
+    "assumptions": [
+      "New enrollment64%pre-enrollment and36%walk-in.",
+      "Renewal68%online32%inperson;94%cardsmailed.",
+      "Appeal3.1%disqualified*52%appeal roundedto1.6%."
+    ]
+  },
+  "reconstruction_issues": [
+    "Table11 weightedmean equation prints population/cost instead of cost/population.",
+    "National heavytruckdrivers make96.7%of wagebasket, not established asTWICpopulationmix.",
+    "Table9 adds surveys andappeals to mainapplicants asrespondents; theseoverlap.",
+    "Table13 annualizednewfee count285994doesnotmatchthreeannualnewcountsaverage281000; dollars usecorrectrowcounts.",
+    "Time roundedbeforemultiplication:7minreplacement modeled.12h;10minonline modeled.17h."
+  ],
+  "methods_worth_testing": [
+    "Mutually exclusive renewalpathways avoid HME-style doublecounting.",
+    "Modelcredentialfeesandcohortsspecifically, withseparatefee/resourceledger."
+  ],
+  "checks": [
+    {
+      "label": "Total hours",
+      "formula": "269571+135918+5725+38595+677+59943+43",
+      "calculated": 510472,
+      "reported": 510471,
+      "difference": 1,
+      "unit": "hours",
+      "interpretation": "One-hour roundedcomponentdifference.",
+      "source_id": "SRC-0180"
+    },
+    {
+      "label": "Fee total",
+      "formula": "35308401+912743+39612556+2862420+9990",
+      "calculated": 78706110,
+      "reported": 78706109,
+      "difference": 1,
+      "unit": "USD",
+      "interpretation": "One-dollarrounding.",
+      "source_id": "SRC-0180"
+    },
+    {
+      "label": "Replacement precise minutes",
+      "formula": "47707*7/60",
+      "calculated": 5565.816666666667,
+      "reported": 5725,
+      "difference": -159.1833333333334,
+      "unit": "hours",
+      "interpretation": "159.18hours differencefromrounded.12h.",
+      "source_id": "SRC-0180"
+    },
+    {
+      "label": "Wage",
+      "formula": "(11380*25.72+12570*54.51+3230*54.86+1220*32.40+4730*29.60+35920*40.11+2044400*26.92)*(35.83/24.80)/2113450",
+      "calculated": 39.51943767717743,
+      "reported": 39.52,
+      "difference": -0.0005623228225744015,
+      "unit": "USD/hour",
+      "interpretation": "Weightedratecorrect despiteinvertedlabel.",
+      "source_id": "SRC-0180"
+    }
+  ],
+  "total_score": 75
+}

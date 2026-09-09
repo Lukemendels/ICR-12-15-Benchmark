@@ -1,0 +1,40 @@
+[
+  {
+    "file": "icrs/202403-0607-001/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Form",
+        "Approximate Quarterly Responses",
+        "Responses per Respondent  per year",
+        "Approximate Annual Responses",
+        "Time per Response",
+        "Approximate Annual Burden"
+      ],
+      [
+        "QSS -1A, QSS-1E,  QSS - 1PA, QSS - 1PE,  QSS-2A,  QSS-2E, QSS-3A,  QSS-3E,  QSS-3SA, QSS-3SE,  QSS-5A, QSS-5E, ",
+        "13,700",
+        "4",
+        "54, 8 00",
+        "15  min",
+        "13,700  hrs"
+      ],
+      [
+        "QSS-4A, QSS-4E, QSS-4 F A, QSS-4 F E,   QSS - 4 S A, QSS - 4 S E",
+        "10,500",
+        "4",
+        "4 2 , 0 00",
+        "1 0  min",
+        "7,000  hrs"
+      ],
+      [
+        "Totals",
+        "24,200",
+        "",
+        "96, 8 00",
+        "",
+        "20,700"
+      ]
+    ]
+  }
+]

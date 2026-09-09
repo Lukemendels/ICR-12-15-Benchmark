@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202502-0960-015",
+  "retrieved_at": "2026-09-09T12:06:16.823482+00:00",
+  "documents": [
+    {
+      "title": "Supporting Statement - 0618.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=153087401",
+      "path": "icrs/202502-0960-015/raw/supporting-statement-a-1.docx",
+      "sha256": "4767bb622833e5209b3f2e76c999cef99f1abc96be86fde4cf32c2bd7a070bf0",
+      "text_chars": 27223
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202502-0960-015",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202502-0960-015",
+  "agency": "SSA",
+  "title": "Social Security Benefits Application",
+  "omb_control_number": "0960-0618",
+  "submission_date": "03/18/2025",
+  "record_source_id": "SRC-0177",
+  "supporting_statement_source_ids": [
+    "SRC-0178"
+  ]
+}

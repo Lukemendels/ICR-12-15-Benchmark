@@ -1,0 +1,379 @@
+PART word/document.xml
+Summary of Changes: 
+The FAA conducted a comprehensive analysis of the information collected under Part 145 and revised burden estimates in this IC substantially since the last OMB approval. The review was completed in accordance with the Terms of Clearance in OMB Notice of Action (NOA) dated 11/22/2021. 
+The title of the collection was revised from “Certification of Repair Stations, Part 145 of Title 14, CFR” to “Certification and Operation of Repair Stations, 14 CFR Part 145”.
+Additionally, the FAA changed FAA Form 8310-3 as follows:
+Added a field for respondents to indicate if the application submission was for the purpose of obtaining a satellite repair station facility, 
+Revised the form instructions, and 
+Revised the Paperwork Reduction Act Burden statement to show estimated burden calculated in this supporting statement. While the FAA estimates the time required to fill out the application is approximately 15 minutes, the time to gather and/or develop the application attachments will take each applicant between 2 and 80 hours, depending on the purpose of the application.
+1. Explain the circumstances that make the collection of information necessary. Identify any legal or administrative requirements that necessitate the collection.
+Title 49, United States Code, Section 44701, General requirements, empowers the Administrator of the Federal Aviation Administration (FAA) to promote safe flight of civil aircraft in air commerce by prescribing regulations and minimum standards in the interest of safety for:
+inspecting, servicing, and overhauling aircraft, aircraft engines, propellers, and appliances, and 
+Equipment and facilities for, and the timing and manner of, the inspecting, servicing, and overhauling.
+Title 49, United States Code, Sections 44702, Issuance of certificates, empower the Administrator of the FAA to issue air agency certificates and states that an application for a certificate must be in the form, contain information, and be filed and served in a way the Administrator prescribes.
+Title 49, United States Code, Section 44707, Examining and rating air agencies, empowers the Administrator of the FAA to examine an rate repair stations and shops that repair, alter, and maintain aircraft, aircraft engines, propellers, and appliances, on the adequacy and suitability of the equipment, facilities, and materials for, and methods of, repair and overhaul, and the competency of the individuals doing the work or giving instruction in the work.
+Title 14 Code of Federal Regulations (14 CFR), part 145, Repair Stations, prescribes, how to obtain a repair station certificate and the rules a certificated repair station must follow related to its performance of maintenance, preventive maintenance, or alterations. It also applies to any person who holds, or is required to hold, a repair station certificate issued under this part. The following subparts/sections of part 145 impose an information collection burden on applicants/holders of a repair station certificate issued under 14 CFR part 145:
+Subpart B – Certification
+Section 145.51 Application for a certificate. This section requires application for a repair station certificate to be in a format acceptable to the FAA. 
+Under § 145.51(a), an original application must include the following:
+1. Manuals including: 
+A repair station manual acceptable to the FAA as required by § 145.207
+A quality control manual acceptable to the FAA as required by § 145.211(c)
+A training program for approval by the FAA in accordance with § 145.163
+
+2. A list of the maintenance functions, for approval by the FAA, to be performed for the repair station under contract by another person in accordance with § 145.217.
+
+3. Other application attachments including:
+A list by type, make, or model, as appropriate, of each article for which the application is made; 
+An organizational chart of the repair station and the names and titles of managing and supervisory personnel; 
+A description of the housing and facilities, including the physical address, in accordance with § 145.103; 
+Under § 145.51 (b), An application for an additional rating, amended repair station certificate, or renewal of a repair station certificate must be made in a format acceptable to the FAA. The application must include only that information necessary to substantiate the change or renewal of the certificate.
+
+Section 145.53 Issue of certificate.
+Under § 145.55(b), If the person is located in a country with which the United States has a bilateral aviation safety agreement, the FAA may find that the person meets the requirements of this part based on a certification from the civil aviation authority of that country. This certification must be made in accordance with implementation procedures signed by the Administrator or the Administrator's designee.
+Under §145.55(c), before a repair station certificate can be issued for a repair station that is located within the United States, the applicant shall certify in writing that all “hazmat employees” (see 49 CFR 171.8) for the repair station, its contractors, or subcontractors are trained as required in 49 CFR part 172 subpart H.
+Under §145.55(d) before a repair station certificate can be issued for a repair station that is located outside the United States, the applicant shall certify in writing that all employees for the repair station, its contractors, or subcontractors performing a job function concerning the transport of dangerous goods (hazardous material) are trained as outlined in the most current edition of the International Civil Aviation Organization Technical Instructions for the Safe Transport of Dangerous Goods by Air.
+Section 145.55 Duration and renewal of certificate. 
+Under §145.55(b), a repair station located outside of the US to apply for renewal of their repair station certificate every 24 months.
+Under § 145.55(d), The holder of an expired, surrendered, suspended, or revoked certificate must return it to the FAA.
+Section 145.57, Amendment to or transfer of certificate. When a repair station makes any of the following changes to the certificate, the repair station must submit a request in a format acceptable to the Administrator:  
+Name change
+Location change
+Add or amend a rating
+Sell or transfer of assets and the new owner chooses to operate as a repair station
+Subpart D - Personnel
+§ 145.159 Recommendation of a person for certification as a repairman. A certificated repair station that chooses to use repairmen to meet the applicable personnel requirements of this part must certify in a format acceptable to the FAA that each person recommended for certification as a repairman is employed by the repair station and meets the eligibility requirements of § 65.101. See IC 2120-0022 for burden on repairman applicants.
+§ 145.161 Records of management, supervisory, and inspection personnel. 
+Under 145.161(a), a repair station must maintain and make available to the FAA a roster(s) and a summary of employment of each of the following repair station personnel:
+Management and supervisory personnel
+Inspection personnel
+Personnel authorized to sign a maintenance release.
+Under 145.161(b), the repair station must revise the roster withing 5 business days of any changes caused by termination, reassignment, change in duties/scope of assignment, or addition of personnel. 
+§ 145.163 Training requirements.
+Under §145.163(a), a certificated station must have and use an employee training program approved by the FAA that consists of initial and recurrent training. An applicant for a repair station certificate must submit a training program for approval by the FAA as required by § 145.51(a)(7).
+Under §145.163(c), a certificated repair station must document, in a format acceptable to the FAA, the individual employee training required in its FAA-approved training program. These training records must be retained for a minimum of 2 years.
+Under §145.163(d) certificated repair station must submit revisions to its training program to its responsible Flight Standards office (FSDO) in accordance with the procedures required by § 145.209(e).
+§ 145.165 Hazardous materials training. Each repair station that meets the definition of a hazmat employer under 49 CFR 171.8 must have a hazardous materials training program that meets the training requirements of 49 CFR part 172 subpart H. BURDEN NOT INCLUDED IN THIS IC See IC 2120-0705, Hazardous Materials Training Requirements.
+Subpart E Operating Rules
+§ 145.206 Notification of hazardous materials authorizations. Each repair station must acknowledge receipt of the part 121 or part 135 operator notification required under §§ 121.1005(e) and 135.505(e) prior to performing work for, or on behalf of that certificate holder.
+§ 145.207 Repair station manual. A certificated repair station must prepare and follow a repair station manual (RSM) acceptable to the FAA, must maintain a current RSM, must provide the current RSM to the FAA, and must notify the FAA of each revision of its RSM.
+§ 145.211 Quality control system. A certificated repair station must prepare and keep current a quality control manual (QCM) acceptable to the FAA and must notify the FAA of revisions to its QCM.
+§ 145.215 Capability list. A certificated repair station with a limited rating may perform maintenance, preventive maintenance, or alterations on an article if the article is listed on a current capability list acceptable to the FAA or on the repair station's operations specifications. The capability list must identify each article by make and model or other nomenclature designated by the article's manufacturer and be available in a format acceptable to the FAA. Upon listing an additional article on its capability list, the repair station must provide its responsible FSDO with a copy of the revised list in accordance with the procedures required in § 145.209(d)(1).
+§ 145.217 Contract maintenance. A certificated repair station may contract a maintenance function pertaining to an article to an outside source provided the repair station maintains and makes available to the FAA the maintenance functions contracted to each outside facility and the name of each outside facility to whom the repair station contracts maintenance functions and the type of certificate and ratings, if any, held by each facility.
+§ 145.219 Recordkeeping. A certificated repair station must retain records in English that demonstrate compliance with the requirements of part 43. The records must be retained in a format acceptable to the FAA. A certificated repair station must retain the records required by this section for at least 2 years from the date the article was approved for return to service. A certificated repair station must make all required records available for inspection by the FAA and the National Transportation Safety Board. BURDEN NOT INCLUDED IN THIS IC - See IC 2120-0665, Safe Disposition of Life-Limited Aircraft Parts and 2120-0020, Maintenance, Preventive Maintenance, Rebuilding, and Alteration, for recordkeeping burden related to recordkeeping requirements of life-limited aircraft parts required by § 43.10. 
+§ 145.221 Service difficulty reports. A certificated repair station must report to the FAA within 96 hours after it discovers any serious failure, malfunction, or defect of an article. The report must be in a format acceptable to the FAA. BURDEN NOT INCLUDED IN THIS IC, SEE IC 2120-0663 Service Difficulty Report.
+2. Indicate how, by whom, and for what purpose the information is to be used. Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+Information Collected 
+The collection includes both reporting and recordkeeping requirements:
+Reporting Requirements covered under this IC include: 
+For initial certification, completing FAA Form 8310-3, Application for Repair Station Certificate and/or Rating, to request issuance of an initial air agency certificate, along with any required application attachments, and submitting to the FAA for review. 
+On occasion, completing and FAA Form 8310-3, Application for Repair Station Certificate and/or Rating, to request a certificate amendment, ratings change, change of location, name change, ownership change, etc. Any required application attachments must also be updated and submitted to the FAA for review.
+Other reporting requirements occur occasionally after certification, for example, when the certificate holder’s operations change. 
+If a repair station is located outside of the US., it must apply for renew its air agency certificate every 2 years.
+All repair stations must develop initially, and as needed after certification keep current, a Repair Station Manual (RSM) and Quality Control Manual (QCM). The repair station must notify the FAA of any revisions to these manuals. Additionally, all repair stations must develop a Training Program and submit any revisions of the program to the FAA.
+As needed, Repair Stations that are Hazmat Employers under 49 CFR 171.8 must have a hazardous materials training program.
+As needed, Repair Stations that perform work for air carriers must acknowledge receipt of the part 121 or part 135 operator notification required under §§ 121.1005(e) and 135.505(e).
+As needed, repair stations that choose to use repairmen to meet the applicable personnel requirements of this part must certify in a format acceptable to the FAA that each person recommended for certification as a repairman is employed by the repair station and meets the eligibility requirements of § 65.101.
+A repair station with a limited rating may choose to maintain a capability list, which lists the articles the repair station performs maintenance, preventive maintenance, or alterations on. The repair station must provide the FAA with a copy of the revised list.
+Recordkeeping Requirements covered under this IC include: 
+Each repair station must retain records that demonstrate compliance with the requirements of part 43 the records must be retained for at least 2 years from the date the article was approved for return to service.
+Each repair station must document the individual employee training required by the repair station training program approved by the FAA. These training records must be retained for a minimum of 2 years.
+Respondents to the Collection
+The respondents to this collection are current part 145 certificated Repair Stations and applicants for a part 145 air agency certificate. 
+Responding to the collection is required to obtain and/or retain a benefit.
+Receipt/Purpose of the Information Collected
+The information collected is provided or made available to each certificate holder/applicant’s responsible FSDO. Additionally, A certificated repair station must make all required records available for inspection by the FAA and the National Transportation Safety Board (NTSB).
+The FAA and NTSB will use a repair stations records, when an aircraft the repair station performed work on was involved in an aircraft accident, during the accident investigation process. The records may assist in determining the cause or causal factors of the accident.
+The FAA uses the information to determine compliance with the part 145 requirements for obtaining and/or retaining an FAA air agency certificate issued under part 145. For part 145 applicants, when all part 145 requirements have been met, an FAA air agency certificate with the appropriate ratings is issued. 
+The FAA uses the information collected from part 145 certificate holders and applicants to maintain the FAA’s mission to ensure aviation safety by:
+(1) Determining or verifying a repair station certificate holder/applicant operates/can operate in accordance with the requirements of part 145. 
+(2) Ensure a repair station uses appropriate facilities and equipment, has sufficient processes and procedures, and uses qualified personnel with appropriate training to perform maintenance, preventive maintenance, or alterations of aircraft, airframes, aircraft engines, propellers, appliances, or component part to which part 43 applies.
+
+Actual Usage 
+The FAA has used the initial certification information to certificate all the 4942 currently certificated part 145 repair stations. The FAA is in the process of reviewing 228 repair station applicants, and 109 additional applicants are on the FAA’s certification waitlist awaiting FAA certification resources. All information collected is reviewed at the time of initial certification to ensure part 145 requirements are met. 
+As needed, the FAA reviews information provided by the certificate holder, such as manual revisions, contract maintenance provider changes, and capability list revisions at each submission or notification of change. Additionally, if the FAA finds safety issues or non-compliance, the FAA reviews all applicable certificate holder documents (manuals, rosters, training records, capabilities, etc.) to determine the reason for the issue and to assist the certificate holder in developing appropriate corrective actions. 
+Annually for repair stations located within the U.S, the FAA reviews each repair stations operations to ensure compliance with part 145 using its Safety Assurance System (SAS) process and automation. This process includes physical inspection of the repair station, as well as reviewing all the information collected as described in this IC. Repair stations located outside of the US are inspected every two years. The FAA inspections are used to determine if the repair station:
+Is following its established processes and procedures.
+Processes and procedures are producing intended results.
+Every two years, the FAA uses the certificate renewal process for foreign repair stations to ensure appropriate fees are collected that allow the FAA to conduct all required surveillance outside of the U.S., as necessary to ensure part 145 requirements are met abroad.
+How The Information is Collected
+The FAA uses FAA Form 8310-3, Application for Repair Station Certificate and/or Rating, to collect information on repair station applicants, amendments to a repair station certificate holder’s air agency certificate, and renewal requests for repair station certificate holders located outside of the United States. FAA Form 8310-3 collects the official name of the repair station, location where business is conducted, official mailing address, any additional business names (i.e., dba, doing business as), changes in ratings (or ratings sought if submitted by an applicant), changes in location or housing and facilities, change in name or ownership, or any other purpose for which the certificate holder or applicant requests, requests for approval/changes to contract maintenance functions to outside entities. 
+Other information described in this IC is provided to the FAA in the form of manuals, lists, or other documentation containing the information requested. 
+3. Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology.
+FAA Form 8310-3 is available in electronic format from www.faa.gov/forms, and may be filled and signed electronically, as well as downloaded and printed, and filled and signed with pen-and-ink.
+Repair station certificate holders and/or applicants may submit the information described in this collection, including FAA Form 8310-3, either electronically via e-mail or through a paper submission. Required application attachments may also be submitted electronically or using paper submissions, depending on the applicant’s capabilities. A certificated repair station uses paper and/or electronic submissions at their discretion.
+Additionally, certificate holders have the option to use the FAA’s Safety Assurance System (SAS) automation, SAS External Portal, to submit certain documents during certification, or when requesting a change to the certificate holder’s operations. See IC 2120-0774, Safety Assurance System External Portal for additional information.
+The results of the information collection are not and will not be made available to the public via the internet or any other means.
+4. Describe efforts to identify duplication. Show specifically why any similar information already available cannot be used or modified for use for the purposes described in Item 2 above.
+We have reviewed the other FAA public use reports and find no duplication. We know of no other agency collecting information from part 145 repair stations. Related ICs include:
+1652-0060 (DHS/TSA), Aircraft Repair Station Security. 
+TSA collects basic data from the FAA and FAA website. No overlap with this IC.
+2120-0663, Service Difficulty Report. 
+Under § 145.221 Service difficulty reports, a certificated repair station must report to the FAA within 96 hours after it discovers any serious failure, malfunction, or defect of an article. The report must be in a format acceptable to the FAA.
+Repair station burden for SDR is included in 2120-0663 and is not duplicated into this IC (2120-0682)
+2120-0665 – Safe Disposition of Life-Limited Aircraft Parts
+Repair stations must make records in accordance with § 43.10. Burden for such records is included in IC 2120-0065 and not duplicated in this IC.
+2120-0020, Maintenance, Preventive Maintenance, Rebuilding, and Alteration. 
+Repair stations must make maintenance records in accordance with part 43. Burden for such records is included in IC 2120-0020 and not duplicated in this IC.
+2120-0705, Hazardous Materials Training Requirements
+14 CFR Part 145.165 requires that each repair station that meets the definition of a hazmat employer under 49 CFR 171.8 must have a hazardous materials training program. Burden for such records is included in IC 2120-0705 and not duplicated in this IC.
+2120-0774, Safety Assurance System External Portal (discussed in question 3 above). 
+Repair station applicants and certificate holders may voluntarily use the SAS external portal for application and other interactions with the FAA. This IC does not duplication burden related to the SAS external portal. 
+2120-0535, Drug and Alcohol Testing Program for Personnel Engaged in Specified Aviation Activities
+Repair stations must make and retain program records in accordance with 14 CFR part 120 and 49 CFR part 40. Burden for such records is included in IC 2120-0535 and not duplicated in this IC.
+5. If the collection of information involves small businesses or other small entities, describe the methods used to minimize burden.
+The required information is limited to the minimum information needed for the FAA to accept the application and issue the repair station certificate.  No exception is provided to any respondent, including small businesses, from providing the required information as it is essential to ensuring all repair stations meet the same acceptable level of safety. The FAA does not have any alternative method to offer to small businesses to minimize burden associated with submitting the required information.
+6. Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+The information collected is necessary to ensure that each repair station certificate holder conducts repair station operations in compliance with 14 CFR and other federal regulations, ensuring aviation safety.  
+Without the information required by the applicant, the FAA would be unable to determine if a repair station could safely perform work on aircraft, engines, components, etc., used in the national aerospace system (NAS) and then certify and issue a repair station certificate.  
+Since the information is collected at initial certification and when changes to the certificate are made or requested, collecting the information less frequently would result in the FAA being unable to verify a certificate holder can continue to comply with 14 CFR requirements after the requested change is made.  
+7. Special circumstances. 
+There are no special circumstances related to this information collection. 
+The information collection is conducted in a manner consistent with the guidelines in 5 CFR 1320.5(d)(2)(i)-(viii).
+8. Provide information on the PRA Federal Register Notice that solicited public comments on the information collection prior to this submission. Summarize the public comments received in response to that notice and describe the actions taken by the agency in response to those comments. Describe the efforts to consult with persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.
+A 60-day Federal Register Notice was published in the Federal Register on May 28, 2024 (89 FR 46293). Comments were due by July 29, 2024. Comments were received into the docket from Aeronautical Repair Station Association (ARSA). The comments primarily related to FAA burden analysis for the entire certification process as noted in Terms of Clearance in OMB Notice of Action (NOA) dated 11/22/2021. Those terms have been met in this analysis.
+The FAA’s Aircraft Maintenance Division has responsibility for Part 145 regulations and guidance, and has a correspondence inbox 9-AWA-AFS-300-MAINTENANCE@FAA.GOV, for the purpose of receiving feedback from stakeholders. No feedback relating to information collection burden has been received. Additionally, the FAA works closely with industry representative groups. The FAA’s Aircraft Maintenance Division has not received comments relating to the information collection burden of part 145.
+9. Explain any decisions to provide payments or gifts to respondents, other than remuneration of contractors or grantees.
+No gifts or payments are provided to respondents.
+10. Describe any assurance of confidentiality provided to respondents and the basis for assurance in statute, regulation, or agency policy.
+There is no assurance of confidentiality provided to respondents.
+11. Provide additional justification for any questions of a sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+This information collection does not collect information of a sensitive nature.
+12. Provide estimates of the hour burden of the collection of information. 
+Part 145 regulations result in a total annual burden to respondents is estimated at 240,868.75 hours and $11,507,548.60.
+
+Total IC Burden | Reporting Burden | Recordkeeping Burden | Total
+Annual # of Responses | 6,660 | 15,000 | 21,660
+Time Burden  (hours) | 28, 666 | 210 , 000 | 236, 666
+Cost Burden  ($) | 1, 355, 567, 86 | 9,930,900.00 | $ 11 , 286 , 467.86
+
+Summary of Reporting Burden
+Part 145 regulations result in annual reporting burden to respondents estimated at 28,665 hours and $1,355,567.86.
+Part 145 Reporting Burden | Initial App/Cert | Certificate  Amend - ment | Certificate Renewal | Manuals | Repairman Recommends | Caps List | Cert Return to FAA | Total
+# of Respondents (annually) | 125 | 50 | 500 | 475 | 5000 | 500 | 10 | 50 -  5000
+Total # of Responses | 125 | 50 | 500 | 475 | 5000 | 500 | 10 | 6,660
+Time per Response (hours) | 8.5 | 10 | 4.25 | 41 | 1 | 1 | 0.25 | 65
+Hour Burden (hours) | 106 3 | 500 | 2125 | 19 , 475 | 5000 | 500 | 3 | 2 8, 666
+Cost  Burden ( $) | 50 , 245 .63 | 23 , 645 .00 | 100 , 491.25 | 920,972.75 | 236 , 450.00 | 23 , 645 | 118.23 | 1,355,567. 86
+
+Summary of Recordkeeping Burden
+Part 145 regulations result in annual recordkeeping burden to respondents estimated at 210,000 hours and $ 9,930,900.00.
+Part 145 Recordkeeping Burden | Employee Records | Training Records | Total
+# of Respondents (annually) | 5000 | 5000 | 5000
+Responses per respondent | 1 | 1 | 0
+Total # of Responses | 10000 | 5000 | 15000
+Time per Response (hours) | 2 | 40 | 41 1
+Hour Burden (hours) | 10 , 000 | 200 , 000 | 210 , 000
+Cost  Burden ( $) | 472,900.00 | 9,458,000.00 | 9,930,900.00
+
+
+Reporting Burden Calculations
+Initial Application/Certification Reporting Burden (§§ 145.51, 145.53, 145.217)
+When applicants initially apply for a repair station certificate, they must make application in accordance with § 145.51. Application includes completing FAA Form 8310-3 and all required application attachments. 
+FAA Form 8310-3 includes information identifying:
+the repair station name and location, 
+owner, 
+ratings and 
+the list of the maintenance functions, for approval by the FAA, to be performed for the repair station under contract by another person.
+Application attachments separate from FAA Form 8310-3 include the following: 
+A list by type, make, or model, as appropriate, of each article for which the application is made, 
+An organizational chart of the repair station and the names and titles of managing and supervisory personnel,
+A description of the housing and facilities, including the physical address, in accordance with § 145.103
+
+As required by § 145.55, before a repair station certificate can be issued for a repair station, the applicant shall certify in writing that employees for the repair station, its contractors, or subcontractors performing a job function concerning the transport of dangerous goods (hazardous material) are trained. The FAA will request to see such certification prior to issuing a certificate.
+As permitted in 145.217, a certificated repair station may contract a maintenance function pertaining to an article to an outside source provided (1) The FAA approves the maintenance function to be contracted to the outside source. At initial certification, the applicant will list the requested maintenance functions on FAA Form 8310-3, for approval by the FAA.
+A repair station applicant must develop at least 3 manuals (RSM, QCM, and Training), while some repair stations must also develop a Hazmat training program. Burden estimates for initial development and revision of these manuals are calculated separately under instruments “Manuals (RSM/QCM/Training). Burden for Hazmat Training Program is not included in this IC. See IC 2120-0705, Hazardous Materials Training Requirements.
+The FAA estimates the time required to fill out the application is approximately 15 minutes. Additionally, the FAA estimates that the time to gather and/or develop the application attachments will take each applicant between 2 and 80 hours, depending on the purpose of the application (i.e., initial application, certificate renewal, certificate amendment). The FAA estimates we have 125 respondents (repair station applicants) each year. Each applicant must provide the information described above. The FAA estimates it takes respondents 15 minutes to complete the FAA application form. 
+Part 145 Reporting Burden | Initial Application/Certification | Total
+ | FAA Form 8310-3 | 145.51  Attachments   | 145.52  Hazmat Cert | 
+# of Respondents (annually) | 1 25 | 125 | 125 | 125
+Responses per respondent | 1 | 1 | 1 | 1
+Total # of Responses | 125 | 125 | 125 | --
+Time per Response   (hours) | 0.25 | 8 | 0.25 | 8.5
+Hour Burden   (hours) | 31.25 | 1000 | 31.25 | 1062.5
+Cost/Hour | 47.29 | 47.29 | 47.29 | --
+Cost  Burden  ( $) | 1477.81 | 47290.00 | 1477.81 | 50245 .63
+
+Certificate Amendments Reporting Burden (§§145.57, 145.53)
+Under § 145.57, when a repair station makes any of the following changes to the certificate, the repair station must submit a request in a format acceptable to the Administrator:  
+Name change
+Location change
+Add or amend a rating
+Sell or transfer of assets and the new owner chooses to operate as a repair station. 
+As permitted in § 145.217, a certificated repair station may contract a maintenance function pertaining to an article to an outside source provided (1) The FAA approves the maintenance function to be contracted to the outside source. If a certificated repair station would like to revise its FAA-approved contract maintenance functions, the applicant must list the requested maintenance functions on FAA Form 8310-3 and submit to the FAA for approval.
+A repair station requesting an amended certificate must complete FAA Form 8310-3 and application attachments evidencing such changes and submit to the FAA. Examples of application attachments include such as: documents show legal name changes, revised facility descriptions for location changes, and manual revisions to address changes to processes/procedures resulting from the change. If a repair station certificate sells or transfers its assets and the new owner chooses to operate as a repair station, the new owner must include the application attachments required by § 145.51.
+Part 145 Reporting Burden | Certificate Amendments 145.57 | Total
+# of Respondents (annually) | 50 | 50
+Responses per respondent | 1 | 1
+Total # of Responses | 50 | 50
+Time per Response (hours) | 10 | 10
+Hour Burden (hours) | 500 | 500
+Cost/Hour | 47.29 |   --
+Cost  Burden ( $) | 23645 | 23645
+
+
+Certificate Renewal (§ 145.55)
+As required by § 145.55, each repair station located outside of the United States must apply for renewal of their repair station certificate every 24 months. A repair station requesting renewal of the certificate must complete FAA Form 8310-3 and show to the FAA that the required fees have been paid and submit to their responsible Flight Standards International Field Office (IFO).
+
+Part 145 Reporting Burden | Certif i cate Renewals | Total
+ | FAA Form 8310-3 | 145.51 Attachments  | 
+# of Respondents (annually) | 500 | 500 | 500
+Responses per respondent | 1 | 1 | 1
+Total # of Responses | 500 | 500 | 500
+Time per Response (hours) | 0.25 | 4 | 4.25
+Hour Burden (hours) | 125 | 2000 | 2125
+Cost/Hour | 47.29 | 47.29 |   --
+Cost  Burden ( $) | 5911.25 | 94580.00 | 100491.25
+
+Manuals RSM/QCM/Training (§§ 145.163, 145.207, 145.211)
+As required by § 145.163, a certificated repair station must have and use an employee training program approved by the FAA that consists of initial and recurrent training. A certificated repair station must submit revisions to its training program to its responsible FSDO for approval.
+As required by § 145.207, A certificated repair station must prepare and follow a repair station manual acceptable to the FAA, and they must maintain the manual as current. The repair station must provide the manual to is responsible FSDO and notify the FSDO of each revision.
+As required by § 145.211, A certificated repair station must prepare and keep current a quality control manual and must notify its responsible FSDO of revisions to the manual.
+
+A certificated repair station located outside the US, and in a country with which the FAA maintains a bilateral agreement including Maintenance Implementation Procedures (MIP), must maintain a supplement which addresses special conditions agreed to by both aviation authorities. Ref: 14CFR 145.53(b).
+
+
+
+Part 145 Reporting Burden | Manuals | MIP/MAG Supplement | Total
+ | Initial RSM/   QCM/Training | RSM Revisions | QCM Revisions | Training Program Revision |  | 
+# of Respondents (annually) | 125 | 200 | 50 | 50 | 50 | 475
+Responses per respondent | 1 | 1 | 1 | 1 | 1 | 1
+Total # of Responses | 125 | 200 | 50 | 50 | 50 | 475
+Time per Response (hours) | 120 | 8 | 8 | 8 | 40 | 41
+Hour Burden (hours) | 15000 | 1600 | 400 | 400 | 20 75 | 19 , 4 75
+Cost/Hour | 47.29 | --
+Cost  Burden ( $) | 709350.00 | 75664.00 | 18916.00 | 18916.00 | 98 ,126.75 | 920 ,972.75
+Hazardous Materials Training (§ 145.165)
+As required by § 145.165, each repair station that meets the definition of a hazmat employer under 49 CFR 171.8 must have a hazardous materials training program that meets the training requirements of 49 CFR part 172 subpart H. The repair station will be required to show the FAA that is has this training program. 
+BURDEN NOT INCLUDED IN THIS IC See IC 2120-0705, Hazardous Materials Training Requirements.
+Notification of Hazardous Materials (§ 145.206)
+As required by § 145.206, each repair station must acknowledge receipt of the part 121 or part 135 operator notification required under §§ 121.1005(e) and 135.505(e) of this chapter prior to performing work for, or on behalf of that certificate holder. 
+BURDEN NOT INCLUDED IN THIS IC See IC 2120-0705, Hazardous Materials Training Requirements.
+
+Repairman Recommendation (§ 145.159)
+As required by 145.159, A certificated repair station that chooses to use repairmen to meet the applicable personnel requirements of this part must certify in a format acceptable to the FAA that each person recommended for certification as a repairman is employed by the repair station and meets the eligibility requirements of § 65.101. The FAA directs the repair station to write a letter of recommendation for such repairman applicant’s, which is included in the repairman’s application for a repair station certificate. See IC 2120-0022 for burden on repairman applicants.
+
+Part 145 Reporting Burden | 145.159 Repairmen Recommend ation s | Total
+# of Respondents (annually) | 5000 | 5000
+Responses per respondent | 1 | 1
+Total # of Responses | 5000 | 5000
+Time per Response (hours) | 1 | 1
+Hour Burden (hours) | 5000 | 5000
+Cost/Hour | 47.29 |   --
+Cost  Burden ( $) | 236450.00 | 236450.00
+
+Capability List (§145.215)
+As permitted in § 145.215, a repair station with a limited rating may choose to use a capability list to list articles the repair station will perform work on. An article may be listed on the capability list only if the article is within the scope of the ratings of the repair station's certificate, and only after the repair station has performed a self-evaluation using the procedures the repair station outlined in their Repair Station Manual required by § 145.209. Upon listing an additional article on its capability list, the repair station must provide its responsible FAA office with a copy of the revised list. The burden includes the audit time as well as the time to revise then submit the capability list to the repair station’s responsible FAA office.
+
+Part 145 Reporting Burden | 145.215 Capability List | Total
+# of Respondents (annually) | 500 | 500
+Responses per respondent | 1 | 1
+Total # of Responses | 500 | 500
+Time per Response (hours) | 1 | 1
+Hour Burden (hours) | 500 | 500
+Cost/Hour | 47.29 |   --
+Cost  Burden ( $) | 23645.00 | 23645.00
+
+
+Air Agency Certificate Return
+As required by § 145.55, if a repair certificate is expired, surrendered, suspended, or revoked, the holder must return the certificate to the FAA.
+
+Part 145 Reporting Burden | Return Cert to FAA | Total
+ | Expired | Surrendered | Suspended | Revoked | 
+# of Respondents (annually) | 1 | 3 | 3 | 3 | 10
+Responses per respondent | 1 | 1 | 1 | 1 | 1
+Total # of Responses | 1 | 3 | 3 | 3 | 10
+Time per Response (hours) | 0.25 | 0.25 | 0.25 | 0.25 | 0.25
+Hour Burden (hours) | 0.25 | 0.75 | 0.75 | 0.75 | 2.5
+Cost/Hour | 47.29 | 47.29 | 47.29 | 47.29 |   --
+Cost  Burden ( $) | 11.82 | 35.47 | 35.47 | 35.47 | 118.23
+
+Recordkeeping Burden Calculations
+
+Roster/Employment Summary (145.161)
+A certificated repair station must maintain and make available in a format acceptable to the FAA the following:
+(1) A roster of management and supervisory personnel that includes the names of the repair station officials who are responsible for its management and the names of its supervisors who oversee maintenance functions.(2) A roster with the names of all inspection personnel.(3) A roster of personnel authorized to sign a maintenance release for approving a maintained or altered article for return to service.(4) A summary of the employment of each individual whose name is on the required personnel rosters.
+Part 145 Recordkeeping Burden | 145.161 Roster/Employment Summary | Total
+ | Roster Revisions | Employment Summary | 
+# of Respondents (annually) | 5000 | 5000 | 5000
+Responses per respondent | 1 | 1 | 2
+Total # of Responses | 5000 | 5000 | 10000
+Time per Response (hours) | 1 | 1 | 1
+Hour Burden (hours) | 5000 | 5000 | 10000
+Cost/Hour | 47.29 | 47.29 | --  
+Cost Burden ($) | 236450.00 | 236450.00 | 472900.00
+
+Training Records (145.163)
+A certificated repair station must document, in a format acceptable to the FAA, the individual employee training required under § 145.163(a) of this section. These training records must be retained for a minimum of 2 years.
+Part 145 Recordkeeping Burden | Training Records | Total
+# of Respondents (annually) | 5000 | 5000
+Responses per respondent | 1 | 1
+Total # of Responses | 5000 | 5000
+Time per Response (hours) | 40 | 40
+Hour Burden (hours) | 200000 | 200000
+Cost/Hour | 47.29 | --  
+Cost  Burden  ( $) | 9458000.00 | 9458000.00
+Wage Rate Estimates
+The FAA believes that aircraft mechanics will perform the reporting requirements. The wage rate of $36.66 per hour came from the Department of Labor, Bureau of Labor Statistics (BLS), May 2023, Aircraft Mechanics and Service Technicians #49-3011.  The FAA multiplied the hourly wage by 29% to account for total benefits, resulting in an estimate of $47.29 total compensation.
+Hourly wage 1 | Fringe/Overhead Benefits  2  (29 %) | Total
+$36.66 | $10.63 | $47.29
+ | Source:  https://www.bls.gov/oes/current/oes493011.htm
+ | Source:  https://www.bls.gov/news.release/pdf/ecec.pdf
+13. Provide an estimate for the total annual cost burden to respondents or record keepers resulting from the collection of information.
+There are no additional material costs.
+
+14. Provide estimates of annualized costs to the Federal government. Also, provide a description of the method used to estimate cost, which should include quantification of hours, operational expenses (such as equipment, overhead, printing, and support staff), and any other expense that would not have been incurred without this collection of information.
+The FAA estimates the information collection burden to the Federal government related to Part 145 regulations is 4590 hours and $ 327,726.00.
+
+Initial and Continued Certification Requirements  
+Under § 145.51, application must include the following:
+A repair station manual acceptable to the FAA as required by § 145.207;
+A quality control manual acceptable to the FAA as required by § 145.211(c);
+A list by type, make, or model, as appropriate, of each article for which the application is made;
+An organizational chart of the repair station and the names and titles of managing and supervisory personnel;
+A description of the housing and facilities, including the physical address, in accordance with § 145.103;
+A list of the maintenance functions, for approval by the FAA, to be performed for the repair station under contract by another person in accordance with § 145.217; and
+A training program for approval by the FAA in accordance with § 145.163.
+
+The FAA estimates that it reviews 125 initial applications annually, spending an average of .5 hours per review. This results in an estimated burden of 62.5 hours and $4462.50 annually. 
+FAA estimates that it reviews 50 applications for certificate amendment annually, spending an average of .5 hours per review. A certificate change is necessary if the certificate holder changes the name or location of the repair station, or requests to add or amend a rating. This results in an estimated burden 25 hours and $1785.00 annually.
+FAA certificates issued outside the US require renewal at least every two years. FAA estimates that it reviews 500 applications for certificate renewal annually, spending an average of .5 hours per review. This results in an estimated burden 250 hours and $17850.00 annually.
+FAA Part 145 certificate holders located outside the US, and in a country with which the FAA maintains a bilateral agreement including Maintenance Implementation Procedures (MIP), must maintain a supplement which addresses special conditions agreed to by both aviation authorities. Ref: 14 CFR 145.53(b). The FAA must review and accept each repair station MIP Supplement. FAA estimates that it reviews 50 MIP supplements annually, spending an average of 4 hours per review. This results in an estimated burden 2 hours and $14280.00 annually.
+FAA estimates that it reviews 475 initial and revised manuals annually, spending an average of 8 hours per review. The FAA must review and approve or accept each repair station manual, quality control manual, and training program. This results in an estimated burden of 3800 hours and $271,320.00 annually.
+FAA estimates that it reviews 500 Capability List revisions annually, spending an average of .5 hours per review. This results in an estimated burden of 250 hours and $17850.00 annually.
+FAA estimates that it reviews 10 applications for certificate return annually, spending an average of .25 hours per review. This results in an estimated burden 2.5 hours and $178.50 annually.
+
+
+Federal Government Burden | Initial App/Cert | Certificate Amendment | Certificate Renewal | MIP-MAG Supplement | Manuals | Caps List | Cert Return to FAA | Total
+# of Respondents (annually) | 125 | 50 | 500 | 50 | 475 | 500 | 10 | --
+Responses per respondent | 1 | 1 | 1 | 1 | 1 | 1 | 1 | --
+Total # of Responses | 125 | 50 | 500 | 50 | 475 | 500 | 10 | --
+Time per Response (hours) | 0.5 | 0.5 | 0.5 | 4 | 8 | 0.5 | .25 | --
+Hour Burden (hours) | 62.5 | 25 | 250 | 200 | 3800 | 250 | 2.5 | 4590
+Cost/Hour | 71.40 | 71.40 | 71.40 | 71.40 | 71.40 | 71.40 | 71.40 | --  
+Cost  Burden ( $) | 4462.50 | 1785.00 | 17850.00 | 14280.00 | 271320.00 | 17850.00 | 178.50 | 327 , 726.00
+
+FAA Labor Cost Estimates
+The FAA obtained the salary rates for FAA employees from the 2024 General Schedule. The FAA uses a FG 13, Step 5, hourly wage of $54.50 for the “Rest of the US”. The FAA multiplied the hourly wage by 31% to account for total benefits, resulting in an estimate of total compensation of $ 71.40.
+Hourly Wage | Fringe/Overhead Benefits 4  (31%) | Total
+$54.50 | $16.90 | $ 71.40
+15. Explain the reasons for any program changes or adjustments.
+The FAA conducted a comprehensive analysis of the information collected under part 145 and revised burden estimates in this IC substantially since the last OMB approval. The analysis and burden estimate was completed in accordance with the Terms of Clearance in OMB Notice of Action (NOA) dated 11/22/2021.
+Additionally, the FAA revised FAA Form 8310-3 to add a field for respondents to indicate if the application submission was for the purpose of obtaining a satellite repair station facility. The form instructions were also revised. The Paper Reduction Act Burden statement was revised to show estimated burden calculated in this statement.
+
+16. For collections of information whose results will be published, outline plans for tabulation and publication. Address any complex analytical techniques that will be used. Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+No information collected from respondents is published.
+17. If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons why display would be inappropriate.
+The FAA is not seeking approval to not display the expiration date for this information collection.
+18. Explain each exception to the topics of the certification statement identified in “Certification for Paperwork Reduction Act Submissions.”
+There are no exceptions to the certification statement for this information collection.
+
+PART word/footnotes.xml
+
+
+
+ This time per response is the number displayed in the 30-day notice.
+ Data obtained from FAA Certification Services Oversight Process (CSOP)
+ 14 CFR part 187 prescribes fees only for FAA services for which fees are not prescribed in other parts of this chapter or in 49 CFR part 7. Appendix A to this part prescribes the methodology for computation of fees for certification services performed outside the United States. 
+ SALARY TABLE 2024-RUS (opm.gov)
+4 https://www.bls.gov/news.release/pdf/ecec.pdf

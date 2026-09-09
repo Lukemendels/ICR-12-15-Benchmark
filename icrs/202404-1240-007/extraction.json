@@ -1,0 +1,160 @@
+{
+  "icr_id": "202404-1240-007",
+  "omb_control_number": "1240-0007",
+  "agency": "DOL/OWCP",
+  "title": "Claim for Medical Reimbursement Form",
+  "submission_date": "05/30/2024",
+  "archetype": "medical reimbursement benefit claim",
+  "complexity": "moderate",
+  "tsa_relevance": "medium",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 8,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0168",
+    "SRC-0167"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 9,
+    "segmentation": 12,
+    "labor": 5,
+    "item13": 8,
+    "item14": 5,
+    "item15": 5,
+    "validation": 3,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "Programcountsand10mintimeclear; earlyroundingandgovernmentstaletotals.",
+    "provenance": "FY2023administrativereceiptsandOPMgradesidentified; respondentwageyearunclear.",
+    "segmentation": "Threebenefitprograms,contractprocessing/manualexceptionsseparated.",
+    "labor": "All-worker36.43proxywithnospecificsourceyear; householdopportunityscopeexplicit.",
+    "item13": "97%electronic/3%mail,postage/envelopepriced;postaldatecitationquestionable.",
+    "item14": "UnitcontractcostandfederalFTEsharesdetailed buttotalsretainoldcontractprices.",
+    "item15": "5738->9029reasonincreasedclaims, noinputbridge.",
+    "validation": "Admincountsandbill-processingsystemexperience; timeassumptionnotvalidated.",
+    "consistency": "Costequation3010wronghours; multiplefederaloldnewmixedvalues."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "FECA",
+        38951,
+        0.167,
+        null
+      ],
+      [
+        "BLBA",
+        60,
+        0.167,
+        null
+      ],
+      [
+        "EEOICPA",
+        15056,
+        0.167,
+        null
+      ]
+    ],
+    "labor": {
+      "rate": 36.43,
+      "hours_rounded": 9029,
+      "reported": 328926.47,
+      "source": "BLSalloccupations,yearnotstated"
+    },
+    "item13": {
+      "mail_share": 0.03,
+      "mail_count_rounded": 1622,
+      "postage": 0.68,
+      "envelope": 0.05,
+      "reported": 1184
+    },
+    "item14": {
+      "printing": [
+        100000,
+        0.048
+      ],
+      "contract_price": 5.32,
+      "program_forms": [
+        38951,
+        60,
+        15056
+      ],
+      "FECA_review": [
+        80,
+        43533,
+        12,
+        61965,
+        0.05
+      ],
+      "EEOICPA_review": [
+        148689,
+        141557,
+        0.05
+      ],
+      "reported": 327505
+    },
+    "item15": {
+      "old_hours": 5738,
+      "new_hours": 9029,
+      "reason": "Claimsubmissionsincreased"
+    },
+    "assumptions": [
+      "10minutesrepresented.167h.",
+      "5%manualreviewstafftime.",
+      "Providerbillingattachmentburdenassignedothercontrols1240-0019/0044/0050."
+    ]
+  },
+  "reconstruction_issues": [
+    "Respondentcostparenthetical3010hourswrong;9029*36.43reproduces328926.47.",
+    "FECAupdatedcontract207219.32replacedby69074.88insubtotal;BLBA319.20replacedby106;EEOICPA80097.92replacedby27701.",
+    "Federalmanualreviewprosesays204986butformula211311.",
+    "10-minuteunitroundedto.167beforepopulationmultiplication."
+  ],
+  "methods_worth_testing": [
+    "Separatesautomatedcontractprocessingfrommanualexceptionreview.",
+    "Explicitcross-controlallocationofproviderattachments."
+  ],
+  "checks": [
+    {
+      "label": "Hours exact minutes",
+      "formula": "54067/6",
+      "calculated": 9011.166666666666,
+      "reported": 9029,
+      "difference": -17.83333333333394,
+      "unit": "hours",
+      "interpretation": "17.83hoursroundingdifference.",
+      "source_id": "SRC-0168"
+    },
+    {
+      "label": "Federal rebuilt",
+      "formula": "4800+54067*5.32+(80*43533+12*61965)*.05+(148689+141557)*.05",
+      "calculated": 518259.74,
+      "reported": 327505,
+      "difference": 190754.74,
+      "unit": "USD",
+      "interpretation": "Materialdifferencefromstalesubtotals.",
+      "source_id": "SRC-0168"
+    },
+    {
+      "label": "Labor",
+      "formula": "9029*36.43",
+      "calculated": 328926.47,
+      "reported": 328926.47,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0168"
+    }
+  ],
+  "total_score": 64
+}

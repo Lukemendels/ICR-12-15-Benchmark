@@ -1,0 +1,1209 @@
+[
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Year",
+        "New Enrollments",
+        "Comparable Enrollments",
+        "Renewals",
+        "Replacements",
+        "Total Enrollments, Renewals, and Replacements"
+      ],
+      [
+        "",
+        "A",
+        "B ",
+        "C",
+        "D",
+        "E = A+B+C+D"
+      ],
+      [
+        "CY 2025",
+        "290,261",
+        "4,990",
+        "276 , 859",
+        "47,698",
+        "619,808"
+      ],
+      [
+        "CY 2026",
+        "290,302",
+        "4,996",
+        "346 , 080",
+        "47,71 2",
+        "689,090"
+      ],
+      [
+        "CY 2027",
+        "290,306",
+        "4,996",
+        "379 , 403",
+        "47,71 1",
+        "722,416"
+      ],
+      [
+        "Total",
+        "870,869",
+        "14,982",
+        "1,002,342",
+        "143,121",
+        "2,031,314"
+      ],
+      [
+        "Annualized",
+        "290,290",
+        "4,994",
+        "334,114",
+        "47,707",
+        "677,105"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Table 2: New and Comparable Enrollments Time Burden "
+      ],
+      [
+        "Year",
+        "New Enrollments",
+        "New Enrollments with On-line Pre-Enrollment Time Burden",
+        "New Enrollment without On-line Pre-Enrollment Time Burden",
+        "Comparable Enrollments",
+        "Comparable Enrollments Time Burden",
+        "Total Enrollments Time Burden"
+      ],
+      [
+        "",
+        " A",
+        " B = A ×  64 % ×  .92  hours",
+        " C = A ×  36 % × 0.9 0  hours",
+        "D",
+        "E = D  ×  0.92 hours",
+        "F = B + C + E "
+      ],
+      [
+        "CY 2025",
+        "290,261",
+        "170,906",
+        "94,045",
+        "4,990",
+        "4,591",
+        "269,541"
+      ],
+      [
+        "CY 2026",
+        "290,302",
+        "170,930",
+        "94,058",
+        "4,996",
+        "4,596",
+        "269,584"
+      ],
+      [
+        "CY 2027",
+        "290,306",
+        "170,932",
+        "94,059",
+        "4,996",
+        "4,596",
+        "269,588"
+      ],
+      [
+        "Total",
+        "870,869",
+        "512,768",
+        "282,162",
+        "14,982",
+        "13,783",
+        "808,713"
+      ],
+      [
+        "Annualized",
+        "290,290",
+        "170,923",
+        "94,054",
+        "4,994",
+        "4,594",
+        "269,571"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in tables."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Table 3: Renewal Time Burden"
+      ],
+      [
+        "Year",
+        "Renewals",
+        "Online Renewals",
+        "Online Renewal Time Burden",
+        "In-Person Renewals",
+        "In-Person Renewal Time Burden",
+        "Travel Time for In-Person Renewal",
+        "Total In-Person Renewal Time Burden",
+        "Total Renewal Time Burden"
+      ],
+      [
+        "",
+        "A",
+        "B = A  ×   6 8 %",
+        "C = B  ×  0.17 hours",
+        "D = A  ×   3 2 %",
+        "E = D  ×  0.18 hours",
+        "F = D  ×  0.73 hours",
+        "G = E + F",
+        "H = C + G"
+      ],
+      [
+        "CY 2025",
+        "276 , 859",
+        "188,264",
+        "32,005",
+        "88,595",
+        "15,947",
+        "64,674",
+        "80,621",
+        "112,626"
+      ],
+      [
+        "CY 2026",
+        "346,080",
+        "235,334",
+        "40,007",
+        "110,746",
+        "19,934",
+        "80,844",
+        "100,778",
+        "140,785"
+      ],
+      [
+        "CY 2027",
+        "379,403",
+        "257,994",
+        "43,859",
+        "121,409",
+        "21,854",
+        "88,629",
+        "110,482",
+        "154,341"
+      ],
+      [
+        "Total",
+        "1,002,342",
+        "681,593",
+        "115,871",
+        "320,749",
+        "57,735",
+        "234,147",
+        "291,882",
+        "407,753"
+      ],
+      [
+        "Annualized",
+        "334,114",
+        "227,198",
+        "38,624",
+        "106,916",
+        "19,245",
+        "78 ,049",
+        "97 ,294",
+        "135,918"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in tables."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Table 4: Replacement Card Time Burden"
+      ],
+      [
+        "Year",
+        "Replacement Cards",
+        "Time Burden To Request Replacement Card"
+      ],
+      [
+        "",
+        "A",
+        "B = A × 0.12 hours"
+      ],
+      [
+        "CY 2025",
+        "47 , 698",
+        "5,724"
+      ],
+      [
+        "CY 2026",
+        "47 , 712",
+        "5,725"
+      ],
+      [
+        "CY 2027",
+        "47 , 711",
+        "5,725"
+      ],
+      [
+        "Total",
+        "143,121",
+        "17,175"
+      ],
+      [
+        "Annualized",
+        "47,707",
+        "5,725"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in tables."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 6,
+    "rows": [
+      [
+        "Year",
+        "Total New and Comparable Enrollments",
+        "Renewals",
+        "Replacements",
+        "Total Enrollments, Renewals, and Replacements",
+        "Time Burden to Pick Up Card In Person"
+      ],
+      [
+        " ",
+        "A",
+        "B",
+        "C",
+        "D = A + B + C",
+        "E = D × 0.95 hours × 6%"
+      ],
+      [
+        "CY 2025",
+        "295,251",
+        "276,859",
+        "47,698",
+        "619,808",
+        "35,329"
+      ],
+      [
+        "CY 2026",
+        "295,298",
+        "346,080",
+        "47,71 2",
+        "689,090",
+        "39,278"
+      ],
+      [
+        "CY 2027",
+        "295,301",
+        "379,403",
+        "47,71 1",
+        "722,416",
+        "41,178"
+      ],
+      [
+        "Total",
+        "885,850",
+        "1,002,342",
+        "143,121",
+        "2,031,314",
+        "115,785"
+      ],
+      [
+        "Annualized",
+        "295,283",
+        "334,114",
+        "47,707",
+        "677,105",
+        "38,595"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in tables."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 7,
+    "rows": [
+      [
+        "Table 6: Customer Enrollment Process Satisfaction Survey Time Burden (in Hours)"
+      ],
+      [
+        "Year",
+        "Total Enrollments and Renewals",
+        "Total Enrollments and Renewals Completing Survey",
+        "Customer Survey Time Burden"
+      ],
+      [
+        "",
+        "A",
+        "B = A  ×  2 . 5%",
+        "C = B  ×  0.04 hours"
+      ],
+      [
+        "CY 2025",
+        "619,808",
+        "15,495",
+        "620"
+      ],
+      [
+        "CY 2026",
+        "689,090",
+        "17,227",
+        "689"
+      ],
+      [
+        "CY 2027",
+        "722,416",
+        "18,060",
+        "722"
+      ],
+      [
+        "Total",
+        "2,031,314",
+        "50,783",
+        "2,031"
+      ],
+      [
+        "Annualized",
+        "677,105",
+        "16,928",
+        "677"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in tables."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 8,
+    "rows": [
+      [
+        "Table 7: Appeal Time Burden"
+      ],
+      [
+        "Year",
+        "New Enrollments",
+        "Renewals",
+        "Total Appeals",
+        "Appeals Time Burden"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = (A + B) × 1.6%",
+        "D = C × 6 hours"
+      ],
+      [
+        "CY 2025",
+        "290,261",
+        "276,859",
+        "9,074",
+        "54,444"
+      ],
+      [
+        "CY 2026",
+        "290,302",
+        "346,080",
+        "10,182",
+        "61,093"
+      ],
+      [
+        "CY 2027",
+        "290,306",
+        "379,403",
+        "10,715",
+        "64,292"
+      ],
+      [
+        "Total",
+        "870,869",
+        "1,002,342",
+        "29,971",
+        "179,828"
+      ],
+      [
+        "Annualized",
+        "290,290",
+        "334,114",
+        "9,990",
+        "59,943"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in tables."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 9,
+    "rows": [
+      [
+        "Year",
+        "Total Enrollments, Renewals, and Replacement Cards",
+        "Total Enrollments and Renewals Picking Up Card In Person",
+        "Total Individuals Taking Survey",
+        "Customer Survey Time Burden"
+      ],
+      [
+        "",
+        "A",
+        "B = A ×  6 %",
+        "C = B × 2 . 5%",
+        "F= E × 0.04 hours"
+      ],
+      [
+        "CY 2025",
+        "619,808",
+        "37,188",
+        "930",
+        "39"
+      ],
+      [
+        "CY 2026",
+        "689,090",
+        "41,345",
+        "1,034",
+        "43"
+      ],
+      [
+        "CY 2027",
+        "722,416",
+        "43,345",
+        "1,084",
+        "46"
+      ],
+      [
+        "Total",
+        "2,031, 314",
+        "121,879",
+        "3,047",
+        "128"
+      ],
+      [
+        "Annualized",
+        "677, 105",
+        "40,626",
+        "1,016",
+        "43"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 10,
+    "rows": [
+      [
+        "Table 9: Total Respondents"
+      ],
+      [
+        "Year",
+        "Total Enrollments, Renewals, and Replacements Respondents",
+        "Enrollment Customer Survey Respondents",
+        "Total Appeals",
+        "Card Issuance Customer Survey Respondents",
+        "Total Respondents"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E = A + B + C + D"
+      ],
+      [
+        "CY 2025",
+        "619,808",
+        "15,495",
+        "9,074",
+        "930",
+        "645,307"
+      ],
+      [
+        "CY 2026",
+        "689,090",
+        "17,227",
+        "10,182",
+        "1,034",
+        "717,533"
+      ],
+      [
+        "CY 2027",
+        "722,416",
+        "18,060",
+        "10,715",
+        "1,084",
+        "752,275"
+      ],
+      [
+        "Total",
+        "2,031,314",
+        "50,783",
+        "29,971",
+        "3,047",
+        "2, 115,115"
+      ],
+      [
+        "Annualized",
+        "677,105",
+        "16,928",
+        "9,990",
+        "1,016",
+        "705,038"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in tables."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 11,
+    "rows": [
+      [
+        "Year",
+        "Total Enrollments and Renewals Time Burden",
+        "Total Replacement Card Time Burden",
+        "Total Time Burden to Pick Up Card in Person",
+        "Total Customer Enrollment Process Satisfaction Survey Time Burden",
+        "Total Appeal Time Burden",
+        "Total Card Issuance Process Satisfaction Survey Time Burden",
+        "Total Time Burden (in hours)"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G = A + B + C + D + E + F"
+      ],
+      [
+        "CY 2025",
+        "382,167",
+        "5,724",
+        "35,329",
+        "620",
+        "54,444",
+        "39",
+        "478,322"
+      ],
+      [
+        "CY 2026",
+        "410,369",
+        "5,725",
+        "39,278",
+        "689",
+        "61,093",
+        "43",
+        "517,198"
+      ],
+      [
+        "CY 2027",
+        "423,929",
+        "5,725",
+        "41,178",
+        "722",
+        "64,292",
+        "46",
+        "535,892"
+      ],
+      [
+        "Total",
+        "1,216,465",
+        "17,175",
+        "115,785",
+        "2,031",
+        "179,828",
+        "128",
+        "1,531,412"
+      ],
+      [
+        "Annualized",
+        "405,488",
+        "5,725",
+        "38,595",
+        "677",
+        "59,943",
+        "43",
+        "510,471"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 12,
+    "rows": [
+      [
+        "Table 11: Weighted Average  TWIC  Card Holder Wages"
+      ],
+      [
+        "Occupation",
+        "Estimated Population",
+        "Mean Hourly Wage Rate",
+        "Compensation Factor",
+        "Total Compensation per Labor Category"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C",
+        "D =  A   ×   B × C"
+      ],
+      [
+        "Sailors and Marine Oilers",
+        "11,380",
+        "$25.72",
+        "1.44476",
+        "$422, 872"
+      ],
+      [
+        "Ship and Boat Captains and Operators",
+        "12,570",
+        "$54.51",
+        "",
+        "$989, 936"
+      ],
+      [
+        "Ship Engineers",
+        "3,230",
+        "$54.86",
+        "",
+        "$256,008"
+      ],
+      [
+        "Drivers/Sales Workers and Truck Drivers",
+        "1,220",
+        "$32.40",
+        "",
+        "$57,108"
+      ],
+      [
+        "Material Moving Workers",
+        "4,730",
+        "$29.60",
+        "",
+        "$202,278"
+      ],
+      [
+        "Transportation and Material Moving Occupations",
+        "35,920",
+        "$40.11",
+        "",
+        "$2,081, 540"
+      ],
+      [
+        "Heavy and Tractor-Trailer Truck Drivers",
+        "2,044,400",
+        "$26.92",
+        "",
+        "$79,512, 725"
+      ],
+      [
+        "Total",
+        "2,113,450",
+        " ",
+        " ",
+        "$83,522, 467"
+      ],
+      [
+        "Weighted, Loaded Average Hourly Wage Rate =  ∑ A   ÷∑ D",
+        "$39.52"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in tables."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 13,
+    "rows": [
+      [
+        "Table 12: Opportunity Costs"
+      ],
+      [
+        "Year",
+        "Estimated Total Hours",
+        "Weighted Average Hourly Wage Rate",
+        "Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = A  ×  B"
+      ],
+      [
+        "CY 2025",
+        "          478,322",
+        "$39.52",
+        "$18,903,304"
+      ],
+      [
+        "CY 2026",
+        "          517,198",
+        "",
+        "$20,439,668"
+      ],
+      [
+        "CY 2027",
+        "          535,892",
+        "",
+        "$21,178,442"
+      ],
+      [
+        "Total",
+        "      1, 531,412",
+        " ",
+        "$60,521,414"
+      ],
+      [
+        "Annualized",
+        "         510,471",
+        "",
+        "$20,173,805"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in tables."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 14,
+    "rows": [
+      [
+        "Table 13: Enrollment Fees"
+      ],
+      [
+        "Year",
+        "TWIC ®  Annual New and Comparable Enrollments (without Section 809 Merchant Mariners)",
+        "TWIC ®  Enrollment Fee",
+        "Total Enrollment Fees",
+        "TWIC ®  Annual Comparable Enrollments",
+        "TWIC ®  Comparable Enrollment Fee",
+        "Total Comparable Enrollment Fee",
+        "Total Enrollment Fees"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = A × B",
+        "D",
+        "E",
+        "F = D  ×  E",
+        "G = C + F"
+      ],
+      [
+        "CY 2025",
+        "         280,971",
+        "$124.00",
+        "$34,840,404",
+        "                     4,990",
+        "$93.00",
+        "$464,070",
+        "$35,304,474"
+      ],
+      [
+        "CY 2026",
+        "         281,012",
+        "",
+        "$34,845,488",
+        "                     4,996",
+        "",
+        "$464,628",
+        "$35,310,116"
+      ],
+      [
+        "CY 2027",
+        "         281,016",
+        "",
+        "$34,845,984",
+        "                     4,996",
+        "",
+        "$464,628",
+        "$35,310,612"
+      ],
+      [
+        "Total",
+        "         885,851",
+        " ",
+        "$104,531,876",
+        "                   14,982",
+        "",
+        "$1,393,326",
+        "$105,925,202"
+      ],
+      [
+        "Annualized",
+        "        285,994",
+        " ",
+        "$34,843,959",
+        "                     4,994",
+        "",
+        "$464,442",
+        "$35,308,401"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in tables."
+      ],
+      [
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 15,
+    "rows": [
+      [
+        "Year",
+        "TWIC Section 809 MM Enrollments",
+        "TWIC Enrollment Fee without Card Fee",
+        "Total Enrollments Section 809 Fee"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = A × B"
+      ],
+      [
+        "CY 2025",
+        "9,290",
+        "$98.25",
+        "$912,743"
+      ],
+      [
+        "CY 2026",
+        "9,290",
+        "",
+        "$912,743"
+      ],
+      [
+        "CY 2027",
+        "9,290",
+        "",
+        "$912,743"
+      ],
+      [
+        "Total",
+        "9,290",
+        "",
+        "$2,738,228"
+      ],
+      [
+        "Annualized",
+        "9,290",
+        "",
+        "$912,743"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in tables.",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 16,
+    "rows": [
+      [
+        "Year",
+        "TWIC Annual Renewals",
+        "TWIC In Person Renewals",
+        "TWIC In Person Renewals Fee",
+        "TWIC In Person  Renewals",
+        "TWIC Online Renewals",
+        "TWIC Online Renewals Fee",
+        "TWIC Online Renewals Fee",
+        "Total Renewals Fee"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C",
+        "D = B x C",
+        "E",
+        "F",
+        "G = E x F",
+        "H = D + G"
+      ],
+      [
+        "CY 2025",
+        "           276,859",
+        "           88,595",
+        "$124.00 ",
+        "$10,985,765",
+        "      188,264",
+        "$116.00",
+        "$21,838,637.92",
+        "$32,824,403"
+      ],
+      [
+        "CY 2026",
+        "           346,080",
+        "           110,746",
+        "",
+        "$13,732,454",
+        "      235,334",
+        "",
+        "$27,298,790.40",
+        "$41,031,245"
+      ],
+      [
+        "CY 2027",
+        "           379,403",
+        "         121,409",
+        "",
+        "$15,054,711",
+        "      257,994",
+        "",
+        "$29,927,308.64",
+        "$44,982,020"
+      ],
+      [
+        "Total",
+        "1,002,342",
+        "320,749",
+        "",
+        "$39,772,931",
+        "      681,593",
+        "",
+        "$79,064,737",
+        "$118,837,668"
+      ],
+      [
+        "Annualized",
+        "334,114",
+        "106,916",
+        "",
+        "$13,257,644",
+        "      227,198",
+        "",
+        "$26,354,912",
+        "$39,612,556"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 17,
+    "rows": [
+      [
+        "Table 1 6 :  TWIC   Card Replacement Fees"
+      ],
+      [
+        "Year",
+        "Replacements",
+        "Fee per Replacement",
+        "Total Card Replacement Fees"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = A × B"
+      ],
+      [
+        "CY 2025",
+        "47,698",
+        "$60.00",
+        "$2,861,880"
+      ],
+      [
+        "CY 2026",
+        "47,712",
+        "",
+        "$2,862,720"
+      ],
+      [
+        "CY 2027",
+        "47,711",
+        "",
+        "$2,862,660"
+      ],
+      [
+        "Total",
+        "143,121",
+        " ",
+        "$8,587,260"
+      ],
+      [
+        "Annualized",
+        "47,707",
+        "",
+        "$2,862,420"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in tables."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 18,
+    "rows": [
+      [
+        "Table 1 7 : Cost for Copies of Supporting Appeal Documents"
+      ],
+      [
+        "Year",
+        "Appeals",
+        "Cost per Copy",
+        "Total Cost for Supporting Appeal Documents"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = A  × B"
+      ],
+      [
+        "CY 2025",
+        "9,074",
+        "$1.00",
+        "$9,074"
+      ],
+      [
+        "CY 2026",
+        "10,182",
+        "",
+        "$10,182"
+      ],
+      [
+        "CY 2027",
+        "10,715",
+        "",
+        "$10,715"
+      ],
+      [
+        "Total",
+        "29,971",
+        " ",
+        "$29,971"
+      ],
+      [
+        "Annualized",
+        "9,990",
+        "",
+        "$9,990"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in tables."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+    "table": 19,
+    "rows": [
+      [
+        "",
+        "Table 18: Total  TWIC  Fees"
+      ],
+      [
+        "Year",
+        "Total Enrollment Fees  (without Section 809 Merchant Mariners)",
+        "Total Section 809 Enrollment Fees",
+        "Total Renewal Fees",
+        "Total Replacement Fees",
+        "Total Cost for Supporting Appeal Documents",
+        "Total Fees and Appeal Documents Costs"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F = A+B+C+D+E"
+      ],
+      [
+        "CY 2025",
+        "$35, 304,474",
+        "$912,743",
+        "$32,824,403",
+        "$2,861,880",
+        "$9,074",
+        "$ 71,912,573"
+      ],
+      [
+        "CY 2026",
+        "$35, 310,116",
+        "$912,743",
+        "$41,031,245",
+        "$2,862,720",
+        "$10,182",
+        "$80, 127,005"
+      ],
+      [
+        "CY 2027",
+        "$35, 310,612",
+        "$912,743",
+        "$44,982,020",
+        "$2,862,660",
+        "$10,715",
+        "$84, 078,750"
+      ],
+      [
+        "Total",
+        "$ 105,925,202",
+        "$2, 738,228",
+        "$118,837,668",
+        "$8,587,260",
+        "$29,971",
+        "$236, 118,328"
+      ],
+      [
+        "Annualized",
+        "$35, 308,401",
+        "$912,743",
+        "$39,612,556",
+        "$2,862,420",
+        "$9,990",
+        "$78, 706,109"
+      ],
+      [
+        "",
+        "Note: Calculations may not be exact due to rounding in tables."
+      ]
+    ]
+  }
+]

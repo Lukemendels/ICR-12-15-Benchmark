@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202412-1652-001",
+  "retrieved_at": "2026-09-09T12:05:37.766219+00:00",
+  "documents": [
+    {
+      "title": "1652-0002 AirportSecPt 1542 SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=150317001",
+      "path": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+      "sha256": "b73239d4e13aa6d611ab5a042fb51c32dc5e2f101629c7815bae66ea1a44bd20",
+      "text_chars": 43870
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202412-1652-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202412-1652-001",
+  "agency": "DHS/TSA",
+  "title": "Airport Security Part 1542",
+  "omb_control_number": "1652-0002",
+  "submission_date": "03/20/2025",
+  "record_source_id": "SRC-0175",
+  "supporting_statement_source_ids": [
+    "SRC-0176"
+  ]
+}

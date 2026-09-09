@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202403-0607-001",
+  "retrieved_at": "2026-09-09T12:06:15.724462+00:00",
+  "documents": [
+    {
+      "title": "QSS 2024 OMB supporting statement Part A.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=140379701",
+      "path": "icrs/202403-0607-001/raw/supporting-statement-a-1.docx",
+      "sha256": "3ca60cffd0e718c0137c1b0f523e515ba2a42eb39f8e27f3e285378c23ef2d80",
+      "text_chars": 25459
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202403-0607-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202403-0607-001",
+  "agency": "DOC/CENSUS",
+  "title": "Quarterly Services Survey",
+  "omb_control_number": "0607-0907",
+  "submission_date": "03/11/2024",
+  "record_source_id": "SRC-0165",
+  "supporting_statement_source_ids": [
+    "SRC-0166"
+  ]
+}

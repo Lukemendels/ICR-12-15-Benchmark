@@ -1,0 +1,231 @@
+{
+  "icr_id": "202502-0960-015",
+  "omb_control_number": "0960-0618",
+  "agency": "SSA",
+  "title": "Social Security Benefits Application",
+  "submission_date": "03/18/2025",
+  "archetype": "retirement survivor disability applications",
+  "complexity": "high",
+  "tsa_relevance": "low",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 8,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0178",
+    "SRC-0177"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 14,
+    "provenance": 9,
+    "segmentation": 15,
+    "labor": 5,
+    "item13": 8,
+    "item14": 3,
+    "item15": 6,
+    "validation": 3,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "Form/modeburden,wait/travel/learningtablesvisible; totalsandscopefailreconciliation.",
+    "provenance": "ManagementdataFY2025,wagegenericBLSandOIRAtravelproxy; coefficientsnotpublic.",
+    "segmentation": "Threeapplicationsandpaper/phone/office/internet/thirdpartysegmented.",
+    "labor": "Generalmeanwage31.48usedasopportunitycost; noage/employmentmatch.",
+    "item13": "Nofeesorrequiredpurchasesreasonableforbenefitapplication;travelresourcecostnotpriced.",
+    "item14": "5.763billioncategorieswithGS9formula butnohours/rate; cannotreproduce.",
+    "item15": "Oldnewformhoursandresponsesgiven;ROCISscopebridgewrong.",
+    "validation": "Actualinterviewexperienceandspatialtravelproxy; limitationsacknowledgedbutpopulationmappingfails.",
+    "consistency": "4milliontravelrespondentsversus70718officemodalities;ROCISandfullcosthoursscopesconflict."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "SSA1paper",
+        17604,
+        0.18333333333333332,
+        3227
+      ],
+      [
+        "SSA1phone",
+        1679321,
+        0.16666666666666666,
+        279887
+      ],
+      [
+        "SSA1office",
+        51648,
+        0.16666666666666666,
+        8608
+      ],
+      [
+        "SSA1internet",
+        1835958,
+        0.25,
+        458990
+      ],
+      [
+        "SSA1thirdparty",
+        81810,
+        0.25,
+        20453
+      ],
+      [
+        "SSA2paper",
+        6723,
+        0.25,
+        1681
+      ],
+      [
+        "SSA2phone",
+        358225,
+        0.23333333333333334,
+        83586
+      ],
+      [
+        "SSA2office",
+        8227,
+        0.23333333333333334,
+        1920
+      ],
+      [
+        "SSA2internet",
+        119129,
+        0.25,
+        29782
+      ],
+      [
+        "SSA16paper",
+        46032,
+        0.3333333333333333,
+        15344
+      ],
+      [
+        "SSA16phone",
+        723281,
+        0.31666666666666665,
+        229039
+      ],
+      [
+        "SSA16office",
+        10843,
+        0.31666666666666665,
+        3434
+      ],
+      [
+        "SSA16internet",
+        667806,
+        0.25,
+        166952
+      ],
+      [
+        "SSA16thirdparty",
+        561014,
+        0.25,
+        140254
+      ],
+      [
+        "One-way travel",
+        4005715,
+        0.5,
+        2002858
+      ],
+      [
+        "Learning",
+        6167621,
+        0.15,
+        925143
+      ]
+    ],
+    "labor": {
+      "rate": 31.48,
+      "form_wait_cost": 73805710,
+      "travel_cost": 63049970,
+      "learning_cost": 29123502,
+      "total_reported": 165979182
+    },
+    "item13": {
+      "reported": 0,
+      "reason": "Nofeesorrequiredpurchases"
+    },
+    "item14": {
+      "design_printing": 6185,
+      "processing": 5762047904,
+      "systems": 1266081,
+      "reported": 5763320170,
+      "basis": "GS9 timesresponses/time,inputsnotdisclosed"
+    },
+    "item15": {
+      "old_form_hours": 1383743,
+      "new_form_hours": 1443157,
+      "old_responses": 5947974,
+      "new_responses": 6167621,
+      "rocis_hours_claimed": 3328797,
+      "scope": "ROCISsaidincludeswaiting/travel/learning"
+    },
+    "assumptions": [
+      "19minphonewait;23minofficewait.",
+      "30minonewaytravelspatialproxy13.97miles; modeshareunknown.",
+      "9minlearningforallrespondents."
+    ]
+  },
+  "reconstruction_issues": [
+    "Travelpopulation4005715doesnotmatchsumofficeinterviews51648+8227+10843=70718.",
+    "Form1443157+travel2002858+learning925143=4371158hoursbeforewaiting, alreadyaboveclaimedROCIS3328797.",
+    "Prosesaysformtimesincludelearning/waitingwhiletablesaddthemseparately; scopeambiguityrisksduplication.",
+    "FederalGS9equationslacknumericwageandprocessingtimeinputs."
+  ],
+  "methods_worth_testing": [
+    "Separateburdencomponentsandacknowledgetravelproxyuncertainty.",
+    "Preserveopportunitycostversusfee/resource distinctions."
+  ],
+  "checks": [
+    {
+      "label": "Office respondents",
+      "formula": "51648+8227+10843",
+      "calculated": 70718,
+      "reported": 4005715,
+      "difference": -3934997,
+      "unit": "people",
+      "interpretation": "Travelpopulationmappingunresolved.",
+      "source_id": "SRC-0178"
+    },
+    {
+      "label": "Minimum expanded hours",
+      "formula": "1443157+2002858+925143",
+      "calculated": 4371158,
+      "reported": 3328797,
+      "difference": 1042361,
+      "unit": "hours",
+      "interpretation": "ExceedsclaimedROCISbeforewaiting.",
+      "source_id": "SRC-0178"
+    },
+    {
+      "label": "Costs",
+      "formula": "73805710+63049970+29123502",
+      "calculated": 165979182,
+      "reported": 165979182,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exactcomponentcostsum.",
+      "source_id": "SRC-0178"
+    },
+    {
+      "label": "Federal",
+      "formula": "6185+5762047904+1266081",
+      "calculated": 5763320170,
+      "reported": 5763320170,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exacttotalsbutnotindependentworkloadreconstruction.",
+      "source_id": "SRC-0178"
+    }
+  ],
+  "total_score": 64
+}

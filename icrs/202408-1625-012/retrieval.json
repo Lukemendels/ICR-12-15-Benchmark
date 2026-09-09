@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202408-1625-012",
+  "retrieved_at": "2026-09-09T12:05:37.766691+00:00",
+  "documents": [
+    {
+      "title": "1625-0077_SS_r1_2025_form-chg.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=145780303",
+      "path": "icrs/202408-1625-012/raw/supporting-statement-a-1.docx",
+      "sha256": "92b2542755c4a658a869dc82b0458214218855ec3033ae7c0fe39eefbc8f939c",
+      "text_chars": 17329
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202408-1625-012",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202408-1625-012",
+  "agency": "DHS/USCG",
+  "title": "Security Plan for Ports, Vessels, Facilities, Outer Continental Shelf Facilities and Other Security-Related Requirements",
+  "omb_control_number": "1625-0077",
+  "submission_date": "09/30/2024",
+  "record_source_id": "SRC-0173",
+  "supporting_statement_source_ids": [
+    "SRC-0174"
+  ]
+}

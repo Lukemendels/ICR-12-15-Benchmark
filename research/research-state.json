@@ -1,12 +1,13 @@
 {
   "mission_status": "IN_PROGRESS",
-  "current_iteration": 7,
-  "icrs_reviewed": 61,
+  "current_iteration": 8,
+  "icrs_reviewed": 69,
   "agencies_components_reviewed": [
     "CFPB",
     "CFTC",
     "DHS/TSA",
     "DHS/USCBP",
+    "DHS/USCG",
     "DHS/USCIS",
     "DOC/CENSUS",
     "DOC/NOAA",
@@ -16,6 +17,8 @@
     "DOL/ETA",
     "DOL/MSHA",
     "DOL/OSHA",
+    "DOL/OWCP",
+    "DOT/FAA",
     "DOT/FMCSA",
     "DOT/FRA",
     "DOT/PHMSA",
@@ -63,7 +66,10 @@
         "202406-1652-001",
         "202410-0960-002",
         "202410-3150-005",
+        "202412-1652-001",
+        "202502-0960-015",
         "202502-2040-002",
+        "202504-1652-008",
         "202509-2060-003",
         "202511-0583-005",
         "202511-1545-005",
@@ -81,6 +87,7 @@
       ],
       "item13": [
         "202310-0607-003",
+        "202403-0607-001",
         "202404-1220-001",
         "202602-0607-001"
       ],
@@ -101,8 +108,8 @@
     "most_consistent_agency": "not estimable"
   },
   "current_tsa_benchmark": {
-    "n": 8,
-    "mean": 66,
+    "n": 10,
+    "mean": 67.4,
     "min": 50,
     "max": 76,
     "conclusion": "Observed TSA sample shows useful methods and material reconstruction gaps; agency-wide ranking and overhaul effects remain unestablished."
@@ -112,13 +119,10 @@
   ],
   "unresolved_evidence_gaps": [
     "TSA overhaul attribution unverified",
-    "Agency-level generalization limited by purposive heterogeneous sample",
-    "Restricted internal wage/calibration/workload inputs",
-    "Capital resource-cost versusItem13 mapping requires care",
-    "Second saturation batch and adversarial round pending",
-    "Final scoring calibration and provenance validation pending"
+    "Underlying citations not all independently retrieved",
+    "Final calibration, provenance validation and separate adversarial round outstanding"
   ],
-  "saturation_streak": 1,
-  "next_research_strategy": "Iteration8: repeat TSA and close transport/security comparators; statistical and benefit-program challenge strata. If saturated, proceed to separate adversarial round.",
-  "updated_at": "2026-09-09T12:02:23.873508+00:00"
+  "saturation_streak": 2,
+  "next_research_strategy": "Iteration 9: separate adversarial challenge, then final validation if no novel dimension emerges",
+  "updated_at": "2026-09-09T12:11:19.610307+00:00"
 }

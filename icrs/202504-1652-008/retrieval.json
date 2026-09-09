@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202504-1652-008",
+  "retrieved_at": "2026-09-09T12:05:37.765863+00:00",
+  "documents": [
+    {
+      "title": "1652-0047 TWIC SS Part A.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403",
+      "path": "icrs/202504-1652-008/raw/supporting-statement-a-1.docx",
+      "sha256": "b69ae2458c320b93e3e17adc56f2882a2f4498773999c6fefc401a98fe631889",
+      "text_chars": 56829
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-1652-008",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202504-1652-008",
+  "agency": "DHS/TSA",
+  "title": "Transportation Worker Identification Credential",
+  "omb_control_number": "1652-0047",
+  "submission_date": "05/05/2025",
+  "record_source_id": "SRC-0179",
+  "supporting_statement_source_ids": [
+    "SRC-0180"
+  ]
+}

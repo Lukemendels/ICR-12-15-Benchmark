@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202405-1220-001",
+  "retrieved_at": "2026-09-09T12:05:37.767751+00:00",
+  "documents": [
+    {
+      "title": "Part A (1220-0141)_5-9-2024.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=142560501",
+      "path": "icrs/202405-1220-001/raw/supporting-statement-a-1.docx",
+      "sha256": "e3f00b75b3f1feb62d661519aac0067f77fd347b2c03a319c06ad43b0542a083",
+      "text_chars": 45331
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202405-1220-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202405-1220-001",
+  "agency": "DOL/BLS",
+  "title": "Cognitive and Psychological Research",
+  "omb_control_number": "1220-0141",
+  "submission_date": "06/10/2024",
+  "record_source_id": "SRC-0171",
+  "supporting_statement_source_ids": [
+    "SRC-0172"
+  ]
+}

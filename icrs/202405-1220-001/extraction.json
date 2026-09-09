@@ -1,0 +1,127 @@
+{
+  "icr_id": "202405-1220-001",
+  "omb_control_number": "1220-0141",
+  "agency": "DOL/BLS",
+  "title": "Cognitive and Psychological Research",
+  "submission_date": "06/10/2024",
+  "archetype": "generic cognitive and survey testing",
+  "complexity": "moderate",
+  "tsa_relevance": "low",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 8,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0172",
+    "SRC-0171"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 10,
+    "segmentation": 12,
+    "labor": 6,
+    "item13": 8,
+    "item14": 4,
+    "item15": 6,
+    "validation": 3,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Annualandthree-yearhousehold/business totalsclear; mixedstudytimeaverage derivationabsent.",
+    "provenance": "CESAugust2023wageandhistoricalresearchbasis; futurestudycompositionnotfixed.",
+    "segmentation": "Household/businesssegments andscreeningacknowledged; moderated/unmoderatednotquantitativelyweighted.",
+    "labor": "Generalearnings33.82forbothhouseholdsandbusiness; nooccupationalmixforbusiness.",
+    "item13": "Nocapital/O&Mreasonableforshortresearchparticipation.",
+    "item14": "50000maximum incentives/ads; staffandlaboratorycostsexcludedasexistingwithoutallocation.",
+    "item15": "Annualincrease2949statedwithnewtestingmethods, noquantifiedstudy-mixbridge.",
+    "validation": "Experiencewithpriortests supportsranges; genericclearance forecastsnotfuturestudyresults.",
+    "consistency": "Totalsreconcile; exclusionoftraveltimeandmixedmodeaverage limitsscopecompleteness."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Household participants",
+        10000,
+        0.3333,
+        3333
+      ],
+      [
+        "Business participants",
+        450,
+        1,
+        450
+      ]
+    ],
+    "labor": {
+      "rate": 33.82,
+      "source": "CES August2023averagehourlyearnings",
+      "reported": 127941.06
+    },
+    "item13": {
+      "reported": 0,
+      "reason": "Shortparticipation,noequipment/servicepurchases"
+    },
+    "item14": {
+      "reported_max": 50000,
+      "included": [
+        "incentives",
+        "advertising"
+      ],
+      "excluded": [
+        "existinglaboratorystaff",
+        "equipment",
+        "onlinepanelfees"
+      ],
+      "allocation": null
+    },
+    "item15": {
+      "annual_new": 3783,
+      "claimed_increase": 2949,
+      "three_year_new": 11349,
+      "reason": "Expandedunmoderated/mixedmodetesting"
+    },
+    "assumptions": [
+      "Onehourmoderated;5–20minunmoderated;screen10minmoderated/2minunmoderated.",
+      "Householdaverage20mincompositionnotgiven."
+    ]
+  },
+  "reconstruction_issues": [
+    "Travelomittedbecauseunknown ratherthanquantifiedorbounded.",
+    "Federalstaffandpanelfeesexcludedasexisting; incremental/resourceallocationnotdemonstrated.",
+    "Genericclearancecapacitycannotbetreatedasmeasuredstudyburden."
+  ],
+  "methods_worth_testing": [
+    "Include recruitmentandscreeningexplicitly.",
+    "Keepgenericclearancecapacityseparatefromstudy-specificactuals."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "10000*.3333+450",
+      "calculated": 3783.0,
+      "reported": 3783,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exactatroundedtime.",
+      "source_id": "SRC-0172"
+    },
+    {
+      "label": "Cost",
+      "formula": "3783*33.82",
+      "calculated": 127941.06,
+      "reported": 127941.06,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0172"
+    }
+  ],
+  "total_score": 69
+}

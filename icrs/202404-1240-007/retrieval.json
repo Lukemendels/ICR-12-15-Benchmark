@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202404-1240-007",
+  "retrieved_at": "2026-09-09T12:06:15.759085+00:00",
+  "documents": [
+    {
+      "title": "1240-0007 Supporting Statement_2024__05232024_MN clean.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=143050301",
+      "path": "icrs/202404-1240-007/raw/supporting-statement-a-1.docx",
+      "sha256": "0d27840b7d9157a752c54a1aad66af17c70909b29ae045d05ee1ebceadb50dad",
+      "text_chars": 20590
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202404-1240-007",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202404-1240-007",
+  "agency": "DOL/OWCP",
+  "title": "Claim for Medical Reimbursement Form",
+  "omb_control_number": "1240-0007",
+  "submission_date": "05/30/2024",
+  "record_source_id": "SRC-0167",
+  "supporting_statement_source_ids": [
+    "SRC-0168"
+  ]
+}

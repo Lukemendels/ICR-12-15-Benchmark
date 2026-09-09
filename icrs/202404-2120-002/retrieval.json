@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202404-2120-002",
+  "retrieved_at": "2026-09-09T12:05:37.767261+00:00",
+  "documents": [
+    {
+      "title": "SSA - OMB-2120-0682.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=145557901",
+      "path": "icrs/202404-2120-002/raw/supporting-statement-a-1.docx",
+      "sha256": "5eb372b281a1c152f3002a0e65ef329e72e151408337577c3b50e62567373c9d",
+      "text_chars": 48140
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202404-2120-002",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202404-2120-002",
+  "agency": "DOT/FAA",
+  "title": "Certification and Operation of Repair Stations, 14 CFR Part 145",
+  "omb_control_number": "2120-0682",
+  "submission_date": "08/29/2024",
+  "record_source_id": "SRC-0169",
+  "supporting_statement_source_ids": [
+    "SRC-0170"
+  ]
+}

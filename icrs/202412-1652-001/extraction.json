@@ -1,0 +1,205 @@
+{
+  "icr_id": "202412-1652-001",
+  "omb_control_number": "1652-0002",
+  "agency": "DHS/TSA",
+  "title": "Airport Security Part 1542",
+  "submission_date": "03/20/2025",
+  "archetype": "airport security programs and vetting",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 8,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0176",
+    "SRC-0175"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 11,
+    "segmentation": 15,
+    "labor": 5,
+    "item13": 6,
+    "item14": 8,
+    "item15": 4,
+    "validation": 2,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Ten activity tables and rates reconstruct most burden; conflicts in compensation and fees.",
+    "provenance": "Precise2023OEWS/June2024ECEC citations and TSA2024pay; fees still2011/2019basis.",
+    "segmentation": "Programs, amendment types, applicants, data entry and records separated.",
+    "labor": "Ratio loading transparent, but applicant footnote50.19 conflicts with34.48 used and overlapping SOC aggregates not weighted explicitly.",
+    "item13": "CHRC price from historical range/GDPdeflator; current validation absent.",
+    "item14": "435airports*28.5hours*H-band rate, source annual compensation and2087denominator explicit.",
+    "item15": "Only qualitative updates, no old/new quantified bridge.",
+    "validation": "TSA subject-matter estimates; no accessible timing tests or ranges for dominant activities.",
+    "consistency": "Labor footnotes conflict with tables; fee mismatch and respondent-unit terminology."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "New ASP",
+        1,
+        500,
+        500
+      ],
+      [
+        "TSA amendments",
+        435,
+        250,
+        108750
+      ],
+      [
+        "Airport amendments",
+        4350,
+        25,
+        108750
+      ],
+      [
+        "Temporary changes",
+        6525,
+        40,
+        261000
+      ],
+      [
+        "CHRC applicant",
+        1042500,
+        0.5,
+        521250
+      ],
+      [
+        "STA applicant",
+        1413907,
+        0.35,
+        494867
+      ],
+      [
+        "STA data entry",
+        1413907,
+        0.25,
+        353477
+      ],
+      [
+        "CHRC/STA records",
+        1413907,
+        0.05,
+        70695
+      ],
+      [
+        "SIDA records",
+        1002404,
+        0.08333333333333333,
+        83534
+      ],
+      [
+        "LEO records",
+        435,
+        200,
+        87000
+      ],
+      [
+        "SD records",
+        5220,
+        1,
+        5220
+      ]
+    ],
+    "labor": {
+      "manager_base": 74.47,
+      "compensation_ratio": [
+        50.31,
+        34.59
+      ],
+      "manager_loaded": 108.31,
+      "applicant_used": 34.48,
+      "applicant_footnote_base": 34.51,
+      "applicant_footnote_loaded": 50.19364,
+      "clerk_loaded": 34.18,
+      "reported": 125698533
+    },
+    "item13": {
+      "chrc_count": 1042500,
+      "displayed_fee": 56.55,
+      "reported": 58954925,
+      "fee_derivation": "2011range29–75 midpoint52 updatedby2019/2011GDP112.358/103.315"
+    },
+    "item14": {
+      "airports": 435,
+      "hours_each": 28.5,
+      "annual_compensation": 155109,
+      "annual_hours_denominator": 2087,
+      "displayed_rate": 74.32,
+      "reported": 921402
+    },
+    "item15": {
+      "narrative": "Latest available data changed responses/hours; TSI wage increased; total annual cost decreased",
+      "quantified_bridge": null
+    },
+    "assumptions": [
+      "500hnewASP,250hTSAamendment,25hairportamendment,40htemporaryamendment fromPPEexpert.",
+      "STA applicant and data-entry time are distinct actors."
+    ]
+  },
+  "reconstruction_issues": [
+    "Applicant footnote loaded50.19364 differs from34.48 used for overone million applicant-hours.",
+    "CHRCfee displayed56.55*1042500doesnotreproduce58954925; fee source vintage2011updatedonlyto2019.",
+    "Nested SOC53-7000and53-7062 appear in applicant wage basket without explicit employment weights.",
+    "Item15 provides no numerical old-to-new bridge."
+  ],
+  "methods_worth_testing": [
+    "Retain activity-specific equations and employer/applicant separation.",
+    "Keep precise wage-source metadata and annual federal salary denominator."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "500+108750+108750+261000+521250+494867+353477+70695+83534+87000+5220",
+      "calculated": 2095043,
+      "reported": 2095043,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact rounded-row sum.",
+      "source_id": "SRC-0176"
+    },
+    {
+      "label": "CHRC fee",
+      "formula": "1042500*56.55",
+      "calculated": 58953375.0,
+      "reported": 58954925,
+      "difference": -1550.0,
+      "unit": "USD",
+      "interpretation": "1550difference.",
+      "source_id": "SRC-0176"
+    },
+    {
+      "label": "Federal",
+      "formula": "435*28.5*(155109/2087)",
+      "calculated": 921400.9714901773,
+      "reported": 921402,
+      "difference": -1.0285098226740956,
+      "unit": "USD",
+      "interpretation": "Unroundedrate reproducesroundedtotal.",
+      "source_id": "SRC-0176"
+    },
+    {
+      "label": "Applicant loading",
+      "formula": "34.51*50.31/34.59",
+      "calculated": 50.19364267129228,
+      "reported": 34.48,
+      "difference": 15.713642671292284,
+      "unit": "USD/hour",
+      "interpretation": "Footnote method conflicts with usedrate.",
+      "source_id": "SRC-0176"
+    }
+  ],
+  "total_score": 71
+}

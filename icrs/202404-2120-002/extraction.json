@@ -1,0 +1,198 @@
+{
+  "icr_id": "202404-2120-002",
+  "omb_control_number": "2120-0682",
+  "agency": "DOT/FAA",
+  "title": "Certification and Operation of Repair Stations, 14 CFR Part 145",
+  "submission_date": "08/29/2024",
+  "archetype": "aircraft repair station certification",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 8,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0170",
+    "SRC-0169"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 10,
+    "segmentation": 14,
+    "labor": 6,
+    "item13": 6,
+    "item14": 8,
+    "item15": 4,
+    "validation": 3,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Detailedreport/record/formtables; headline240868.75conflictswith236666detailedtotal.",
+    "provenance": "OEWS2023SOCand2024RUSpay; administrativenumbersfromCSOP,benefitbasevintageunclear.",
+    "segmentation": "Initial/amendment/foreignrenewal/manuals/employee/trainingdutiesseparate.",
+    "labor": "Aircraftmechanicrate36.66*1.29; ECECshareversuswagemarkupnotresolved.",
+    "item13": "Noadditionalmaterialcostasserted; foreigncertificationfeesmentionedelsewherebutnotquantified.",
+    "item14": "SevenreviewtaskswithFG13/5and31%loadreconstruct4590h/327726.",
+    "item15": "Comprehensive revisionandNOAmentioned, nooldnewquantitativebridge.",
+    "validation": "Certification-systemcountsandexperience; tasktimesrange2–80butweightingnotshown.",
+    "consistency": "Staleheadline,recordkeepingresponse/timecolumnsconflict,MIPprose2vs200h."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Initial",
+        125,
+        8.5,
+        1062.5
+      ],
+      [
+        "Amendments",
+        50,
+        10,
+        500
+      ],
+      [
+        "Foreign renewal",
+        500,
+        4.25,
+        2125
+      ],
+      [
+        "Manuals",
+        475,
+        41,
+        19475
+      ],
+      [
+        "Repairman recommendations",
+        5000,
+        1,
+        5000
+      ],
+      [
+        "Capability list",
+        500,
+        1,
+        500
+      ],
+      [
+        "Certificate return",
+        10,
+        0.25,
+        2.5
+      ],
+      [
+        "Employee records",
+        10000,
+        1,
+        10000
+      ],
+      [
+        "Training records",
+        5000,
+        40,
+        200000
+      ]
+    ],
+    "labor": {
+      "soc": "49-3011",
+      "vintage": 2023,
+      "wage": 36.66,
+      "load": 1.29,
+      "loaded": 47.29,
+      "reported_detailed": 11286467.86,
+      "reported_headline": 11507548.6
+    },
+    "item13": {
+      "reported": 0,
+      "reason": "Noadditionalmaterialcost",
+      "unquantified": "Foreign certification fees under14CFR187 acknowledged"
+    },
+    "item14": {
+      "rows": [
+        [
+          125,
+          0.5
+        ],
+        [
+          50,
+          0.5
+        ],
+        [
+          500,
+          0.5
+        ],
+        [
+          50,
+          4
+        ],
+        [
+          475,
+          8
+        ],
+        [
+          500,
+          0.5
+        ],
+        [
+          10,
+          0.25
+        ]
+      ],
+      "grade": "2024RUS FG13/5",
+      "base": 54.5,
+      "load": 1.31,
+      "loaded": 71.4,
+      "hours": 4590,
+      "reported": 327726
+    },
+    "item15": {
+      "reason": "Comprehensiveanalysisfollowing2021NOA; satellitefacilityfieldadded",
+      "bridge": null
+    },
+    "assumptions": [
+      "500foreignrenewalsannuallyfrombiennialcycle.",
+      "Mechanicproxyforadministrativeandtechnicaltasks."
+    ]
+  },
+  "reconstruction_issues": [
+    "Headline240868.75h/$11507548.60differsfromdetailed236665h/$11286467.86.",
+    "Recordkeepingtable10000responses*2hconflictswith10000h; detailedtwotasks5000*1eachresolve.",
+    "Foreign-certification fees acknowledged without respondentnonlaborcost.",
+    "MIP50*4=200h, not2inprose."
+  ],
+  "methods_worth_testing": [
+    "Detailedregulatoryduty modelseparatesmanualdevelopmentfromapplications.",
+    "Federalreviewtableisreadilyreconstructable."
+  ],
+  "checks": [
+    {
+      "label": "Detailed hours",
+      "formula": "125*8.5+50*10+500*4.25+475*41+5000+500+10*.25+10000+200000",
+      "calculated": 238665.0,
+      "reported": 240868.75,
+      "difference": -2203.75,
+      "unit": "hours",
+      "interpretation": "4203.75differencefromheadline.",
+      "source_id": "SRC-0170"
+    },
+    {
+      "label": "Federal",
+      "formula": "(125*.5+50*.5+500*.5+50*4+475*8+500*.5+10*.25)*71.4",
+      "calculated": 327726.0,
+      "reported": 327726,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0170"
+    }
+  ],
+  "total_score": 69
+}

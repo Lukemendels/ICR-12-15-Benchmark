@@ -1,0 +1,490 @@
+[
+  {
+    "file": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Table  1 : Total Hour Burden Estimate for New Security Programs"
+      ],
+      [
+        "New ASP",
+        "Average Annual Respondents  New ASP",
+        "Average Annual Responses",
+        "Hour Burden per Response",
+        "Average Annual Hour Burden",
+        "Average Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C",
+        "D = A x B x C",
+        "E = D x $ 108.31"
+      ],
+      [
+        "",
+        "1",
+        "1",
+        "500",
+        "500",
+        "$54,157 "
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in the table."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Table  2 : Total Hour Burden Estimates for TSA-Directed Amendments"
+      ],
+      [
+        "TSA-Directed Amendments",
+        "Average Annual Respondents",
+        "Average Annual Responses  per Respondent",
+        "Hour Burden per R esponse",
+        "Average Annual Hour Burden",
+        "Average  Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C",
+        "D =  A x  B x C",
+        "E = D x $108.31"
+      ],
+      [
+        "",
+        "435",
+        "1",
+        "250",
+        "108,750",
+        "$11,779,161 "
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Table  3 : Total Hour Burden Estimates for Amendments-Airport-Requested"
+      ],
+      [
+        "Amendments- Airport-Requested",
+        "Average Annual Respondents",
+        "Average Annual Responses   per Respondent",
+        "Hour Burden per  R esponse",
+        "Average Annual Hour Burden",
+        "Average  Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C",
+        "D =  A x  B x C",
+        "E = D x $108.31"
+      ],
+      [
+        "",
+        "435",
+        "10",
+        "25",
+        "108,750",
+        "$11,779,161 "
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Table  4 : Hour Burden for Amendments   Temporary Changed Conditions"
+      ],
+      [
+        "Amendments-Temporary Changed Conditions",
+        "Average Annual Respondents",
+        "Average Annual Responses",
+        "Hour Burden per  R esponse",
+        "Average Annual Hour Burden",
+        "Average  Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C",
+        "D =  A x  B x C",
+        "E = D x $108.31"
+      ],
+      [
+        "",
+        "435",
+        "15",
+        "40",
+        "261,000",
+        "$28,269,988 "
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Table  5 : Total Hour Burden for CHRC Applications"
+      ],
+      [
+        "CHRC Applications",
+        "Average Annual Responses",
+        "Hour Burden per Response",
+        "Average Annual Hour Burden",
+        "Average Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = A x B",
+        "D = C x $ 34.48"
+      ],
+      [
+        "Average",
+        "1,042,500",
+        "0.5",
+        "521,250",
+        "$17,975,074 "
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in the table."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 6,
+    "rows": [
+      [
+        "Table  6 : Total Hour Burden Estimates for STA Applications"
+      ],
+      [
+        "STA Applications",
+        "Average Annual Responses",
+        "Hour Burden per Response",
+        "Average Annual Hour Burden",
+        "Average Annual Hour Burden Cost",
+        "Hour Burden to Enter Data Into DAC",
+        "Average Annual Hour Burden to Enter Data Into DAC",
+        "Total Average Annual Hour Burden for STA Applications",
+        "Average Annual Hour Burden Cost to Enter Data Into DAC",
+        "Total Cost Burden for STA Applications"
+      ],
+      [
+        " ",
+        "A",
+        "B",
+        "C = A  ×  B",
+        "D = C  ×  $ 34.48",
+        "E",
+        "F = A  ×  E",
+        "G = C + F",
+        "H =  F   ×  $ 34.18",
+        "I = D + H"
+      ],
+      [
+        "Average",
+        "1,413,907",
+        "0.35",
+        "494,867",
+        "$17,065,281",
+        "0.25",
+        "353,477",
+        "848,344",
+        "$12,081,823",
+        "$29,147,104"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in the table.",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 7,
+    "rows": [
+      [
+        "Table  7 : Total Hour Burden Estimates for CHRCs/STA Records"
+      ],
+      [
+        "CHRC/STA Records",
+        "Average Annual Responses",
+        "Hour Burden per Response",
+        "Average Annual Hour Burden",
+        "Average Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = A x B",
+        "D = C x $ 108.31"
+      ],
+      [
+        "",
+        "1,413,907",
+        "0. 0 5",
+        "70,695",
+        "$ 7,657,305"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in the table."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 8,
+    "rows": [
+      [
+        "Table  8 : Total Hour Burden for SIDA Training Records"
+      ],
+      [
+        "SIDA Training Records",
+        "Average Annual Responses",
+        "Hour Burden per response",
+        "Average Annual Hour Burden",
+        "Average Annual Hour Burden Cost"
+      ],
+      [
+        " ",
+        "A",
+        "B",
+        "C = A x B",
+        "D = C x $108.31"
+      ],
+      [
+        "Average",
+        "1,002,404",
+        "0.083",
+        "83,534",
+        "$9,047,876"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in the table."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 9,
+    "rows": [
+      [
+        "Table  9 : Total Hour Burden for LEO Training and LEO Response"
+      ],
+      [
+        "LEO Training and LEO Response",
+        "Average Annual Respondents",
+        "Average Annual Responses  per Respondent",
+        "Hour Burden per  R esponse",
+        "Average Annual Hour Burden",
+        "Average  Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C",
+        "D =  A x  B x C",
+        "E = D x $108.31"
+      ],
+      [
+        "",
+        "435",
+        "1",
+        "200",
+        "87,000",
+        "$9,423,329"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 10,
+    "rows": [
+      [
+        "SD  Reporting and  Recordkeeping",
+        "Average Annual Respondents",
+        "Average Annual Responses  per Respondent",
+        "Hour Burden per  R esponse",
+        "Average Annual Hour Burden",
+        "Average  Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C",
+        "D =  A x  B x C",
+        "E = D x $108.31"
+      ],
+      [
+        "",
+        "435",
+        "12",
+        "1",
+        "5,220",
+        "$565,378 "
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 11,
+    "rows": [
+      [
+        "Table 1 1 : Total Average Annual Hour Responses, Burden, and Burden Cost"
+      ],
+      [
+        " ",
+        "New Security Programs",
+        "TSA-Directed Amendments",
+        "Airport-Requested Amendments",
+        "Amendments Temp. Changed Conditions",
+        "CHRC Applications",
+        "STA Applications ",
+        "CHRCs/STA Recordkeeping",
+        "SIDA Training & Recordkeeping ",
+        "LEO Training & Response ",
+        "SD  Reporting and  Recordkeeping",
+        "Total"
+      ],
+      [
+        "",
+        "Table 1",
+        "Table 2",
+        "Table 3",
+        "Table 4",
+        "Table 5",
+        "Table 6",
+        "Table 7",
+        "Table 8",
+        "Table 9",
+        "Table 10",
+        ""
+      ],
+      [
+        "Average Annual Responses",
+        "1",
+        "435",
+        "435 0",
+        "6,525",
+        "1,042,500",
+        "1,413,907",
+        "1,413,907",
+        "1,002,404",
+        "435",
+        "5 , 220",
+        "4,88 9 , 6 84"
+      ],
+      [
+        "Average Annual Hour Burden",
+        "500",
+        "108,750",
+        "108,750",
+        "261,000",
+        "521,250",
+        "848,344",
+        "70,695",
+        "83,534",
+        "87,000",
+        "5,220",
+        "2, 0 9 5 , 043"
+      ],
+      [
+        "Average Annual Hour Burden Cost",
+        "$54,157",
+        "$11,779,161",
+        "$11,779,161",
+        "$28,269,988",
+        "$17,975,074",
+        "$29,147,104",
+        "$ 7,657,305",
+        "$9,047,876",
+        "$9,423,329",
+        "$565,378 ",
+        "$ 12 5 , 698 , 533"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in the table."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 12,
+    "rows": [
+      [
+        "Table  12 : Total Estimated Annual Cost to Respondents for CHRC Fees"
+      ],
+      [
+        "CHRCs Fees",
+        "Average Annual Responses",
+        "Cost Burden per Response",
+        "Average Annual Cost Burden"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = A x B"
+      ],
+      [
+        "Average",
+        "1,042,500",
+        "$56.55",
+        "$58,954,925"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in the table."
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202412-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 13,
+    "rows": [
+      [
+        "Table  1 3 : TSA Total Hour Burden Cost"
+      ],
+      [
+        "Loaded Hourly Wage Rate H Band (TSA TSI)",
+        "Number of Airports",
+        "Number of Hours",
+        "Total TSA Costs"
+      ],
+      [
+        "A",
+        "B",
+        "C ",
+        "D = A x B x C"
+      ],
+      [
+        "$ 74.32",
+        "43 5",
+        "28.5",
+        "$ 921,402"
+      ],
+      [
+        "Note: Calculations may not be exact due to rounding in the table."
+      ]
+    ]
+  }
+]
