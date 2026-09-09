@@ -1,0 +1,532 @@
+PART word/document.xml
+
+
+Link to document: 1652-0059 TSA Pre-Check _SS_ Part A_FY24REV - OMB 1652-0059
+
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.  (Annotate the CFR parts/sections affected).
+
+The mission of the Transportation Security Administration (TSA) is to protect the nation’s transportation systems to ensure freedom of movement for people and commerce. The Aviation and Transportation Security Act, Pub. L. 107-71 (115 Stat. 597; Nov. 19, 2001) provides TSA with broad authority for securing aviation transportation, specifically authorizing TSA to test new technology and equipment.   Section 109(a)(3) of this act, as  codified at 49 U.S.C. § 114 note, provides TSA with the authority to “establish requirements to implement trusted passenger programs and use available technologies to expedite security screening of passengers who participate in such programs, thereby allowing security screening personnel to focus on those passengers who should be subject to more extensive screening.”  In addition, TSA has a statutory mandate to establish and collect a fee for any registered traveller program by publication of a notice in the Federal Register, as outlined in section 540 of the DHS Appropriations Act, 2006, Pub. L. 109-90 (Oct. 18, 2005).TSA is also authorized to “…consider the deployment of biometric or similar technologies that identify individuals based on unique personal characteristics” as a means of screening individuals before admission into the secure areas of airports.  As part of its efforts to secure aviation transportation, TSA verifies passenger identities to grant access to airport sterile areas.
+
+Further, the TSA Modernization Act requires TSA to offer secure online or mobile enrollment opportunities. See Pub. L. 115-254 (132 Stat. 3542; Oct. 5, 2018), codified at 49 U.S.C. §101 note and §44919, PreCheck Program.  As such, TSA is revising the collection to implement MyTSA PreCheck ID ™, an optional TSA-issued mobile identity credential initially designed for eligible TSA PreCheck Application Program (TPAP) members, then DHS Trusted Travelers (e.g., U.S. Customs and Border Protection (CBP) Global Entry® (GE), SENTRI®, and NEXUS®), and eventually the program may be expanded to other eligible trusted traveler populations who receive the TSA PreCheck® benefit, such as DHS employees, members of the military, other TSA-credentialed programs, and other list-based populations.  The MyTSA PreCheck ID will collect biometric data and minimal flight information.  The biometric information collected is a selfie for identity matching that will not be retained or stored after identity match or no match.  MyTSA PreCheck ID is a secure, scalable, and user-friendly identity solution designed to enhance security, streamline operational efficiency, and improve the TSA PreCheck experience by modernizing the identity verification process.
+
+TSA is also revising the collection by building the TSA Customer Service Portal (CSP), to allow individuals enrolled in TSA credentialed programs (e.g., TSA PreCheck, Transportation Worker Identification Credential (TWIC®), etc.) to securely view and update their profile information in the various TSA programs.  The CSP will use an existing login.gov account to display the user’s program information on record.  The login.gov account requires the individual’s name and email address to establish an account.
+
+Lastly, TSA is revising the collection by developing the Seamless Identity Automation (SIA) solution to expand the current 1:n TSA PreCheck Touchless ID (TID) verification capabilities at the security checkpoint. It will be inclusive of existing TID populations and provide the ability for additional TSA PreCheck members to participate.  Members with an acceptable form of digital ID (e.g. mobile driver’s license, mobile passport) and mobile boarding pass, can enroll into this next iteration of the touchless experience that introduces commercially owned electronic gates (eGates) to advance operational efficiency.  This enrollment requires the member to securely share their biographic and biometric information along with flight details.
+
+Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+In accordance with the TSA Modernization Act, TSA is providing TSA PreCheck-eligible members the option to obtain a MyTSA PreCheck ID, which facilitates delivery of TSA PreCheck benefits for low-risk individuals, including expedited screening, the ability to opt-in to TSA PreCheck Touchless ID, and potential future uses.  More details on MyTSA PreCheck ID and the new CSP are provided later in this section.
+
+For TPAP enrollment, TSA continues the same process historically followed, including for identity verification, fingerprint capture, the Security Threat Assessment (STA), TPAP eligibility notification, fee collection, and TPAP renewal.  The following TPAP process information is provided for reference purposes only.
+
+Existing TPAP Enrollment Process
+
+TSA implemented the TPAP to allow U.S. citizens, U.S. nationals, and lawful permanent residents to apply for a Known Traveler Number (KTN) to indicate that they are deemed low-risk through TSA’s STA process.  Per the update in the last Information Collection Request (ICR), individuals who voluntarily apply for TPAP continue to have several avenues to provide the necessary biographic and demographic information to TSA: pre-enrollment online before in-person enrollment, in-person enrollment, and post-enrollment via mail, email, or fax.  Applicants must submit their biometric data at an enrollment location; those who choose to pre-enroll online must still complete their enrollment by submitting identity and citizenship/immigration documents and fingerprints in person, and they may correct and verify any information they submitted during online pre-enrollment.  Alternatively, applicants may choose to enroll entirely in person without pre-enrolling, where they may submit their information at a workstation, via tablet, or another enrollment device (e.g., kiosk).  Since REAL ID was implemented on May 7, 2025, new applicants cannot enroll in TPAP with a state-issued identification document or driver’s license unless it is REAL ID-compliant.
+
+As TSA adds enrollment providers, enrollment processes may change, but the biographic, demographic, and biometric information TSA collects currently remains the same.  In the future, TSA plans to offer applicants new methods of capturing enrollment data, such as a mobile capability to submit biographic, demographic and/or biometric information before or after an applicant’s in-person enrollment.  Additionally, TSA uses services from DHS components such as CBP to support verification of identity and citizenship using travel document (e.g., passport) data provided to CBP by the Department of State.  TSA expects the burden on applicants to gradually decrease, due to streamlined enrollment processes, remote proctored enrollment, and additional enrollment locations.
+
+Existing TPAP STA Process
+
+Referencing law enforcement, citizenship or immigration, regulatory violation, and intelligence databases, TSA uses TPAP applicants’ biographic and biometric information (and passport-related information, if provided) during pre-enrollment, enrollment, or post-enrollment to conduct STAs and to verify applicants’ identity and citizenship/lawful permanent resident status.  Fingerprints collected from TPAP applicants by enrollment providers are submitted to the Federal Bureau of Investigation (FBI) for a criminal history records check.  The FBI may retain applicants’ fingerprints and associated information in its Next Generation Identification (NGI) system after the completion of their application and, while retained, their fingerprints may continue to be compared against other fingerprints submitted to or retained by NGI as part of the FBI’s “Rap Back Program.”  In retaining applicants’ fingerprints, the FBI conducts recurrent vetting of applicants’ criminal history, regulatory violations, lawful presence in the U.S., and any known ties to terrorism until the expiration date of the applicant’s STA.  TSA also uses U.S. Citizenship and Immigration Services’ Systematic Alien Verification for Entitlements database to verify the status of lawful permanent residents and naturalization for individuals who provide a certificate of naturalization.
+
+To complete TSA’s STA, TSA also transmits application information from consenting members, to include biometrics, to other DHS systems, such as DHS’ Automated Biometrics Identification System (IDENT) and its successor system, the Homeland Advanced Recognition Technology System (HART).  Applicants may “opt-in” to sharing their biometric, biographic, and eligibility information stored in DHS IDENT/HART for the purposes of receiving additional benefits, such as enrollment in other DHS Trusted Traveler Programs (TTP) (e.g., CBP’s GE).
+
+In 2025, TSA established a partnership with CBP which reduces the risk profile of CBP’s GE passengers and expedites GE enrollment processing for existing TPAP members.  Once the fingerprints associated with each TPAP applicant have been vetted through the FBI NGI database, TSA authorizes DHS IDENT/HART to share specified biographic and biometric data issued to TPAP applicants during the enrollment process (e.g., fingerprints, the Fingerprint Identification Number, and the Encounter Identification Number) with CBP for reuse during the CBP GE vetting process.  When a TPAP applicant provides their KTN during the DHS TTP application process, CBP validates the KTN, along with the biographic information in IDENT/HART.  Subsequently, CBP retrieves the Fingerprint Identification Number associated with TPAP enrollment and reuses it for vetting TTP applicants, to include conducting existing FBI services via IDENT/HART to retrieve applicants’ criminal history records.
+
+Existing TPAP Eligibility Notification and Use of KTN Process
+
+If found to be eligible for TSA PreCheck, TSA notifies an individual of their eligibility for the program via email (if the applicant has provided an email address), collects their enrollment fees, and issues them a KTN to use when making travel reservations.  TSA also has the capability to notify applicants via text and/or phone.  In addition, TSA can provide the KTN through the TSA PreCheck KTN Lookup website.  When issuing the KTN, TSA provides the applicant with information explaining the roles and responsibilities associated with the use of the KTN.
+
+TPAP members who submit their KTN during flight reservations and continue a threat determination through their STA that they are eligible for TSA PreCheck, receive expedited screening on flights originating from participating U.S. airports unless they are randomly selected for enhanced screening.  STAs are valid for up to 5 years, unless a subsequent disqualification occurs or the terms and conditions of their enrollment states otherwise.
+
+As a result, the individual is eligible for expedited screening at participating U.S. airports for up to 5 years, but TSA does retain the authority to perform random screening on individuals authorized to receive expedited physical screening, and the FBI’s Rap Back Program referred to above performs recurrent vetting on travelers eligible for TSA PreCheck.
+
+Existing TPAP Identity Verification Process
+
+Identity verification is a critical step in TSA’s STA process to ensure that the individual undergoing the STA is the same person who applied.  As part of the enrollment process, TSA or a TSA authorized vendor/third party may send a one-time passcode for identity verification purposes.  Enrollment providers may use public records, commercial sources, or other databases containing identity information to enhance current identity verification completed by verifying physical identity documents.
+
+Some enrollment providers may charge a supplemental fee for identity verification sources.  For example, IDEMIA Identity & Security USA, LLC, one of TSA’s enrollment providers, currently offers a service called “Birth Certify,” which provides real-time electronic certification of birth certificates for applicants who do not bring documents proving U.S. citizenship for their in-person enrollment.  This option is offered as a service, is managed by the enrollment provider, and thus is not included in TSA’s burden estimate analysis.  To use Birth Certify, the applicant must pay a supplemental fee to the enrollment vendor and provide an additional data element (e.g., mother’s maiden name) that is currently not required as part of the TSA PreCheck application.  The additional fee must be paid by the applicant directly to the enrollment provider to cover the enrollment provider’s costs of providing the service.  Other enrollment providers may offer similar services such as Birth Certify.  In the future, TSA may allow applicants to upload their identity documents online.
+
+Identity verification is also essential at airport security checkpoints.  To enhance identity verification at airport security checkpoints, TSA uses biometric technologies and DHS components’ services to support TSA’s biometric-based identification at airport checkpoints.  To improve performance, enhance the passenger experience and increase security at checkpoints, TSA is using facial comparison technology to implement biometric-based identification at many TSA PreCheck lanes in the TSA PreCheck Touchless ID process.  TSA PreCheck Touchless ID does a one-to-few (1:n) comparison of the live photograph taken at the TSA PreCheck security checkpoint against images from identity verification documents such as passport documents or previously submitted facial images from DHS holdings.  TSA PreCheck members voluntarily opt-in to share their biometric, biographic, and demographic information to participate in TSA PreCheck Touchless ID during their travel journey.  Individuals may opt-out of TSA PreCheck Touchless ID and should notify a Transportation Security Officer (TSO) if at the airport security checkpoint.
+
+Existing TPAP Fees and Enrollment Locations Process
+
+Similar to the previous process, all TPAP applicants pay an application fee to TSA’s enrollment providers, who have multiple enrollment locations across the United States and its territories and offer temporary enrollment locations as well.  Enrollment providers are then responsible for remitting a portion of each applicant’s fee to the FBI to cover fingerprinting costs and to TSA to cover the costs to conduct an STA.  A portion of the application fee also helps TSA conduct research and development for innovative enhancements to improve the enrollment process of the TPAP; improve the passenger expedited screening experience; and for other authorized activities supporting the program.
+
+Existing TPAP Renewals Process
+
+As described in the previous ICR, TPAP members who wish to continue participating in the program must renew their TSA PreCheck enrollment periodically with one of its enrollment providers to maintain their TSA PreCheck eligibility.  For renewals, TSA uses a combination of some previously provided biographic, demographic, and biometric data, along with any updated applicant data (e.g., address, identity documentation, eligibility questions, updated biometrics if applicable, etc.) and any associated fees to conduct a new STA.  For those individuals eligible to renew, most applicants can complete their renewal online unless they do not meet TSA’s online enrollment criteria (e.g., applicants must have their current name updated in TSA’s system prior to online renewal if their name has changed since their last enrollment).  TSA requires enrollees who do not meet the online enrollment criteria to renew in person.
+
+For individuals who completed an online renewal and did not provide a facial image during their initial TPAP enrollment or for individuals whose enrollment photo is 10+ years old, TSA may offer a capability to provide biometric data post-enrollment.  For enrollees who choose to renew with an enrollment provider other than their most recent one, TSA will share previously collected biographic, demographic, and biometric data with the new enrollment provider so that the new enrollment provider can submit the required data to the FBI, along with any required fee.  In the future, TSA may allow applicants to upload their identity documents online.  Travelers who choose not to enroll or renew, are not subject to any limitations on their travel because of their choice; they will continue to be screened at airport security checkpoints according to TSA’s screening protocols.
+
+Existing TPAP Surveys and Marketing
+
+After the TPAP enrollment and renewal processes, TSA continues to offer an optional customer satisfaction survey.  The survey is designed to gauge the experience and customer satisfaction of applicants during the enrollment process and measure applicants’ potential utility and frequency of KTN usage.  TSA also uses the information to determine whether any trends exist regarding customer service at a particular enrollment location or particular enrollment activity and takes steps to improve customer service.  Additionally, TSA offers an optional survey to applicants who choose not to renew their TSA PreCheck enrollment.
+
+Lastly, TSA’s expansion of the program to additional enrollment providers allows enrollment providers to promote the program.  If the applicant provides explicit consent to use their personally identifiable information for other purposes such as promotional efforts, the enrollment provider may do so.
+
+For the TPAP, TSA continues to follow the same process as was historically followed, including identity verification, fingerprint capture, the STA, eligibility notification, fee collection, TPAP renewal process, and surveys.
+
+TSA PreCheck Information Collection Revisions
+
+TSA is revising the collection to include the MyTSA PreCheck ID, which facilitates delivery of TSA PreCheck benefits to recipients; the development of the TSA CSP to enhance customer experience and data management; the expansion of 1:n touchless identity verification through SIA experience; and the revision of post enrollment surveys to reduce customer burden to better serve the needs of the public.
+
+MyTSA PreCheck ID Issuance and Use- new TSA PreCheck enhancement
+
+The MyTSA PreCheck ID serves as a secure, electronic verified identity credential and provides proof of active TSA PreCheck status.  It enables expedited screening for low-risk travelers and introduces additional access to benefits, such as the ability to opt-in to TSA PreCheck Touchless ID, while adhering to stringent privacy, security, and interoperability standards.  By leveraging advanced authentication technologies such as biometrics (i.e., one-to-one facial matching) and the issuance of a mobile identity credential directly to an individual’s mobile device, MyTSA PreCheck ID will enable identity verification with high accuracy.  At the same time, this new credential will reduce the burden on airlines and reduce reliance on physical documents and manual processes.
+
+To participate in MyTSA PreCheck ID, after downloading the app, eligible members of TPAP and CBP TTP must consent to providing their personally identifiable information to TSA for liveness detection and identity verification.  During the ID issuance process, they voluntarily provide their full name, date of birth, KTN, optionally provide their passport number and redress number (if applicable), and a facial image (i.e., self-portrait, or selfie from their mobile device) to confirm that they have an active DHS Trusted Traveler membership and active KTN in good standing.  If active KTN status in good standing is confirmed, TSA retrieves their TPAP enrollment photo or current passport photo (if available) and performs a one-to-one facial comparison between a biometric template of the individual’s selfie and the retrieved photograph (either the TPAP enrollment photo or passport photo).  After successful vetting and confirmation of the match, the selfie and inputted biographic information is deleted from the device, and TSA will issue a MyTSA PreCheck ID onto the individual’s mobile device using pre-existing TPAP or passport biometric and biographic information.
+
+On the mobile device, the MyTSA PreCheck ID will display minimal information such as name and TSA PreCheck indicators (e.g., if opted in to TSA PreCheck Touchless ID).  Individuals will have an option to view their submitted information, but this is intended only for the individual’s management of their information.  For use at airport checkpoint security screening, the individual is required to open the ID up to 24 hours in advance prior to their flight and select their departure airport.  Once an individual selects their departure airport, TSA will verify their information and that the individual’s KTN remains active and in good standing.  If the verification is successful, the ID will then provide a QR code for use at checkpoint security queue and screening lane.  At any point in time during the issuance process or afterward, an individual may choose not to participate and can thus delete the MyTSA PreCheck ID app from their mobile device.  This will not affect an individual’s status with the TPAP; the MyTSA PreCheck ID is an optional enhancement.
+ 
+TSA CSP – new TSA PreCheck enhancement
+
+Separately, TSA is developing the CSP, a user-friendly, centralized platform where members of TSA credentialed programs can view their current program status, upload required documents, opt-in or out of specific program incentives such as TSA PreCheck Touchless ID, and obtain status updates and correspondence from TSA.  For example, TSA PreCheck members using the CSP can view their TSA PreCheck information to include the KTN, the specified enrollment provider, and the renewal date.  The ability to view and update profile information will greatly enhance the customer experience while providing TSA with up-to-date participant data and streamlined processes to update the data.  Active program participants must have a login.gov account to use the CSP.  The CSP will serve as a cohesive self-service platform to connect various TSA programs to a shared backend database, thereby reducing data duplication while standardizing member experience across TSA user-facing programs.
+
+TSA SIA experience
+
+To address surging travel demand, upcoming global events (e.g. FIFA World Cup, LA28 Olympics), evolving threats, and rapid technological advancements, TSA is expanding 1:n touchless identity verification capabilities at the security checkpoint for TSA PreCheck members.  This solution is to be deployed in coordination with the TSA PreCheck program and air carriers.
+
+TSA PreCheck passengers with an acceptable form of digital ID (e.g. mobile driver’s license, mobile passport) in their mobile device wallet will check in for their flight, can voluntarily opt-in to the touchless experience and securely share their digital ID and flight information (i.e. boarding pass data) to TSA’s enrollment website.  As part of this expanded enrollment, SIA combines the following biographic and biometric information from each consenting TSA PreCheck passengers: legal name, date of birth, sex, issuing authority, ID number, ID expiration date, facial image, and flight information (e.g., boarding pass data elements including airline, airport code, departure date, and confirmation code).  Once a passenger is successfully enrolled, they are notified on their mobile device, and the airline updates their boarding pass to reflect this.
+
+If a passenger does not have a boarding pass in their mobile wallet, SIA will provide the passenger the ability to manually enter flight reservation information (e.g., departure airport, departure date).  This new manual collection is expected to occur infrequently due to the automated methods SIA uses to collect flight and ID information from consenting passengers described above.  SIA will delete all information as part of the enrollment within 72 hours of the enrollment time.
+
+When the TSA PreCheck passenger arrives at the checkpoint, they will approach a biometric kiosk or e-gate to have their photo taken.  The consenting passenger’s photo is matched against the pre-staged imagery in the biometric gallery in a 1:n (one to few) mode.  This biometric match result, along with screening status is sent to the kiosk or eGate.  At kiosks, TSOs will use this information to send the passenger into the appropriate screening lane.  At eGates, the doors will automatically open for matched passengers and they proceed into primary screening.  For non-matches, TSOs will be notified to perform other identity verification resolution processes.
+
+Post Enrollment Survey Revision
+
+TSA now sends only a statistically significant number of TPAP enrollees and renewing applicants the optional Post Enrollment Survey.  Previously, every new enrollee and renewing applicant received this survey.  These surveys are used to gather information on the applicant’s overall customer satisfaction with the service received at an enrollment location or during their online renewal.
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.
+
+In compliance with the Government Paperwork Elimination Act, TPAP applicants have the option to submit biographic, demographic, and payment information in person via an enrollment device or online.  All applicants currently submit biometric data in person, and enrollment providers submit all information to TSA electronically.  Based on current data, for applicants completing an initial enrollment (i.e., not renewing an existing enrollment in the program), TSA estimates that about 80 percent of applicants will submit their biographic information online before going in person to an enrollment location to complete the application process and about 20 percent will submit their biographic information in person without providing pre-enrollment information before arriving at an enrollment location.
+
+From a post-enrollment perspective, TSA estimates that 20 percent of applicants may return to an enrollment location after their initial in-person enrollment to provide additional biometric data such as a facial image if not provided initially.  TSA estimates that 20 percent of applicants will provide citizenship or immigration data or documents online and 10 percent of applicants will provide this information via mail or fax.
+
+Finally, TSA estimates that approximately 96 percent of renewals will continue to occur online and that approximately 4 percent of applicants will either choose to renew in person or will be required to renew in person due to criteria such as a name change since their prior enrollment or renewal.
+
+Collection on new TSA PreCheck enhancements
+
+The MyTSA PreCheck ID is an optional TSA-issued mobile identity credential for DHS Trusted Travelers (e.g., TSA PreCheck and CBP) designed to enhance security, streamline operational efficiency, and significantly improve the customer experience by modernizing the identity verification processes.  This innovation should reduce the errors in flight reservation information allowing for expedited screening of established low risk individuals and decreasing customer service issues.  MyTSA PreCheck ID is an enhancement of TSA PreCheck that requires active enrollment in TPAP (or CBP TTPs) and uses a limited subset of the information provided during the TPAP or CBP TTP enrollment processes.  Usability testing to be completed to include compliance with Section 508 standards prior to release of the MyTSA PreCheck ID.
+
+Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above.
+
+TPAP specific
+
+In designing and implementing the TPAP, TSA took steps to reduce duplication of effort, leveraging both TPAP and other programs whenever possible.  TSA evaluated the STA performed by CBP, another component of the DHS, for its TTP for international travelers, such as the GE Program.  TSA determined that CBP TTPs involve the use of a similar STA to identify low-risk travelers.  To avoid duplication, TSA made participants of DHS TTPs eligible for TSA PreCheck expedited screening on flights originating from U.S. airports.  In addition, TSA avoided duplication of effort by providing KTNs and expedited screening eligibility to other classes of travelers who have been subject to other forms of threat assessments, such as members of the Armed Forces, Federal judges, and Executive Branch personnel with certain security clearances.  TSA’s efforts to add additional government personnel continue.
+
+TSA also leveraged existing information technology infrastructure and established processes used for its TWIC and Hazardous Materials Endorsement (HME) Threat Assessment programs to collect information and conduct the STA for the TPAP.  Leveraging this existing infrastructure and processes permitted TSA to implement the TPAP at much lower costs.  Indeed, because TSA uses the technical architecture and vetting processes from its similar vetting programs, such as the TWIC and HME Threat Assessment programs, TSA may allow certain applicants to those programs who meet TSA PreCheck eligibility criteria to receive TSA PreCheck screening.
+
+When TSA created the TPAP, it considered using the processes from the CBP GE Program but decided against using them for several reasons.  First, the TPAP differs from the CBP GE Program in that it does not require applicants to complete an in-person interview.  TSA also collects data relating primarily to citizenship/immigration information and biometrics that the CBP GE Program does not.  CBP GE requires a U.S. passport or machine-readable Lawful Permanent Resident card, but TPAP applicants may provide other data or documents that demonstrate citizenship or immigration eligibility.
+
+Because TSA was able to leverage the existing STA technology and collection procedures from its similar STA programs with minimal modification to meet TPAP requirements, anything outside this approach, such as adapting the CBP GE Program to meet the TPAP requirements, would have required significant effort and resources from both CBP and TSA.
+
+As the TPAP expands, it will allow multiple enrollment providers to offer enrollment and renewal services.  TSA will allow persons renewing with a different enrollment provider the opportunity to maintain their same KTN across providers.  Additionally, once TSA has verified a person as having an existing KTN, the person will have to provide only certain data elements upon renewal online and will not be required to complete the enrollment in person, as TSA will use data originally provided during their prior enrollment where possible.  However, the fee may be different if switching enrollment providers due to FBI policy.
+
+New TSA PreCheck Enhancements
+
+As the TPAP expands, TSA is adding new technologies such as the MyTSA PreCheck ID to facilitate the receipt of TSA PreCheck benefits through voluntary submission of a limited subset of information (name and date of birth), which was previously provided for TPAP or CBP TTP membership.  Membership in TPAP and CBP GE generates the KTN and PASSID respectively which is a required biographic data element for the MyTSA PreCheck ID.  The selfie, for enrollment only, is the only new required data element and is deleted once identity is verified (or not verified).  The selfie is used to compare against the existing enrollment or passport photo previously provided during TPAP or CBP TTP enrollment or renewal.  These data elements must be provided to securely verify identity and TSA PreCheck status to issue the ID.  This data collection is not considered duplication.  Required data elements were kept to the minimum amount needed to verify identity.
+
+TSA is also deploying the CSP, a cohesive, centralized, self-service platform for TSA’s credentialed populations (e.g., TSA PreCheck) for individuals to view their current program status, upload required documents, opt-in or out of program incentives such as TSA PreCheck Touchless ID, and get status updates and correspondence from TSA.  The ability to view and update profile information will greatly enhance the customer experience while providing TSA with up-to-date participant data and streamlined processes to update the data.  Active program participants must have a login.gov account to use the CSP, which should alleviate the duplication of data and efforts across multiple TSA programs and end users.
+
+
+For the TSA SIA experience, manual information entry is only required when automated pathways to transmit traveler boarding pass information (i.e., from a boarding pass stored in a native wallet or directly from the airline) are unavailable. SIA enrollment requires the passenger’s departure date and airport to compare against their existing secure flight reservation and vetting status record. 
+
+
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden.
+
+There is no significant impact on a substantial number of small businesses.
+
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+Without gathering the information needed to enroll individuals in the TPAP, TSA cannot verify an individual’s identity, conduct an STA, or issue a KTN.  Once an individual is deemed eligible for TPAP, the individual is eligible for TSA PreCheck expedited screening for the term of their enrollment or renewal period.  TSA has determined that in order to reduce applicant burden, most applicants will be allowed to renew online with any enrollment provider in order to continue to be eligible for TSA PreCheck expedited screening via TPAP.  Without a KTN or information to verify an individual’s identity, individuals cannot obtain a MyTSA PreCheck ID, which would facilitate TSA PreCheck expedited screening, opt-in or out for TSA PreCheck Touchless ID, or future benefits such as access to airport sterile areas when not traveling.  The MyTSA PreCheck ID also reduces the burden on TSA and airline stakeholders to fix KTN errors, provides members with a better customer experience, and enables TSA and the airlines to allocate resources where they are most needed.
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+There are no special circumstances requiring the collection of information to be inconsistent with 5 CFR 1320.5(d)(2).
+
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB. Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+TSA published a 60-day notice in the Federal Register to solicit public comment on the information collection for the MyTSA PreCheck ID.  See 91 FR 1779 (January 15, 2026).  TSA received five public comments on this information collection.  The comments requested robust data and privacy protection, and assumed changes in the TPAP process (which there are none) to include increased biometric collection.  TSA’s comprehensive response is: for TPAP, TSA continues to follow the same process as has been historically followed, including identity verification, fingerprint capture, the STA, TPAP eligibility notification, fee collection, and TPAP renewal, there are no changes.
+
+One change in information collection and new TSA PreCheck enhancement is the voluntary MyTSA PreCheck ID which is provisioned to an individual’s personal mobile device.  The biographic and biometric information collected for identity verification purposes upon issuance of the MyTSA PreCheck ID (discussed in answer to Question 2) is a subset of information already existing in the individuals TPAP or CBP Trusted Traveler Program records.  No new biometric or biographical data will be saved or stored.
+
+The other change and new enhancement will be the TSA CSP to allow individuals enrolled in TSA credentialed programs (e.g., TSA PreCheck, TWIC, etc.) to securely view and manage their profile information in the various TSA programs.  The CSP will use an existing login.gov account to display the users program information on record.  The login.gov account requires the individual’s name and email address to establish an account.
+
+All new enhancements are optional, and do not affect an individual’s status with the TSA PreCheck program.  Individuals who choose not to enroll in these initiatives are not subject to any limitations on their travel because of their choice; they will be processed through normal TSA screening before entering the sterile areas of airports.
+
+TSA also published a 30-day notice on June 3, 2026 (91 FR 33190).  TSA received no comments on this notice.
+
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+TSA does not provide any payment or gift to respondents.  However, enrollment providers may provide incentives to persons who choose to enroll in the TPAP.  The incentives may come in a variety of forms to include bundles with other services or promotions not related to TPAP, MyTSA PreCheck ID, or other governmental programs.
+
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+Although there is no assurance of confidentiality to any respondent, TSA will handle all records concerning TPAP applicants and MyTSA PreCheck ID enrollments in accordance with the Privacy Act of 1974 and maintain the security of the information technology systems that transmit, process, and/or store the personal information in accordance with Federal Information Security Management Act requirements.  TSA published a Privacy Act system of records notice in the Federal Register and a Privacy Impact Assessment (PIA) for the program.
+
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+TSA does not ask any questions that relate to sexual behavior or attitudes, religious beliefs, or other commonly considered private matters.  TSA does require criminal history information from TPAP applicants (including whether applicants have been convicted or found not guilty by reason of insanity), as well as whether they ever have had a court, board, commission, or other government authority determine that he/she, as a result of mental illness, poses a danger to himself/herself or to others, or that he/she lacks the capacity to conduct or manage his/her own affairs, or if he/she has been found not competent to stand trial in a criminal case or found not guilty by reason of insanity by a court; or if he/she has been involuntarily committed to an inpatient facility for mental health or psychiatric reasons.  This information is critical to determining whether the applicant is low risk, and TSA has long collected this kind of information for transportation security vetting purposes from other populations (e.g., TWIC, HME holders, and aviation workers with unescorted access to sensitive areas of airports).  TSA understands the importance of protecting all applicant information and has robust privacy protections in place.
+
+Provide estimates of hour burden of the collection of information.
+
+TPAP currently operates over 1300 enrollment locations and expects to offer more locations as new enrollment providers expand operations.  TSA utilizes historical and current data last updated 2/9/2026, to project an estimated 3-year (FY26 – FY28) total initial enrollments and renewals of 18.9 million and average of 6 million initial enrollments and renewals per year.  TSA assumes 96.1 percent of renewals will be done online, and 3.9 percent of renewals would be in person.
+Table  1 : Estimated 3-year  P rojection for  TPAP  Respondents Year Total  TPAP  Initial Enrollments Total  TPAP  Renewals Total  TPAP  Online Renewals In-Person Renewals Total  TPAP  Annual Enrollments and Renewals A B C= 96.1%  x  B D = 3.9%  x  B E= A + B FY 202 6 2,786,188 2,239,982 2,152,623 87,359 5,026,170 FY 202 7 3,163,305 3,276,839 3,149,042 127,797 6,440,144 FY 202 8 3,245,647 4,200,000 4,036,200 163,800 7,445,646 Total 9,195,140 9,716,821 9,337,865 378,956 18,911,961 Average 3,065,047 3,238,940 3,112,622 126,319 6,303,987
+Table  1 : Estimated 3-year  P rojection for  TPAP  Respondents
+Year | Total  TPAP  Initial Enrollments | Total  TPAP  Renewals | Total  TPAP  Online Renewals | In-Person Renewals | Total  TPAP  Annual Enrollments and Renewals
+ | A | B | C= 96.1%  x  B | D = 3.9%  x  B | E= A + B
+FY 202 6 | 2,786,188 | 2,239,982 | 2,152,623 | 87,359 | 5,026,170
+FY 202 7 | 3,163,305 | 3,276,839 | 3,149,042 | 127,797 | 6,440,144
+FY 202 8 | 3,245,647 | 4,200,000 | 4,036,200 | 163,800 | 7,445,646
+Total | 9,195,140 | 9,716,821 | 9,337,865 | 378,956 | 18,911,961
+Average | 3,065,047 | 3,238,940 | 3,112,622 | 126,319 | 6,303,987
+Note: Table may not sum due to rounding.
+
+Based on historical data from TPAP, TSA estimates that TPAP applicants will provide biographic and biometric data as follows with the below listed burdens.  In addition, TSA has also included time that an applicant may wait on average at an enrollment location before beginning the in-person portion of the application process.
+
+Table  2 : Estimated Time and Percentage of  TPAP  Applicants for Providing Enrollment Data
+Type of Enrollment Data Submission | Estimated % of Applicants | Estimated Time Burden per Applicant (not including travel time, discussed below)
+Online pre-application/pre-enrollment followed by in-person visit to an enrollment  location | 80% (initial applicants) | 16.54  minutes total based on: 1.8 min online pre-application 4.74 min in - person application completion at enrollment  location 10 min wait time at enrollment  location
+In-person at an enrollment  location  with no pre-enrollment | 20% (initial applicants) | 15.75 minutes total based on: 5.75 min in - person application completion at enrollment  location 10 min wait time at enrollment  location
+Online renewal | 9 6 . 1 % (renewals) | 1.8 minutes total based on  1.8  min online renewal application
+In-person renewal at an enrollment  location | 3. 9 % (renewals) | 14.75 minutes total based on: 4.75 min in - person application completion at enrollment  location 10 min wait time at enrollment  location
+Provide Enrollment Feedback via Customer Satisfaction Survey | 6.5 % (all applicants) | 5 minutes
+In-person post-enrollment at an enrollment  location  to provide additional biometric data | 20% (all applicants) | 5 minutes
+Online post-enrollment to upload valid identity and citizenship or immigration data or documents | 20% (all applicants) | 5 minutes
+Mail or fax of valid identity and citizenship or immigration documents | 10% (all applicants) | 5 minutes
+
+Applying the above estimated percentages of how applicants choose to provide information to TSA, the tables below reflect TSA’s calculations for the TPAP enrollment burden.  For in-person TPAP enrollment, TSA estimates that the average wait time is 10 minutes.  TSA estimates a round-trip travel time of 40 minutes.  Actual travel time will vary depending on each applicant’s specific circumstances, regional location, and proximity to a TSA enrollment location.  With the addition of enrollment providers, TSA will see additional enrollment locations and possible changes to enrollment processes, which should reduce the burden on applicants and make enrollments and renewals more convenient.
+
+
+TPAP: Initial Applicant Online Pre-Enrollment Followed by In-Person Enrollment Burden
+
+Currently, 80 percent of initial applicants pre-apply or pre-enroll online before visiting an enrollment location.
+For those individuals, TSA estimated the time burden as 6.54 minutes, which is the sum of the average online pre-enrollment time of 1.8 minutes and the average in-person enrollment time of 4.74 minutes for the collection of additional data elements such as fingerprint and facial image capture, and an applicant verification of biographic information provided during online pre-enrollment.
+In addition to these time burden estimates, TSA added 10 minutes of time to the total estimate to account for possible wait time at the enrollment location, and 40 minutes for a roundtrip commute time, for a total time of 56.54 minutes or 0.942 hours.
+
+Table 3 presents the calculation of the estimated total hour burden for TPAP applicants that choose online pre-application/pre-enrollment, followed by in-person visit to an enrollment location.
+
+Table  3 : Estimates for  TPAP  applicants that choose online pre-application/pre-enrollment followed by in-person visit to an enrollment location Year Pre-Enrollment Applicants Hours to Pre-Enroll per Applicant Total Hours A = 0.8 × initial enrollments B =  56.54 minutes (0.942  hours) C = A × B FY 202 6 2,228,950 0.942 2,099,671 FY 202 7 2,530,644 2,383,867 FY 202 8 2,596,51 8 2,445,920 Total 7,356,112 6,929,458 Average 2,452,037 2,309,819
+Year | Pre-Enrollment Applicants | Hours to Pre-Enroll per Applicant | Total Hours
+ | A = 0.8 × initial enrollments | B =  56.54 minutes (0.942  hours) | C = A × B
+FY 202 6 | 2,228,950 | 0.942 | 2,099,671
+FY 202 7 | 2,530,644 |  | 2,383,867
+FY 202 8 | 2,596,51 8 |  | 2,445,920
+Total | 7,356,112 |  | 6,929,458
+Average | 2,452,037 |  | 2,309,819
+Note: Table may not sum due to rounding.
+
+TPAP: Initial and Renewal Applicant In-Person Enrollment without Pre-Enrollment Burden
+
+Currently, approximately 20 percent of initial applicants apply by proceeding directly to an enrollment location on a walk-in or walk-by basis without providing biographic pre-enrollment information in advance.  Approximately 4 percent of applicants eligible for renewal are either required to renew in-person at an enrollment location or choose to renew in-person.  The time burden for in-person renewals is similar to the time burden for in-person enrollment without pre-enrollment burden.  Applicant data may be captured and submitted at an enrollment location.
+TSA estimates that the collection of enrollment information and additional data elements such as biometric facial image or an iris scan and submission and verification of biographic information will continue to take an enrollment time of approximately 5.75 minutes.
+In addition to these estimates, TSA added 10 minutes of time to the total estimate to account for the possible wait time at the enrollment location, and 40 minutes for a roundtrip commute time, for a total time of 55.75 minutes or 0.929 hours.  This information is captured in Table 4.
+
+Table  4 : Estimates for  TPAP  applicants that choose not to pre-apply/pre-enroll and provide data in-person at an enrollment center
+Year | In Person Enrollments with no Pre-Enrollment | In Person Renewals with no Pre-Enrollment | In Person Enrollments and Renewals with no Pre-Enrollment | Hours to Enroll per Applicant | Total Hours
+ | A = 0.2 × initial enrollments | B = 0.0 3 9  × renewals | C = A + B | D =  55.75  minutes (0. 929  hours) | E = C × D
+FY 202 6 | 557,238 | 87,359 | 644,597 | 0.929 | 598,831
+FY 202 7 | 632,661 | 127,797 | 760,458 |  | 706,465
+FY 202 8 | 649,129 | 163,800 | 812,929 |  | 755,211
+Total | 1,839,028 | 378,956 | 2,217,984 |   | 2,060,507
+Average | 613,009 | 126,319 | 739,328 |   | 686,836
+Note: Table may not sum due to rounding.
+
+TPAP Online Renewal
+
+Currently, 96.1 percent of applicants choose to complete their renewal application online.  TSA estimates this process to take approximately 1.8 minutes.  This information is captured in Table 5 below.
+Table  5 : Estimates for  TPAP  online renewal applicants  Year Online Renewals with no Pre-Enrollment (9 6 % of Renewal   Enrollments) Time to Enroll Online per Applicant Total Hours A = 0.96 1  × renewals B = 1 .8  minutes (0. 03  hours) C = A × B FY 202 6 2,152,623 0.03 64,579 FY 202 7 3,149,042 94,471 FY 202 8 4,036,200 121,086 Total 9,337,865   280,136 Average 3,112,622   93,379
+Year | Online Renewals with no Pre-Enrollment (9 6 % of Renewal   Enrollments) | Time to Enroll Online per Applicant | Total Hours
+ | A = 0.96 1  × renewals | B = 1 .8  minutes (0. 03  hours) | C = A × B
+FY 202 6 | 2,152,623 | 0.03 | 64,579
+FY 202 7 | 3,149,042 |  | 94,471
+FY 202 8 | 4,036,200 |  | 121,086
+Total | 9,337,865 |   | 280,136
+Average | 3,112,622 |   | 93,379
+Note: Table may not sum due to rounding.
+
+TPAP Post-Enrollment Biometric Submission Burden
+
+In the future, individuals may return to an enrollment location after their enrollment to provide biometrics that may not have been captured during their initial enrollment or renewal.  During the launch of the TPAP, fingerprints were the only required biometric for an individual’s application.  TSA may use additional biometrics, such as a facial image, at the airport checkpoint for identity verification to ensure the individual is the applicant granted eligibility for the program.  TSA estimates certain individuals, such as those enrolled in the TPAP prior to the collection of the facial image and/or iris scan biometric or in other TSA PreCheck-eligible populations, without the additional biometrics requirements, may choose to provide additional biometrics.  The time submission burden is derived from the estimated number of online renewals, multiplied by the percentage of those providing biometrics post-enrollment (20 percent), and the estimated time for submission (5 minutes) plus travel (40 minutes), or 45 minutes.  Table 6 provides the estimated total hours for applicants that provide biometrics post-enrollment.
+
+
+
+
+
+Table   6 : Estimates for  TPAP  applicants that provide biometrics post-enrollment
+Year | Online Renewal Population | Post-Online Renewal Providing of Biometrics | Hours to Provide Biometrics per Applicant | Total Hours
+ | A | B = A × 0.20 | C = 45 minutes         (0.75 hours) | D = B × C
+FY 202 6 | 2,677,527 | 535,505 | 0.75 | 401,629
+FY 202 7 | 3,039,936 | 607,987 |  | 455,990
+FY 202 8 | 3,119,067 | 623,813 |  | 467,860
+Total | 8,836,529 | 1,767,306 |  | 1,325,479
+Average | 2,945,5 10 | 589,102 |  | 441,826
+Note: Table may not sum due to rounding.
+
+TPAP Post-Enrollment Identity and Citizenship or Immigration Data/Document Submission Burden
+
+Since the launch of the TPAP, TSA has turned away applicants who have not brought valid or sufficient identity and citizenship or immigration documents at the time of in-person enrollment.  This occurs primarily for individuals who inquire about applying on a walk-in basis, mostly at airport enrollment locations, but do not have all the required identity and/or proof of citizenship or immigration eligibility documentation with them.  The optional Birth Certify service (referenced in the answer to Question 2) is one way a TSA enrollment provider assists applicants who would otherwise be denied enrollment at their time of interest.  Due to the significant number of applicants who have been turned away in the past, TSA may allow individuals who did not provide or bring their citizenship or immigration data or documents to an enrollment location, and who may not use optional services such as Birth Certify, to provide this information pre- or post-enrollment.  TSA estimates that 20 percent of applicants may elect to provide this information online while 10 percent will choose to mail, email, or fax the information.  The corresponding hour burden estimates are reflected in Tables 7 and 8.
+
+Table 7: Estimates for TPAP applicants that provide identity and citizenship or immigration data or documents online post-enrollment
+Year | Online Post-Enrollment Providing of Identity, Citizenship, Immigration Data Documents   (20% of Enrollments) | Hours to Provide Data or Documents per Applicant | Total Hours
+ | A= 0.2 ×  I nitial  E nrollments | B = 5 minutes (0.0833 hours) | C   = A × B
+FY 202 6 | 557,238 | 0.0833 | 46,418
+FY 202 7 | 632,661 |  | 52,701
+FY 202 8 | 649,129 |  | 54,072
+Total | 1,839,028 |  | 153,191
+Average | 61 3,009 |  | 51, 064
+Note: Table may not sum due to rounding.
+
+Table  8 : Estimates for  TPAP  applicants that provide identity and citizenship or immigration data or documents via mail or fax post-enrollment
+Year | Mail or Fax Post-Enrollment Providing of Identity, Citizenship, Immigration Data Documents | Hours to Provide Data or Documents per Applicant | Total Hours
+ | A = 0.1 ×  I nitial  E nrollments | B = 5 minutes (0.0833 hours) | C = A × B
+FY 202 6 | 278,619 | 0.0833 | 23,209
+FY 202 7 | 316,331 |  | 26,350
+FY 202 8 | 324,565 |  | 27,036
+Total | 919,514 |  | 76,596
+Average | 306,50 5 |  | 25,532
+Note: Table may not sum due to rounding.
+
+My TSA PreCheck ID, TSA Customer Service Portal, and SIA
+
+Table 9 provides the estimated hour burden for MyTSA PreCheck ID enrollees.  TSA estimates that 50 percent of enrollees will apply for the MyTSA PreCheck ID.  In FY 2026, there will be an estimated 38.9 million eligible enrollees, 22.2 million TPAP and 16.7 million CBP GE.  In FY 2027, there will be an estimated 4,863,305 new eligible enrollees, 3,163,305 TPAP and 1.7 million GE.  In FY 2028, there will be an estimated 5,045,647 new eligible enrollees, 3,245,647 TPAP and 1.8 million GE.  TSA estimates that it will take 5 minutes (0.0833 hours) to download and complete the application.  For enrollees who log in to the CSP via login.gov, their personal information will be automatically populated, thus further minimizing the burden.
+
+Table  9 : Hour Burden Estimates for M yTSA PreCheck  ID Option | 
+Year | MyTSA PreCheck   ID Application Estimate | Hours to Complete Application | Total Hours
+ | A = 0.5 × eligible enrollees | B = 5 minutes (0.0833 hours) | C   = A × B
+FY 2 6 | 19,450,000 | 0.0833 | 1,620,185
+FY 2 7 | 2,431,653 |  | 202,557
+FY 2 8 | 2,522,824 |  | 210,151
+Total | 24,404,47 6 |   | 2,03 2,893
+Average | 8,134,82 5 |  | 677,631
+
+Table 10 provides the estimated hour burden for SIA.  With an estimated 44 million DHS Trusted Travelers, TSA estimates 25 percent are eligible to opt into SIA (11 million) and 1 percent will take action to opt in (110,000) for FY2027 and FY2028 each.  SIA will have first deployment in FY 26 and the estimated population will be half (55,000) of FY 2027.  Overall estimate for app usage time/scrolling is 10 seconds or less for one-way travel enrollment.  This burden is intended to be offset by the reduction in time spent at the checkpoint for identity verification.
+
+Table 1 0 : Hour Burden Estimates for  SIA  (for one-way travel)
+Year | Population Estimate | Hours to Complete App Usage | Total Hours
+  | A | B = 10 seconds (0.002778 hours) | C= A × B
+FY 2 6 | 55,00 0 | 0.002778 | 153
+FY 2 7 | 110 ,000 |  | 306
+FY 2 8 | 110,000 |  | 306
+Total | 275 ,000 |   | 765
+Average | 91,667 |  | 255
+
+Table 11 provides the calculated total enrollment burden hours for TPAP, MyTSA PreCheck ID, and SIA usage burden hours.  This estimate was calculated by adding the total enrollment burden hours for online pre-enrollments, online renewals, in-person enrollments and renewals, post-enrollment data submission, MyTSA PreCheck ID enrollment, and SIA usage burdens for each period.
+
+
+Table  11 : Total Estimated Enrollment Time Burden (Hours) |  |  | 
+Year | Online  TPAP  Pre-Enrollment Hour Burden | Initial and Renewal In-Person  TPAP  Enrollment with no Pre-Enrollment Hour Burden | Online  TPAP  Renewals Hour Burden | Post- TPAP  Enrollment Biometric Submission Hour Burden | Post- TPAP  Enrollment Online Data and Document Submission Hour Burden | Post- TPAP  Enrollment Mail/Fax Data and Document Submission Hour Burden | MyTSA PreCheck ID  Option Hour Burden | SIA | Total Application Enrollment Hour Burden
+ | A | B | C | D | E | F | G | H | I  = A+B+C+D+E+F +G +H
+FY 2026 | 2,099,671 | 598,831 | 64,579 | 401,629 | 46,418 | 23,209 | 1,620, 185 | 153 | 4,854,674
+FY 2027 | 2,383,867 | 706,465 | 94,471 | 455,990 | 52,701 | 26,350 | 202,557 | 306 | 3, 922,707
+FY 2028 | 2,445, 9 20 | 755,211 | 121,086 | 467,860 | 54,072 | 27,036 | 201 ,151 | 306 | 4,081,643
+Total | 6,929, 45 8 | 2,060,507 | 280,136 | 1,325, 4 80 | 153,191 | 76, 596 | 2,032 ,893 | 764 | 12, 859,023
+Average | 2,309,819 | 686,836 | 93,379 | 441, 82 7 | 51,064 | 25,532 | 677, 631 | 255 | 4 , 286,341
+Note: Table may not sum due to rounding.
+
+
+
+
+Estimated Number of TPAP Applicants and Associated Time Burden by Year for Correction of Records
+
+After individuals provide biographic and biometric information and payment to TSA, TSA conducts the STA to determine eligibility for TPAP.  If initially deemed ineligible, applicants have an opportunity to correct cases of misidentification or inaccurate criminal records.
+
+Based on current data, approximately 0.07 percent of TPAP applicants are deemed initially ineligible.  TSA sends a letter to the applicant with information regarding their potential disqualification along with instructions for applying for a correction of record.  Of this 0.07 percent, approximately 27 percent of individuals contact TSA in writing and request a correction of record before TSA makes a final determination.
+
+Individuals who request a correction of record must do a variety of activities.  At the very least, individuals must write a letter to TSA, and they also must collect information about any criminal convictions from courts or local jurisdictions regarding criminal history-related disqualifying factors.  TSA does not have full visibility into the time that individuals spend to request corrections for TSA STA programs.  The time taken by applicants to gather information will vary depending on each individual’s specific circumstances.  For example, some individuals may need to request additional documents from multiple jurisdictions and entities if there are multiple items (such as criminal history events) to address and the individual does not have historical records on hand.  However, TSA estimated an average of 6 hours of burden after extrapolating data based on customer service inquiries and TSA support provided to applicants who requested assistance for submitting requests to TSA.  This information is presented in Table 12 below.
+
+Table  12 : Estimated Correction of Record Burden by Year Year Initial Enrollments and Renewals % of Applicants Initially Deemed Ineligible % of Applicants Initially Deemed Ineligible that request a Correction of Records Estimated Total # of Applicants to Request a Correction of Record Estimated Time Burden in hours per Applicant for Correction of Records Total Correction of Records Hours A B = 0.0007 C = 0.27 D = (A   ×   B   ×   C) E F=(D   ×   E) FY 2026 5,026,170 0.07% 27% 950 6 5 , 700 FY 2027 6,440,144 1 , 217 7 , 303 FY 2028 7,445,646 1 , 407 8 , 443 Total 18,911,960 3 , 574 21 , 446 Average 6,303,987 1 , 191 7 , 149 Note: Table may not sum due to rounding
+Year | Initial Enrollments and Renewals | % of Applicants Initially Deemed Ineligible | % of Applicants Initially Deemed Ineligible that request a Correction of Records | Estimated Total # of Applicants to Request a Correction of Record | Estimated Time Burden in hours per Applicant for Correction of Records | Total Correction of Records Hours
+ | A | B = 0.0007 | C = 0.27 | D = (A   ×   B   ×   C) | E | F=(D   ×   E)
+FY 2026 | 5,026,170 | 0.07% | 27% | 950 | 6 | 5 , 700
+FY 2027 | 6,440,144 |  |  | 1 , 217 |  | 7 , 303
+FY 2028 | 7,445,646 |  |  | 1 , 407 |  | 8 , 443
+Total | 18,911,960 |  |  | 3 , 574 |  | 21 , 446
+Average | 6,303,987 |  | 1 , 191 |  | 7 , 149
+
+Surveys
+
+Enrollment Customer Satisfaction Survey Burden
+
+After completing enrollment or renewal, applicants are provided the option to respond to a customer satisfaction survey.  Based on current data, approximately 14 percent of Idemia applicants and 6.5 percent of Telos applicants will choose to respond to the survey questions.  TSA estimates the survey to take an average of 5 minutes to complete.  The survey burden is derived from the estimated number of enrollments per enrollment provider, multiplied by their respective percentage of participation or annual statistically significant number, and by 5 minutes per survey.  Table 13 presents the calculation of the estimated total hour burden for applicants who choose to respond to the customer satisfaction survey.
+
+Table  13 : Burden Hour Estimates for the Post Enrollment Customer Satisfaction Survey Year Post Enrollment Customer Survey Participants Hours to Complete Survey per Applicant Total Hours A = 0.14 × initial  Idemia  enrollments, online and in-person renewals B  = 0. 065  × initial  Telos  enrollments, online and in-person renewals C= Statistically Significant Number of  CLEAR enrollments, online and in-per son renewal D  = 5 minutes (0.0833 hours) E=(A+B+C )   x   D FY 202 6 402,158 35,981 4,620 0.0833 36, 882 FY 202 7 479,284 46,897 4,620 44 ,216 FY 2028 570,328 53,095 4,620 52,316 Total 1,451,769 135,973 13,860 133 ,41 4 Average 483,923 45,324 4,620 44 , 471
+Year | Post Enrollment Customer Survey Participants | Hours to Complete Survey per Applicant | Total Hours
+ | A = 0.14 × initial  Idemia  enrollments, online and in-person renewals | B  = 0. 065  × initial  Telos  enrollments, online and in-person renewals | C= Statistically Significant Number of  CLEAR enrollments, online and in-per son renewal | D  = 5 minutes (0.0833 hours) | E=(A+B+C )   x   D
+FY 202 6 | 402,158 | 35,981 | 4,620 | 0.0833 | 36, 882
+FY 202 7 | 479,284 | 46,897 | 4,620 |  | 44 ,216
+FY 2028 | 570,328 | 53,095 | 4,620 |  | 52,316
+Total | 1,451,769 | 135,973 | 13,860 |  | 133 ,41 4
+Average | 483,923 | 45,324 | 4,620 |  | 44 , 471
+Note: Table may not sum due to rounding.
+
+Non-Renewal Survey Burden
+
+For individuals who choose not to renew their TSA PreCheck eligibility, TSA will ask why they chose not to renew to understand how to improve TSA PreCheck.  TSA estimates the survey will take an average of 1 minute to complete, that 100 percent of the non-renewal population will get the survey, and 10 percent of those who received the survey will respond.  The survey burden is derived from the number of individuals who choose not to renew but receive a survey and respond, multiplied by 1 minute per survey.  Table 14 presents the calculation of the estimated total hour burden for individuals that choose to respond to the non-renewal survey.
+
+Table  14 : Burden Hour Estimates for the Non-renewal Survey Year Non-Renewal Survey Customer Survey Participants Hours to Complete Survey Total Hours A = 0.1 × non-renewal population B =  1  minute (0.0 167  hours) C   = A × B FY 2026 70,227 0.0167 1 , 173 FY 2027 102,733 1 , 716 FY 2028 131,675 2 , 199 Total 304,636 5 , 087 Average 101,545 1 , 696
+Year | Non-Renewal Survey Customer Survey Participants | Hours to Complete Survey | Total Hours
+ | A = 0.1 × non-renewal population | B =  1  minute (0.0 167  hours) | C   = A × B
+FY 2026 | 70,227 | 0.0167 | 1 , 173
+FY 2027 | 102,733 |  | 1 , 716
+FY 2028 | 131,675 |  | 2 , 199
+Total | 304,636 |  | 5 , 087
+Average | 101,545 |  | 1 , 696
+Note: Table may not sum due to rounding.
+
+Total Annual Burden: TSA estimates the average annual total burden for all collection pieces of this ICR is approximately 4,339,658 hours, as depicted in Table 15.
+
+Table  15 : Estimated Total Hour Burden |  | 
+Year | Total Application Enrollment Hour Burden (Table 11) | Total Correction of Records Hour Burden (Table 12) | Survey Hour Burden (Customer Satisfaction + Non-Renewal Survey) | Total Hour Burden
+ | A | B | C | D = A   +   B   +   C
+FY 202 6 | 4,854,674 | 5,700 | 38,055 | 4,898,429
+FY 202 7 | 3,922,707 | 7,303 | 45,931 | 3,975,941
+FY 202 8 | 4,081,643 | 8,443 | 54,515 | 4,144,600
+Total | 12, 859,023 | 21,446 | 138,501 | 13,018,970
+Average | 4 , 286 , 341 | 7,149 | 46,167 | 4,339, 658
+
+Total Annual Number of Responses: As depicted in Table 16, the projected total number of responses for all aspects of this program is 50,027,097 responses.  The projected average annual number of responses is 16,675,699.
+
+
+Table  16 : Estimated Total Number of Responses |  |  |  |  |  |  | 
+Year | Pre-Enrollment Applicants | In Person Enrollments   and Renewals  with no Pre-Enrollment | Online Renewals | Post-Enrollment Providing of Biometrics | Online Post-Enrollment Providing of Identity, Citizenship, Immigration Data Documents | Mail or Fax Post-Enrollment Providing of Identity, Citizenship, Immigration Data Documents (10% of Enrollments) | Estimated Total # of Applicants to Request a Correction of Record | Estimate MyTSA PreCheck ID  applica nts  and  SIA  us e | Surveys | Total Number of Responses
+ | A | B | C | D | E | F | G | H | I | J   =   A   +   B   +   C   +   D   +   E   +   F   +   G   +   H   +   I
+FY 202 6 | 2,228,950 | 644,597 | 2,152,623 | 535,505 | 557,238 | 278,619 | 950 | 19,505,000 | 512,986 | 26,416,468
+FY 202 7 | 2,530,644 | 760,458 | 3,149,042 | 607,987 | 632,661 | 316,331 | 1217 | 2,541,653 | 633,534 | 11,173,526
+FY 202 8 | 2,596,518 | 812,929 | 4,036,200 | 623,813 | 649,129 | 324,565 | 1407 | 2,632,824 | 759,718 | 12,437,103
+Total | 7,356,112 | 2,217,984 | 9,337,865 | 1,767,306 | 1,839,028 | 919,514 | 3574 | 24,679,476 | 1,906,238 | 50,027,097
+Average | 2,452,037 | 739,328 | 3,112,622 | 589,102 | 613,009 | 306,505 | 1191 | 8,226,492 | 635,413 | 16,675,699
+Note: Table may not sum, due to rounding.
+
+TSA assumes applicants for TPAP, MyTSA PreCheck ID, and SIA can be employed in various industries and occupations.  Therefore, TSA uses a fully loaded compensation rate of $48.05, including both wages and benefits, for each respondent.
+
+TSA estimates the total cost burden for respondents by multiplying the number of application enrollees by the compensation rate for each respondent.  Multiplying the total time burden in hours, 12,859,023, by the loaded wage rate of $48.05, TSA estimates a total hourly cost burden estimate of $617,876,075 for respondents.  TSA multiplies the average time burden in hours, 4,286,341 by the hourly rate of $48.05 to estimate an average hourly cost burden of $205,958,692.  Table 17 below displays both 3-year total hourly cost burden and average hourly cost burden for TPAP respondents.
+
+Table  17 : Estimated Total Hourly Cost Burden  b y Year
+Year | Hour Burden | Hourly Compensation Wage Rate | Hour Cost Burden
+ | A | B | C = A  ×  B
+FY 202 6 | 4,854,674 | $48.05   | $233,267,093 
+FY 202 7 | 3,922,707 |  | $188,486,060
+FY 202 8 | 4,081,643 |  | $196,122,922
+Total | 12,859,023 |   | $617,876,075
+Average | 4, 286,341 |  | $205,958, 692
+Note: Table may not sum due to rounding.
+
+Provide an estimate of the total annual cost burden to respondents or record keepers resulting from the collection of information.
+
+Applicants who enroll through TPAP are required to pay a non-refundable fee.  TSA PreCheck offers multiple enrollment providers with multiple price points for enrollment with the average of $80 for initial enrollment.  Applicants who renew will be required to pay between $59 – $80 for in-person renewals (average is $68.50), and $58.75 – 69.96 for online renewals (average is $66).  Lastly, TSA estimates a charge of approximately $15 for individuals who only visit an enrollment location to submit additional biometrics to cover enrollment providers’ costs to collect the information.  In the future, TSA expects to further reduce the renewal fee for applicants who renew with the same enrollment provider with which they originally enrolled (e.g., the Universal Enrollment Services provider for all current renewing members).  This cost savings will be from a reduction in the FBI fee given that TSA is enrolling all TSA PreCheck members in the FBI’s Rap Back Service.
+
+TSA estimates the total annual cost burden to respondents resulting from the collection of information based on the sum of the application enrollment fee costs and the correction of record fee costs.  Table 18 presents the total fee costs.
+
+
+Table  18 : Estimated  TPAP  Application Enrollment Cost Burden
+Year  | Total  TPAP  Initial Enrollments | TPAP  Annual Enrollment Fees (Initial) | Total  TPAP  (In-person Renewals) | TPAP  Annual Renewal Fees (In-person Renewals) | Total  TPAP  Online Renewal Enrollments | TPAP  Annual Enrollment Fees (On-line Renewals) | Post-Enrollment Biometric Enrollees | Post-Enrollment Biometric Fees | Total Program Estimated Fee
+ |  | $80.00  |  | $ 68.50   |  | $ 66 .00  |  | $15.00  | 
+ | A | B= A  ×  $80 | C | D= C × $68.50 | E | F = E × $66 | G | H = G × $15 | I = B +   D  +  F   + H
+FY 202 6 | 2,786,188 | $222,895,040   | 87,359 | $5,984,112  | 2,152,623 | $142,073,098  | 535,505 | $8,032, 581  | $378,984,831 
+FY 202 7 | 3,163,305 | $253,064,400   | 127,797 | $8,754,075  | 3,149,042 | $207,836,790  | 607,987 | $9,119, 808  | $478,775,074 
+FY 202 8 | 3,245,647 | $259,651,760   | 163,800 | $11,220,300  | 4,036,200 | $266,389,200  | 623,813 | $9,357, 201  | $546,618,461 
+Total | 9,195,140 | $735,611,200   | 378,956 | $25,958,487  | 9,337,865 | $616,299,089  | 1,767,306 | $26,509, 590  | $1,404,378,366 
+Average | 3,065,047 | $245,203, 760  | 126,319 | $8,652,829  | 3,112,622 | $205,433,030  | 589,102 | $8,836, 530  | $468,126,149 
+Note: Table may not sum due to rounding.
+
+
+For individuals who choose to request a Correction of Record after TSA notifies them of its preliminary determination of ineligibility, TSA estimates the cost to be $1 per applicant request to include costs for mailing a request to TSA and the potential average costs for printing, photocopying, or requesting additional supporting documentation if necessary.  As mentioned in Question 12, TSA does not have full visibility to the cost individuals will incur to request corrections for the program, but it extrapolated data based on customer service inquiries and TSA support provided to applicants who requested assistance for submitting requests to TSA.  As a result, the costs will vary since some individuals may need to request additional documents from multiple jurisdictions and entities if there are multiple items to address (such as criminal history events) and the individual does not have historical records on hand.
+
+Table  19 : Estimated Correction of Record Cost Burden
+Year | Correction of Records Requests | Average Cost for a Correction of Record Request: $1 | Total Correction of Record Cost Burden
+ | A | B | C = A×B
+FY 202 6 | 9 , 50 | $1 | $95 0
+FY 202 7 | 1 , 217 |  | $1, 217
+FY 202 8 | 1 , 407 |  | $1, 407
+Total | 3 , 574 |  | $3, 574
+Average | 1 , 191 |  | $1,1 91
+Note: Table may not sum due to rounding.
+
+The 3-year total cost burden for TPAP is estimated to be $1,404,381,940 based on the sum of total application enrollment costs and total correction of record costs.  The average annual total cost burden is estimated to be $468,127,340 as displayed in Table 20.
+
+
+Table  20 : Estimated Total  TPAP  Application Enrollment Cost Burden | 
+Calendar Year | Total Application Enrollment Cost Burden | Total Correction of Record Cost Burden | Total Cost Burden
+ | A | B | C = A + B
+FY 202 6 | $378,984,831  | $95 0   | $378,985,781 
+FY 202 7 | $ 478,775,074   | $1, 217   | $ 478,776,291  
+FY 202 8 | $ 546,618,461   | $1, 407   | $ 546,619,868  
+Total | $1, 404,378,366   | $3, 574   | $ 1,404,381,940  
+Average | $ 468,126,149   | $1,1 91   | $ 468,127,340  
+Note: Table may not sum due to rounding.
+
+Provide estimates of annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information.
+
+The cost to the government for STAs is recovered in the fee charged to TPAP applicants (estimates are reflected in Table 18 above).  Fees collected must cover not only initial costs but also the technology and operational costs over the period that the applicant’s STA is valid.  As noted above in the response to question 4, in relation to start-up costs, TSA leveraged existing information technology infrastructure and systems, and other established processes to collect information and conduct the STA for TPAP.
+
+Due to the possibility of multiple TPAP enrollment providers with different prices, TSA estimates the average initial enrollment cost would be $80 per person and the renewal cost would be $59-80 per person.  In the future, TSA expects there may be a reduction in renewal costs due to cost savings associated with the FBI’s Rap Back program.  TPAP applicants who renew with the same enrollment provider with which they originally enrolled (e.g., the Universal Enrollment Services provider for all current renewing members) will not be required by the FBI to pay an additional fee.
+
+The fee comprises three components: the enrollment provider fee, the TSA fee, and the FBI fee when required.  The enrollment provider fee component is designed to fully recover the estimated costs the enrollment provider incurs to enroll TPAP applicants.  The enrollment provider fee will vary for each enrollment provider based on the provider’s costs as well as additional offerings, bundles, or promotions offered by the enrollment provider.
+
+The TSA fee is designed to cover the cost of processing TPAP applications, including the development, maintenance, and operation of the information technology platforms that are used to conduct a STA; verification of identity and U.S. citizenship or other permissible immigration status of the applicants; adjudication of the results of the various background checks conducted during the vetting and recurrent vetting process; conduct research and development for innovative enhancements to improve TPAP enrollment and the TSA PreCheck expedited screening experience and overall management and oversight of the enrollment and vetting program.
+
+The FBI Fee component is designed to fully recover the cost that the FBI imposes to conduct a criminal history records check.  As part of the STA, the enrollment providers submit fingerprints to the FBI on behalf of TSA so that TSA may obtain any criminal history records that correspond to the fingerprints.  The FBI is authorized to establish and collect fees to process fingerprint identification records.  See 28 U.S.C. § 534 note.  The FBI has set the fee for an initial criminal history records check at $11.25 and the fee for recurrent vetting and renewals at $0 when conducted via the FBI’s Rap Back service.  See Notice, FBI Criminal Justice Information Services Division; Revised User Fee Schedule, 83 FR 48335 (Sep. 24, 2018).  As such, TSA expects TPAP applicants will only be responsible for paying the $11.25 FBI fee upon initial enrollment, provided they renew with the same enrollment provider as their initial enrollment.
+
+The TPAP enrollment provider collects the total fee at the time of application in accordance with TSA-approved payment methods.  TSA generally does not issue fee refunds once vetting services have commenced but may do so if enrollment providers mistakenly enroll TPAP applicants with insufficient or invalid enrollment documentation (TSA does not complete the STA process for applicants in this situation).  TSA may also allow partial refunds of the TSA fee if TSA has not begun vetting an applicant.  Further, TSA does not refund the fee, in whole or in part, to individuals who are not approved for participation in the program based upon the results of TSA’s assessment.  The TPAP KTN, and the underlying STA, are valid for a maximum of 5 years, unless a disqualification occurs or as stated by the terms and conditions of their enrollment.  Disqualifications are found through recurrent daily vetting conducted on existing, approved participants of TPAP as well as through external notification of potential disqualifications or individuals who self-report that they committed disqualifying offenses to TSA.
+
+Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+TSA adjusted the burden estimates based on enrollment process changes and an expanded enrollment center network, a reduction in the number of applicants invited to complete the voluntary survey (post-enrollment and post-renewal) and estimated fee changes since the previously submitted ICR.  TSA also added two information collections, MyTSA PreCheck ID Option and SIA, increasing the annual time burden by 677,886 hours.
+
+Burden Reduction Initiative:
+
+With the expanded enrollment center network, TSA has significantly reduced the travel burden time to the public per capita.  TSA introduced more locations, reducing the travel burden time of applicants from 54 minutes to 40 minutes, a burden reduction savings of 14 minutes (0.233333 hours).  TSA estimates there is an annual burden reduction of 743,069 burden reduction hours (3,184,583 responses x 0.233333 hours) related to travel time.  See Table 21 below: 
+
+Table  21 : Estimated In Person Visits  ( See  Table 2, Columns A & B)
+Calendar Year | Total  TPAP  Initial Enrollments (All In - Person) | In person renewals | Total In Person Visits | Roundtrip Travel Reduction (54-40) = 14 mins/0.23333 h ours | Total Burden Reduction
+ | A | B | C = A + B | D | E   =   C   x   D
+FY 2026 | 2,786,188 |          108,661 | 2,894,849 | 0.23333333 | 675,464.76
+FY 2027 | 3,163,305 |          123,369 | 3,286,674 | 0.23333333 | 766,890.59
+FY 2028 | 3,245,647 |          126,580 | 3,372,227 | 0.23333333 | 786,853
+Total | 9,195,140 |          358,610 | 9,553,750 | 0.23333333 | 2,229,208
+Average | 3,065,047 |          119,537 | 3,184,583 | 0.23333333 | 743,069.43
+
+For collections of information whose results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+TSA will not publish or release results from this information collection, including information gained through the surveys.
+
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+TSA is not seeking such approval.
+
+Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+TSA does not seek any exception to the certification statement.
+PART word/footnotes.xml
+
+
+
+ Unless otherwise specified, for the purposes of this document, “biometrics” refers to fingerprints, facial imagery and/or iris scans.
+ 49 U.S.C. § 44903 (g)(2)(G)
+ “Sterile areas” are portions of airports that provide passengers access to boarding aircraft and to which the access generally is controlled by TSA, or by an aircraft operator or a foreign air carrier through the screening of persons and property (49 CFR Part 1540.5).
+ TSA provides a list of acceptable identity documents on its webpage TSA PreCheck Application - Required Identification Documentation | Transportation Security Administration.  In the future, this list may be updated to add or remove acceptable identity documents (e.g., Mobile Drivers Licenses).  Certain documents may be accepted online in addition to in-person.
+ TSA’s fingerprint collection procedures conform with FBI criminal history records check request requirements, which include standards and guidance for submitting requests for individuals with amputations and other circumstances that prevent a 10-finger biometric submission.  Individual’s photographs will be taken at the time of enrollment and must conform to the International Civil Aviation Organization photograph guidelines.
+ See https://www.tsa.gov/real-id for more information.
+Remote Proctored Enrollment refers to enrollments conducted in-person by the applicant and monitored remotely by a trusted agent via real-time video stream.  The remote trusted agent maintains the integrity of the enrollment by monitoring the entire process from start-to-finish including the collection of identity documents and the traditional capture of contact fingerprints.
+ The Rap Back Program is designed to enhance public safety by providing ongoing criminal history information.  It represents a shift from one-time background checks to continuous monitoring of individuals, allowing authorized entities to receive automated notifications of subsequent criminal activity.  For TPAP, the Rap Back Program aims to foster greater trust by ensuring that travelers initially vetted for TPAP are maintaining eligibility over time.
+ See U.S. Department of Homeland Security, Office of Biometric Identity Management (OBIM), Privacy Impact Assessment for Automated Biometric Identification System (IDENT), DHS/OBIM//PIA-001 (2012), available at DHS/OBIM/PIA-001 Automated Biometric Identification System | Homeland Security.
+ DHS is in the process of replacing the legacy IDENT System with the HART System in several phases.  See U.S. Department of Homeland Security, Office of Biometric Identity Management (OBIM), Privacy Impact Assessment for Homeland Advanced Recognition Technology System, DHS/OBIM//PIA-004 (2024), available at DHS/OBIM/PIA-004 Homeland Advanced Recognition Technology System (HART) Increment 1 | Homeland Security.
+ See TSA PreCheck KTN Lookup | Transportation Security Administration.
+ A one-time passcode may be sent using text, email, or physical address based on information collected during the enrollment process.
+ A biometric template is a digital representation of a biometric trait of an individual generated from a biometric image and compared with another template using a facial comparison technology algorithm.  The template is usually represented as a sequence of characters and numbers and is generally proprietary to a specific vendor’s algorithm and cannot be used with other vendor’s algorithms.
+ See FR Volume 91, Issue 10 (Thursday, January 15, 2026).
+ See DHS/TSA-021 Transportation Security Enforcement Record System, 78 FR 55274 (September 10, 
+2013), available at System of Records Notices (SORNs) | Homeland Security.
+ See U.S. Department of Homeland Security, Transportation Security Administration, Privacy Impact Assessment for TSA PreCheck Application Program, DHS/TSA/PIA-041 (2016), available at DHS/TSA/PIA 041 TSA Pre Check Application Program | Homeland Security.
+ Table 1 includes an estimated reenrollment population, since all current enrollees have a 5-year renewal period.
+
+ TSA, which used ARC-GIS Pro to estimate the round-trip travel time between individuals and enrollment centers, calculated a median round-trip travel time of 40 minutes.
+ The average time was only provided by IDEMIA.
+ 56.54 minutes = 1.8 minutes (online pre-enrollment time) + 4.74 minutes (collection of additional data elements) + 10 minutes (wait time) + 40 minutes (round trip-travel time)
+ 55.75 minutes = 5.75 minutes (collection of additional data elements such as biometric time) + 10 minutes (wait time) + 40 minutes (round trip-travel time).
+ Collection of facial images began the last quarter of 2018.  Currently, TSA does not collect iris scan biometrics.
+ Employer Costs for Employee Compensation (ECEC), a product of the National Compensation Survey, measures employer costs for wages, salaries, and employee benefits for nonfarm private and state and local government workers.  Bureau of Labor Statistics, Employer Costs for Employee Compensation News Release, Table 1, (Total Compensation for Civilians, Private Sector, Local and State Government Employees).  Data as of June 2025, Released September 12, 2025.  https://www.bls.gov/news.release/pdf/ecec.pdf.  Accessed on February 18, 2026.  
+ TSA allows new TSA PreCheck enrollment providers to set enrollment fees, provided they provide TSA and the FBI with their portions of the enrollment fee as defined in the Federal Register.  As such, each enrollment provider can set a unique fee/fees, though the fee for initial membership and renewal through the Universal Enrollment Services enrollment provider will not exceed $85.  Based on pricing from TSA’s current operational enrollment providers, TSA estimates that the TSA PreCheck fee will be approximately $80.
+ TSA will provide public notice of any FBI or other future TSA fee changes via a Federal Register Notice.

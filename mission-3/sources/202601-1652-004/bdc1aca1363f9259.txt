@@ -1,0 +1,142 @@
+PART word/document.xml
+
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.  (Annotate the CFR parts/sections affected).
+
+Pursuant to the Aviation and Transportation Security Act, and delegated authority from the Secretary of Homeland Security, the Transportation Security Administration (TSA) has broad responsibility and authority for “security in all modes of transportation including security responsibilities over modes of transportation that are exercised by the Department of Transportation.”  Section 1557 of the Implementing Recommendations of the 9/11 Commission Act (9/11 Act), recognizes this authority and further requires TSA to take specific actions related to pipeline security.
+
+In order to execute its security responsibilities within the pipeline industry, it is important for TSA to have knowledge of the security posture of critical pipeline facilities in the pipeline industry.  TSA issued Pipeline Security Guidelines in December 2010 and April 2011, and subsequently updated the Guidelines in March 2018 and April 2021.  These voluntary guidelines were developed with the assistance of industry and government members of the Pipeline Sector and Government Coordinating Councils, industry association representatives, and other interested parties.  These Guidelines provide guidance to operators on their voluntary identification of critical pipeline facilities and recommend specific security measures for those facilities.
+
+TSA visits critical pipeline facilities to collect site-specific information from pipeline operators on facility security policies, procedures, and physical security measures.  Information provided by the operator is collected by TSA on a Critical Facility Security Review (CFSR) Form.
+
+During these security visits, TSA documents security assessment results and provides recommendations on the CFSR Form to pipeline operators to improve the security posture of the reviewed facility.  Using the form completed at the visit, TSA follows up with pipeline operators at intervals of 6, 12, and 18 months on the implementation of the TSA security recommendations made at the visit.
+
+Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+Voluntary Collection
+TSA analyzes the information collected on the CFSR form during the onsite facility reviews, as well as the information collected from follow-up with facility operators on the status of recommendations made during the reviews, to determine strengths and weaknesses at the nation's critical pipeline facilities, areas to target for risk reduction strategies, pipeline industry implementation of the TSA “Pipeline Security Guidelines,” and the possible need for regulations in accordance with section 1557(d) of the 9/11 Act.  TSA may also use information submitted for vulnerability identification, trend analysis, or to generate anonymized indicators of compromise or other security products.
+
+Mandatory Collection
+On May 26, 2021, OMB approved TSA’s request for an emergency revision of this information collection, allowing for the institution of mandatory requirements.  The revision was necessary to address the ongoing cybersecurity threat to pipeline systems and associated infrastructure.  TSA issued the Security Directive (SD) Pipeline-2021-01 series applicable to owner/operators of a hazardous liquid and natural gas pipeline or liquefied natural gas facility notified by TSA that their pipeline system or facility is critical.  These owner/operators were required to review Section 7 of TSA’s 2018 Pipeline Security Guidelines (with Change 1 (April 2021)) and assess current activities, using TSA-Pipeline Cybersecurity Vulnerability Assessment form, to address cyber risk, and identify remediation measures that will be taken to fill those gaps and a timeline for achieving those measures.  The form was limited to cybersecurity issues and augmented to address the scope of the SD Pipeline-2021-01 series.
+
+TSA is revising the collection to remove collection of information related to these requirements.  All the owner/operators currently subject to the SD have satisfied the SD’s requirements, and TSA expects that going forward, fewer than 10 owner/operators would respond to the collection annually.  
+
+Finally, TSA is revising the title of the collection from “Critical Facility Information of the Top 100 Most Critical Pipeline” to “Critical Facility Information from the Top 100 Most Critical Pipeline Operators” to more accurately align with the statutory requirements.  TSA is seeking renewal of this information collection for the maximum 3-year approval period.
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.
+
+TSA personnel collect facility-specific information on security policies, procedures, and physical security measures from the operator on-site using the CFSR Form.  The operator confirms that their answers have been accurately recorded at the completion of the assessment.  TSA personnel conduct a final review of the form and then forward the assessment, including security recommendations, to operators via electronic mail.  The information collected is considered Sensitive Security Information under 49 CFR part 1520.  TSA sends requests to follow up with pipeline operators regarding the status of their implementation of the recommendations made during critical facility visits via electronic mail.
+
+Usability Testing Requirement: Pursuant to a DHS requirement, all information collection requests must undergo usability testing prior to submission to OMB.  See DHS Fiscal Year 2024 Burden Reduction Plan Memorandum dated, September 29, 2023.  TSA completed usability testing on the CFSR Form to determine the accuracy of the time burden.  Three pipeline companies participated in the study, all of which completed the form in preparation for a CFSR.  The CFSR Workbook is filled out and submitted electronically and the pipeline operators confirmed that the burden was 4 hours to complete the form and 6 hours for follow-up.  As this time burden matches the current burden estimate of 10 hours, TSA did not adjust the burden.
+
+Overall, the participants found the CFSR Form easy to navigate and straight forward and believed that the information collected was necessary to assess pipeline physical security.  One operator appreciated the level of detail in the questions and indicated they could use it for reference in their own planning.  The participants did not provide any recommendations for the improvement of the form.
+
+Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above.
+
+In some instances, pipeline critical facilities may also fall under the requirements of domestic maritime security regulations required by the Maritime Transportation Security Act of 2002, Public Law 107-295 (November 25, 2002) (MTSA).  MTSA regulations are enforced by the U.S. Coast Guard and contain specific security requirements for maritime facilities.  Many of the maritime security requirements are similar to those TSA would review and under which TSA would collect information during pipeline security reviews.  Therefore, TSA asks each operator to identify those pipeline critical facilities that are also MTSA-regulated facilities, and then confirms with the U.S. Coast Guard that the facilities are indeed MTSA-regulated.  Upon receiving confirmation from the U.S. Coast Guard, TSA does not review facilities that are MTSA-regulated as security information has already been collected by the U.S. Coast Guard and is available for TSA review as necessary.
+
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden.
+
+There will be no impact on small businesses or small entities.  This information request affects the Top 100 most critical pipeline systems in the United States.  None of the operators of these pipeline systems, or their parent companies, are small businesses or entities.
+
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+Failure to obtain the information from these collections would impact TSA’s ability to assess the security posture of the nation’s critical pipeline operators and facilities, which will prevent the agency from being able to make specific recommendations to improve each facility’s security.  The 9/11 Act requires TSA to monitor implementation of security recommendations in order to determine if regulations are required to mitigate risks that are not being addressed.  See section 1557(d) of the 9/11 Act.  Obtaining this information is also necessary for TSA to make company or site-specific recommendations to operators of critical pipeline facilities.  Absent this information, the agency will be unable to assess the implementation of security recommendations at a later date, as recommended by the U.S. Government Accountability Office (GAO-10-867, August 2010).  In summary, the inability to conduct these collections would greatly impede TSA’s mission to protect and secure the nation’s hazardous liquid and natural gas pipeline infrastructure.
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+This collection will be conducted consistent with the information collection guidelines in 5 CFR 1320.5(d)(2).
+
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+TSA published a 60-day renewal notice in the Federal Register on August 4, 2025 (90 FR 36447), and a 30-day renewal notice on May 6, 2026 (91 FR 24596), soliciting comments on the information collection.  TSA did not receive any comments on the notices.
+
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+No payment or gift will be provided to respondents.
+
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+To the extent permissible under the law, DHS will seek to protect the trade secrets and commercial and financial information of the pipeline owner/operators.  Also, to the extent that the information provided by operators is Security Sensitive Information, it will be protected in accordance with procedures meeting the transmission, handling, and storage requirements set forth in 49 CFR part 1520.  In addition, business contact information is collected and handled pursuant to the DHS/ALL/PIA-006 DHS General Contact Lists PIA to facilitate the assessment of cyber risks and identify remedial measures for critical pipelines.
+
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+There are no questions of sensitive nature posed in the collection.
+
+Provide estimates of hour burden of the collection of information.
+
+TSA estimates the annual burden for the information collection related to the CFSR Form to be 640 hours.  TSA estimates a maximum of 80 facility reviews will be conducted each year, with the time to prepare for and fill out the CFSR Form taking approximately 4 hours (80 facilities x 4 hours preparation = 320 hours) and each review taking approximately 4 hours (80 facility reviews x 4 hours = 320 hours).
+
+TSA conducts a follow-up with each reviewed facility operator at 6 months, 12 months, and 18 months after the initial review, for a total of 3 follow-ups per facility operator.  TSA estimates it will take approximately 2 hours for each operator to submit a response to TSA regarding its implementation of security recommendations during each follow-up visit, for a total of 6 hours (3 visits x 2 hours).  TSA estimates a maximum of 80 critical facilities are reviewed each year, and TSA estimates the total annual burden to be approximately 480 hours (80 CFSR follow ups x 6 hours per follow up).
+
+TSA estimates the total estimated annual number of responses is 80 with a total annual burden of 1,120 hours.  Table 1 displays the total estimated annual hour burden for this ICR.
+
+Table 1: Total Annual Hourly Burden
+Collection | Number of Respondents | Hourly Burden | Total Annual Hourly Burden
+ | A | B | C = A x B
+CFSR Form | 80 | 8 | 640
+CFSR Recommendation Follow-up | 80 | 6 | 480
+ |  |  | 
+Total | 1 60 |   | 1,12 0
+
+TSA estimates the total estimated annual hour burden cost for critical pipeline facility owner/operators by utilizing the compensation rates of the owner/operator representatives.  TSA assumes each owner/operator will have combination of a corporate security manager and a facility manager as the representatives during the facility security review.  TSA also assumes only the corporate security manager will be involved with completing responses to TSA for the CFSR follow-ups.  TSA uses a loaded hourly compensation wage of $114.09 for each corporate security manager and a loaded hourly compensation wage of $97.70 for each pipeline facility manager.
+
+TSA estimates an hour burden cost of $135,542.73 for the initial CFSR Form meeting.  Table 2 displays the calculation of this cost.
+
+Table 2: Hour Burden Cost for CFSR Form | 
+Job Description | Hour Burden | Hourly Wage Rate | Hour Burden Cost 
+  | A | B | C = A x B
+Corporate Security Manager | 640 | $114.09 | $73,016.33
+Facility Manager |  | $97.70 | $62,526.40
+Total |   |   | $ 135,542.73
+Note: Calculations may not be exact due to rounding in table. 
+
+TSA estimates an hour burden cost of $54,762.25 for CFSR recommendation follow-ups for corporate security managers ($114.09 compensation rate x 480 hours).
+
+TSA estimates a total hour burden cost of $190,304 for this ICR ($135,542 CFSR Form cost + $54,762 CFSR Form follow-up cost).
+
+Provide an estimate of the total annual cost burden to respondents or record keepers resulting from the collection of information.
+
+TSA does not estimate a cost to the industry beyond the hour burden detailed in answer 12.
+
+14. Provide estimates of annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information.
+
+TSA assumes an I-band Surface Transportation Security Inspector (TSI) will represent the agency at each meeting.  The CFSR program transitioned from a headquarters activity to being led by the regional Pipeline Security Assessment Team, made up of TSI’s.  TSA uses a loaded compensation wage rate of $88.39 for the I-band TSI employee.  TSA estimates an annual time burden of 320 hours for the TSI employee (80 facility visits x 4 hours per visit).  Based on this information, TSA estimates a time burden cost of $28,284.07 for the I-band employee (320 hours x $88.39 compensation wage).
+
+Additionally, TSA assumes a cost for planning and follow-up for a TSI per facility.  TSA estimates that the I-band employee will spend 8 hours planning each visit and 2 hours for each of three follow ups after the visit.  TSA multiplies 1,120 hours (80 facilities x 8 hours planning + .6 cumulative hours  for follow-up) by the loaded compensation wage rate of $88.39 to estimate an additional time burden cost of $42,426.10.  The total time burden cost is estimated to be $70,710.17 ($28,284.07 + $42,426.10).
+
+In addition, Federal Government travel costs for TSA personnel for the critical facility reviews are estimated to be approximately $41,000 annually.
+
+TSA estimates a total annualized Federal Government cost of $111,710.17 ($70,710.17 total time burden cost + $41,000 travel costs).
+
+15. Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+Due to program changes, TSA has adjusted the information collection requirements.  This includes the deletion of the burden for pipeline operators subject to the TSA SD Pipeline-2021-01 series to submit a Cybersecurity Vulnerability Assessment as this was a one-time requirement.  In addition, TSA has adjusted TSA costs for the CFSR program to reflect that a contractor is no longer used to support the program.
+
+16. For collections of information for which results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+Critical facility security information collected on the CFSR Form will not be published.
+
+Critical facility recommendations and implementation status will not be published.
+
+Critical facility cybersecurity assessments will not be published.
+
+17. If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+TSA is not seeking such approval.
+
+18. Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+TSA is not seeking any exceptions.
+
+PART word/footnotes.xml
+
+
+
+ Pub. L. 107-71 (115 Stat. 598; Nov. 19, 2001), codified at 49 U.S.C. 114.
+ Pub. L. 110-53 (121 Stat. 266; Aug. 3, 2007), codified at 6 U.S.C. 1207.
+ Under section 1557(b) of the 9/11 Act, TSA is required to identify the 100 most critical pipeline operators.  These TSA identified critical operators are subject to both the mandatory collection required by the TSA Security Directive Pipeline-2021-01 series and the voluntary collection under the TSA Critical Facility Security Review (CFSR) Program.  Under the CFSR Program, critical pipeline operators identify their critical facilities using criteria in the TSA Pipeline Security Guidelines and provide that list of facilities to TSA.  TSA then reviews the security measures at those facilities.
+ See https://www.tsa.gov/sites/default/files/pipeline_security_guidelines.pdf
+https://www.tsa.gov/for-industry/surface-transportation.
+ NAICS 486000 – Pipeline Transportation, 11-1021 General and Operations Manager Wage Rate of $77.75 x BLS Compensation Factor of 1.467370066.  BLS.  May 2024 National Industry-Specific Occupational Employment and Wage Estimates.  NAICS 486000 - Pipeline Transportation.  OCC 11-1021 General and Operations Managers.  Last modified April 2, 2025 (accessed July 7, 2025).  https://www.bls.gov/oes/2024/may/oessrci.htm#48-49.  Employer Costs for Employee Compensation - December 2024.  Table 5. Employer costs per hour worked for employee compensation and costs as a percent of total compensation: private industry workers.  Production, transportation and material moving occupations.  Last modified March 14, 2025 (accessed July 7, 2025).  https://www.bls.gov/news.release/archives/ecec_03142025.htm
+ NAICS 486000 – Pipeline Transportation, 11-3051 Industrial Production Manager Wage Rate of $66.58 x BLS Compensation Factor of 1.467370066.  BLS.  May 2024 National Industry-Specific Occupational Employment and Wage Estimates.  NAICS 486000 - Pipeline Transportation.  OCC 11-1035 Industrial Production Managers.  Last modified April 2, 2025 (accessed July 7, 2025).  Employer Costs for Employee Compensation - December 2024.  Table 5.  Employer costs per hour worked for employee compensation and costs as a percent of total compensation: private industry workers.  Production, transportation and material moving occupations.  Last modified March 14, 2025 (accessed July 7, 2025).  https://www.bls.gov/news.release/archives/ecec_03142025.htm
+ TSA assumes the loaded hourly wage rate of an I-band or GS-13.  TSA obtained the loaded wages from TSA’s Office of Finance and Administration FY25 Modular Cost.  The annual loaded wage rate for an I-band (GS-13) was $184,465.17, and TSA divided by 2,087 hours to estimate a loaded hourly wage of $88.39.

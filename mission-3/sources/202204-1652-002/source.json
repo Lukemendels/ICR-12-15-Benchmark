@@ -1,0 +1,32 @@
+{
+  "ref": "202204-1652-002",
+  "retrieved_at": "2026-09-09T17:26:08.656377+00:00",
+  "documents": [
+    {
+      "id": "71e2b2847bd8b18c",
+      "title": "1652-0041 TSA EOCL1Evaln SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=120553801",
+      "path": "mission-3/sources/202204-1652-002/71e2b2847bd8b18c.txt",
+      "sha256_raw": "142775be3184b0db10be0e4fda3e4c015b7aa0812b08a4561bbc3c9a68f58e82",
+      "sha256_text": "f6685fe0429390f8dec9318da38c86be32aa7e8580ef21837c121bcb4c94094e",
+      "format": ".docx",
+      "chars": 13704,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202204-1652-002",
+    "path": "mission-3/sources/202204-1652-002/record.txt",
+    "sha256_raw": "9aa8d13c551ce7b8d81224c832d130dbf7285345b237665a31cd27fe623691b3",
+    "sha256_text": "49aaafbcbf652a3e6274b0edbc019a14ebbddc8f299e55f6e10c34d169823977"
+  },
+  "previous_ref": "201807-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202204-1652-002",
+    "path": "mission-3/sources/202204-1652-002/document_index.txt",
+    "sha256_raw": "2c1959e2a141f006fca272de97b4ca61ab2d4b010aecc74965154daabc1c2b2f",
+    "sha256_text": "3d5d20abb91d11f10f8c4942ff757d15ee674613bfa90aaf8178bacf5a8585ff"
+  }
+}

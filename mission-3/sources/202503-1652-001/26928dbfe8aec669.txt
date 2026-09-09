@@ -1,0 +1,120 @@
+PART word/document.xml
+
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.  (Annotate the CFR parts/sections affected).
+
+The Secretary of the Department of Homeland Security (DHS) is required to protect property owned, occupied, or secured by the Federal Government.  See 40 U.S.C. § 1315.  See also 41 CFR § 102-81.15 (requires Executive agencies to be responsible for maintaining security at their own or leased facilities).  To implement this requirement, DHS policy requires all visitors to DHS facilities in the National Capital Region (NCR) to have a criminal history records check through the National Crime Information Center (NCIC) system before accessing the facility.
+
+The Transportation Security Administration (TSA) has established a visitor management/vetting process that meets DHS requirements.  This process allows TSA to conduct business with visitors, including other federal employees and contract employees, while managing risks posed by individuals entering the building who have not been subject to a full employee security background check.  Once an individual’s access is approved, TSA’s Visitor Management System generates temporary paper badges that visitors must wear when entering TSA facilities in the NCR.  This badge must be clearly visible for the duration of the individual’s visit.
+
+Visitors seeking to enter the TSA facilities must also have a TSA-Federal employee as their host, and the host must complete the electronic TSA Form 2802, Security Appointment Center (SAC) Visitor Request Form.  If the visitor is a foreign national, TSA requires that the Federal host employee also provide additional information.  If the electronic form is inaccessible, TSA will use the following forms for the collection: TSA Form 2816A, Foreign National Visitor Request – Individual to collect information for individual foreign national visitors and for groups consisting of two or more foreign nationals, TSA Form 2816B, Foreign National Visitor Request – Group.
+
+TSA is requesting the Office of Management and Budget (OMB)’s continued approval of TSA Form 2802 and accompanying forms as a Common Form to permit Federal agency users beyond the agency that created the form (e.g., DHS or U.S. Office of Personnel Management) to streamline the information collection process in coordination with OMB.
+
+TSA is revising the collection as further discussed in the response to question 2 below.
+
+Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+TSA Form 2802 requires that the Federal host employee provide the visitor’s first and last name, date of birth, date and time of visit, visitor type (e.g., DHS or other government visitor, non-government individual), and whether the visitor is a foreign national visitor.  Although TSA requests the visitor to provide their social security number (SSN), the visitor is not required to provide this information.  When provided, TSA uses the SSN to expedite vetting and to enhance the accuracy in the identification of the visitor.
+
+If the visitor is a foreign national, TSA requires that the Federal host employee also provide additional information, including, but not limited to, passport number and expiration date, country of citizenship and birth.  TSA previously required if the Federal host employee could not access the online SAC Visitor Request Form, they would complete TSA Form 2816A, Foreign National Visitor Request – Individual and for groups consisting of two or more foreign nationals, TSA Form 2816B, Foreign National Visitor Request - Group.  TSA is revising the collection by removing TSA Form 2816A and transitioning TSA Form 2816B to a web form using SharePoint.  This transition will help reduce user burden by incorporating system-populated fields and automatic submissions.  
+
+TSA uses the vetting results to determine the suitability of an individual requesting access to a facility in the TSA NCR, including whether the individual has a criminal history that would warrant further investigation and review before TSA grants access to the facility.  In reviewing the NCIC results, TSA will consider whether an individual could potentially pose a threat to the safety of TSA employees, contractors, visitors, or the facility.  TSA also uses the information to maintain records of access to TSA facilities.
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.  [Effective 03/22/01, your response must SPECIFICALLY reference the Government Paperwork Elimination Act (GPEA), which addresses electronic filing and recordkeeping, and what you are doing to adhere to it.  You must explain how you will provide a fully electronic reporting option by October 2003, or an explanation of why this is not practicable.]
+
+With the revision of the collection, the majority of this collection of information is electronic.  TSA employees now complete the SAC Visitor Request Form along with the Foreign National Visitor Request Form online and submit them electronically as web forms.  A relatively small number of walk-in visitors will require TSA employees to use a hard copy of the forms to complete the required information.  These are reviewed and processed by SAC personnel who enter the information into the Visitor Management System.
+
+Usability Testing Requirement: Pursuant to a 2023 DHS requirement, all Information Collection Requests must undergo usability testing (UX) prior to submission to OMB.  See DHS Fiscal Year 2024 Burden Reduction Plan dated, September 29, 2023.  TSA completed UX on the SAC Visitor Request Form.  The purpose for the testing was to determine the accuracy of the burden and the ease of use.  The UX included four participants.  The participants found the average time to complete the form was 1 minute, which corresponds with the current estimated time burden.  The participants also found the webform easy and straightforward to use.  The participants did not provide any recommendations for the improvement of the form and the time burden was an accurate estimation.
+
+Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above.
+
+There is no specific or similar information currently collected by TSA that can be used or modified for use for the purpose(s) described above.
+
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden.
+
+This collection does not have a significant impact on a significant number of small businesses.
+
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+If the collection is not conducted, TSA cannot permit visitors to enter TSA’s facilities without being in violation of the DHS requirement for all DHS components to conduct a background check on visitors using the NCIC system prior to entry into a DHS facility.  Also, by not collecting the additional information, the NCIC system cannot perform backgrounds checks to identify individuals with disqualifying criminal histories.  To permit these individuals into our facilities absent the necessary vetting, could place employees, contractors, and visitors to the facility at risk by not providing a safe and secure environment.
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+This collection is conducted in a manner consistent with the general information collection guidelines.
+
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+As required by 5 CFR § 1320.8(d), TSA published a 60-day in the Federal Register on October 25, 2024 (89 FR 85228) and a 30-day notice on April 22, 2025 (90 FR 16880).  TSA received no comments in reply to the notices.
+
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+No payment or gift will be provided to respondents.
+
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+No specific assurances of confidentiality will be provided to individuals.  Information provided by individuals will be protected from disclosure to the extent appropriate under applicable provisions of the Freedom of Information Act, the Privacy Act of 1974, and, as applicable, 49 U.S.C. § 114(r), as implemented by 49 CFR part 1520, which limits the disclosure of Sensitive Security Information.  Data is collected and transmitted in accordance with the Privacy Act.  This collection is covered by a Privacy Impact Assessment, DHS/TSA/PIA-004, Visitor Management System (July 14, 2006)); and a System of Records Notice, DHS//ALL-024 DHS Facility and Perimeter Access Control and Visitor Management.  See 75 FR 5609 (February 3, 2010).
+ 
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+This collection does not include any questions of a sensitive nature.
+
+Provide estimates of hour and cost burdens of the collection of information.
+
+TSA estimates that there will be an annual average of 39,213 visitors to TSA NCR locations.  Based on data from the TSA visitor’s center, TSA estimates that 21,217 (54.1%) of these visitors are federal employees and will not need to be screened to visit TSA NCR locations. The remaining 17,996 (45.9%) of the visitors will require additional screening to be granted access to TSA NCR locations.
+
+TSA estimates that the public burden associated with collecting the needed information for the screening (i.e., visitor’s name, DOB, SSN) will be one minute, or 0.0167 hours, per collection.  TSA calculates the total annual time burden for this collection by multiplying the total number of annual visitors by the time burden associated with collecting information for each non-federal visitor.  TSA estimates the total annual time burden to be 300 hours (0.0167 hours ×17,996 annual visitors).
+
+The visitors to TSA NCR locations can be employed in various industries and occupations.  Therefore, TSA uses a fully loaded wage rate of $46.84, which includes wages and benefits.
+
+TSA calculates the total annual cost burden to the public for this collection by multiplying the total annual time burden by the compensation wage rate.  TSA estimates the total annual cost burden to be $14,049 ($46.84 × 299.9 hours).
+
+Provide an estimate of annualized capital and start-up costs.
+
+There are no capital or start-up costs associated with this collection of information.
+
+Provide estimates of annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information.
+
+TSA’s cost estimates are based on the personnel costs for TSA to collect the information on visitors and the costs for conducting checks on domestic visitors.  TSA conducts two types of background checks depending on whether a visitor to a TSA NCR location is a U.S. Citizen/Lawful Permanent Resident (LPR) (domestic) or a foreign national.
+
+TSA estimates that 85.43 percent of visitors are US Citizens/LPRs, resulting in an estimated annual average of 15,374 domestic checks.  TSA estimates that a visitor check of a US Citizen/LPR will take 3 minutes, or 0.05 hours, per check.  Domestic checks are performed by either a G or H band employee.  Based on TSA wage data, TSA uses an average hourly fully loaded compensation rate of $69.77 for these employees.  TSA multiplies the number of domestic checks, time per check, and hourly loaded rate to estimate an annual estimated cost of $10,147.84 (15,374 × 0.05 × $69.77) for domestic visitor checks.
+
+Foreign nationals seeking to visit TSA are checked by DHS.  TSA collects information on each foreign national before forwarding the information to DHS.  TSA also processes information received from DHS on each foreign national.  TSA estimates that 14.57 percent of visitors are foreign nationals, resulting in an estimated annual average of 2,622 foreign checks.  TSA estimates that forwarding information to DHS will take 5 minutes, or 0.08333 hours.  Furthermore, TSA estimates that processing information received from DHS will take 5.48 minutes, or 0.092 hours.  These checks are performed by an I Band employee.  Based on TSA wage data, TSA uses an average hourly fully loaded compensation rate of $88.39 for these employees.  TSA calculates an annualized cost for foreign national checks by summing the total estimated time per foreign national check, then multiplying by the estimated number of annual checks and the fully loaded wage rate, for an estimated average annual cost of $39,607 ((0.08333 hours + 0.092 hours = 0.17462) × 2,622 annual foreign national visitor checks × $88.39).
+
+TSA estimates an annual total cost to TSA by summing the costs of US/LPR checks ($40,609) and foreign national checks ($40,470).  TSA calculates a total annualized cost to TSA of $81,079 ($40,609 + $40,470).
+
+Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+The removal of TSA Form 2816A and the transitioning of TSA Form 2816B to a web form have helped reduce user burden by incorporating system-populated fields and automatic submissions.  TSA however will maintain the current time burden estimates until the next renewal when actual data will be available.  The respondent burden estimates are based on updated data.
+
+For collections of information whose results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+The results of the proposed collection will not be published.
+
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+TSA will display the OMB number and expiration date.
+
+Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+No exceptions are claimed.
+
+PART word/footnotes.xml
+
+
+
+ TSA facilities in the NCR include TSA Headquarters, the Freedom Center, the Transportation Security Integration Facility, the Metro Park office complex, and the Annapolis Junction facility.
+ A person who is not a citizen of the United States.
+ TSA used annual visitor data to TSA NCR locations in 2018 for these calculations.  In 2018, there were 29,595 visitors to TSA NCR locations, of which 12,102 held government Personal Identity Verification cards, indicating the cardholder is a federal employee or contractor.  In addition, there were 3,911 Other U.S. Government Visitors and 13,582 Non-U.S. Government Visitors.  TSA utilized 2018 data due to disruptions in reporting caused by the COVID-19 pandemic.
+
+ This can include health benefits, retirement contributions, etc. and represents the full cost of compensation to the employer.
+ Employer Costs for Employee Compensation (ECEC), a product of the National Compensation Survey, 
+measures employer costs for wages, salaries, and employee benefits for nonfarm private and state and 
+local government workers.  Bureau of Labor Statistics, Employer Costs for Employee Compensation News Release, Table 1.  Release date December 17, 2024.  Retrieved January 6, 2025, from https://www.bls.gov/news.release/archives/ecec_12172024.htm.
+ Based on the number of visitors to TSA NCR locations in 2018 as tracked by the TSA Office of Security Services, Physical Security Division, Visitor Management and Access Control.
+ TSA Office of Security Services, Physical Security Division, Visitor Management and Access Control.
+ TSA program office is staffed with both G and H band employees who will be responsible for conducting checks of domestic, non-federal visitors.  TSA uses a blended wage rates for G and H band Step 5 employees in the NCR for 2025 as calculated by the TSA Resource Management Office and calculates the compensation rate, $69.77, by using a fully-loaded compensation rate for ($145,612.44), divided by 2,087 hours (the number of hours in a work year for federal employees per the Office of Personnel Management).  Source: TSA Resource Management Office (RMO).
+ TSA Office of Security Services, Physical Security Division, Visitor Management and Access Control.
+ Ibid.
+ Ibid.
+ TSA estimates that it takes slightly longer to process vetting formation received from DHS due to a percentage of foreign nationals having derogatory information.
+ TSA program office is staffed with I band employees who will be responsible for coordinating with DHS regarding checks of foreign nationals and handling information received from those checks.  TSA uses the wage rate for I band Step 5 employees in the NCR for 2024 as calculated by the TSA Resource Management Office and calculates the compensation rate, $86.50, by using a fully loaded compensation rate for a GS 13 employee ($180,529.28) divided by 2,087 hours (the number of hours in a work year for federal employees per the Office of Personnel Management).  Source: TSA RMO.

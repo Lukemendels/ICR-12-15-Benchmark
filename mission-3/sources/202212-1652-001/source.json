@@ -1,0 +1,32 @@
+{
+  "ref": "202212-1652-001",
+  "retrieved_at": "2026-09-09T17:27:12.316902+00:00",
+  "documents": [
+    {
+      "id": "38525f9ff94b6af4",
+      "title": "1652-0056 Pipeline CSR SS 1.9.2023.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=127750601",
+      "path": "mission-3/sources/202212-1652-001/38525f9ff94b6af4.txt",
+      "sha256_raw": "f2b163712c8c27ac0947150fb349773836ddccd8abbcdc1039a7361a49673514",
+      "sha256_text": "6e7a13c6af46a59c335e5fe6f7829db642378c212abffcaa79661eaffb331cbe",
+      "format": ".docx",
+      "chars": 36397,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202212-1652-001",
+    "path": "mission-3/sources/202212-1652-001/record.txt",
+    "sha256_raw": "54c1dd4f743bd42d244a7d6321ac3a75100a71003d52af17641a85fc4533a5e4",
+    "sha256_text": "22448510dbf5ab0333499cdab237d946fd6b26f5a72970a6ee99238f4af76c77"
+  },
+  "previous_ref": "202207-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202212-1652-001",
+    "path": "mission-3/sources/202212-1652-001/document_index.txt",
+    "sha256_raw": "dfa0c0d798e483c8aa457d8ecc67de8e9cf47c5dac6bebd3fe4fc43ede9ae501",
+    "sha256_text": "26d3e9880d4101df9f90ce973f70ec78cd29db1b0a2de0f7e3f48636c54c0a4c"
+  }
+}

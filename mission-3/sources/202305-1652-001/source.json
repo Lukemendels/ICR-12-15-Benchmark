@@ -1,0 +1,32 @@
+{
+  "ref": "202305-1652-001",
+  "retrieved_at": "2026-09-09T17:25:44.463200+00:00",
+  "documents": [
+    {
+      "id": "49e0156db068b82e",
+      "title": "1652-0032 TranspSOMQ SS 5.2.2023.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=131580401",
+      "path": "mission-3/sources/202305-1652-001/49e0156db068b82e.txt",
+      "sha256_raw": "245b0d5af64782cdcac3108a4c53eed7a6a976379178e812514ac19ece3b4cc6",
+      "sha256_text": "5ffb493a790ce814164249e51d96e15237c338fab7bd421de615cbc4c4f0370b",
+      "format": ".docx",
+      "chars": 17488,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202305-1652-001",
+    "path": "mission-3/sources/202305-1652-001/record.txt",
+    "sha256_raw": "30474e723443b6695cd889eaf8da4fd23f87f4a0e142271d77020da6b2358f9d",
+    "sha256_text": "57be31c80b7faaea44aacf52209ef480fa5b790785f1f32407a4cb8cee700ad9"
+  },
+  "previous_ref": "201904-1652-001",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202305-1652-001",
+    "path": "mission-3/sources/202305-1652-001/document_index.txt",
+    "sha256_raw": "361dc1767c658f9b8dc3c5e100591d4b169bc653fb8723ee3a4db792e29264d8",
+    "sha256_text": "4530a2d6bd5e439e0e39d9658fd6cfc2fa1e95f9cf9604caf2873f34bfa48503"
+  }
+}

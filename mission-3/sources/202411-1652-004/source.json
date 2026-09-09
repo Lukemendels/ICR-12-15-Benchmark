@@ -1,0 +1,32 @@
+{
+  "ref": "202411-1652-004",
+  "retrieved_at": "2026-09-09T17:27:12.481208+00:00",
+  "documents": [
+    {
+      "id": "3b0b9ac7923c4094",
+      "title": "1652-0057 EXIS_Supp_Stmt 2.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=149657801",
+      "path": "mission-3/sources/202411-1652-004/3b0b9ac7923c4094.txt",
+      "sha256_raw": "dc18791fc589385050c95a328f690f37dc0dd8cb0aed5e406e9d04cca6ee3c50",
+      "sha256_text": "c9bb8c8d2dfeb0d0a63bc1c870379481a3dc32391379e4f7ae4c8a84a75825cd",
+      "format": ".docx",
+      "chars": 30483,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1652-004",
+    "path": "mission-3/sources/202411-1652-004/record.txt",
+    "sha256_raw": "9b7240cd82f5f7b4e59ee1aefd7d832d031ed33304180787741fb1e5916a2c30",
+    "sha256_text": "f9c2235c3d90981757fc86a0560828a9806baeda8c6577e1378ca252b54abe42"
+  },
+  "previous_ref": "202109-1652-001",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202411-1652-004",
+    "path": "mission-3/sources/202411-1652-004/document_index.txt",
+    "sha256_raw": "7ad9e824670c42c18df02cbf27aa6cf1f9a7b5d07d5a0090d88385af1ee8fde0",
+    "sha256_text": "f750db47f2a9ab6688be8e22c222c750456600d6c1da2fcc0e6ac55ca734f5e5"
+  }
+}

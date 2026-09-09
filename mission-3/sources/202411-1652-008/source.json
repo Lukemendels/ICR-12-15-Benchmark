@@ -1,0 +1,32 @@
+{
+  "ref": "202411-1652-008",
+  "retrieved_at": "2026-09-09T17:26:08.691341+00:00",
+  "documents": [
+    {
+      "id": "cd40aa0f0f51e80e",
+      "title": "1652-0042 SSI TA App. SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=149926901",
+      "path": "mission-3/sources/202411-1652-008/cd40aa0f0f51e80e.txt",
+      "sha256_raw": "6330be8c0ce731132a7bf25a478fd92f22b44034d348570ca746b572658ee3af",
+      "sha256_text": "32c6a5aef0c85e08fa428f19c02e45ad5d9057c890e7d7fcd1b99f57e3b1d2c9",
+      "format": ".docx",
+      "chars": 27018,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1652-008",
+    "path": "mission-3/sources/202411-1652-008/record.txt",
+    "sha256_raw": "e5c2a9963327fcfe9d1ec0cda56d14fb82f35ac2b657f6e2d51a3244cf683faf",
+    "sha256_text": "6961d507d96b8ce354a1c2ee0be5d301e20fca8557c15cff61d6976112dcf7f3"
+  },
+  "previous_ref": "202102-1652-001",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202411-1652-008",
+    "path": "mission-3/sources/202411-1652-008/document_index.txt",
+    "sha256_raw": "14179cafa91c42e707553cad5584cfd5da95a0740afcdc5d1551e4384eabdd77",
+    "sha256_text": "ffe846659d489be9c74a3cf93cc25aeee6e3a732399e59a39880014989aaa60e"
+  }
+}

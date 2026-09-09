@@ -1,0 +1,405 @@
+PART word/document.xml
+
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.  (Annotate the CFR parts/sections affected).
+
+The Transportation Worker Identification Credential (TWIC®) program is a Department of Homeland Security (DHS) program administered jointly by Transportation Security Administration (TSA) and the United States (U.S.) Coast Guard (USCG) to mitigate threats and vulnerabilities in the national transportation system.  The TWIC is a biometric credential that can be used as an identification tool for workers in various segments of the field of transportation.  Before issuing a credential, TSA performs a security threat assessment (STA), which requires TSA to collect certain personal information such as name, address, fingerprints, facial photograph, and other biographic information.
+
+The program implements authorities and requirements in the Aviation and Transportation Security Act (ATSA) (Pub. L. 107-71; Nov. 19, 2002; sec. 106), the Maritime Transportation Security Act of 2002 (MTSA) (Pub. L. 107-295; Nov. 25, 2002; sec. 102), and the Safe, Accountable, Flexible, Efficient Transportation Equity Act—A Legacy for Users (Pub. L. 109-59; Aug. 10, 2005; sec. 7105)), codified at 49 U.S.C. § 5103a (g).  ATSA requires TSA to perform security threat assessments on individuals with access to secure areas of the transportation network. MTSA requires TSA issue a biometric transportation security card to eligible individuals needing unescorted to regulated maritime facilities. The SAFETY Act requires the reduction of redundant security threat assessments. 
+
+TSA and USCG issued a joint final rule on January 25, 2007, applicable to the maritime transportation sector, that requires this information collection.  On September 28, 2016, TSA published its interpretation of the “field of transportation” in the Federal Register pursuant to 6 U.S.C. § 469(a).  With this notice, TSA clarified the individuals from whom it may collect and retain fees to recover vetting costs.  Individuals in the field of transportation are authorized to apply for a TWIC for use as part of other government programs.
+
+As described in the final rule (see 72 FR 3574), TSA requires this collection of information from TWIC applicants in order to perform an STA on those individuals requiring unescorted access to secure areas of MTSA-regulated vessels and maritime facilities.  Commercial drivers licensed in Canada or Mexico who are applying for a TWIC in order to transport hazardous materials in accordance with 49 CFR 1572.201 may be included in this population even though these licensed drivers may not necessarily access secure areas of a facility or vessel.  There are other worker populations in the non-maritime environment who also may be authorized/required by TSA to obtain a TWIC given the nature of their work and required access to controlled areas/facilities.  These individuals would be required to complete the same enrollment process as the TWIC-maritime population.  The information collected is the minimum amount required to establish the identity of the individual and to perform the various background checks required by TSA.  Data is collected during an optional pre-enrollment step and at the time of in-person enrollment.  TSA may also collect the data for applicants renewing an STA online.  Among the records checks required by TSA are a criminal history records check (CHRC), a check of intelligence databases, and an immigration check.
+
+TSA also conducts an optional survey to capture applicants’ overall customer satisfaction with the enrollment process.  TSA’s service provider conducts the survey and compiles the results (see Part B).
+
+Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+Enrollment
+TSA uses the information provided by applicants to verify the identity of the individual applying for a TWIC and to perform a comprehensive STA to determine if the individual poses a security threat that would preclude issuance of a TWIC.  TSA may use the information to determine a TWIC holder’s eligibility to participate in TSA’s expedited screening program for air travel, TSA PreCheck®, and the Hazardous Materials Endorsement (HME) Threat Assessment Program without requiring an additional background check.  Individuals in the field of transportation are authorized to apply for a TWIC for use as part of other government programs.
+
+TWIC applicants are required to submit their fingerprints, facial photograph, and other biographic and biometric data for new enrollments at centers designated by TSA to conduct an STA.  STAs include a check of applicants’ criminal history records, immigration status, and any ties to terrorism.  TSA may use this information to expand enrollment options and for other uses, such as advanced identity verification (e.g., use of fingerprints, iris scans, and/or photographs to verify identity).  Fingerprints are used to conduct a CHRC using the Federal Bureau of Investigation’s (FBI’s) Next Generation Identification (NGI) System.  The biographical data are used to perform checks for ties to terrorism, as well as searches against immigration and citizenship-related databases.
+
+Biometric Capture & Recurrent Vetting
+The FBI retains applicants’ fingerprints and associated information in its NGI system after the completion of their application and, while retained, their fingerprints will continue to be compared against other fingerprints submitted to or retained by NGI as part of the FBI’s Rap Back program.  In retaining applicants’ fingerprints, the FBI will conduct recurrent vetting of applicants’ criminal history until the expiration date of the applicant’s STA.  Similarly, TSA also transmits applicants’ information, to include biometrics, to other DHS systems to complete TSA’s STA, such as DHS’ Automated Biometric Identification System.  The Automated Biometric Identification System and its successor systems are utilized for initial and recurrent biometric-based vetting of applicants’ criminal history, lawful presence, and ties to terrorism.
+
+Security Threat Assessment Process
+TSA uses applicants’ biographic and biometric information during pre-enrollment, enrollment, or post-enrollment to conduct STAs to determine whether the applicant is a security threat and to verify applicants’ identity and citizenship/immigration status.  TSA uses multiple databases for this purpose, including law enforcement, citizenship or immigration, regulatory violation, and intelligence databases.  TSA also uses the U.S. Citizenship and Immigration Services’ Systematic Alien Verification for Entitlements database to verify lawful presence.  In the future, TSA intends to use DHS components’ services, provided via U.S. Customs and Border Protection (CBP), to support verification of identity and citizenship using travel document data (e.g., passport) provided to CBP by the U.S. Department of State.
+
+Credential Issuance
+Once the STA is complete and TSA has determined that the applicant does not pose a security risk, TSA issues a TWIC card with the individual’s name and photograph printed on it.  Applicants may pick up and activate their TWIC at an enrollment center that is specified by the applicant during the enrollment process.  Applicants may select to have their TWIC activated and mailed to their home (or designated address) without a requirement to return to the enrollment center.  The contact information collected by TSA, to include a physical address, phone number(s), or email address, is used to notify the applicant when their TWIC is available to be picked up and activated or to deliver the activated TWIC to a designated address.
+
+Biometric data is securely stored on the credential using integrated circuit chips.  Storing this data on the credential enables facility and vessel owners/operators to determine validity of the TWIC and that the individual bearing the TWIC is the individual to whom it was issued.
+
+Fees and Enrollment Locations
+All applicants pay an application fee to TSA’s enrollment provider, and the enrollment provider is responsible for remitting a portion of each applicant’s fee to the FBI and to TSA, which covers TSA’s costs in conducting an STA and authorized innovation activities supporting the program.  TSA’s enrollment provider has multiple enrollment locations across the U.S. and its territories and offers temporary enrollment locations as well.
+
+Renewals
+Active and previous TWIC cardholders have the option to renew their TWIC STA online.  For online renewals, TSA uses a combination of some previously provided biographic data, updated applicant data (e.g., address, alien registration number/passport number, identity documentation, eligibility questions, updated biometrics, if applicable, etc.), and any associated fees to conduct a new STA.  In conjunction with ongoing TWIC recurrent vetting subscriptions, TSA will use the biometric data provided during the applicant’s initial in-person enrollment to continue criminal history vetting.  For those individuals eligible to renew, most applicants are able to complete their renewal online unless they do not meet TSA’s online enrollment criteria (e.g., applicants must be U.S. Citizens, U.S. Nationals or Lawful Permanent Residents, must have enrolled for their current TWIC card in person, may not have enrolled for their current TWIC using a comparable STA, and applicants must have their current name updated in TSA’s system prior to online renewal if their name has changed since their last enrollment).
+
+TWIC applicants may renew their TWIC online only one time every 10-years due to quality standards for facial photographs.  TSA requires applicants who do not meet the online enrollment criteria to renew in person.  TSA may reconfigure its systems to permit applicants with other immigration statuses to renew online in the future.  TSA may permit online renewals more than once every 10-years if facial photograph standards change or technology solutions permit applicants to provide quality biometric data or facial photographs post-enrollment via electronic or remote submission from the applicant.  In the future, TSA may allow applicants to upload their identity documents online.
+
+Customer Survey
+TSA and its enrollment service provider review the customer satisfaction results and enrollment center operations reporting, among other measures, designed to gauge the effectiveness and efficiency of the program on a weekly and monthly basis as part of STA program enrollment service reviews.  These survey results, along with other information, such as enrollment statistics that are tracked for each enrollment center, provide TSA with input used for scheduling TSA TWIC program staff to travel to conduct site visits/audits at enrollment centers in the field.  The survey is also offered via e-mail or web site following enrollment, renewal, or after card activation services.
+
+Merchant Mariner Credentialing
+Individuals applying for a USCG Merchant Mariner Credential (MMC) are required under 46 CFR 10.203 to hold a TWIC.  The failure to obtain or hold a valid TWIC serves as a basis for the denial of an application for an original, renewal, new endorsement, duplicate, or raise of grade of a mariner's credential and may serve as a basis for suspension and revocation.  In addition to TSA’s TWIC STA, the USCG National Maritime Center uses the biographic and biometric information obtained by TSA to conduct a safety and suitability evaluation.  During the TWIC enrollment process, applicants must specify whether or not they are enrolling for TWIC to satisfy MMC application requirements.  This acknowledgement by the applicant instructs TSA to share the applicant’s data with the National Maritime Center for its evaluation, including the TWIC photograph for production of the MMC document.  Note that Merchant Mariners are not required to pick-up their physical TWIC card as a precondition to obtaining an MMC.
+
+Some mariners are exempt from the requirement to hold a TWIC, however these mariners must undergo the STA.  Section 809 of the Coast Guard Authorization Act of 2010 (Pub. L. 111-281; October 15, 2010) exempts certain mariners, those who only access vessels or facilities that do not require a security program, from the requirement to hold a valid TWIC as a precondition of receiving and holding an MMC.  To implement the requirements of Section 809, TSA may implement functionality during the enrollment and renewal process to allow MMC applicants or holders to enroll for a TWIC STA without the production and issuance of a physical TWIC card.  Merchant Mariners qualified under this provision only pay the enrollment and vetting segment of the TWIC fee because TSA does not have to create the biometric credential for Section 809 Merchant Mariners.  Thus, Section 809 mariners who opt not to receive a TWIC card would pay only the enrollment and vetting segments of the fee.
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.  [Effective 03/22/01, your response must SPECIFICALLY reference the Government Paperwork Elimination Act (GPEA), which addresses electronic filing and recordkeeping, and what you are doing to adhere to it.  You must explain how you will provide a fully electronic reporting option by October 2003, or an explanation of why this is not practicable.]
+
+All data is collected, stored, scanned, and transmitted electronically by TSA’s enrollment service provider with secure authorized channeling services.  If applicants choose to pre-enroll, an enrollment record is created for them that will be retrieved when they complete the in-person enrollment process.  Trusted Agents (representatives of the TWIC enrollment service provider, which provides enrollment and activation functions) administer in-person enrollment, which involves the creation of an electronic enrollment record.  Biometrics, including fingerprints, facial photograph, and iris scans are captured electronically and are part of the enrollment record.  Proof-of-identity and immigration status documents are scanned and stored electronically.  When all data has been collected, the enrollment record is transmitted to TSA’s vetting and credentialing systems for processing and secure storing of information.  Once this transmission occurs, all information is automatically deleted from the enrollment station.  For TWIC online renewals, the enrollment service provider creates an enrollment record with biographic and TWIC card information provided by the applicant.  When the applicant’s data has been collected, the renewal enrollment record is transmitted to TSA for storage and case management purposes.  The TWIC data collection fulfills the requirements of the Government Paperwork Elimination Act.  The optional survey is administered at the end of the service (enrollment, renewal or activation) for which the applicant is at the enrollment center.  The survey may be offered at the enrollment location, provided online, or offered via e-mail or web site following enrollment or activation.  The survey is displayed on the computer monitor facing the applicant, and the applicant enters their survey response via a numeric keypad.  For surveys offered via e-mail or website after the enrollment, the survey may be displayed on a desktop, laptop or mobile device.  Providing the survey at the end of service in-person or via email allows the applicant to provide immediate feedback.
+
+Usability Testing Requirement:
+Pursuant to DHS requirement, all Information Collection Requests must undergo usability testing (UX) prior to submission to OMB.  See Paperwork Reduction Act Burden Reduction Initiative Memorandum dated, March 22, 2022.
+
+TSA completed a usability study on the TWIC application renewal process.  The purpose for the study was to determine the accuracy of the time burden to complete the online and in-person renewals.  The UX included 9 participants, who did not have any familiarity with the process being assisted by Enrollment Agents, well trained on the software.
+
+TSA found that the average time to complete the online renewals was 4 minutes and the in-person renewals was 8 minutes.  As this completion time was within the range of TSA’s estimate of 10 minutes, TSA did not make any changes to the time burden for the renewal collections.
+
+Overall, all the UX participants found the enrollment renewal process to be seamless and quick.  The participants did not express any changes they would like to see on the user interface.
+
+
+Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above.
+
+A key security objective of the TWIC Program is to verify an applicant’s claimed identity and to identify whether they pose a transportation or security threat, or of terrorism.  For cases in which an applicant has already received a comparable threat assessment from DHS, including those for an HME on a state-issued Commercial Driver’s License, or a Free and Secure Trade card holder, the biographic and biometric information is collected in order for the TSA to ensure that applicants do not apply for multiple TWICs under the same or a different claimed identity.  In such cases, the previous DHS threat assessment is leveraged and the fee to the applicant is reduced since the full assessment does not have to be performed.  Individuals in the field of transportation who are authorized to apply for a TWIC for use as part of other government programs, may apply for a TWIC and undergo the associated STA.
+
+In Fiscal Year (FY) 2018, DHS commissioned a comprehensive security assessment of the TWIC Program, as required by Pub. L. 114-278.  The assessment included analysis and findings on TWIC’s redundancy or duplication with other transportation credentials.  In a report published by the Homeland Security Operational Analysis Center, a DHS Federally Funded Research and Development Center, researchers did not identify duplicative federal- or state-issued credentials or programs.  The Homeland Security Operational Analysis Center found no duplicative port authority credentials and did not find TWIC as unnecessarily redundant as compared to the HME, or providing a risk-reduction effect similar to TWIC’s without providing additional benefits.  TSA acknowledges that certain redundancies exist between the programs but has taken appropriate steps to reduce the burden of these redundancies where possible under the governing statutes.  There are some aspects of these programs that TSA cannot eliminate or change, due to statutory requirements.  For example, the HME is part of the licensing process for commercial drivers, which is an inherently state function that the Federal government cannot usurp.  Individuals apply to the State and must successfully complete knowledge-based testing on the transportation of hazardous materials, before receiving an HME.  While TSA would consider providing the USCG, facilities, and vessels with alternative methods to validate the TWIC for unescorted access to regulated maritime facilities and vessels, the TWIC statute requires TSA to issue a biometric credential for such access, and thus, TSA cannot forgo issuing the credential.
+
+In recent years, TSA has prioritized projects to eliminate redundancies and allow for interoperability of such credentials, where possible.  For example, qualifying TWIC holders are eligible for TSA PreCheck at no cost and no additional enrollment.  Given the similarity between the TWIC and TSA PreCheck STAs, most TWIC holders meet the criteria for TSA PreCheck and are now eligible for expedited security screening.  In addition to maintaining a valid STA, the TWIC holder must meet citizenship and immigration requirements, and the TWIC holder must have been approved without a waiver.  TWIC holders must use an active TWIC CIN in the Known Traveler Number field of each airline reservation.  Use of TWIC for TSA PreCheck is increasing on a weekly basis with more than 32,000 travelers using their TWIC CIN every week.
+
+As a DHS component, TSA is a stakeholder and active participant in DHS-wide efforts to enhance identity standards, identity validation & verification and person-centric identity management.  TSA collaborates with the DHS Office of Biometric Identity Management on identity management applications, initiatives, and programs, among other use cases.  The Office of Biometric Identity Management is leading departmental efforts to establish common identity standards and an enterprise strategy to enable a more standardized approach to identity management, including governance, data sharing, and expanded biometrics and identity resolution.  To augment such departmental efforts, TSA is reviewing its STA program identity practices and considering procedures to enhance identity assurance for its populations to ensure consistency in identity validation and verification and increase the maturity level of all programs from an identity assurance level.  TSA is engaged with the National Institute of Standards and Technology and National Information Exchange Model Program Management Office, among others, on biometric and biographic capture, as well as storage and data sharing requirements and practices.
+
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden.
+
+This collection does not have a significant impact on a substantial number of small businesses.
+
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+If this information is not collected, TSA cannot fulfill its statutory mandate to conduct STAs on individuals who require unescorted access to secure areas of transportation facilities and vessels to determine whether those individuals may pose a security threat to those facilities and vessels, and to the transportation system in general.  TSA would be unable to issue biometric transportation security credentials to individuals who require unescorted access to secure areas of vessels and maritime facilities as required under the MTSA.  Likewise, if the survey is not conducted, TSA will be unable to measure applicant customer satisfaction, and the service provider will be unable to assess and report performance for TWIC enrollment service reviews.
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+This collection is conducted consistent with the information collection guidelines with the exception of 5 CFR 1320.5(d)(2)(ii).  To make the survey more convenient and personal for the enrollees, TSA captures the information immediately from the workers as they are departing the enrollment center or online after they complete their enrollment, renewal or activation.  This allows for an assessment of the entire enrollment and activation process as well minimizes the burden on the individual applicant.
+
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+When the TWIC program was established in 2007, TSA conducted a prototype of the TWIC enrollment and card issuance procedures.  Volunteer transportation workers enrolled and provided data that assisted in the successful deployment of the TWIC system, including enrollment and issuance processes.  The final estimate for the TWIC applicant population, that was computed with maritime industry and academy input as part of the rule making process, was 850,000 applicants.  Since the program’s inception, the program has performed more than 8.1 million enrollments and maintains approximately 2.3 million active TWIC cards.  Since 2007, TSA has printed and issued more than 8.8 million cards, including new enrollments, renewals, and replacement cards.
+
+TSA collaborates with USCG and solicits input from maritime industry and other stakeholders to assess the population for initial enrollments as well as renewals; however, the transient nature of this workforce presents a challenge to its estimation.
+
+TSA published a 60-day notice and a 30-day notice in the Federal Register to solicit public comment on the information collection for the TWIC Program.  See 89 FR 100518 (December 12, 2024) and 90 FR 17829 (April 29, 2025), respectively.  TSA did not receive any comment on the 60-day notice.  However, TSA received a public comment on the 30-day notice.  
+
+The commenter asked, “how the collection is being shared or used and by whom?” In addition, she asked, “how was the collection productive and what was the value?”  TSA already provided responses to these questions in the answers to questions 2, 10, 13 and 14 in this Supporting Statement.
+
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+TSA does not provide any payment or gift to respondents.
+
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+TSA is committed to protecting privacy and securing personal information.  TSA collects and protects TWIC applicant information consistent with the principles of the Privacy Act of 1974, E-Government Act of 2002 and Federal Records Act.  The DHS Privacy Office publishes privacy risks, protections, and methods at https://www.dhs.gov/compliance.  In addition, this collection is covered by a Privacy Impact Assessment (PIA), DHS/TSA/PIA-12 Transportation Worker Identification Credential Program (October 5, 2007); and a System of Records Notice, DHS/TSA—002 Transportation Security Threat Assessment.  See 79 FR 46862 (August 11, 2014).  For TWIC access control and electronic card reader privacy risks, the USCG publishes PIAs available from the DHS Privacy Office.
+
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+TSA does not ask any questions that relate to sexual behavior or attitudes, religious beliefs, or other commonly considered private matters.  TSA does require criminal history information on applicants (including whether applicants have been convicted or found not guilty by reason of insanity), as well as whether they ever have been found by a court or other lawful authority as lacking mental capacity or involuntarily committed to a mental institution.  This information is critical to determining whether the applicant poses a potential threat or threat to transportation security, and TSA has long collected this kind of information for transportation security vetting purposes from other populations (for example, HME holders, aviation workers with unescorted access to sensitive areas of airports, and TSA PreCheck travelers).  TSA understands the importance of protecting all applicant information and has robust privacy protections in place.
+
+Provide estimates of hour burden of the collection of information.
+
+Estimates of the total transportation worker population are based on historical data that TSA compiled from the TWIC program.  TSA estimates 677,105 total annualized respondents, which includes 290,290 new enrollments, 4,994 comparable enrollments, 334,114 renewals, and 47,707 TWIC replacements.  Table 1 illustrates these calculations.
+
+Table 1: New Enrollments, Comparable Enrollments, Renewals, and Replacements
+Year | New Enrollments | Comparable Enrollments | Renewals | Replacements | Total Enrollments, Renewals, and Replacements
+ | A | B  | C | D | E = A+B+C+D
+CY 2025 | 290,261 | 4,990 | 276 , 859 | 47,698 | 619,808
+CY 2026 | 290,302 | 4,996 | 346 , 080 | 47,71 2 | 689,090
+CY 2027 | 290,306 | 4,996 | 379 , 403 | 47,71 1 | 722,416
+Total | 870,869 | 14,982 | 1,002,342 | 143,121 | 2,031,314
+Annualized | 290,290 | 4,994 | 334,114 | 47,707 | 677,105
+Note: Calculations may not be exact due to rounding in tables.
+
+Enrollments and Renewals Time Burden
+New enrollments are conducted one of two ways: (1) with an online pre-enrollment, followed by in-person visit to an enrollment center; or (2) in-person enrollment completion without online pre-enrollment.  TSA estimates that 64 percent of new enrollments are conducted with an online pre-enrollment online and takes 0.92 hours to complete.  TSA estimates that 36 percent of new enrollments are conducted in-person at an enrollment center without online pre-enrollment and takes 0.90 hours.  The time burden for new enrollments is displayed in Table 2.
+
+Comparable enrollments include STAs and background checks made through other governmental agencies, such as the TSA HME program and U.S. CBP Free and Secure Trade Program.  As authorized in 49 CFR 1572.5, TSA may determine that STAs conducted by other governmental agencies are comparable to the assessment conducted by TSA for TWIC applicants.  In-person enrollment is required for comparable enrollments, so TSA estimates the time burden to conduct a comparable enrollment is 0.92 hours.  The time burden for comparable enrollments is displayed in Table 2.
+
+
+
+Table 2: New and Comparable Enrollments Time Burden 
+Year | New Enrollments | New Enrollments with On-line Pre-Enrollment Time Burden | New Enrollment without On-line Pre-Enrollment Time Burden | Comparable Enrollments | Comparable Enrollments Time Burden | Total Enrollments Time Burden
+ |  A |  B = A ×  64 % ×  .92  hours |  C = A ×  36 % × 0.9 0  hours | D | E = D  ×  0.92 hours | F = B + C + E 
+CY 2025 | 290,261 | 170,906 | 94,045 | 4,990 | 4,591 | 269,541
+CY 2026 | 290,302 | 170,930 | 94,058 | 4,996 | 4,596 | 269,584
+CY 2027 | 290,306 | 170,932 | 94,059 | 4,996 | 4,596 | 269,588
+Total | 870,869 | 512,768 | 282,162 | 14,982 | 13,783 | 808,713
+Annualized | 290,290 | 170,923 | 94,054 | 4,994 | 4,594 | 269,571
+Note: Calculations may not be exact due to rounding in tables.
+
+
+
+TWIC STAs and cards are valid for 5 years from the date of issuance, then must be renewed.  TWIC STA may be renewed online, or in-person at an enrollment center.  TSA estimates it takes approximately 10 minutes to renew online.  It takes an average of 11 minutes (5 minutes wait time + 6 minutes to complete renewal application), plus a round trip visit to an enrollment center (44 minutes) for a total of 55 minutes (0.9167 hours) to renew in-person.  TSA estimates 68 percent of renewals will be conducted online, while 32 percent of renewals will be done in-person.  The time burden for renewals is displayed in Table 3.
+
+
+Table 3: Renewal Time Burden
+Year | Renewals | Online Renewals | Online Renewal Time Burden | In-Person Renewals | In-Person Renewal Time Burden | Travel Time for In-Person Renewal | Total In-Person Renewal Time Burden | Total Renewal Time Burden
+ | A | B = A  ×   6 8 % | C = B  ×  0.17 hours | D = A  ×   3 2 % | E = D  ×  0.18 hours | F = D  ×  0.73 hours | G = E + F | H = C + G
+CY 2025 | 276 , 859 | 188,264 | 32,005 | 88,595 | 15,947 | 64,674 | 80,621 | 112,626
+CY 2026 | 346,080 | 235,334 | 40,007 | 110,746 | 19,934 | 80,844 | 100,778 | 140,785
+CY 2027 | 379,403 | 257,994 | 43,859 | 121,409 | 21,854 | 88,629 | 110,482 | 154,341
+Total | 1,002,342 | 681,593 | 115,871 | 320,749 | 57,735 | 234,147 | 291,882 | 407,753
+Annualized | 334,114 | 227,198 | 38,624 | 106,916 | 19,245 | 78 ,049 | 97 ,294 | 135,918
+Note: Calculations may not be exact due to rounding in tables.
+
+
+Replacement Card Time Burden
+Replacement cards are issued in cases where the original card is lost, stolen, or damaged.  TSA estimates 47,707 replacement cards will be issued annually, and it takes on average 7 minutes (0.11667 hours) to request a replacement card.  The time burden for requesting a replacement card is displayed in Table 4.
+
+Table 4: Replacement Card Time Burden
+Year | Replacement Cards | Time Burden To Request Replacement Card
+ | A | B = A × 0.12 hours
+CY 2025 | 47 , 698 | 5,724
+CY 2026 | 47 , 712 | 5,725
+CY 2027 | 47 , 711 | 5,725
+Total | 143,121 | 17,175
+Annualized | 47,707 | 5,725
+Note: Calculations may not be exact due to rounding in tables.
+
+Time Burden to Retrieve Card
+Once a card has been created, whether it be for an enrollment, renewal, or replacement, the applicant may either have the card mailed to them or pick it up in person at a designated enrollment center.  There is no additional burden to have the card mailed, and 94 percent of enrollments, renewals, and replacements choose to have their cards mailed.  The remaining 6 percent pick the card up in person and incur the burden of a round trip visit (44 minutes, or 0.73 hours) to the enrollment center, wait time of 5 minutes (0.08333 hours), and 8 minutes (0.13 hours) to activate the card.  The total time burden to pick up a card in person is 44 minutes + 5 minutes + 8 minutes = 57 minutes, or 0.95 hours.  This time burden is displayed in Table 5.
+ | 
+Table 5: Time Burden to Pick Up Cards In-Person
+Year | Total New and Comparable Enrollments | Renewals | Replacements | Total Enrollments, Renewals, and Replacements | Time Burden to Pick Up Card In Person
+  | A | B | C | D = A + B + C | E = D × 0.95 hours × 6%
+CY 2025 | 295,251 | 276,859 | 47,698 | 619,808 | 35,329
+CY 2026 | 295,298 | 346,080 | 47,71 2 | 689,090 | 39,278
+CY 2027 | 295,301 | 379,403 | 47,71 1 | 722,416 | 41,178
+Total | 885,850 | 1,002,342 | 143,121 | 2,031,314 | 115,785
+Annualized | 295,283 | 334,114 | 47,707 | 677,105 | 38,595
+Note: Calculations may not be exact due to rounding in tables.
+
+Customer Enrollment Satisfaction Survey Hour Burden
+Customers have the option of taking a customer satisfaction survey.  The optional customer satisfaction survey is offered to customers that complete an in-person enrollment, comparable enrollment, renewal enrollment, or receive card services at the enrollment center, online, or via telephone.  The survey takes 2.5 minutes (0.04 hours) to complete.  TSA estimates 2.5 percent of enrollments and renewals will take the customer satisfaction survey during enrollment.  This burden is displayed in Table 6.
+
+Table 6: Customer Enrollment Process Satisfaction Survey Time Burden (in Hours)
+Year | Total Enrollments and Renewals | Total Enrollments and Renewals Completing Survey | Customer Survey Time Burden
+ | A | B = A  ×  2 . 5% | C = B  ×  0.04 hours
+CY 2025 | 619,808 | 15,495 | 620
+CY 2026 | 689,090 | 17,227 | 689
+CY 2027 | 722,416 | 18,060 | 722
+Total | 2,031,314 | 50,783 | 2,031
+Annualized | 677,105 | 16,928 | 677
+Note: Calculations may not be exact due to rounding in tables.
+
+Appeals and Waivers Hour Burden
+The TWIC regulation provides applicants with the option to file an appeal or waiver with respect to the results compiled during their eligibility assessment.
+
+TSA estimated the number of appeals and waivers by taking the total number of new enrollments and renewals estimated above (Table 1) and applying the actual 3.1 percent disqualification rate.  TSA estimates that 52 percent of these disqualifications will file an appeal; therefore, 1.6 percent (3.1 percent × 52 percent) of the new enrollments and renewals will file an appeal.
+
+Additionally, individuals who request appeals and waivers must perform a variety of activities.  At minimum, they must write a letter to TSA, and they may need to collect information about their conviction from their local jurisdiction.  In other cases, the applicant may need to only provide their social security number or legal resident number.  TSA estimates that each appeal and waiver require 6 hours to complete.  TSA provided the estimates for the yearly hours of appeals and waivers below in Table 7.
+Table 7: Appeal Time Burden
+Year | New Enrollments | Renewals | Total Appeals | Appeals Time Burden
+ | A | B | C = (A + B) × 1.6% | D = C × 6 hours
+CY 2025 | 290,261 | 276,859 | 9,074 | 54,444
+CY 2026 | 290,302 | 346,080 | 10,182 | 61,093
+CY 2027 | 290,306 | 379,403 | 10,715 | 64,292
+Total | 870,869 | 1,002,342 | 29,971 | 179,828
+Annualized | 290,290 | 334,114 | 9,990 | 59,943
+Note: Calculations may not be exact due to rounding in tables.
+
+Customer Card Issuance Process Satisfaction Survey Hour Burden
+New applicants, renewals and replacement cardholders who elect to pick up their TWIC card in person, are asked to complete a short, optional electronic customer satisfaction survey about the card issuance process (2.5 minutes or .042 hours).  As stated previously, 94 percent of the new, renewals, and replacement card requestors have their cards mailed to them, so it is the remaining 6 percent who pick up cards in person who are offered this survey.  TSA estimates that 2.5 percent of total card issuance population (Table 8, Column C) will participate in the optional survey.  The Card Issuance Customer Satisfaction Survey burden is captured in Table 8 below.
+
+Table 8: Card Issuance Process Customer Satisfaction Survey (in Hours)
+
+Year | Total Enrollments, Renewals, and Replacement Cards | Total Enrollments and Renewals Picking Up Card In Person | Total Individuals Taking Survey | Customer Survey Time Burden
+ | A | B = A ×  6 % | C = B × 2 . 5% | F= E × 0.04 hours
+CY 2025 | 619,808 | 37,188 | 930 | 39
+CY 2026 | 689,090 | 41,345 | 1,034 | 43
+CY 2027 | 722,416 | 43,345 | 1,084 | 46
+Total | 2,031, 314 | 121,879 | 3,047 | 128
+Annualized | 677, 105 | 40,626 | 1,016 | 43
+Note: Calculations may not be exact due to rounding in tables.
+
+Totals
+
+Table 9 presents the annual number of respondents to the TWIC program.  The total respondents include enrollments, renewals, replacements, appeals, and those who voluntarily complete a customer satisfaction survey.  The annualized number of total respondents is 705,038.
+
+
+Table 9: Total Respondents
+Year | Total Enrollments, Renewals, and Replacements Respondents | Enrollment Customer Survey Respondents | Total Appeals | Card Issuance Customer Survey Respondents | Total Respondents
+ | A | B | C | D | E = A + B + C + D
+CY 2025 | 619,808 | 15,495 | 9,074 | 930 | 645,307
+CY 2026 | 689,090 | 17,227 | 10,182 | 1,034 | 717,533
+CY 2027 | 722,416 | 18,060 | 10,715 | 1,084 | 752,275
+Total | 2,031,314 | 50,783 | 29,971 | 3,047 | 2, 115,115
+Annualized | 677,105 | 16,928 | 9,990 | 1,016 | 705,038
+Note: Calculations may not be exact due to rounding in tables.
+
+Table 10 below displays the total annual hour burden estimated for the TWIC program to TWIC applicants.  The annualized burden is 510,471 hours.
+
+Table 10: Total Time Burden (in Hours)
+Year | Total Enrollments and Renewals Time Burden | Total Replacement Card Time Burden | Total Time Burden to Pick Up Card in Person | Total Customer Enrollment Process Satisfaction Survey Time Burden | Total Appeal Time Burden | Total Card Issuance Process Satisfaction Survey Time Burden | Total Time Burden (in hours)
+ | A | B | C | D | E | F | G = A + B + C + D + E + F
+CY 2025 | 382,167 | 5,724 | 35,329 | 620 | 54,444 | 39 | 478,322
+CY 2026 | 410,369 | 5,725 | 39,278 | 689 | 61,093 | 43 | 517,198
+CY 2027 | 423,929 | 5,725 | 41,178 | 722 | 64,292 | 46 | 535,892
+Total | 1,216,465 | 17,175 | 115,785 | 2,031 | 179,828 | 128 | 1,531,412
+Annualized | 405,488 | 5,725 | 38,595 | 677 | 59,943 | 43 | 510,471
+Note: Calculations may not be exact due to rounding in tables.
+
+Opportunity Cost
+
+TSA retrieved the Bureau of Labor Statistics’ (BLS) mean hourly wage rates and population data from seven occupational categories in order to calculate the wage rate used to determine opportunity cost.  These wage rates are “unloaded” rates and do not account for benefits, leave, and other compensation costs.  Therefore, TSA also calculated a total compensation factor based on BLS data, to create a “loaded” wage.  The compensation factor is 1.44476.
+
+To account for the amount of workers by category, TSA calculated a weighted average hourly wage factor for each of the seven occupations.  After summing these factors, the result is a weighted average TWIC wage rate of $39.52.  The calculations are shown below in Table 11.
+
+Table 11: Weighted Average  TWIC  Card Holder Wages
+Occupation | Estimated Population | Mean Hourly Wage Rate | Compensation Factor | Total Compensation per Labor Category
+ | A | B | C | D =  A   ×   B × C
+Sailors and Marine Oilers | 11,380 | $25.72 | 1.44476 | $422, 872
+Ship and Boat Captains and Operators | 12,570 | $54.51 |  | $989, 936
+Ship Engineers | 3,230 | $54.86 |  | $256,008
+Drivers/Sales Workers and Truck Drivers | 1,220 | $32.40 |  | $57,108
+Material Moving Workers | 4,730 | $29.60 |  | $202,278
+Transportation and Material Moving Occupations | 35,920 | $40.11 |  | $2,081, 540
+Heavy and Tractor-Trailer Truck Drivers | 2,044,400 | $26.92 |  | $79,512, 725
+Total | 2,113,450 |   |   | $83,522, 467
+Weighted, Loaded Average Hourly Wage Rate =  ∑ A   ÷∑ D | $39.52
+Note: Calculations may not be exact due to rounding in tables.
+
+TSA multiplied the TWIC hour burden by $39.52 to estimate the hour burden costs.  This results in an annualized hour burden cost (opportunity cost) of $20.2 million.  The calculations are shown below in Table 12.
+
+Table 12: Opportunity Costs
+Year | Estimated Total Hours | Weighted Average Hourly Wage Rate | Hour Burden Cost
+ | A | B | C = A  ×  B
+CY 2025 |           478,322 | $39.52 | $18,903,304
+CY 2026 |           517,198 |  | $20,439,668
+CY 2027 |           535,892 |  | $21,178,442
+Total |       1, 531,412 |   | $60,521,414
+Annualized |          510,471 |  | $20,173,805
+Note: Calculations may not be exact due to rounding in tables.
+
+Provide an estimate of the total annual cost burden to respondents or record keepers resulting from the collection of information.
+
+TWIC is a fee-based program, meaning that TWIC applicants pay a fee that represents the total cost of the program, prorated over the expected number of applicants.  TWICs® are valid for a period of 5 years.  The 5-year renewal of a TWIC in person costs the same as the initial enrollment.  Based on required fee studies, TSA determined that the in-person information collection and credential issuance segments of the TWIC fee will be $29.00, plus $10.00 for the FBI CHRC fee, and $85.00 for TSA to complete the threat assessment and produce the credential, for a total of $124.00.  The comparable enrollment fee is $93.00.  The total enrollments number includes both new and comparable enrollments and has a 3-year cost of $105.9 million, with an annualized cost of $35.3 million.  The calculations are shown in Table 13.
+
+
+
+Table 13: Enrollment Fees
+Year | TWIC ®  Annual New and Comparable Enrollments (without Section 809 Merchant Mariners) | TWIC ®  Enrollment Fee | Total Enrollment Fees | TWIC ®  Annual Comparable Enrollments | TWIC ®  Comparable Enrollment Fee | Total Comparable Enrollment Fee | Total Enrollment Fees
+ | A | B | C = A × B | D | E | F = D  ×  E | G = C + F
+CY 2025 |          280,971 | $124.00 | $34,840,404 |                      4,990 | $93.00 | $464,070 | $35,304,474
+CY 2026 |          281,012 |  | $34,845,488 |                      4,996 |  | $464,628 | $35,310,116
+CY 2027 |          281,016 |  | $34,845,984 |                      4,996 |  | $464,628 | $35,310,612
+Total |          885,851 |   | $104,531,876 |                    14,982 |  | $1,393,326 | $105,925,202
+Annualized |         285,994 |   | $34,843,959 |                      4,994 |  | $464,442 | $35,308,401
+Note: Calculations may not be exact due to rounding in tables.
+
+
+Section 809 MMC Enrollments
+
+Merchant Mariners who are credentialed under United State Coast Guard Authorization Act of 2010 Sec. 809 are not required to have a valid TWIC card as part of their MMC.  Therefore, these applicants will not have to pay a credential fee for a card, a reduction of $25.75 from the enrollment fee.  The MMC is valid for 5 years, then are renewed, and are charged a reduced fee of $98.25 for both enrollments and renewals.  Annually, USCG estimates approximately 9,290 TWIC enrollments without a physical card to coincide with MMC renewals.  The calculations are shown in Table 14.
+
+Table 14: Enrollment Section 809 Fees
+Year | TWIC Section 809 MM Enrollments | TWIC Enrollment Fee without Card Fee | Total Enrollments Section 809 Fee
+ | A | B | C = A × B
+CY 2025 | 9,290 | $98.25 | $912,743
+CY 2026 | 9,290 |  | $912,743
+CY 2027 | 9,290 |  | $912,743
+Total | 9,290 |  | $2,738,228
+Annualized | 9,290 |  | $912,743
+Note: Calculations may not be exact due to rounding in tables. | 
+
+Renewals Fee
+
+Applicants who renew (Renewals) in person are required to pay $124.00.  Applicants who renew online are required to pay $116.00.  The calculations are shown in Table 15.
+
+
+Table 15: Renewal Fees
+Year | TWIC Annual Renewals | TWIC In Person Renewals | TWIC In Person Renewals Fee | TWIC In Person  Renewals | TWIC Online Renewals | TWIC Online Renewals Fee | TWIC Online Renewals Fee | Total Renewals Fee
+ | A | B | C | D = B x C | E | F | G = E x F | H = D + G
+CY 2025 |            276,859 |            88,595 | $124.00  | $10,985,765 |       188,264 | $116.00 | $21,838,637.92 | $32,824,403
+CY 2026 |            346,080 |            110,746 |  | $13,732,454 |       235,334 |  | $27,298,790.40 | $41,031,245
+CY 2027 |            379,403 |          121,409 |  | $15,054,711 |       257,994 |  | $29,927,308.64 | $44,982,020
+Total | 1,002,342 | 320,749 |  | $39,772,931 |       681,593 |  | $79,064,737 | $118,837,668
+Annualized | 334,114 | 106,916 |  | $13,257,644 |       227,198 |  | $26,354,912 | $39,612,556
+
+Note: Calculations may not be exact due to rounding in tables.
+
+If an individual loses their TWIC, it can be replaced for a reduced fee of $60 each.  The 3-year cost of the replacement cards is $8.6 million, and the annualized cost is $2.9 million.  The calculations are shown below in Table 16.
+
+Table 1 6 :  TWIC   Card Replacement Fees
+Year | Replacements | Fee per Replacement | Total Card Replacement Fees
+ | A | B | C = A × B
+CY 2025 | 47,698 | $60.00 | $2,861,880
+CY 2026 | 47,712 |  | $2,862,720
+CY 2027 | 47,711 |  | $2,862,660
+Total | 143,121 |   | $8,587,260
+Annualized | 47,707 |  | $2,862,420
+Note: Calculations may not be exact due to rounding in tables.
+
+If an individual requests an appeal or waiver, they will likely request copies of their supporting documents.  The TWIC program estimates the cost for these copies to be $1 per appeal.  The 3-year cost of the supporting appeal documents is $30.0 thousand, and the annualized cost is $10.0 thousand.  The calculations are shown in Table 17.
+
+Table 1 7 : Cost for Copies of Supporting Appeal Documents
+Year | Appeals | Cost per Copy | Total Cost for Supporting Appeal Documents
+ | A | B | C = A  × B
+CY 2025 | 9,074 | $1.00 | $9,074
+CY 2026 | 10,182 |  | $10,182
+CY 2027 | 10,715 |  | $10,715
+Total | 29,971 |   | $29,971
+Annualized | 9,990 |  | $9,990
+Note: Calculations may not be exact due to rounding in tables.
+
+Totals
+
+Table 18 shows the estimated fees and appeal documents costs.  The total TWIC Fees costs over the 3-year period is $236.1 million, and the total annualized cost is $78.7 million.
+
+
+ | Table 18: Total  TWIC  Fees
+Year | Total Enrollment Fees  (without Section 809 Merchant Mariners) | Total Section 809 Enrollment Fees | Total Renewal Fees | Total Replacement Fees | Total Cost for Supporting Appeal Documents | Total Fees and Appeal Documents Costs
+ | A | B | C | D | E | F = A+B+C+D+E
+CY 2025 | $35, 304,474 | $912,743 | $32,824,403 | $2,861,880 | $9,074 | $ 71,912,573
+CY 2026 | $35, 310,116 | $912,743 | $41,031,245 | $2,862,720 | $10,182 | $80, 127,005
+CY 2027 | $35, 310,612 | $912,743 | $44,982,020 | $2,862,660 | $10,715 | $84, 078,750
+Total | $ 105,925,202 | $2, 738,228 | $118,837,668 | $8,587,260 | $29,971 | $236, 118,328
+Annualized | $35, 308,401 | $912,743 | $39,612,556 | $2,862,420 | $9,990 | $78, 706,109
+ | Note: Calculations may not be exact due to rounding in tables.
+
+
+Provide estimates of annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information.
+
+The TSA TWIC program is funded entirely by applicant fees and is not augmented by appropriated funding (see Question 13).  The TWIC fee covers applicant enrollment, vetting, adjudication, redress procedures and credentialing, and other operational costs associated with the program based on population estimates.  As the TWIC is a 5-year credential, the TWIC revenue model must ensure that the program remains viable for the lifetime of the credential.  In consideration of the TWIC program’s revenue model, TSA’s annualized cost for the Information Collection Request is $78.7 million (see Table 18).  The forecast provides the basis for estimating program costs to include enrollment services, security threat assessment, maintenance and modernization of backend IT systems, and credential maintenance services.
+
+Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+On January 1, 2025, the FBI reduced the CHRC fee from $11.25 to $10.00, impacting the new and renewal enrollment fees.  In addition, the annual respondents decreased from 741,518 to 705,038, because the responses to the enrollment customer and the card issuance process surveys decreased.  
+
+Further, the annual time burden increased from 430,317 to 510,471 hours due to an increase in enrollments, renewals, replacement card and appeals.  The burden was also impacted by a decrease in the in-person card pick up, because TSA has increased the mailing of cards to respondents reducing in-person pick up.   
+
+For collections of information whose results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+TSA will not publish the results of this collection.
+
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+TSA is not seeking such approval.
+
+Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+TSA is not seeking any exceptions to the certification statement.
+PART word/footnotes.xml
+
+
+
+ The DHS National Protection and Program Directorate issued regulations that apply to certain chemical facilities that require affected individuals to undergo background checks (6 CFR 27.230).  Affected individuals who are required to undergo background checks to satisfy the National Protection and Program Directorate requirements may apply for a TWIC.  TSA has determined that individuals engaged in an activity regulated by the U.S. Department of Transportation (DOT), TSA, or the USCG.  (Note: Title 6 U.S.C. § 469(a) authorizes DHS to charge reasonable fees for providing credentialing and background investigations in the field of transportation.  As stated in TSA's interpretation of the "field of transportation,” see 81 FR 66671, the “field of transportation” under 6 U.S.C. § 469(a) includes an individual, activity, entity, facility, owner, or operator that is subject to regulation by TSA, DOT, or USCG, and individuals applying for trusted traveler programs.)
+ Williams, Heather J., Kristin Van Abel, David Metz, James V. Marrone, Edward W. Chan, Katherine Costello, Ryan Bauer, Devon Hill, Simon Veronneau, Joseph C. Chang, Ian Mitch, Joshua Lawrence Traub, Sarah Soliman, Zachary Haldeman, Kelly Klima, and Douglas C. Ligor, The Risk-Mitigation Value of the Transportation Worker Identification Credential: A Comprehensive Security Assessment of the TWIC Program.  Homeland Security Operational Analysis Center operated by the RAND Corporation, 2020.  https://www.rand.org/pubs/research_reports/RR3096.html.  Also available in print form.
+ New Enrollment with online pre-enrollment time burden = time to pre-enroll online + time to complete in person portion of enrollment + round trip travel time to enrollment center.  6 minutes + 5 minutes + 44 minutes = 55 minutes = 0.917 hours.
+ New Enrollment without online pre-enrollment time burden = time to complete enrollment + round trip travel time to enrollment center = 10 minutes + 44 minutes = 54 minutes = 0.90 hours.
+ TSA estimates 85 percent of individuals eligible to renew online will complete their renewal online.  Due to the aforementioned eligibility requirements (e.g., applicants must be U.S. Citizens, U.S. Nationals or Lawful Permanent Residents, must have enrolled for their current TWIC card in person, may not have enrolled for their current TWIC using a comparable STA, and applicants must have their current name updated in TSA’s system prior to online renewal if their name has changed since their last enrollment), not all individuals are eligible to renew online.
+
+ Since 2020, TSA has experienced a 16 percent increase in individuals receiving their card by mail.  In 2020,
+as a part of Covid 19 social distancing and safety measures, TSA encouraged TWIC applicants to utilize the direct mailing feature to have cards mailed to them, reducing the need for applicants to return to enrollment centers to pick up and their card.
+ 0.041666 hours = 2.5 ÷ 60
+ BLS, May 2023 Sailors and Marine Oilers (53-5011); Ship and Boat Captains and Operators (53-5020); Ship Engineers (53-5031); Driver/Sales Workers and Truck Drivers (53-3030); and Material Moving Workers (53-7000) within the Water Transportation industry (NAICS 483000).  https://www.bls.gov/oes/May2023/naics3_483000.htm.  (accessed on November 4, 2024).  In addition, TSA included wage rates and population data for Transportation and Material Moving Occupations (53-0000) within the Support Activities for Water Transportation industry (NAICS 488000) https://www.bls.gov/oes/2023/may/oes530000.htm, and Heavy and Tractor-Trailer Truck Drivers (53-3032) https://www.bls.gov/oes/2023/may/oes533032.htm.  (accessed on November 5, 2024).
+ The compensation factor was calculated by dividing the average total compensation for workers in the Production, Transportation and Material Moving occupation, $35.83, by the average wage and salary rate of that group, $24.80.  The compensation factor is 1.44476.  Source: BLS Economic News Release June 2024 Employer Costs for Employee Compensation Table 4 – Employer Costs for Employee Compensation for private industry workers by occupational and industry group.  Occupational group.  Production, Transportation, and Material Moving.  Transportation and Material Moving.  https://www.bls.gov/news.release/archives/ecec_09102024.htm (accessed on December 3, 2024).
+ According to Office of Management and Budget’s Circular A-4, transfer payments are monetary payments from one group to another that do not affect total resources available to society.  To the extent that fee revenue for TWIC enrollments is in excess of the Federal costs of administering the TWIC program, the difference between costs and revenue would be transfer payments.  For more information, visit: https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A4/a-4.pdf 

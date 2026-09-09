@@ -1,0 +1,229 @@
+PART word/document.xml
+
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.  (Annotate the CFR parts/sections affected).
+
+The Exercise Information System (EXIS®) is a voluntary, online tool developed by TSA to support the mission of a program developed and implemented by TSA to fulfill requirements of the Implementing Recommendations of the 9/11 Commission Act of 2007 (9/11 Act).  These statutory requirements led to the development of the Intermodal Security Training Exercise Program (I-STEP) for the nation’s Transportation Systems Sector (TSS).
+
+I-STEP is a security exercise program focused on security in the TSS.  The program assists transportation partners to build and sustain security preparedness to protect travelers, enhance national resilience, and identify capability gaps and needed resources.  Within this program, EXIS® is an interactive resource for the TSS.  As an interactive system, information collection is necessary for the program to be successful.
+
+Use of EXIS® is completely voluntary for industry and government entities (Federal, State, and Local) within the TSS.  While TSA expects the EXIS® tool to be useful to industry, as described above, use of the system would not guarantee compliance with any existing or future TSA, DHS, or other Federal regulation.
+
+Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+EXIS® is intended to be used by stakeholders in the TSS with a desire to conduct security exercises, including publicly- or privately-owned transportation companies/agencies or assets.  TSA collects five kinds of information online from transportation stakeholders: (1) user registration information; (2) nature and scope of exercise; (3) corrective actions/lessons learned/best practices; (4) evaluation feedback on EXIS® itself; and (5) After-Action Reports.
+
+1. User registration information.  TSA collects registration information from all EXIS® users.  Most likely, these users will be mid-level staffers at the transportation company/agency.  TSA uses the information to ensure only those who are involved in transportation security with a “need-to-know” can utilize the features of EXIS®, which is necessary because the content may contain Sensitive Security Information (SSI).  See 49 CFR part 1520.  Although participation in EXIS® is voluntary, for those who choose to participate, TSA requires these respondents to submit registration information.
+
+TSA previously collected the User’s Name, Agency/Organization Name and Type, Job Title, Supervisor or other Sponsor’s Name, Work Phone Number, Work Email Address, Employment Verification Contact Name, Employment Verification Contact Information, the Reason for Needing an EXIS® account, Country, City, State, Zip Code, and Preferred Transportation Sector.  In addition, the user could add the following optional information: Mobile Phone Number and Alternate Email.  TSA is revising the collection to reduce the data collected during user registration and will no longer collect Supervisor or other Sponsor’s Name, Employment Verification Contact Name and Verification Contact Information.  TSA determined the information was not necessary to grant EXIS® access because TSA is implementing new capabilities in EXIS® to verify an individual’s identity more securely.
+As EXIS® content may contain SSI, all users are also required to submit an electronic non-disclosure agreement pertaining to SSI use.  Furthermore, all users are required to review and acknowledge review of SSI handling and protection requirements.  The burden of reading and acknowledging the non-disclosure agreement and the SSI handling and protection requirements is accounted for in the registration burden estimate under Question 12.
+
+2. Desired nature and scope of the exercise.  After registration, the EXIS® user can provide information regarding the nature and scope of the exercise that they would like to conduct.  TSA then can access this information in order to generate an appropriate exercise for the user.  Such information includes:
+
+Exercise Properties
+Objectives
+Scenario Events
+Participating Agencies
+Exercise Attendees
+Pre-Exercise Data (to assess the user’s state of readiness for a transportation security incident prior to initiating the training exercise)
+
+3. Corrective actions/lessons learned/best practices.  After the completion of the exercise, the EXIS® user can input information regarding the exercise.  The EXIS® user can ultimately use this information for generating an “After-Action Report.”  TSA also collects this information in order to capture lessons learned and best practices.  Such information includes:
+
+Corrective Actions
+Best Practices
+Lessons Learned
+
+4. Evaluation feedback.  Users can submit feedback on EXIS® itself through a voluntary evaluation survey called the “Evaluation Team and Participant Feedback.”  TSA collects this information for the purpose of evaluating the usefulness of EXIS® in facilitating security training exercises for the users, assisting in improving planning and conduct of future exercises, and assisting in assessing how exercise results may impact participant risk reduction efforts.  TSA can then modify EXIS® to better suit its users’ needs and/or share lessons learned about potential transportation sector risk reduction efforts.
+
+5. After-Action Reports.  Finally, as previously mentioned, EXIS® users can access data to generate and/or submit formal “After-Action Reports” which may include:
+
+Exercise Overview
+Goals and Objectives
+Event Synopsis
+Analysis of Critical Issues
+Exercise Design Characteristics
+Conclusions
+Executive Summary
+
+A user’s exercise data is only accessible to other users who have been granted access by the user to that exercise.  By default, users have no access to other users’ exercise data.  Stakeholders use the report to identify strengths or areas in which they can assign resources to mitigate risk and enhance the security posture within their organization.
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.  [Effective 03/22/01, your response must SPECIFICALLY reference the Government Paperwork Elimination Act (GPEA), which addresses electronic filing and recordkeeping, and what you are doing to adhere to it.  You must explain how you will provide a fully electronic reporting option by October 2003, or an explanation of why this is not practicable.]
+
+EXIS® is an electronic system, accessible through the Internet, and all information is collected electronically; thus, this information collection is compliant with the Government Paperwork Elimination Act.  The basis for adopting an online submission process includes ease of accessibility for EXIS® users, ease of information storage, and ease of control over information dissemination.  Users can go to “https://exis.tsa.dhs.gov/default.aspx” to access the public-facing EXIS® site and to request access by inputting registration information.
+
+Usability Test Requirement: Pursuant to a new DHS requirement, all Information Collection Requests (ICR) must undergo usability testing prior to submission to OMB.  See DHS Fiscal Year 2024 Burden Reduction Plan Memorandum dated, September 22, 2023.  In FY 2023 and 2024, TSA EXIS® Support Team conducted usability tests with EXIS® registered users in all five TSA Surface Operations Regions to capture improvement opportunities and best practices.  User feedback indicated information collection during registration was simple, written in plain language, and not a burden.
+
+User feedback indicated a desire to make EXIS® more user-friendly to document exercise planning and exercise outcomes.  As a result, the EXIS® Support Team made usability enhancements to EXIS® that addressed user feedback, including, but not limited to, the following improvements for users:
+
+Simplified EXIS® site navigation links;
+Improved EXIS® Training within the Application;
+Made refreshed Exercise Scenarios available in EXIS®;
+Updated EXIS® screens to be more mobile friendly;
+Added an Exercise Calendar on the EXIS® Home Page;
+Redesigned EXIS® Exercise Analysis workflow to make it simpler to use; and
+Uploaded more stock photos to EXIS® for users to select.
+
+Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above.
+
+TSA is not aware of any other web portal in the government that is designed to generate transportation security training exercises and to record the data/results of such exercises.  The purpose of EXIS® is unique, and therefore any similar information already available cannot be modified to accomplish it.
+
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden.
+
+The collection of information does not have a significant impact on a substantial number of small businesses or other small entities.
+
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+There has been growing demand among government and industry security partners across the nation to expand I-STEP, which TSA developed and implemented to fulfill the 9/11 Act requirement for DHS to establish an exercise program for the TSS.  I-STEP brings public and private sector partners together to exercise, train, share information, and address transportation security issues to protect travelers, commerce, and infrastructure.  Through the program, TSA facilitates modal and intermodal exercises and workshops throughout the country.  The program also provides training support to help modal operators meet their training objectives.
+
+Without EXIS®, there is no similar platform to make this information available.  Using EXIS®, transportation stakeholders have access to a system that will allow them to generate and conduct security exercises, expanding the reach and effectiveness of the I-STEP program and its mission to improve the capabilities of all surface transportation modes to prevent, prepare for, mitigate against, respond to, and recover from acts of terrorism.  EXIS® also collects lessons learned and best practices from such exercises and makes them available for the benefit of members of the TSS that participate in EXIS®.
+
+Because an interactive system like EXIS® requires the user to provide information, without the information collection the user could not make selections and the system would not be able to generate these documents; conversely, without the system-generated documents, the user would not be able to conduct their exercise.  Once the user gains access and logs in, they are prompted to enter a variety of information related to the exercise they would like to create.  This information ranges from basic input fields, such as the name, date, and location of the exercise, to more substantial requirements, including selecting exercise objectives, tasks, and a scenario.  Once the user has submitted their information, the system uses their selections to generate customized exercise documents that are ready to be used to conduct the final exercise.
+
+Failure to collect this information would limit TSA’s ability to effectively test security countermeasures, security plans, and the ability of a modal operator to respond to and quickly recover after a transportation security incident.  The TSS has over 100,000 operators that need support from TSA, and insufficient awareness, prevention, response, and recovery from a transportation security incident would result in increased vulnerability of the U.S. transportation network and a reduced ability of DHS to assess system readiness.  The personnel resource requirements for conducting a security exercise using the resources of the I-STEP program team limit the availability of this resource to transportation stakeholders.  EXIS® is a voluntary, online tool developed by TSA that supports the I-STEP mission by expanding the availability of these resources and enhancing the partnership with TSS stakeholders.  Based on consultations with its TSS stakeholders, TSA developed EXIS® as a technology platform to expand both I-STEP resources and the availabilities of these resources for TSS operators.  EXIS® was designed by the Federal government with input from industry partners to support their risk reduction efforts, both in the initial design of the program and for its ongoing operations.
+
+Failure to collect user registration information would prevent TSA from making this system available to transportation stakeholders as TSA would not have the ability to evaluate whether transportation stakeholders have a “need-to-know” in order to access and use EXIS®.  EXIS® is an SSI-level system.  Therefore, collection of registration information is necessary in order to determine whether users should have access to the system.
+
+In addition, failure to collect/monitor information regarding the nature and scope of the user’s desired exercise would prevent TSA from properly generating a relevant and useful training exercise for the user.  A failure to collect corrective actions, best practices, lessons learned, and After-Action Reports from the user once the exercise is complete would hamper TSA’s attempt to record and document security feedback as well as TSA’s ability to disseminate such information to other members of the TSS.
+
+Finally, a failure to collect feedback on EXIS®’s performance would limit TSA from adjusting the properties and capabilities of EXIS® to better suit the needs of the TSS.
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+TSA will conduct this collection in a manner consistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+Pursuant to 5 CFR 1320.8(d), TSA published a 60-day notice soliciting comments from persons outside of the agency regarding the data collection procedures of EXIS.  See 89 FR 76125 (September 17, 2024).  TSA later published a 30-day notice soliciting further comments.  See 89 FR 96663 (December 5, 2024).  This notice generated no further comments on the collection.
+
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+TSA will not provide payment or gifts to respondents.
+
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+TSA will not provide any assurance of confidentiality to respondents.  TSA will gather and store all information pursuant to the Privacy Act, as applicable, as well as any information deemed SSI pursuant to 49 CFR Part 1520.  The collection is covered by a Privacy Impact Assessment (PIA), DHS/ALL/PIA-006 General Contact Lists (June 15, 2007).  In addition, the collection is covered by the following System of Records Notices, DHS/ALL-004 General Information Technology Access Account Records System and DHS/ALL-002 DHS Mailing and Other Lists System.  See 77 FR 71659 (November 25, 2008) and 73 FR 71659 (November 25, 2018), respectively.
+
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+TSA does not ask questions of a private, sensitive nature.
+
+Provide estimates of hour burden of the collection of information.
+
+TSA estimates the total annualized hour burden for EXIS®’s collection of information to be 11,422.4 hours, and the annualized hour burden cost to be $1,126,500.  TSA estimates that there will be approximately 16,654 primary and secondary access users in 2025; 18,486 users in 2026; and 20,519 users in 2027; for an average annual respondents estimate of 18,553.  Of these, TSA estimates that an average of 4,456 will be primary access users, and the average number of secondary access users will be 12,654 in 2025, 14,046 in 2026, and 15,591 in 2027 (see Table 1).
+
+Table 1: Estimated Population (All Users)
+Year | Full Access Users | Limited  Access Users  | Total Users
+202 5 |                     4,000   |                    12,654   |               16,654  
+202 6 |                     4,440   |                  14,046   |               18,486  
+202 7 |                     4,928   |                  15,591   |               20,519  
+Total | 13,368   |   42,291     |               55,659  
+Annualized |                     4,456   |                  14,097   |               18,553  
+Note: Calculations may not be exact due to rounding in tables.
+
+TSA then estimates the number of full access users that will design and conduct an annual exercise and their hourly burden (Table 2).  Of the full access population (A), TSA estimates 50 percent will conduct one exercise per year.  That number is then multiplied by 3.5 hours, the amount of time spent designing and conducting an exercise.
+
+Table 2: Full Access Exercise Design Burden Hours
+Year | Full Access Users | Primary/Full Access Exercise Design Responses | Hour Burden = Responses x (3.5 hrs)
+ | A |  B = 50% of A | C = B x 3.5
+2025 |                    4,000  |                2,000  |             7,000 
+2026 |                    4,440  |                2,220  |             7,770 
+2027 |                    4,928  |                2,464  |             8,624 
+Total |                   13,368  |                6,684  |           23,394 
+Annualized |                  4,456.0  |                2,228  |             7,798 
+Note: Calculations may not be exact due to rounding in tables.
+
+Next, TSA estimates the number of new limited access users that will design and conduct an annual exercise (Table 3).  TSA estimates that 5 percent of the new limited users will conduct an annual exercise, and multiplies this number by 3.5 hours.
+
+Table 3: New Limited Access Exercise Design Burden Hours
+Year  | New Limited  Access Users | Limited  Access Responses | Hour Burden = Responses x (3.5 hrs)
+ | A |  B = 5% of A | C = B x 3.5
+2025 |                   1,800  | 90.0 | 315.0
+2026 |                   1,392  | 69.6 | 243.6
+2027 |                   1,545  | 77.3 | 270.4
+Total |                   4,737  | 236.9 | 829.0
+Annualized |                1,579.0  | 79.0 | 276.3
+Note: Calculations may not be exact due to rounding in tables.
+
+In addition, TSA estimates that all limited access users not conducting an exercise will participate in a survey (Table 4).  TSA reduced the number of surveys for limited access users from Table 1 per year by the number of limited access users incurring the exercise design burden in Table 3.  The number of limited access users conducting a survey only is multiplied by the amount of time to conduct the survey (15 minutes or 0.25 hour) to obtain the survey hour burden.
+
+Table 4: Limited Access Survey Burden Hours
+Year  | Number of Limited  Access Users | Number of Limited  Access Survey Responses | Hour Burden = Survey Responses x (0.25 hr s )
+ | A | B = 95% of A | B = A x 0.25
+2025 | 12,654 |        12,021.3  |     3,005.3 
+2026 | 14,046 |        13,343.7  |     3,335.9 
+2027 | 15,591 |        14,811.5  |     3,702.9 
+Total | 42,291 |        40,176.5  |   10,044.1 
+Annualized | 14,097 |        13,392.2  |     3,348.0 
+Note: Calculations may not be exact due to rounding in tables.
+
+The sum of the total annualized hour burden for the full access exercise population and limited access population conducting an annual exercise (Tables 2 and 3), plus limited access exercise population participating in a survey only (Table 4), is 11,422.4 hours.  Table 5 provides the calculations.
+
+
+Table 5: Total Hour Burden
+Year  | Full Access Users Exercise Design Burden Hours | Limited Access Users Exercise Design Burden Hours | Limited  Access User Survey Burden Hours | Total Hour Burden
+  | A | B | C | D = A + B + C
+2025 |              7,000  |           315.0  |          3,005.3  |        10,320.3 
+2026 |              7,770  |           243.6  |          3,335.9  |        11,349.5 
+2027 |              8,624  |           270.4  |          3,702.9  |        12,597.2 
+Total |            23,394  |           829.0  |        10,044.1  |        34,267.1 
+Annualized |           7,798.0  |           276.3  |          3,348.0  |        11,422.4 
+Note: Calculations may not be exact due to rounding in tables.
+
+TSA estimates the annualized hour burden cost to respondents to be $1,126,500.  This is calculated based on the annualized respondent hour burden (11,422.4) multiplied by a respondent’s average fully loaded hourly wage rate of $98.62.  See Table 6 for the calculations.
+
+
+Table 6: Respondent Hour Burden Cost
+Year | Respondent Hour Burden | Hour Burden Cost = Response Hours x $ 98.62
+2025 |                10,320.3  | $1,017,814.39
+2026 |                11,349.5  | $1,119,316.48
+2027 |                12,597.2  | $1,242,368.78
+Total |                34,267.1  | $3,379,499.65
+Annualized |                11,422.4  | $1,126,499.88
+Note: Calculations may not be exact due to rounding in tables.
+
+Provide an estimate of the total annual cost burden to respondents or recordkeepers resulting from the collection of information.
+
+TSA estimates no additional costs beyond hour burden for respondents.
+
+Provide estimates of annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information.
+
+TSA estimates the total cost to the Federal government associated with the EXIS® ICR to be approximately $886,729 annually.  This includes TSA staff costs and other infrastructure costs to maintain and update EXIS®.  TSA staff costs were calculated by assuming a H/I band program analyst receiving an annual H/I band blended fully-loaded compensation of $167,819.  Program analysts will each spend roughly 20 hours per week on EXIS®-related duties.  This estimate was used to calculate a TSA full-time employee (FTE) of 1.5 (3 employees multiplied by 20 hours per week multiplied by 52 weeks (3,020) then divided by 2,087 hours.  TSA multiplies $167,819 by 1.5 FTE to estimate a program analyst cost of $251,729.  In addition, TSA estimates the annual contracting cost to be $635,000.00 based on an existing EXIS® contract.  The total annual cost to the Federal government is $251,729 + $635,000 = $886,729, or $2,660,187 over 3 years.  See Table 7.
+Table 7: Annual Cost to Government
+TSA Staff Costs | FTE per year | TSA FTE Costs | Contracting Annual | Total TSA Costs
+A | B | C = A x B  | D | E = C + D
+$167,819.23 | 1.5 | $251,728.84 | $635,000.00 | $886,728.84
+
+Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+TSA is revising the information collection and will no longer collect the Supervisor or other Sponsor’s Name, Employment Verification Contact Name and Verification Contact Information.  The revision does not impact the burden.  However, TSA updated the information collection with the latest data and population assumptions, which caused an increase in the annual responses and subsequently the burden hours.  In the 2022 ICR, TSA estimated the annual responses at 13,186 and the annual burden hours at 7,091.  The current annual responses have increased to 15,699 and the burden to 11,422 annual hours.
+
+For collections of information whose results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+User registration information will not be published.  Information regarding exercise properties, lessons learned, and best practices from past exercises will be made available online to certain users in the aggregate after removal of personal, proprietary, time, date, and location information.
+
+As previously discussed, an EXIS® user has the ability to limit the availability of his/her exercise information to a select group of other EXIS® users by creating an exercise community.  EXIS® communities are not “bulletin boards” in the sense that all members of the community can contribute information.  Rather, the community owner can post information regarding his/her exercise and other community members can only observe the posted information.  Because such information may be SSI, all EXIS® users will have unique usernames and passwords that meet or exceed the DHS standards of SSI access to log into EXIS®.  An SSI Content Management Plan has been approved for EXIS® by the Office of Intelligence, and EXIS® hardware and software have been approved to handle SSI by the Office of Information Technology.
+
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+Not applicable.
+
+Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+Not applicable.
+PART word/footnotes.xml
+
+
+
+See sections 1407 (public transportation), 1516 (railroads), and 1553 (over-the-road buses) of Pub. L. 110-53 (Aug. 3, 2007) as codified at 6 U.S.C. 1136(a)), 1166, and  1183, respectively.
+
+ To the extent that exercise information and results may be SSI in accordance with 49 U.S.C. 114(r) and 49 CFR Part 1520, TSA will protect it as such.
+ See 9/11 Act secs. 1407 (public transportation, codified at 6 U.S.C. 1136(a)), 1516 (railroads, codified at 6 U.S.C. 1166), and 1533 (over-the-road buses, codified at 6 U.S.C. 1183).
+ After the publication of the 60-day notice, TSA’s Intermodal Security Training and Exercise Program Office provided an updated estimate of the number of respondents, moving from 16,713 to 18,553.  As a result, the burden hours are being revised from 10,299 to 11,422.4.
+ TSA calculated the weighted average wage rate of $67.87 for the hourly burden for managers in multiple transportation modes based on past participation per mode and the average hourly wage rate for managers.  TSA used the Bureau of Labor Statistics (BLS) Occupational Employment Statistics (OES) data on Standard Occupation Code (SOC) 11-1021 General and Operations Managers for each transportation mode that has participated in EXIS®. Aviation had 403 participants, NAICS 481000 - Air Transportation had an average hourly wage rate of $74.47), Maritime had 33 participants (NAICS 483000 Water Transportation had an average hourly wage rate of $73.58), Highway and Motor Carrier had 66 participants (485200 Interurban and Rural Bus Transportation had average hourly wages of $58.24), Mass Transit and Passenger Railroads had 165 participants (NAICS 485100 Urban Transit Transportation had an average hourly wage rate of $48.08), Pipeline had 34 participants (NAICS 486000 Pipeline Transportation had an average hourly wage rate of $80.48), Postal and Shipping had three participants (NAICS 491000 Postal Service Transportation had an average hourly wage rate of $76.17), Freight Railroads had 154 participants (NAICS 482000 - Rail Transportation had an average hourly wage rate of $71.75).  TSA then accounts for compensation and benefits with a compensation factor of 1.45314, calculated by total compensation of $46.21 divided by wages of $31.80 for All Civilian Workers.  TSA multiplies the weighted average hourly wage rate $67.87 by 1.45314 to calculate a loaded wage rate of $98.62.  Sources: BLS, OES, SOC, https://www.bls.gov/oes/2023/May/naics3_481000.htm https://www.bls.gov/oes/2023/May/naics3_483000.htm 
+https://www.bls.gov/oes/2023/May/naics3_485200.htm https://www.bls.gov/oes/2023/May/naics4_485100.htm 
+https://www.bls.gov/oes/2023/May/naics3_486000.htm https://www.bls.gov/oes/2023/May/naics3_491000.htm 
+https://www.bls.gov/oes/2023/May/naics3_482000.htm.
+OES data: Last Modified Date: April 3, 2024, Access Date: 10/9/2024.  BLS, Employer Costs for Employee Compensation (ECEC), News Release, Table 1, (Total Compensation for Civilians, Private Sector, Local and State Government Employees). Data as of June 2024, released September 10, 2024. https://www.bls.gov/news.release/archives/ecec_09102024.htm
+ TSA summed the annual fully loaded compensation for H & I band of $155,109 and $180,529, respectively and divided by two to calculate an average of $167,819 blended H/I annual loaded rate.
+ OPM changed the 2080 work hours to 2087 by amending 5 U.S.C. 5504(b), the latter is assumed to capture year-to-year fluctuations in work hours.  Source: Consolidated Omnibus Budget Reconciliation Act of 1985 (Pub. Law 99-272, April 7, 1986).
+
+ See footnote 4.

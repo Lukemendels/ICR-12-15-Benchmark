@@ -1,0 +1,32 @@
+{
+  "ref": "202504-1652-006",
+  "retrieved_at": "2026-09-09T17:25:44.200141+00:00",
+  "documents": [
+    {
+      "id": "caa362cc8f9f7bcf",
+      "title": "1652-0030 TSA_CustCmtTools SS_.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156112902",
+      "path": "mission-3/sources/202504-1652-006/caa362cc8f9f7bcf.txt",
+      "sha256_raw": "5034b4623c9b52a8d9ec0f84099f067ef2606862c25927b83b415a729489475c",
+      "sha256_text": "f38c2e3aefe17a2ee33da7cc86ebbea828dea780ab4210454a2d1b39a88ca0e7",
+      "format": ".docx",
+      "chars": 23086,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-1652-006",
+    "path": "mission-3/sources/202504-1652-006/record.txt",
+    "sha256_raw": "89edcc853810213200c825a6b602daa42457d09f24295ebe6994fcd8e2ee4cbf",
+    "sha256_text": "5ff5e7792acfc3aad797421f2a03872676106c043349604c43e85adb2e0d3ffa"
+  },
+  "previous_ref": "202107-1652-001",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202504-1652-006",
+    "path": "mission-3/sources/202504-1652-006/document_index.txt",
+    "sha256_raw": "21b6bd795723178571e95a9c284f50b74ca092dae863c9de9e80b2992ab2f743",
+    "sha256_text": "bd570e0b22b0fd53059db247488b5c69981cdbb4a0932dc12ce9e5745bf3de42"
+  }
+}

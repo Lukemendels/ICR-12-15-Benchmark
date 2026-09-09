@@ -1,0 +1,32 @@
+{
+  "ref": "202109-1652-008",
+  "retrieved_at": "2026-09-09T17:26:53.013991+00:00",
+  "documents": [
+    {
+      "id": "8cd15670b08f390c",
+      "title": "1652-0055 Pipeline Operator Security Info SS_5.20.2022a.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=114937603",
+      "path": "mission-3/sources/202109-1652-008/8cd15670b08f390c.txt",
+      "sha256_raw": "9dee13b38d3d6164a0320890d977b2b5f4e83d7041a0ea775b704b9e803fc01f",
+      "sha256_text": "357d72ae365a108a61a36d827c9c67a0b8096ab2d8a5674fc72bd0cdd17c4984",
+      "format": ".docx",
+      "chars": 29681,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202109-1652-008",
+    "path": "mission-3/sources/202109-1652-008/record.txt",
+    "sha256_raw": "b6f5831ee062d9857b0776e87e2f1a8b8c217030de52b638d7f9ba879a8a2a26",
+    "sha256_text": "18b1b4c35cfdfa72b7c2d409dc39cca286932d466e9e1ecd89730652037d2e5c"
+  },
+  "previous_ref": "202105-1652-002",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202109-1652-008",
+    "path": "mission-3/sources/202109-1652-008/document_index.txt",
+    "sha256_raw": "175eee84e95df34d53a0a7fd38299736b8f3c5bc5b0004394bef0476a52b845c",
+    "sha256_text": "63350e70f76d19f224a7ea95c4a909ef963030125ad60dba8397e8c721eaac4d"
+  }
+}

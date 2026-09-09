@@ -1,0 +1,32 @@
+{
+  "ref": "202504-1652-004",
+  "retrieved_at": "2026-09-09T17:26:52.555565+00:00",
+  "documents": [
+    {
+      "id": "1d1cba8760d91677",
+      "title": "1652-0051 PhysSurfTransSec SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=155792601",
+      "path": "mission-3/sources/202504-1652-004/1d1cba8760d91677.txt",
+      "sha256_raw": "7392ec742e4ac3e7d42e5c0e9aedbb07774ef299bbd34701c767734834f86533",
+      "sha256_text": "8531cf8315b8c622c923c73ce988f6255267488a2a63db88a7a245ee0be424ef",
+      "format": ".docx",
+      "chars": 51777,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-1652-004",
+    "path": "mission-3/sources/202504-1652-004/record.txt",
+    "sha256_raw": "cbe901d6e34596166333e5a9a5f4c68cd5ea5186565d7fca20ac3481eec0cb12",
+    "sha256_text": "72863696abef88d209f27e00bf1afa72d42daac8f004019eb8e41ed1ffbb4a22"
+  },
+  "previous_ref": "202203-1652-005",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202504-1652-004",
+    "path": "mission-3/sources/202504-1652-004/document_index.txt",
+    "sha256_raw": "b9447c7c9115450e4528f671bf11e7451b1b18a97b6fdd510e59828236157fdc",
+    "sha256_text": "4ccbe50b0f734f27988417e9ed60c9911a4a528093415f10d68debabd5b199eb"
+  }
+}

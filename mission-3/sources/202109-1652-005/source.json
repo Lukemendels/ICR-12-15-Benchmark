@@ -1,0 +1,32 @@
+{
+  "ref": "202109-1652-005",
+  "retrieved_at": "2026-09-09T17:27:35.602523+00:00",
+  "documents": [
+    {
+      "id": "916fc4bc084cbf50",
+      "title": "1652-0063 LEOReimbReq SS_9.30.2021.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=115338101",
+      "path": "mission-3/sources/202109-1652-005/916fc4bc084cbf50.txt",
+      "sha256_raw": "4a243d79472478f4b7383285bafa8ac02e4f6131037e89b996df86d872607198",
+      "sha256_text": "e9bb5151e0d86147f6f190db35bf3a8149fbc2be3648173499cfb1ef2378e749",
+      "format": ".docx",
+      "chars": 14124,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202109-1652-005",
+    "path": "mission-3/sources/202109-1652-005/record.txt",
+    "sha256_raw": "cf2eced68402470bc35961718dec13012e62f683ab2bd91551446dcef3bf9ee3",
+    "sha256_text": "e0d9c2f93b2f119bf1a3ee42a9c76785517df7a5327781f665c60eaee750c97b"
+  },
+  "previous_ref": "201808-1652-002",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202109-1652-005",
+    "path": "mission-3/sources/202109-1652-005/document_index.txt",
+    "sha256_raw": "e9f720d66e0cfb00e8aee3173c0e53c52180953df013c908b81e0a0588b7fc5d",
+    "sha256_text": "aa79907e91f1603563990591b6d18b44e566aa39fbd4df11c5423e6e4d8efd12"
+  }
+}

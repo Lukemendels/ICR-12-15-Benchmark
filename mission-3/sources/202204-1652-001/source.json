@@ -1,0 +1,32 @@
+{
+  "ref": "202204-1652-001",
+  "retrieved_at": "2026-09-09T17:27:13.321805+00:00",
+  "documents": [
+    {
+      "id": "5c22938e07740ced",
+      "title": "1652-0060 AircraftRepStn SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=120262301",
+      "path": "mission-3/sources/202204-1652-001/5c22938e07740ced.txt",
+      "sha256_raw": "1879b41aaac3eac6b1fcb2ee0edb38428db7087de3c2b50d06f03554bc111f47",
+      "sha256_text": "eb29f10ea0940999c6a9b1ee9891a9e18b248517a84b29f75c924a4e8c2a3656",
+      "format": ".docx",
+      "chars": 25516,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202204-1652-001",
+    "path": "mission-3/sources/202204-1652-001/record.txt",
+    "sha256_raw": "e5f39ddf28e4be6ac5fe8082ae0e15c7cc42d628ef51edd792f63393b6a7b583",
+    "sha256_text": "88eb26c9aa4ceab65b726ba92b9cde89deb13f7e653e4ac2fab15e6fe1b82d67"
+  },
+  "previous_ref": "201902-1652-002",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202204-1652-001",
+    "path": "mission-3/sources/202204-1652-001/document_index.txt",
+    "sha256_raw": "ce74e811d5111eb54fc5373b4821c57f7768092dce9bd4af48effde798de9a76",
+    "sha256_text": "f7253830a8ec62009e42dd3960030eacc45d2f41e7caddaf74c45b40f233ef13"
+  }
+}

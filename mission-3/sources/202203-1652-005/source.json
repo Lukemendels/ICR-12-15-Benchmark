@@ -1,0 +1,32 @@
+{
+  "ref": "202203-1652-005",
+  "retrieved_at": "2026-09-09T17:26:52.146936+00:00",
+  "documents": [
+    {
+      "id": "35a6a822d8259881",
+      "title": "1652-0051 RailTranspSec SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=119634701",
+      "path": "mission-3/sources/202203-1652-005/35a6a822d8259881.txt",
+      "sha256_raw": "511ef8058032c6a4f1343548baf9d966a457afd9ad863c2d1947ad93eeb879f7",
+      "sha256_text": "f5b9133f409ffcddcea193bba709b5616b9d7b59f7e0a5dae4cb8fc5c349edd4",
+      "format": ".docx",
+      "chars": 42983,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202203-1652-005",
+    "path": "mission-3/sources/202203-1652-005/record.txt",
+    "sha256_raw": "b57a318798864ea6d332eaca133da759fa6fcc6dc4e573cb03480a75e82a087c",
+    "sha256_text": "f47c55a97d9ad74ee1b347ce426defa52ddc7bc533a58e7772e99f21713850fe"
+  },
+  "previous_ref": "201809-1652-002",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202203-1652-005",
+    "path": "mission-3/sources/202203-1652-005/document_index.txt",
+    "sha256_raw": "44009bc1ba5ffe1d1631ab9cc0a7ff608630a423775a1953d38340820965e522",
+    "sha256_text": "711ed165ed76138fed7b5ba4c167cfca3a45ccde3298bf8cad0b9456729344f7"
+  }
+}

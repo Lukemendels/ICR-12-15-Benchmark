@@ -1,0 +1,32 @@
+{
+  "ref": "202508-1652-001",
+  "retrieved_at": "2026-09-09T17:26:32.502498+00:00",
+  "documents": [
+    {
+      "id": "64500383ca91f536",
+      "title": "1652-0046 SF Prog SS (1.27.2026).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=161038202",
+      "path": "mission-3/sources/202508-1652-001/64500383ca91f536.txt",
+      "sha256_raw": "f0dd02bd0f9515defd47ff8f5a275f25edecaa3c192791d7846aa9b2068e8bb3",
+      "sha256_text": "d33920dfacc32abf61330dc4324fdf6acf2eda0f79bd3b0f2fb2bc23847567f6",
+      "format": ".docx",
+      "chars": 36186,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202508-1652-001",
+    "path": "mission-3/sources/202508-1652-001/record.txt",
+    "sha256_raw": "d8d1c1db191d7b8c7b7a7aa4a01cb9b8d1742e8f425785515c87997efe18d597",
+    "sha256_text": "f812f343c09c0ef72d48c725c76c8bca9d5fc15ad397f429a075dd0f52fa3827"
+  },
+  "previous_ref": "202301-1652-003",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202508-1652-001",
+    "path": "mission-3/sources/202508-1652-001/document_index.txt",
+    "sha256_raw": "ae1d9601ae48a93e345a1f8022e6aa32eff049bf585a6d7c446c22e31137df8d",
+    "sha256_text": "da80b0cf5a0a301952ae2442852522d34d8e27bc68d744c778d96380ee3be910"
+  }
+}

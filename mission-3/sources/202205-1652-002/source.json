@@ -1,0 +1,32 @@
+{
+  "ref": "202205-1652-002",
+  "retrieved_at": "2026-09-09T17:25:46.482529+00:00",
+  "documents": [
+    {
+      "id": "fa0da99226dd3cd2",
+      "title": "1652-0035 EnhSecProcDCA SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=121584801",
+      "path": "mission-3/sources/202205-1652-002/fa0da99226dd3cd2.txt",
+      "sha256_raw": "990a5dacf0b88d32e86439786faa12b9072a6780f5d4805d9aa0f2407fd7dd46",
+      "sha256_text": "bf349a24cdbfe19b91d928affb5e6190fe4688bb14e161d73dbf0c063d10107b",
+      "format": ".docx",
+      "chars": 21988,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202205-1652-002",
+    "path": "mission-3/sources/202205-1652-002/record.txt",
+    "sha256_raw": "7ebab45037f8f49f0b2dcaa61a0e434e75f5a913503098476614971e8e488aca",
+    "sha256_text": "1909346cf8b67ec6997434ef0b47978b4da9e11a1f99e800e410ce5f6567524e"
+  },
+  "previous_ref": "201905-1652-002",
+  "status": "Historical Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202205-1652-002",
+    "path": "mission-3/sources/202205-1652-002/document_index.txt",
+    "sha256_raw": "1888ec8ff639b1dc95878a0879c2dd8d279f4adf87ab6cd3312710faf7e33e79",
+    "sha256_text": "fd42e50b76b45adafd98e7038a8af5a7eb363ef309fc44a331de4105ac0a6a95"
+  }
+}

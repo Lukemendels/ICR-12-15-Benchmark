@@ -1,0 +1,32 @@
+{
+  "ref": "202511-1652-001",
+  "retrieved_at": "2026-09-09T17:26:32.467159+00:00",
+  "documents": [
+    {
+      "id": "6294f56ee7c9fc3c",
+      "title": "1652-0044 DHS TRIP SS Pt. A.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=164321701",
+      "path": "mission-3/sources/202511-1652-001/6294f56ee7c9fc3c.txt",
+      "sha256_raw": "f27f3a1dca9ec203dfffeb7a4424d0da425d0229410d59e802155a35d25b7287",
+      "sha256_text": "5058b97a14736c09a220a07bd65a2c0b2ad5af91d28fca285712b876d140b6e3",
+      "format": ".docx",
+      "chars": 26549,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202511-1652-001",
+    "path": "mission-3/sources/202511-1652-001/record.txt",
+    "sha256_raw": "61785a9cdff00e2a18d8b3e12615547725e7c83ee02b50c2162722e216a031f1",
+    "sha256_text": "50e999f7083beed1783a504b1e69c59fd860bfefb234bbcb4e94a960c8862a6f"
+  },
+  "previous_ref": "202502-1652-003",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202511-1652-001",
+    "path": "mission-3/sources/202511-1652-001/document_index.txt",
+    "sha256_raw": "031e0f59397a5e7fc8363d327f2a5809f746c9ea4b61693bfce53c39094d2c38",
+    "sha256_text": "becd41a10a5b109e914c4ecb7b1b93afdda26acb87ba69aa9b47fc63e5a97c08"
+  }
+}

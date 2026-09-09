@@ -1,0 +1,32 @@
+{
+  "ref": "202605-1652-002",
+  "retrieved_at": "2026-09-09T17:27:13.058736+00:00",
+  "documents": [
+    {
+      "id": "645a4293a181a0d6",
+      "title": "1652-0059 TSA Pre-Check_SS_Part A.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=169153901",
+      "path": "mission-3/sources/202605-1652-002/645a4293a181a0d6.txt",
+      "sha256_raw": "938a05e2ea6c5fe7950a8c0c7c57bf63969279e888b3064beebe311408119213",
+      "sha256_text": "1dc1fcb7cd67e8b23d10e9a59b5f1e1752d9acf3ceb9d35d17168eb4035dac6b",
+      "format": ".docx",
+      "chars": 86028,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202605-1652-002",
+    "path": "mission-3/sources/202605-1652-002/record.txt",
+    "sha256_raw": "33bbf04c3dc7ccda0a05f3700c0da3d726bb84b5253709189239c4f56b1ecfcb",
+    "sha256_text": "299650d2e728e588206c2f3a3a170cba0eb351334ba142cd02122b26a07b182e"
+  },
+  "previous_ref": "202407-1652-001",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202605-1652-002",
+    "path": "mission-3/sources/202605-1652-002/document_index.txt",
+    "sha256_raw": "b6b47d83fffcf44e295f578b5687d8a9b45280751ee1cc6edb471710a351874a",
+    "sha256_text": "53f0c451c6b24fd3442744280eb82551405e1a48b71de601226bd288606a7b11"
+  }
+}

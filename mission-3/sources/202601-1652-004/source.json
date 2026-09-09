@@ -1,0 +1,32 @@
+{
+  "ref": "202601-1652-004",
+  "retrieved_at": "2026-09-09T17:26:52.024972+00:00",
+  "documents": [
+    {
+      "id": "bdc1aca1363f9259",
+      "title": "1652-0050 CFI Pipelines_SS.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=165221700",
+      "path": "mission-3/sources/202601-1652-004/bdc1aca1363f9259.txt",
+      "sha256_raw": "ad1871e60dddda800de56fda1ddd5cf03e9c866958204375c7c75b1ed2a2abde",
+      "sha256_text": "e9281031b996c97466847cb0457d32425b4eeca538483b531385b55aabade990",
+      "format": ".docx",
+      "chars": 21630,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202601-1652-004",
+    "path": "mission-3/sources/202601-1652-004/record.txt",
+    "sha256_raw": "6e48a062195b7f107a2fc5e629439b4a6ab02d2e7f5434b4795dd122dc29aed5",
+    "sha256_text": "a6a0b4bbb751dabe6bad534603c5e39a700ae26cc547dd28534319df0652e033"
+  },
+  "previous_ref": "202109-1652-007",
+  "status": "Received in OIRA",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202601-1652-004",
+    "path": "mission-3/sources/202601-1652-004/document_index.txt",
+    "sha256_raw": "09bbcc53d879a72b5f034c1a2041c04658d801d4b8cbb65dca04299cf2b5f114",
+    "sha256_text": "0bfe219758e49ad978207f99b02577c293188932f42ad71b8110ba529f25399c"
+  }
+}

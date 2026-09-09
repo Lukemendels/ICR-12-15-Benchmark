@@ -1,0 +1,32 @@
+{
+  "ref": "202305-1652-002",
+  "retrieved_at": "2026-09-09T17:26:08.691731+00:00",
+  "documents": [
+    {
+      "id": "fcb8205d5c75331a",
+      "title": "1652-0043 LEFAMS PMHC SS 5.2.2023.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=131581601",
+      "path": "mission-3/sources/202305-1652-002/fcb8205d5c75331a.txt",
+      "sha256_raw": "8053771416de284c899bd1a974ffd65f9af21476c9c6b354a4e0b62094fee502",
+      "sha256_text": "99623e3be098bd8b280b1fcef8224ecb6c80c68e62393fd1066b07fbb44541ad",
+      "format": ".docx",
+      "chars": 18326,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202305-1652-002",
+    "path": "mission-3/sources/202305-1652-002/record.txt",
+    "sha256_raw": "7f905d53fcc19fc672bdadc42b0f67269c270617a7c4953a9f0b940a96e4d3db",
+    "sha256_text": "ecb13e392b735bb9034e1ceccf457ef4f1c1bd14a38b020f516c4271141e64cc"
+  },
+  "previous_ref": "201906-1652-001",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202305-1652-002",
+    "path": "mission-3/sources/202305-1652-002/document_index.txt",
+    "sha256_raw": "7bd45dec3720864e96161561c35504e488cddc1d3f58087810e2e6b6135a1da0",
+    "sha256_text": "3efdbb389b807aba1d292e36831e0a6c6952b012ac41543859cfa9359ba416be"
+  }
+}

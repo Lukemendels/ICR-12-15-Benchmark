@@ -1,0 +1,283 @@
+PART word/document.xml
+
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.  (Annotate the CFR parts/sections affected).
+
+The Transportation Security Administration (TSA) was established by the Aviation and Transportation Security Act (ATSA) as the primary federal authority to enhance security for all modes of transportation.  The scope of TSA’s authority includes assessing security risks, developing security measures to address identified risks, and enforcing compliance with these measures.  TSA also has broad regulatory authority to issue, rescind, revise, and enforce, regulations as necessary to carry out its transportation security functions.
+
+As part of the Implementing Recommendations of the 9/11 Commission Act of 2007 (9/11 Act), Congress directed TSA to use its regulatory authority to enhance surface transportation security through regulations addressing the following issues: (1) security training of frontline public transportation, railroad, and over-the-road bus (OTRB) employees, including prescriptive requirements for who must be trained, what the training must encompass, and how to submit and obtain approval for a training program; (2) vetting of frontline employees and security coordinators; and vulnerability assessments and security plans for higher-risk operations.  The 9/11 Act also mandates regulations requiring higher-risk railroads and OTRBs to appoint security coordinators.
+
+Pursuant to this authority, on March 23, 2020, TSA issued the final rule, Security Training for Surface Transportation Employees, which set-up a structure for a security program for surface transportation operations that would eventually incorporate all of the previous requirements mandated by the 9/11 Act.  See 49 CFR parts 1500, 1520, 1570, 1580, 1582, and 1584.  Through these regulations, TSA established the requirement for higher-risk public transportation agencies and passenger railroads (PTPR), freight railroads, and OTRBs to submit a security program to TSA for approval, with the first requirement to address security training of security-sensitive employees (a term defined to align with the 9/11 Act’s definition of “frontline employees”).  See 49 CFR 1580.101, 1582.101 and 1584.101.  TSA would address additional requirements for the security program in future rulemakings promulgated through the notice-and-comment process.
+
+As described below, this regulation requires the collection of information to implement the regulatory requirements.
+
+Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+TSA collects and uses this information to validate compliance with the regulatory requirements.  For purposes of this collection, the regulated person (the person responsible for compliance and liable for failure to comply) is the owner/operator of the public transportation systems, railroads, and OTRB companies within the final rule’s applicability.  See infra, section 12, “Respondent Population Categories,” for more detail on the final rule’s applicability for security training requirements.
+
+Security Training Program.  Each person required to have a security training program needs to submit the program to TSA for approval to ensure that the program meets the required program elements.  TSA then reviews the program submitted to verify that the training program satisfies the regulatory requirements.  TSA uses the information collected to approve the training program, or provide required modifications to be compliant with the regulation.  Initial security training of security sensitive employees is required 1 year from the date of TSA approval of the security training program.  Recurrent security training is required every 3 years from the date of the initial security training.  As discussed in section II.J.2 of the final rule, owner/operators may use “refresher training” with a different curriculum, such as a shorter, refresher version of training, to meet the recurrent training.  See also 49 CFR 1580.113(b)(6), 1582.113(b)(6), 1584.113(b)(6).  If the recurrent, refresher, security training materials differ from the initial security training materials, owner/operators will need to submit the recurrent training materials to TSA for approval.  Owner/operators will also need to submit any revisions or updates of their training materials to TSA for approval.
+
+Security Training Records.  Each owner/operator is required to maintain security training records for each individual trained for no less than 5 years from the date of the training.  This record retention schedule is necessary to validate compliance with the requirement to provide triennial training.  They need to retain records at the location(s) specified in the security training program.  Owner/operators are required to make the records available to TSA upon request for inspection and copying.  TSA needs this information to provide documentation regarding compliance with the requirement to provide training to employees consistent with the schedule specified by the final rule.
+
+Security Coordinator Information.  Public transportation, railroad, and OTRB entities determined by TSA to be higher-risk are required to designate, and provide to TSA the contact information of a primary and at least one alternate security coordinator.  This information collection applies to populations not currently covered under OMB 1652-0051 (Rail Transportation Security), which reflects the requirements in current 49 CFR 1570.201.  Security coordinator contact information, submitted to TSA via email or regular mail, provide a primary contact for intelligence information, security related activities, and communications with TSA concerning threat information, security procedures, or coordinating incident or threat responses with appropriate law enforcement and emergency response agencies.
+
+Cybersecurity Coordinator of Public transportation, railroad, and OTRB entities determined by TSA to be higher-risk are required to designate a Cybersecurity Coordinator and report cybersecurity incidents to Cybersecurity and Infrastructure Security Agency.  See OMB 1652-0074 (Cybersecurity Measures for Surface Mode). 
+
+Reporting Significant Security Concerns Information.  Public transportation, railroad, and OTRB entities determined by TSA to be higher-risk are required to report potential threats and significant security concerns to TSA, within 24 hours of initial discovery.  This information collection applies to populations not currently covered under OMB 1652-0051 (Rail Transportation Security) which reflects the requirements in current 49 CFR 1570.201.  TSA uses this reported information to analyze trends and indicators of developing threats and potential terrorist activity.
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.  [Effective 03/22/01, your response must SPECIFICALLY reference the Government Paperwork Elimination Act (GPEA), which addresses electronic filing and recordkeeping, and what you are doing to adhere to it.  You must explain how you will provide a fully electronic reporting option by October 2003, or an explanation of why this is not practicable.]
+
+TSA complies with the Government Paperwork Elimination Act to reduce the burden on covered entities by encouraging electronic submissions and retention of the information collections in this final rule.
+
+Security Training Program.  Each person subject to the regulatory requirements submits their respective security training programs electronically, through email, or by regular mail.  Implicit in this requirement is the necessity of ensuring the submission method chosen allows TSA access to the content.
+
+Security Training Records.  Each person subject to the regulatory requirements have the latitude and flexibility to maintain the required security training records in a manner that best meets their particular needs, including maintaining the information electronically.  An owner/operator could maintain and transfer records through electronic transmission, storage, and retrieval if they meet the standards required by the final rule.  Implicit in this requirement is the necessity of ensuring the method used to maintain records does not prevent TSA’s access to the content of the records for purposes of inspection, review, and copying.
+
+Security Coordinator Contact Information.  Entities submit security coordinator contact information via email or regular mail, using a TSA provided form.
+
+Usability Study Requirement.  TSA completed a usability study on the security coordinator contact information data request table.  The purpose of the study was to determine the ease of use of the data request table to provide the required primary and alternate security coordinator contact information to TSA.  The study included four participants.  All participants were TSA employees assigned to Policy, Plans, and Engagement – Surface and Surface Operations. One of the participants regularly administered the data request but never completed it as a user.  The remaining participants were not active users and had not previously used the data request table.  TSA found that all participants completed the table without assistance and found the instructions easy to understand.  Most users explicitly stated that the table was easy to use.  However, the participants provided recommendations for technical improvement.  In particular, participants recommended that the Tab function would expedite the task of filling out the table; the table should state that the highlighted sections need to be filled out; the table should explain the function of the primary and alternate security coordinator at the start; the table should clarify that the user should provide work, not personal email; and it might be easier to provide the information if the request was in list form instead of a table.  TSA implemented all the participants’ recommendations.  However, TSA chose to keep the table format of the data request as it best meets program needs.
+
+Reporting Significant Security Concerns Information.  TSA collects significant security concerns and associated information telephonically or by other electronic means designated by TSA.
+
+Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above. 
+
+This regulation requires reporting of significant security concerns.  The regulation provides examples of what constitutes a “security concern.”  It is not an “all hazards” reporting requirement, particularly as there are other agencies with responsibility for all hazards.  For example, the Coast Guard is the federal point of contact for reporting all hazardous substances releases and oil spills to inform response and recovery efforts.  TSA’s purpose for collecting this information is not oriented to accidents but rather to discern potential threats and significant security concerns.
+
+Implementation of the regulation also results in information collected to determine if a covered entity’s security-sensitive employees are being provided effective security training and to establish a seamless and expeditious capability to contact industry for communicating intelligence information.  TSA contacted the relevant modal administrations of the Department of Transportation, including the Pipeline and Hazardous Materials Safety Administration and the Federal Railroad Administration; and the Nuclear Regulatory Commission who concur that these reporting requirements are not duplicative of their respective requirements because each supports a particular agency mission and programmatic purpose. 
+
+TSA developed security directives and information circulars for cybersecurity, which apply to a portion of the same population.   See OMB 1652-0074.  TSA developed the cybersecurity requirements in consultation with CISA and in coordination with the Department of Transportation, Department of Defense, and other applicable agencies. TSA requires reporting of certain information directly to CISA, which CISA shares with TSA to reduce duplication.  
+
+ 
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden. 
+
+This collection does not have a significant impact on a substantial number of small businesses or other small entities.
+
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+If the information is not collected in the manner prescribed by the final rule, TSA will not be able to achieve the congressionally mandated requirement set forth in the 9/11 Act.  Lack of this information will hinder TSA’s responsibility to assess vulnerabilities and carryout requirements to protect the traveling public and secure the Nation’s surface transportation system.
+
+Security Training Program.  Without the collection of security training programs from persons subject to the regulatory requirements, TSA is unable to verify if regulated owner/operators are fulfilling the requirements of this regulation or provide feedback when a security training program warrants modification.  If TSA determines the program submitted meets the regulatory requirements, the owner/operator does not need to submit additional programs to TSA unless or until amendments or updates are required.  If modifications are required, the owner/operator need to re-submit their training program as many times as necessary to obtain TSA-approval.  As such, it is not practical for TSA to reduce the frequency of collection.
+
+Security Training Records.  Without a security training records requirement, TSA would be unable to verify that a person subject to the regulatory requirements is complying with the final rule’s requirements in the manner and schedule stipulated in the TSA-approved training program.  A less frequent retention schedule would adversely affect the inspection process and impede verification of compliance with a regulatory requirement.
+
+Security Coordinator Information.  TSA is responsible for sharing intelligence and other risk information relevant to the transportation industry.  Lack of security coordinator information impedes TSA’s ability to share information, potentially resulting in diminished capability for the industry and government to assess and respond to threats, incidents, and other security-related actions.
+
+Significant Security Concerns Information.  The lack of reporting of significant security concerns impedes TSA’s ability to analyze potential security-risk information and recognize trends that warrant a Federal response.
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+Based on the reasons discussed above, the purposes of this information collection will not be met if collection is conducted in a manner consistent with the general information collection guidelines of 5 CFR 1320.5(d)(2)(i) and 5 CFR 1320.5(d)(2)(iv).
+
+In order for TSA to analyze potential security-risk information and recognize trends warranting a federal response, it is critical for the regulated entities to report significant security concerns within 24 hours of initial discovery.  Quarterly reporting will not meet this purpose.
+
+Under the regulation, TSA provides for owner/operators to recognize security training that employees may have received from another employer if it meets the regulatory requirements.  TSA believes owner/operators need to maintain training records for no less than 5 years to ensure the information is available for documentation of previous training.
+
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+TSA published a Federal Register notice, with a 60-day comment period soliciting comments of the collection of information.  See 88 FR 1397 (January 10, 2023).  Additionally, TSA published a 30-day notice in the Federal Register.  See 88 FR 23681 (April 18, 2023).  These notices did not generate any comments on the collection of information.
+
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+TSA does not provide any payment or gift to respondents.
+
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+While there is no assurance of confidentiality provided to the respondents, TSA protects information collected from disclosure to the extent appropriate under applicable provisions of the Freedom of Information Act, Federal Information Security Management Act, E-Government Act, and Privacy Act of 1974.  TSA would also appropriately treat any information collected that it determines is Sensitive Security Information and/or Personally Identifiable Information, consistent with the requirements of 49 CFR 1520 and OMB Guidance, M-07-16.
+
+Privacy Impact Assessment (PIA) coverage for this collection is provided under DHS/TSA/PIA-029 TSA Operations Center Incident Management System.  This PIA outlines the use of the WebEOC incident management system to perform incident management, coordination, and situational awareness functions for all modes of transportation.
+
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+TSA does not ask any questions of sensitive nature.
+
+Provide estimates of hour burden of the collection of information.
+
+Respondent Population Categories
+
+Freight Railroad Owner/operators:  Freight Railroad owner/operators that fall within the applicability for security training requirements under 49 CFR 1580.101 submit information regarding security training programs under this information collection request (ICR).  The scope is limited to Class I freight railroads and freight railroads that transport Rail Security Sensitive Material in High Threat Urban Areas or that host higher-risk passenger operations.  28 freight railroads owner/operators fall within this scope and are annual respondents.  TSA does not expect any change in the number of freight railroad owner/operators that fall under this ICR.  This population has already submitted Security Training Plans (STPs) under the Security Training Program Final Rule, and information regarding security coordinators and significant security concerns, approved under OMB 1652-0051 (Rail Transportation Security).
+
+Public Transportation and Passenger Railroad Owner/operators: Public Transportation and Passenger Railroad (PTPR) owner/operators that fall within the applicability for security training requirements under 49 CFR § 1582.101 submit responses under this ICR.  This includes Amtrak (also known as the National Railroad Passenger Corporation) and public transportation and passenger railroads that operate in the eight higher-risk public transportation regions listed in Appendix A of part 1582.  48 PTPR owner/operators fall within this scope and are annual respondents.  TSA does not expect any change to the number of PTPR owner/operators that fall under this ICR.  This population has already submitted STPs to TSA under the Security Training Program Final Rule.  A significant portion of this population was previously required to submit information regarding security coordinators and significant security concerns under the information collection from that portion of the population approved under OMB 1652-0051 (Rail Transportation Security).
+
+OTRB Owner/operators: OTRB owner/operators fall within the applicability for security training requirements under 49 CFR 1584.101.  This applicability includes OTRB operations that provide fixed-route service in high-risk areas identified in Appendix A of 49 CFR 1584.  Currently, 70 OTRB owner/operators have voluntarily self-reported their STPs to TSA.  TSA assumes the population of OTRB owner/operators submitting STPs will increase by three per month (36 per year).
+
+A summary of the respondents for this information collection is depicted in Table 1.
+
+Table 1: Respondent Summary |  | 
+  | FR | PTPR | OTRB | Total Respondents
+  | A | B | C = 70 +  ( 36  new    respondents  per year ) | D = A + B + C
+Year 1 | 28 | 48 | 106 | 182
+Year 2 | 28 | 48 | 142 | 218
+Year 3 | 28 | 48 | 178 | 254
+Average | 28 | 48 | 142 | 218
+
+Information Collection
+
+This information collection requires that each respondent submit training programs and security coordinator information, create and maintain security training records, and report information regarding significant security concerns.  TSA estimates the average annual burden in hours for each respondent category and the costs associated with them below.  Calculations in this section may not total exactly due to rounding in the text.
+
+Security Training Program Creation and Submission.  The final rule requires that respondents submit training programs to TSA.
+
+Freight Railroad Owner/operators: All freight railroad owner/operators required to submit STPs have already done so.  However, TSA estimates 10 percent of the freight railroad owner/operators will amend their STPs each year.  It takes approximately 8 hours to amend an STP, and TSA applies a wage rate of $98.04 for the Freight Railroad Security Coordinator.  The burden estimate to freight rail entities is depicted in Table 2.
+
+Table 2: Burden Estimate for Freight Rail STP Amendments | 
+  | Number of FR Owner/Operators Amending STP | Time Burden to Amend STP (Hours) | Total Time Burden (Hours) | Wage Rate ($) | Time Burden Cost ($)
+  | A | B  | C = A x B | D | E = C x D
+Year 1 | 2.8 | 8 | 22.4 | $98.04  | $2,196 
+Year 2 | 2.8 |  | 22.4 |  | $2,196
+Year 3 | 2.8 |  | 22.4 |  | $2,196 
+Total | 8.4 |   | 67.2 |   | $6,588
+Average | 2.8 |   | 22.4 |   | $2,196
+
+Public Transportation and Passenger Railroad Owner/operators: All PTPR owner/operators required to submit security training programs have already done so.  However, TSA estimates 10 percent of the PTPR owner/operators will amend their STPs each year.  It takes approximately 8 hours to amend an STP, and TSA applies a wage rate of $87.18 for the PTPR security coordinator.  The burden estimate to PTPR entities is depicted in Table 3.
+
+Table 3: Burden Estimate for PTPR STP Amendments | 
+  | Number of PTPR Owner/Operators Amending STP | Time Burden to Amend STP (Hours) | Total Time Burden (Hours) | Wage Rate ($) | Time Burden Cost
+  | A | B  | C = A x B | D | E  =  C  x  D
+Year 1 | 4.8 | 8 | 38.4 | $87.18 | $3,34 8
+Year 2 | 4.8 |  | 38.4 |  | $3,34 8
+Year 3 | 4.8 |  | 38.4 |  | $3,34 8
+Total | 14.4 |   | 115.2 |   | $10,04 4
+Average | 4.8 |   | 38.4 |   | $3,34 8
+
+OTRB Owner/operators: Currently 70 OTRB owner/operators have self-reported their STPs to TSA.  TSA expects approximately 36 additional OTRB owner/operators to do so each year.  TSA estimates an average of 36 hours to develop and submit an STP.  TSA estimated 90 percent of submitted STPs will need to be modified before they are approved, and it takes 25 hours to do each modification.  Finally, TSA estimates 10 percent of OTRB owner/operators will amend their STPs each year, and it takes 8 hours to amend an STP.  TSA applies a wage rate of $87.18 for the OTRB security coordinator. The time burden and cost estimate is depicted in Table 4.
+
+Table 4: Burden Estimate for OTRB STP Development, Modifications, and Amendments
+  | Number of  Additional  STPs | Time Burden Per STP (Hours) | Total Time Burden for STP Development (Hours) | Number of STPs Modified | Time Burden  per Modified STP | Total Time Burden for STP Modifications (Hours) | Number of OTRB Owner/Operators Amending STP | Time to Amend STP (Hours) | Total Time Burden to Amend STP (Hours) | Total Time Burden for STP s  (Hours) | Wage Rate ($) | Time Burden Cost ($)
+  | A | B | C = A x B | D | E | F = D x E | G | H | I = G x H | J = C + F + I | K | L = J x K
+Year 1 | 36 | 36 |        1,296  | 32.4 | 25 | 810 | 10.6 | 8 | 84.8 |     2,190.8  | $87.18 | $190,993.94
+Year 2 | 36 |  |        1,296  | 32.4 |  | 810 | 14.2 |  | 113.6 |     2,219.6  |  | $193,504.73
+Year 3 | 36 |  |        1,296  | 32.4 |  | 810 | 17.8 |  | 142.4 |     2,248.4  |  | $196,015.51
+Total | 108 |   |        3,888  | 97.2 |   |        2,430  | 42.6 |   | 340.8 |     6,658.8  |   | $580,514.18
+Average | 36 |   |        1,296  |   |   | 810 | 14.2 |   | 113.6 |     2,219.6  |   | $193,504.73
+
+Security Coordinator POC Information Reporting.  This requirement applies to populations not currently covered under 1652-0051 Rail Transportation Security for Freight Rail and PTPR owner/operators.  TSA estimates 36 new OTRB operators will report POC info on security coordinators and alternates each year, and that it takes 30 minutes (0.5 hours) to report this information.  TSA uses a fully-loaded wage rate of $87.18 for the OTRB security coordinator.  This information is depicted in Table 5.
+
+Table 5: Burden Estimate for Security Coordinator Information Submission
+  | Number of New Responses | Time Burden Per Response (Hours) | Total Time Burden (Hours) | Wage Rate ($) | Total Time Burden Cost ($)
+  | A | B | C  =  A  x  B | D | E  =  E  x  F
+Year 1 | 36 | 0.5 | 18 | $87.18 | $1,569
+Year 2 | 36 |  | 18 |  | $1,569
+Year 3 | 36 |  | 18 |  | $1,569
+Total | 108 |   | 54 |   | $4,708
+Average | 36 |   | 18 |   | $1,569
+
+Recordkeeping.  The Security Training Rule requires that respondents maintain the training records of their security-sensitive employees.  After initial training, covered entities must update individual employee training records to reflect security training being received every 3 years.  The average annual responses would vary depending on the number of employees that an owner/operator trains in a given year.
+
+Freight Railroad Owner/operators: TSA estimates 28 freight railroad operators will conduct training for each employee once every 3 years, and their training records will be updated after each training.  TSA estimates an average of 45,385 current employees will be trained each year.  In addition, freight railroads will create 4,750 new training records per year due to employee turnover.  TSA estimates that each record has a time burden of 1 minute (0.01667 hours) to be created and/or updated.  TSA estimates the annual burden cost by multiplying the time burden by the industry compensation rate for an Administrative Assistant ($38.95).  The average annual cost of freight railroad carrier recordkeeping is depicted in Table 6.
+
+Table 6: Burden Estimate for FR Employee Training Recordkeeping 
+  | Updates to Current FR Training Records | New FR Training Records from Turnover | Time Per Training Record (Hours) | Total FR Time Burden (Hours) | FR Wage Rate | Total FR Time Burden Cost
+  | A | B | C | D = (A + B) x C | E | F = D x E
+Year 1 | 45,385 | 4,750 | 0.01667 | 836 | $38.95 | $32,546
+Year 2 | 45,385 | 4,750 |  | 836 |  | $32,546
+Year 3 | 45,385 | 4,750 |  | 836 |  | $32,546
+Total | 136,155 | 14,250 |   | 2,507 |   | $97,638
+Average | 45,385 | 4,750 |   | 836 |   | $32,546
+
+Public Transportation and Passenger Railroad Owner/operators: TSA estimates that the 47 PTPR respondents will conduct security training for each employee once every 3 years, and their records will be updated after each training.  TSA estimates an average of 61,406 current employees will be trained each year.  In addition, TSA estimates an average of 2,754 new training records due to turnover each year.  TSA estimates that each record has a time burden of 1 minute (0.01667 hours).  TSA estimates the average annual cost by multiplying the average annual time burden by the average industry compensation rate for a PTPR Administrative Assistant ($35.55).  The average annual cost of PTPR owner/operators recordkeeping is depicted in Table 7.
+
+Table 7: Burden Estimate for PTPR Recordkeeping
+  | Updates to Current PTPR Training Records | New PTPR Training Records from Turnover | Time Per Training Record (Hours) | Total PTPR Time Burden (Hours) | PTPR Wage Rate | Total FR Time Burden Cost
+  |   | A | B | C = A x B | D | E = C x D
+Year 1 | 61,406 | 2,754 | 0.01667 | 1,069 | $35.55 | $38,015
+Year 2 | 61,406 | 2,754 |  | 1,069 |  | $38,015
+Year 3 | 61,406 | 2,754 |  | 1,069 |  | $38,015
+Total | 184,217 | 8,262 |   | 3,208 |   | $114,044
+Average | 61,406 | 2,754 |   | 1,069 |   | $38,015
+
+OTRB Owner/operators: TSA estimates that the 70 OTRB current owner/operators will conduct security training for each employee once every 3 years, and their records will be updated after each training.  TSA estimates an average of 3,663 current employees will be trained each year.  In addition, TSA estimates an average of 3,900 new training records due to turnover, and that 36 new OTRB owner/operators will create training records for their existing employees each year.  TSA estimates each new OTRB respondent has 157 employees who require security training, or a total of 36 x 157 = 5,652 responses.  TSA estimates that each response would have a time burden of 1 minute (0.01667 hours).  TSA estimates the average annual cost by multiplying the average annual time burden by the average industry compensation rate for an OTRB Administrative Assistant ($25.60).  The average annual cost of OTRB owner/operators recordkeeping is depicted in Table 8.
+
+Table 8: Burden Estimate for OTRB Recordkeeping
+  | Updates to Current OTRB Training Records | OTRB Training Records from New Entities | OTRB Training Records from Turnover | Total OTRB Training Records | Time Per Training Record (Hours) | Total Time Burden (Hours) | OTRB Wage Rate ($) | Total FR Time Burden Cost ($)
+  | A | B | C | D = A + B + C | D | E =  C x D | F | G = E x F
+Year 1 | 3,663 | 5,652 | 3,900 | 13,215 | 0.01667 | 220 | $25.60 | $5,639
+Year 2 | 3,663 | 5,652 | 3,900 | 13,215 |  | 220 |  | $5,639
+Year 3 | 3,663 | 5,652 | 3,900 | 13,215 |  | 220 |  | $5,639
+Total | 10,990 | 16,956 | 11,700 | 39,646 |   | 661 |   | $16,916
+Average | 3,663 | 5,652 | 3,900 | 13,215 |   | 220 |   | $5,639
+
+Incident Reporting.  The Security Training final rule requires that respondents report significant security incidents to TSA.  TSA uses internal historical data on incident reporting to estimate the annual number of responses per respondent.
+
+Rail (Freight and PTPR) owner/operators: All Freight Rail and the PTPR owner/operators that conduct rail operations report significant security incidents under 1652-0051.  This collection only applies to PTPR owner/operators without rail operations, who are required to report information under this collection.  TSA estimates these entities will report an average of 194 incidents per year.  Based on internal historical evidence, TSA estimates that each response would require three minutes (0.05 hours) of time.  TSA estimates an average hour burden of 9.7 for PTPR owner/operators by multiplying the average number of reports by the hours of time (194 incidents x 0.05 hours).
+
+OTRB Owner/operators: TSA estimates that 142 OTRB respondents would report significant security incidents to TSA during the next 3 years and would report an annual average of 3,797 incidents.  TSA estimates an average annual hour burden of 190 hours by multiplying the average annual number of reports by the hours of time (3,797 incidents x 0.05 hours).  TSA estimates the average annual cost by multiplying the average annual hour burden by the average industry compensation rate for an OTRB security coordinator ($87.18) The average annual cost of incident reporting for OTRB owner/operators is $17,396 (200 hours x $87.18).
+
+Table 9 displays the total time burden and cost estimates for this information collection.
+
+Table 9: Total Public Burden |  |  |  |  |  |  |  | 
+  | Security Training Programs | Security Coordinator POC Reporting | Security Training Recordkeeping | Security Incident Reporting | All Requirements
+  | Total Burden Hours | Total Burden Cost | Total Burden Hours | Total Burden Cost | Total Burden Hours  | Total Burden Cost | Total Burden Hours | Total Burden Cost | Total Burden Hours | Total Burden Cost
+  | A | B | C | D | E | F | G | H | I = A + C + E + G | J = B + D +F + H
+Year 1 |        2,252  | $196,538  | 18 | $1,569 |               2,125  | $76,199 |            200  | $17,396 |            4,594  | $291,702
+Year 2 |        2,280  | $199,049  | 18 | $1,569 |               2,125  | $76,199 |            200  | $17,396 |            4,623  | $294,213
+Year 3 |        2,309  | $201,559  | 18 | $1,569 |               2,125  | $76,199 |            200  | $17,396 |            4,652  | $296,724
+Total |        6,841  | $597,146 | 54 | $4,708 |               6,376  | $228,597 | 600 | $52,188 |          13,869  | $882,639
+Average |        2,280  | $199,049 | 18 | $1,569 |               2,125  | $76,199 | 200 | $17,396 |            4,623  | $294,213
+
+Provide an estimate of the total annual cost burden to respondents or recordkeepers resulting from the collection of information.
+
+TSA assumes five percent of entities keep paper copies of training records, and estimates a printing cost of $0.03828 per record.  For the purposes of this analysis, TSA adds the number of employees trained annually by freight railroads (50,135), PTPR (64,160), and OTRB (13,160) owner/operators, multiplies the value by five percent, and finally by $0.038 to get a total recordkeeping costs of $244 per year.
+ 
+Provide estimates of annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information
+
+TSA estimates the total cost to the Federal Government associated with the information collections identified in this request amount to be approximately $31,092 annually.  This cost occurs from conducting Security Program Reviews, Security Coordinator Information Reviews, and Security Incident Report Processing.
+
+Security Program Reviews.  TSA estimates it will review 36 new Security Training Programs per year.  Of these, 32 will require modifications, and will be resubmitted. TSA estimates it takes 2 hours to review each STP, and 2 hours to conduct a modification review.  Therefore, the time burden to TSA is (36 + 32) x 2 hours = 136.  This value is multiplied by the TSA compensation rate of a TSA analysts of $68.80.
+
+Security Coordinator Information.  Review and filing of security coordinator information cost burden on the Federal government was determined by multiplying the estimated number of submissions of each covered mode of transportation by a review time of 10 minutes (0.167 hours) for the average annual hour burden.  TSA estimates that a total of 36 submissions of security coordinator contact information will be sent by OTRB owner/operators each year.  The time burden to TSA is the average annual hour burden from these submissions was then multiplied by the TSA compensation rate of a TSA analyst of $68.80.
+
+Incident Report Processing.  Reporting of incidents cost burden on the Federal government was determined by approximating the number of reports submitted annually and multiplying it by the estimated time of 3 minutes (0.05 hours) to complete a report for the average annual hour burden.  TSA estimates that an average of significant security incidents are reported to TSA each year.  The average annual hour burden from these submissions is then multiplied by the TSA compensation rate of a TSA analyst of $68.80.
+
+Table 10 shows TSA costs for information collections associated with each of the respondents. 
+
+Table 10: TSA Costs
+  | Security Program Reviews | Security Coordinator Information | Security Incident Report Processing
+  | Number Processed | Time Per Review | Wage Rate | Total Cost | Number Processed | Time Per Review | Wage Rate | Total Cost | Number Processed | Time Per Review | Wage Rate | Total Cost
+ | A | B | C | D = A x B x C | E | F | G | H = E x F x G | I | J | K | L = I x J x K
+Year 1 | 87 | 2 | $68.80 | $11,915 | 36 | 2 | $68.80 | $4,953 | 3,991 | 0.05 | $68.80 | $13,728
+Year 2 | 90 |  |  | $12,411 | 36 |  |  | $4,953 | 3,991 |  |  | $13,728
+Year 3 | 94 |  |  | $12,906 | 36 |  |  | $4,953 | 3,991 |  |  | $13,728
+Total  | 271 |   |   | $37,232 | 108 |   |   | $14,860 | 11,972 |   |   | $41,183
+Average | 90 |   |   | $12,411 | 36 |   |   | $4,953 | 3,991 |   |   | $13,728
+
+The total Federal Government cost is $31,092 annually (12,411 + $4,953 + $13,728 = $31,092).
+
+Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+No program changes were made.  However, TSA adjusted the STPs’ respondents as freight railroad and PTPR owner/operators required to submit STPs have already completed this requirement and now only submit amendments.  TSA is not anticipating any new STPs for freight railroad and PTPR owner/operators.  In addition, TSA adjusted the respondents for recordkeeping and reporting, using actual data from the past three years.  
+
+For collections of information whose results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+TSA will not publish the results of this collection.
+
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+TSA is not seeking such approval.
+
+Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+TSA is not seeking any exceptions.
+
+
+PART word/footnotes.xml
+
+
+
+ Pub. L. 107-71 (115 Stat. 597; Nov. 19, 2001).  ATSA created TSA as a component of the Department of Transportation.  Section 403(2) of the Homeland Security Act of 2002 (HSA), Pub. L. 107-296 (116 Stat. 2135; Nov. 25, 2002), transferred all functions related to transportation security, including those of the Secretary of Transportation and the Under Secretary of Transportation for Security, to the Secretary of Homeland Security.  Pursuant to DHS Delegation Number 7060.2, the Secretary delegated to the Administrator, subject to the Secretary’s guidance and control, the authority vested in the Secretary with respect to TSA, including the authority in sec. 403(2) of the HSA.
+ See 49 U.S.C.§ 114, which codified section 101 of ATSA.
+ Id.
+ Pub. L. 110-53 (121 Stat. 266; Aug. 3, 2007).
+ See secs. 1408, 1517, and 1534 of the 9/11 Act, codified at 6 U.S.C. §§ 1137, 1167, and 1184, respectively.
+ Id. at secs. 1411, 1512, 1520, and 1531, as codified at 6 U.S.C. §§ 1411, 1512, and 1531 (section 1520 of the 9/11 Act is uncodified).
+ Id. at secs. 1405, 1512, and 1531, as codified at 6 U.S.C. §§ 1405, 1512, and 1531.
+ See secs. 1512 and 1531 of the 9/11 Act, codified at 6 U.S.C. §§ 1162 and 1181, respectively. TSA addresses 1512(e)(1)(A) and 1531(e)(1)(A) in the final rule.  TSA intends to address the other regulatory requirements of these provisions in separate rulemakings.
+ Definitions can be found in sec. 1402 and 1501 of the 9/11 Act, as codified at 6 U.S.C. 1131 and 1151.
+ TSA estimated that around 200 OTRB owner/operators would fall under the Security Training for Surface Transportation Employees Rule, which is more than the 70 that are currently identified. Several factors may have contributed to this overestimate, including a lack of definitive data sources identifying bus operations that meet the final rule’s applicability criteria, and a reduction in the number of bus companies in operation due to business mergers and acquisitions and the COVID-19 pandemic. TSA actively monitors the bus industry through outreach with relevant industry associations to maintain awareness of and communicate with bus operations that may meet the final rule’s applicability criteria.  
+
+ The number of OTRB Operators Amending STPs (G) is 10% of the total number of OTRB operators who have submitted an STP, so will be (70 + 36) x 0.10 = 10.6 in Year 1, (106 + 36) x 0.10 = 14.2 in Year 2, and (142 + 36) x 0.10 = 18 in Year 3.
+ Annual estimate from the Security Training Rule.
+ See section 2.3.1 in the Security Training final rule RIA for details on the estimation of this compensation rate.
+ Annual estimate from the Security Training Rule.
+ See section 2.3.2 in the Security Training final rule RIA for details on the estimation of this compensation rate.
+ Estimate from the Security Training Rule
+ See section 2.3.3 in the Security Training final rule RIA for details on the estimation of this compensation rate.
+ $0.03828 obtained by adding $0.0213 for black & white ink per page (calculated by taking average of Xerox Black-and-White Multifunction Printers’ consumable quotes and $0.017 per piece of paper ($8.29 for 500 sheets; http://www.staples.com/Staples-Multipurpose-Paper-8-1-2-x-11-500-Ream-513099-WH-/product_513099). Accessed on December 22, 2022.
+ A TSA analyst is an SV Payband H or Payband I employee.  The fully-loaded average wage rate is $63.65 per hour for a Payband H, and $73.95 for Payband I.  TSA calculates a blended rate of ($63.65 + $73.95) ÷ 2 = $68.80.

@@ -1,0 +1,32 @@
+{
+  "ref": "202402-1652-002",
+  "retrieved_at": "2026-09-09T17:26:08.615693+00:00",
+  "documents": [
+    {
+      "id": "e7d4bdb069c78749",
+      "title": "1652-0040 AirCargoSecReqs SS_03272024.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=140125201",
+      "path": "mission-3/sources/202402-1652-002/e7d4bdb069c78749.txt",
+      "sha256_raw": "761220f1f26de15449538567cf605d1b9f99eaf5f16e75c4f2f11f4762ab63ae",
+      "sha256_text": "f4c6b49d8feca4454d1b6591aed47df37a5acc9b6c5a49e71ab26cc0d1b05f97",
+      "format": ".docx",
+      "chars": 31620,
+      "extraction": "M1 retrieve.extract: OOXML paragraphs/tables/footnotes or pdftotext -layout",
+      "review_status": "NOT_YET_REVIEWED"
+    }
+  ],
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202402-1652-002",
+    "path": "mission-3/sources/202402-1652-002/record.txt",
+    "sha256_raw": "ab7dbac759dd8085e3df8f58080912498d0e249ceca980cce1a0e6399ef9646c",
+    "sha256_text": "cc03357a0aa3d919cb1b35387011354ec1cfbba7b0f13d9a84a46399484ba3dc"
+  },
+  "previous_ref": "201904-1652-003",
+  "status": "Active",
+  "document_index": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202402-1652-002",
+    "path": "mission-3/sources/202402-1652-002/document_index.txt",
+    "sha256_raw": "e830cb77d6b3ce241cb0d9fdbe3e81038bfd2be37259a881c8e7c6cb29508620",
+    "sha256_text": "c97b10a74b53df416e46e35000d9d61881678fd3dd219aa1d770b60e31d0c5b1"
+  }
+}

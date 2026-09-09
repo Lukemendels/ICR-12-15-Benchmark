@@ -14,9 +14,10 @@
     "Reconstructed 900 durable blobs and verified Git SHA-1 identities; discarded uncommitted prior analysis",
     "Fresh recent/active/pending official searches reconciled; 48 assigned TSA control histories retrieved; five unassigned-control ICR proposals retained separately",
     "Committed schema/taxonomy reviewed and structurally validated; original ontology retained",
-    "Batch 01: normalized four frozen TSA security-program models by provenance-preserving reference (47 activity rows); source-specific checks and unexplained differences remain open"
+    "Batch 01: normalized four frozen TSA security-program models by provenance-preserving reference (47 activity rows); source-specific checks and unexplained differences remain open",
+    "Batch 02: 19 frozen credentialing activity rows normalized; new foreign-carrier statement evidence indexed with original line locators (not yet adjudicated)"
   ],
-  "next": "Finish new security statement extraction and credentialing batch; compare durations only after scope review",
+  "next": "Complete portfolio retrieval; explicitly select prior statements; extract remaining families and resolve all item-boundary exceptions",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,
