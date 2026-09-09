@@ -1,0 +1,95 @@
+{
+  "status": "PASS",
+  "tests": [
+    {
+      "name": "wrong_manifest_pin",
+      "status": "PASS",
+      "rejected_with": "Manifest hash mismatch"
+    },
+    {
+      "name": "corrupt_artifact_byte",
+      "status": "PASS",
+      "rejected_with": "Integrity mismatch tsa/portfolio.json"
+    },
+    {
+      "name": "missing_artifact",
+      "status": "PASS",
+      "rejected_with": "Missing tsa/portfolio.json"
+    },
+    {
+      "name": "unregistered_file",
+      "status": "PASS",
+      "rejected_with": "Unexpected/missing files in directory"
+    },
+    {
+      "name": "schema_missing_required_field",
+      "status": "PASS",
+      "rejected_with": "Schema required tsa/portfolio.json#/0.ref"
+    },
+    {
+      "name": "dangling_graph_edge",
+      "status": "PASS",
+      "rejected_with": "Edge endpoint EDGE-00021ea569ed41fb46b1"
+    },
+    {
+      "name": "dangling_claim_source",
+      "status": "PASS",
+      "rejected_with": "Claim source CLM-202306-3038-007-01"
+    },
+    {
+      "name": "dangling_comparison_observation",
+      "status": "PASS",
+      "rejected_with": "Comparison observation MISSING"
+    },
+    {
+      "name": "dangling_provenance",
+      "status": "PASS",
+      "rejected_with": "Missing provenance MISSING"
+    },
+    {
+      "name": "registered_counts_mismatch",
+      "status": "PASS",
+      "rejected_with": "Manifest record counts"
+    },
+    {
+      "name": "bridge_component_arithmetic",
+      "status": "PASS",
+      "rejected_with": "Bridge reconciliation"
+    },
+    {
+      "name": "duplicate_node_identity",
+      "status": "PASS",
+      "rejected_with": "Duplicate node ACT-003fd285cdd9afb8df"
+    },
+    {
+      "name": "unsupported_schema_keyword",
+      "status": "PASS",
+      "rejected_with": "Unsupported schema keyword anyOf"
+    },
+    {
+      "name": "unsupported_release_version",
+      "status": "PASS",
+      "rejected_with": "Unsupported release identity/schema"
+    },
+    {
+      "name": "unbounded_limit",
+      "status": "PASS",
+      "rejected_with": "Query limit must be 1..100"
+    },
+    {
+      "name": "unknown_query_operator",
+      "status": "PASS",
+      "rejected_with": "Unknown query fields"
+    },
+    {
+      "name": "unknown_facet",
+      "status": "PASS",
+      "rejected_with": "Invalid exact facet execute"
+    },
+    {
+      "name": "pagination_complete_without_duplicates",
+      "status": "PASS",
+      "records": 493
+    }
+  ]
+}

@@ -72,6 +72,7 @@ export async function loadRelease(readBytes,{expectedManifestHash=null,listPaths
   schemaValidate(m,files['schemas/manifest.schema.json']);
   for(const f of m.files) {
     if(!f.path.endsWith('.json'))continue;
+    if(f.record_count!==null&&f.record_count!==undefined&&(!Array.isArray(files[f.path])||files[f.path].length!==f.record_count))fail(`Manifest file count ${f.path}`);
     if(!f.schema||!files[f.schema])fail(`Unregistered schema ${f.path}`);
     const values=f.schema_mode==='each_record'?files[f.path]:[files[f.path]];
     if(!Array.isArray(values))fail(`Expected record array ${f.path}`);
@@ -81,10 +82,13 @@ export async function loadRelease(readBytes,{expectedManifestHash=null,listPaths
   const unique=(xs,field,label)=>{const map=new Map();for(const x of xs){if(map.has(x[field]))fail(`Duplicate ${label} ${x[field]}`);map.set(x[field],x);}return map;};
   const nodeMap=unique(nodes,'id','node');unique(edges,'id','edge');
   const sources=files['indexes/sources.json'];
+  const allSources=unique([...files['federal/source-registry.json'],...files['tsa/source-registry.json']],'id','source');
+  unique(files['federal/claims.json'],'claim_id','claim');
+  if(allSources.size!==Object.keys(sources).length||[...allSources.keys()].some(id=>!Object.hasOwn(sources,id)))fail('Source registry index coverage');
   for(const [id,address] of Object.entries(sources))if(resolve(files,address).id!==id)fail('Source index mismatch');
   for(const [id,observation] of Object.entries(p)) {schemaValidate(observation,files['schemas/provenance.schema.json']);if(!sources[observation.source_id])fail(`Missing source ${id}`);}
   let provenanceLinks=0;
-  function walk(x) {if(!x||typeof x!=='object')return; if(Array.isArray(x)){x.forEach(walk);return;}for(const [k,v] of Object.entries(x)){if(k==='provenance_refs')for(const id of v){if(!Object.hasOwn(p,id))fail(`Missing provenance ${id}`);provenanceLinks++;}else walk(v);}}
+  function walk(x) {if(!x||typeof x!=='object')return; if(Array.isArray(x)){x.forEach(walk);return;}for(const [k,v] of Object.entries(x)){if(k==='provenance_refs')for(const id of v){if(!Object.hasOwn(p,id))fail(`Missing provenance ${id}`);provenanceLinks++;}else {if((k==='source_id'||k==='source_ids')&&(typeof v==='string'||Array.isArray(v)))for(const id of (Array.isArray(v)?v:v.split(';')))if(typeof id==='string'&&/^(SRC-|M3-SRC-|M3-META-)/.test(id)&&!sources[id])fail(`Unresolved embedded source ${id}`);walk(v);}}}
   for(const [path,x] of Object.entries(files))if(!path.startsWith('schemas/'))walk(x);
   for(const n of nodes) {
     if(n.type==='ACTIVITY')schemaValidate(n.data,files['schemas/activity-data.schema.json']);

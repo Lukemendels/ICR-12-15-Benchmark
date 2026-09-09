@@ -1,0 +1,1 @@
+{"$id":"urn:icr-evidence:schema:1.0.0:portfolio","$schema":"https://json-schema.org/draft/2020-12/schema","additionalProperties":true,"properties":{"agency":{"type":"string"},"control":{"type":"string"},"record_url":{"type":"string"},"ref":{"type":"string"},"title":{"type":"string"}},"required":["ref","control","agency","title","record_url","conclusion","scope"],"type":"object"}

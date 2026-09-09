@@ -8,7 +8,7 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 HEAD = '1a5b3e852ad1c7d837d65e578bd706a46218311f'
 M3 = 'b96aaaa4d81fe4df432602a0ae1346be78a151b1'
 M4 = '34d94576f95b3a780ea3ec869b7c9c4fb653baa6'
-STAMP = '2026-09-09T21:00:00Z'
+STAMP = '2026-09-09T21:42:00Z'
 VERSION = '1.0.0'
 def encode(x): return (json.dumps(x, ensure_ascii=False, sort_keys=True, separators=(',', ':'), allow_nan=False)+'\n').encode()
 def sha(b): return hashlib.sha256(b).hexdigest()
@@ -46,6 +46,8 @@ def build(out):
     enum=lambda xs:{'type':'string','enum':xs}
     baseprops={'id':st,'epistemic_status':enum(oldschema['epistemic_statuses']),'provenance_refs':arrstr}
     defs={
+      'portfolio':obj(['ref','control','agency','title','record_url','conclusion','scope'],{'ref':st,'control':st,'agency':st,'title':st,'record_url':st}),
+      'canonical-model':obj(['model_version','status','entities','specification','dictionary'],{'model_version':{'const':'0.5.0'},'entities':arr(obj(['entity','principal_fields','relationships_and_constraints'],{'entity':st,'principal_fields':st,'relationships_and_constraints':st},False)),'specification':st,'dictionary':st}),
       'node':obj(['id','type','epistemic_status','data','provenance_refs'],dict(baseprops,type=enum(oldschema['entity_types']),data={'type':'object'}),False),
       'edge':obj(['id','type','source','target','epistemic_status','provenance_refs'],dict(baseprops,type=enum(oldschema['edge_types']),source=st,target=st,data={'type':'object'}),False),
       'provenance':obj(oldschema['provenance_required'],{k:st for k in oldschema['provenance_required']}),
@@ -75,7 +77,7 @@ def build(out):
     for line in dic.splitlines():
         if line.startswith('|') and not line.startswith('| Entity') and not line.startswith('|---'):
             cells=[c.strip() for c in line.strip('|').split('|')];entities.append({'entity':cells[0],'principal_fields':cells[1],'relationships_and_constraints':cells[2]})
-    put('federal/canonical-model.json',{'model_version':'0.5.0','status':'FROZEN_RESEARCH_ARCHITECTURE_NOT_EXECUTABLE_MODEL_SCHEMA','entities':entities,'specification':read('methodology/canonical-model.md'),'dictionary':dic})
+    put('federal/canonical-model.json',{'model_version':'0.5.0','status':'FROZEN_RESEARCH_ARCHITECTURE_NOT_EXECUTABLE_MODEL_SCHEMA','entities':entities,'specification':read('methodology/canonical-model.md'),'dictionary':dic},'canonical-model')
     put('federal/rubric.json',{'version':'1.0.0','specification':read('methodology/rubric.md'),'calibration':read('methodology/calibration.md')})
     put('federal/context.json',{p:read('methodology/'+p+'.md') for p in ['tsa-comparison','tool-requirements','leaders','exemplars','requirements-floor']})
     gm=read('evidence-graph/manifest.json');nodes=[n for p in gm['node_files'] for n in read(p)];edges=[n for p in gm['edge_files'] for n in read(p)]
@@ -83,7 +85,7 @@ def build(out):
     transforms['tsa/nodes.json']={'inputs':gm['node_files'],'operation':'lossless shard concatenation; intern provenance'}
     transforms['tsa/edges.json']={'inputs':gm['edge_files'],'operation':'lossless shard concatenation; intern provenance'}
     inventory=read('mission-3/inventory.json')
-    put('tsa/portfolio.json',[r for r in inventory if not r['exclusion']]);put('tsa/excluded-search-records.json',[r for r in inventory if r['exclusion']])
+    put('tsa/portfolio.json',[r for r in inventory if not r['exclusion']],'portfolio');put('tsa/excluded-search-records.json',[r for r in inventory if r['exclusion']])
     copied('tsa/control-histories.json','mission-3/control-histories.json')
     copied('tsa/representation-overlap.json','evidence-graph/representation-overlap.json')
     for target,source,contract in [('comparisons','adjudicated-comparisons','comparison'),('within-icr-findings','adjudicated-findings','within-finding'),('quantitative-checks','within-icr-qa','qa'),('item15-bridges','item15-bridges','bridge'),('review-questions','review-questions','question'),('comparison-groups','comparison-groups',None),('challenges','adversarial-challenge',None),('consistency-matrix','consistency-matrix',None),('qa-coverage','qa-coverage',None),('federal-comparators','federal-analogues',None)]:
@@ -114,6 +116,8 @@ def build(out):
     for code,fid,txt in opportunities:
         ix=next(i for i,x in enumerate(objects['tsa/within-icr-findings.json']) if x['id']==fid)
         finding('CONTROL-'+code,'deterministic_control_opportunity',txt,['tsa/within-icr-findings.json#/'+str(ix),'federal/canonical-model.json'],'A control flags a reconstruction conflict; an analyst decides scope and official correction.','completed findings and canonical model control implications')
+    for i,q in enumerate(objects['tsa/quantitative-checks.json']):
+        if q['id'].startswith('QA-PARTITION-') and q['status']=='PASS':finding('POSITIVE-'+q['id'],'positive_reconciliation',q['label']+' reconciles for '+q['ref']+'.',['tsa/quantitative-checks.json#/'+str(i)],q['interpretation'],'completed Mission 3 partition check; positive counterevidence in Mission 4')
     put('analysis/findings.json',findings,'analysis-finding')
     put('analysis/completed-report-register.json',{'mission4':read('mission-4/report-state.json'),'leadership':read('report/tsa-consistency/leadership/audit/completion-audit.json'),'technical_findings':read('report/tsa-consistency/technical/source/report-data.json')})
     put('provenance/frozen-state.json',{'mission1':read('research/research-state.json'),'mission1_validation':read('research/final-validation.json'),'mission3_counts':read('mission-3/release-counts.json'),'graph_manifest':gm,'mission3_validation':read('mission-3/validation/final-validation.json'),'qa_summary':read('analysis/qa-summary.json')})
