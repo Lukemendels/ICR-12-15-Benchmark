@@ -1,5 +1,5 @@
 {
-  "MISSION_STATUS": "NORMALIZATION_AND_COMPARISON_PREPARATION",
+  "MISSION_STATUS": "COMPARISON_ADJUDICATION_AND_VALIDATION",
   "evidence_version": "M3-0.1.0",
   "graph_version": "0.1.0",
   "base_commit": "d041cde75fe33b0bf9dec29c7cc6ae7309ca8a69",
@@ -28,9 +28,10 @@
     "Batch12:59 additional source-specific task durations across32 previously untyped recent versions; all90 recent versions now have principal task normalization. Bundled processes, annual recordkeeping and per-event time remain distinct.",
     "Batch13: 15 inspectable comparisons adjudicated with actor/task/unit/period rationale and explanation challenges; medical travel primary sources checked. No numeric difference classified as inconsistency without adequate comparability.",
     "Batch14:22 source-specific quantitative checks, seven challenged findings, and one fully reconciled TWIC component bridge with independently verified prior baseline;41 frozen TSA checks reused by reference. No schema/comparison-rule novelty in second post-coverage analytical batch.",
-    "Batch15:29 additional reviewed manager/analyst/grade/fee/wage assumptions;18 comparisons include explicit negative match; current pipeline Federal review-cost calculation challenged and retained. Same ontology and comparison rules."
+    "Batch15:29 additional reviewed manager/analyst/grade/fee/wage assumptions;18 comparisons include explicit negative match; current pipeline Federal review-cost calculation challenged and retained. Same ontology and comparison rules.",
+    "Final analysis A: inherited 18 comparisons made inspectable with explicit component values, units, similarity, confidence and practitioner significance."
   ],
-  "next": "Populate graph and perform source and graph integrity QA; then query validation, gate assessment and handoff.",
+  "next": "Extend reviewed assumption-family and activity comparisons; consolidate within-ICR QA and challenge.",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,
@@ -53,5 +54,7 @@
     "pending_icr_packages": 7,
     "excluded_opm_common_form_requests": 2
   },
-  "continuation_base_commit": "23074f3d4927c42b15f552f79368496aa8772f48"
+  "continuation_base_commit": "23074f3d4927c42b15f552f79368496aa8772f48",
+  "final_analysis_base_commit": "d17ed03d740f7c52abfa00cac53f7b8c4fdbb34c",
+  "integrated_checkpoint": "a3345edf633b0fcc3309256acb8277ff1e20a891"
 }
