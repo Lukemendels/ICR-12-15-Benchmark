@@ -1,0 +1,2165 @@
+[
+  {
+    "ref": "201804-1652-001",
+    "document_id": "c7c8b70ae567d34d",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 7,
+      "pathway_share": 6,
+      "federal_grade_pay": 4,
+      "manager_review": 1,
+      "federal_review_time": 1,
+      "purchased_services": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 5
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201807-1652-001",
+    "document_id": "7e4f68588400b7c7",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 10,
+      "wage_statistic": 6,
+      "capital_life": 1,
+      "federal_review_time": 3,
+      "federal_grade_pay": 4,
+      "item15_baseline": 1,
+      "pathway_share": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 4
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201808-1652-001",
+    "document_id": "38b4dc7fa4ad01b5",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 41,
+      "legal_review": 1,
+      "renewal": 8,
+      "pathway_share": 25,
+      "wage_statistic": 4,
+      "fee_treatment": 12,
+      "purchased_services": 2,
+      "item15_baseline": 1,
+      "occupational_assignment": 3,
+      "benefit_loading": 3
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201808-1652-002",
+    "document_id": "f70c8ccf3723bcd0",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 9,
+      "federal_review_time": 1,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "pathway_share": 1,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201809-1652-001",
+    "document_id": "468763485996ab2d",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 20,
+      "purchased_services": 7,
+      "wage_statistic": 3,
+      "benefit_loading": 4,
+      "familiarization": 1,
+      "capital_life": 1,
+      "federal_grade_pay": 3,
+      "item15_baseline": 1,
+      "pathway_share": 2,
+      "occupational_assignment": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201809-1652-002",
+    "document_id": "b30ea97356c63be7",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 45,
+      "recordkeeping": 1,
+      "federal_review_time": 1,
+      "federal_grade_pay": 7,
+      "item15_baseline": 6,
+      "benefit_loading": 12,
+      "pathway_share": 4,
+      "occupational_assignment": 4
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201811-1652-001",
+    "document_id": "985ccedea06ddeca",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 18,
+      "recordkeeping": 4,
+      "manager_review": 1,
+      "capital_life": 1,
+      "federal_grade_pay": 6,
+      "federal_review_time": 5,
+      "item15_baseline": 1,
+      "benefit_loading": 4,
+      "occupational_assignment": 3
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201811-1652-002",
+    "document_id": "da7f224db64c2e39",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 7,
+      "pathway_share": 2,
+      "purchased_services": 1,
+      "federal_grade_pay": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201811-1652-003",
+    "document_id": "a981c8e9c59c024e",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 6,
+      "renewal": 1,
+      "recordkeeping": 1,
+      "capital_life": 1,
+      "federal_review_time": 1,
+      "federal_grade_pay": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "pathway_share": 1,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201811-1652-004",
+    "document_id": "3cdbadf48f7f8fc7",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 12,
+      "pathway_share": 15,
+      "federal_review_time": 1,
+      "purchased_services": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201812-1652-001",
+    "document_id": "5e85a49c2f0e125f",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 12,
+      "capital_life": 1,
+      "pathway_share": 2,
+      "federal_review_time": 8,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "turnover": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201812-1652-002",
+    "document_id": "c82103e88619211b",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 11,
+      "pathway_share": 2,
+      "purchased_services": 4,
+      "renewal": 2,
+      "federal_review_time": 1,
+      "wage_statistic": 2,
+      "federal_grade_pay": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201812-1652-003",
+    "document_id": "a8eb8539763b09a2",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 11,
+      "recordkeeping": 11,
+      "fee_treatment": 7,
+      "item15_baseline": 1,
+      "benefit_loading": 4,
+      "pathway_share": 1,
+      "occupational_assignment": 2,
+      "wage_statistic": 1,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201902-1652-002",
+    "document_id": "6aed1431a6bf815f",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 22,
+      "capital_life": 1,
+      "federal_review_time": 3,
+      "federal_grade_pay": 3,
+      "wage_statistic": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 4,
+      "pathway_share": 1,
+      "occupational_assignment": 3
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201904-1652-001",
+    "document_id": "e8c5ffef45daee35",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 8,
+      "purchased_services": 2,
+      "wage_statistic": 1,
+      "federal_review_time": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "pathway_share": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201904-1652-002",
+    "document_id": "eaec56b2195bdc8a",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "capital_life": 3,
+      "task_duration": 44,
+      "recordkeeping": 17,
+      "fee_treatment": 3,
+      "purchased_services": 2,
+      "federal_grade_pay": 3,
+      "federal_review_time": 4,
+      "pathway_share": 2,
+      "occupational_assignment": 9,
+      "benefit_loading": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201904-1652-003",
+    "document_id": "db3081a69ff1917b",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 18,
+      "renewal": 3,
+      "recordkeeping": 1,
+      "fee_treatment": 3,
+      "federal_review_time": 4,
+      "federal_grade_pay": 2,
+      "wage_statistic": 1,
+      "purchased_services": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 4,
+      "pathway_share": 3,
+      "occupational_assignment": 3
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201904-1652-004",
+    "document_id": "bd608fd41af04ed1",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 11,
+      "capital_life": 1,
+      "federal_review_time": 3,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "pathway_share": 1,
+      "occupational_assignment": 1,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201905-1652-002",
+    "document_id": "1b52d52215c112dc",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 14,
+      "fee_treatment": 3,
+      "federal_review_time": 1,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "pathway_share": 2,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201906-1652-001",
+    "document_id": "524c15e5b9557554",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 12,
+      "wage_statistic": 3,
+      "purchased_services": 1,
+      "capital_life": 1,
+      "occupational_assignment": 2,
+      "federal_review_time": 2,
+      "item15_baseline": 2,
+      "benefit_loading": 4,
+      "pathway_share": 2,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201906-1652-003",
+    "document_id": "ab0e13db9f87fc99",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 14,
+      "capital_life": 1,
+      "benefit_loading": 1,
+      "purchased_services": 4,
+      "item15_baseline": 4,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201907-1652-001",
+    "document_id": "1105e074d6f17549",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 12,
+      "capital_life": 1,
+      "benefit_loading": 2,
+      "pathway_share": 2,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201909-1652-003",
+    "document_id": "286ffcb7c97af2b6",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 8,
+      "purchased_services": 1,
+      "item15_baseline": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201911-1652-001",
+    "document_id": "da92593b1736022c",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 10,
+      "pathway_share": 2,
+      "capital_life": 3,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "201912-1652-003",
+    "document_id": "659343e43b94c674",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 7,
+      "capital_life": 1,
+      "benefit_loading": 2,
+      "pathway_share": 1,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202002-1652-003",
+    "document_id": "1f544ad46fc1b092",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 32,
+      "pathway_share": 2,
+      "recordkeeping": 7,
+      "turnover": 3,
+      "purchased_services": 1,
+      "federal_review_time": 13,
+      "manager_review": 2,
+      "item15_baseline": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 2,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202005-1652-002",
+    "document_id": "86dfbb1a4fc46d84",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "pathway_share": 4,
+      "task_duration": 6,
+      "occupational_assignment": 1,
+      "benefit_loading": 5,
+      "capital_life": 1,
+      "federal_grade_pay": 4,
+      "federal_review_time": 2,
+      "item15_baseline": 1,
+      "purchased_services": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202005-1652-003",
+    "document_id": "b8e7a0feadcac3bb",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 12,
+      "wage_statistic": 3,
+      "pathway_share": 8,
+      "federal_review_time": 4,
+      "item15_baseline": 1,
+      "occupational_assignment": 2,
+      "benefit_loading": 2,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202005-1652-004",
+    "document_id": "6b6423b58dbb4f52",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "renewal": 35,
+      "pathway_share": 24,
+      "task_duration": 53,
+      "occupational_assignment": 1,
+      "benefit_loading": 2,
+      "fee_treatment": 12,
+      "purchased_services": 1,
+      "federal_review_time": 4,
+      "capital_life": 1,
+      "item15_baseline": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202102-1652-001",
+    "document_id": "f6472f7c7abc9a6a",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 11,
+      "purchased_services": 8,
+      "fee_treatment": 4,
+      "federal_review_time": 2,
+      "federal_grade_pay": 3,
+      "item15_baseline": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202102-1652-002",
+    "document_id": "46b132317662ca68",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "renewal": 26,
+      "task_duration": 28,
+      "pathway_share": 12,
+      "legal_review": 1,
+      "occupational_assignment": 6,
+      "benefit_loading": 3,
+      "wage_statistic": 3,
+      "fee_treatment": 20
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202103-1652-001",
+    "document_id": "d35e4360287a57a4",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 9,
+      "fee_treatment": 2,
+      "purchased_services": 5,
+      "pathway_share": 4,
+      "item15_baseline": 2,
+      "occupational_assignment": 1,
+      "benefit_loading": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202105-1652-001",
+    "document_id": "a7bc37c30523e062",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 88,
+      "recordkeeping": 13,
+      "renewal": 7,
+      "fee_treatment": 3,
+      "federal_review_time": 9,
+      "federal_grade_pay": 6,
+      "manager_review": 1,
+      "item15_baseline": 1,
+      "pathway_share": 4,
+      "benefit_loading": 5,
+      "occupational_assignment": 4,
+      "wage_statistic": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202105-1652-002",
+    "document_id": "934e0e68d741ec5b",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 7,
+      "manager_review": 1,
+      "renewal": 1,
+      "federal_review_time": 2,
+      "federal_grade_pay": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 3,
+      "occupational_assignment": 2,
+      "pathway_share": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202105-1652-003",
+    "document_id": "f16729d6be995fb2",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 14,
+      "renewal": 1,
+      "federal_grade_pay": 2,
+      "federal_review_time": 1,
+      "purchased_services": 4,
+      "item15_baseline": 2,
+      "occupational_assignment": 3,
+      "benefit_loading": 3
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202106-1652-001",
+    "document_id": "9536b18c799a9149",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 10,
+      "recordkeeping": 1,
+      "federal_review_time": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "occupational_assignment": 2,
+      "pathway_share": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202106-1652-002",
+    "document_id": "a9d78323d496a1da",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 52,
+      "wage_statistic": 15,
+      "recordkeeping": 16,
+      "fee_treatment": 4,
+      "federal_grade_pay": 2,
+      "item15_baseline": 3,
+      "pathway_share": 3,
+      "occupational_assignment": 3,
+      "benefit_loading": 4,
+      "renewal": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202107-1652-001",
+    "document_id": "8ddca5bacc36bcea",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 23,
+      "federal_review_time": 7,
+      "purchased_services": 9,
+      "item15_baseline": 1,
+      "pathway_share": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 1,
+      "federal_grade_pay": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202107-1652-003",
+    "document_id": "52fe7df1f5a7d4eb",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 4,
+      "federal_review_time": 2,
+      "item15_baseline": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 3,
+      "pathway_share": 1,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202108-1652-001",
+    "document_id": "f054312b85b2f88b",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 6,
+      "capital_life": 1,
+      "federal_review_time": 4,
+      "item15_baseline": 1,
+      "pathway_share": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 1,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202108-1652-003",
+    "document_id": "8bf18daddb9bc9ed",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 7,
+      "renewal": 2,
+      "federal_review_time": 2,
+      "federal_grade_pay": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 3,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202108-1652-004",
+    "document_id": "7b5c9867de0b62a1",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 7,
+      "occupational_assignment": 3,
+      "wage_statistic": 5,
+      "capital_life": 1,
+      "federal_review_time": 3,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 4,
+      "pathway_share": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202108-1652-006",
+    "document_id": "09d7821806dd7295",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 16,
+      "pathway_share": 6,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "federal_review_time": 1,
+      "benefit_loading": 4,
+      "occupational_assignment": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202109-1652-001",
+    "document_id": "6121af71f758ff88",
+    "recent_portfolio": false,
+    "family_candidate_counts": {
+      "task_duration": 19,
+      "pathway_share": 5,
+      "federal_grade_pay": 2,
+      "purchased_services": 1,
+      "occupational_assignment": 1,
+      "wage_statistic": 1,
+      "benefit_loading": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202109-1652-002",
+    "document_id": "16cc5c748b6eb4b7",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 12,
+      "pathway_share": 15,
+      "capital_life": 1,
+      "federal_review_time": 1,
+      "purchased_services": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202109-1652-003",
+    "document_id": "ba61cceb94627ea0",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 21,
+      "recordkeeping": 6,
+      "manager_review": 1,
+      "capital_life": 1,
+      "federal_grade_pay": 6,
+      "federal_review_time": 5,
+      "item15_baseline": 1,
+      "benefit_loading": 4,
+      "pathway_share": 1,
+      "occupational_assignment": 3
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202109-1652-004",
+    "document_id": "dff7971985462358",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 11,
+      "pathway_share": 5,
+      "occupational_assignment": 2,
+      "manager_review": 1,
+      "federal_review_time": 1,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 5
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202109-1652-005",
+    "document_id": "916fc4bc084cbf50",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 9,
+      "federal_review_time": 1,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "pathway_share": 1,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202109-1652-007",
+    "document_id": "88a979f4a00d2fee",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 14,
+      "federal_grade_pay": 2,
+      "federal_review_time": 2,
+      "purchased_services": 4,
+      "item15_baseline": 2,
+      "occupational_assignment": 4,
+      "benefit_loading": 4
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202109-1652-008",
+    "document_id": "8cd15670b08f390c",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 7,
+      "manager_review": 1,
+      "turnover": 1,
+      "federal_review_time": 2,
+      "federal_grade_pay": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 3,
+      "occupational_assignment": 2,
+      "pathway_share": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202111-1652-001",
+    "document_id": "e59bb5eb8b06ed78",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 10,
+      "federal_review_time": 2,
+      "federal_grade_pay": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 3,
+      "pathway_share": 1,
+      "occupational_assignment": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202111-1652-002",
+    "document_id": "e844216bd19388f7",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 7,
+      "recordkeeping": 9,
+      "fee_treatment": 6,
+      "purchased_services": 4,
+      "benefit_loading": 6,
+      "pathway_share": 2,
+      "occupational_assignment": 4,
+      "wage_statistic": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202111-1652-003",
+    "document_id": "7700c1c4e221d18c",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 21,
+      "federal_review_time": 2,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "occupational_assignment": 3,
+      "pathway_share": 2,
+      "benefit_loading": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202112-1652-001",
+    "document_id": "c9c15e66af52fdec",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 13,
+      "pathway_share": 3,
+      "purchased_services": 3,
+      "renewal": 1,
+      "federal_review_time": 1,
+      "wage_statistic": 2,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202112-1652-002",
+    "document_id": "358386eb0116ab14",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 23,
+      "purchased_services": 8,
+      "wage_statistic": 3,
+      "benefit_loading": 5,
+      "familiarization": 1,
+      "fee_treatment": 2,
+      "federal_review_time": 1,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "occupational_assignment": 2,
+      "pathway_share": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202112-1652-003",
+    "document_id": "580e2b158a892268",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 39,
+      "renewal": 23,
+      "pathway_share": 29,
+      "wage_statistic": 4,
+      "fee_treatment": 14,
+      "purchased_services": 2,
+      "occupational_assignment": 2,
+      "benefit_loading": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202202-1652-001",
+    "document_id": "6da19e778d42372d",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 5,
+      "pathway_share": 2,
+      "purchased_services": 1,
+      "federal_grade_pay": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202202-1652-002",
+    "document_id": "7416bd8c2ed97594",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 11,
+      "federal_review_time": 3,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "pathway_share": 1,
+      "occupational_assignment": 1,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202202-1652-003",
+    "document_id": "e48c42fcfe84ce6d",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 5,
+      "renewal": 2,
+      "recordkeeping": 1,
+      "capital_life": 1,
+      "federal_review_time": 1,
+      "federal_grade_pay": 1,
+      "item15_baseline": 2,
+      "benefit_loading": 2,
+      "pathway_share": 1,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202203-1652-003",
+    "document_id": "930e8d175c159e47",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 21,
+      "federal_review_time": 2,
+      "federal_grade_pay": 2,
+      "renewal": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 3,
+      "occupational_assignment": 3,
+      "pathway_share": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202203-1652-004",
+    "document_id": "b5242b4bd76ccb4f",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 7,
+      "purchased_services": 1,
+      "item15_baseline": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202203-1652-005",
+    "document_id": "35a6a822d8259881",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 41,
+      "recordkeeping": 1,
+      "federal_review_time": 1,
+      "federal_grade_pay": 10,
+      "item15_baseline": 6,
+      "benefit_loading": 7,
+      "occupational_assignment": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202203-1652-006",
+    "document_id": "25c6c152728ad171",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 8,
+      "recordkeeping": 1,
+      "pathway_share": 2,
+      "federal_review_time": 8,
+      "federal_grade_pay": 4,
+      "item15_baseline": 1,
+      "benefit_loading": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202204-1652-001",
+    "document_id": "5c22938e07740ced",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 23,
+      "recordkeeping": 1,
+      "federal_review_time": 3,
+      "federal_grade_pay": 4,
+      "wage_statistic": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 4,
+      "pathway_share": 2,
+      "occupational_assignment": 3
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202204-1652-002",
+    "document_id": "71e2b2847bd8b18c",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 10,
+      "wage_statistic": 6,
+      "federal_review_time": 3,
+      "federal_grade_pay": 4,
+      "renewal": 1,
+      "item15_baseline": 1,
+      "pathway_share": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 4
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202205-1652-002",
+    "document_id": "fa0da99226dd3cd2",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 14,
+      "fee_treatment": 14,
+      "federal_review_time": 1,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "pathway_share": 2,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202206-1652-001",
+    "document_id": "7874f8a5e3aab5f2",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 7,
+      "capital_life": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "pathway_share": 1,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202207-1652-001",
+    "document_id": "4904ecec8803db9f",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 20,
+      "federal_review_time": 10,
+      "federal_grade_pay": 4,
+      "manager_review": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 5,
+      "pathway_share": 1,
+      "occupational_assignment": 3
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202210-1652-001",
+    "document_id": "a20543d8563c4a99",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 37,
+      "federal_review_time": 8,
+      "manager_review": 1,
+      "federal_grade_pay": 5,
+      "item15_baseline": 1,
+      "benefit_loading": 5,
+      "occupational_assignment": 5,
+      "pathway_share": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202212-1652-001",
+    "document_id": "38525f9ff94b6af4",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 21,
+      "federal_review_time": 10,
+      "federal_grade_pay": 4,
+      "manager_review": 1,
+      "benefit_loading": 5,
+      "pathway_share": 1,
+      "occupational_assignment": 3
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202301-1652-001",
+    "document_id": "5231d5b69b622501",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 12,
+      "pathway_share": 2,
+      "capital_life": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202301-1652-003",
+    "document_id": "fd52e752050b550e",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 12,
+      "recordkeeping": 1,
+      "benefit_loading": 2,
+      "purchased_services": 4,
+      "item15_baseline": 3,
+      "pathway_share": 1,
+      "occupational_assignment": 1,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202302-1652-001",
+    "document_id": "8e73d8108017fe72",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "legal_review": 2,
+      "recordkeeping": 3,
+      "task_duration": 48,
+      "familiarization": 1,
+      "purchased_services": 1,
+      "fee_treatment": 7,
+      "turnover": 1,
+      "federal_review_time": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202303-1652-001",
+    "document_id": "01950023de75cb9e",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 37,
+      "federal_review_time": 9,
+      "manager_review": 1,
+      "federal_grade_pay": 5,
+      "item15_baseline": 1,
+      "benefit_loading": 5,
+      "occupational_assignment": 5,
+      "pathway_share": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202303-1652-002",
+    "document_id": "818f6884d463de87",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 10,
+      "wage_statistic": 2,
+      "pathway_share": 8,
+      "federal_review_time": 4,
+      "item15_baseline": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 2,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202304-1652-001",
+    "document_id": "12699519f3c180ae",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "renewal": 2,
+      "pathway_share": 3,
+      "task_duration": 9,
+      "federal_review_time": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 1,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202304-1652-002",
+    "document_id": "02f2c1d790421fdd",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 22,
+      "recordkeeping": 11,
+      "pathway_share": 5,
+      "turnover": 6,
+      "purchased_services": 1,
+      "manager_review": 3,
+      "federal_review_time": 6,
+      "item15_baseline": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202305-1652-001",
+    "document_id": "49e0156db068b82e",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 9,
+      "purchased_services": 6,
+      "wage_statistic": 1,
+      "federal_review_time": 2,
+      "benefit_loading": 2,
+      "pathway_share": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202305-1652-002",
+    "document_id": "fcb8205d5c75331a",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 12,
+      "pathway_share": 3,
+      "wage_statistic": 2,
+      "purchased_services": 1,
+      "capital_life": 1,
+      "occupational_assignment": 2,
+      "federal_review_time": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 4,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202402-1652-001",
+    "document_id": "063a47f93f61f15f",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "fee_treatment": 5,
+      "recordkeeping": 9,
+      "task_duration": 16,
+      "pathway_share": 1,
+      "federal_review_time": 2,
+      "item15_baseline": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202402-1652-002",
+    "document_id": "e7d4bdb069c78749",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 17,
+      "renewal": 4,
+      "recordkeeping": 2,
+      "fee_treatment": 3,
+      "federal_review_time": 4,
+      "federal_grade_pay": 2,
+      "wage_statistic": 1,
+      "purchased_services": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 4,
+      "pathway_share": 3,
+      "occupational_assignment": 3
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202403-1652-001",
+    "document_id": "379ceb621635874e",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 17,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "federal_review_time": 1,
+      "benefit_loading": 4,
+      "pathway_share": 3,
+      "occupational_assignment": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202403-1652-002",
+    "document_id": "5dc510e334685364",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "occupational_assignment": 22,
+      "benefit_loading": 6,
+      "legal_review": 5,
+      "task_duration": 9,
+      "recordkeeping": 10,
+      "pathway_share": 10,
+      "capital_life": 1,
+      "federal_review_time": 15,
+      "federal_grade_pay": 16,
+      "item15_baseline": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202405-1652-001",
+    "document_id": "ec74603e0223618a",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 19,
+      "renewal": 4,
+      "pathway_share": 3,
+      "occupational_assignment": 8,
+      "wage_statistic": 6,
+      "recordkeeping": 3,
+      "fee_treatment": 9,
+      "item15_baseline": 3,
+      "benefit_loading": 6
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202405-1652-002",
+    "document_id": "c13c5210a425ffaf",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 13,
+      "pathway_share": 5,
+      "occupational_assignment": 2,
+      "manager_review": 1,
+      "federal_review_time": 1,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 5
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202406-1652-001",
+    "document_id": "a895125d1fb1ab4d",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "capital_life": 2,
+      "task_duration": 40,
+      "recordkeeping": 16,
+      "fee_treatment": 3,
+      "purchased_services": 3,
+      "federal_grade_pay": 2,
+      "federal_review_time": 2,
+      "item15_baseline": 1,
+      "pathway_share": 1,
+      "occupational_assignment": 8,
+      "benefit_loading": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202407-1652-001",
+    "document_id": "d34f137d5c9271f3",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "renewal": 38,
+      "pathway_share": 27,
+      "task_duration": 53,
+      "occupational_assignment": 1,
+      "benefit_loading": 2,
+      "fee_treatment": 12,
+      "purchased_services": 1,
+      "federal_review_time": 6,
+      "capital_life": 1,
+      "item15_baseline": 1,
+      "wage_statistic": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202408-1652-002",
+    "document_id": "84140237b9ca0c68",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 77,
+      "recordkeeping": 15,
+      "renewal": 5,
+      "fee_treatment": 3,
+      "federal_review_time": 10,
+      "federal_grade_pay": 5,
+      "item15_baseline": 1,
+      "pathway_share": 3,
+      "benefit_loading": 5,
+      "occupational_assignment": 3
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202409-1652-001",
+    "document_id": "c98ecb748ce95a14",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "occupational_assignment": 22,
+      "benefit_loading": 6,
+      "legal_review": 5,
+      "task_duration": 9,
+      "recordkeeping": 10,
+      "pathway_share": 10,
+      "capital_life": 1,
+      "federal_review_time": 15,
+      "federal_grade_pay": 16,
+      "item15_baseline": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202409-1652-003",
+    "document_id": "d981aa6f238df6f1",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "pathway_share": 3,
+      "task_duration": 9,
+      "renewal": 1,
+      "federal_review_time": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 1,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202410-1652-003",
+    "document_id": "3d2299ea56cbc8a0",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "renewal": 2,
+      "pathway_share": 3,
+      "task_duration": 9,
+      "federal_review_time": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 1,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202410-1652-004",
+    "document_id": "b5fa062192cb9f44",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "pathway_share": 3,
+      "task_duration": 9,
+      "renewal": 1,
+      "federal_review_time": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 1,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202411-1652-001",
+    "document_id": "49b2b9502541f02b",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 6,
+      "capital_life": 1,
+      "federal_review_time": 4,
+      "item15_baseline": 1,
+      "pathway_share": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 1,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202411-1652-002",
+    "document_id": "6715e9b9016dbbb6",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 8,
+      "fee_treatment": 2,
+      "purchased_services": 3,
+      "pathway_share": 4,
+      "item15_baseline": 2,
+      "occupational_assignment": 1,
+      "benefit_loading": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202411-1652-003",
+    "document_id": "e2f3e7d603d2ca71",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 20,
+      "recordkeeping": 6,
+      "manager_review": 1,
+      "capital_life": 2,
+      "federal_grade_pay": 6,
+      "federal_review_time": 5,
+      "item15_baseline": 1,
+      "benefit_loading": 4,
+      "pathway_share": 1,
+      "occupational_assignment": 4
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202411-1652-004",
+    "document_id": "3b0b9ac7923c4094",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 21,
+      "pathway_share": 5,
+      "federal_grade_pay": 2,
+      "purchased_services": 2,
+      "item15_baseline": 1,
+      "occupational_assignment": 1,
+      "wage_statistic": 1,
+      "benefit_loading": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202411-1652-005",
+    "document_id": "7562b94fc9e5213d",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 10,
+      "capital_life": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "pathway_share": 1,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202411-1652-006",
+    "document_id": "c1c6fc1c79e0a1b2",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 11,
+      "federal_review_time": 3,
+      "benefit_loading": 2,
+      "pathway_share": 1,
+      "occupational_assignment": 1,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202411-1652-007",
+    "document_id": "324a50c2081f81eb",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 5,
+      "pathway_share": 2,
+      "purchased_services": 1,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "capital_life": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202411-1652-008",
+    "document_id": "cd40aa0f0f51e80e",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 11,
+      "purchased_services": 8,
+      "fee_treatment": 4,
+      "federal_review_time": 2,
+      "federal_grade_pay": 3,
+      "item15_baseline": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202412-1652-001",
+    "document_id": "a5016d2bfc99e07f",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 52,
+      "wage_statistic": 15,
+      "recordkeeping": 16,
+      "fee_treatment": 4,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "pathway_share": 3,
+      "occupational_assignment": 3,
+      "benefit_loading": 4,
+      "renewal": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202412-1652-002",
+    "document_id": "dcd646aba0eae9ba",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 7,
+      "occupational_assignment": 3,
+      "wage_statistic": 4,
+      "capital_life": 2,
+      "federal_review_time": 3,
+      "federal_grade_pay": 2,
+      "renewal": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 3,
+      "pathway_share": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202501-1652-002",
+    "document_id": "8af37d2513d06399",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 22,
+      "purchased_services": 6,
+      "wage_statistic": 3,
+      "benefit_loading": 5,
+      "familiarization": 1,
+      "fee_treatment": 1,
+      "federal_review_time": 1,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "occupational_assignment": 2,
+      "pathway_share": 1,
+      "capital_life": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202502-1652-003",
+    "document_id": "2efbc1473ae7c01a",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 12,
+      "pathway_share": 15,
+      "capital_life": 1,
+      "federal_review_time": 1,
+      "purchased_services": 2,
+      "benefit_loading": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202502-1652-004",
+    "document_id": "4639c859f157e253",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "renewal": 25,
+      "task_duration": 28,
+      "pathway_share": 12,
+      "legal_review": 1,
+      "occupational_assignment": 6,
+      "benefit_loading": 3,
+      "wage_statistic": 3,
+      "fee_treatment": 19
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202502-1652-005",
+    "document_id": "f0d95b1c8890ec97",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 39,
+      "renewal": 22,
+      "pathway_share": 29,
+      "wage_statistic": 4,
+      "fee_treatment": 13,
+      "purchased_services": 2,
+      "occupational_assignment": 2,
+      "benefit_loading": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202503-1652-001",
+    "document_id": "26928dbfe8aec669",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "pathway_share": 4,
+      "task_duration": 6,
+      "occupational_assignment": 1,
+      "benefit_loading": 3,
+      "capital_life": 1,
+      "federal_grade_pay": 4,
+      "federal_review_time": 2,
+      "renewal": 1,
+      "purchased_services": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202503-1652-002",
+    "document_id": "c4aa0bc913517a15",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 14,
+      "fee_treatment": 13,
+      "federal_review_time": 1,
+      "federal_grade_pay": 3,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "pathway_share": 2,
+      "occupational_assignment": 1,
+      "capital_life": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202503-1652-004",
+    "document_id": "09cd773be088cf39",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 10,
+      "wage_statistic": 6,
+      "federal_review_time": 3,
+      "federal_grade_pay": 4,
+      "item15_baseline": 1,
+      "pathway_share": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 4,
+      "capital_life": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202504-1652-001",
+    "document_id": "79730363ac54bed2",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 4,
+      "federal_review_time": 2,
+      "item15_baseline": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 2,
+      "pathway_share": 1,
+      "federal_grade_pay": 1,
+      "capital_life": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202504-1652-002",
+    "document_id": "f9f4063a8544b6f2",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 10,
+      "recordkeeping": 1,
+      "federal_review_time": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "occupational_assignment": 2,
+      "pathway_share": 1,
+      "federal_grade_pay": 1,
+      "capital_life": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202504-1652-003",
+    "document_id": "b705c84a5d18cab7",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 7,
+      "purchased_services": 1,
+      "item15_baseline": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202504-1652-004",
+    "document_id": "1d1cba8760d91677",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "recordkeeping": 7,
+      "task_duration": 41,
+      "pathway_share": 2,
+      "federal_review_time": 5,
+      "federal_grade_pay": 7,
+      "manager_review": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 6,
+      "occupational_assignment": 3,
+      "capital_life": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202504-1652-005",
+    "document_id": "9b52414d3682ca71",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 9,
+      "manager_review": 1,
+      "turnover": 2,
+      "federal_review_time": 2,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 3,
+      "occupational_assignment": 1,
+      "pathway_share": 1,
+      "capital_life": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202504-1652-006",
+    "document_id": "caa362cc8f9f7bcf",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 24,
+      "federal_review_time": 6,
+      "purchased_services": 9,
+      "item15_baseline": 1,
+      "pathway_share": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 1,
+      "federal_grade_pay": 2,
+      "capital_life": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202504-1652-007",
+    "document_id": "56fbc1bbe148dcc2",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 21,
+      "recordkeeping": 5,
+      "federal_review_time": 3,
+      "federal_grade_pay": 4,
+      "wage_statistic": 1,
+      "benefit_loading": 4,
+      "pathway_share": 2,
+      "occupational_assignment": 3,
+      "capital_life": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202504-1652-008",
+    "document_id": "ec91651842d62d7c",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "renewal": 27,
+      "task_duration": 29,
+      "pathway_share": 14,
+      "legal_review": 1,
+      "occupational_assignment": 6,
+      "benefit_loading": 3,
+      "wage_statistic": 3,
+      "fee_treatment": 18,
+      "item15_baseline": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202505-1652-001",
+    "document_id": "422ab985e5cf0cd3",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 13,
+      "pathway_share": 3,
+      "purchased_services": 3,
+      "renewal": 1,
+      "federal_review_time": 1,
+      "wage_statistic": 2,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202505-1652-002",
+    "document_id": "9de229df06f30230",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 4,
+      "renewal": 1,
+      "recordkeeping": 1,
+      "capital_life": 1,
+      "federal_review_time": 1,
+      "federal_grade_pay": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "pathway_share": 1,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202507-1652-001",
+    "document_id": "858bb1d7e5db0f50",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 8,
+      "recordkeeping": 1,
+      "pathway_share": 2,
+      "federal_review_time": 8,
+      "federal_grade_pay": 4,
+      "item15_baseline": 1,
+      "benefit_loading": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202508-1652-001",
+    "document_id": "64500383ca91f536",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 13,
+      "recordkeeping": 1,
+      "benefit_loading": 3,
+      "purchased_services": 4,
+      "item15_baseline": 1,
+      "pathway_share": 1,
+      "occupational_assignment": 2,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202509-1652-001",
+    "document_id": "93787579c5ece659",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 8,
+      "capital_life": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "pathway_share": 1,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202511-1652-001",
+    "document_id": "6294f56ee7c9fc3c",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 13,
+      "pathway_share": 13,
+      "capital_life": 1,
+      "wage_statistic": 1,
+      "federal_review_time": 1,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "benefit_loading": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202512-1652-001",
+    "document_id": "e21e863d84c9cbf0",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 21,
+      "federal_review_time": 9,
+      "federal_grade_pay": 4,
+      "manager_review": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 4,
+      "pathway_share": 1,
+      "occupational_assignment": 3
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202601-1652-002",
+    "document_id": "068c444986b25632",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 11,
+      "pathway_share": 2,
+      "capital_life": 1,
+      "item15_baseline": 1,
+      "benefit_loading": 2,
+      "occupational_assignment": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202601-1652-003",
+    "document_id": "981dcb8d202488cb",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 10,
+      "wage_statistic": 2,
+      "pathway_share": 8,
+      "federal_review_time": 4,
+      "item15_baseline": 1,
+      "occupational_assignment": 1,
+      "benefit_loading": 2,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202601-1652-004",
+    "document_id": "bdc1aca1363f9259",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 15,
+      "manager_review": 1,
+      "federal_grade_pay": 3,
+      "federal_review_time": 2,
+      "item15_baseline": 2,
+      "purchased_services": 1,
+      "pathway_share": 2,
+      "occupational_assignment": 2,
+      "benefit_loading": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202605-1652-001",
+    "document_id": "af0654b8aa99fbd8",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 21,
+      "occupational_assignment": 5,
+      "wage_statistic": 5,
+      "benefit_loading": 5,
+      "pathway_share": 5,
+      "purchased_services": 6,
+      "fee_treatment": 1,
+      "federal_review_time": 1,
+      "federal_grade_pay": 2,
+      "item15_baseline": 1,
+      "capital_life": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202605-1652-002",
+    "document_id": "645a4293a181a0d6",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "renewal": 39,
+      "pathway_share": 28,
+      "task_duration": 62,
+      "fee_treatment": 13,
+      "occupational_assignment": 1,
+      "benefit_loading": 2,
+      "purchased_services": 1,
+      "federal_review_time": 7,
+      "capital_life": 1,
+      "item15_baseline": 1,
+      "wage_statistic": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202606-1652-001",
+    "document_id": "b4c6f91a6ebc5180",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 37,
+      "wage_statistic": 1,
+      "benefit_loading": 11,
+      "turnover": 5,
+      "pathway_share": 4,
+      "federal_review_time": 17,
+      "federal_grade_pay": 11,
+      "item15_baseline": 3,
+      "occupational_assignment": 6
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202606-1652-002",
+    "document_id": "00a9c8c3eeb406bf",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 38,
+      "renewal": 23,
+      "pathway_share": 29,
+      "wage_statistic": 4,
+      "fee_treatment": 15,
+      "purchased_services": 2,
+      "occupational_assignment": 2,
+      "benefit_loading": 2
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202606-1652-003",
+    "document_id": "7e92d50279d4ee1d",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 14,
+      "purchased_services": 12,
+      "occupational_assignment": 3,
+      "wage_statistic": 4,
+      "benefit_loading": 3,
+      "fee_treatment": 3,
+      "federal_review_time": 2,
+      "federal_grade_pay": 2,
+      "item15_baseline": 2,
+      "pathway_share": 3,
+      "capital_life": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202606-1652-004",
+    "document_id": "f42cff043f4b2255",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 3,
+      "pathway_share": 1,
+      "purchased_services": 1,
+      "federal_review_time": 1,
+      "item15_baseline": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  },
+  {
+    "ref": "202606-1652-005",
+    "document_id": "2dca2d1c1e3d7f57",
+    "recent_portfolio": true,
+    "family_candidate_counts": {
+      "task_duration": 9,
+      "wage_statistic": 2,
+      "recordkeeping": 1,
+      "federal_review_time": 4,
+      "occupational_assignment": 1,
+      "benefit_loading": 2,
+      "federal_grade_pay": 1
+    },
+    "semantic_review_status": "See curated evidence; indexing alone does not qualify as semantic review"
+  }
+]

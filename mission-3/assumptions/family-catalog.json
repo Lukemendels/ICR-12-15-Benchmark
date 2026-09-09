@@ -1,0 +1,155 @@
+[
+  {
+    "id": "FAM-task_duration",
+    "family": "task_duration",
+    "discovery_pattern": "\\bminutes?\\b|\\bhours?\\b|\\bseconds?\\b",
+    "candidate_lines": 2405,
+    "unique_versions": 134,
+    "unique_recent_versions": 90,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-pathway_share",
+    "family": "pathway_share",
+    "discovery_pattern": "percent|\\d\\s*%",
+    "candidate_lines": 545,
+    "unique_versions": 121,
+    "unique_recent_versions": 83,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-federal_grade_pay",
+    "family": "federal_grade_pay",
+    "discovery_pattern": "\\bband\\b|\\bGS[- ]\\d|federal.{0,20}(?:salary|wage)",
+    "candidate_lines": 278,
+    "unique_versions": 99,
+    "unique_recent_versions": 66,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-manager_review",
+    "family": "manager_review",
+    "discovery_pattern": "(?:manager|director|coordinator).{0,100}review|review.{0,100}(?:manager|director|coordinator)",
+    "candidate_lines": 22,
+    "unique_versions": 19,
+    "unique_recent_versions": 14,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-federal_review_time",
+    "family": "federal_review_time",
+    "discovery_pattern": "review|process",
+    "candidate_lines": 357,
+    "unique_versions": 100,
+    "unique_recent_versions": 69,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-purchased_services",
+    "family": "purchased_services",
+    "discovery_pattern": "contract|postage|printing|out.of.pocket|purchas|medical exam",
+    "candidate_lines": 168,
+    "unique_versions": 54,
+    "unique_recent_versions": 34,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-item15_baseline",
+    "family": "item15_baseline",
+    "discovery_pattern": "previous|prior|baseline|change|adjust|increas|decreas",
+    "candidate_lines": 150,
+    "unique_versions": 116,
+    "unique_recent_versions": 77,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-benefit_loading",
+    "family": "benefit_loading",
+    "discovery_pattern": "compensation factor|load factor|loading|benefit|total compensation",
+    "candidate_lines": 374,
+    "unique_versions": 126,
+    "unique_recent_versions": 84,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-wage_statistic",
+    "family": "wage_statistic",
+    "discovery_pattern": "mean wage|average hourly wage|median|percentile",
+    "candidate_lines": 143,
+    "unique_versions": 45,
+    "unique_recent_versions": 30,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-capital_life",
+    "family": "capital_life",
+    "discovery_pattern": "capital|useful life|amortiz|depreciat|startup|start.up",
+    "candidate_lines": 59,
+    "unique_versions": 50,
+    "unique_recent_versions": 33,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-occupational_assignment",
+    "family": "occupational_assignment",
+    "discovery_pattern": "\\bSOC\\b|occupation|\\bNAICS\\b|proxy.{0,30}wage",
+    "candidate_lines": 281,
+    "unique_versions": 106,
+    "unique_recent_versions": 70,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-legal_review",
+    "family": "legal_review",
+    "discovery_pattern": "legal|attorney|counsel",
+    "candidate_lines": 16,
+    "unique_versions": 7,
+    "unique_recent_versions": 5,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-renewal",
+    "family": "renewal",
+    "discovery_pattern": "renew|recertif",
+    "candidate_lines": 313,
+    "unique_versions": 34,
+    "unique_recent_versions": 23,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-fee_treatment",
+    "family": "fee_treatment",
+    "discovery_pattern": "\\bfees?\\b|offset|cost recovery",
+    "candidate_lines": 257,
+    "unique_versions": 34,
+    "unique_recent_versions": 23,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-familiarization",
+    "family": "familiarization",
+    "discovery_pattern": "familiariz|read(?:ing)? (?:the )?instruct",
+    "candidate_lines": 4,
+    "unique_versions": 4,
+    "unique_recent_versions": 3,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-recordkeeping",
+    "family": "recordkeeping",
+    "discovery_pattern": "recordkeep|record keeping|maintain.{0,30}records",
+    "candidate_lines": 210,
+    "unique_versions": 35,
+    "unique_recent_versions": 25,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  },
+  {
+    "id": "FAM-turnover",
+    "family": "turnover",
+    "discovery_pattern": "turnover|separation|mobility",
+    "candidate_lines": 19,
+    "unique_versions": 7,
+    "unique_recent_versions": 5,
+    "interpretation": "Candidates include zeros, bundled tasks and citations; use reviewed scalar/qualitative assumptions for comparisons."
+  }
+]

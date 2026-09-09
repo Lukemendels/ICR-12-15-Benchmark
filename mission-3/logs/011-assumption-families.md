@@ -1,0 +1,7 @@
+# Batch11: recurring assumptions
+
+All134 statement texts have searchable family coverage.17 lexical family indexes are explicitly INFERRED discovery aids; they include zero statements, citations and false-positive concepts and are never treated as scalar assumptions.40 distinct analyst-selected scalar assumptions retain actor, scope, source period/vintage where observable, original unit/value, normalized unit/value and exact source line. Existing curated activity and cohort records supply additional task and pathway assumptions.
+
+Concrete query caveats: legal-review search includes legal-name text; only the cyber proposal family's four-hour COIP legal review is positively extracted. Capital-life hits often describe explicit zeros or construction amounts; a dollar construction cost is not a useful-life assumption. One recent collection explicitly links monthly JOLTS separations and annual CPS mobility to coordinator updates. Other turnover evidence uses program counts, not a demonstrated shared JOLTS coefficient. No broad shared-turnover-source claim is justified.
+
+Identified method comparisons: repeated transport-worker compensation-ratio construction; differing source vintages/population universes; equal one-minute training recordkeeping across surface modes; same five-minute cybersecurity coordinator email task across rail/bus modes; pipeline's30-minute operator update retains unresolved bundle size. Older and new HME partitions are kept distinct. No schema expansion; semantic coverage remains under review, so no saturation claim yet.
