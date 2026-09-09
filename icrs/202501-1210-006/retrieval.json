@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202501-1210-006",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202501-1210-006"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202501-1210-006",
+  "agency": "DOL/EBSA",
+  "title": "Settlement Agreements Between a Plan and a Party in Interest",
+  "omb_control_number": "1210-0091",
+  "submission_date": "04/14/2025",
+  "record_source_id": "SRC-0085",
+  "supporting_statement_source_ids": [
+    "SRC-0086"
+  ]
 }

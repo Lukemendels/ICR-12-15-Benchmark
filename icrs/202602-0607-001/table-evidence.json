@@ -1,0 +1,167 @@
+{
+  "status": "Parsed source cells; not automatically normalized model inputs",
+  "tables": [
+    {
+      "source_file": "icrs/202602-0607-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "The ABS will be mailed to approximately 230,000 respondents. For businesses, the sample will yield summary-level estimates for businesses by owner characteristics at the NAICS sector level, and by U.S., state, metropolitan statistical area (MSA), county, and congressional district. Response times will vary for selected respondents. The estimated time to complete for employer for-profit businesses increases from 29 minutes to 45 minutes due to expanded innovation content. This expanded innovation content was previously approved in ABS as rotating content. For those businesses that would have previously received the separate BERD survey (and now will be asked those questions on the ABS), the estimated time to complete is the BERD burden (2 Hours and 37 Minutes) plus 45 minutes. The estimated time to complete for nonprofit organizations remains unchanged at 38 minutes.",
+      "rows": [
+        {
+          "text_line": 203,
+          "cells": [
+            "",
+            "Number",
+            "Burden Estimate per Response",
+            "Total Burden Hours"
+          ]
+        },
+        {
+          "text_line": 204,
+          "cells": [
+            "Employer Businesses without BERD content",
+            "174,500",
+            "45 Minutes",
+            "130,875"
+          ]
+        },
+        {
+          "text_line": 205,
+          "cells": [
+            "Employer Businesses with BERD content",
+            "47,500",
+            "3 Hours and 22 Minutes",
+            "159,916"
+          ]
+        },
+        {
+          "text_line": 206,
+          "cells": [
+            "Nonprofit Organizations",
+            "8,000",
+            "38 Minutes",
+            "5,067"
+          ]
+        },
+        {
+          "text_line": 207,
+          "cells": [
+            "Total",
+            "230,000",
+            "-----",
+            "295 , 858"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202602-0607-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "For collections of information whose results will be published, outline plans for tabulation and publication. Address any complex analytical techniques that will be used. Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.",
+      "rows": [
+        {
+          "text_line": 224,
+          "cells": [
+            "Milestone",
+            "RY25  ABS Planned Completion Date"
+          ]
+        },
+        {
+          "text_line": 225,
+          "cells": [
+            "Content Draft",
+            "November 2025"
+          ]
+        },
+        {
+          "text_line": 226,
+          "cells": [
+            "Cognitive Testing",
+            "January 2026"
+          ]
+        },
+        {
+          "text_line": 227,
+          "cells": [
+            "Content Final",
+            "February  202 6"
+          ]
+        },
+        {
+          "text_line": 228,
+          "cells": [
+            "Approval Request Submitted to OMB",
+            "February 2026"
+          ]
+        },
+        {
+          "text_line": 229,
+          "cells": [
+            "Instrument Usability Testing Complete",
+            "March 2026"
+          ]
+        },
+        {
+          "text_line": 230,
+          "cells": [
+            "Online Reporting Instrument Testing Complete",
+            "April 2026"
+          ]
+        },
+        {
+          "text_line": 231,
+          "cells": [
+            "Sample Selection",
+            "April 2026"
+          ]
+        },
+        {
+          "text_line": 232,
+          "cells": [
+            "Initial Mail  Operations",
+            "Late May   2026"
+          ]
+        },
+        {
+          "text_line": 233,
+          "cells": [
+            "Closeout  Mail Operations",
+            "December 202 6"
+          ]
+        },
+        {
+          "text_line": 234,
+          "cells": [
+            "Micro Data Review Complete",
+            "January  202 7"
+          ]
+        },
+        {
+          "text_line": 235,
+          "cells": [
+            "Macro Data Review Complete",
+            "March  202 7"
+          ]
+        },
+        {
+          "text_line": 236,
+          "cells": [
+            "Preliminary Data Publication",
+            "March 2027"
+          ]
+        },
+        {
+          "text_line": 237,
+          "cells": [
+            "Dissemination Processing",
+            "September  202 7"
+          ]
+        },
+        {
+          "text_line": 238,
+          "cells": [
+            "Final Data Publication",
+            "October 2027"
+          ]
+        }
+      ]
+    }
+  ]
+}

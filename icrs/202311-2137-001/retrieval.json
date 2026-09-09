@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202311-2137-001",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202311-2137-001"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202311-2137-001",
+  "agency": "DOT/PHMSA",
+  "title": "Hazardous Materials Security Plans",
+  "omb_control_number": "2137-0612",
+  "submission_date": "11/14/2023",
+  "record_source_id": "SRC-0079",
+  "supporting_statement_source_ids": [
+    "SRC-0080"
+  ]
 }

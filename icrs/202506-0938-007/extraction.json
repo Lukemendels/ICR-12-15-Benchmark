@@ -1,0 +1,158 @@
+{
+  "icr_id": "202506-0938-007",
+  "omb_control_number": "0938-0050",
+  "agency": "HHS/CMS",
+  "title": "Hospitals and Health Care Complex Cost Report (CMS-2552-10)",
+  "submission_date": "06/11/2025",
+  "archetype": "hospital cost reporting",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 4,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0090",
+    "SRC-0089"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 9,
+    "segmentation": 10,
+    "labor": 4,
+    "item13": 4,
+    "item14": 4,
+    "item15": 7,
+    "validation": 3,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Hospital count and two activity/occupation groups reconstruct hours and labor cost.",
+    "provenance": "Dated STAR registry and 2023 OEWS occupation inputs; burden hours inherited.",
+    "segmentation": "Reporting and recordkeeping separated, but hospital complexity variation not modeled.",
+    "labor": "Occupation match and doubling stated; 100% benefit/overhead markup is not derived.",
+    "item13": "Capital zero asserted without discussion of O&M and cost-report software.",
+    "item14": "MAC and CMS totals supplied without hours, rates or allocation methodology.",
+    "item15": "Old/new hospital counts, time and cost shown, with transfers from two controls; transfer-to-average-hour derivation unclear.",
+    "validation": "Administrative population count supported; 675 hours lacks measured timing validation.",
+    "consistency": "Main products reconcile; transferred requirement counts do not directly explain one additional hour for all hospitals."
+  },
+  "thoroughness": "moderate",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Recordkeeping",
+        6044,
+        538,
+        3251672
+      ],
+      [
+        "Reporting",
+        6044,
+        137,
+        828028
+      ]
+    ],
+    "labor": {
+      "soc": [
+        "43-3031",
+        "13-2011"
+      ],
+      "base_rates": [
+        23.84,
+        43.65
+      ],
+      "factor": 2,
+      "loaded_rates": [
+        47.68,
+        87.3
+      ],
+      "cost_per_hospital": 37611.94,
+      "total_cost": 227326565
+    },
+    "item13": {
+      "capital": 0,
+      "om": "not discussed"
+    },
+    "item14": {
+      "MAC": 64878604,
+      "CMS": 74301,
+      "annual_cost": 64952905
+    },
+    "item15": {
+      "old_hospitals": 6075,
+      "new_hospitals": 6044,
+      "old_hours_each": 674,
+      "new_hours_each": 675,
+      "delta_hours": -14850,
+      "transfers": [
+        {
+          "control": "0938-1473",
+          "old_count": 500,
+          "new_count": 479,
+          "old_hours_each": 1
+        },
+        {
+          "control": "0938-1425",
+          "old_count": 4662,
+          "new_count": 4155,
+          "old_hours_each": 0.5
+        }
+      ],
+      "old_cost_each": 34367.18,
+      "new_cost_each": 37611.94
+    },
+    "assumptions": [
+      "6044 hospital count from STAR as of 2024-12-27.",
+      "Transferred reporting partly automated, but one-hour average addition is not derived."
+    ]
+  },
+  "reconstruction_issues": [
+    "The transferred counts and stated former times imply 2556.5 hours before further automation, not the 6044-hour addition; different remaining recordkeeping scope may explain this but is not quantified.",
+    "Federal contractor and CMS totals are not independently reconstructable."
+  ],
+  "methods_worth_testing": [
+    "Maintain a cross-control transfer ledger with before/after automation and recordkeeping scope."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "6044*(538+137)",
+      "calculated": 4079700,
+      "reported": 4079700,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0090"
+    },
+    {
+      "label": "Labor",
+      "formula": "6044*(538*47.68+137*87.30)",
+      "calculated": 227326565.36,
+      "reported": 227326565,
+      "difference": 0.36000001430511475,
+      "unit": "USD",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0090"
+    },
+    {
+      "label": "Change",
+      "formula": "(6044-6075)*674+6044",
+      "calculated": -14850,
+      "reported": -14850,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0090"
+    }
+  ],
+  "total_score": 60,
+  "table_evidence_path": "icrs/202506-0938-007/table-evidence.json",
+  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+}

@@ -1,0 +1,152 @@
+{
+  "status": "Parsed source cells; not automatically normalized model inputs",
+  "tables": [
+    {
+      "source_file": "icrs/202409-2126-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1. \u2013 Estimated Annual Reporting Burden",
+      "rows": [
+        {
+          "text_line": 86,
+          "cells": [
+            "Category of Respondent ",
+            "No. of Respondents",
+            "Participation Time (minutes)",
+            "Burden (hours)"
+          ]
+        },
+        {
+          "text_line": 87,
+          "cells": [
+            "IC-1: Pre-testing survey instrument",
+            "10",
+            "10 ",
+            "1.66 "
+          ]
+        },
+        {
+          "text_line": 88,
+          "cells": [
+            "IC-2: Piloting the survey",
+            "50",
+            "10 ",
+            "8.33 "
+          ]
+        },
+        {
+          "text_line": 89,
+          "cells": [
+            "IC-3: Self-administered survey",
+            "1,000",
+            "10",
+            "166.66"
+          ]
+        },
+        {
+          "text_line": 90,
+          "cells": [
+            "Totals",
+            "1,060",
+            "10 ",
+            "176.65 "
+          ]
+        },
+        {
+          "text_line": 91,
+          "cells": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 92,
+          "cells": [
+            "Average Mean Hourly Wage - $21.92",
+            "",
+            "",
+            "$3,872.17"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202409-2126-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 2. \u2013 FMCSA CMV Outreach Contract Base Year Breakdown",
+      "rows": [
+        {
+          "text_line": 102,
+          "cells": [
+            "Item Number",
+            "Service Supplied",
+            "Amount"
+          ]
+        },
+        {
+          "text_line": 103,
+          "cells": [
+            "001",
+            "Develop and implement CMV Safety Belt Use Campaign",
+            "$159,390.98"
+          ]
+        },
+        {
+          "text_line": 104,
+          "cells": [
+            "002",
+            "Execute, monitor, and measure the 2023 Outreach Campaign",
+            "$94,306.14"
+          ]
+        },
+        {
+          "text_line": 105,
+          "cells": [
+            "003",
+            "Develop innovative marketing and communication assets for the 2024 campaign",
+            "$85,263.16"
+          ]
+        },
+        {
+          "text_line": 106,
+          "cells": [
+            "004",
+            "Media Costs",
+            "$210,000.00"
+          ]
+        },
+        {
+          "text_line": 107,
+          "cells": [
+            "005",
+            "Other Direct Costs",
+            "$64,500.00"
+          ]
+        },
+        {
+          "text_line": 108,
+          "cells": [
+            "006",
+            "Travel",
+            "$500.00"
+          ]
+        },
+        {
+          "text_line": 109,
+          "cells": [
+            "007",
+            "Conduct Safety Belt Usage Survey",
+            "$35,950.25"
+          ]
+        },
+        {
+          "text_line": 110,
+          "cells": [
+            "Total",
+            "",
+            "$649,910.53"
+          ]
+        }
+      ]
+    }
+  ]
+}

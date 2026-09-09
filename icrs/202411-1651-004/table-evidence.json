@@ -1,0 +1,688 @@
+{
+  "status": "Parsed source cells; not automatically normalized model inputs",
+  "tables": [
+    {
+      "source_file": "icrs/202411-1651-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Shipper Pre-Arrival Information",
+      "rows": [
+        {
+          "text_line": 38,
+          "cells": [
+            "",
+            "\u00a0",
+            "\u00a0",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 39,
+          "cells": [
+            "ACE CATAIR Requirements ",
+            "Description"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202411-1651-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "ENTRY SUMMARY HEADER LEVEL INFORMATION",
+      "rows": [
+        {
+          "text_line": 41,
+          "cells": [
+            "District/Port of Entry",
+            "Port where merchandise is entered (under entry or immediate delivery permit)"
+          ]
+        },
+        {
+          "text_line": 42,
+          "cells": [
+            "Mode of Transportation (MOT) Code",
+            "Mode by  which me r chandise entered US port or arrival from the last foreign county"
+          ]
+        },
+        {
+          "text_line": 43,
+          "cells": [
+            "Importer of Record Number",
+            "Party liable for payment of duties and meeting import requirements"
+          ]
+        },
+        {
+          "text_line": 44,
+          "cells": [
+            "Consignee Number",
+            "Party on whose account merchandise is shipped"
+          ]
+        },
+        {
+          "text_line": 45,
+          "cells": [
+            "Estimated Date of Export",
+            "Scheduled Injection Date"
+          ]
+        },
+        {
+          "text_line": 46,
+          "cells": [
+            "Carrier Code",
+            "Entity responsible for transporting merchandise from foreign port of lading to first US port of unlading  (SCAC)"
+          ]
+        },
+        {
+          "text_line": 47,
+          "cells": [
+            "Estimated Date of Entry",
+            "Date merchandise arrived or expected to arrive at  port of entry"
+          ]
+        },
+        {
+          "text_line": 48,
+          "cells": [
+            "Bill of Lading",
+            "Free Text field to record batch # "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202411-1651-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "ENTRY SUMMARY LINE LEVEL INFORMATION",
+      "rows": [
+        {
+          "text_line": 51,
+          "cells": [
+            "HTS Number",
+            "Numeric code  \u2013  10 digits"
+          ]
+        },
+        {
+          "text_line": 52,
+          "cells": [
+            "Country of Export Code",
+            "Country from which article was shipped to US"
+          ]
+        },
+        {
+          "text_line": 53,
+          "cells": [
+            "Foreign Port of Lading Code",
+            "Foreign port where merchandise laden"
+          ]
+        },
+        {
+          "text_line": 54,
+          "cells": [
+            "Quantity ",
+            "Net Quantity expressed in HTSUS unit of measurement"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202411-1651-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Shipper Post-Arrival Information for Filing Entry",
+      "rows": [
+        {
+          "text_line": 59,
+          "cells": [
+            "\u00a0",
+            "\u00a0"
+          ]
+        },
+        {
+          "text_line": 60,
+          "cells": [
+            "ACE CATAIR Requirements ",
+            "Description"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202411-1651-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "ENTRY SUMMARY HEADER LEVEL INFORMATION",
+      "rows": [
+        {
+          "text_line": 62,
+          "cells": [
+            "Entry Filer  Code",
+            "3 - character filer code"
+          ]
+        },
+        {
+          "text_line": 63,
+          "cells": [
+            "Entry Number",
+            "Unique 7-digit identifying number assigned by filer plus 1 check digit"
+          ]
+        },
+        {
+          "text_line": 64,
+          "cells": [
+            "District/Port of Entry",
+            "Port where merchandise is entered (under entry or immediate delivery permit)"
+          ]
+        },
+        {
+          "text_line": 65,
+          "cells": [
+            "Entry Type Code",
+            "Code identifying type of entry being submitted"
+          ]
+        },
+        {
+          "text_line": 66,
+          "cells": [
+            "Mode of Transportation (MOT) Code",
+            "Mode by which merchandise entered US port or arrival from the last foreign county"
+          ]
+        },
+        {
+          "text_line": 67,
+          "cells": [
+            "Bond Type Code",
+            "Indication of importer bond type"
+          ]
+        },
+        {
+          "text_line": 68,
+          "cells": [
+            "Importer of Record Number",
+            "Party liable for payment of duties and meeting import requirements"
+          ]
+        },
+        {
+          "text_line": 69,
+          "cells": [
+            "Importer of Record Name/Address",
+            "N ame and address of importer number above"
+          ]
+        },
+        {
+          "text_line": 70,
+          "cells": [
+            "Consignee Number",
+            "Party on whose account merchandise is shipped"
+          ]
+        },
+        {
+          "text_line": 71,
+          "cells": [
+            "Consignee Name/Address",
+            "N ame and address of  consignee number above"
+          ]
+        },
+        {
+          "text_line": 72,
+          "cells": [
+            "Date of Importation",
+            "Date me r chandise arrived in port of arrival"
+          ]
+        },
+        {
+          "text_line": 73,
+          "cells": [
+            "Carrier Code",
+            "Entity responsible for transporting merchandise from foreign port of lading to first US port of unlading"
+          ]
+        },
+        {
+          "text_line": 74,
+          "cells": [
+            "Estimated Date of Arrival",
+            "Date merchandise arrived or expected to arrive at port of entry"
+          ]
+        },
+        {
+          "text_line": 75,
+          "cells": [
+            "Bill of Lading",
+            "Free Text field to record batch # and ticket # for oil"
+          ]
+        },
+        {
+          "text_line": 76,
+          "cells": [
+            "FIRMS Code",
+            "K nown location of merchandise at time of filing"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202411-1651-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "ENTRY SUMMARY LINE LEVEL INFORMATION",
+      "rows": [
+        {
+          "text_line": 78,
+          "cells": [
+            "Line Item  Identifier",
+            "Identifi c ation of specific line within entry summary"
+          ]
+        },
+        {
+          "text_line": 79,
+          "cells": [
+            "HTS Number",
+            "Numeric code - 10 digits"
+          ]
+        },
+        {
+          "text_line": 80,
+          "cells": [
+            "Country of Origin Code",
+            "C ountry from which article originated"
+          ]
+        },
+        {
+          "text_line": 81,
+          "cells": [
+            "Country of Export Code",
+            "Country from which article was shipped to US"
+          ]
+        },
+        {
+          "text_line": 82,
+          "cells": [
+            "Date of Export",
+            "Date  the vessel departed from exporting county"
+          ]
+        },
+        {
+          "text_line": 83,
+          "cells": [
+            "Foreign Port of Lading Code",
+            "Foreign port where merchandise laden"
+          ]
+        },
+        {
+          "text_line": 84,
+          "cells": [
+            "Quantity ",
+            "Net Quantity expressed in HTSUS unit of measurement"
+          ]
+        },
+        {
+          "text_line": 85,
+          "cells": [
+            "Free Text 1",
+            "R eserved for  Natural Gas  Heat Content"
+          ]
+        },
+        {
+          "text_line": 86,
+          "cells": [
+            "Surety Company Code",
+            "identification of surety underwriting bond"
+          ]
+        },
+        {
+          "text_line": 87,
+          "cells": [
+            "Gross Shipping Weight",
+            "Gross weight in Kilograms"
+          ]
+        },
+        {
+          "text_line": 88,
+          "cells": [
+            "Electronic Signature",
+            "Filers Electronic Signature"
+          ]
+        },
+        {
+          "text_line": 89,
+          "cells": [
+            "In-Bond/In-Transit date",
+            "Date the in-bond movement referenced in the in - bond/in - transit numbers took place"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202411-1651-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Pipeline In-Bond Pre-Arrival Information",
+      "rows": [
+        {
+          "text_line": 93,
+          "cells": [
+            "\u00a0",
+            "\u00a0",
+            "\u00a0",
+            "\u00a0",
+            "\u00a0"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202411-1651-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Consolidated Volumetric Filing for each Delivery Site in each Port of Entry to open in-bond filing by location",
+      "rows": [
+        {
+          "text_line": 95,
+          "cells": [
+            "\u00a0",
+            "\u00a0",
+            "\u00a0",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 96,
+          "cells": [
+            "ACE CATAIR Requirements ",
+            "Description"
+          ]
+        },
+        {
+          "text_line": 97,
+          "cells": [
+            "In-Bond Entry Type",
+            "61 = Immediate Transport (IT) (moving into US without entry at border)"
+          ]
+        },
+        {
+          "text_line": 98,
+          "cells": [
+            "",
+            "62 - Transportation and Exportation (T&E) (in-transit CA-US-CA movements)"
+          ]
+        },
+        {
+          "text_line": 99,
+          "cells": [
+            "In-Bond Number",
+            "\u00a0 CBP Control Number"
+          ]
+        },
+        {
+          "text_line": 100,
+          "cells": [
+            "Carrier Code",
+            "Carrier SCAC code"
+          ]
+        },
+        {
+          "text_line": 101,
+          "cells": [
+            "In-bond Carrier ID",
+            "Carrier Bond  Number"
+          ]
+        },
+        {
+          "text_line": 102,
+          "cells": [
+            "Mode of Transport Code",
+            "Default to 70"
+          ]
+        },
+        {
+          "text_line": 103,
+          "cells": [
+            "Country Code of Importing Carrier",
+            "\u00a0CA"
+          ]
+        },
+        {
+          "text_line": 104,
+          "cells": [
+            "Importing Conveyance Name",
+            "\u00a0Pipeline Name"
+          ]
+        },
+        {
+          "text_line": 105,
+          "cells": [
+            "Foreign Port of Lading",
+            "\u00a0Injection Site"
+          ]
+        },
+        {
+          "text_line": 106,
+          "cells": [
+            "US Port of Destination",
+            "61 =  P ort of termination"
+          ]
+        },
+        {
+          "text_line": 107,
+          "cells": [
+            "Foreign Port of Destination",
+            "62 -  P ort of exportation"
+          ]
+        },
+        {
+          "text_line": 108,
+          "cells": [
+            "Estimated Date of Arrival",
+            "Date merchandise arrived or expected to arrive at port of entry"
+          ]
+        },
+        {
+          "text_line": 109,
+          "cells": [
+            "In - bond Quantity",
+            "Aggregation"
+          ]
+        },
+        {
+          "text_line": 110,
+          "cells": [
+            "Manifest Quantity",
+            "Aggregation"
+          ]
+        },
+        {
+          "text_line": 111,
+          "cells": [
+            "Consignee",
+            "Aggregation (Count of Consignees)"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202411-1651-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Pipeline In-Bond P ost -Arrival Information",
+      "rows": [
+        {
+          "text_line": 115,
+          "cells": [
+            "\u00a0",
+            "\u00a0",
+            "\u00a0",
+            "\u00a0",
+            "\u00a0"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202411-1651-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Detailed Delivery Filing to close In-bond filings by location",
+      "rows": [
+        {
+          "text_line": 117,
+          "cells": [
+            "\u00a0",
+            "\u00a0",
+            "\u00a0",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 118,
+          "cells": [
+            "ACE CATAIR Requirements ",
+            "Description"
+          ]
+        },
+        {
+          "text_line": 119,
+          "cells": [
+            "In-Bond Entry Type",
+            "61 = Immediate Transport (IT) (moving into US without entry at border)"
+          ]
+        },
+        {
+          "text_line": 120,
+          "cells": [
+            "",
+            "62 -  Transportation and Exportation (T&E) (in-transit CA-US-CA movements)"
+          ]
+        },
+        {
+          "text_line": 121,
+          "cells": [
+            "In-Bond Number",
+            "CBP Control Number"
+          ]
+        },
+        {
+          "text_line": 122,
+          "cells": [
+            "Carrier Code",
+            "Carrier SCAC code"
+          ]
+        },
+        {
+          "text_line": 123,
+          "cells": [
+            "In-bond Carrier ID",
+            "Carrier Bond Number"
+          ]
+        },
+        {
+          "text_line": 124,
+          "cells": [
+            "Mode of Transport Code",
+            "Default to 70"
+          ]
+        },
+        {
+          "text_line": 125,
+          "cells": [
+            "Country Code of Importing Carrier",
+            "CA"
+          ]
+        },
+        {
+          "text_line": 126,
+          "cells": [
+            "Importing Conveyance Name",
+            "Pipeline Name"
+          ]
+        },
+        {
+          "text_line": 127,
+          "cells": [
+            "In - bond Quantity",
+            "Total Delivered volume for month"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202411-1651-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Per Batch information to confirm delivery of volume",
+      "rows": [
+        {
+          "text_line": 129,
+          "cells": [
+            "Foreign Port of Lading",
+            "Foreign port where merchandise laden"
+          ]
+        },
+        {
+          "text_line": 130,
+          "cells": [
+            "US Port of Destination",
+            "61 = port of  termination"
+          ]
+        },
+        {
+          "text_line": 131,
+          "cells": [
+            "Foreign Port of Destination",
+            "62 - port of exportation"
+          ]
+        },
+        {
+          "text_line": 132,
+          "cells": [
+            "Date of Arrival",
+            "Delivery Date"
+          ]
+        },
+        {
+          "text_line": 133,
+          "cells": [
+            "Quantity",
+            "Delivered Volume (net)"
+          ]
+        },
+        {
+          "text_line": 134,
+          "cells": [
+            "Consignee",
+            "Consignee"
+          ]
+        },
+        {
+          "text_line": 135,
+          "cells": [
+            "Free Text 2",
+            "Batch # / Ticket Number (Crude)"
+          ]
+        },
+        {
+          "text_line": 136,
+          "cells": [
+            "Free Text 3",
+            "Trade Name and  Density (Crude)"
+          ]
+        },
+        {
+          "text_line": 137,
+          "cells": [
+            "Date of Export",
+            "Injection Date"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202411-1651-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "12. Provide estimates of the hour burden of the collection of information.",
+      "rows": [
+        {
+          "text_line": 202,
+          "cells": [
+            "INFORMATION COLLECTION ",
+            "TOTAL ANNUAL BURDEN HOURS",
+            "NO. OF RESPONDENTS",
+            "NO. OF RESPONSES      PER  RESPONDENT",
+            "TOTAL RESPONSES",
+            "TIME PER RESPONSE"
+          ]
+        },
+        {
+          "text_line": 203,
+          "cells": [
+            "Non-standard   Pdf",
+            "    1 ,152",
+            "2 4",
+            "12",
+            "288",
+            "4  Hours"
+          ]
+        }
+      ]
+    }
+  ]
+}

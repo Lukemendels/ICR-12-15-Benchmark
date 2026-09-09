@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202408-1902-001",
+  "retrieved_at": "2026-09-09T11:02:22.009493+00:00",
+  "documents": [
+    {
+      "title": "FERC-725A Supporting Statement Updated 6.13.25.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=148759502",
+      "path": "icrs/202408-1902-001/raw/supporting-statement-a-1.docx",
+      "sha256": "1c350322dfbd5c56c9be75cf8d38cf526548dfbfe6b746cfd9169252ecfbab50",
+      "text_chars": 32044
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202408-1902-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202408-1902-001",
+  "agency": "FERC",
+  "title": "FERC-725A, Mandatory Reliability Standards for the Bulk-Power System",
+  "omb_control_number": "1902-0244",
+  "submission_date": "11/07/2024",
+  "record_source_id": "SRC-0111",
+  "supporting_statement_source_ids": [
+    "SRC-0112"
+  ]
+}

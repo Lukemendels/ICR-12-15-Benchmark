@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202310-1219-001",
+  "retrieved_at": "2026-09-09T11:02:22.003953+00:00",
+  "documents": [
+    {
+      "title": "1219-0156 Supporting Statement 2024 3-22-2024.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=140923001",
+      "path": "icrs/202310-1219-001/raw/supporting-statement-a-1.docx",
+      "sha256": "04bc77aac5be33df19c48bb8f00c260fe2b82ad29aeb06577dd0a0153ef214dc",
+      "text_chars": 121351
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202310-1219-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202310-1219-001",
+  "agency": "DOL/MSHA",
+  "title": "Respirable Crystalline Silica Standard",
+  "omb_control_number": "1219-0156",
+  "submission_date": "04/18/2024",
+  "record_source_id": "SRC-0105",
+  "supporting_statement_source_ids": [
+    "SRC-0106"
+  ]
+}

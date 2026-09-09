@@ -1,4 +1,4 @@
-# Canonical model v0.4.0 — provisional architecture
+# Canonical model v0.5.0 — provisional architecture
 Inputs → assumptions → calculations → validation → output tables → Items 12–15 narrative.
 This starting architecture reflects mission requirements, not an empirical conclusion.
 Each scenario/version owns collection identity, analysis period, price year, annualization horizon, approval lineage and baseline reference.
@@ -44,3 +44,15 @@ Overhead observations need component definitions and bases. EPA PCB exposes a fa
 Baseline types include the previous approved inventory, the public-notice proposal, and transferred requirements. FCC IPCS demonstrates exact reconciliation between both prior approval and a subsequently revised notice estimate.
 
 Observed national data-source categories now include EIA building/manufacturing energy surveys as proxies for physical asset populations and BLS employment projections for forecast growth. Store proxy validity separately from source authority. Version0.4.0 is provisional; no saturation.
+
+## Iteration 4 additions
+
+The model must support both bottom-up workload equations and statistically calibrated burden models. IRS business tax estimates require model version, training/calibration population, coefficients, legal cutoff, prediction inputs, calibration diagnostics and an access-status field for restricted microdata. A public aggregate is not a substitute for an accessible calculation. Where confidentiality prevents full reproduction, preserve a reproducible synthetic example and identify which validation requires controlled access. This is a proposed tool behavior, not a feature observed in the IRS package.
+
+Burden evidence has a measurement scope. Census AIES compares response-analysis surveys, questionnaire responses and paradata; their medians differ substantially. Preserve sample size, recruitment/nonresponse, respondent segment, inclusion of preparation time, active versus elapsed time, and statistic type. A median must not be multiplied by the population and presented as expected total hours without a justified distributional model. Disclosure rounding and suppressed cells need explicit flags and reconciliation tolerances.
+
+Compensation and overhead may use different allocation models. EBSA's published method allocates industry overhead to occupations using an employment matrix, then divides by occupational employment and annual hours. Preserve the matrix, weights, units, excluded direct-cost categories, inflation transformations and denominator. Updating only the final hourly rate would lose the method. The worked example itself contains inconsistencies; source authority does not replace arithmetic validation.
+
+Change events must distinguish revised obligations, population projections, methodological recalibration and redistribution between time and purchased services. IRS demonstrates why a reduction in modeled hours may accompany increased out-of-pocket cost without equivalent changes in real requirements. Preserve agency analytical labels and their ROCIS classification mapping separately.
+
+Version 0.5.0 adds these empirically motivated entities. Rubric weights remain unchanged; the existing provenance, reproducibility, validation and labor dimensions cover them. Saturation is not reached.

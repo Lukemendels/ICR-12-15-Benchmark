@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202506-0938-007",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202506-0938-007"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202506-0938-007",
+  "agency": "HHS/CMS",
+  "title": "Hospitals and Health Care Complex Cost Report (CMS-2552-10)",
+  "omb_control_number": "0938-0050",
+  "submission_date": "06/11/2025",
+  "record_source_id": "SRC-0089",
+  "supporting_statement_source_ids": [
+    "SRC-0090"
+  ]
 }

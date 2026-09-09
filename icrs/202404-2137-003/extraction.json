@@ -1,0 +1,201 @@
+{
+  "icr_id": "202404-2137-003",
+  "omb_control_number": "2137-0557",
+  "agency": "DOT/PHMSA",
+  "title": "Approvals for Hazardous Materials",
+  "submission_date": "04/12/2024",
+  "archetype": "hazardous materials approval applications",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 4,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0082",
+    "SRC-0081"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 9,
+    "segmentation": 14,
+    "labor": 6,
+    "item13": 5,
+    "item14": 5,
+    "item15": 8,
+    "validation": 2,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "Thirteen application categories expose counts, frequencies and hours; overall products reconstruct.",
+    "provenance": "2022 chemical engineer wages and OPM schedule identified; benefit-share vintage and task timing evidence weaker.",
+    "segmentation": "Initial/renewal applications and approval types distinguished.",
+    "labor": "Engineer occupation and denominator benefit loading are clear; common share lacks current source detail.",
+    "item13": "No additional nonlabor costs asserted without further price or systems analysis.",
+    "item14": "Federal workload and loaded grade rate supplied, but narrative and table use different rates and counts.",
+    "item15": "Removal of one approval and five rounded hours tied to rule.",
+    "validation": "Agency experience, without testing or representative timing measurements.",
+    "consistency": "Item 14 table contains 14894 and 73.23 while prose uses 14893 and 80.48."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Designated agent",
+        15,
+        4.75,
+        71.25
+      ],
+      [
+        "Requalifiers",
+        3000,
+        1.105,
+        3315
+      ],
+      [
+        "M new",
+        30,
+        4.75,
+        142.5
+      ],
+      [
+        "M renewal",
+        150,
+        1,
+        150
+      ],
+      [
+        "RIN",
+        3500,
+        0.852,
+        2982
+      ],
+      [
+        "Special packaging new",
+        249,
+        4.75,
+        1182.75
+      ],
+      [
+        "Special packaging renewal",
+        480,
+        1,
+        480
+      ],
+      [
+        "Battery",
+        10,
+        40,
+        400
+      ],
+      [
+        "Alternative",
+        24,
+        4.75,
+        114
+      ],
+      [
+        "Infectious",
+        5,
+        4.75,
+        23.75
+      ],
+      [
+        "Explosives new",
+        330,
+        4.75,
+        1567.5
+      ],
+      [
+        "Explosives renewal",
+        700,
+        1,
+        700
+      ],
+      [
+        "Fireworks",
+        6400,
+        4.75,
+        30400
+      ]
+    ],
+    "labor": {
+      "soc": "17-2041",
+      "wage_year": 2022,
+      "base_rate": 56.64,
+      "benefit_share": 0.317,
+      "loaded_rate": 82.93,
+      "reported_cost": 3443969
+    },
+    "item13": {
+      "annual_cost": 0,
+      "rationale": "No additional cost asserted"
+    },
+    "item14": {
+      "narrative_responses": 14893,
+      "review_hours_each": 0.5,
+      "narrative_loaded_rate": 80.48,
+      "table_responses": 14894,
+      "table_rate": 73.23,
+      "table_total": 545343.81,
+      "basis": "2023 GS13/1 with 36.45% benefits"
+    },
+    "item15": {
+      "response_change": -1,
+      "hour_change": -5,
+      "reason": "Removed approval requirement under rule",
+      "classification": "program change"
+    },
+    "assumptions": [
+      "13 approval categories; detailed timing assumptions unchanged from prior estimates."
+    ]
+  },
+  "reconstruction_issues": [
+    "Federal narrative and table mix different workload counts and pay rates, preventing one unambiguous total.",
+    "Benefit-share denominator is explicit but source-period linkage is incomplete."
+  ],
+  "methods_worth_testing": [
+    "Generate narrative and tables from one scenario to prevent stale federal-cost inputs."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "71.25+3315+142.5+150+2982+1182.75+480+400+114+23.75+1567.5+700+30400",
+      "calculated": 41528.75,
+      "reported": 41529.5,
+      "difference": -0.75,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0082"
+    },
+    {
+      "label": "Federal displayed table",
+      "formula": "14894*.5*73.23",
+      "calculated": 545343.81,
+      "reported": 545343.81,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact but inconsistent with prose",
+      "source_id": "SRC-0082"
+    },
+    {
+      "label": "Loaded wage",
+      "formula": "56.64/.683",
+      "calculated": 82.92825768667642,
+      "reported": 82.93,
+      "difference": -0.0017423133235894284,
+      "unit": "USD/hour",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0082"
+    }
+  ],
+  "total_score": 68,
+  "table_evidence_path": "icrs/202404-2137-003/table-evidence.json",
+  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+}

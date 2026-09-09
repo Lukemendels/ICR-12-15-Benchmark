@@ -1,0 +1,144 @@
+{
+  "icr_id": "202310-0607-003",
+  "omb_control_number": "0607-1024",
+  "agency": "DOC/CENSUS",
+  "title": "Annual Integrated Economic Survey",
+  "submission_date": "10/31/2023",
+  "archetype": "integrated annual business survey",
+  "complexity": "very high",
+  "tsa_relevance": "technique",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 4,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0076",
+    "SRC-0075",
+    "SRC-0097",
+    "SRC-0098",
+    "SRC-0099"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 11,
+    "segmentation": 15,
+    "labor": 5,
+    "item13": 10,
+    "item14": 3,
+    "item15": 6,
+    "validation": 5,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Sector and single/multi-unit tables in accessible workbook; published disclosure rounding prevents exact reconstruction from all displayed counts.",
+    "provenance": "Sector-specific 2021 OEWS accountant rates and dated preliminary testing evidence; burden coefficients lack complete derivation.",
+    "segmentation": "Single/multi-unit businesses, industry sectors and dress rehearsal are distinguished.",
+    "labor": "Accountant occupation and industry wage match are explicit; benefits and overhead are not included.",
+    "item13": "Existing records, systems and customary professional services explicitly justify a zero.",
+    "item14": "Annual 39 million budget lists activities but lacks cost quantities and rates.",
+    "item15": "Adds 1000 multi-unit businesses and 3100 hours; consolidation and dress-rehearsal baselines remain complex.",
+    "validation": "Independent response survey, questionnaire and paradata give measured burden distributions with sample sizes; measures cover different scopes.",
+    "consistency": "Dress rehearsal 33256 hours in Item 12 versus 33305 in Item 13/workbook; main tables disclose rounding."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "AIES main survey",
+        385940,
+        null,
+        1303636
+      ],
+      [
+        "Dress rehearsal",
+        8470,
+        3.9166666666666665,
+        33206
+      ],
+      [
+        "Debrief interviews",
+        50,
+        1,
+        50
+      ]
+    ],
+    "labor": {
+      "occupation": "Accountants and auditors",
+      "wage_year": 2021,
+      "industry_specific": true,
+      "benefits": null,
+      "main_cost": 50446378,
+      "dress_cost": 1292548,
+      "workbook": "SRC-0098 rows 17–35; values only, no stored formulas"
+    },
+    "item13": {
+      "annual_cost": 0,
+      "rationale": "Existing records and hardware; customary outside services excluded"
+    },
+    "item14": {
+      "annual_cost": 39000000,
+      "fiscal_year": 2024,
+      "basis": "Collection, processing, tabulation and dissemination budget"
+    },
+    "item15": {
+      "added_multiunit_businesses": 1000,
+      "added_hours": 3100,
+      "other_baselines": "Consolidation of seven surveys and dress rehearsal; requires cross-control obligation mapping"
+    },
+    "assumptions": [
+      "Main average 3 hours 23 minutes; industry and organizational structure matter.",
+      "Counts in worksheets rounded for disclosure protection; N denotes fewer than 15.",
+      "Preliminary research medians: response analysis survey n443 4.5 hours; instrument n4784 4 hours; paradata n4860 1.1 hours. These are not interchangeable measures or means."
+    ]
+  },
+  "reconstruction_issues": [
+    "Dress rehearsal total differs between narrative and workbook by 49 hours (33256 versus 33305).",
+    "Published workbook contains values without formulas; suppressed and rounded counts prevent exact numerical reconstruction.",
+    "Observed burden medians and proposed mean burden require an explicit mapping of measurement scope and distribution."
+  ],
+  "methods_worth_testing": [
+    "Triangulate burden with respondent follow-up, instrument reports and paradata, preserving measurement scope and distribution.",
+    "Preserve disclosure rounding and restricted inputs separately from arithmetic defects."
+  ],
+  "checks": [
+    {
+      "label": "Main implied hours",
+      "formula": "385940*203/60",
+      "calculated": 1305763.6666666667,
+      "reported": 1303636,
+      "difference": 2127.6666666667443,
+      "unit": "hours",
+      "interpretation": "Average time rounded; not an arithmetic error",
+      "source_id": "SRC-0076"
+    },
+    {
+      "label": "Dress narrative",
+      "formula": "8470*235/60+50",
+      "calculated": 33224.166666666664,
+      "reported": 33256,
+      "difference": -31.83333333333576,
+      "unit": "hours",
+      "interpretation": "Rounding; workbook instead reports33305",
+      "source_id": "SRC-0076"
+    },
+    {
+      "label": "Added burden",
+      "formula": "1000*3.1",
+      "calculated": 3100.0,
+      "reported": 3100,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0076"
+    }
+  ],
+  "total_score": 74,
+  "table_evidence_path": "icrs/202310-0607-003/table-evidence.json",
+  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+}

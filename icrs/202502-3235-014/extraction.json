@@ -1,0 +1,137 @@
+{
+  "icr_id": "202502-3235-014",
+  "omb_control_number": "3235-0645",
+  "agency": "SEC",
+  "title": "Interactive Data",
+  "submission_date": "06/24/2025",
+  "archetype": "structured securities data filings",
+  "complexity": "medium",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 4,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0088",
+    "SRC-0087"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 5,
+    "segmentation": 10,
+    "labor": 0,
+    "item13": 5,
+    "item14": 0,
+    "item15": 9,
+    "validation": 2,
+    "consistency": 4
+  },
+  "score_rationale": {
+    "reproducibility": "Filers, frequency and response hours reproduce rounded total.",
+    "provenance": "Administrative filing estimate; unit burden and purchased-service rate not supported with precise evidence.",
+    "segmentation": "Filers and recurring filings modeled; limited complexity differentiation.",
+    "labor": "Complete Item 12 omits labor monetization.",
+    "item13": "Software and filing cost per response disclosed but unit price is not sourced.",
+    "item14": "Item 14 explicitly defers estimates while SEC revises its methodology; this is missing, not zero.",
+    "item15": "Prior/current responses, hours and nonlabor costs reconcile exactly.",
+    "validation": "Agency experience rather than measured timing; estimates explicitly for PRA.",
+    "consistency": "Displayed averages reproduce totals within rounding and change arithmetic is exact."
+  },
+  "thoroughness": "brief",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Interactive data filings",
+        36981,
+        53.11111,
+        1964102
+      ]
+    ],
+    "labor": {
+      "respondents": 8218,
+      "frequency": 4.5,
+      "hourly_cost": null,
+      "labor_cost": null
+    },
+    "item13": {
+      "responses": 36981,
+      "software_and_filing_cost_each": 6175,
+      "annual_cost": 228357675
+    },
+    "item14": {
+      "annual_cost": null,
+      "status": "Explicitly deferred pending revised agency methodology"
+    },
+    "item15": {
+      "old_responses": 34173,
+      "new_responses": 36981,
+      "old_hours": 1814966,
+      "new_hours": 1964102,
+      "old_cost": 211018275,
+      "new_cost": 228357675,
+      "reason": "Increased filings; adjustment"
+    },
+    "assumptions": [
+      "53.11111 hours per filing, 6175 dollars software/filing service, 4.5 filings per respondent."
+    ]
+  },
+  "reconstruction_issues": [
+    "Labor cost is not monetized in Item 12.",
+    "Item 14 explicitly postpones the estimate, so federal cost cannot be reconstructed.",
+    "Purchased software/service unit price lacks an accessible empirical basis in the statement."
+  ],
+  "methods_worth_testing": [
+    "Keep concise, exact old/new change tables; distinguish omitted estimates from legitimate zeros."
+  ],
+  "checks": [
+    {
+      "label": "Responses",
+      "formula": "8218*4.5",
+      "calculated": 36981.0,
+      "reported": 36981,
+      "difference": 0.0,
+      "unit": "responses",
+      "interpretation": "Exact",
+      "source_id": "SRC-0088"
+    },
+    {
+      "label": "Hours",
+      "formula": "36981*53.11111",
+      "calculated": 1964101.9589099998,
+      "reported": 1964102,
+      "difference": -0.04109000018797815,
+      "unit": "hours",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0088"
+    },
+    {
+      "label": "Nonlabor",
+      "formula": "36981*6175",
+      "calculated": 228357675,
+      "reported": 228357675,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0088"
+    },
+    {
+      "label": "Hour change",
+      "formula": "1964102-1814966",
+      "calculated": 149136,
+      "reported": 149136,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0088"
+    }
+  ],
+  "total_score": 53,
+  "table_evidence_path": "icrs/202502-3235-014/table-evidence.json",
+  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+}

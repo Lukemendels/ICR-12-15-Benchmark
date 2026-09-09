@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202511-1545-005",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202511-1545-005"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202511-1545-005",
+  "agency": "TREAS/IRS",
+  "title": "U.S. Business Income Tax Returns",
+  "omb_control_number": "1545-0123",
+  "submission_date": "12/15/2025",
+  "record_source_id": "SRC-0093",
+  "supporting_statement_source_ids": [
+    "SRC-0094"
+  ]
 }

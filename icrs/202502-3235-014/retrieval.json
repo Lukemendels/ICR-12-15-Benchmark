@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202502-3235-014",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202502-3235-014"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202502-3235-014",
+  "agency": "SEC",
+  "title": "Interactive Data",
+  "omb_control_number": "3235-0645",
+  "submission_date": "06/24/2025",
+  "record_source_id": "SRC-0087",
+  "supporting_statement_source_ids": [
+    "SRC-0088"
+  ]
 }

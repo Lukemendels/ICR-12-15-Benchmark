@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202310-0607-003",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202310-0607-003"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202310-0607-003",
+  "agency": "DOC/CENSUS",
+  "title": "Annual Integrated Economic Survey",
+  "omb_control_number": "0607-1024",
+  "submission_date": "10/31/2023",
+  "record_source_id": "SRC-0075",
+  "supporting_statement_source_ids": [
+    "SRC-0076"
+  ]
 }

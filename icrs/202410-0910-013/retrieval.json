@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202410-0910-013",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202410-0910-013"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202410-0910-013",
+  "agency": "HHS/FDA",
+  "title": "Current Good Manufacturing Practice and Hazard Analysis and Risk-Based Preventive Controls For Human Food and Food for Animals",
+  "omb_control_number": "0910-0751",
+  "submission_date": "10/29/2024",
+  "record_source_id": "SRC-0083",
+  "supporting_statement_source_ids": [
+    "SRC-0084"
+  ]
 }

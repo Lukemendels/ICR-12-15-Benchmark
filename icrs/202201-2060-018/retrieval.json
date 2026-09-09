@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202201-2060-018",
+  "retrieved_at": "2026-09-09T11:02:22.009057+00:00",
+  "documents": [
+    {
+      "title": "2237ss06.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=118165201",
+      "path": "icrs/202201-2060-018/raw/supporting-statement-a-1.docx",
+      "sha256": "f187e7a00b10b0a62fe8f2aebdc3c3f5406b6cd4b8a6bdf08f09534372b6ec24",
+      "text_chars": 53228
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202201-2060-018",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202201-2060-018",
+  "agency": "EPA/OAR",
+  "title": "NESHAP for Gasoline Distribution Bulk Terminals, Bulk Plants, Pipeline Facilities and Gasoline Dispensing Facilities (40 CFR part 63, subparts BBBBBB and CCCCCC) (Renewal)",
+  "omb_control_number": "2060-0620",
+  "submission_date": "01/28/2022",
+  "record_source_id": "SRC-0103",
+  "supporting_statement_source_ids": [
+    "SRC-0104"
+  ]
+}

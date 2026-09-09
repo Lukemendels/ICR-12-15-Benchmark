@@ -1,0 +1,180 @@
+{
+  "icr_id": "202511-1545-005",
+  "omb_control_number": "1545-0123",
+  "agency": "TREAS/IRS",
+  "title": "U.S. Business Income Tax Returns",
+  "submission_date": "12/15/2025",
+  "archetype": "business tax compliance statistical burden model",
+  "complexity": "very high",
+  "tsa_relevance": "adjacent",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 4,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0094",
+    "SRC-0093",
+    "SRC-0100",
+    "SRC-0101"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 12,
+    "provenance": 11,
+    "segmentation": 15,
+    "labor": 7,
+    "item13": 7,
+    "item14": 6,
+    "item15": 9,
+    "validation": 4,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Aggregate and change arithmetic are reproducible, but model coefficients and microdata are not available in this package.",
+    "provenance": "Tax-year survey, model update, legal cutoff and economic inputs identified; coefficient-level provenance incomplete.",
+    "segmentation": "Entity type, size, receipts, preparation method and tax complexity are explicitly modeled.",
+    "labor": "Economic-value methodology has floor and ceiling tied to wage/compensation data; exact function and inputs are not exposed.",
+    "item13": "Survey/model estimates include preparer fees and software; aggregate out-of-pocket estimate lacks public reconstruction coefficients.",
+    "item14": "383 product allocations supplement the cost estimate; processing subtotal does not add and several federal categories are excluded.",
+    "item15": "Separates technical recalibration, projection and legislation with quantified time and dollar changes; ROCIS classification needs reconciliation.",
+    "validation": "Business taxpayer survey anchors the model; uncertainty and validation performance are not reported in this statement.",
+    "consistency": "Main time and dollar bridges reconcile; federal processing sum is inconsistent."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Business tax returns",
+        14000000,
+        null,
+        857000000
+      ]
+    ],
+    "labor": {
+      "model": "RAAS business taxpayer burden model",
+      "monetized_time": 52575000000,
+      "floor": "Federal minimum wage plus employment taxes",
+      "ceiling": "90th-percentile accountant wage with management compensation loading and administrative overhead",
+      "public_coefficients": false,
+      "survey_tax_year": 2019,
+      "survey_field_years": [
+        2020,
+        2021
+      ],
+      "estimate_tax_year": 2025,
+      "legal_cutoff": "2025-11-20"
+    },
+    "item13": {
+      "out_of_pocket": 79219000000,
+      "includes": [
+        "Purchased preparation",
+        "Software",
+        "Other tax compliance purchases"
+      ],
+      "method": "Survey-calibrated model, not public unit-price table"
+    },
+    "item14": {
+      "product_labor_and_downstream": 12763097,
+      "printing_shipping": 16797,
+      "paper_processing": 9655592,
+      "electronic_processing": 2601760,
+      "reported_processing": 13571960,
+      "reported_total": 26351854,
+      "exclusions": [
+        "Real estate",
+        "Programming",
+        "Recruitment",
+        "Equipment",
+        "Supplies",
+        "Assistance and enforcement"
+      ],
+      "supplement": "SRC-0101, 383 form/instruction product allocations"
+    },
+    "item15": {
+      "prior_hours": 935100000,
+      "technical_hour_components": [
+        -5100000,
+        -74000000,
+        9000000
+      ],
+      "legislative_hour_components": [
+        1000000,
+        -9000000
+      ],
+      "new_hours": 857000000,
+      "prior_time_value": 56152000000,
+      "technical_time_change": -3362000000,
+      "legislative_time_change": -215000000,
+      "prior_out_of_pocket": 71617000000,
+      "technical_oop_change": 8044000000,
+      "legislative_oop_change": -442000000,
+      "recalibration_time_shift": -4964000000,
+      "recalibration_oop_shift": 4680000000,
+      "agency_change": 0
+    },
+    "assumptions": [
+      "Models use assets, receipts, industry, entity, foreign activity, credits and preparation method.",
+      "Rounded group means are not intended to reproduce confidential microdata totals.",
+      "Technical model changes can redistribute burden between time and purchased services."
+    ]
+  },
+  "reconstruction_issues": [
+    "Public statement and accessible supplements do not expose coefficients needed to regenerate the statistical burden estimates.",
+    "Paper processing 9655592 plus electronic 2601760 equals 12257352, versus reported 13571960.",
+    "Technical versus legislative analytical labels must be mapped explicitly to ROCIS program-change and adjustment categories."
+  ],
+  "methods_worth_testing": [
+    "Maintain statistical model version, calibration population, coefficients, legal cutoff and access restrictions as first-class model entities.",
+    "Item 15 can distinguish real obligation changes from model recalibration, projection updates and redistribution between time and purchased services."
+  ],
+  "checks": [
+    {
+      "label": "Hours bridge",
+      "formula": "935100000-5100000-74000000+9000000+1000000-9000000",
+      "calculated": 857000000,
+      "reported": 857000000,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0094"
+    },
+    {
+      "label": "Time dollars bridge",
+      "formula": "56152000000-3362000000-215000000",
+      "calculated": 52575000000,
+      "reported": 52575000000,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0094"
+    },
+    {
+      "label": "OOP bridge",
+      "formula": "71617000000+8044000000-442000000",
+      "calculated": 79219000000,
+      "reported": 79219000000,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0094"
+    },
+    {
+      "label": "Federal processing",
+      "formula": "9655592+2601760",
+      "calculated": 12257352,
+      "reported": 13571960,
+      "difference": -1314608,
+      "unit": "USD",
+      "interpretation": "Material subtotal discrepancy",
+      "source_id": "SRC-0094"
+    }
+  ],
+  "total_score": 73,
+  "table_evidence_path": "icrs/202511-1545-005/table-evidence.json",
+  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+}

@@ -1,0 +1,174 @@
+{
+  "icr_id": "202603-1210-004",
+  "omb_control_number": "1210-0053",
+  "agency": "DOL/EBSA",
+  "title": "Employee Benefit Plan Claims Procedure Under the Employee Retirement Income Security Act",
+  "submission_date": "04/03/2026",
+  "archetype": "ERISA benefit claims and appeals notices",
+  "complexity": "very high",
+  "tsa_relevance": "adjacent",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 4,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0096",
+    "SRC-0095"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 10,
+    "segmentation": 15,
+    "labor": 7,
+    "item13": 8,
+    "item14": 4,
+    "item15": 6,
+    "validation": 3,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Detailed transaction table with counts, minutes and role costs; rounded hour displays require exact minute reconstruction.",
+    "provenance": "MEPS-IC, Form 5500 and agency projections cited; denial/appeal and timing assumptions require fuller validation.",
+    "segmentation": "Health, short/long disability, pension, other benefits and claim outcomes are distinguished.",
+    "labor": "Role-specific EBSA loaded rates tied to shared RIA/PRA methodology; source-to-current-rate chain incomplete.",
+    "item13": "Paper delivery shares, postage and pages modeled; contracted administration instead included in Item 12.",
+    "item14": "Zero federal cost asserted without workload analysis.",
+    "item15": "Totals and updating factors supplied; no full quantified driver decomposition.",
+    "validation": "Administrative and survey populations; behavioral denial/appeal rates and extreme time values less supported.",
+    "consistency": "Medical denial 8.67 hours conflicts with prose maximum six hours; several outcome labels differ across tables."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Health preapproved",
+        46018694,
+        0.016666666666666666,
+        766978
+      ],
+      [
+        "Health predenied",
+        8120946,
+        0.03333333333333333,
+        270698
+      ],
+      [
+        "Health postapproved",
+        1487937787,
+        0.016666666666666666,
+        24798963
+      ],
+      [
+        "Health postdenied",
+        262577257,
+        0.03333333333333333,
+        8752575
+      ],
+      [
+        "Health extended",
+        105030903,
+        0.016666666666666666,
+        1750515
+      ],
+      [
+        "Health medical appeal approved",
+        54823,
+        6,
+        328940
+      ],
+      [
+        "Health medical appeal denied",
+        82235,
+        8.67,
+        712703
+      ],
+      [
+        "All transactions",
+        1910577375,
+        null,
+        38050660
+      ]
+    ],
+    "labor": {
+      "lawyer_rate": 187.58,
+      "doctor_rate": 222.68,
+      "clerical_rate": 72.82,
+      "total_cost": 4254017948,
+      "price_year": 2026,
+      "third_party_administration": "Included in Item 12 hours by agency convention"
+    },
+    "item13": {
+      "postage": 1,
+      "page_cost": 0.05,
+      "electronic_health_share": 0.75,
+      "electronic_disability_share": 0.3,
+      "annual_cost": 501736152
+    },
+    "item14": {
+      "annual_cost": 0,
+      "rationale": "No cost asserted"
+    },
+    "item15": {
+      "respondent_change": 448383,
+      "response_change": 474154697,
+      "hours_change": 9069298,
+      "nonlabor_cost_change": 239445498,
+      "reason": "Population, claims per participant, wages and postage updates"
+    },
+    "assumptions": [
+      "4336356 unique plans = 2765373 health + 214124 disability + 836843 pension + 520016 other.",
+      "Transaction counts repeat plan populations; do not sum row respondents.",
+      "Displayed .017/.033-hour values represent one/two minutes; use exact minute fractions."
+    ]
+  },
+  "reconstruction_issues": [
+    "Prose says transaction burden ranges up to six hours, while medical appeal denial uses 8.67 hours.",
+    "Agency explicitly puts purchased third-party administration in Item 12 hours; classification differs from the purchased-service convention and needs guidance reconciliation.",
+    "Tables 1 and 3 use inconsistent approved/denied/extended labels for some disability transactions."
+  ],
+  "methods_worth_testing": [
+    "Separate unique entities, transactions, outcome branches and delivery modes.",
+    "Record the agency cost-classification convention independently of economic labor and purchased-service quantities."
+  ],
+  "checks": [
+    {
+      "label": "Unique plans",
+      "formula": "2765373+214124+836843+520016",
+      "calculated": 4336356,
+      "reported": 4336356,
+      "difference": 0,
+      "unit": "plans",
+      "interpretation": "Exact",
+      "source_id": "SRC-0096"
+    },
+    {
+      "label": "Health postapproval hours",
+      "formula": "1487937787/60",
+      "calculated": 24798963.116666667,
+      "reported": 24798963,
+      "difference": 0.11666666716337204,
+      "unit": "hours",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0096"
+    },
+    {
+      "label": "Medical denial hours",
+      "formula": "82235*8.67",
+      "calculated": 712977.45,
+      "reported": 712703,
+      "difference": 274.44999999995343,
+      "unit": "hours",
+      "interpretation": "Rounded displayed duration; underlying likely26/3",
+      "source_id": "SRC-0096"
+    }
+  ],
+  "total_score": 71,
+  "table_evidence_path": "icrs/202603-1210-004/table-evidence.json",
+  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+}

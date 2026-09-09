@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202404-2137-003",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202404-2137-003"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202404-2137-003",
+  "agency": "DOT/PHMSA",
+  "title": "Approvals for Hazardous Materials",
+  "omb_control_number": "2137-0557",
+  "submission_date": "04/12/2024",
+  "record_source_id": "SRC-0081",
+  "supporting_statement_source_ids": [
+    "SRC-0082"
+  ]
 }

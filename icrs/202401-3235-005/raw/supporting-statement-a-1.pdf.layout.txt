@@ -1,0 +1,1231 @@
+                            SUPPORTING STATEMENT
+         For the Paperwork Reduction Act Information Collection Submission for
+                             Form PF and Rule 204(b)-1
+
+
+    A. JUSTIFICATION
+
+             1.    Necessity for the Information Collection
+
+       Form PF [17 CFR 279.9] and rule 204(b)-1 [17 CFR 275.204(b)-1] under the Investment
+
+Advisers Act of 1940 (“Advisers Act”) (together, the “rules”) require certain investment advisers
+
+registered with the Securities and Exchange Commission (“SEC”) to report confidential
+
+information about the private funds they advise. The rules implement provisions of Title IV of
+
+the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”), which
+
+amended the Advisers Act to require the SEC to, among other things, establish reporting
+
+requirements for advisers to private funds. 1 The information collected on Form PF is designed
+
+to facilitate the Financial Stability Oversight Council’s (“FSOC”) monitoring of systemic risk in
+
+the private fund industry and assist FSOC in determining whether and how to deploy its
+
+regulatory tools with respect to nonbank financial companies. 2 The SEC and the Commodity
+
+Futures Trading Commission (“CFTC”) also may use information collected on Form PF in their
+
+regulatory programs, including examinations, investigations, and investor protection efforts
+
+relating to private fund advisers. 3 Form PF is a joint form between the SEC and the CFTC with
+
+respect to sections 1 and 2; the SEC solely adopted the other sections of the form. 4
+
+
+
+
+1
+       See 15 U.S.C. 80b-4(b) and 15 U.S.C. 80b-11(e).
+2
+       See Form PF.
+3
+       Id.
+4
+       See 15 U.S.C. 80b-11(e).
+       The rules contain a “collection of information” within the meaning of the Paperwork
+
+Reduction Act of 1995 (“PRA”). 5 The title for the collection of information is “Form PF and
+
+Rule 204(b)-1” (OMB Control Number 3235-0679), and includes both Form PF and rule 204(b)-
+
+1. An agency may not conduct or sponsor, and a person is not required to respond to, a
+
+collection of information unless it displays a currently valid OMB control number. Compliance
+
+with the information collection is mandatory.
+
+       The respondents are investment advisers who are (1) registered or required to be
+
+registered under Advisers Act section 203, (2) advise one or more private funds, and (3)
+
+managed private fund assets of at least $150 million at the end of their most recently completed
+
+fiscal year (collectively, with their related persons). 6 Form PF divides respondents into groups
+
+based on their size and types of private funds they manage, requiring some groups to file more
+
+information more frequently than others. The types of respondents are (1) smaller private fund
+
+advisers, that report annually (i.e., private fund advisers that do not qualify as large private fund
+
+advisers), (2) large hedge fund advisers, that report more information quarterly (i.e., advisers
+
+with at least $1.5 billion in hedge fund assets under management), (3) large liquidity fund
+
+advisers, that report more information quarterly (i.e., advisers that manage liquidity funds and
+
+have at least $1 billion in combined money market and liquidity fund assets under management),
+
+and (4) large private equity fund advisers, that report more information annually (i.e., advisers
+
+with at least $2 billion in private equity fund assets under management).
+
+       In addition to periodic filings, advisers must file limited information on Form PF in five
+
+situations. First, a large hedge fund adviser must file a current report as soon as practicable
+
+
+
+5
+       44 U.S.C. 3501 through 3521.
+6
+       See 17 CFR 275.204(b)-1.
+upon, but no later than 72 hours after, the occurrence of certain reporting events. Second, a
+
+private equity fund adviser must file an event report on a quarterly basis upon the occurrence of
+
+certain reporting events. Third, any adviser that transitions from filing quarterly to annually
+
+because it has ceased to qualify as a large hedge fund adviser or large liquidity fund adviser,
+
+must file a Form PF indicating that it is no longer obligated to report on a quarterly basis.
+
+Fourth, any adviser that is no longer subject to Form PF’s reporting requirements, must file a
+
+final report indicating this. Fifth, an adviser may request a temporary hardship exemption if it
+
+encounters unanticipated technical difficulties that prevent it from making a timely electronic
+
+filing. A temporary hardship exemption extends the deadline for an electronic filing for seven
+
+business days. To request a temporary hardship exemption, the adviser must file a request on
+
+Form PF.
+
+       On July 12, 2023, the SEC adopted amendments to section 3 of Form PF. 7 The
+
+amendments are designed to enhance the Commission’s and FSOC’s ability to assess the
+
+potential systemic risks presented by liquidity funds’ activities and inform the Commission’s
+
+investor protection efforts. As discussed more fully in the adopting release, the amendments to
+
+section 3 of Form PF include requirements for additional and more granular information
+
+regarding large liquidity fund operational information and assets, portfolio holdings, financing,
+
+and investor information as well as a new item concerning the disposition of portfolio securities. 8
+
+
+
+
+7
+       See Money Market Fund Reforms; Form PF Reporting Requirements for Large Liquidity Fund Advisers;
+       Technical Amendments to Form N-CSR and Form N-1A, Investment Company Act Release No. 34959
+       (Jul. 12, 2023) [88 FR 51404 (Aug. 3, 2023)] (“2023 MMF Reforms”).
+8
+       Id.
+        2.      Purpose of the Information Collection
+
+        The rules implement provisions of Title IV of the Dodd-Frank Act, which amended the
+
+Advisers Act to require the SEC to, among other things, establish reporting requirements for
+
+advisers to private funds. 9 The information collected on Form PF is designed to facilitate
+
+FSOC’s monitoring of systemic risk in the private fund industry and assist FSOC in determining
+
+whether and how to deploy its regulatory tools with respect to nonbank financial companies. 10
+
+The SEC and the CFTC also may use information collected on Form PF in their regulatory
+
+programs, including examinations, investigations, and investor protection efforts relating to
+
+private fund advisers. 11 The amendments are designed to enhance FSOC’s ability to monitor
+
+systemic risk as well as bolster the SEC’s regulatory oversight of private fund advisers and
+
+investor protection efforts. 12
+
+        3.      Consideration Given to Information Technology
+
+        Advisers must file Form PF electronically with the Form PF filing system. 13 The
+
+Financial Industry Regulatory Authority (“FINRA”) maintains the Form PF filing system
+
+through the Private Fund Reporting Depository (“PFRD”), a subsystem of the Investment
+
+Adviser Registration Depository (“IARD”), through which registered advisers are already
+
+separately obligated to file annual reports on Form ADV [17 CFR 279.1]. Form PF may be filed
+
+either through a fillable form on the PFRD website or through a batch filing process utilizing the
+
+eXtensible Markup Language (“XML”) tagged data format. Certain advisers may prefer to
+
+
+
+9
+        See 15 U.S.C. 80b-4(b) and 15 U.S.C. 80b-11(e).
+10
+        See Form PF.
+11
+        Id.
+12
+        See Amendments to Form PF, supra footnote 7.
+13
+        See 17 CFR 275.204(b)-1(b).
+report in XML format because it allows them to automate aspects of their reporting and,
+
+therefore, minimizes burdens and generates efficiencies for the adviser. Collecting information
+
+electronically is designed to reduce the regulatory burden upon investment advisers by providing
+
+a convenient portal for quickly transmitting reports and, for advisers that submit their reports in
+
+XML format in particular, allowing them to automate aspects of their reporting.
+
+       4.      Duplication
+
+       The collection of information requirements of Form PF are not duplicated elsewhere.
+
+       5.      Effect on Small Entities
+
+       For the purposes of the Advisers Act and the Regulatory Flexibility Act of 1980, an
+
+investment adviser generally is a small entity if it (1) has assets under management having a total
+
+value of less than $25 million; (2) did not have total assets of $5 million or more on the last day
+
+of the most recent fiscal year; and (3) does not control, is not controlled by, and is not under
+
+common control with another investment adviser that has assets under management of $25
+
+million or more, or any person (other than a natural person) that had total assets of $5 million or
+
+more on the last day of its most recent fiscal year. 14
+
+       By definition, no small entity on its own, would meet the rules’ minimum reporting
+
+threshold of $150 million in regulatory assets under management attributable to private funds.
+
+Based on Form PF and Form ADV data as of December 2022, the SEC estimates that no small
+
+
+
+
+14
+       17 CFR 275.0-7.
+entity advisers are required to file Form PF. The SEC does not have evidence to suggest that any
+
+small entities are required to file Form PF but are not filing Form PF.
+
+        6.      Consequences of Not Conducting Collection
+
+        The rules implement provisions of Title IV of the Dodd-Frank Act, which amended the
+
+Advisers Act to require the SEC to, among other things, establish reporting requirements for
+
+advisers to private funds. 15 The information collected on Form PF is designed to facilitate
+
+FSOC’s monitoring of systemic risk in the private fund industry and assist FSOC in determining
+
+whether and how to deploy its regulatory tools with respect to nonbank financial companies. 16
+
+The SEC and the CFTC also may use information collected on Form PF in their regulatory
+
+programs, including examinations, investigations, and investor protection efforts relating to
+
+private fund advisers. 17
+
+        The frequency of collection varies depending on the size of the adviser and the types of
+
+private funds it manages, which balances the need for, and value of, current information against
+
+the relative reporting burden for different types of advisers. If the information either is not
+
+collected or is collected less frequently, FSOC’s ability to monitor systemic risk and deploy its
+
+regulatory tools, as well as the SEC’s ability to protect investors, may be reduced.
+
+        7.      Inconsistencies with Guidelines in 5 CFR 1320.5(d)(2)
+
+        Under 5 CFR 1320.5(d)(2)(i), OMB will not approve a collection of information
+
+requiring respondents to report information to the agency more often than quarterly,
+
+unless the agency is able to demonstrate that it is necessary to satisfy statutory
+
+requirements or other substantial need. Large hedge fund advisers are required to submit
+
+
+15
+        See 15 U.S.C. 80b-4(b) and 15 U.S.C. 80b-11(e).
+16
+        See Form PF.
+17
+        Id.
+current reports as soon as practicable but no later than 72 hours from the occurrence of
+
+reporting event, which could occur more or less than quarterly. The current reporting
+
+requirements are necessary to satisfy statutory requirements or other substantial need to
+
+assist the FSOC in its monitoring obligations under the Dodd-Frank Act and assist the
+
+SEC in its investor protection efforts under the Advisers Act, by providing the SEC and
+
+FSOC with more timely data to identify and respond to private funds that are facing
+
+stress that could result in investor harm or systemic risk.
+
+       8.       Consultation Outside the Agency
+
+       The SEC and the staff of the Division of Investment Management participate in
+
+an ongoing dialogue with representatives of the investment management industry
+
+through public conferences, meetings, and informal exchanges. These various forums
+
+provide the SEC and the staff with a means of ascertaining and acting upon paperwork
+
+burdens confronting the industry. The SEC requested comment and considered
+
+comments received on its proposal to amend the rules. 18
+
+       9.       Payment or Gift
+
+       Not applicable.
+
+       10.      Confidentiality
+
+       Responses to the information collection will be kept confidential to the extent permitted
+
+by law. 19 Form PF elicits non-public information about private funds and their trading strategies,
+
+the public disclosure of which could adversely affect the funds and their investors. The SEC
+
+
+
+
+18
+       Amendments to Form PF to Require Current Reporting and Amend Reporting Requirements for Large
+       Private Equity Advisers and Large Liquidity Fund Advisers, Advisers Act Release No. 5950 (Jan. 26,
+       2022) [87 FR 9106 (Feb. 17, 2022)] (“2022 Form PF Proposing Release”).
+19
+       See 5 CFR 1320.5(d)(2)(vii) and (viii).
+does not intend to make public Form PF information that is identifiable to any particular adviser
+
+or private fund, although the SEC may use Form PF information in an enforcement action and to
+
+assess potential systemic risk. 20 SEC staff issues certain publications designed to inform the
+
+public of the private funds industry, all of which use only aggregated or masked information to
+
+avoid potentially disclosing any proprietary information. 21 The Advisers Act precludes the SEC
+
+from being compelled to reveal Form PF information except (1) to Congress, upon an agreement
+
+of confidentiality, (2) to comply with a request for information from any other Federal
+
+department or agency or self-regulatory organization for purposes within the scope of its
+
+jurisdiction, or (3) to comply with an order of a court of the United States in an action brought by
+
+the United States or the SEC. 22 Any department, agency, or self-regulatory organization that
+
+receives Form PF information must maintain its confidentiality consistent with the level of
+
+confidentiality established for the SEC. 23 The Advisers Act requires the SEC to make Form PF
+
+information available to FSOC. 24 For advisers that also are commodity pool operators or
+
+commodity trading advisers, filing Form PF through the Form PF filing system is filing with
+
+both the SEC and CFTC. 25 Therefore, the SEC makes Form PF information available to FSOC
+
+and the CFTC, pursuant to Advisers Act section 204(b), making the information subject to the
+
+confidentiality protections applicable to information required to be filed under that section.
+
+
+
+20
+       See 15 U.S.C. 80b-10(c).
+21
+       See, e.g., Private Funds Statistics, issued by staff of the SEC Division of Investment Management’s
+       Analytics Office, which we have used in this PRA as a data source, available at
+       https://www.sec.gov/divisions/investment/private-funds-statistics.shtml.
+22
+       See 15 U.S.C. 80b-4(b)(8).
+23
+       See 15 U.S.C. 80b-4(b)(9).
+24
+       See 15 U.S.C. 80b-4(b)(7).
+25
+       See Reporting by Investment Advisers to Private Funds and Certain Commodity Pool Operators and
+       Commodity Trading Advisors on Form PF, Advisers Act Release No. 3308 (Oct. 31, 2011), 76 FR 71128,
+       at n.17 (Nov. 16, 2011).
+Before sharing any Form PF information, the SEC requires that any such department, agency, or
+
+self-regulatory organization represent to the SEC that it has in place controls designed to ensure
+
+the use and handling of Form PF information in a manner consistent with the protections
+
+required by the Advisers Act. The SEC has instituted procedures to protect the confidentiality of
+
+Form PF information in a manner consistent with the protections required in the Advisers Act. 26
+
+       11.     Sensitive Questions
+
+       Form PF elicits non-public information about private funds and their trading strategies,
+
+the public disclosure of which could adversely affect the funds and their investors. A System of
+
+Records Notice that covers the collection of information has been published in the Federal
+
+Register at 83 FR 6892 and can also be found at
+
+http://www.sec.gov/about/privacy/secprivacyoffice.htm. Instructions for obtaining the Privacy
+
+Impact Assessment for IARD can be found at
+
+http://www.sec.gov/about/privacy/secprivacyoffice.htm.
+
+       12.     Burden of Information Collection
+
+       We are revising our total burden estimates to reflect the adopted amendments. 27 The
+
+tables below map out the Form PF requirements as they apply to each group of respondents and
+
+detail our burden estimates.
+
+
+
+
+26
+       See 5 CFR 1320.5(d)(2)(viii).
+27
+       For the previously approved estimates, see ICR Reference 202305-3235-023 (conclusion date XXXX,
+       available at https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202305-3235-023.
+               a.      Final Form PF Requirements by Respondent
+
+Table 1: Form PF Requirements by Respondent
+
+                                                                                           Large private
+                               Smaller private      Large hedge       Large liquidity
+Form PF                                                                                     equity fund
+                                fund advisers      fund advisers       fund advisers
+                                                                                             advisers
+Section 1a and section 1b
+(basic information about
+the adviser and the private       Annually            Quarterly          Quarterly            Annually
+funds it advises)
+No revisions
+Section 1c (additional
+                               Annually, if they                        Quarterly, if     Annually, if they
+information concerning
+                                advise hedge          Quarterly         they advise        advise hedge
+hedge funds)
+                                   funds                                hedge funds           funds
+No revisions
+Section 2 (additional
+information concerning
+                                     No               Quarterly             No                   No
+qualifying hedge funds)
+No revisions
+Section 3 (additional
+information concerning
+liquidity funds)
+                                     No                  No              Quarterly               No
+ The adopted
+amendments modify
+section 3
+Section 4 (additional
+information concerning
+                                     No                  No                 No                Annually
+private equity funds)
+No revisions
+                                                      As soon as
+Section 5 (current reporting                         practicable
+concerning qualifying                               upon a current
+                                     No                                     No                   No
+hedge funds)                                       reporting event,
+No revisions                                         but no later
+                                                    than 72 hours
+                               Within 60 days
+                               of fiscal quarter
+Section 6 (event reporting                                                                Within 60 days of
+                                  end upon a
+for private equity fund                                                                   fiscal quarter end
+                               reporting event,          No                 No
+advisers)                                                                                 upon a reporting
+                                if they advise
+No revisions                                                                                     event
+                                private equity
+                                     funds
+Section 7 (temporary
+                               Optional, if they    Optional, if      Optional, if they   Optional, if they
+hardship request)
+                                   qualify          they qualify          qualify             qualify
+No revisions
+                   b.        Annual Hour Burden Estimates
+
+
+            Below are tables with annual hour burden estimates for (1) initial filings, (2) ongoing
+
+   annual and quarterly filings, (3) current reporting and private equity event reporting, and (4)
+
+   transition filings, final filings, and temporary hardship requests.
+
+
+Table 2: Annual Hour Burden Estimates for Initial Filings
+                                  Number of
+                                 Respondents                                             Aggregate
+                                                                  Hours Per Response
+                                      =              Hours Per                             Hours
+Respondent1                                                        Amortized Over 3
+                                  Aggregate          Response                            Amortized
+                                                                        Years3
+                                  Number of                                             Over 3 Years4
+                                  Responses2
+Smaller         Previously
+Private                           358 responses5       40 hours   ÷ 3 =     13 hours        4,654 hours
+                Approved
+Fund
+Advisers                                           No Change Requested
+
+Large Hedge     Previously
+                                   16 responses6      325 hours   ÷ 3 =    108 hours       1,728 hours
+Fund            Approved
+Advisers
+                                                   No Change Requested
+                Proposed
+                                     1 response7      202 hours   ÷ 3 =     67 hours          67 hours
+                Estimate
+Large           Requested            1 response8      202 hours   ÷ 3 =     67 hours          67 hours
+Liquidity
+Fund
+Advisers        Previously
+                                      1 response      200 hours             67 hours          67 hours
+                Approved9
+
+                Change               0 responses        2 hours              1 hour10           1 hour
+
+Large           Previously
+                                  17 responses11      252 hours   ÷ 3 =     84 hours       1,428 hours
+Private         Approved
+Equity Fund
+Advisers                                           No Change Requested
+Notes:
+
+1.   We expect that the hourly burden will be most significant for the initial report because the adviser will need to
+     familiarize itself with the new reporting form and may need to configure its systems in order to efficiently
+     gather the required information. In addition, we expect that some large liquidity fund advisers will find it
+     efficient to automate some portion of the reporting process, which will increase the burden of the initial filing
+     but reduce the burden of subsequent filings.
+
+2.   This concerns the initial filing; therefore, we estimate one response per respondent.
+
+
+3.   We amortize the initial time burden over three years because we believe that most of the burden would be
+     incurred in the initial filing.
+
+4.   (Number of responses) x (hours per response amortized over three years) = aggregate hours amortized over
+     three years.
+
+
+5.   Private Funds Statistics show 2,616 smaller private fund advisers filed Form PF in a recent reporting period.
+     Based on filing data from 2017 through 2021, an average of 13.7 percent of them did not file during the prior
+     year. (2,616 x 0.137 = 358.39 advisers, rounded to 358 advisers.)
+
+6.   Private Funds Statistics show 598 large hedge fund advisers filed Form PF in a recent reporting period. Based
+     on filing data from 2017 through 2021, an average of 2.7 percent of them did not file during the prior year. (598
+     x 0.027 = 16.146 advisers, rounded to 16 advisers.)
+
+
+7.   In the case of the proposed estimates, Private Funds Statistics show 23 large liquidity fund advisers filed Form
+     PF in the fourth quarter of 2020. Based on filing data from 2016 through 2020, an average of 1.5 percent of
+     them did not file for the previous due date. (23 x 0.015 = 0.345 advisers, rounded up to 1 adviser.)
+
+8.   In the case of the requested values, Private Funds Statistics show 21 large liquidity fund advisers filed Form PF
+     in the third quarter of 2022. Based on filing data from 2017 through 2021, an average of 1.5 percent of them did
+     not file during the prior year. (21 x 0.015= 0.32 advisers, rounded up to 1 adviser.).
+
+
+9.   These figures differ from those in the Commission’s 2023 MMF Reforms release because the OMB approved
+     updated estimates of the burdens in the interim.
+
+10. Figures do not sum due to rounding. We round the hours per response aggregated over 3 years to 1 hour because
+    (202 / 3) – (200 / 3) = 0.66666.
+
+11. Private Funds Statistics show 435 large private equity fund advisers filed Form PF in the most recent reporting
+    period. Based on filing data from 2017 through 2021, an average of 3.9 percent of them did not file during the
+    prior year. (435 x 0.039 = 16.97 advisers, rounded to 17 advisers.)
+ Table 3: Annual Hour Burden Estimates for Ongoing Annual and Quarterly Filings
+
+                            Number of             Number of          Hours Per       Aggregate
+Respondent1
+                           Respondents2           Responses3         Response         Hours
+Smaller       Previously
+                           2,258 advisers4    x    1 response    x    15 hours =    33,870 hours
+Private       Approved
+Fund
+Advisers                                     No Change Requested
+
+Large         Previously
+                            582 advisers5     x    4 responses   x   150 hours =   349,200 hours
+Hedge         Approved
+Fund
+                                             No Change Requested
+Advisers
+              Proposed
+                              22 advisers6    x    4 responses   x    71 hours =     6,248 hours
+Large         Estimate
+Liquidity     Requested       20 advisers7    x    4 responses   x    71 hours =      5,680 hours
+Fund
+              Previously
+Advisers                      21 advisers     x    4 responses   x    70 hours =     5,880 hours
+              Approved8
+              Change           (1) adviser         0 responses          1 hour       (200) hours
+Large         Previously
+                            418 advisers9     x    1 response    x   128 hours =    53,504 hours
+Private       Approved
+Equity
+Fund                                         No Change Requested
+Advisers
+Notes:
+
+   1.    We estimate that after an adviser files its initial report, it will incur significantly lower costs to file ongoing
+         annual and quarterly reports, because much of the work for the initial report is non-recurring and likely
+         created system configuration and reporting efficiencies.
+
+   2.    Changes to the number of respondents are due to using updated data to estimate the number of advisers.
+
+
+   3.    Smaller private fund advisers and large private equity fund advisers file annually. Large hedge fund
+         advisers and large liquidity fund advisers file quarterly.
+
+   4.    Private Funds Statistics show 2,616 smaller private fund advisers filed Form PF in a recent reporting
+         period. We estimated that 358 of them filed an initial filing, as discussed in Table 2: Annual Hour Burden
+         Estimates for Initial Filings. (2,616 total smaller advisers – 358 advisers who made an initial filing = 2,258
+         advisers who make ongoing filings.)
+
+
+   5.    Private Funds Statistics show 598 large hedge fund advisers filed Form PF in a recent reporting period. We
+         estimated that 16 of them filed an initial filing, as discussed in Table 2: Annual Hour Burden Estimates for
+         Initial Filings. (598 total large hedge fund advisers – 16 advisers who made an initial filing = 582 advisers
+         who make ongoing filings.)
+
+   6.    In the case of the proposed estimates, Private Funds Statistics show 23 large liquidity fund advisers filed
+         Form PF in the fourth quarter of 2020. We estimated that one of them filed an initial filing, as discussed in
+         Table 2: Annual Hour Burden for Initial Filings. (23 total large liquidity fund advisers – 1 adviser who
+         made an initial filing = 22 advisers who make ongoing filings.)
+
+
+   7.    In the case of the requested values, Private Funds Statistics show 21 large liquidity fund advisers filed
+         Form PF in the third quarter of 2022. We estimated that one of them filed an initial filing, as discussed in
+         Table 2. (21 total large liquidity fund advisers – 1 adviser who made an initial filing = 20 advisers who
+         make ongoing filings.)
+
+   8.    These figures differ from those in the Commission’s 2023 MMF Reforms release because the OMB
+         approved updated estimates of the burdens in the interim.
+
+
+   9.    Private Funds Statistics show 435 large private equity fund advisers filed Form PF in a recent reporting
+         period. Based on filing data from 2017 through 2021, an average of 3.9 percent of them did not file during
+         the prior year. (435 x 0.039 = 16.97 advisers, rounded to 17 advisers.) (435 total large private equity fund
+         advisers – 17 advisers who made an initial filing = 418 advisers who make ongoing filings.) As discussed
+         in Table 2: Annual Hour Burden Estimates for Initial Filings, we are not adopting the proposed change in
+         threshold for large private equity fund advisers.
+ Table 4: Annual Hour Burden Estimates for Current Reporting and Private Equity Event
+ Reporting
+
+                                     Aggregate
+                                                         Hours Per             Aggregate
+Respondent                           Number of
+                                                         Response               Hours
+                                     Responses
+Smaller Private   Previously
+                                    20 responses   x             5 hours   =     100 hours
+Fund Advisers     Approved
+                                          No Change Requested
+                  Previously
+                                    60 responses   x         10 hours      =     600 hours
+Large Hedge       Approved
+Fund Advisers
+                                          No Change Requested
+                  Previously
+Large Private                       20 responses   x             5 hours   =     100 hours
+                  Approved
+Equity Fund
+Advisers                                   No Change Requested
+ Table 5: Annual Hour Burden Estimates for Transition Filings, Final Filings, and
+ Temporary Hardship Requests
+                                                    Aggregate
+                                                                              Hours Per              Aggregate
+ Filing Type1                                       Number of
+                                                                              Response                Hours
+                                                    Responses
+ Transition Filing             Previously
+                                                   71 responses2        x     0.25 hours      =      17.75 hours
+ from Quarterly to             Approved
+ Annual                                                    No Change Requested
+                               Previously
+                                                  235 responses3        x     0.25 hours      =      58.75 hours
+                               Approved
+ Final Filings
+                                                           No Change Requested
+                               Previously
+                                                   4 responses4         x          1 hour     =           4 hours
+ Temporary Hardship            Approved
+ Requests
+                                                           No Change Requested
+
+Notes:
+
+1.   Advisers must file limited information on Form PF in three situations. First, any adviser that transitions from
+     filing quarterly to annually because it has ceased to qualify as a large hedge fund adviser or large liquidity fund
+     adviser, must file a Form PF indicating that it is no longer obligated to report on a quarterly basis. Second, any
+     adviser that is no longer subject to Form PF’s reporting requirements, must file a final report indicating this.
+     Third, an adviser may request a temporary hardship exemption if it encounters unanticipated technical
+     difficulties that prevent it from making a timely electronic filing. A temporary hardship exemption extends the
+     deadline for an electronic filing for seven business days. To request a temporary hardship exemption, the
+     adviser must file a request on Form PF. Temporary hardship exemptions are available for current reporting and
+     private equity event reporting.
+
+2.   Private Funds Statistics show 620 advisers filed quarterly reports in a recent reporting period. Based on filing
+     data from 2017 through 2021, an average of 11.5 percent of them filed a transition filing. (620 x 0.115 = 71.3
+     responses, rounded to 71 responses.)
+
+
+3.   Private Funds Statistics show 3,671 advisers filed Form PF in a recent reporting period. Based on filing data
+     from 2017 through 2021, an average of 6.4 percent of them filed a final filing. (3,671 x 0.064 = approximately
+     235 responses.)
+
+4.   Private Funds Statistics show there were 3,671 private fund advisers who filed Form PF in a recent reporting
+     period. (3,671 / 1,000 = approximately 4 responses.)
+                c.       Annual Monetized Time Burden Estimates
+
+        Below are tables with annual monetized time burden estimates for (1) initial filings, (2)
+
+ongoing annual and quarterly filings, (3) current reporting and private equity event reporting, and
+
+(4) transition filings, final filings, and temporary hardship requests. 28
+
+
+Table 6: Annual Monetized Time Burden of Initial Filings
+                                                                                            Aggregate
+                                              Per Response
+                                                                        Aggregate           Monetized
+                                Per            Amortized
+Respondent1                                                             Number of          Time Burden
+                              Response2       Over 3 years3
+                                                                        Responses4          Amortized
+                                                                                           Over 3 Years
+Smaller       Previously
+                                 $15,5205    ÷ 3 =      $5,174 x       358 responses =           $1,852,292
+Private       Approved
+Fund
+                                                No Change Requested
+Advisers
+Large         Previously
+                               $118,8906     ÷ 3 = $39,630 x            16 responses =             $634,080
+Hedge         Approved
+Fund
+                                                No Change Requested
+Advisers
+              Proposed
+                                 $64,8937    ÷ 3 = $21,631 x              1 response =              $21,631
+              Estimate
+Large
+Liquidity     Requested          $73,3918    ÷ 3 = $24,644 x              1 response =              $24,644
+Fund          Previously
+                                  $73,200    ÷ 3 = $24,400 x              1 response =              $24,400
+Advisers      Approved9
+              Change                 $191                                0 responses                   $244
+Large         Previously
+                                $92,22110    ÷ 3 = $30,740 x            17 responses =             $522,580
+Private       Approved
+Equity
+Fund                                            No Change Requested
+Advisers
+
+
+
+
+28
+        The hourly wage rates used in our estimates are based on (1) SIFMA’s Management & Professional
+        Earnings in the Securities Industry 2013, modified by SEC staff to account for an 1,800-hour work-year
+        and inflation, and multiplied by 5.35 to account for bonuses, firm size, employee benefits and overhead;
+        and (2) SIFMA’s Office Salaries in the Securities Industry 2013, modified by SEC staff to account for an
+        1,800-hour work-year and inflation, and multiplied by 2.93 to account for bonuses, firm size, employee
+        benefits and overhead. The requested values are based on the preceding SIFMA data sets, which SEC staff
+        have updated since the proposing release to account for current inflation rates.
+Notes:
+    1. We expect that the monetized time burden will be most significant for the initial report, for the same
+       reasons discussed in Table 2: Annual Hour Burden Estimates for Initial Filings. Accordingly, we anticipate
+       that the initial report will require more attention from senior personnel, including compliance managers and
+       senior risk management specialists, than will ongoing annual and quarterly filings.
+
+    2.   For the hours per response in each calculation, see Table 2: Annual Hour Burden Estimates for Initial
+         Filings.
+
+
+    3.   We amortize the monetized time burden for initial filings over three years, as we do with other initial
+         burdens in this PRA, because we believe that most of the burden would be incurred in the initial filing.
+
+    4.   See Table 2: Annual Hour Burden Estimates for Initial Filings.
+
+
+    5.   For smaller private fund advisers, we estimate that the initial report will most likely be completed equally
+         by a compliance manager at a cost of $360 per hour and a senior risk management specialist at a cost of
+         $416 per hour. Smaller private fund advisers generally would not realize significant benefits from or incur
+         significant costs for system configuration or automation because of the limited scope of information
+         required from smaller private fund advisers. (($416 per hour x 0.5) + ($360 per hour x 0.5)) x 40 hours per
+         response = $15,520.
+
+    6.   For large hedge fund advisers, we estimate that for the initial report, of a total estimated burden of 325
+         hours, approximately 195 hours will most likely be performed by compliance professionals and 130 hours
+         will most likely be performed by programmers working on system configuration and reporting automation.
+         Of the work performed by compliance professionals, we anticipate that it will be performed equally by a
+         compliance manager at a cost of $360 per hour and a senior risk management specialist at a cost of $416
+         per hour. Of the work performed by programmers, we anticipate that it will be performed equally by a
+         senior programmer at a cost of $386 per hour and a programmer analyst at a cost of $280 per hour. (($360
+         per hour x 0.5) + ($416 per hour x 0.5)) x 195 hours = $75,600. (($386 per hour x 0.5) + ($280 per hour x
+         0.5)) x 130 hours = $43,290. $75,600 + $43,290 = $118,890.
+
+
+    7.   In the case of the proposed estimates for large liquidity fund advisers, we estimated that for the initial
+         report, of a total estimated burden of 202 hours, approximately 60 percent would most likely be performed
+         by compliance professionals and approximately 40 percent would most likely be performed by
+         programmers working on system configuration and reporting automation (that is approximately 121 hours
+         for compliance professionals and 81 hours for programmers). Of the work performed by compliance
+         professionals, we anticipated that it would be performed equally by a compliance manager at a cost of $316
+         per hour and a senior risk management specialist at a cost of $365 per hour. Of the work performed by
+         programmers, we anticipated that it would be performed equally by a senior programmer at a cost of $339
+         per hour and a programmer analyst at a cost of $246 per hour. (($316 per hour x 0.5) + ($365 per hour x
+         0.5)) x 121 hours = $41,200.50. (($339 per hour x 0.5) + ($246 per hour x 0.5)) x 81 hours = $23,692.50.
+         $41,200.50 + $23,692.50 = $64,893.
+
+    8.   In the case of the requested values for large liquidity fund advisers, we estimate that for the initial report, of
+         a total estimated burden of 202 hours, approximately 60 percent will most likely be performed by
+         compliance professionals and approximately 40 percent will most likely be performed by programmers
+         working on system configuration and reporting automation (that is approximately 121 hours for compliance
+         professionals and 81 hours for programmers). Of the work performed by compliance professionals, we
+         anticipate that it will be performed equally by a compliance manager at a cost of $360 per hour and a senior
+         risk management specialist at a cost of $416 per hour. Of the work performed by programmers, we
+         anticipate that it will be performed equally by a senior programmer at a cost of $386 per hour and a
+         programmer analyst at a cost of $280 per hour. (($360 per hour x 0.5) + ($416 per hour x 0.5)) x 121 hours
+        = $46,948. (($386 per hour x 0.5) + ($280 per hour x 0.5)) x 81 hours = $26,973. $46,958 + $26,973 =
+        $73,931.
+
+
+   9.   These figures differ from those in the Commission’s 2023 MMF Reforms release because the OMB
+        approved updated estimates of the burdens in the interim.
+
+   10. For large private equity fund advisers, we expect that for the initial report, of a total estimated burden of
+       252 hours, approximately 60 percent will most likely be performed by compliance professionals and
+       approximately 40 percent will most likely be performed by programmers working on system configuration
+       and reporting automation (that is approximately 151 hours for compliance professionals and 101 hours for
+       programmers). Of the work performed by compliance professionals, we anticipate that it will be performed
+       equally by a compliance manager at a cost of $360 per hour and a senior risk management specialist at a
+       cost of $416 per hour. Of the work performed by programmers, we anticipate that it will be performed
+       equally by a senior programmer at a cost of $386 per hour and a programmer analyst at a cost of $280 per
+       hour. (($360 per hour x 0.5) + ($416 per hour x 0.5)) x 151 hours = $58,588. (($386 per hour x 0.5) +
+       ($280 per hour x 0.5)) x 101 hours = $33,633. $58,588 + $33,633 = $92,221.
+
+
+
+
+Table 7: Annual Monetized Time Burden of Ongoing Annual and Quarterly Filings
+
+                                                                    Aggregate                Aggregate
+Respondent1                            Per Response2                Number of                Monetized
+                                                                    Responses               Time Burden
+                     Previously
+Smaller Private                                $4,8153 x          2,258 responses4 =            $10,872,270
+                     Approved
+Fund Advisers
+                                                     No Change Required
+                     Previously
+Large Hedge                                   $48,1505 x         2,328 responses6      =       $112,093,200
+                     Approved
+Fund Advisers
+                                                     No Change Required
+                     Proposed
+                                              $20,0227 x             88 responses8     =         $1,761,936
+                     Estimate
+
+Large Liquidity      Requested                $22,7919 X            80 responses10     =         $1,823,280
+Fund Advisers        Previously
+                                              $22,470 x               84 responses     =         $1,887,480
+                     Approved11
+                     Change                       $321               (4) responses                 ($64,200)
+
+Large Private        Previously
+                                             $41,73012 x           418 responses13 =            $17,443,140
+Equity Fund          Approved
+Advisers                                            No Change Required
+Notes:
+    1. We expect that the monetized time burden will be less costly for ongoing quarterly and annual reports than
+       for initial reports, for the same reasons discussed in Table 4: Annual Hour Burden for Ongoing Annual and
+       Quarterly Filings. Accordingly, we anticipate that senior personnel will bear less of the reporting burden
+       than they would for the initial report.
+
+    2.   For all types of respondents, we estimate that both annual and quarterly reports would be completed equally
+         by (1) a compliance manager at a cost of $360 per hour, (2) a senior compliance examiner at a cost of $276,
+         (3) a senior risk management specialist at a cost of $416 per hour, and (4) a risk management specialist at a
+         cost of $232 an hour. ($360 x 0.25 = $90) + ($276 x 0.25 = $69) + ($416 x 0.25 = $104) + ($232 x 0.25 =
+         $58) = $321. To calculate the cost per response for each respondent, we used the hours per response from
+         Table 2: Annual Hour Burden Estimates for Quarterly Filings.
+
+
+    3.   Cost per response for smaller private fund advisers: ($321 per hour x 15 hours per response = $4,815 per
+         response.)
+
+    4.   (2,258 smaller private fund advisers x 1 response annually = 2,258 aggregate responses.)
+
+
+    5.   Cost per response for large hedge fund advisers: ($321 per hour x 150 hours per response = $48,150 per
+         response.)
+
+    6.   (582 large hedge fund advisers x 4 responses annually = 2,328 aggregate responses.)
+
+
+    7.   For the proposed estimates, we estimated that quarterly reports would be completed equally by (1) a
+         compliance manager at a cost of $316 per hour, (2) a senior compliance examiner at a cost of $243, (3) a
+         senior risk management specialist at a cost of $365 per hour, and (4) a risk management specialist at a cost
+         of $203 an hour. ($316 x 0.25 = $79) + ($243 x 0.25 = $60.75) + ($365 x 0.25 = $91.25) + ($203 x 0.25 =
+         $50.75) = $281.75, rounded to $282 per hour. In the case of the proposed estimates, cost per response for
+         large liquidity fund advisers: $282 per hour x 71 hours per response = $20,022 per response.
+
+    8.   In the case of the proposed estimates, (22 large liquidity fund advisers x 4 responses annually = 88
+         aggregate responses.)
+
+
+    9.   In the case of the final estimates, cost per response for large liquidity fund advisers: $321 per hour x 71
+         hours per response = $22,791 per response.
+
+    10. In the case of the requested values, 20 large liquidity fund advisers x 4 responses annually = 80 aggregate
+        responses.
+
+
+    11. These figures differ from those in the Commission’s 2023 MMF Reforms release because the OMB
+        approved updated estimates of the burdens in the interim.
+
+    12. Cost per response for large private equity fund advisers: ($321 per hour x 130 hours per response = $41,730
+        per response.)
+
+
+    13. (418 large private equity fund advisers x 1 response annually = 418 aggregate responses.)
+Table 8: Annual Monetized Time Burden of Current Reporting and Private Equity Event
+Reporting
+                                                                       Aggregate             Aggregate
+ Respondent                                    Per Response            Number of           Monetized Time
+                                                                       Responses1             Burden
+                            Previously
+Smaller Private                                         $2,0242 x       20 responses =                 $40,480
+                            Approved
+Fund Advisers
+                                                         No Change Requested
+                            Previously
+Large Hedge Fund                                        $5,1603 x       60 responses =                $309,600
+                            Approved
+Advisers
+                                                         No Change Requested
+
+Large Private               Previously
+                                                        $2,0242 x       20 responses =                 $40,480
+Equity Fund                 Approved
+Advisers                                                 No Change Requested
+
+
+Notes:
+
+   1.    See Table 4: Annual Hour Burden Estimates for Current Reporting and Private Equity Event Reporting.
+
+   2.    We estimate that the time costs for a legal professional to be approximately $560, which is a blended
+         average of hourly rate for a deputy general counsel ($695) and compliance attorney ($425). We estimate
+         that the time costs for a financial professional to be approximately $355, which is a blended average hourly
+         rate for a senior risk management specialist ($416) and a financial reporting manager ($339). Of the total 5
+         hours that a private equity event report would take, we estimate that an adviser would spend on average 2.5
+         hours of legal professional time and 1.5 hours of financial professional time to prepare, review, and submit
+         a private equity event report. (2.5 hours x $560 per hour for a legal professional = $1,400) + (1.5 hours x
+         $416 per hour for a financial professional = $624) = $2,024.
+
+
+   3.    We estimate that the time costs for a legal professional to be approximately $560, which is a blended
+         average of hourly rate for a deputy general counsel ($695) and compliance attorney ($425). We estimate
+         that the time costs for a financial professional to be approximately $355, which is a blended average hourly
+         rate for a senior risk management specialist ($416) and a financial reporting manager ($339). Of the total
+         10 hours that a current report would take, we estimate that an adviser would spend on average 5.5 hours of
+         legal professional time and 4.5 hours of financial professional time to prepare, review, and submit a current
+         report. (5.5 hours x $560 per hour for a legal professional = $3,080) + (5 hours x $416 per hour for a
+         financial professional = $2,080) = $5,160
+Table 9: Annual Monetized Time Burden for Transition Filings, Final Filings, and
+Temporary Hardship Requests
+
+                                                                     Aggregate               Aggregate
+                                                   Per
+ Filing Type                                                         Number of               Monetized
+                                                 Response
+                                                                     Responses1             Time Burden
+                               Previously
+ Transition Filing from                             $20.502 x           71 responses =             $1,455.50
+                               Approved
+ Quarterly to Annual
+                                                         No Change Requested
+                               Previously
+                                                      20.502 x         422 responses =                $8,651
+ Final Filings                 Approved
+                                                         No Change Requested
+                               Previously
+ Temporary Hardship                                $252.383 x             4 responses =            $1,009.52
+                               Approved
+ Requests
+                                                         No Change Requested
+
+
+Notes:
+
+
+1.   See Table 5: Annual Hour Burden Estimates for Transition Filings, Final Filings, and Temporary Hardship
+     Requests.
+
+2.   We estimate that each transition filing will take 0.25 hours and that a compliance clerk would perform this work
+     at a cost of $82 an hour. (0.25 hours x $82 = $20.50.)
+
+
+3.   We estimate that each temporary hardship request will take 1 hour. We estimate that a compliance manager
+     would perform five-eighths of the work at a cost of $360 and a general clerk would perform three-eighths of the
+     work at a cost of $73. (1 hour x ((5/8 of an hour x $360 = $225) + (3/8 of an hour x $73 = $27.38)) = $252.38
+     per response.
+
+
+13. Cost to Respondents
+
+         We estimate an aggregate annual estimated external cost burden of $1,610,228, which
+
+represents a decrease of $600 from the previously approved estimate of $1,610,828. See the
+
+tables below, which detail the annual external cost burden estimates for (1) initial filings as well
+
+as ongoing annual and quarterly filings and (2) current and event reporting. There are no filing
+
+fees for transition filings, final filings, or temporary hardship requests and we continue to
+
+estimate there would be no external costs for those filings, as previously approved.
+       Table 2: Annual External Cost Burden for Ongoing Annual and Quarterly Filings as well
+       as Initial Filings
+
+                                                                                      Aggregate
+                                                                                       External
+                                                          External Cost
+                             Filing           External                                  Cost of      Total
+                 Number of           Total                  of Initial  Number
+                              Fee              Cost of                                  Initial    Aggregate
+Respondent1    Responses Per         Filing                  Filing     of Initial
+                              Per              Initial                                  Filing     External
+                Respondent2          Fees                  Amortized     Filings6
+                             Filing3           Filing4                                Amortized     Cost
+                                                             Over 3
+                                                                                        Over 3
+                                                             Years5
+                                                                                        Years
+Smaller    Previously
+                        1 x $150 =     $150                    Not Applicable                       $392,4007
+Private    Approved
+Fund
+                                               No Changes Requested
+Advisers
+Large      Previously
+                        4 x $150 =     $600   $50,000    ÷ 3 = $16,667 x 16 =           $266,672    $625,4728
+Hedge      Approved
+Fund
+                                                No Change Requested
+Advisers
+           Proposed
+                        4 x $150 =     $600   $50,000    ÷ 3 = $16,667 x        1 =      $16,667     $30,4679
+           Estimate
+Large
+Liquidity Requested     4 x $150 =     $600   $50,000    ÷ 3 = $16,667 x        1 =      $16,667    $29,26710
+Fund      Previously
+                        4 x $150 =     $600   $50,000    ÷ 3 = $16,667 x        1 =      $16,667    $29,86711
+Advisers Approved
+           Change       0      $0        $0       $0                            0            $0        ($600)
+Large      Previously
+                        1 x $150 =     $150   $50,000    ÷ 3 = $16,667 x 17 =           $283,339   $348,58912
+Private    Approved
+Equity
+Fund                                            No Change Requested
+Advisers
+Notes:
+
+1.   We estimate that advisers would incur the cost of filing fees for each filing. For initial filings, advisers may
+     incur costs to modify existing systems or deploy new systems to support Form PF reporting, acquire or use
+     hardware to perform computations, or otherwise process data required on Form PF.
+
+2.   Smaller private fund advisers and large private equity fund advisers file annually. Large hedge fund advisers
+     and large liquidity fund advisers file quarterly.
+
+
+3.   The SEC established Form PF filing fees in a separate order. Since 2011, filing fees have been and continue to
+     be $150 per annual filing and $150 per quarterly filing. See Order Approving Filing Fees for Exempt Reporting
+     Advisers and Private Fund Advisers, Advisers Act Release No. 3305 (Oct. 24, 2011) [76 FR 67004 (Oct. 28,
+     2011)].
+
+4.   In the previous PRA submission for the rules, staff estimated that the external cost burden for initial filings
+     would range from $0 to $50,000 per adviser. This range reflected the fact that the cost to any adviser may
+     depend on how many funds or the types of funds it manages, the state of its existing systems, the complexity of
+     its business, the frequency of Form PF filings, the deadlines for completion, and the amount of information the
+     adviser must disclose on Form PF. Smaller private fund advisers would be unlikely to bear such costs because
+     the information they must provide is limited and will, in many cases, already be maintained in the ordinary
+     course of business. We continue to estimate that the same cost range would apply.
+
+
+5.   We amortize the external cost burden of initial filings over three years, as we do with other initial burdens in
+     this PRA, because we believe that most of the burden would be incurred in the initial filing.
+
+6.   See Table 2: Annual Hour Burden Estimates for Initial Filings.
+
+
+7.   Private Funds Statistics show 2,616 smaller private fund advisers filed Form PF in a recent reporting period.
+     (2,616 smaller private fund advisers x $150 total filing fees) = $392,400 aggregate cost.
+
+8.   Private Funds Statistics show 598 large hedge fund advisers filed Form PF in a recent reporting period. (598
+     large hedge fund advisers x $600 total filing fees) + $266,672 total external costs of initial filings, amortized
+     over three years = $625,472 aggregate cost.
+
+
+9.   In the case of the proposed estimates, Private Funds Statistics show 23 large liquidity fund advisers filed Form
+     PF in the fourth quarter of 2020. (23 large liquidity fund advisers x $600 total filing fees) + $16,667 total
+     external costs of initial filings, amortized over three years = $30,467 aggregate cost.
+
+10. In the case of the requested values, Private Funds Statistics show 21 large liquidity fund advisers filed Form PF
+    in the third quarter of 2022. (21 large liquidity fund advisers x $600 total filing fees) + $16,667 total external
+    costs of initial filings, amortized over three years = $29,267 aggregate cost.
+
+
+11. The previously approved estimates reflected 22 large liquidity fund advisers. (22 large liquidity fund advisers x
+    $600 total filing fees) + $16,667 total external costs of initial filings, amortized over three years = $29,867
+    aggregate cost.
+
+12. Private Funds Statistics show 435 large private equity fund advisers filed Form PF in a recent reporting period.
+    (435 large private equity fund advisers x $150 total filing fees) + $283,339 total external costs of initial filings,
+    amortized over three years = $348,589 aggregate cost.
+Table 11: Annual External Cost Burden for Current Reporting and Private Equity Event
+Reporting
+                               Cost of Outside
+                                Counsel Per      Aggregate                                             Total
+                   Aggregate                                  One-time Cost
+                               Current  Report    Cost of                                            Aggregate
+ Respondent1       Number of                                   of System
+                                 or Private       Outside                                            External
+                   Responses2                                   Changes
+                                Equity Event      Counsel                                              Cost3
+                                   Report
+ Smaller     Previously
+                             20   x $1,6954     =   $33,900         $15,000                               $48,900
+ Private     Approved
+ Fund
+ Advisers                                No Change Requested
+ Large       Previously
+                             60   x $1,6954     = $101,700          $15,000                              $116,700
+ Hedge       Approved
+ Fund
+                                         No Change Requested
+ Advisers
+ Large       Previously
+                             20   x $1,6954     =   $33,900         $15,000                               $48,900
+ Private     Approved
+ Equity
+ Fund                                     No Change Requested
+ Advisers
+ Advisers would pay filing fees, the amount of which would be determined in a separate action.
+
+Notes:
+
+   1. In a separate action, the SEC would approve filing fees that reflect the reasonable costs associated with
+   current report and private equity event report filings and the establishment and maintenance of the filing system.
+   (See 15 U.S.C. 80b-4(c).) We estimate that large hedge fund advisers and private equity fund advisers would
+   incur costs of outside counsel for each current report or private equity event report, as applicable. We also
+   estimate that large hedge fund advisers and private equity fund advisers may incur a one-time cost to modify
+   existing systems or deploy new systems to support current reporting or private equity event reporting, as
+   applicable, acquire or use hardware to perform computations, or otherwise process data to identify the reporting
+   events set forth in section 5 or section 6, as applicable, because such reporting events are quantitative.
+
+   2.    See Table 4: Annual Hour Burden Estimates for Current Reporting and Private Equity Event Reporting.
+
+
+   3. (Aggregate cost of outside counsel) + (one-time cost of system changes, as applicable) = total aggregate
+   cost.
+
+   4. We estimate the cost for outside legal counsel is $565. This estimate reflects the hour burden for current
+   reporting and private equity event reporting. (3 hours x $565 for outside legal services = $1,695.)
+   14. Cost to the Federal Government
+
+       There are no costs to the government directly attributable to Form PF.
+
+   15. Change in Burden
+
+       The aggregate annual estimate of 3,670 respondents represents a decrease of 1 respondent
+
+from the previously approved estimate of 3,671 respondents. The aggregate annual estimate of
+
+5,886 responses represents a decrease of 21 responses from the previously approved estimate of
+
+5,907 responses. The total annual hour burden of 451,011.50 hours represents a decrease of 0.5
+
+hours from the previous burden hour estimate of 451,012 hours, which reflects that the burden
+
+for large liquidity fund advisers has increased under the amended reporting requirements while
+
+the number of large liquidity fund advisers has decreased. The aggregate annual estimated
+
+monetized time burden of $145,667,162.02 represents a decrease of $54,010.50 from the
+
+previously approved estimate of $145,721,172.52. The aggregate annual estimated external cost
+
+burden of $1,610,228 represents a decrease of $600 from the previously approved estimate of
+
+$1,610,828. The changes are due to the amendments and a decline in the number of large
+
+liquidity fund advisers.
+
+
+   16. Information Collection Planned for Statistical Purposes
+
+       Not applicable.
+
+   17. Approval to Omit OMB Expiration Date
+
+       We request authorization to omit the expiration date on the electronic version of Form
+
+PF, although the OMB control number will be displayed. Including the expiration date on the
+electronic version of this form will result in increased costs, because the need to make changes to
+
+the form may not follow the application’s scheduled version release dates.
+
+   18. Exceptions to Certification Statement for Paperwork Reduction Act Submission
+
+       Not applicable.
+
+   B. COLLECTIONS OF INFORMATION EMPLOYING STATISTICAL METHODS
+
+       Not applicable.
+

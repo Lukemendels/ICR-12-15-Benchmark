@@ -185,5 +185,7 @@
       "source_id": "SRC-0042"
     }
   ],
-  "total_score": 58
+  "total_score": 58,
+  "table_evidence_path": "icrs/202410-7100-005/table-evidence.json",
+  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
 }

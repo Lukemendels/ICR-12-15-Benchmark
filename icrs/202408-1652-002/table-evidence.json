@@ -1,0 +1,1202 @@
+{
+  "status": "Parsed source cells; not automatically normalized model inputs",
+  "tables": [
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1: Hour Burden and Costs for CCSF Applications",
+      "rows": [
+        {
+          "text_line": 120,
+          "cells": [
+            "Annual Number of Applications",
+            "Hour Burden per Application",
+            "Total Annual Hour Burden",
+            "Annual Hour Burden Cost"
+          ]
+        },
+        {
+          "text_line": 121,
+          "cells": [
+            "A",
+            "B",
+            "C = A \u00d7 B",
+            "D = C \u00d7 $46.01"
+          ]
+        },
+        {
+          "text_line": 122,
+          "cells": [
+            "120",
+            "40",
+            "4,800",
+            "220,861"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 2: Hour Burden and Costs for CCSF-K9 Provider Applications",
+      "rows": [
+        {
+          "text_line": 130,
+          "cells": [
+            "Population",
+            "Annual Number of Applications",
+            "Hour Burden per Application",
+            "Total Annual Hour Burden",
+            "Annual Hour Burden Cost"
+          ]
+        },
+        {
+          "text_line": 131,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A  \u00d7 B",
+            "D = C \u00d7 $ 78.89"
+          ]
+        },
+        {
+          "text_line": 132,
+          "cells": [
+            "CCSF-K9",
+            "3",
+            "40",
+            "120",
+            "$9,467.16"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 3: Hour Burden and Costs for CCSF STA Applications",
+      "rows": [
+        {
+          "text_line": 142,
+          "cells": [
+            "Annual Number of Applications",
+            "Hour Burden per Application",
+            "Total Annual Hour Burden",
+            "Annual Hour Burden Cost"
+          ]
+        },
+        {
+          "text_line": 143,
+          "cells": [
+            "A",
+            "B",
+            "C = A  \u00d7 B",
+            "D = C  \u00d7  $31.94"
+          ]
+        },
+        {
+          "text_line": 144,
+          "cells": [
+            "6,859",
+            "0.25",
+            "1,715",
+            "$ 54,764"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table  4 : Total Recordkeeping Hour Burden and Costs for CCSFs",
+      "rows": [
+        {
+          "text_line": 163,
+          "cells": [
+            "Activity",
+            "Number of  Responses",
+            "Hour Burden",
+            "Total Hour Burden",
+            "Hour Burden Cost"
+          ]
+        },
+        {
+          "text_line": 164,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A \u00d7 B",
+            "D = C \u00d7 $27.26"
+          ]
+        },
+        {
+          "text_line": 165,
+          "cells": [
+            "Training",
+            "6,859",
+            "0.033",
+            "               228.6 ",
+            "$6,232.46"
+          ]
+        },
+        {
+          "text_line": 166,
+          "cells": [
+            "Internal Audits",
+            "784",
+            "3",
+            "             2,352.0 ",
+            "$64,114.63"
+          ]
+        },
+        {
+          "text_line": 167,
+          "cells": [
+            "STA Recordkeeping",
+            "6859",
+            "0.183",
+            "             1,257.5 ",
+            "$34,278.52"
+          ]
+        },
+        {
+          "text_line": 168,
+          "cells": [
+            "Total",
+            "14,502",
+            "\u00a0",
+            "           3,838.12 ",
+            "$104,625.61"
+          ]
+        },
+        {
+          "text_line": 169,
+          "cells": [
+            "Note: Calculations may not be exact due to rounding .",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 5: Hour Burden and Costs for Recordkeeping for CCSF-K9s",
+      "rows": [
+        {
+          "text_line": 188,
+          "cells": [
+            "Activity",
+            "Number of Annual Responses",
+            "Hour Burden per Response",
+            "Total Annual Hour Burden",
+            "Total Annual Hour Burden Cost"
+          ]
+        },
+        {
+          "text_line": 189,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A \u00d7 B",
+            "D = C \u00d7 $78.89"
+          ]
+        },
+        {
+          "text_line": 190,
+          "cells": [
+            "Certification Events",
+            "228",
+            "0.38",
+            "87.4",
+            "$6,895.25 "
+          ]
+        },
+        {
+          "text_line": 191,
+          "cells": [
+            "Training Records",
+            "10,800",
+            "0.03",
+            "360",
+            "$28,401.47 "
+          ]
+        },
+        {
+          "text_line": 192,
+          "cells": [
+            "Internal Audits",
+            "3,600",
+            "0.17",
+            "600",
+            "$47,335.79 "
+          ]
+        },
+        {
+          "text_line": 193,
+          "cells": [
+            "TSA Audits",
+            "174",
+            "0.88",
+            "153.7",
+            "$12,125.85 "
+          ]
+        },
+        {
+          "text_line": 194,
+          "cells": [
+            "STA Records",
+            "10,800",
+            "0.08",
+            "900",
+            "$71,003.68 "
+          ]
+        },
+        {
+          "text_line": 195,
+          "cells": [
+            "Total",
+            "25,602",
+            "\u00a0",
+            "             2,101.1 ",
+            "$165,762.04 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table  6 : Hour Burden and Costs for 3PK9-C Certifier Recordkeeping",
+      "rows": [
+        {
+          "text_line": 215,
+          "cells": [
+            "Activity",
+            "Number of Annual Responses",
+            "Hour Burden per Response",
+            "Total Annual Hour Burden",
+            "Total Annual Hour Burden Cost"
+          ]
+        },
+        {
+          "text_line": 216,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A \u00d7 B",
+            "D = C \u00d7 $78.89"
+          ]
+        },
+        {
+          "text_line": 217,
+          "cells": [
+            "Certification Event",
+            "638",
+            "0.13",
+            "79.8",
+            "$6,291.71 "
+          ]
+        },
+        {
+          "text_line": 218,
+          "cells": [
+            "Training",
+            "63",
+            "0.03",
+            "2.1",
+            "$165.68 "
+          ]
+        },
+        {
+          "text_line": 219,
+          "cells": [
+            "Internal Audits",
+            "12",
+            "0.17",
+            "2.0",
+            "$157.79 "
+          ]
+        },
+        {
+          "text_line": 220,
+          "cells": [
+            "TSA Audits",
+            "12",
+            "0.43",
+            "5.2",
+            "$410.24 "
+          ]
+        },
+        {
+          "text_line": 221,
+          "cells": [
+            "STA Records",
+            "58",
+            "0.08",
+            "4.8",
+            "$381.32 "
+          ]
+        },
+        {
+          "text_line": 222,
+          "cells": [
+            "Total",
+            "783",
+            "\u00a0",
+            "93.9",
+            "$7,406.74 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table  7 : CCSF Security Programs Hour Burden and Costs",
+      "rows": [
+        {
+          "text_line": 247,
+          "cells": [
+            "Activity",
+            "Number of Annual Responses",
+            "Hour Burden per Response",
+            "Total Annual Hour Burden",
+            "Total Annual Hour Burden Cost"
+          ]
+        },
+        {
+          "text_line": 248,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A  \u00d7 B",
+            "D = C \u00d7 $46.01"
+          ]
+        },
+        {
+          "text_line": 249,
+          "cells": [
+            "New Certification",
+            "120",
+            "40",
+            "4,800",
+            "$220,861 "
+          ]
+        },
+        {
+          "text_line": 250,
+          "cells": [
+            "Recertification",
+            "261",
+            "3",
+            "783",
+            "$36,028 "
+          ]
+        },
+        {
+          "text_line": 251,
+          "cells": [
+            "Program Amendment",
+            "1",
+            "1",
+            "1",
+            "$46 "
+          ]
+        },
+        {
+          "text_line": 252,
+          "cells": [
+            "TSA Issued Amendments",
+            "10",
+            "40",
+            "400",
+            "$18,405 "
+          ]
+        },
+        {
+          "text_line": 253,
+          "cells": [
+            "Security Coordinator Submissions",
+            "120",
+            "0.5",
+            "60",
+            "$2,761 "
+          ]
+        },
+        {
+          "text_line": 254,
+          "cells": [
+            "Security Incident Reports",
+            "15",
+            "0.33",
+            "5",
+            "$230 "
+          ]
+        },
+        {
+          "text_line": 255,
+          "cells": [
+            "Total",
+            "716",
+            "\u00a0",
+            "4,451",
+            "$278,330.80 "
+          ]
+        },
+        {
+          "text_line": 256,
+          "cells": [
+            "Note: Calculations may not be exact due to rounding .",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table  8 : CCSF-K9 Security Program Hour Burdens and Costs",
+      "rows": [
+        {
+          "text_line": 274,
+          "cells": [
+            "Activity ",
+            "Number of Annual Responses",
+            "Hour Burden Per Response",
+            "Total Annual Hour Burden",
+            "Total Annual Hour Burden Cost"
+          ]
+        },
+        {
+          "text_line": 275,
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 276,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A \u00d7   B",
+            "D = C  \u00d7  $78.89"
+          ]
+        },
+        {
+          "text_line": 277,
+          "cells": [
+            "New Certifications",
+            "3",
+            "40",
+            "120",
+            "$9,467 "
+          ]
+        },
+        {
+          "text_line": 278,
+          "cells": [
+            "Submitting Security Program  Amendments  to TSA",
+            "10",
+            "1",
+            "10",
+            "$789 "
+          ]
+        },
+        {
+          "text_line": 279,
+          "cells": [
+            "TSA Issued Amendments",
+            "10",
+            "40",
+            "400",
+            "$31,557 "
+          ]
+        },
+        {
+          "text_line": 280,
+          "cells": [
+            "Security Coordinator Submissions",
+            "3",
+            "0.5",
+            "1.5",
+            "$118 "
+          ]
+        },
+        {
+          "text_line": 281,
+          "cells": [
+            "Security Incident Reports",
+            "15",
+            "0.33",
+            "5",
+            "$394 "
+          ]
+        },
+        {
+          "text_line": 282,
+          "cells": [
+            "Total",
+            "41",
+            "\u00a0",
+            "536.5",
+            "$42,326.08 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 9: Hour Burden and Costs for 3PK9-C Certifier Order",
+      "rows": [
+        {
+          "text_line": 296,
+          "cells": [
+            "Activity",
+            "Number of Annual Responses",
+            "Hour Burden Per Response",
+            "Total Annual  Hour Burden",
+            "Hour Burden Cost"
+          ]
+        },
+        {
+          "text_line": 297,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A  \u00d7  B",
+            "D = C  \u00d7  $78.89"
+          ]
+        },
+        {
+          "text_line": 298,
+          "cells": [
+            "Security Coordinator Submissions",
+            "4",
+            "0.5",
+            "2",
+            "$157.79 "
+          ]
+        },
+        {
+          "text_line": 299,
+          "cells": [
+            "Security Incident Reports",
+            "15",
+            "0.33",
+            "5",
+            "$394.46 "
+          ]
+        },
+        {
+          "text_line": 300,
+          "cells": [
+            "Total",
+            "19",
+            "\u00a0",
+            "7",
+            "$552.25 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 10: Total Annual Respondents, Hour Burden and Costs for CCSFs, CCSF-K9 and 3PK9-C",
+      "rows": [
+        {
+          "text_line": 308,
+          "cells": [
+            "Activity",
+            "Respondents",
+            "Responses",
+            "Annual Hour Burden",
+            "Annual Hour Burden Cost"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Applications",
+      "rows": [
+        {
+          "text_line": 310,
+          "cells": [
+            "CCSF",
+            "120",
+            "120",
+            "4800",
+            "$220,861 "
+          ]
+        },
+        {
+          "text_line": 311,
+          "cells": [
+            "CCSF-K9",
+            "3",
+            "3",
+            "12 0",
+            "$9,467 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "STA Applications",
+      "rows": [
+        {
+          "text_line": 313,
+          "cells": [
+            "CCSF",
+            "6,8 59",
+            "6,859",
+            "1,715",
+            "$54,764 "
+          ]
+        },
+        {
+          "text_line": 314,
+          "cells": [
+            "Recordkeeping",
+            "\u00a0",
+            "\u00a0",
+            "\u00a0",
+            "\u00a0"
+          ]
+        },
+        {
+          "text_line": 315,
+          "cells": [
+            "CCSF",
+            "904",
+            "14,502",
+            "3,838",
+            "$104,625.61 "
+          ]
+        },
+        {
+          "text_line": 316,
+          "cells": [
+            "CCSF-K9",
+            "16",
+            "25,602",
+            "2,101",
+            "$165,762.04 "
+          ]
+        },
+        {
+          "text_line": 317,
+          "cells": [
+            "3PK9-C Certifier",
+            "7",
+            "783",
+            "93.9",
+            "$7,406.74 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Security Programs /  Orders",
+      "rows": [
+        {
+          "text_line": 319,
+          "cells": [
+            "CCSF",
+            "1 20",
+            "716",
+            "4,451",
+            "$278,330.80 "
+          ]
+        },
+        {
+          "text_line": 320,
+          "cells": [
+            "CCSF-K9",
+            "1 6",
+            "41",
+            "536.5",
+            "$42,326.08 "
+          ]
+        },
+        {
+          "text_line": 321,
+          "cells": [
+            "3PK9-C Certifier",
+            "7",
+            "19",
+            "7",
+            "$552.25 "
+          ]
+        },
+        {
+          "text_line": 322,
+          "cells": [
+            "Total",
+            "8,052 \u00a0",
+            "48,645",
+            "17, 66 2.4",
+            "$884,095.27 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1 1:  STA Fee Costs for CCSF Populations",
+      "rows": [
+        {
+          "text_line": 335,
+          "cells": [
+            "Population",
+            "Annual Number of STAs",
+            "STA Fee",
+            "STA Fee Costs"
+          ]
+        },
+        {
+          "text_line": 336,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A \u00d7 B"
+          ]
+        },
+        {
+          "text_line": 337,
+          "cells": [
+            "CCSP STAs",
+            "6,959",
+            "$41.00",
+            "$ 281,219"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1 2 : Federal Costs for CCSSSP Review",
+      "rows": [
+        {
+          "text_line": 348,
+          "cells": [
+            "Activity",
+            "Number of Responses",
+            "Hour Burden per Response",
+            "Annual Hour Burden",
+            "Annual Hour Burden Cost"
+          ]
+        },
+        {
+          "text_line": 349,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A  \u00d7 B",
+            "D = C \u00d7 $ 85.14"
+          ]
+        },
+        {
+          "text_line": 350,
+          "cells": [
+            "New CCSSSP Programs",
+            "120",
+            "10",
+            "1,200",
+            "$102,165.69 "
+          ]
+        },
+        {
+          "text_line": 351,
+          "cells": [
+            "Recertification",
+            "261",
+            "",
+            "               2,613 ",
+            "$222,494.16 "
+          ]
+        },
+        {
+          "text_line": 352,
+          "cells": [
+            "Security Coordinator Submissions",
+            "120",
+            "0.5",
+            "                    60 ",
+            "$5,108.28 "
+          ]
+        },
+        {
+          "text_line": 353,
+          "cells": [
+            "Security Incident Reporting",
+            "15",
+            "10",
+            "150",
+            "$12,770.71 "
+          ]
+        },
+        {
+          "text_line": 354,
+          "cells": [
+            "Total",
+            "516",
+            "\u00a0",
+            "4,023",
+            "$342,538.84 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1 3 : TSA Cost for CCSF-K9 Applications, Security Coordinators, and Incident Reporting",
+      "rows": [
+        {
+          "text_line": 362,
+          "cells": [
+            "Activity",
+            "Number of CCSF-K9 Responses",
+            "Hour Burden per Response",
+            "Annual Hour Burden",
+            "Hour Burden Cost"
+          ]
+        },
+        {
+          "text_line": 363,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A  \u00d7   B",
+            "D = C \u00d7 $ 85.14"
+          ]
+        },
+        {
+          "text_line": 364,
+          "cells": [
+            "Applications",
+            "3",
+            "10",
+            "30",
+            "$2,554.14 "
+          ]
+        },
+        {
+          "text_line": 365,
+          "cells": [
+            "Security Coordinator Submissions",
+            "3",
+            "0.5",
+            "1.5",
+            "$127.71 "
+          ]
+        },
+        {
+          "text_line": 366,
+          "cells": [
+            "Security Incident Reporting",
+            "15",
+            "10",
+            "150",
+            "$12,770.71 "
+          ]
+        },
+        {
+          "text_line": 367,
+          "cells": [
+            "Total",
+            "21",
+            "\u00a0",
+            "18 1.5",
+            "$15,452.56 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1 4 : TSA Costs for 3PK9-C Certifier Security Coordinators and Incident Reporting",
+      "rows": [
+        {
+          "text_line": 374,
+          "cells": [
+            "Activity",
+            "Number of 3PK9-C Responses ",
+            "Hour Burden per Response ",
+            "Total Hour Burden",
+            "Annual Hour Burden Cost "
+          ]
+        },
+        {
+          "text_line": 375,
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 376,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A  \u00d7 B",
+            "D = C \u00d7 $ 94.86"
+          ]
+        },
+        {
+          "text_line": 377,
+          "cells": [
+            "Security Coordinator Submissions",
+            "4",
+            "0.5",
+            "2",
+            "$189.73 "
+          ]
+        },
+        {
+          "text_line": 378,
+          "cells": [
+            "Security Incident Reporting",
+            "15",
+            "10",
+            "150",
+            "$14,229.74 "
+          ]
+        },
+        {
+          "text_line": 379,
+          "cells": [
+            "Total",
+            "19",
+            "\u00a0",
+            "152",
+            "$14,419.47 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1 5 : Hour Burden and Costs for CCSF-K9 and 3PK9-C Certifiers STA Review",
+      "rows": [
+        {
+          "text_line": 387,
+          "cells": [
+            "Population",
+            "Number of STA Applications Received",
+            "Hour Burden per Application",
+            "Total Hour Burden",
+            "Hour Burden Cost"
+          ]
+        },
+        {
+          "text_line": 388,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A \u00d7 B",
+            "D = C \u00d7 $85.14"
+          ]
+        },
+        {
+          "text_line": 389,
+          "cells": [
+            "CCSF-K9",
+            "240",
+            "0.25",
+            "60",
+            "$5,108 "
+          ]
+        },
+        {
+          "text_line": 390,
+          "cells": [
+            "CCSP-3PK9-C Certifiers",
+            "58",
+            "",
+            "14.5",
+            "$1,235 "
+          ]
+        },
+        {
+          "text_line": 391,
+          "cells": [
+            "Total ",
+            "298",
+            "\u00a0",
+            "74.5",
+            "$6,343 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1 6 : Hour Burden and Costs for CCSFs, 3PK9-C Certifiers and CCSF-K9s Audit s",
+      "rows": [
+        {
+          "text_line": 399,
+          "cells": [
+            "Activity",
+            "Number of Audits",
+            "Hour Burden Per Audit",
+            "Total Hour Burden",
+            "Annual Hour Burden"
+          ]
+        },
+        {
+          "text_line": 400,
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            " Cost"
+          ]
+        },
+        {
+          "text_line": 401,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A \u00d7 B",
+            "D = C \u00d7 $85.14"
+          ]
+        },
+        {
+          "text_line": 402,
+          "cells": [
+            "TSA Audits",
+            "804",
+            "8",
+            "6,432",
+            "$547,608.07 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1 7 : Hour Burden and Costs for TSA Issued Amendments for the CCSSSP, and  CCSP-K9  Program",
+      "rows": [
+        {
+          "text_line": 410,
+          "cells": [
+            "Activity",
+            "Number of Amendments",
+            "Hour Burden per Amendment",
+            "Total Hour Burden",
+            "Hour Burden Cost"
+          ]
+        },
+        {
+          "text_line": 411,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = A  \u00d7 B",
+            "D = C \u00d7 $ 85.14"
+          ]
+        },
+        {
+          "text_line": 412,
+          "cells": [
+            "TSA Issued Amendments",
+            "10",
+            "40",
+            "400",
+            "$34,055.23 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202408-1652-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1 8 : Total TSA Costs",
+      "rows": [
+        {
+          "text_line": 419,
+          "cells": [
+            "TSA Costs",
+            "Annual Hours",
+            "Annual Costs"
+          ]
+        },
+        {
+          "text_line": 420,
+          "cells": [
+            "CCSF Applications, Recertifications, Security Coordinators, and Incident Reporting",
+            "4,023",
+            "$342,539 "
+          ]
+        },
+        {
+          "text_line": 421,
+          "cells": [
+            "CCSF-K9 Applications, Recertification s , Security Coordinators, and Incident Reporting",
+            "181.5",
+            "$15,453 "
+          ]
+        },
+        {
+          "text_line": 422,
+          "cells": [
+            "3PK9-C Certifier Security Coordinators and Incident Reporting",
+            "152",
+            "$14,419 "
+          ]
+        },
+        {
+          "text_line": 423,
+          "cells": [
+            "STA Review for CCSFs, CCSF-K9 and 3PK9-C Certifiers",
+            "74.5",
+            "$6,343 "
+          ]
+        },
+        {
+          "text_line": 424,
+          "cells": [
+            "Annual Audit of CCSF, CCSF-K9, and 3PK9-C Certifier s  ",
+            "6432",
+            "$547,608.07 "
+          ]
+        },
+        {
+          "text_line": 425,
+          "cells": [
+            "TSA Issued Amendments for the CCSSSP and CCSF-K9 Program",
+            "400",
+            "$34,055.23 "
+          ]
+        },
+        {
+          "text_line": 426,
+          "cells": [
+            "Annual Total TSA Costs",
+            "11,263",
+            "$960,416.95"
+          ]
+        }
+      ]
+    }
+  ]
+}

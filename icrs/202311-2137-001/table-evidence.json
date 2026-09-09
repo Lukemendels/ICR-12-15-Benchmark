@@ -1,0 +1,649 @@
+{
+  "status": "Parsed source cells; not automatically normalized model inputs",
+  "tables": [
+    {
+      "source_file": "icrs/202311-2137-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Total estimate of annual burden hours:",
+      "rows": [
+        {
+          "text_line": 122,
+          "cells": [
+            "Total Number of Respondents",
+            "Total Number of Annual Responses",
+            "Total Annual Burden Hours",
+            "Total Annual Salary Costs",
+            "Total Burden Cost"
+          ]
+        },
+        {
+          "text_line": 123,
+          "cells": [
+            "4 3 , 134",
+            "55,997",
+            "427,719",
+            "$ 13, 372,348",
+            "$0"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202311-2137-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "It is estimated that there are 30 large companies and 170 small companies developing new security plans annually.  Additionally, PHMSA estimates that a large company, using information available from PHMSA and industry associations, will require about 50 hours to develop a security plan, while a smaller company will average about 25 hours.  PHMSA assumes that the salary cost to develop a security plan is $25.59/hour.  Therefore, a large company will require 4,500 burden hours (30 companies x 3 locations/company x 50 hours/response) and $115,168 (4,500 total burden hours x $25.59) in salary cost.  Small businesses will require 4,250\u00a0burden hours (170 companies x 25 hours/response) and $108,770 (4,250 total burden hours x $25.59) in salary cost.  PHMSA estimates there is no out-of-pocket expenses for offerors and carriers.",
+      "rows": [
+        {
+          "text_line": 139,
+          "cells": [
+            "",
+            "Number of Companies",
+            "Number of Locations per Company",
+            "Total Number of New Plans",
+            "Hours per Response",
+            "Total Burden Hours",
+            "Salary Cost per Hour",
+            "Total Salary Cost",
+            "Burden Cost per Hour",
+            "Total Burden Cost"
+          ]
+        },
+        {
+          "text_line": 140,
+          "cells": [
+            "Large",
+            "30",
+            "3",
+            "90",
+            "50",
+            "4,500",
+            "$ 25.59",
+            "$ 115 , 168",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 141,
+          "cells": [
+            "Small",
+            "170",
+            "1",
+            "170",
+            "25",
+            "4,250",
+            "$ 25.59",
+            "$ 108 , 77 0",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 142,
+          "cells": [
+            "Total",
+            "200",
+            "",
+            "260",
+            "",
+            "8,750",
+            "",
+            "$ 223 , 939",
+            "",
+            "$0"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202311-2137-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Each security plan must be updated annually to account for any changes in security measures.  As with the creation of new security plans, PHMSA estimates that each large company has three separate locations offering for transportation or transporting the specified hazardous materials, while small businesses have one location.  Based on historical data, PHMSA estimates there are 6,300 large companies and 35,700 small companies updating security plans annually.  We estimate large companies require approximately 10 hours to update a security plan and small companies require approximately 5 hours.  PHMSA assumes that the salary cost for updating a security plan is $25.59/hour.  Therefore, large companies will have a total annual burden of 189,000 hours (6,300 companies x 3 locations/company x 10 hours/response), and small companies will have a total annual burden of 178,499 hours (35,700 companies x 5\u00a0hours/response).  The total salary cost for large businesses is $4,837,067 (189,000 burden hours x $25.59) and for small businesses is $4,568,327 (178,499 burden hours x $25.59).  PHMSA estimates there is no out-of-pocket expenses for offerors and carriers.",
+      "rows": [
+        {
+          "text_line": 149,
+          "cells": [
+            "",
+            "Number of Companies",
+            "Number of Locations per Company",
+            "Total Number of New Plans",
+            "Hours per Response",
+            "Total Burden Hours",
+            "Salary Cost per Hour",
+            "Total Salary Cost",
+            "Burden Cost per Hour",
+            "Total Burden Cost"
+          ]
+        },
+        {
+          "text_line": 150,
+          "cells": [
+            "Large",
+            "6,300",
+            "3",
+            "18,900",
+            "10",
+            "189,000",
+            "$ 25.59",
+            "$ 4 , 837,067",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 151,
+          "cells": [
+            "Small",
+            "35,700",
+            "1",
+            "35,700",
+            "5",
+            "178,499",
+            "$ 25.59",
+            "$4,568,327",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 152,
+          "cells": [
+            "Total",
+            "42,000",
+            "",
+            "54,600",
+            "",
+            "367, 499",
+            "",
+            "$9,405,394",
+            "",
+            "$0"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202311-2137-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Section 172.820(b) requires that rail carriers subject to additional planning requirements must collect and compile commodity data for the specified hazardous materials by route, line segment, or series of line segments.  PHMSA estimates that each railroad will require 40 burden hours to compile this data at a salary of $72.72/hour.  Therefore, the estimated amount of time it will take to compile this data is 280 hours for Class I Railroads (7 railroads x 40 hours/railroad), 1,280 hours for Class II Railroads (32 railroads x 40 hours/railroad), and 4,000 hours for Class\u00a0III Railroads (100 railroads x 40 hours/railroad).  The estimated salary cost to Class I Railroads is $20,363 (280 burden hours x $72.72), to Class II Railroads $93,086 is (1,280 burden hours x $72.72), and to Class III Railroads is $290,893 (4,000 burden hours x $72.72).  PHMSA estimates there is no out-of-pocket expenses for offerors and carriers.",
+      "rows": [
+        {
+          "text_line": 166,
+          "cells": [
+            "",
+            "Number of Railroads",
+            "Burden Hours per Railroad",
+            "Total Burden Hours",
+            "Salary Cost per Hour",
+            "Total Salary Cost",
+            "Burden Cost per Hour",
+            "Total Burden Cost"
+          ]
+        },
+        {
+          "text_line": 167,
+          "cells": [
+            "Class I Railroads",
+            "7",
+            "40",
+            "280",
+            "$ 72.72",
+            "$ 20 , 363",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 168,
+          "cells": [
+            "Class II Railroads",
+            "32",
+            "40",
+            "1,280",
+            "$ 72.72",
+            "$ 93 , 086",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 169,
+          "cells": [
+            "Class III Railroads",
+            "100",
+            "40",
+            "4,000",
+            "$ 72.72",
+            "$ 290 , 893",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 170,
+          "cells": [
+            "Total",
+            "139",
+            "",
+            "5,560",
+            "",
+            "$ 404 , 341",
+            "",
+            "$0"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202311-2137-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "This reflects an decrease in burden from the HM-264A final rule.",
+      "rows": [
+        {
+          "text_line": 179,
+          "cells": [
+            "",
+            "Number of Railroads",
+            "Number of Routes per Railroad",
+            "Number of Routes",
+            "Burden Hours per Route",
+            "Total Burden Hours",
+            "Salary Cost per Hour",
+            "Total Salary Cost",
+            "Burden Cost per Hour",
+            "Total Burden Cost"
+          ]
+        },
+        {
+          "text_line": 180,
+          "cells": [
+            "Class I Railroads",
+            "7",
+            "8. 85",
+            "6 0",
+            "80",
+            "4, 800",
+            "$ 72.72",
+            "$ 349,072",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 181,
+          "cells": [
+            "Class II Railroads",
+            "32",
+            "4 .04",
+            "12 8",
+            "80",
+            "10, 240",
+            "$ 72.72",
+            "$ 744,686",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 182,
+          "cells": [
+            "Class III Railroads",
+            "100",
+            "2 .01",
+            "20 0",
+            "40",
+            "8,0 00",
+            "$ 72.72",
+            "$ 581,786",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 183,
+          "cells": [
+            "Total",
+            "139",
+            "",
+            "388",
+            "",
+            "23, 040",
+            "",
+            "$1, 675,644",
+            "",
+            "$0"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202311-2137-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "This reflects an decrease in burden from the HM-264A final rule.",
+      "rows": [
+        {
+          "text_line": 191,
+          "cells": [
+            "",
+            "Number of Railroads",
+            "Number of Routes per Railroad",
+            "Number of Routes",
+            "Burden Hours/ Route",
+            "Total Burden Hours",
+            "Salary Cost per Hour",
+            "Total Salary Cost",
+            "Burden Cost per Hour",
+            "Total Burden Cost"
+          ]
+        },
+        {
+          "text_line": 192,
+          "cells": [
+            "Class I Railroads",
+            "7",
+            "8. 57",
+            "6 0",
+            "120",
+            "7, 200",
+            "$ 72 . 72",
+            "$ 523,0 68",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 193,
+          "cells": [
+            "Class II Railroads",
+            "32",
+            "3 .03",
+            "9 6",
+            "120",
+            "11, 520",
+            "$ 72 . 72",
+            "$ 837,772",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 194,
+          "cells": [
+            "Class III Railroads",
+            "100",
+            "0.5 1",
+            "5 0",
+            "40",
+            "2, 000",
+            "$ 72 . 72",
+            "$ 145,447",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 195,
+          "cells": [
+            "Total",
+            "139",
+            "",
+            "206",
+            "",
+            "20,720",
+            "",
+            "$1, 506,826",
+            "",
+            "$0"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202311-2137-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Following data compilation, primary route analysis, and alternate route analysis, railroads must select the appropriate route, in accordance with \u00a7\u00a0172.802(e); complete the route analysis, in accordance with \u00a7\u00a0172.820(f); and maintain the security plans and accompanying data, in accordance with \u00a7\u00a0172.820(i).  This information is required to be retained in writing and is restricted on a need-to-know basis.  PHMSA estimates this burden is 16 hours for each Class I and II Railroad and 8 hours for each Class III Railroad.  Therefore, PHMSA estimates 112 total burden hours for Class I Railroads (7 railroads x 16 hours/railroad), 512 hours for Class II Railroads (32 railroads x 16 hours/railroad), and 800 hours for Class III Railroads (100 railroads x 8 hours/railroad).  Similar to other rail security plan requirements, PHMSA estimates a salary of $72.72/hour for this analysis.  The estimated salary cost is $8,145 for Class I Railroads (112\u00a0burden hours x $72.72), $37,234 for Class II Railroads (512 burden hours x $72.72), and $58,179 for Class III Railroads (800 burden hours x $72.72).  PHMSA estimates there is no out-of-pocket expenses for offerors and carriers.",
+      "rows": [
+        {
+          "text_line": 202,
+          "cells": [
+            "",
+            "Number of Railroads",
+            "Burden Hours per Railroad",
+            "Total Burden Hours",
+            "Salary Cost per Hour",
+            "Total Salary Cost",
+            "Burden Cost per Hour",
+            "Total Burden Cost"
+          ]
+        },
+        {
+          "text_line": 203,
+          "cells": [
+            "Class I Railroads",
+            "7",
+            "16",
+            "112",
+            "$ 72 . 72",
+            "$ 8 , 145",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 204,
+          "cells": [
+            "Class II Railroads",
+            "32",
+            "16",
+            "512",
+            "$ 72 . 72",
+            "$3 7 , 234",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 205,
+          "cells": [
+            "Class III Railroads",
+            "100",
+            "8",
+            "800",
+            "$ 72 . 72",
+            "$ 5 8, 179",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 206,
+          "cells": [
+            "Total",
+            "139",
+            "",
+            "1,424",
+            "",
+            "$ 103 , 558",
+            "",
+            "$0"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202311-2137-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "In addition to route analysis, rail carriers must ensure that the safety and security plan includes: (1) a procedure to minimize the duration of time that the hazardous material is stored incidental to movement, (2) measures to prevent unauthorized access to the materials during storage or delays in transit, (3) measures to mitigate risk to population centers associated with in-transit storage, (4) measures to be taken in the event of an escalated threat level for materials stored in transit, and (5) procedures for notifying the consignee in the event of a significant delay during transport.  PHMSA estimates that this requirement imposes 8 hours of burden for Class I and II Railroads and 4 burden hours for Class III Railroads.  It costs each railroad in salary, $72.72/hour to complete this information collection.  Therefore, this burden totals 56 hours for Class I Railroads (7 railroads x 8 hours/railroad) at $4,073 (56 burden hours x $72.72); 256\u00a0burden hours for Class II Railroads (32 railroads x 8 hours/railroad) at $18,617 (256 burden hours x $72.72); and 400 burden hours for Class III Railroads (100 railroads x 4 hours/railroad) at $29,089 (400\u00a0burden hours x $72.72).  PHMSA estimates there is no out-of-pocket expenses for offerors and carriers.",
+      "rows": [
+        {
+          "text_line": 213,
+          "cells": [
+            "",
+            "Number of Railroads",
+            "Burden Hours per Railroad",
+            "Total Burden Hours",
+            "Salary Cost per Hour",
+            "Total Salary Cost",
+            "Burden Cost per Hour",
+            "Total Burden Cost"
+          ]
+        },
+        {
+          "text_line": 214,
+          "cells": [
+            "Class I Railroads",
+            "7",
+            "8",
+            "56",
+            "$ 72 . 72",
+            "$ 4 , 073",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 215,
+          "cells": [
+            "Class II Railroads",
+            "32",
+            "8",
+            "256",
+            "$ 72 . 72",
+            "$1 8 , 617",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 216,
+          "cells": [
+            "Class III Railroads",
+            "100",
+            "4",
+            "400",
+            "$ 72 . 72",
+            "$2 9 , 089",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 217,
+          "cells": [
+            "Total",
+            "139",
+            "",
+            "712",
+            "",
+            "$ 51 , 779",
+            "",
+            "$0"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202311-2137-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "As required by \u00a7\u00a0172.820(h)(5), railroads are required to notify consignees within 48 hours of any delay with a revised delivery schedule.  This delay compromises the safety or security of the hazardous materials or delays in the shipment beyond normal or planned shipping time.  PHMSA estimates Class I and II Railroads notify consignees 12 times per year and that Class III Railroads notify consignees 2 times per year.  Each notification requires 30 minutes.  Therefore, this information collection requires 6 burden hours for Class I and II Railroads (12 notifications x 0.5 hour/notification) and 1 hour for Class III Railroads (2 notifications x 0.5\u00a0hour/notification).  At a salary of $72.72/hour, Class I and II Railroads each spend $436 for this requirement (6 burden hours x $72.72) and Class III Railroads spend $73 (1 burden hour x $72.72).  PHMSA estimates there is no out-of-pocket expenses for offerors and carriers.",
+      "rows": [
+        {
+          "text_line": 224,
+          "cells": [
+            "",
+            "Number of Railroads",
+            "Number of Routes per Railroad",
+            "Number of Notifications",
+            "Burden Hours per Notification",
+            "Total Burden Hours",
+            "Salary Cost per Hour",
+            "Total Salary Cost",
+            "Burden Cost per Hour",
+            "Total Burden Cost"
+          ]
+        },
+        {
+          "text_line": 225,
+          "cells": [
+            "Class I Railroads",
+            "7",
+            "1.714",
+            "12",
+            "0.50",
+            "6",
+            "$ 72.72",
+            "$ 436",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 226,
+          "cells": [
+            "Class II Railroads",
+            "32",
+            "0.375",
+            "12",
+            "0.50",
+            "6",
+            "$ 72.72",
+            "$ 436",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 227,
+          "cells": [
+            "Class III Railroads",
+            "100",
+            "0.02",
+            "2",
+            "0.50",
+            "1",
+            "$ 72.72",
+            "$ 73",
+            "$0.00",
+            "$0"
+          ]
+        },
+        {
+          "text_line": 228,
+          "cells": [
+            "Total",
+            "139",
+            "",
+            "26",
+            "",
+            "13",
+            "",
+            "$ 945",
+            "",
+            "$0"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202311-2137-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "In accordance with \u00a7\u00a7\u00a0172.802(d) and 172.820(i), each company subject to a security plan must maintain a copy (or an electronic file) at its principal place of business.  While not required to be submitted to PHMSA for approval or review, the security plan must be made available upon request, at a reasonable time and location, to an authorized official of the Department of Transportation or the Department of Homeland Security.  During each enforcement visit, a PHMSA enforcement official will request a copy of the company\u2019s the security plan.  Based on historical data, PHMSA estimates that each year, 100 companies subject to security plan requirements are inspected and required to provide a copy of its security plan.  For these recordkeeping efforts, PMHSA estimates it takes approximately 0.008 hours (30 seconds) to provide each security plan at a salary of $25.59/hour.  Therefore, the total burden hours for the inspection is 1 burden hours (100 companies x 0.008 hours/response) and a total salary cost of $21 (1 burden hour x $25.59).  This recordkeeping requirement is inclusive for the large and small business requirements, including the additional railroad routing requirements.  PHMSA estimates there is no out-of-pocket expenses for offerors and carriers.",
+      "rows": [
+        {
+          "text_line": 235,
+          "cells": [
+            "Number of Companies",
+            "Hours per Response",
+            "Total Burden Hours",
+            "Salary Cost per Hour",
+            "Total Salary Cost",
+            "Burden Cost per Hour",
+            "Total Burden Cost"
+          ]
+        },
+        {
+          "text_line": 236,
+          "cells": [
+            "100",
+            "0.0 0 8",
+            "1",
+            "$ 25.59",
+            "$ 21",
+            "$0.00",
+            "$0"
+          ]
+        }
+      ]
+    }
+  ]
+}

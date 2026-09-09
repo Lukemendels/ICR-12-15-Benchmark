@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202403-1219-001",
+  "retrieved_at": "2026-09-09T11:02:22.004580+00:00",
+  "documents": [
+    {
+      "title": "1219-New Supporting Statement 2024 Respirator Protection Program at Coal MInes.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=144151501",
+      "path": "icrs/202403-1219-001/raw/supporting-statement-a-1.docx",
+      "sha256": "780ac810d9cb9dc67e1d415084eb96486f2bd17424b6564537c7888b71d3231d",
+      "text_chars": 26022
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202403-1219-001",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202403-1219-001",
+  "agency": "DOL/MSHA",
+  "title": "Respiratory Protection Program at Coal Mines",
+  "omb_control_number": "1219-0158",
+  "submission_date": "08/15/2024",
+  "record_source_id": "SRC-0109",
+  "supporting_statement_source_ids": [
+    "SRC-0110"
+  ]
+}

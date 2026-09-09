@@ -1,0 +1,267 @@
+{
+  "status": "Parsed source cells; not automatically normalized model inputs",
+  "tables": [
+    {
+      "source_file": "icrs/202411-1218-005/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1 - WAGE HOUR ESTIMATES",
+      "rows": [
+        {
+          "text_line": 243,
+          "cells": [
+            "Occupational Title",
+            "SOC  code",
+            "Mean Hour ly  Wage Rate (A)",
+            "Fringe Benefits  (B)",
+            "Loaded Hourly Wage Rate (C) = (A)/((1-(B))"
+          ]
+        },
+        {
+          "text_line": 244,
+          "cells": [
+            "Human Resources Assistant",
+            "43-4161",
+            "$23.46",
+            "0.31 2",
+            "$34. 10"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202411-1218-005/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 2 - Summary of Annual Estimated Burden Hours and Cost for Employers  t o Complete the Required Paperwork",
+      "rows": [
+        {
+          "text_line": 256,
+          "cells": [
+            "Information Collection Task",
+            "No. of Employers 1",
+            " Responses per Respondents",
+            "Total Number of Responses",
+            "Time  per Employer 2",
+            "Burden Hours",
+            "Loaded  Hourly  Wage ",
+            "Cost Burden 3"
+          ]
+        },
+        {
+          "text_line": 257,
+          "cells": [
+            "",
+            "A",
+            "B ",
+            "C = AxB",
+            "D",
+            "E = CxD",
+            "F",
+            "G = ExF"
+          ]
+        },
+        {
+          "text_line": 258,
+          "cells": [
+            "Locate and assemble information required to complete the variance application, including devising an alternative means of compliance, gathering or developing supporting documentation (e.g., safety policies, safe-work procedures, work-area exposure monitoring data, training materials)",
+            "12",
+            "1",
+            "12",
+            "16",
+            "192",
+            "$34. 10",
+            "$6 ,5 47"
+          ]
+        },
+        {
+          "text_line": 259,
+          "cells": [
+            "Inform affected workers of decision to seek a variance",
+            "12",
+            "1",
+            "12",
+            "4",
+            "48",
+            "$ 34. 10",
+            "$1,6 37"
+          ]
+        },
+        {
+          "text_line": 260,
+          "cells": [
+            "Complete the variance application (either online or hard copy)",
+            "12",
+            "1",
+            "12",
+            "8",
+            "96",
+            "$ 34. 10",
+            "$3, 2 74"
+          ]
+        },
+        {
+          "text_line": 261,
+          "cells": [
+            "Assemble the application documents, including copying or scanning, collating, and electronically submitting or mailing",
+            "12",
+            "1",
+            "12",
+            "2",
+            "24",
+            "$ 34. 10",
+            "$ 818"
+          ]
+        },
+        {
+          "text_line": 262,
+          "cells": [
+            "Host an OSHA site visit",
+            "0.25 4",
+            "12",
+            "3",
+            "2",
+            "6",
+            "$34.10",
+            "$205"
+          ]
+        },
+        {
+          "text_line": 263,
+          "cells": [
+            "Totals",
+            "",
+            "",
+            "51",
+            "",
+            "366",
+            "",
+            "$12,481"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202411-1218-005/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 3  -  Summary of Annual Federal Government Estimated Hours and Cost   to  the Federal Government to Process the Required Paperwork",
+      "rows": [
+        {
+          "text_line": 312,
+          "cells": [
+            "I nformation-Collection Task",
+            "Number of  Variances",
+            "Hours per  Task",
+            "Total Hours",
+            "Total   Cost 1"
+          ]
+        },
+        {
+          "text_line": 313,
+          "cells": [
+            "Recei ve  and  initial ly   process   variance application  ",
+            "1 2",
+            "4",
+            "48",
+            "$ 2, 69 6"
+          ]
+        },
+        {
+          "text_line": 314,
+          "cells": [
+            "Establish  and maintain  a  variance - application case file",
+            "12",
+            "4",
+            "48",
+            "$ 2, 69 6"
+          ]
+        },
+        {
+          "text_line": 315,
+          "cells": [
+            "Conduct initial administrative review of variance  application",
+            "12",
+            "5",
+            "60",
+            "$ 3 ,3 70  "
+          ]
+        },
+        {
+          "text_line": 316,
+          "cells": [
+            "Draft and send letter to employer acknowledging receipt of application",
+            "12",
+            "3",
+            "36",
+            "$ 2,02 2"
+          ]
+        },
+        {
+          "text_line": 317,
+          "cells": [
+            "Contact  employer  to obtain missing information or to correct minor errors in application",
+            "12",
+            "3",
+            "36",
+            "$ 2,02 2"
+          ]
+        },
+        {
+          "text_line": 318,
+          "cells": [
+            "Conduct technical review of application",
+            "12",
+            "80",
+            "960",
+            "$ 53,91 4"
+          ]
+        },
+        {
+          "text_line": 319,
+          "cells": [
+            "Draft and send a denial letter",
+            "1 1",
+            "10",
+            "1 1 0",
+            "$ 6,17 8"
+          ]
+        },
+        {
+          "text_line": 320,
+          "cells": [
+            "Plan and conduct OSHA  s ite  v isi t",
+            ".25",
+            "40",
+            "1 0",
+            "$ 5 6 2"
+          ]
+        },
+        {
+          "text_line": 321,
+          "cells": [
+            "Draft application and interim order for publication",
+            "1",
+            "200",
+            "200",
+            "$ 1 1,232"
+          ]
+        },
+        {
+          "text_line": 322,
+          "cells": [
+            "Review comments and draft variance grant for p ublication",
+            "1",
+            "200",
+            "20 0",
+            "$ 1 1,232"
+          ]
+        },
+        {
+          "text_line": 323,
+          "cells": [
+            "Totals",
+            "-",
+            "-",
+            "1 , 708",
+            "$ 95, 924"
+          ]
+        }
+      ]
+    }
+  ]
+}

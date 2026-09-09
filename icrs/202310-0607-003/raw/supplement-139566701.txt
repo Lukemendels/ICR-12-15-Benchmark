@@ -1,0 +1,518 @@
+                       Attachment N
+
+                 Department of Commerce
+                United States Census Bureau
+             OMB Information Collection Request
+             Annual Integrated Economic Survey
+              OMB Control Number 0607-1024
+
+
+AIES Dress Rehearsal Preliminary Findings and Recommendations
+   Annual Integrated Economic
+     Survey Dress Rehearsal:
+    Preliminary Findings and
+       Recommendations
+                                   Melissa A. Cidade, EWD
+                                    Heidi St.Onge, ADEP
+                                     January 26, 2024
+
+
+
+The Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance protection of the
+confidential source data (Project No. P-7529180, Disclosure Review Board (DRB) approval number: CBDRB-FY24-ESMD010-004).
+AIES Research Overview
+   Phase I: “The 78” Pilot 2022
+
+  • Goal: Understand response processes and further instrument refining
+  • Qualtrics instrument, 78 companies
+
+
+   Phase II: Response Spreadsheet Pilot 2023
+
+  • Goal: Induce independent response
+  • Response spreadsheet, about 900 companies
+
+
+   2022 AIES (Dress Rehearsal)
+
+  • Goal: Troubleshooting and infrastructure building
+  • New Centurion instrument, about 8,000 companies
+
+
+
+                                               CBDRB-FY24-ESMD010-004     2
+                           Survey Response Data and
+                              Paradata (N = 4,860)
+
+Research               Response Analysis Survey (RAS)
+                                 (N = 465)
+Modalities
+                    Respondent Debriefing Interviews
+                               (N = 44)
+
+                      Respondent Usability Interviews
+                                (N = 28)
+
+
+                           Inbound Call Log (N = 924)
+             CBDRB-FY24-ESMD010-004                     3
+Positive feedback, too…
+• “One of the things that I like about it because our company has grown
+  significantly by acquisition was being able to answer all the questions at one
+  time for all of the entities. I really appreciated that. Versus having multiple
+  surveys that I have had to do historically." – Debriefing Interview
+
+• “When I got to the download spreadsheet, it was easy… We actually have 3 to 4
+  people working on [the survey], compiling it together, and submitting it as one.
+  It’s a little bit easier when we have the spreadsheet to work with as opposed to
+  manually entering something into a screen.” – Debriefing Interview
+
+• “Very easy in our system. The questions on the survey were straightforward. It’s
+easy to match the questions from the report that I run so easy to populate.” –
+Debriefing Interview
+
+                                   CBDRB-FY24-ESMD010-004                  Positive feedback 4
+                                                                                               Usability   Dress       Future
+Goal                       Recommendation                                                      Testing     Rehearsal   Research
+Get feedback on the new    Test new survey flow in AIES Dress Rehearsal collection.                x           x
+flow
+Test key elements of the   Include functionality to clean up establishment lists                   x           x
+spreadsheet design         Consider functionality to orient respondents within the                 x
+                           spreadsheet
+                           Continue to explore ways of communicating optionality at the unit       x                       x
+                           level.
+Gain additional            Explore other ways of collecting non-numeric responses.                 x           x
+information about          Prime respondents for the change                                                    x
+response burden            Consider cutting content                                                                        x
+Develop respondent         Continue to develop response support materials.                         x           x
+communications             Consider response support training.                                                 x
+                           Update letters to retain resonant messaging and drop                                x
+                           discouraging messaging.
+                           Consider additional research into communications materials.                         x           x
+
+
+                                                      CBDRB-FY24-ESMD010-004                                           5
+Get feedback on the new flow
+Three-step structure
+Linear design
+
+
+
+                       CBDRB-FY24-ESMD010-004   6
+CBDRB-FY24-ESMD010-004   Goal 1: Get feedback on the new flow 7
+Get feedback on the new structure
+• Finding 1: The three-step design needs additional support.
+   • “I didn’t know how many steps there were. I crossed my fingers, is this the end of it?
+     You didn’t know what they were going to ask on the next step. There was no way to
+     get a full view of what are all the questions going to be, what are all the steps? It
+     was all unknown until you tried to do it.” – Debriefing Interview
+
+
+• Finding 2: Linear design suppressed response.
+   • “[I] would like the ability to be able to review questionnaire responses before
+     submitting. There should be an option at the end to preview survey responses so
+     someone other than the preparer could review for accuracy before submission.
+     The inability to go back and edit after answering a question is risky.” – Debriefing
+     Interview
+
+                                     CBDRB-FY24-ESMD010-004          Goal 1: Get feedback on the new flow 8
+Recommendations: Get feedback on the new
+structure
+Dress Rehearsal Goal   Finding                     Recommendation           Next Steps
+
+Three-step design      The three-step design     Include flexible           Further develop survey
+                       needs additional support. navigation and a more      preview and content
+                                                 robust means of survey     selection tool.
+                                                 previewing.
+Linear design          Linear design suppressed    Explore the ability to   Develop ability to move
+                       response.                   move more freely         forward and backwards
+                                                   throughout the survey.   through the survey.
+
+
+
+
+                                        CBDRB-FY24-ESMD010-004              Goal 1: Get feedback on the new flow 9
+Test key elements of the
+spreadsheet design
+Include functionality to clean up establishment lists
+Consider functionality to orient respondents within the spreadsheet
+Continue to explore ways of communicating optionality at the unit level
+
+                           CBDRB-FY24-ESMD010-004                         10
+Test key elements of the spreadsheet design
+                                                                 Percentage of triggered warning/error
+• Finding 3: Larger companies struggled                              messages by type of message
+  with Step 1.                                                               (N = 68,693)*
+
+
+• Finding 4: Respondents get lost in the
+  spreadsheet.                                                                                                 Operational
+   • “You had to scroll horizonal[ly] instead of                                                                 status
+     vertical[ly], and as you scrolled right, I had             Other
+                                                                                                                warning
+                                                                                                                 45.3%
+     to keep going back to see what line I am                  warnings
+     on, am I entering in the right                             54.7%
+
+     information? A freeze pane view would be
+     good, or vertical presentation so you can
+     scroll that way.” – Debriefing Interview                *Total number of warning/error messages triggered. Respondents
+
+                                                             could trigger the same error more than once.
+
+                                    CBDRB-FY24-ESMD010-004                               Goal 2: Test the spreadsheet 11
+Test key elements of the spreadsheet design
+• Finding 5: Respondents struggled with units.
+   • “First two rows are a glitch. I would just skip them and ignore them if it’s just the
+     two rows, that doesn’t give me information of which location you’re referring to.” –
+     Usability Interview
+
+
+• Finding 6: Rounding functionality surprised respondents.
+
+• Finding 7: NAPCS reporting needs additional attention.
+   • Missed
+   • Cumbersome
+   • Mismatched
+
+                                     CBDRB-FY24-ESMD010-004              Goal 2: Test the spreadsheet 12
+       Recommendations: Test key elements of the
+       spreadsheet design
+Dress Rehearsal Goal             Finding                          Recommendation                  Next Steps
+Include functionality to clean   Large companies struggled        Develop download/upload         Provide download/upload
+up establishment lists           with Step 1.                     functionality for Step 1.       functionality for Step 1.
+Consider functionality to        Respondents get lost in the      Explore ways to freeze panes. Freeze left columns.
+orient respondents within        spreadsheet
+the spreadsheet
+Continue to explore ways of      Respondents struggled with       Update ways of displaying       Update KAU display.
+communicating optionality at     units.                           KAUs to cue respondents
+the unit level
+Test other key elements of       Rounding functionality           Include instruction that        Include instruction on
+the spreadsheet design           surprised respondents.           entries will be rounded.        instructions tab.
+                                 NAPCS reporting needs            Investigate better performing   NAPCS investigations
+                                 additional attention.            ways of collecting NAPCS.
+
+
+                                                      CBDRB-FY24-ESMD010-004                      Goal 2: Test the spreadsheet 13
+Gain additional information
+about response burden
+Explore other ways of collecting non-numeric responses.
+Prime respondents for the change.
+
+
+
+                          CBDRB-FY24-ESMD010-004          14
+Gain additional information about response
+burden
+• Finding 8: Error checking needs additional development.
+   • “[My response generated] an error. The error report was really weird. It said
+     it passed and then it had errors. I don’t understand that.” – Debriefing
+     Interview
+
+
+
+
+• Finding 9: Respondents rely on a survey preview.
+   • “Not being able to get the entire survey prior to entering the data in caused
+     significant challenge.” – RAS
+
+
+                                  CBDRB-FY24-ESMD010-004            Goal 3: Response Burden 15
+Gain additional                        Which of the following, if any, were challenges to completing the AIES
+                                                                   questionnaire?
+information           400
+                                                                      (N = 465*)
+
+
+about                 350       334
+
+response              300
+                                             243
+
+burden
+                      250                                  227
+
+                      200                                               189
+                                                                                     172
+                                                                                                 155          153
+                      150
+                                                                                                                           108
+                                                                                                                                        89
+Finding 10: Content   100
+
+                                                                                                                                                     32
+continues to be a     50
+
+                       0
+challenge.                  Had to collect Had to wait Had to add,
+                             information to rely on allocate, or
+                                                                      Too many
+                                                                      questions
+                                                                                    Unclear or Some other
+                                                                                  inadequately challenge
+                                                                                                            The online Already had Questions
+                                                                                                            survey was other surveys were too
+                                                                                                                                                  I had no
+                                                                                                                                                 challenges
+                              from more others within otherwise                   defined terms             difficult to to complete complicated completing
+                               than one my company manipulate                                                   use      at the same              the AIES
+                             database or     for the    data to fit                                                          time               questionnaire
+                            other source requested      questions
+                                              data
+                        *Note: Respondents could select all that apply.
+
+
+
+                                                     CBDRB-FY24-ESMD010-004                                              Goal 3: Response Burden 16
+Recommendations: Gain additional
+information about response burden
+Dress Rehearsal Goal      Finding                      Recommendation              Next Steps
+
+Explore other ways of     Error checking needs         Consider automatically      Update error labeling and
+collecting non-numeric    additional development.      checking submissions.       implement integrated
+responses.                                             Update labels on error      error checking.
+                                                       checking report.
+Prime respondents for the Respondents rely on a        Make content previews       Further develop survey
+change                    survey preview.              more accessible and         preview and content
+                                                       easier-to-use.              selection tool.
+                          Content continues to be a    Cognitively test            Cognitive testing and
+                          challenge.                   misreported content and     content cuts.
+                                                       consider additional cuts.
+
+
+
+
+                                           CBDRB-FY24-ESMD010-004                        Goal 3: Response Burden 17
+Cognitively test misreported content and
+consider additional cuts.
+                                                                                  Cognitive Testing
+Cuts in Content:
+48 total response fields, including:
+                                    Number
+Instrument Section                  of Fields Universe
+Step 1: Pre-listed establishments      5     All
+Step 1: Additional establishments      5     All who added estabs                            Robotics
+Step 2: Company-level                 14     All
+Step 3: More granular data             7     Manufacturing companies
+                                      10     All
+                                       6     Retail, Wholesale, and Service
+                                             companies                                   E-Commerce
+                                       1     One specific NAICS classification
+
+                                              CBDRB-FY24-ESMD010-004             Goal 3: Response Burden 18
+                                                                                          Approximately how long did it take to complete
+                                                                                                          this survey?
+          Estimate of Burden                                                    100%
+                                                                                             Percentage responding by source and type of unit
+                                                                                                                6.5%         2.9%
+                                                                                                 10.8%                       9.4%               8.0%
+ Source                  Type              N          Median Burden               90%                          13.0%
+                                                                                                 13.9%                                         23.5%
+                                                                                  80%                                        17.5%
+ Response        Overall                     443               4.5                                             23.9%
+ Analysis Survey Single Units                397               4.5                70%            27.5%
+                                                                                                                             70.3%             25.7%
+                                                                                  60%
+                         Multi-Units           46               4
+                                                                                  50%                          56.6%
+ Instrument              Overall           4,784                4                                47.9%
+                                                                                  40%                                                          42.8%
+                         Single Units 2,161                     2
+                                                                                  30%
+                         Multi-Units       2,623                6
+                                                                                  20%
+ Paradata*               Overall           4,860               1.1
+                                                                                  10%
+                         Same-Day 3,159                        0.5                 0%
+                         Completion                                                            RAS            RAS         Instrument      Instrument
+                         Multi-Day  1,701                      1.6                         Single Units    Multi-Units    Single Units    Multi-Units
+                         Completion                                                         (N = 397)       (N = 46)      (N = 2,161)     (N = 2,623)
+*Disclosure Review Board (DRB) approval number: CDRB-FY24-ESMD001-003                       4 hours or fewer                   5 to 10 hours
+                                                                                            11 to 30 hours                     31 or more hours
+
+                                                                        CBDRB-FY24-ESMD010-004                                                  19
+Develop respondent
+communications
+Continue to develop response support materials.
+Update letters to retain resonant messaging and drop discouraging messaging.
+
+
+
+                           CBDRB-FY24-ESMD010-004                        20
+      Develop respondent communications
+                Which of the following, if any, did you use to complete the AIES?                             • Finding 11:
+                                            (N = 465*)                                                          Respondents report
+300                                                                                                             using the materials
+250
+          246
+                                                                                                                when they are
+200
+                                                                                                                relevant and
+                                                                                                  156           accessible.
+150                    134
+                                   106
+100
+
+ 50
+                                                65           58           49                                  • Finding 12: Each
+                                                                                      21
+                                                                                                                communication piece
+  0
+         AIES           AIES       AIES How-to Calling the Interactive AIES Videos Some other I did not use
+                                                                                                                serves a specific
+        website       content           PDFs      AIES     content tool            material or any of these     function.
+                     summary                    Helpdesk                              help     to complete
+*Note: Respondents could select all that apply.                                                  the AIES
+
+
+                                                                  CBDRB-FY24-ESMD010-004                            Goal 4: Communications 21
+Recommendations: Develop respondent
+communications
+Dress Rehearsal Goal       Finding                       Recommendation               Next Steps
+Continue to develop        Respondents report using      Review the ecosystem of      Review website for
+response support           the materials when they       communications               accessibility and ease of
+materials.                 are relevant and              materials to ensure that     use.
+                           accessible.                   all pieces are accessible.
+Update letters to retain   Each communication            Additional                   Conduct additional
+resonant messaging and     piece serves a specific       communications-based         communications-focused
+drop discouraging          function.                     research.                    research.
+messaging.
+
+
+
+
+                                             CBDRB-FY24-ESMD010-004                          Goal 4: Communications 22
+Conduct additional communications-focused
+research.
+Environmental Scan                                           Secondary Analyses
+• Best practices for contacting                              • Pilot and Dress Rehearsal response
+  businesses:
+   • Letters
+       • Messaging                                           • Legacy response
+       • Mail type and envelop features
+       • Sequencing and timing
+       • Length of field period                              • 2022 Economic Census
+   • Support materials
+       • Videos
+       • Survey previews
+       • Website
+
+
+                                          CBDRB-FY24-ESMD010-004                  Goal 4: Communications 23
+Goal                Finding                                                               Recommendation
+Get feedback on     Three-step design                                                     The three-step design needs additional
+the new flow.                                                                             supports.
+                    Linear design                                                         Linear design suppressed response.
+Test key elements   Include functionality to clean up establishment lists                 Large companies struggled with Step 1.
+of the              Consider functionality to orient respondents within the spreadsheet   Respondents get lost in the spreadsheet
+spreadsheet
+design.             Continue to explore ways of communicating optionality at the unit     Respondents struggled with units.
+                    level
+                    Test other key elements of the spreadsheet design                     Rounding functionality surprised
+                                                                                          respondents.
+                                                                                          NAPCS reporting needs additional attention.
+Gain additional     Explore other ways of collecting non-numeric responses.               Error checking needs additional
+information                                                                               development.
+about response      Prime respondents for the change                                      Respondents rely on a survey preview.
+burden.
+                    Content continues to be a challenge.                                  Cognitively test misreported content and
+                                                                                          consider additional cuts.
+Develop             Continue to develop response support materials.                       Respondents report using the materials
+respondent                                                                                when they are relevant and accessible.
+communications      Update letters to retain resonant messaging and drop discouraging     Each communication piece serves a specific
+                    messaging.                                                            function.
+
+
+                                                    CBDRB-FY24-ESMD010-004                     Findings and Recommendations   24
+Goal                       Recommendation                             Next Steps
+Get feedback on the new    The three-step design needs additional     Further develop survey preview and content selection tool.
+flow.                      supports.
+                           Linear design suppressed response.         Develop ability to move forward and backwards through the
+                                                                      survey.
+Test key elements of the   Large companies struggled with Step 1.     Provide download/upload functionality for Step 1.
+spreadsheet design.
+                           Respondents get lost in the spreadsheet    Freeze left columns.
+                           Respondents struggled with units.          Update KAU display.
+                           Rounding functionality surprised           Include instruction on instructions tab.
+                           respondents.
+                           NAPCS reporting needs additional           Additional research into NAPCS capture.
+                           attention.
+Gain additional            Error checking needs additional            Update error labeling and implement integrated error
+information about          development.                               checking.
+response burden.           Respondents rely on a survey preview.      Further develop survey preview and content selection tool.
+
+                           Cognitively test misreported content and   Conduct cognitive testing on misreported content.
+                           consider additional cuts.
+Develop respondent         Respondents report using the materials     Review website for accessibility and ease of use.
+communications.            when they are relevant and accessible.
+                           Each communication piece serves a specific Conduct additional communications-focused research.
+                                                 CBDRB-FY24-ESMD010-004                                              25
+                           function.
+Goal                       Recommendation                             Next Steps
+Get feedback on the new    The three-step design needs additional     Further develop survey preview and content selection tool.
+flow.                      supports.
+                           Linear design suppressed response.         Develop ability to move forward and backwards through the
+                                                                      survey.
+Test key elements of the   Large companies struggled with Step 1.     Provide download/upload functionality for Step 1.
+spreadsheet design.
+                           Respondents get lost in the spreadsheet    Freeze left columns.
+                           Respondents struggled with units.          Update KAU display.
+                           Rounding functionality surprised           Include instruction on instructions tab.
+                           respondents.
+                           NAPCS reporting needs additional           Additional research into NAPCS capture.
+                           attention.
+Gain additional            Error checking needs additional            Update error labeling and implement integrated error
+information about          development.                               checking.
+response burden.           Respondents rely on a survey preview.      Further develop survey preview and content selection tool.
+
+                           Cognitively test misreported content and   Conduct cognitive testing on misreported content.
+                           consider additional cuts.
+Develop respondent         Respondents report using the materials     Review website for accessibility and ease of use.
+communications.            when they are relevant and accessible.
+                           Each communication piece serves a specific Conduct additional communications-focused research.
+                                                 CBDRB-FY24-ESMD010-004                                              26
+                           function.
+Key Takeaways:
+
+Testing is worth it!             Additional areas of investigation
+• Found the showstoppers         • Production Implementation Research:
+                                     • Respondent debriefing interviews
+• First practice in collection       • Additional Usability testing
+
+• Understand sources of burden • Outstanding Recommendations Research:
+                                     • Cognitive interviewing
+• Piloting is a proven method        • Communications-based research
+
+                                 • Survey Advancement Research:
+                                     • Large firm response
+                                     • Non-respondents and historically undercounted
+                                       businesses
+
+                                 CBDRB-FY24-ESMD010-004                     Key Takeaways   27
+Goal                Recommendation                                       Next Steps
+Get feedback on     The three-step design needs additional supports.     Further develop survey preview and content selection tool.
+the new flow.
+                    Linear design suppressed response.                   Develop ability to move forward and backwards through the survey.
+Test key elements Large companies struggled with Step 1.                 Provide download/upload functionality for Step 1.
+of the spreadsheet
+                   Respondents get lost in the spreadsheet               Freeze left columns.
+design.
+                   Respondents struggled with units.                     Update KAU display.
+                    Rounding functionality surprised respondents.        Include instruction on instructions tab.
+                    NAPCS reporting needs additional attention.          Additional research into NAPCS capture.
+Gain additional     Error checking needs additional development.         Update error labeling and implement integrated error checking.
+information about
+                    Respondents rely on a survey preview.                Further develop survey preview and content selection tool.
+response burden.
+                    Cognitively test misreported content and consider    Conduct cognitive testing on misreported content.
+                    additional cuts.
+
+Develop             Respondents report using the materials when          Review website for accessibility and ease of use.
+respondent          they are relevant and accessible.
+communications.
+                    Each communication piece serves a specific           Conduct additional communications-focused research.
+                    function.
+
+                                                                                          Bold – in progress, probable inclusion in 2024
+                                                             CBDRB-FY24-ESMD010-004                       Recommendations and Next Steps 28
+

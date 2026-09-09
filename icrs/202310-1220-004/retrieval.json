@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202310-1220-004",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202310-1220-004"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202310-1220-004",
+  "agency": "DOL/BLS",
+  "title": "National Compensation Survey",
+  "omb_control_number": "1220-0164",
+  "submission_date": "01/31/2024",
+  "record_source_id": "SRC-0077",
+  "supporting_statement_source_ids": [
+    "SRC-0078"
+  ]
 }

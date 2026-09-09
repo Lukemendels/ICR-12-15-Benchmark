@@ -1,0 +1,1424 @@
+[
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A1",
+    "value": "Attachment I",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A3",
+    "value": "Department of Commerce",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A4",
+    "value": "United States Census Bureau",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A5",
+    "value": "OMB Information Collection Request",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A6",
+    "value": "Annual Integrated Economic Survey",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A7",
+    "value": "OMB Control Number 0607-XXXX",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A10",
+    "value": "Dress Rehearsal Sample Size and Burden Estimates",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A14",
+    "value": "Sector",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B14",
+    "value": "Estimated Number of Respondents (2) (3)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C14",
+    "value": "Unit Breakouts (2) (3) (4)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G14",
+    "value": "Estimated Burden Hours for Single Unit Companies (4)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H14",
+    "value": "Estimated Burden Hours for Multi Unit Companies",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I14",
+    "value": "Total Company Burden Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J14",
+    "value": "Mean Hourly Wage ($) (1)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K14",
+    "value": "Estimated Total Cost of Responding ($)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C15",
+    "value": "Single Unit Companies",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D15",
+    "value": "Mult Unit Companies",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D16",
+    "value": "Company Counts",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E16",
+    "value": "Establishment Counts",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F16",
+    "value": "Industry Counts",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A17",
+    "value": "Multi-Sector",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B17",
+    "value": "1900",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C17",
+    "value": "NA",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D17",
+    "value": "1900",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E17",
+    "value": "NA",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F17",
+    "value": "NA",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G17",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H17",
+    "value": "5890",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I17",
+    "value": "5890",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J17",
+    "value": "40.369999999999997",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K17",
+    "value": "237779",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A18",
+    "value": "11, 21, 23",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B18",
+    "value": "N<15",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C18",
+    "value": "N<15",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D18",
+    "value": "N<15",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E18",
+    "value": "5200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F18",
+    "value": "450",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G18",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H18",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I18",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J18",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K18",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A19",
+    "value": "22",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B19",
+    "value": "N<15",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C19",
+    "value": "N<15",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D19",
+    "value": "N<15",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E19",
+    "value": "2100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F19",
+    "value": "90",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G19",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H19",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I19",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J19",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K19",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A20",
+    "value": "31-33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B20",
+    "value": "270",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C20",
+    "value": "170",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D20",
+    "value": "100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E20",
+    "value": "9200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F20",
+    "value": "2150",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G20",
+    "value": "646",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H20",
+    "value": "690",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I20",
+    "value": "1336",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J20",
+    "value": "40.54",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K20",
+    "value": "54161",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A21",
+    "value": "42",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B21",
+    "value": "350",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C21",
+    "value": "200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D21",
+    "value": "150",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E21",
+    "value": "24000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F21",
+    "value": "1000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G21",
+    "value": "560",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H21",
+    "value": "810",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I21",
+    "value": "1370",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J21",
+    "value": "40.54",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K21",
+    "value": "55540",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A22",
+    "value": "44-45",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B22",
+    "value": "750",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C22",
+    "value": "450",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D22",
+    "value": "300",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E22",
+    "value": "50000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F22",
+    "value": "800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G22",
+    "value": "1035",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H22",
+    "value": "1620",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I22",
+    "value": "2655",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J22",
+    "value": "37.5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K22",
+    "value": "99563",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A23",
+    "value": "48-49",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B23",
+    "value": "250",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C23",
+    "value": "150",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D23",
+    "value": "100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E23",
+    "value": "11500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F23",
+    "value": "800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G23",
+    "value": "434",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H23",
+    "value": "600",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I23",
+    "value": "1034",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J23",
+    "value": "42.2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K23",
+    "value": "43635",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A24",
+    "value": "51",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B24",
+    "value": "100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C24",
+    "value": "50",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D24",
+    "value": "50",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E24",
+    "value": "7400",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F24",
+    "value": "350",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G24",
+    "value": "145",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H24",
+    "value": "300",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I24",
+    "value": "445",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J24",
+    "value": "46.2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K24",
+    "value": "20559",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A25",
+    "value": "52",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B25",
+    "value": "250",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C25",
+    "value": "100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D25",
+    "value": "150",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E25",
+    "value": "36000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F25",
+    "value": "850",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G25",
+    "value": "290",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H25",
+    "value": "900",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I25",
+    "value": "1190",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J25",
+    "value": "43.23",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K25",
+    "value": "51444",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A26",
+    "value": "53",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B26",
+    "value": "400",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C26",
+    "value": "250",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D26",
+    "value": "150",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E26",
+    "value": "24000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F26",
+    "value": "550",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G26",
+    "value": "725",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H26",
+    "value": "900",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I26",
+    "value": "1625",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J26",
+    "value": "39.33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K26",
+    "value": "63911",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A27",
+    "value": "54",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B27",
+    "value": "1050",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C27",
+    "value": "550",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D27",
+    "value": "500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E27",
+    "value": "27000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F27",
+    "value": "1800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G27",
+    "value": "1595",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H27",
+    "value": "3000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I27",
+    "value": "4595",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J27",
+    "value": "42.05",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K27",
+    "value": "193220",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A28",
+    "value": "55",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B28",
+    "value": "N<15",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C28",
+    "value": "N<15",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D28",
+    "value": "N<15",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E28",
+    "value": "11000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F28",
+    "value": "2200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G28",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H28",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I28",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J28",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K28",
+    "value": "N/A",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A29",
+    "value": "56",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B29",
+    "value": "450",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C29",
+    "value": "250",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D29",
+    "value": "200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E29",
+    "value": "18500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F29",
+    "value": "900",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G29",
+    "value": "725",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H29",
+    "value": "1200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I29",
+    "value": "1925",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J29",
+    "value": "38.11",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K29",
+    "value": "73362",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A30",
+    "value": "61",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B30",
+    "value": "160",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C30",
+    "value": "100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D30",
+    "value": "60",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E30",
+    "value": "1500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F30",
+    "value": "150",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G30",
+    "value": "290",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H30",
+    "value": "360",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I30",
+    "value": "650",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J30",
+    "value": "34.74",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K30",
+    "value": "22581",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A31",
+    "value": "62",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B31",
+    "value": "900",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C31",
+    "value": "450",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D31",
+    "value": "450",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E31",
+    "value": "54500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F31",
+    "value": "2000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G31",
+    "value": "1305",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H31",
+    "value": "2700",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I31",
+    "value": "4005",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J31",
+    "value": "36.15",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K31",
+    "value": "144781",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A32",
+    "value": "71",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B32",
+    "value": "140",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C32",
+    "value": "100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D32",
+    "value": "40",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E32",
+    "value": "2400",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F32",
+    "value": "150",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G32",
+    "value": "290",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H32",
+    "value": "240",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I32",
+    "value": "530",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J32",
+    "value": "33.85",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K32",
+    "value": "17941",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A33",
+    "value": "72",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B33",
+    "value": "550",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C33",
+    "value": "350",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D33",
+    "value": "200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E33",
+    "value": "56500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F33",
+    "value": "600",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G33",
+    "value": "1015",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H33",
+    "value": "1200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I33",
+    "value": "2215",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J33",
+    "value": "31.34",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K33",
+    "value": "69418",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A34",
+    "value": "81",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B34",
+    "value": "950",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C34",
+    "value": "600",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D34",
+    "value": "350",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E34",
+    "value": "16500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F34",
+    "value": "750",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G34",
+    "value": "1740",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H34",
+    "value": "2100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I34",
+    "value": "3840",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J34",
+    "value": "37.67",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K34",
+    "value": "144653",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A35",
+    "value": "Totals",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B35",
+    "value": "8470",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C35",
+    "value": "3770",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D35",
+    "value": "4700",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E35",
+    "value": "357300",
+    "formula": "SUM(E17:E34)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F35",
+    "value": "15590",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G35",
+    "value": "10795",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H35",
+    "value": "22510",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I35",
+    "value": "33305",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J35",
+    "value": " ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "K35",
+    "value": "1292548",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A36",
+    "value": "(1) 2021 BLS Occupational Employment Statistics (OES) data https://www.bls.gov/oes/",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G36",
+    "value": " ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H36",
+    "value": " ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "J36",
+    "value": " ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A37",
+    "value": "(2) Counts have been rounded to protect confidentiality of data",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G37",
+    "value": " ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A38",
+    "value": "(3) N<15 - Count is less than 15",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A39",
+    "value": "(4) N/A - Not applicable",
+    "formula": null
+  }
+]

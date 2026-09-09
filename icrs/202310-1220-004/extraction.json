@@ -1,0 +1,177 @@
+{
+  "icr_id": "202310-1220-004",
+  "omb_control_number": "1220-0164",
+  "agency": "DOL/BLS",
+  "title": "National Compensation Survey",
+  "submission_date": "01/31/2024",
+  "archetype": "establishment compensation survey",
+  "complexity": "high",
+  "tsa_relevance": "technique",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 4,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0078",
+    "SRC-0077"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 19,
+    "provenance": 11,
+    "segmentation": 15,
+    "labor": 8,
+    "item13": 8,
+    "item14": 3,
+    "item15": 6,
+    "validation": 4,
+    "consistency": 4
+  },
+  "score_rationale": {
+    "reproducibility": "Year, sector, contact type, response frequency and minutes are tabulated; averages use rounded annual totals.",
+    "provenance": "March 2023 ECEC and historical collection experience identified; citation filename and underlying timing studies require verification.",
+    "segmentation": "Initiation, update, nonresponse, testing and quality recontacts are distinct, with public/private strata.",
+    "labor": "Direct ECEC compensation avoids a second benefits load; historical 70/30 occupational mix disclosed.",
+    "item13": "Explicitly excludes capital, O&M and purchased services because only respondent time is used.",
+    "item14": "Only collection/noncollection budget split, without workload or allocation derivation.",
+    "item15": "Prior approval and new total identified; increased sample explains direction but no quantitative driver bridge.",
+    "validation": "Past collection experience supports timing and mix; specific timing-study evidence not supplied.",
+    "consistency": "Annualization and wage products reconcile within rounding; unique respondents versus repeated QA contacts requires care."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "FY2024 initiation",
+        2364,
+        4.233333333333333,
+        10008
+      ],
+      [
+        "FY2024 nonresponse",
+        2364,
+        0.08333333333333333,
+        197
+      ],
+      [
+        "FY2024 updates",
+        42546,
+        0.6666666666666666,
+        28364
+      ],
+      [
+        "FY2024 testing",
+        460,
+        1,
+        460
+      ],
+      [
+        "FY2024 initiation QA",
+        118,
+        0.25,
+        30
+      ],
+      [
+        "FY2024 update QA",
+        2128,
+        0.25,
+        532
+      ],
+      [
+        "FY2025 all",
+        54226,
+        null,
+        41820
+      ],
+      [
+        "FY2026 all",
+        57485,
+        null,
+        42985
+      ]
+    ],
+    "labor": {
+      "method": "direct total compensation",
+      "rates": [
+        63.45,
+        33.01
+      ],
+      "mix": [
+        0.7,
+        0.3
+      ],
+      "weighted_rate": 54.32,
+      "source_period": "March 2023",
+      "annual_labor_cost": 2252379
+    },
+    "item13": {
+      "annual_cost": 0,
+      "rationale": "Only respondent time; no capital, O&M or services"
+    },
+    "item14": {
+      "fiscal_year": 2023,
+      "collection_cost": 26000000,
+      "noncollection_cost": 31000000,
+      "annual_cost": 57000000
+    },
+    "item15": {
+      "old_hours": 36114,
+      "new_hours": 41465,
+      "reason": "Sample increase following declining response rates",
+      "quantified_driver_bridge": false
+    },
+    "assumptions": [
+      "254 initiation minutes = 54 general + 20 earnings + 180 benefits.",
+      "Private update frequency 3.2; state/local 3.6; QA recontacts approximately 5%.",
+      "FY2024/25/26 hours 39591, 41820, 42985; annualized over three years."
+    ]
+  },
+  "reconstruction_issues": [
+    "Item 14 budget split cannot independently reconstruct federal resource quantities or allocations.",
+    "Item 15 does not quantify separate effects of sample size, response rates and cohort composition."
+  ],
+  "methods_worth_testing": [
+    "Count time spent by nonrespondents and quality-assurance recontacts.",
+    "Use observed occupational mix and direct total compensation rather than an unexplained wage markup."
+  ],
+  "checks": [
+    {
+      "label": "Average hours",
+      "formula": "(39591+41820+42985)/3",
+      "calculated": 41465.333333333336,
+      "reported": 41465,
+      "difference": 0.33333333333575865,
+      "unit": "hours",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0078"
+    },
+    {
+      "label": "Compensation",
+      "formula": ".7*63.45+.3*33.01",
+      "calculated": 54.318,
+      "reported": 54.32,
+      "difference": -0.0020000000000024443,
+      "unit": "USD/hour",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0078"
+    },
+    {
+      "label": "Annual labor",
+      "formula": "41465*54.32",
+      "calculated": 2252378.8,
+      "reported": 2252379,
+      "difference": -0.20000000018626451,
+      "unit": "USD",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0078"
+    }
+  ],
+  "total_score": 78,
+  "table_evidence_path": "icrs/202310-1220-004/table-evidence.json",
+  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+}

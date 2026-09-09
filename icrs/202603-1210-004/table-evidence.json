@@ -1,0 +1,1225 @@
+{
+  "status": "Parsed source cells; not automatically normalized model inputs",
+  "tables": [
+    {
+      "source_file": "icrs/202603-1210-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1. Claims (in thousands)",
+      "rows": [
+        {
+          "text_line": 103,
+          "cells": [
+            "\u00a0",
+            "Health",
+            "Disability",
+            "Pension",
+            "Other",
+            "Total"
+          ]
+        },
+        {
+          "text_line": 104,
+          "cells": [
+            "\u00a0",
+            "",
+            "Short-Term",
+            "Long-Term",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 105,
+          "cells": [
+            "Claims",
+            "1,804,655",
+            "3,404",
+            "411",
+            "2,857",
+            "353",
+            "1,811,680"
+          ]
+        },
+        {
+          "text_line": 106,
+          "cells": [
+            "Pre-Service",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 107,
+          "cells": [
+            "Claim Approved",
+            "46,019",
+            "--",
+            "--",
+            "--",
+            "--",
+            "46,019"
+          ]
+        },
+        {
+          "text_line": 108,
+          "cells": [
+            "Claim Denied",
+            "8,121",
+            "--",
+            "--",
+            "--",
+            "--",
+            "8,121"
+          ]
+        },
+        {
+          "text_line": 109,
+          "cells": [
+            "Post-Service",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 110,
+          "cells": [
+            "  Claims Approved ",
+            "1,487,938",
+            "--",
+            "--",
+            "--",
+            "--",
+            "1,487,938"
+          ]
+        },
+        {
+          "text_line": 111,
+          "cells": [
+            "Claim Denied",
+            "262,577",
+            "102",
+            "90",
+            "25",
+            "11",
+            "262,805"
+          ]
+        },
+        {
+          "text_line": 112,
+          "cells": [
+            "Claim Extended",
+            "105,031",
+            "34",
+            "82",
+            "0",
+            "0",
+            "105,147"
+          ]
+        },
+        {
+          "text_line": 113,
+          "cells": [
+            "Denial Appeal",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 114,
+          "cells": [
+            "Total",
+            "474",
+            "10",
+            "60",
+            "2",
+            "1",
+            "548"
+          ]
+        },
+        {
+          "text_line": 115,
+          "cells": [
+            "Appeal Approved",
+            "190",
+            "5",
+            "30",
+            "1",
+            "1",
+            "226"
+          ]
+        },
+        {
+          "text_line": 116,
+          "cells": [
+            "Appeal Denied",
+            "285",
+            "5",
+            "30",
+            "1",
+            "1",
+            "321"
+          ]
+        },
+        {
+          "text_line": 117,
+          "cells": [
+            "Medical*",
+            "137",
+            "--",
+            "--",
+            "--",
+            "--",
+            "137"
+          ]
+        },
+        {
+          "text_line": 118,
+          "cells": [
+            "Claim Approved",
+            "55",
+            "--",
+            "--",
+            "--",
+            "--",
+            "55"
+          ]
+        },
+        {
+          "text_line": 119,
+          "cells": [
+            "Claim Denied",
+            "82",
+            "--",
+            "--",
+            "--",
+            "--",
+            "82"
+          ]
+        },
+        {
+          "text_line": 120,
+          "cells": [
+            "Administrative",
+            "337",
+            "--",
+            "--",
+            "--",
+            "--",
+            "337"
+          ]
+        },
+        {
+          "text_line": 121,
+          "cells": [
+            "Claim Approved",
+            "135",
+            "--",
+            "--",
+            "--",
+            "--",
+            "135"
+          ]
+        },
+        {
+          "text_line": 122,
+          "cells": [
+            "Claim Denied",
+            "202",
+            "--",
+            "--",
+            "--",
+            "--",
+            "202"
+          ]
+        },
+        {
+          "text_line": 123,
+          "cells": [
+            "Total Responses",
+            "1,910,160",
+            "146",
+            "232",
+            "27",
+            "12",
+            "1,910,577"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202603-1210-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 2. Burden Hours (in thousands)",
+      "rows": [
+        {
+          "text_line": 131,
+          "cells": [
+            "\u00a0",
+            "Health",
+            "Disability",
+            "Pension",
+            "Other",
+            "Total Hours",
+            "Equivalent Costs"
+          ]
+        },
+        {
+          "text_line": 132,
+          "cells": [
+            "\u00a0",
+            "",
+            "Short-Term",
+            "Long-Term",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 133,
+          "cells": [
+            "Pre-Service",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 134,
+          "cells": [
+            "Claim Approved",
+            "$55,851",
+            "--",
+            "--",
+            "--",
+            "--",
+            "767",
+            "$55,851"
+          ]
+        },
+        {
+          "text_line": 135,
+          "cells": [
+            "Claim Denied",
+            "$19,712",
+            "--",
+            "--",
+            "--",
+            "--",
+            "271",
+            "$19,712"
+          ]
+        },
+        {
+          "text_line": 136,
+          "cells": [
+            "Post-Service",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 137,
+          "cells": [
+            "    Claims Approved ",
+            "$1,805,860",
+            "",
+            "",
+            "",
+            "",
+            "24,799",
+            "$1,805,860"
+          ]
+        },
+        {
+          "text_line": 138,
+          "cells": [
+            "Claim Denied",
+            "$1,641,808",
+            "$11,370",
+            "$20,118",
+            "$151",
+            "$64",
+            "8,897",
+            "$1,673,512"
+          ]
+        },
+        {
+          "text_line": 139,
+          "cells": [
+            "Claim Extended",
+            "$389,805",
+            "$1,895",
+            "$9,144",
+            "$0",
+            "$0",
+            "1,800",
+            "$400,844"
+          ]
+        },
+        {
+          "text_line": 140,
+          "cells": [
+            "Denial Appeal",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 141,
+          "cells": [
+            "Total",
+            "$283,681",
+            "$1,149",
+            "$13,350",
+            "$40",
+            "$17",
+            "1,517",
+            "$298,238"
+          ]
+        },
+        {
+          "text_line": 142,
+          "cells": [
+            "Appeal Approved",
+            "$74,092",
+            "$12",
+            "$72",
+            "$2",
+            "$1",
+            "335",
+            "$74,179"
+          ]
+        },
+        {
+          "text_line": 143,
+          "cells": [
+            "Appeal Denied",
+            "$209,589",
+            "$1,137",
+            "$13,278",
+            "$39",
+            "$17",
+            "1,182",
+            "$224,060"
+          ]
+        },
+        {
+          "text_line": 144,
+          "cells": [
+            "Medical",
+            "$206,937",
+            "--",
+            "--",
+            "--",
+            "--",
+            "1,042",
+            "$206,937"
+          ]
+        },
+        {
+          "text_line": 145,
+          "cells": [
+            "Claim Approved",
+            "$73,248",
+            "--",
+            "--",
+            "--",
+            "--",
+            "329",
+            "$73,248"
+          ]
+        },
+        {
+          "text_line": 146,
+          "cells": [
+            "Claim Denied",
+            "$133,689",
+            "--",
+            "--",
+            "--",
+            "--",
+            "713",
+            "$133,689"
+          ]
+        },
+        {
+          "text_line": 147,
+          "cells": [
+            "Administrative",
+            "$76,744",
+            "--",
+            "--",
+            "--",
+            "--",
+            "409",
+            "$76,744"
+          ]
+        },
+        {
+          "text_line": 148,
+          "cells": [
+            "Claim Approved",
+            "$843",
+            "--",
+            "--",
+            "--",
+            "--",
+            "4",
+            "$843"
+          ]
+        },
+        {
+          "text_line": 149,
+          "cells": [
+            "Claim Denied",
+            "$75,901",
+            "--",
+            "--",
+            "--",
+            "--",
+            "405",
+            "$75,901"
+          ]
+        },
+        {
+          "text_line": 150,
+          "cells": [
+            "Total",
+            "$4,196,718",
+            "$14,415",
+            "$42,612",
+            "$192",
+            "$81",
+            "38,051",
+            "$4,254,018"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202603-1210-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 3. Estimated Annualized Respondent Hour Burden and Hour Equivalent Cost",
+      "rows": [
+        {
+          "text_line": 155,
+          "cells": [
+            "Activities",
+            "Number\u00a0of Respondents",
+            "Number of Responses per Respondent",
+            "Total Responses",
+            "Average Burden (Hours)",
+            "Total Burden \u00a0",
+            "Wage Rates",
+            " Equivalent Cost "
+          ]
+        },
+        {
+          "text_line": 156,
+          "cells": [
+            "Pre-service",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 157,
+          "cells": [
+            "Health",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 158,
+          "cells": [
+            "Claimed approved",
+            "2,765,373 ",
+            "16.64",
+            "46,018,694",
+            "0.017",
+            "766,978",
+            "$72.82",
+            "$55,851,356"
+          ]
+        },
+        {
+          "text_line": 159,
+          "cells": [
+            "Claim denied",
+            "2,765,373 ",
+            "2.94",
+            "8,120,946",
+            "0.033",
+            "270,698",
+            "$72.82",
+            "$19,712,243"
+          ]
+        },
+        {
+          "text_line": 160,
+          "cells": [
+            "Post-service",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 161,
+          "cells": [
+            "Health",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 162,
+          "cells": [
+            "Claims approved",
+            "2,765,373 ",
+            "538.06",
+            "1,487,937,787",
+            "0.02",
+            "24,798,963",
+            "$72.82",
+            "$1,805,860,495"
+          ]
+        },
+        {
+          "text_line": 163,
+          "cells": [
+            "Claims denied",
+            "2,765,373 ",
+            "94.95",
+            "262,577,257",
+            "0.03",
+            "8,752,575",
+            "$187.58",
+            "$1,641,808,060"
+          ]
+        },
+        {
+          "text_line": 164,
+          "cells": [
+            "Claims extended",
+            "2,765,373 ",
+            "37.98",
+            "105,030,903",
+            "0.02",
+            "1,750,515",
+            "$222.68",
+            "$389,804,690"
+          ]
+        },
+        {
+          "text_line": 165,
+          "cells": [
+            "Short-term disability",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 166,
+          "cells": [
+            "Claims approved",
+            "214,124 ",
+            "0.48",
+            "102,123",
+            "0.5",
+            "51,061",
+            "$222.68",
+            "$11,370,347"
+          ]
+        },
+        {
+          "text_line": 167,
+          "cells": [
+            "Claims denied",
+            "214,124 ",
+            "0.16",
+            "34,041",
+            "0.25",
+            "8,510",
+            "$222.68",
+            "$1,895,058"
+          ]
+        },
+        {
+          "text_line": 168,
+          "cells": [
+            "Long-term disability",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 169,
+          "cells": [
+            "Claims approved",
+            "214,124 ",
+            "0.42",
+            "90,344",
+            "1",
+            "90,344",
+            "$222.68",
+            "$20,117,693"
+          ]
+        },
+        {
+          "text_line": 170,
+          "cells": [
+            "Claims denied",
+            "214,124 ",
+            "0.38",
+            "82,130",
+            "0.5",
+            "41,065",
+            "$222.68",
+            "$9,144,406"
+          ]
+        },
+        {
+          "text_line": 171,
+          "cells": [
+            "Pension",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 172,
+          "cells": [
+            "Claims approved",
+            "836,843 ",
+            "0.03",
+            "24,926",
+            "0.08",
+            "2,077",
+            "$72.82",
+            "$151,262"
+          ]
+        },
+        {
+          "text_line": 173,
+          "cells": [
+            "Claims denied",
+            "836,843 ",
+            "0.00",
+            "0",
+            "0.02",
+            "0",
+            "$72.82",
+            " - "
+          ]
+        },
+        {
+          "text_line": 174,
+          "cells": [
+            "Other",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 175,
+          "cells": [
+            "Claims approved",
+            "520,016 ",
+            "0.02",
+            "10,584",
+            "0.08",
+            "882",
+            "$72.82",
+            " 64,225 "
+          ]
+        },
+        {
+          "text_line": 176,
+          "cells": [
+            "Claims denied",
+            "520,016 ",
+            "0.00",
+            "0",
+            "0.02",
+            "0",
+            "$72.82",
+            " - "
+          ]
+        },
+        {
+          "text_line": 177,
+          "cells": [
+            "Denial Appeal",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 178,
+          "cells": [
+            "Health: Medical",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 179,
+          "cells": [
+            "Claims approved",
+            "2,765,373 ",
+            "0.02",
+            "54,823",
+            "6",
+            "328,940",
+            "$222.68",
+            "$73,248,315"
+          ]
+        },
+        {
+          "text_line": 180,
+          "cells": [
+            "Claims denied",
+            "2,765,373 ",
+            "0.03",
+            "82,235",
+            "8.67",
+            "712,703",
+            "$187.58",
+            "$133,688,810"
+          ]
+        },
+        {
+          "text_line": 181,
+          "cells": [
+            "Health: Administrative",
+            "",
+            "",
+            "",
+            "",
+            "0",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 182,
+          "cells": [
+            "Claims approved",
+            "2,765,373 ",
+            "0.05",
+            "134,877",
+            "0.03",
+            "4,496",
+            "$187.58",
+            "$843,339"
+          ]
+        },
+        {
+          "text_line": 183,
+          "cells": [
+            "Claims denied",
+            "2,765,373 ",
+            "0.07",
+            "202,315",
+            "2",
+            "404,630",
+            "$187.58",
+            "$75,900,514"
+          ]
+        },
+        {
+          "text_line": 184,
+          "cells": [
+            "Short-term Disability",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 185,
+          "cells": [
+            "Claims approved",
+            "214,124 ",
+            "0.02",
+            "5,106",
+            "0.03",
+            "170",
+            "$72.82",
+            "$12,394"
+          ]
+        },
+        {
+          "text_line": 186,
+          "cells": [
+            "Claims denied",
+            "214,124 ",
+            "0.02",
+            "5,106",
+            "1",
+            "5,106",
+            "$222.68",
+            "$1,137,035"
+          ]
+        },
+        {
+          "text_line": 187,
+          "cells": [
+            "Long-term Disability",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 188,
+          "cells": [
+            "Claims approved",
+            "214,124 ",
+            "0.14",
+            "29,813",
+            "0.03",
+            "994",
+            "$72.82",
+            "$72,367"
+          ]
+        },
+        {
+          "text_line": 189,
+          "cells": [
+            "Claims denied",
+            "214,124 ",
+            "0.14",
+            "29,813",
+            "2",
+            "59,627",
+            "$222.68",
+            "$13,277,677"
+          ]
+        },
+        {
+          "text_line": 190,
+          "cells": [
+            "Pension",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 191,
+          "cells": [
+            "Claims approved",
+            "836,843 ",
+            "0.001",
+            "1,246",
+            "0.02",
+            "21",
+            "$72.82",
+            "$1,513"
+          ]
+        },
+        {
+          "text_line": 192,
+          "cells": [
+            "Claims denied",
+            "836,843 ",
+            "0.001",
+            "1,246",
+            "0.17",
+            "208",
+            "$187.58",
+            "$38,964"
+          ]
+        },
+        {
+          "text_line": 193,
+          "cells": [
+            "Other",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 194,
+          "cells": [
+            "Claims approved",
+            "520,016 ",
+            "0.001",
+            "529",
+            "0.02",
+            "9",
+            "$72.82",
+            "$642"
+          ]
+        },
+        {
+          "text_line": 195,
+          "cells": [
+            "Claims denied",
+            "520,016 ",
+            "0.001",
+            "529",
+            "0.17",
+            "88",
+            "$187.58",
+            "$16,544"
+          ]
+        },
+        {
+          "text_line": 196,
+          "cells": [
+            "Total",
+            "4,336,356 ",
+            "440.60",
+            "1,910,577,375",
+            "",
+            "38,050,660",
+            "",
+            "$4,254,017,948"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202603-1210-004/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 4.-- Cost Burden (in thousands)",
+      "rows": [
+        {
+          "text_line": 211,
+          "cells": [
+            "\u00a0",
+            "Mailing  and Materials  Cost"
+          ]
+        },
+        {
+          "text_line": 212,
+          "cells": [
+            "\u00a0",
+            ""
+          ]
+        },
+        {
+          "text_line": 213,
+          "cells": [
+            "Pre-Service",
+            ""
+          ]
+        },
+        {
+          "text_line": 214,
+          "cells": [
+            "Claim Approved",
+            "$12,080"
+          ]
+        },
+        {
+          "text_line": 215,
+          "cells": [
+            "Claim Denied",
+            "$2,132"
+          ]
+        },
+        {
+          "text_line": 216,
+          "cells": [
+            "Post-Service",
+            ""
+          ]
+        },
+        {
+          "text_line": 217,
+          "cells": [
+            "  Claims Approved ",
+            "$390,584"
+          ]
+        },
+        {
+          "text_line": 218,
+          "cells": [
+            "Claim Denied",
+            "$69,105"
+          ]
+        },
+        {
+          "text_line": 219,
+          "cells": [
+            "Claim Extended",
+            "$27,656"
+          ]
+        },
+        {
+          "text_line": 220,
+          "cells": [
+            "Denial Appeal",
+            ""
+          ]
+        },
+        {
+          "text_line": 221,
+          "cells": [
+            "Total",
+            "$180"
+          ]
+        },
+        {
+          "text_line": 222,
+          "cells": [
+            "Appeal Approved",
+            "$77"
+          ]
+        },
+        {
+          "text_line": 223,
+          "cells": [
+            "Appeal Denied",
+            "$102"
+          ]
+        },
+        {
+          "text_line": 224,
+          "cells": [
+            "Medical",
+            "$36"
+          ]
+        },
+        {
+          "text_line": 225,
+          "cells": [
+            "Claim Approved",
+            "$14"
+          ]
+        },
+        {
+          "text_line": 226,
+          "cells": [
+            "Claim Denied",
+            "$22"
+          ]
+        },
+        {
+          "text_line": 227,
+          "cells": [
+            "Administrative",
+            "$89"
+          ]
+        },
+        {
+          "text_line": 228,
+          "cells": [
+            "Claim Approved",
+            "$35"
+          ]
+        },
+        {
+          "text_line": 229,
+          "cells": [
+            "Claim Denied",
+            "$53"
+          ]
+        },
+        {
+          "text_line": 230,
+          "cells": [
+            "Total",
+            "$501,736"
+          ]
+        }
+      ]
+    }
+  ]
+}

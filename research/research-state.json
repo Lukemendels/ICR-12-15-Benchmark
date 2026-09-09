@@ -1,7 +1,7 @@
 {
   "mission_status": "IN_PROGRESS",
-  "current_iteration": 3,
-  "icrs_reviewed": 29,
+  "current_iteration": 4,
+  "icrs_reviewed": 39,
   "agencies_components_reviewed": [
     "CFPB",
     "DHS/TSA",
@@ -9,32 +9,36 @@
     "DHS/USCIS",
     "DOC/CENSUS",
     "DOL/BLS",
+    "DOL/EBSA",
     "DOL/OSHA",
     "DOT/FMCSA",
     "DOT/FRA",
+    "DOT/PHMSA",
     "EPA/OCSPP",
     "EPA/OLEM",
     "EPA/OW",
     "FCC",
     "FERC",
     "FRS",
+    "HHS/CMS",
     "HHS/FDA",
     "SEC",
-    "SSA"
+    "SSA",
+    "TREAS/IRS"
   ],
   "rubric_version": "1.0.0",
-  "canonical_model_version": "0.4.0",
+  "canonical_model_version": "0.5.0",
   "current_leaders": {
     "best_individual_seed": "202404-1220-001",
     "by_dimension": {
       "reproducibility": "202409-3235-022",
       "provenance": "202404-1220-001",
-      "segmentation": "202312-2050-001",
-      "labor": "202405-1218-005",
-      "item13": "202404-1220-001",
-      "item14": "202406-1652-001",
+      "segmentation": "202310-0607-003",
+      "labor": "202310-1220-004",
+      "item13": "202310-0607-003",
+      "item14": "202501-1210-006",
       "item15": "202503-3060-020",
-      "validation": "202405-1218-005",
+      "validation": "202310-0607-003",
       "consistency": "202409-3235-022"
     },
     "agency_leader": "insufficient repeated evidence",
@@ -58,6 +62,6 @@
     "No saturation or challenge round"
   ],
   "saturation_streak": 0,
-  "next_research_strategy": "Iteration4: IRS modeling challenger, repeated statistical agencies, CMS, FDA, EBSA, PHMSA andair emissions.",
-  "updated_at": "2026-09-09T10:48:20.532908+00:00"
+  "next_research_strategy": "Iteration 5: MSHA silica and respiratory protection, SEC Form PF, and complete EPA/FERC amendment lineage; then select strategic batches after the minimum gate.",
+  "updated_at": "2026-09-09T11:08:21.904241+00:00"
 }

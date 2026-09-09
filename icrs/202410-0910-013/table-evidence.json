@@ -1,0 +1,380 @@
+{
+  "status": "Parsed source cells; not automatically normalized model inputs",
+  "tables": [
+    {
+      "source_file": "icrs/202410-0910-013/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1.--Estimated Annual Reporting Burden1",
+      "rows": [
+        {
+          "text_line": 65,
+          "cells": [
+            "21 CFR Section; Reporting ",
+            "No. of Respondents",
+            "No. of Responses per Respondent",
+            "Total Annual Responses",
+            "Average Burden per Response",
+            "Total Hours"
+          ]
+        },
+        {
+          "text_line": 66,
+          "cells": [
+            "117.201 (a) AND  (c); qualified facility  information submitted  on Form FDA 3942a",
+            "37,134",
+            "0.5 2",
+            "18,567",
+            "0.5 (30 minutes)",
+            "9,284"
+          ]
+        },
+        {
+          "text_line": 67,
+          "cells": [
+            "* 507.7(c); qualified facility as reported on Form FDA 3942b",
+            "1,120",
+            "0.5",
+            "560",
+            "0.5 (30 minutes)",
+            "280"
+          ]
+        },
+        {
+          "text_line": 68,
+          "cells": [
+            "117.287 \u2013 reinstatement?",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 69,
+          "cells": [
+            "Total",
+            "19,127",
+            "",
+            "9,564"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202410-0910-013/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 2.--Estimated Annual Recordkeeping Burden1",
+      "rows": [
+        {
+          "text_line": 75,
+          "cells": [
+            "21 CFR Section; Activity",
+            "No. of Recordkeepers",
+            "No. of Records Per Recordkeeper",
+            "Total Annual Records",
+            "Average Burden per Recordkeeping",
+            "Total Hours 2"
+          ]
+        },
+        {
+          "text_line": 76,
+          "cells": [
+            "117.126(c) and 117.170(d); food safety plan and reanalysis",
+            "46,685",
+            "1",
+            "46,685",
+            "110",
+            "5,135,350"
+          ]
+        },
+        {
+          "text_line": 77,
+          "cells": [
+            "117.136; assurance records",
+            "16,285",
+            "1",
+            "16,285",
+            "0.25 (15 minutes)",
+            "4,071"
+          ]
+        },
+        {
+          "text_line": 78,
+          "cells": [
+            "117.145(c); monitoring records",
+            "8,143",
+            "730",
+            "5,944,390",
+            "0.05  (3 minutes)",
+            "297,220"
+          ]
+        },
+        {
+          "text_line": 79,
+          "cells": [
+            "117.150(d); corrective actions and corrections records",
+            "16,285",
+            "2",
+            "32,570",
+            "1",
+            "32,570"
+          ]
+        },
+        {
+          "text_line": 80,
+          "cells": [
+            "117.155(b); verification records",
+            "8,143",
+            "244",
+            "1,986,892",
+            "0.05  (3 minutes)",
+            "99,345"
+          ]
+        },
+        {
+          "text_line": 81,
+          "cells": [
+            "117.160; validation records",
+            "3,677",
+            "6",
+            "22,062",
+            "0.25 (15 minutes)",
+            "5,51 6"
+          ]
+        },
+        {
+          "text_line": 82,
+          "cells": [
+            "117.475(c)(7)-(9); supplier records",
+            "16,285",
+            "10",
+            "162,850",
+            "4",
+            "651,400"
+          ]
+        },
+        {
+          "text_line": 83,
+          "cells": [
+            "117.180(d); training records for preventive controls qualified individual",
+            "46,685",
+            "1",
+            "46,685",
+            "0.25 (15 minutes)",
+            "11,671"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202410-0910-013/raw/supporting-statement-a-1.txt",
+      "preceding_text": "ANIMAL FOODS   Subpart A--General Provisions",
+      "rows": [
+        {
+          "text_line": 86,
+          "cells": [
+            "507.4(d); documentation of animal food safety and hygiene training",
+            "7,469",
+            "0.75",
+            "5,602",
+            "0.05 (3 minutes)",
+            "280"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202410-0910-013/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Subpart C--Hazard Analysis and Risk-Based Preventive Controls",
+      "rows": [
+        {
+          "text_line": 88,
+          "cells": [
+            "507.31 through 507.55; food safety plan--including hazard analysis, preventive controls, and procedures for monitoring, corrective actions, verification, recall plan,   validation, reanalysis, modifications, and implementation records",
+            "7,469",
+            "519",
+            "3,876,411",
+            "0.1 (6 minutes)",
+            "387,641"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202410-0910-013/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Subpart E--Supply Chain Program",
+      "rows": [
+        {
+          "text_line": 90,
+          "cells": [
+            "507.105 through 507.175; written supply-chain program--including records documenting program",
+            "7,469",
+            "519",
+            "3,876,411",
+            "0.1 (6 minutes)",
+            "387,641"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202410-0910-013/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Subpart F--Requirements Applying to Records That Must Be Established and Maintained",
+      "rows": [
+        {
+          "text_line": 92,
+          "cells": [
+            "507.200 through 507.215; general requirements, additional requirements applying to food safety plan, requirements for record retention, use of existing records, and special requirements applicable to written assurance",
+            "7,469",
+            "519",
+            "3,876,411",
+            "0.1 (6 minutes)",
+            "387,641"
+          ]
+        },
+        {
+          "text_line": 93,
+          "cells": [
+            "Total",
+            "",
+            "",
+            "1 9 , 893 , 2 54",
+            "",
+            "7 , 400 , 346"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202410-0910-013/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 3.--Estimated Annual Third-Party Disclosure Burden1",
+      "rows": [
+        {
+          "text_line": 98,
+          "cells": [
+            "21 CFR Section; Activity",
+            "No. of Respondents",
+            "No. of Disclosures per Respondent",
+            "Total Annual Disclosures",
+            "Average Burden per Disclosure",
+            "Total Hours 2"
+          ]
+        },
+        {
+          "text_line": 99,
+          "cells": [
+            "117.201(e); disclosure of food manufacturing facility address  to consumers",
+            "37,134",
+            "1",
+            "37,134",
+            "0.25 (15 minutes)",
+            "9,284"
+          ]
+        },
+        {
+          "text_line": 100,
+          "cells": [
+            "507.27(b); labeling for the animal food product contains the specific information and instructions needed so the food can be safely used for the intended animal species",
+            "330",
+            "10",
+            "3,300",
+            "0.25  (15 minutes)",
+            "825"
+          ]
+        },
+        {
+          "text_line": 101,
+          "cells": [
+            "507.7(e) ; disclosure of manufacturing address  to consumer",
+            "1,120",
+            "1",
+            "1,120",
+            "0.25  (15 minutes)",
+            "280"
+          ]
+        },
+        {
+          "text_line": 102,
+          "cells": [
+            "507.25(a)(2); animal food, including raw materials, other ingredients, and rework, is accurately identified",
+            "373",
+            "312",
+            "116,376",
+            "0.01 (36 seconds)",
+            "1,16 4"
+          ]
+        },
+        {
+          "text_line": 103,
+          "cells": [
+            "507.28(b); holding and distribution of human food byproducts for use as animal food",
+            "40,798",
+            "2",
+            "81,596",
+            "0.25  (15 minutes)",
+            "20,399"
+          ]
+        },
+        {
+          "text_line": 104,
+          "cells": [
+            "Total",
+            "",
+            "",
+            "239, 526",
+            "",
+            "31 ,952"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202410-0910-013/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 4 .-- Estimate d  Annual Cost Burden",
+      "rows": [
+        {
+          "text_line": 113,
+          "cells": [
+            "Type of Respondent",
+            "Total Burden Hours",
+            "Hourly Wage Rate",
+            "Total Respondent Costs"
+          ]
+        },
+        {
+          "text_line": 114,
+          "cells": [
+            "Qualified Individual ",
+            "6,237,142",
+            "$ 132.16",
+            "$ 824,300,686.72"
+          ]
+        },
+        {
+          "text_line": 115,
+          "cells": [
+            "Industrial Production Manager",
+            "1,163,2 04",
+            "$ 112.48",
+            "$ 130,8 37,185.92"
+          ]
+        },
+        {
+          "text_line": 116,
+          "cells": [
+            "Food Manufacturing Production Worker",
+            "41 ,516",
+            "$ 45.80",
+            "$ 1,9 01, 432.80"
+          ]
+        },
+        {
+          "text_line": 117,
+          "cells": [
+            "Total",
+            "$ 9 57 , 03 9 , 305 . 44"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202509-2060-003",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202509-2060-003"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202509-2060-003",
+  "agency": "EPA/OAR",
+  "title": "NESHAP for Gasoline Distribution Bulk Terminals, Bulk Plants, Pipeline Facilities and Gasoline Dispensing Facilities (40 CFR part 63, subparts BBBBBB and CCCCCC) (Final Rule)",
+  "omb_control_number": "2060-0620",
+  "submission_date": "09/30/2025",
+  "record_source_id": "SRC-0091",
+  "supporting_statement_source_ids": [
+    "SRC-0092"
+  ]
 }

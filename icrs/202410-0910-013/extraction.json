@@ -1,0 +1,141 @@
+{
+  "icr_id": "202410-0910-013",
+  "omb_control_number": "0910-0751",
+  "agency": "HHS/FDA",
+  "title": "Current Good Manufacturing Practice and Hazard Analysis and Risk-Based Preventive Controls For Human Food and Food for Animals",
+  "submission_date": "10/29/2024",
+  "archetype": "food preventive controls and qualified facility records",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 4,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0084",
+    "SRC-0083"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 8,
+    "segmentation": 14,
+    "labor": 5,
+    "item13": 4,
+    "item14": 2,
+    "item15": 7,
+    "validation": 3,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "CFR-level population, frequency and time tables; rows and monetary role groups exposed.",
+    "provenance": "2023 median occupational wages cited; burden assumptions largely inherited.",
+    "segmentation": "Human/animal food and reporting, records, disclosure requirements separated.",
+    "labor": "Three role groups priced; generic doubling combines benefits and overhead without derivation.",
+    "item13": "Blanket no capital or maintenance statement lacks implementation/system scope analysis.",
+    "item14": "50000 inquiry-response budget without workload or staff rates.",
+    "item15": "Duplicate animal-food disclosure removed with quantified effect; remaining changes not fully decomposed.",
+    "validation": "Agency experience and correction of duplicate requirement; little measured timing evidence.",
+    "consistency": "Totals and labor groups reconcile; minor rounding from half-hour activities."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Human reporting",
+        18567,
+        0.5,
+        9284
+      ],
+      [
+        "Animal reporting",
+        560,
+        0.5,
+        280
+      ],
+      [
+        "All records",
+        null,
+        null,
+        7400346
+      ],
+      [
+        "All disclosures",
+        null,
+        null,
+        31952
+      ]
+    ],
+    "labor": {
+      "role_hours": [
+        6237142,
+        1163204,
+        41516
+      ],
+      "loaded_rates": [
+        132.16,
+        112.48,
+        45.8
+      ],
+      "load_factor": 2,
+      "wage_year": 2023,
+      "total_cost": 957039305.44
+    },
+    "item13": {
+      "annual_cost": 0,
+      "rationale": "No capital or maintenance costs asserted"
+    },
+    "item14": {
+      "annual_cost": 50000,
+      "basis": "Responding to inquiries; no underlying workload"
+    },
+    "item15": {
+      "response_change": -23438,
+      "hour_change": -14513,
+      "duplicate_animal_disclosure_hours": -5174,
+      "duplicate_responses": -4334,
+      "classification": "adjustment"
+    },
+    "assumptions": [
+      "Record rows include 110-hour plan development, 730 monitoring events and 244 other checks annually.",
+      "Three role groups allocate all 7441862 annual hours."
+    ]
+  },
+  "reconstruction_issues": [
+    "Federal inquiry cost is asserted without workload or compensation methodology.",
+    "Generic 100% benefit/overhead markup and blanket Item 13 zero lack specific derivation."
+  ],
+  "methods_worth_testing": [
+    "Tie each activity to its legal requirement to identify duplication and support renewal corrections."
+  ],
+  "checks": [
+    {
+      "label": "Total hours",
+      "formula": "9284+280+7400346+31952",
+      "calculated": 7441862,
+      "reported": 7441862,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0084"
+    },
+    {
+      "label": "Labor",
+      "formula": "6237142*132.16+1163204*112.48+41516*45.80",
+      "calculated": 957039305.4399999,
+      "reported": 957039305.44,
+      "difference": -1.1920928955078125e-07,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0084"
+    }
+  ],
+  "total_score": 64,
+  "table_evidence_path": "icrs/202410-0910-013/table-evidence.json",
+  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+}

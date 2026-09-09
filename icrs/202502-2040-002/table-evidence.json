@@ -1,0 +1,252 @@
+{
+  "status": "Parsed source cells; not automatically normalized model inputs",
+  "tables": [
+    {
+      "source_file": "icrs/202502-2040-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1 \u2013 Total and Incremental Change in Annual Burden for the 2022 CGP",
+      "rows": [
+        {
+          "text_line": 18,
+          "cells": [
+            "Burden Category",
+            "Incremental Change in Burden",
+            "Total Burden"
+          ]
+        },
+        {
+          "text_line": 19,
+          "cells": [
+            "",
+            "Labor   (hours)",
+            "Cost ($)",
+            "Labor (hours)",
+            "Cost ($)"
+          ]
+        },
+        {
+          "text_line": 20,
+          "cells": [
+            "Respondents  1",
+            "45,367",
+            "$ 4,221,554",
+            "200,383",
+            "$ 15,610,581"
+          ]
+        },
+        {
+          "text_line": 21,
+          "cells": [
+            "Agency  2",
+            "217",
+            "$ 11,105",
+            "10,680",
+            "$ 546,275"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202502-2040-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "See Table 2 for a summary of NOI burden by respondent category for the 2022 CGP. All of these NOI estimates include the burden to determine eligibility procedures relating to threatened and endangered species protection, historic properties eligibility (including contacting the SHPO/THPO, if applicable) and the burden to notify the Regional EPA Office about cationic treatment chemical use, if applicable.",
+      "rows": [
+        {
+          "text_line": 142,
+          "cells": [
+            "",
+            "Table  2   \u2013   2022 CGP  NOI Burden  Summary"
+          ]
+        },
+        {
+          "text_line": 143,
+          "cells": [
+            "Activity",
+            "Hours Per Response"
+          ]
+        },
+        {
+          "text_line": 144,
+          "cells": [
+            "",
+            "2017 NPDES Program ICR",
+            " 2022 CGP Incremental Change  1",
+            " 2022 CGP Total"
+          ]
+        },
+        {
+          "text_line": 145,
+          "cells": [
+            "Small sites \u2013 Includes  e ndangered  s pecies  evaluation and any consultation",
+            "3.7",
+            "-0.4",
+            "3.3"
+          ]
+        },
+        {
+          "text_line": 146,
+          "cells": [
+            "Large sites \u2013 Initial  e ndangered  s pecies  evaluation and no consultation  (60% of large sites)  ",
+            "1.5",
+            "-0.4",
+            "1.1"
+          ]
+        },
+        {
+          "text_line": 147,
+          "cells": [
+            "Large sites \u2013 Initial  e ndangered  s pecies  evaluation and informal consultation  (37.3% of large sites)",
+            "6",
+            "-0.4",
+            "5.6"
+          ]
+        },
+        {
+          "text_line": 148,
+          "cells": [
+            "Large sites \u2013 Initial  e ndangered  s pecies  evaluation  and formal consultation (2.7% of large sites)",
+            "20",
+            "-0.4",
+            "19.6"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202502-2040-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table  3  -   Turbidity Meter Capital and O&M Costs",
+      "rows": [
+        {
+          "text_line": 182,
+          "cells": [
+            "Monitoring Device",
+            "Capital/ Startup Cost for One Respondent  1",
+            "Number of Respondents ",
+            "Total Capital/ Startup Cost ",
+            "Annual O&M Costs for One Respondent   2",
+            "Number of Respondents with O&M",
+            "Total O&M 3"
+          ]
+        },
+        {
+          "text_line": 183,
+          "cells": [
+            "Turbidity Meter",
+            "$1,0 64",
+            "835",
+            "$ 888 , 440",
+            "$0",
+            "835",
+            "$0"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202502-2040-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 4 - Bottom Line Average Annual Respondent Burden Hours and Cost",
+      "rows": [
+        {
+          "text_line": 191,
+          "cells": [
+            "",
+            "2022 CGP ICR Total",
+            "Incremental  Change"
+          ]
+        },
+        {
+          "text_line": 192,
+          "cells": [
+            "Burden (hours)",
+            "200,383",
+            "73,816"
+          ]
+        },
+        {
+          "text_line": 193,
+          "cells": [
+            "Costs  - L abor  (dollars )",
+            "$ 14,722,141",
+            "$ 3,333,114"
+          ]
+        },
+        {
+          "text_line": 194,
+          "cells": [
+            "Costs  - C apital  (dollars )",
+            "$ 888,440",
+            "$ 888,440  "
+          ]
+        },
+        {
+          "text_line": 195,
+          "cells": [
+            "Costs  -  O&M  (dollars )",
+            "None",
+            "None"
+          ]
+        },
+        {
+          "text_line": 196,
+          "cells": [
+            "Total  C osts  (dollars)",
+            "$ 15,610,581",
+            "$ 4,221, 554"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202502-2040-002/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 5 - Bottom Line Average Annual Agency Burden Hours and Cost",
+      "rows": [
+        {
+          "text_line": 217,
+          "cells": [
+            "",
+            "2022 CGP ICR  Total",
+            "Incremental Change"
+          ]
+        },
+        {
+          "text_line": 218,
+          "cells": [
+            "Burden (hours)",
+            "10,680",
+            "217"
+          ]
+        },
+        {
+          "text_line": 219,
+          "cells": [
+            "Costs  - L abor  (dollars )",
+            "$ 546,275",
+            "$ 11,105"
+          ]
+        },
+        {
+          "text_line": 220,
+          "cells": [
+            "Costs  - C apital  (dollars )",
+            "None",
+            "None"
+          ]
+        },
+        {
+          "text_line": 221,
+          "cells": [
+            "Costs  -  O&M  (dollars )",
+            "None",
+            "None"
+          ]
+        },
+        {
+          "text_line": 222,
+          "cells": [
+            "Total  C osts  (dollars)",
+            "$ 546,275",
+            "$ 11,105"
+          ]
+        }
+      ]
+    }
+  ]
+}

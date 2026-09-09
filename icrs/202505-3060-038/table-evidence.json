@@ -1,0 +1,731 @@
+{
+  "status": "Parsed source cells; not automatically normalized model inputs",
+  "tables": [
+    {
+      "source_file": "icrs/202505-3060-038/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Total Annualized Cost:",
+      "rows": [
+        {
+          "text_line": 623,
+          "cells": [
+            "Total Costs to the  Industry",
+            "Totals"
+          ]
+        },
+        {
+          "text_line": 624,
+          "cells": [
+            "Estimated Application Filing Fees",
+            "$ 1,8 54,991.82"
+          ]
+        },
+        {
+          "text_line": 625,
+          "cells": [
+            "Estimated Cost of Outside Legal/Engineering Assistance",
+            "                   $ 2,299,275 .00"
+          ]
+        },
+        {
+          "text_line": 626,
+          "cells": [
+            "Total Cost to Respondents",
+            "              $ 4,1 54.266.82 rounded to $4,154,267"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202505-3060-038/raw/supporting-statement-a-1.txt",
+      "preceding_text": "The chart contains total staff salaries, burden hours, and annualized costs.",
+      "rows": [
+        {
+          "text_line": 635,
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 636,
+          "cells": [
+            "Federal Government Staff",
+            "Number  of Staff",
+            "Salary Per  Hour",
+            "Annual  Burden Hours",
+            "Annualized Costs"
+          ]
+        },
+        {
+          "text_line": 637,
+          "cells": [
+            "GS-15/Step 5 Attorney",
+            "6",
+            "$ 91.02",
+            "1,514",
+            "$ 826,825.68"
+          ]
+        },
+        {
+          "text_line": 638,
+          "cells": [
+            "GS-14/Step 5 Attorney",
+            "3",
+            "$ 77.38  ",
+            "1,517",
+            "$ 352,156.38  "
+          ]
+        },
+        {
+          "text_line": 639,
+          "cells": [
+            "GS-13/Step 5 Attorney",
+            "1",
+            "$ 65.48    ",
+            "1,517",
+            "$ 99,333.16  "
+          ]
+        },
+        {
+          "text_line": 640,
+          "cells": [
+            "GS-12/Step 5 Attorney",
+            "1",
+            "$ 55.07    ",
+            "1,517",
+            "$ 83,541.19    "
+          ]
+        },
+        {
+          "text_line": 641,
+          "cells": [
+            "GS-15/Step 5 Engineer",
+            "11",
+            "$ 91.02    ",
+            "694",
+            "   $ 694,846.68    "
+          ]
+        },
+        {
+          "text_line": 642,
+          "cells": [
+            "GS-14/Step 5 Engineer",
+            "3",
+            "$ 77.38    ",
+            "2, 12 2",
+            "$ 492,601.08"
+          ]
+        },
+        {
+          "text_line": 643,
+          "cells": [
+            "GS-12/Step 5 Paralegal",
+            "1",
+            "$ 55.07    ",
+            "500",
+            "$ 27,535 .00    "
+          ]
+        },
+        {
+          "text_line": 644,
+          "cells": [
+            "GS-12/Step 5 Industry Analyst",
+            "1",
+            "$ 55.07  ",
+            "1 , 508",
+            "$ 83,000.32  "
+          ]
+        },
+        {
+          "text_line": 645,
+          "cells": [
+            "GS-12/Step 5 Telecom Specialist",
+            "2",
+            "  $ 55.07  ",
+            "2 , 011",
+            "$ 221,491.54    "
+          ]
+        },
+        {
+          "text_line": 646,
+          "cells": [
+            "Total",
+            "29",
+            "",
+            "12, 78 0",
+            "$ 2,881,331.03  "
+          ]
+        },
+        {
+          "text_line": 647,
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202505-3060-038/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Application Costs (in Dollars)",
+      "rows": [
+        {
+          "text_line": 662,
+          "cells": [
+            "Type of Filing",
+            "No. of Applications",
+            "Filing Fee",
+            "Subtotals",
+            "Totals"
+          ]
+        },
+        {
+          "text_line": 663,
+          "cells": [
+            "I. Applications for Initial Licenses",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 664,
+          "cells": [
+            "a. Space Stations",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 665,
+          "cells": [
+            "GSO",
+            "9",
+            "3,965",
+            "35,685",
+            ""
+          ]
+        },
+        {
+          "text_line": 666,
+          "cells": [
+            "NGSO",
+            "1 1",
+            "16,795",
+            "184 ,745",
+            ""
+          ]
+        },
+        {
+          "text_line": 667,
+          "cells": [
+            "Small Satellite",
+            "5",
+            "2,425",
+            "12,125",
+            ""
+          ]
+        },
+        {
+          "text_line": 668,
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            "232,555"
+          ]
+        },
+        {
+          "text_line": 669,
+          "cells": [
+            "b. Earth  Stations:",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 670,
+          "cells": [
+            "Fixed or Temporary Fixed Transmit or Transmit/Receive Earth Stations",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 671,
+          "cells": [
+            "Initial application, Single site",
+            "",
+            "400",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 672,
+          "cells": [
+            "Initial Application, Multiple sites",
+            "",
+            "7,270",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 673,
+          "cells": [
+            "(average earth station application fee) ",
+            "226",
+            "3,835",
+            "",
+            "866,710"
+          ]
+        },
+        {
+          "text_line": 674,
+          "cells": [
+            "Receive Only  Earth Stations",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 675,
+          "cells": [
+            "Single",
+            "",
+            "195",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 676,
+          "cells": [
+            "Multiple",
+            "",
+            "520",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 677,
+          "cells": [
+            "Blanket",
+            "",
+            "400",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 678,
+          "cells": [
+            "(average earth station application fee)",
+            "2",
+            "371.66",
+            "",
+            "743.32"
+          ]
+        },
+        {
+          "text_line": 679,
+          "cells": [
+            "Mobile Earth Station Blanket Authorization (ESIMs total)",
+            "12",
+            "910",
+            "",
+            "10,920"
+          ]
+        },
+        {
+          "text_line": 680,
+          "cells": [
+            "II. Modifications of Existing Licenses",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 681,
+          "cells": [
+            "a. Space  Station",
+            "4 4",
+            "2,785",
+            "",
+            "122,540"
+          ]
+        },
+        {
+          "text_line": 682,
+          "cells": [
+            "b. Earth Station",
+            "165",
+            "610",
+            "",
+            "100,650"
+          ]
+        },
+        {
+          "text_line": 683,
+          "cells": [
+            "III. Amendments of Pending Applications",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 684,
+          "cells": [
+            "a. Space Station",
+            "10",
+            "1,810",
+            "",
+            "18,100"
+          ]
+        },
+        {
+          "text_line": 685,
+          "cells": [
+            "b. Earth Station",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 686,
+          "cells": [
+            "Single Site",
+            "",
+            "480",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 687,
+          "cells": [
+            "Multiple Site",
+            "",
+            "705",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 688,
+          "cells": [
+            "(average earth station application fee)",
+            "34",
+            "592.50",
+            "",
+            "20,145"
+          ]
+        },
+        {
+          "text_line": 689,
+          "cells": [
+            "IV. Transfers of Control and Assignments",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 690,
+          "cells": [
+            "A. Transfers of Control (T/C)",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 691,
+          "cells": [
+            "a. Space Station",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 692,
+          "cells": [
+            "First call sign",
+            "",
+            "830",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 693,
+          "cells": [
+            "Additional call signs (each)",
+            "",
+            "445",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 694,
+          "cells": [
+            "(average space station T/C fee)",
+            "4",
+            "636.50",
+            "",
+            "2,546"
+          ]
+        },
+        {
+          "text_line": 695,
+          "cells": [
+            "b. Earth Station",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 696,
+          "cells": [
+            "First call sign",
+            "",
+            "830",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 697,
+          "cells": [
+            "Additional call signs (each)",
+            "",
+            "445",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 698,
+          "cells": [
+            "(average earth station T/C fee)",
+            "155",
+            "637.50",
+            "",
+            "98,812.50"
+          ]
+        },
+        {
+          "text_line": 699,
+          "cells": [
+            "B. Assignments",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 700,
+          "cells": [
+            "a. Space Station",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 701,
+          "cells": [
+            "First call sign",
+            "",
+            "830",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 702,
+          "cells": [
+            "Additional call signs (each)",
+            "",
+            "445",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 703,
+          "cells": [
+            "(average space station   assignment fee)",
+            "3",
+            "637.50",
+            "",
+            "1,912.50"
+          ]
+        },
+        {
+          "text_line": 704,
+          "cells": [
+            "b. Earth Station",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 705,
+          "cells": [
+            "First call sign",
+            "",
+            "830",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 706,
+          "cells": [
+            "Additional call signs (each)",
+            "",
+            "445",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 707,
+          "cells": [
+            "(average earth station assignment fee)",
+            "81",
+            "637.50",
+            "",
+            "51,637.50"
+          ]
+        },
+        {
+          "text_line": 708,
+          "cells": [
+            "V. Applications for Special Temporary Authority",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 709,
+          "cells": [
+            "a. Space Station",
+            "77",
+            "1,600",
+            "",
+            "123,200"
+          ]
+        },
+        {
+          "text_line": 710,
+          "cells": [
+            "b. Earth Station",
+            "753",
+            "220",
+            "",
+            "165,660"
+          ]
+        },
+        {
+          "text_line": 711,
+          "cells": [
+            "VI. Earth Station License Renewals",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 712,
+          "cells": [
+            "Single Site",
+            "",
+            "130",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 713,
+          "cells": [
+            "Multiple Sites",
+            "",
+            "160",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 714,
+          "cells": [
+            "Average Earth Station Fee",
+            "268",
+            "145",
+            "",
+            "38,860"
+          ]
+        },
+        {
+          "text_line": 715,
+          "cells": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "text_line": 716,
+          "cells": [
+            "TOTALS",
+            "",
+            "",
+            "",
+            "1,8 54,991.82"
+          ]
+        }
+      ]
+    }
+  ]
+}

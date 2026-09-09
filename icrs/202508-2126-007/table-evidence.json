@@ -1,0 +1,722 @@
+{
+  "status": "Parsed source cells; not automatically normalized model inputs",
+  "tables": [
+    {
+      "source_file": "icrs/202508-2126-007/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 1. Growth Rate Calculation by SOC Occupation",
+      "rows": [
+        {
+          "text_line": 123,
+          "cells": [
+            "SOC Occupational Title /Code \u00a0",
+            "Total Employment (Year 202 3 ) (thousands)",
+            "Total Employment (Year 203 3 ) (thousands)",
+            "Employment Change  (202 3 -20 33 )  ( thousands )",
+            "Employment Change  (202 3 - 20 33 )  (Percent)",
+            "202 3  Employment as % of Total for Truck and Bus Occupation Codes",
+            "Compound Annual Growth Rate in Employment (202 3 -203 3 ) [MC-PRE]"
+          ]
+        },
+        {
+          "text_line": 124,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = B - A",
+            "D = C   /A",
+            "E = An / \u01a9A",
+            "F =  [ (A/D) ^   (1/10) ]- 1"
+          ]
+        },
+        {
+          "text_line": 125,
+          "cells": [
+            "Bus drivers, transit and intercity / 53-30 52",
+            "194.1",
+            "204.1",
+            "10.00",
+            "5.2%",
+            "4.36%",
+            "0.504%"
+          ]
+        },
+        {
+          "text_line": 126,
+          "cells": [
+            "Passenger vehicle drivers  / 53-305 0",
+            "952.70",
+            "1,008.00",
+            "55.30",
+            "5.8%",
+            "21.41%",
+            "0.566%"
+          ]
+        },
+        {
+          "text_line": 127,
+          "cells": [
+            "Heavy and tractor-trailer truck drivers / 53-3032",
+            "2,211.30",
+            "2,313.40",
+            "102.10",
+            "4.6%",
+            "49.68%",
+            "0.452%"
+          ]
+        },
+        {
+          "text_line": 128,
+          "cells": [
+            "Light truck or delivery services drivers / 53-3033",
+            "1,093",
+            "1,189",
+            "96.30",
+            "8.8%",
+            "24.55%",
+            "0.848%"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202508-2126-007/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 2. Estimate of Driver Population Operating ELD- Equipped CMVs",
+      "rows": [
+        {
+          "text_line": 134,
+          "cells": [
+            "Year",
+            "Total Population Projected at a  0.576 % Annual Growth Rate (millions)",
+            "Drivers Exempt from Operating ELD-Equipped Vehicles Projected at a  0.576 % Annual Growth Rate (millions)",
+            "Drivers Operating ELD-Equipped Vehicles (millions)",
+            "New Drivers ( millions )"
+          ]
+        },
+        {
+          "text_line": 135,
+          "cells": [
+            "",
+            "A = A (-1) \u00d7 (1+ 0.576 %)",
+            "B = B (-1) \u00d7 (1+  0.576 %)",
+            "C = A - B",
+            "D = C -  C( -1)"
+          ]
+        },
+        {
+          "text_line": 136,
+          "cells": [
+            "2023",
+            "9.12",
+            "4.73",
+            "4.39",
+            "\u00a0"
+          ]
+        },
+        {
+          "text_line": 137,
+          "cells": [
+            "2024",
+            "9.17",
+            "4.76",
+            "4.41",
+            "\u00a0"
+          ]
+        },
+        {
+          "text_line": 138,
+          "cells": [
+            "Year 1 (2025)",
+            "9.22",
+            "4.79",
+            "4.43",
+            "                           0.020  "
+          ]
+        },
+        {
+          "text_line": 139,
+          "cells": [
+            "Year 2 (2026)",
+            "9.27",
+            "4.82",
+            "4.45",
+            "                           0.020  "
+          ]
+        },
+        {
+          "text_line": 140,
+          "cells": [
+            "Year 3 (2027)",
+            "9.32",
+            "4.85",
+            "4.47",
+            "                           0.020  "
+          ]
+        },
+        {
+          "text_line": 141,
+          "cells": [
+            "Three Year Average (2025\u2013 2027)*",
+            "9.27",
+            "4.82",
+            "4.45",
+            "                           0.020  "
+          ]
+        },
+        {
+          "text_line": 142,
+          "cells": [
+            "*Average based on years 2025 to 2027. Years 2022 and 2023 are included for growth rate illustration.",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202508-2126-007/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 3. Driver Task 1 Burden Hours for Filling Out Electronic RODS",
+      "rows": [
+        {
+          "text_line": 146,
+          "cells": [
+            "Year",
+            "Total  Daily Number of RODS  completed (millions)",
+            "Minutes  to Complete   RODS Task",
+            "Total  Daily Minutes on Task  (millions)",
+            "Number of  Working Days Per Year",
+            "Total  Minutes on Task per Year  ( mi llions)",
+            "Total  Hours on Task  per Year (millions)"
+          ]
+        },
+        {
+          "text_line": 147,
+          "cells": [
+            "",
+            "A = Table  4  Col. C",
+            "B",
+            "C = A x B",
+            "D",
+            "E = C x D",
+            "F = E/60"
+          ]
+        },
+        {
+          "text_line": 148,
+          "cells": [
+            "Year 1",
+            "4.43",
+            "2",
+            "8.86",
+            "240",
+            "2,126.40",
+            "35.44"
+          ]
+        },
+        {
+          "text_line": 149,
+          "cells": [
+            "Year 2",
+            "4.45",
+            "2",
+            "8.90",
+            "240",
+            "2,136.00",
+            "35.60"
+          ]
+        },
+        {
+          "text_line": 150,
+          "cells": [
+            "Year 3",
+            "4.47",
+            "2",
+            "8.94",
+            "240",
+            "2,145.60",
+            "35.76"
+          ]
+        },
+        {
+          "text_line": 151,
+          "cells": [
+            "Annual Average",
+            "4.45",
+            "2",
+            "8.90",
+            "240",
+            "2,136.00",
+            "35.60"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202508-2126-007/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 4.  Motor Carrier Burden Hours to Review RODS",
+      "rows": [
+        {
+          "text_line": 157,
+          "cells": [
+            "Year",
+            "D aily   Number of RODS  (millions)",
+            "Daily   Number of RODS Reviewed  (millions)",
+            "Minutes Per RODS on Task",
+            "Daily   Minutes on Task (millions)",
+            "Working Days Per Year",
+            "Minutes on Task per Year  ( millions )",
+            "Hours on Task Per Year (million s )"
+          ]
+        },
+        {
+          "text_line": 158,
+          "cells": [
+            "",
+            "A = Table  4  Col. C",
+            "B = A \u00d7 0.5",
+            "C",
+            "D = B \u00d7 C",
+            "E",
+            "F = D x E",
+            "G = F/60"
+          ]
+        },
+        {
+          "text_line": 159,
+          "cells": [
+            "Year 1",
+            "4.43",
+            "2.22",
+            "2",
+            "4.44",
+            "240",
+            "    1,065.60 ",
+            "17.76"
+          ]
+        },
+        {
+          "text_line": 160,
+          "cells": [
+            "Year 2",
+            "4.45",
+            "2.23",
+            "2",
+            "4.46",
+            "240",
+            "    1,070.40 ",
+            "17.84"
+          ]
+        },
+        {
+          "text_line": 161,
+          "cells": [
+            "Year 3",
+            "4.47",
+            "2.24",
+            "2",
+            "4.48",
+            "240",
+            "    1,075.20 ",
+            "17.92"
+          ]
+        },
+        {
+          "text_line": 162,
+          "cells": [
+            "Average",
+            "4.45",
+            "2.23",
+            "2",
+            "4.46",
+            "240",
+            "  1,070.40 ",
+            "17.84"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202508-2126-007/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 5. Driver Loaded Hourly Wage",
+      "rows": [
+        {
+          "text_line": 167,
+          "cells": [
+            "Occupational Title (BLS Code Number)",
+            "Total Drivers",
+            " % of Total Drivers",
+            " Median Hourly Base Wage",
+            "Weighted Average Hourly Wage",
+            "Load Rate",
+            "Loaded Weighted Average Hourly Wage"
+          ]
+        },
+        {
+          "text_line": 168,
+          "cells": [
+            "\u00a0",
+            "A",
+            "B= A n   /   \u01a9 A",
+            "C ",
+            "D = B x C",
+            "E",
+            "F"
+          ]
+        },
+        {
+          "text_line": 169,
+          "cells": [
+            "Heavy and Tractor Trailer drivers (53-3032)",
+            "2,044,400",
+            "58.58%",
+            "$26.12 ",
+            "$15.30 ",
+            "1.419",
+            "$21.71 "
+          ]
+        },
+        {
+          "text_line": 170,
+          "cells": [
+            "Light truck and delivery Service Drivers (53-3033)",
+            "1,003,960",
+            "28.77%",
+            "$20.42 ",
+            "$5.87 ",
+            "1.419",
+            "$8.33 "
+          ]
+        },
+        {
+          "text_line": 171,
+          "cells": [
+            "Passenger Vehicle Drivers (53-3050)",
+            "594,230",
+            "17.03%",
+            "$18.52 ",
+            "$3.15 ",
+            "1.419",
+            "$4.47 "
+          ]
+        },
+        {
+          "text_line": 172,
+          "cells": [
+            "Bus drivers, transit and intercity (53-3052)",
+            "184,990",
+            "5.30%",
+            "$28.93 ",
+            "$1.53 ",
+            "1.419",
+            "$2.17 "
+          ]
+        },
+        {
+          "text_line": 173,
+          "cells": [
+            "Total / Annual  Averages /Weighted Annual Average/Loaded Weighted Annual Average",
+            "3,490,010",
+            "-",
+            "$23.50 ",
+            "$25.85 ",
+            "-",
+            "$36.68 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202508-2126-007/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 6. Total Driver Burden Hours and Cost",
+      "rows": [
+        {
+          "text_line": 179,
+          "cells": [
+            "",
+            "Burden Hours (millions) A= Table  5   Column  G",
+            "Total Cost ($  m illions ) B   = A \u00d7  $ 36.68"
+          ]
+        },
+        {
+          "text_line": 180,
+          "cells": [
+            "Year 1",
+            "35.44",
+            "$1,299.94 "
+          ]
+        },
+        {
+          "text_line": 181,
+          "cells": [
+            "Year 2",
+            "35.60",
+            "$1,305.81 "
+          ]
+        },
+        {
+          "text_line": 182,
+          "cells": [
+            "Year 3",
+            "35.76",
+            "$1,311.68 "
+          ]
+        },
+        {
+          "text_line": 183,
+          "cells": [
+            "Annual Average",
+            "35.60",
+            "$1,305.81 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202508-2126-007/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 7. Motor Carrier Total Burden Hours and Cost",
+      "rows": [
+        {
+          "text_line": 187,
+          "cells": [
+            "\u00a0 \u00a0 Year",
+            "Burden Hours (million)",
+            "Total Cost ($ million)"
+          ]
+        },
+        {
+          "text_line": 188,
+          "cells": [
+            "",
+            "A  =  Table  6   Col. G",
+            "B = A  \u00d7  $ 32.37"
+          ]
+        },
+        {
+          "text_line": 189,
+          "cells": [
+            "Year 1",
+            "17.76",
+            "$574.89"
+          ]
+        },
+        {
+          "text_line": 190,
+          "cells": [
+            "Year 2",
+            "17.84",
+            "$577.48"
+          ]
+        },
+        {
+          "text_line": 191,
+          "cells": [
+            "Year 3",
+            "17.92",
+            "$580.07"
+          ]
+        },
+        {
+          "text_line": 192,
+          "cells": [
+            "Annual Average",
+            "17.84",
+            "$577.48"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202508-2126-007/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 8. Recordkeeping Costs of Logbooks",
+      "rows": [
+        {
+          "text_line": 218,
+          "cells": [
+            "Year",
+            "Number of Drivers (millions)",
+            "Number of New Drivers  (millions) B = From Table 4 Column D",
+            "Number of Backup Logbooks Provided to Established Drivers (millions)",
+            "Number of Backup Logbooks Provided to New Drivers (millions)",
+            "Total Number of Backup Logbooks Provided",
+            "Total Cost for Logbooks (millions)"
+          ]
+        },
+        {
+          "text_line": 219,
+          "cells": [
+            "",
+            "A",
+            "",
+            "C = A  \u00d7  1",
+            "D= B  \u00d7  2",
+            "E = C + D",
+            "F = E \u00d7 $ 5.24"
+          ]
+        },
+        {
+          "text_line": 220,
+          "cells": [
+            "Year 1",
+            "4.43",
+            "                                    0.020 ",
+            "4.43",
+            "              0.040 ",
+            "4.47",
+            "23.42"
+          ]
+        },
+        {
+          "text_line": 221,
+          "cells": [
+            "Year 2",
+            "4.45",
+            "                                    0.020 ",
+            "4.45",
+            "              0.040 ",
+            "4.49",
+            "23.53"
+          ]
+        },
+        {
+          "text_line": 222,
+          "cells": [
+            "Year 3",
+            "4.47",
+            "                                    0.020 ",
+            "4.47",
+            "              0.040 ",
+            "4.51",
+            "23.63"
+          ]
+        },
+        {
+          "text_line": 223,
+          "cells": [
+            "Average",
+            "4.45",
+            "0.020",
+            "4.45",
+            "0.040",
+            "4.49",
+            "23.53"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202508-2126-007/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 9. Annual ELD Costs",
+      "rows": [
+        {
+          "text_line": 233,
+          "cells": [
+            "Year",
+            "Total Driver Population ",
+            "New Driver Population (millions)  ",
+            "New ELD Costs           ( $ millions)",
+            "New Installation Costs                               ( $ millions)",
+            "Annual Service Charges   ($  m illions )  ",
+            "Total Non-Labor Annual Cost s   ($   m illions )"
+          ]
+        },
+        {
+          "text_line": 234,
+          "cells": [
+            "",
+            "A",
+            "B",
+            "C = B \u00d7 $ 350",
+            "D = B \u00d7 $150",
+            "E = A \u00d7 $31 \u00d7 12 months ",
+            "F = C + D + E"
+          ]
+        },
+        {
+          "text_line": 235,
+          "cells": [
+            "Year 1",
+            "4.43",
+            "0.020",
+            "$7.00",
+            "$3.00 ",
+            " $                   1,594.80 ",
+            "$1,604.80 "
+          ]
+        },
+        {
+          "text_line": 236,
+          "cells": [
+            "Year 2",
+            "4.45",
+            "0.020",
+            "$7.00 ",
+            "$3.00 ",
+            " $                   1,602.00 ",
+            "$1,612.00 "
+          ]
+        },
+        {
+          "text_line": 237,
+          "cells": [
+            "Year 3",
+            "4.47",
+            "0.020",
+            "$7.00 ",
+            "$3.00 ",
+            " $                   1,609.20 ",
+            "$1,619.20 "
+          ]
+        },
+        {
+          "text_line": 238,
+          "cells": [
+            "Annual Average",
+            "4.45",
+            "0.020",
+            "$ 7.00",
+            "$3.00 ",
+            " $                   1,602.00 ",
+            "$1,612.00  "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202508-2126-007/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 10 Program Adjustments",
+      "rows": [
+        {
+          "text_line": 252,
+          "cells": [
+            "",
+            "Previous   ICR",
+            "This ICR"
+          ]
+        },
+        {
+          "text_line": 253,
+          "cells": [
+            "CMV Drivers Subject to HOS Recordkeeping Requirements",
+            "Year 1: 4.20 million Year 2: 4.24 million Year 3: 4.28 million Average:  4.24 million",
+            "Year 1:  4. 43  million Year 2:  4. 45  million Year 3:  4. 47   million Average:   4. 45  million"
+          ]
+        },
+        {
+          "text_line": 254,
+          "cells": [
+            "Motor Carriers Review 50% of RODS ",
+            "Three-year average burden hours estimated at  16.79  million hours.",
+            "Three-year average burden hours estimated at  17.80  million hours. The  upward  revision is the result of  a revised estimate of the driver population shown above."
+          ]
+        },
+        {
+          "text_line": 255,
+          "cells": [
+            "Monetized Driver and Motor Carrier Burden Hours",
+            "Driver burden hours monetized at a loaded rate of $29.78 per hour. Motor carrier burden hours are monetized at $30.20 per hour.",
+            "Driver burden hours monetized at  a loaded rate of  $ 36.68  per hour. Motor carrier burden hours are monetized at $ 32.37  per hour . The  upward  revision in costs is due to updating the load rate .  "
+          ]
+        }
+      ]
+    }
+  ]
+}

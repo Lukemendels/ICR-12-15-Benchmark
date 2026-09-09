@@ -1,0 +1,187 @@
+{
+  "icr_id": "202311-2137-001",
+  "omb_control_number": "2137-0612",
+  "agency": "DOT/PHMSA",
+  "title": "Hazardous Materials Security Plans",
+  "submission_date": "11/14/2023",
+  "archetype": "hazardous materials security plans and rail routing",
+  "complexity": "high",
+  "tsa_relevance": "direct",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 4,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0080",
+    "SRC-0079"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 8,
+    "segmentation": 14,
+    "labor": 4,
+    "item13": 5,
+    "item14": 2,
+    "item15": 8,
+    "validation": 2,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Activity-specific company/site/route counts and times mostly reconstruct; some totals rounded.",
+    "provenance": "2019 wages and benefit share identified; population and timing assumptions are not current empirical estimates.",
+    "segmentation": "Large/small new and existing firms, rail classes and route activities distinguished.",
+    "labor": "Office-clerk rate for security planning needs occupational justification; benefit denominator method is explicit.",
+    "item13": "Zero nonlabor cost repeated without implementation or systems boundary analysis.",
+    "item14": "Zero asserted despite inspection activity, without allocation rationale.",
+    "item15": "Rule removal has quantified responses and hours; directional typo in prose.",
+    "validation": "Experienced estimates but no direct burden measurement or ranges.",
+    "consistency": "One-hour update rounding and increase/decrease wording; main structure remains reproducible."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "New large plans",
+        90,
+        50,
+        4500
+      ],
+      [
+        "New small plans",
+        170,
+        25,
+        4250
+      ],
+      [
+        "Large updates",
+        18900,
+        10,
+        189000
+      ],
+      [
+        "Small updates",
+        35700,
+        5,
+        178499
+      ],
+      [
+        "Rail data compilation",
+        139,
+        40,
+        5560
+      ],
+      [
+        "Rail route analysis",
+        null,
+        null,
+        23040
+      ],
+      [
+        "Rail alternatives",
+        null,
+        null,
+        20720
+      ],
+      [
+        "Rail selection",
+        null,
+        null,
+        1424
+      ],
+      [
+        "Rail security plans",
+        null,
+        null,
+        712
+      ],
+      [
+        "Delay notices",
+        26,
+        0.5,
+        13
+      ],
+      [
+        "Inspections",
+        100,
+        0.008,
+        1
+      ]
+    ],
+    "labor": {
+      "plan_base_rate": 17.48,
+      "plan_loaded": 25.59,
+      "rail_base_rate": 49.67,
+      "rail_loaded": 72.72,
+      "wage_year": 2019,
+      "benefit_share": 0.317,
+      "reported_cost": 13372348
+    },
+    "item13": {
+      "annual_cost": 0,
+      "rationale": "No additional cost asserted"
+    },
+    "item14": {
+      "annual_cost": 0,
+      "rationale": "No cost asserted; inspection allocation not explained"
+    },
+    "item15": {
+      "response_change": -8,
+      "hour_change": -680,
+      "reason": "2023 LNG authorization suspension rule",
+      "classification": "program change"
+    },
+    "assumptions": [
+      "Large firms have three sites; small firms one.",
+      "Rail classes I/II/III contain 7/32/100 carriers with distinct routes and hours."
+    ]
+  },
+  "reconstruction_issues": [
+    "Office-clerk occupation for security-plan development is not justified against managerial/security/technical work.",
+    "Federal zero lacks explanation despite an explicit inspection activity.",
+    "Item 15 wording says increase where the documented removal is a decrease."
+  ],
+  "methods_worth_testing": [
+    "Segment security implementation by sites, carrier class and activity; count assets separately from respondents."
+  ],
+  "checks": [
+    {
+      "label": "New large burden",
+      "formula": "30*3*50",
+      "calculated": 4500,
+      "reported": 4500,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact",
+      "source_id": "SRC-0080"
+    },
+    {
+      "label": "Small updates",
+      "formula": "35700*5",
+      "calculated": 178500,
+      "reported": 178499,
+      "difference": 1,
+      "unit": "hours",
+      "interpretation": "One-hour discrepancy",
+      "source_id": "SRC-0080"
+    },
+    {
+      "label": "Loaded clerk",
+      "formula": "17.48/(1-.317)",
+      "calculated": 25.592972181551975,
+      "reported": 25.59,
+      "difference": 0.002972181551974984,
+      "unit": "USD/hour",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0080"
+    }
+  ],
+  "total_score": 64,
+  "table_evidence_path": "icrs/202311-2137-001/table-evidence.json",
+  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+}

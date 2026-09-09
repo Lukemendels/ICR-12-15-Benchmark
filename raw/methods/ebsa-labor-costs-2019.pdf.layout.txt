@@ -1,0 +1,302 @@
+           Labor Cost Inputs Used in the Employee Benefits Security
+        Administration, Office of Policy and Research’s Regulatory Impact
+          Analyses and Paperwork Reduction Act Burden Calculations
+                                                        June 2019
+
+    Labor Cost Estimation
+    This document describes the data and methodology used to estimate labor costs in regulatory impact
+    analyses (RIAs) and Paperwork Reduction Act (PRA) burden calculations prepared by the Employee
+    Benefits Security Administration’s Office of Policy and Research (OPR). It includes a brief general
+    description of labor cost and the data and methodology, followed by a more detailed description how
+    labor costs are calculated. Calculations for specific occupations can be found in Table 3, “EBSA OPR
+    Labor Cost Inputs,” located at the end of this document.
+
+    Labor Cost
+    OPR defines labor cost as the sum of total compensation and overhead cost.
+
+    Total Hourly Compensation
+    Total compensation includes wages and nonwage benefits. Nonwage benefits include:
+       • Paid leave (e.g., vacations, holidays, sick leave);
+       • Supplementary pay (premium pay for overtime and work on holidays and weekends, shift
+           differentials, and nonproduction bonuses);
+       • Retirement (defined benefit and defined contribution plans); insurance (life insurance, health
+           benefits, short-term disability, and long- term disability insurance); and
+           Legally required benefits (Social Security and Medicare, federal and state unemployment
+           insurance taxes, and workers’ compensation).
+
+    Total Hourly Compensation Data
+    Mean hourly wages by occupation for 2018 come from the U.S. Bureau of Labor Statistics (BLS)
+    National Occupational Employment and Wage Estimates. 1 Estimates of wages and salaries as a
+    percentage of total compensation for certain occupations come from the BLS National Compensation
+    Survey’s Employee Cost for Employee Compensation (ECEC). 2 Total hourly compensation is then
+    calculated by dividing the mean hourly wage rate from the Occupational Employment Statistics (OES)
+    (Column 1 in the Table 3, “EBSA OPR Labor Cost Inputs,”) by wage and salary’s share of total
+    compensation from the ECEC (Column 2 in Table 3. “EBSA OPR Labor Cost Inputs”).
+
+    Overhead Costs
+    Overhead costs are costs incurred that are not related to direct labor or direct materials and that must be
+    paid on an ongoing basis regardless of the output of a firm. Because overhead is a factor of total
+    production costs, it must be incorporated into labor cost estimates.
+
+    Overhead Cost Data
+    The U.S. Census Bureau (Census) provides detailed total cost estimates for manufacturers by
+
+
+1
+  This is a product of the Occupational Employment Statistics (OES) survey from May 2018 found at
+https://www.bls.gov/news.release/archives/ocwage_03292019.pdf
+2
+  Taken from Table 2 of the December 2018 release found at https://www.bls.gov/news.release/archives/ecec_03192019.pdf.
+                                                             1
+    industry in its Annual Survey of Manufacturers (ASM). 3 The ASM provides data for each 6-digit
+    (North American Industry Classification System (NAICS) code within the manufacturing sector.
+    Census also provides detailed cost estimates for service the industry in its Service Annual Survey
+    (SAS). 4 While the SAS does not provide as much detail as the ASM, it does provide detailed cost
+    data for every 2-digit NAICS industry with the exception of government industries (NAICS code
+    90) and NAICS 55, management of companies and enterprises (NAICS code 55). Given the
+    detailed cost breakdown from the ASM and the SAS, total overhead cost for each 2-digit NAICS
+    industry can be estimated. 5
+
+    Table 1 below shows how the industry-level overhead cost is calculated for NAICS 524, the insurance
+    carriers and related activities industry.
+
+    Table 1. Breakdown of Costs for Insurance Carriers and Related Activities Industry
+
+
+                                    Item                                    2017 Estimate (millions)
+
+     Expenses                                                                                    $702,844
+     Gross annual payroll                                                                        $219,289
+     Health insurance                                                                             $17,723
+     Defined benefit pension plans                                                                 $7,436
+     Defined contribution plans                                                                    $9,194
+     Payroll taxes, employer paid insurance premiums (except
+                                                                                                  $17,366
+     health), and other employer benefits
+     Temporary staff and leased employee expense                                                  $11,205
+     Expensed equipment                                                                            $2,762
+     Expensed purchases of other materials, parts, and supplies                                   $10,573
+     Expensed purchases of software                                                               $10,039
+     Purchased electricity                                                                           $790
+     Purchased fuels (except motor fuels)                                                             $86
+     Lease and rental payments for machinery, equipment, and
+                                                                                                    $1,480
+     other tangible items
+
+3
+  The 2016 survey, the most recent, published in December 2017 can be found at
+https://www.census.gov/data/Tables/2016/econ/asm/2016-asm.html. Data that are not in 2018 dollars are adjusted using the BLS
+Producer Price Index for Final Demand (https://www.bls.gov/news.release/archives/ppi_04112019.pdf) so that all overhead cost is
+in 2018 dollars.
+4
+  The 2017 survey, the most recent, published in November 2018 can be found at
+https://www.census.gov/data/Tables/2017/econ/services/sas-naics.html. Data that are not in 2018 dollars are adjusted using the
+BLS Producer Price Index for Final Demand (https://www.bls.gov/news.release/archives/ppi_04112019.pdf) so that all overhead
+cost is in 2018 dollars.
+5
+  For NAICS 52, 3-digit NAICS codes 521, 522, 523, and 524 are used instead of the 2-digit NAICS codes because a
+separate SAS survey is used to collect data for NAICS 524, insurance carriers and related activities, than is used for the
+other 3-digit NAICS codes within NAICS 52. For NAICS 62, family practitioners and registered nurses, 4-digit NAICS
+codes are used because most of the occupation’s employment is in this industry and the detailed industries gave a more
+accurate representation of the overhead costs.
+                                                               2
+     Lease and rental payments for land, buildings, structures,
+                                                                                               $12,277
+     store spaces, and offices
+     Purchased repairs and maintenance to machinery and
+                                                                                                 $1,493
+     equipment
+     Purchased repairs and maintenance to buildings,
+                                                                                                 $1,395
+     structures, and offices
+      Purchased advertising and promotional services                                  $15,435
+      Depreciation and amortization charges                                           $19,244
+      Governmental taxes and license fees                                             $25,987
+      Operating interest expense                                                      $11,423
+      Data processing and other purchased computer services                            $5,426
+      Purchased communication services                                                 $3,698
+      Water, sewer, refuse removal, and other utility payments                           $235
+      Purchased professional and technical services                                   $30,579
+      All other operating expenses                                                  $267,709
+    Note: The cost items within the shaded section are considered overhead, while the cost items outside the
+    shaded section are considered direct costs.
+
+
+    Overhead Cost Methodology
+    While the approach in Table 1 provides an estimate for total overhead cost by industry, OPR estimates
+    costs in its Regulatory Impact Analysis (RIA) and Paper Reduction Act (PRA) burden calculations by
+    occupation, which requires overhead costs to be assigned across occupations. To estimate overhead cost
+    on an occupational basis, OPR allocates total industry overhead cost to unique occupations using a
+    matrix of detailed occupational employment for each NAICS industry. 6 This matrix reports total
+    industry employment as well as the percentage of total employment for each occupation within the
+    industry. The overhead cost corresponding to each 2-digit NAICS code is multiplied by the percent of
+    each occupation within that NAICS industry code. The allocated shares of overhead cost for each
+    NAICS code within an occupation is then summed to estimate the yearly total overhead cost for all
+    employees within an occupation.
+
+
+
+
+6
+ The BLS Office of Employment Projections. The 2016 full matrix can be found at https://www.bls.gov/emp/data/occupational-
+data.htm (accessed June 4, 2019).
+                                                             3
+     Table 2 below shows how industry-level overhead costs are converted to occupation-level overhead
+     costs for the actuary occupation. 7
+
+     Table 2. Overhead Costs for the Actuary Occupation
+                                                         Percent of                                        Overhead for
+                                    Employment                                Overhead Cost for
+              Industry                                    Industry                                          Occupation
+                                    (thousands)                               Industry (millions)
+                                                        Employment                                           (millions)
+       Securities,
+       commodity contracts,
+       and other financial                      0.3                     0                    $224,845                    $0
+       investments and
+       related activities
+       Insurance carriers
+                                               16.1                    0.6                   $432,543               $5,595
+       and related activities
+       Professional,
+       scientific, and                          3.9                     0                    $574,672                    $0
+       technical services
+       Management of
+       companies and                            1.6                    0.1                   $391,206                 $391
+       enterprises
+       Administrative and
+       support and waste
+                                                0.1                     0                    $230,432                    $0
+       management and
+       remediation services
+       Healthcare and social
+                                                0.1                     0                    $753,694                    $0
+       assistance
+       Other services
+       (except public                           0.1                     0                    $269,676                    $0
+       administration)
+
+       Total Employment                        22.2
+                                                         Total Overhead Cost for all Employees                      $2,987
+
+
+     The annual total overhead cost for all employees within an occupation is divided by the number of
+     employees in the occupation to generate yearly total overhead cost per employee. Total overhead cost,
+     which is listed in millions, is converted to thousands so that the unit of measure is consistent with
+     employment.
+
+     Hourly Overhead Cost Calculation
+     In Table 2 above, annual overhead cost per employee equals $134,525 ($2,987*1000 ÷ 22.2). To
+
+7
+    For some industries, the employment is low enough to round to zero on a percentage basis for the purposes of these calculations.
+                                                                   4
+    calculate an hourly overhead cost per employee, the annual overhead cost per employee is divided by
+    2,080, the approximate number of work hours in 1 year, to estimate the hourly overhead cost for
+    each employee within an occupation. 8 Applied to the actuaries in Table 2, hourly overhead cost per
+    employee equals $64.68 per hour ($134,525 ÷ 2020 hours).
+
+    Total Hourly Labor Costs
+
+    As stated above, total hourly labor cost is equal to the sum of the hourly total compensation and the
+    hourly overhead cost for an occupation in 2018. In most circumstances, these 2018 values will serve as
+    OPR’s labor cost inputs for regulatory impact analyses until more current data are available. Table 3
+    shows the total hour labor costs for the occupations that OPR uses in its burden calculations for RIA
+    PRA cost estimates.
+
+Table 3. OPR Labor Cost Inputs
+
+
+
+                                                     Wages and
+                         Standard                                                                         Total Labor
+                                         Mean        Salaries as          Total
+                       Occupational                                                                        Cost 2018
+      Occupation                         Hourly     Percentage of      Compensation      Overhead
+                       Classification
+                                         Wage           Total            = (1)/(2)
+                           Code
+                                                    Compensation
+                                                                                                            (3) + (4)
+                                           (1)            (2)                (3)             (4)               (5)
+    Management,
+    business, and
+    financial
+    Financial
+                       11-3031           $70.59          68.40            $103.20          $62.43           $165.63
+    Managers
+    Professional
+    and related
+    Family and
+    General            29-1062           $101.82         68.40            $148.86          $21.10           $169.96
+    Practitioners
+    Computer
+                       15-1131           $43.07          68.40             $62.97          $47.37           $110.34
+    Programmers
+    Computer
+    Systems            15-1121           $45.01          68.40             $65.80          $52.83           $118.63
+    Analysts
+    Lawyers            23-1011           $69.34          68.40            $101.37          $37.04           $138.41
+    Compensation
+    and Benefits       11-3111           $63.86          68.40             $93.36          $40.85           $134.21
+    Manager
+
+
+8
+ 2,080 hours assumes that an employee works 40 hours per week for 52 weeks per year. As this may overstate average employee
+hours, actual overhead costs may be greater than our estimate.
+                                                             5
+Compensation,
+benefits, and job
+                    13-1141   $32.65   68.40   $47.73   $45.47    $93.20
+analysis
+specialists
+Accountants
+                    13-2011   $37.89   68.40   $55.39   $45.35    $100.74
+and Auditors
+Actuaries           15-2011   $55.89   68.40   $81.71   $64.68    $146.39
+Personal
+Financial           13-2052   $58.54   68.40   $85.58   $109.19   $194.77
+Advisors
+Human
+Resource            13-1071   $32.11   68.40   $46.94   $35.22    $82.16
+Specialist
+Paraprofessional
+Paralegals and
+                    23-2011   $26.20   68.40   $38.30   $34.12    $72.42
+Legal Assistants
+Registered
+nurses
+Licensed
+Practical and
+Licensed            29-2061   $22.62   65.60   $34.48   $15.76    $50.24
+Vocational
+Nurses
+
+Office and
+administrative
+support
+Secretaries,
+Except Legal,
+                    43-6014   $18.28   67.20   $27.20   $27.94    $55.14
+Medical, and
+Executive
+
+Receptionists
+and Information     43-4171   $14.59   67.20   $21.71   $23.93    $45.64
+Clerks
+
+Mail Clerks and
+Mail Machine
+Operators,          43-9051   $15.41   67.20   $22.93   $41.18    $64.11
+Except Postal
+Service
+
+Medical
+                    43-6013   $17.83   67.20   $26.53   $18.06    $44.59
+Secretaries
+
+
+
+                                          6
+

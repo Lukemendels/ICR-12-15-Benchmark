@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202401-3235-005",
+  "retrieved_at": "2026-09-09T11:02:22.005415+00:00",
+  "documents": [
+    {
+      "title": "SUPPORTING STATEMENT.pdf",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=138749001",
+      "path": "icrs/202401-3235-005/raw/supporting-statement-a-1.pdf",
+      "sha256": "acbafb93d73d0c18a67d35e94b908329d612fccd4b905db168fc6b0c3287a9f1",
+      "text_chars": 64231
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202401-3235-005",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202401-3235-005",
+  "agency": "SEC",
+  "title": "Form PF and Rule 204(b)-1",
+  "omb_control_number": "3235-0679",
+  "submission_date": "01/11/2024",
+  "record_source_id": "SRC-0107",
+  "supporting_statement_source_ids": [
+    "SRC-0108"
+  ]
+}

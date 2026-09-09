@@ -1,0 +1,150 @@
+{
+  "icr_id": "202501-1210-006",
+  "omb_control_number": "1210-0091",
+  "agency": "DOL/EBSA",
+  "title": "Settlement Agreements Between a Plan and a Party in Interest",
+  "submission_date": "04/14/2025",
+  "archetype": "employee benefit settlement exemption notices",
+  "complexity": "low",
+  "tsa_relevance": "adjacent",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 4,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0086",
+    "SRC-0085"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 19,
+    "provenance": 11,
+    "segmentation": 12,
+    "labor": 7,
+    "item13": 9,
+    "item14": 9,
+    "item15": 7,
+    "validation": 4,
+    "consistency": 4
+  },
+  "score_rationale": {
+    "reproducibility": "Small model exposes plans, participants, preparation and mailing time; display rounds total hours.",
+    "provenance": "Investigation counts 2019–2024, postage and agency labor methodology cited; electronic shares inherited.",
+    "segmentation": "Preparation and paper distribution separated proportionately.",
+    "labor": "Accountant/clerk costs linked to EBSA common methodology; current rate derivation not reproduced locally.",
+    "item13": "Mail volume, page price and postage are explicit; zero capital follows existing settlement process.",
+    "item14": "Explains no additional government cost within an existing settlement process.",
+    "item15": "Old/new totals and drivers supplied; no isolated decomposition for electronic delivery versus population.",
+    "validation": "13 observed investigations over six years support conservative rounding from 2.2 to 3 plans.",
+    "consistency": "Formula label omits postage factor but numerical cost includes it; rounded hours explain apparent discrepancy."
+  },
+  "thoroughness": "moderate",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Accountant preparation",
+        3,
+        1,
+        3
+      ],
+      [
+        "Clerk preparation",
+        3,
+        0.5,
+        1.5
+      ],
+      [
+        "Paper distribution",
+        22,
+        0.03333333333333333,
+        0.7333333333
+      ]
+    ],
+    "labor": {
+      "accountant_rate": 118.93,
+      "clerk_rate": 69.41,
+      "reported_cost": 512,
+      "method_reference": "EBSA June 2019 labor-cost methodology"
+    },
+    "item13": {
+      "paper_responses": 22,
+      "postage": 0.73,
+      "page_cost": 0.05,
+      "pages": 1,
+      "annual_cost": 17.16
+    },
+    "item14": {
+      "annual_cost": 0,
+      "rationale": "Existing investigation and settlement process; no additional federal collection cost"
+    },
+    "item15": {
+      "response_delta": -243,
+      "hours_delta": -11,
+      "nonlabor_delta": -197,
+      "reason": "Population, wages, postage and electronic-delivery share updates"
+    },
+    "assumptions": [
+      "3 plans * 189 participants = 567 notices.",
+      "Electronic delivery 96.1% combines 58.3% and 37.8% under separate safe-harbor assumptions.",
+      "13 investigations over six years rounded upward to 3 annually."
+    ]
+  },
+  "reconstruction_issues": [
+    "Item 13 table formula label omits the postage term although the calculated value includes it.",
+    "Electronic-delivery shares require mutually exclusive population definitions before being added."
+  ],
+  "methods_worth_testing": [
+    "A small collection can be highly reconstructable with a compact, empirically supported model.",
+    "Document conservative rounding separately from measured administrative counts."
+  ],
+  "checks": [
+    {
+      "label": "Notices",
+      "formula": "3*189",
+      "calculated": 567,
+      "reported": 567,
+      "difference": 0,
+      "unit": "responses",
+      "interpretation": "Exact",
+      "source_id": "SRC-0086"
+    },
+    {
+      "label": "Hours",
+      "formula": "3+3*.5+22*2/60",
+      "calculated": 5.233333333333333,
+      "reported": 5,
+      "difference": 0.2333333333333334,
+      "unit": "hours",
+      "interpretation": "Displayed whole-hour rounding",
+      "source_id": "SRC-0086"
+    },
+    {
+      "label": "Labor",
+      "formula": "3*118.93+(3*.5+22*2/60)*69.41",
+      "calculated": 511.8056666666667,
+      "reported": 512,
+      "difference": -0.19433333333330438,
+      "unit": "USD",
+      "interpretation": "Rounding",
+      "source_id": "SRC-0086"
+    },
+    {
+      "label": "Mail",
+      "formula": "22*(.73+.05)",
+      "calculated": 17.16,
+      "reported": 17.16,
+      "difference": 0.0,
+      "unit": "USD",
+      "interpretation": "Exact",
+      "source_id": "SRC-0086"
+    }
+  ],
+  "total_score": 82,
+  "table_evidence_path": "icrs/202501-1210-006/table-evidence.json",
+  "extraction_scope": "Analytical model and key checks in this record; all DOCX table cells preserved separately. PDF tables remain in page-preserving text. Peripheral rows require normalization before final software reuse."
+}

@@ -11,5 +11,13 @@
     }
   ],
   "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202603-1210-004",
-  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202603-1210-004"
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202603-1210-004",
+  "agency": "DOL/EBSA",
+  "title": "Employee Benefit Plan Claims Procedure Under the Employee Retirement Income Security Act",
+  "omb_control_number": "1210-0053",
+  "submission_date": "04/03/2026",
+  "record_source_id": "SRC-0095",
+  "supporting_statement_source_ids": [
+    "SRC-0096"
+  ]
 }

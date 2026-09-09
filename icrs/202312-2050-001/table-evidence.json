@@ -1,0 +1,606 @@
+{
+  "status": "Parsed source cells; not automatically normalized model inputs",
+  "tables": [
+    {
+      "source_file": "icrs/202312-2050-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "This proposed rule potentially affects persons that manufacture, process, distribute in commerce, use, or dispose of PCBs. Potentially affected entities may include, but are not limited to:",
+      "rows": [
+        {
+          "text_line": 57,
+          "cells": [
+            "NAICS Code \u00a0",
+            "Primary NAICS Description \u00a0"
+          ]
+        },
+        {
+          "text_line": 58,
+          "cells": [
+            "22\u00a0",
+            "Utilities: Electric power and light companies, natural gas companies.\u00a0"
+          ]
+        },
+        {
+          "text_line": 59,
+          "cells": [
+            "31-33\u00a0",
+            "Manufacturers: Chemical manufacturers,\u00a0 electroindustry \u00a0manufacturers, end-users of electricity, general contractors.\u00a0"
+          ]
+        },
+        {
+          "text_line": 60,
+          "cells": [
+            "48-49\u00a0",
+            "Transportation and Warehousing: Various modes of transportation including air, rail, water, ground, and pipeline.\u00a0"
+          ]
+        },
+        {
+          "text_line": 61,
+          "cells": [
+            "53\u00a0",
+            "Real Estate: People who rent, lease, or sell commercial property.\u00a0"
+          ]
+        },
+        {
+          "text_line": 62,
+          "cells": [
+            "54\u00a0",
+            "Professional, Scientific, and Technical Services: Testing laboratories, environmental consulting.\u00a0"
+          ]
+        },
+        {
+          "text_line": 63,
+          "cells": [
+            "92\u00a0",
+            "Public Administration: Federal, State, and local agencies.\u00a0"
+          ]
+        },
+        {
+          "text_line": 64,
+          "cells": [
+            "562\u00a0",
+            "Waste Management and Remediation Services: PCB waste handlers (e.g., storage facilities, landfills, incinerators), waste treatment and disposal, remediation services, material recovery facilities, waste transporters.\u00a0"
+          ]
+        },
+        {
+          "text_line": 65,
+          "cells": [
+            "811\u00a0",
+            "Repair and Maintenance: Repair and maintenance of appliances, machinery, and equipment.\u00a0"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202312-2050-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "The total O&M cost is $1,750.",
+      "rows": [
+        {
+          "text_line": 163,
+          "cells": [
+            "Category",
+            "Cost per respondent",
+            "# of Respondents",
+            "Total Cost"
+          ]
+        },
+        {
+          "text_line": 164,
+          "cells": [
+            "Notifications",
+            "$3.96",
+            "430",
+            "$1,702.80"
+          ]
+        },
+        {
+          "text_line": 165,
+          "cells": [
+            "Waiver Request",
+            "$3.96",
+            "12",
+            "$47.52"
+          ]
+        },
+        {
+          "text_line": 166,
+          "cells": [
+            "Total",
+            "$1,750.32"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202312-2050-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "THE PROPOSED RULE",
+      "rows": [
+        {
+          "text_line": 175,
+          "cells": [
+            "Type of Respondent",
+            "Number of Facilities*"
+          ]
+        },
+        {
+          "text_line": 176,
+          "cells": [
+            "Responsible parties using \u00a7\u00a0761.61(b)(1) performance-based cleanup",
+            "430"
+          ]
+        },
+        {
+          "text_line": 177,
+          "cells": [
+            "Responsible parties using \u00a7\u00a0761.66 waivers in emergency situations",
+            "12"
+          ]
+        },
+        {
+          "text_line": 178,
+          "cells": [
+            "Commercial storers and disposers submitting annual reports",
+            "124"
+          ]
+        },
+        {
+          "text_line": 179,
+          "cells": [
+            "Entities submitting Notification of PCB Activity forms",
+            "100"
+          ]
+        },
+        {
+          "text_line": 180,
+          "cells": [
+            "Reading the Rule",
+            "1,085"
+          ]
+        },
+        {
+          "text_line": 181,
+          "cells": [
+            "Total ",
+            "1,085"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202312-2050-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 2- Estimated Annual Respondent Burden and Costs Table 2 - Estimated Annual Respondent Burden and Costs",
+      "rows": [
+        {
+          "text_line": 239,
+          "cells": [
+            "Hours and Costs per Respondent",
+            "Total Hours and Costs",
+            "Estimated Burden Changes Under OCN 2070-0112"
+          ]
+        },
+        {
+          "text_line": 240,
+          "cells": [
+            "INFORMATION ACTIVITY",
+            "Mgr. $102/ Hr",
+            "Tech. $49/ Hr",
+            "Cler . $38/ Hr",
+            "Resp. Hours",
+            "Labor Cost",
+            "O & M Cost",
+            "Number  of Resp",
+            "Total  Hrs / Yr",
+            "Total Cost/ Yr",
+            "Existing Burden (Hours)",
+            "Burden Change (Hours)"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202312-2050-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "RESPONDENTS (Total for all aspects of the proposed rule)",
+      "rows": [
+        {
+          "text_line": 242,
+          "cells": [
+            "Reading the Rule",
+            "0.33",
+            "0.83",
+            "0",
+            "1.16",
+            "$74.20 ",
+            "0",
+            "1,085",
+            "1,259",
+            "$80,507 ",
+            "0",
+            "1,259"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202312-2050-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Responsible Parties using \u00a7\u00a0761.61(b)(1) Performance-based Cleanup",
+      "rows": [
+        {
+          "text_line": 244,
+          "cells": [
+            "Post-cleanup Notification ",
+            "1",
+            "3",
+            "0.1",
+            "4.1",
+            "$252.29 ",
+            "$3.96 ",
+            "430",
+            "1,763",
+            "$110,188 ",
+            "0",
+            "1,763"
+          ]
+        },
+        {
+          "text_line": 245,
+          "cells": [
+            "Recordkeeping",
+            "0",
+            "0",
+            "0.1",
+            "0.1",
+            "$3.83 ",
+            "$0.00 ",
+            "430",
+            "43",
+            "$1,647 ",
+            "0",
+            "43"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202312-2050-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Responsible Parties Requesting Waivers in Emergency Situations",
+      "rows": [
+        {
+          "text_line": 247,
+          "cells": [
+            "Waiver Request",
+            "1",
+            "7",
+            "0.1",
+            "8.1",
+            "$447.23 ",
+            "$3.96 ",
+            "12",
+            "97",
+            "$5,414 ",
+            "800",
+            "-703"
+          ]
+        },
+        {
+          "text_line": 248,
+          "cells": [
+            "Recordkeeping",
+            "0",
+            "0",
+            "0.1",
+            "0.1",
+            "$3.83 ",
+            "$0.00 ",
+            "12",
+            "1",
+            "$46 ",
+            "0",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202312-2050-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Commercial Storers and Disposers of PCB Waste",
+      "rows": [
+        {
+          "text_line": 250,
+          "cells": [
+            "Annual Reports: Use of Form and Removal of Manifest Numbers",
+            "38",
+            "0",
+            "2",
+            "40",
+            "$6,136",
+            "0",
+            "124",
+            "4,960",
+            "$760,876",
+            "7,316",
+            "-2,356"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202312-2050-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Commercial Storers, Transporters, Disposers, and most Generators of PCB Waste",
+      "rows": [
+        {
+          "text_line": 252,
+          "cells": [
+            "Notification of PCB Activity forms: Addition of email address",
+            "1.03",
+            "0",
+            "0.5",
+            "1.53",
+            "$205 ",
+            "0",
+            "100",
+            "153",
+            "$20,510 ",
+            "150",
+            "3"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202312-2050-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Commercial Storers, Transporters, Disposers, and generators of PCB Waste",
+      "rows": [
+        {
+          "text_line": 254,
+          "cells": [
+            "Manifest Waste Categories",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "$0 ",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "text_line": 255,
+          "cells": [
+            "Total",
+            "varies",
+            "varies",
+            "varies",
+            "varies",
+            "varies",
+            "varies",
+            "varies",
+            "8,276",
+            "$979,187",
+            "8,266",
+            "10"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202312-2050-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 3 \u2013 Estimated Annual Respondent Burden and Cost Savings and Net Annual Respondent Burden and Costs",
+      "rows": [
+        {
+          "text_line": 262,
+          "cells": [
+            "Activity",
+            "Affected Facilities",
+            "Number of Respondents",
+            "Total Labor Hours",
+            "Total Labor Cost",
+            "Total Capital/ Startup and O&M Cost",
+            "Total Annual Cost"
+          ]
+        },
+        {
+          "text_line": 263,
+          "cells": [
+            "Reading the Rule",
+            "All Respondents",
+            "1,085",
+            "1,259",
+            "$80,507 ",
+            "$0 ",
+            "$80,507"
+          ]
+        },
+        {
+          "text_line": 264,
+          "cells": [
+            "Post-cleanup Notification",
+            "Responsible Parties using \u00a7\u00a0761.61(b)(1) Performance-based Cleanup",
+            "430",
+            "1,763",
+            "$108,487 ",
+            "$1,703 ",
+            "$110,188 "
+          ]
+        },
+        {
+          "text_line": 265,
+          "cells": [
+            "Recordkeeping",
+            "Responsible Parties using \u00a7\u00a0761.61(b)(1) Performance-based Cleanup",
+            "430",
+            "43",
+            "$1,647 ",
+            "$0 ",
+            "$1,647 "
+          ]
+        },
+        {
+          "text_line": 266,
+          "cells": [
+            "Waiver Request",
+            "Responsible Parties Requesting Waivers in Emergency Situations",
+            "12",
+            "97",
+            "$5,367 ",
+            "$48 ",
+            "$5,414 "
+          ]
+        },
+        {
+          "text_line": 267,
+          "cells": [
+            "Recordkeeping",
+            "Responsible Parties Requesting Waivers in Emergency Situations",
+            "12",
+            "1",
+            "$46 ",
+            "$0 ",
+            "$46 "
+          ]
+        },
+        {
+          "text_line": 268,
+          "cells": [
+            "Annual Reports: Use of Form and Removal of Manifest Numbers",
+            "Commercial Storers and Disposers of PCB Waste",
+            "124",
+            "4,960",
+            "$760,876 ",
+            "$0 ",
+            "$760,876 "
+          ]
+        },
+        {
+          "text_line": 269,
+          "cells": [
+            "Notification of PCB Activity forms: Addition of email address",
+            "Commercial Storers, Transporters, Disposers, and most Generators of PCB Waste",
+            "100",
+            "153",
+            "$20,510 ",
+            "$0 ",
+            "$20,510 "
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202312-2050-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 3 \u2013 Estimated Annual Respondent Burden and Cost Savings and Net Annual Respondent Burden and Costs",
+      "rows": [
+        {
+          "text_line": 271,
+          "cells": [
+            "Total Annual Respondent Burden and Cost",
+            "8,276",
+            "$977,438",
+            "$1,751",
+            "$979,187"
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "icrs/202312-2050-001/raw/supporting-statement-a-1.txt",
+      "preceding_text": "Table 4 - Estimated Annual Agency Burden and Costs",
+      "rows": [
+        {
+          "text_line": 275,
+          "cells": [
+            "Hours and Costs per Respondent",
+            "Total Hours and Costs",
+            "Joint Impact w ICR 2070-0112"
+          ]
+        },
+        {
+          "text_line": 276,
+          "cells": [
+            "INFORMATION ACTIVITY",
+            "Mgr. $102/ Hr",
+            "Tech. $49/ Hr",
+            "Cler . $38/ Hr",
+            "Resp. Hours",
+            "Labor Cost",
+            "O & M Cost",
+            "Number  of Resp",
+            "Total Hours/ Yr",
+            "Total Cost/ Yr",
+            "Existing Burden Hours",
+            "Cumulative Burden Hours"
+          ]
+        },
+        {
+          "text_line": 277,
+          "cells": [
+            "Review Post-cleanup Notification ",
+            "0",
+            "1",
+            "0.1",
+            "1.1",
+            "$62.40 ",
+            "$0.00 ",
+            "430",
+            "473",
+            "$26,830 ",
+            "0",
+            "473"
+          ]
+        },
+        {
+          "text_line": 278,
+          "cells": [
+            "Review and Respond to Waiver Request",
+            "1",
+            "5",
+            "0.1",
+            "6.1",
+            "$381.50 ",
+            "$0.00 ",
+            "12",
+            "73.2",
+            "$4,578 ",
+            "0",
+            "73.2"
+          ]
+        },
+        {
+          "text_line": 279,
+          "cells": [
+            "Review Annual Reports",
+            "1.5",
+            "0",
+            "0",
+            "1.5",
+            "$126",
+            "$0.00 ",
+            "124",
+            "186",
+            "$15,591",
+            "240",
+            "-54"
+          ]
+        },
+        {
+          "text_line": 280,
+          "cells": [
+            "Total",
+            "varies",
+            "varies",
+            "varies",
+            "varies",
+            "varies",
+            "$0.00 ",
+            "varies",
+            "732",
+            "$46,998",
+            "240",
+            "492"
+          ]
+        }
+      ]
+    }
+  ]
+}
