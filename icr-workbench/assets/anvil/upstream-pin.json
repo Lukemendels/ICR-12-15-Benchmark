@@ -1,0 +1,10 @@
+{
+  "repository": "Lukemendels/Paperclip-Workbench",
+  "commit": "8f9f0db512873907c6963e327ebd539b8ffb9d66",
+  "files": {
+    "anvil-authoring.js": "ef0c77e108807191437e52e9bee4a86088c0597b6820752ef11ae72d60f313b5",
+    "compiler-core.js": "771c3c777dc18158eee220269099583917d2bb556b70907f9cdac754de412820",
+    "governed-capability.mjs": "cd6e2f710a464b3fef931ff1f776aadb499a6f7c92c9937a9c497b8c14538f21",
+    "paperclip.tool.schema.json": "cfb1e42d8f148951efdbc431b21586f8f6871c61ac6374d965760b51ef60415d"
+  }
+}

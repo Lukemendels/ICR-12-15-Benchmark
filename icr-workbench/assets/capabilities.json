@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0.0",
+  "capabilities": [
+    {
+      "id": "evidence-loading",
+      "interface_version": "1.0.0",
+      "status": "implemented",
+      "source": "assets/foundation/adapter.js",
+      "interface": "loadAdapter({readBytes,listPaths}) -> Promise<immutable base>",
+      "governed_dependency": "icr-evidence-foundation@1.0.0"
+    },
+    {
+      "id": "evidence-querying",
+      "interface_version": "1.0.0",
+      "status": "implemented",
+      "source": "assets/foundation/provider.js",
+      "interface": "query({filters,limit,after}) -> bounded page",
+      "governed_dependency": "icr-evidence-foundation@1.0.0"
+    },
+    {
+      "id": "graph-traversal",
+      "interface_version": "1.0.0",
+      "status": "implemented",
+      "source": "assets/foundation/provider.js",
+      "interface": "neighbors(id,edgeType) -> frozen IDs",
+      "governed_dependency": "icr-evidence-foundation@1.0.0"
+    },
+    {
+      "id": "provenance-resolution",
+      "interface_version": "1.0.0",
+      "status": "implemented",
+      "source": "assets/foundation/provider.js",
+      "interface": "source(id), sourcesFor(record), hydrate(record)",
+      "governed_dependency": "icr-evidence-foundation@1.0.0"
+    },
+    {
+      "id": "overlay-handling",
+      "interface_version": "1.0.0",
+      "status": "implemented",
+      "source": "assets/foundation/stores.js",
+      "interface": "overlay.importJSON/exportJSON/snapshot",
+      "governed_dependency": "icr-evidence-foundation@1.0.0"
+    },
+    {
+      "id": "project-state-persistence",
+      "interface_version": "1.0.0",
+      "status": "implemented",
+      "source": "assets/foundation/stores.js",
+      "interface": "project.importJSON/exportJSON/snapshot; envelope only",
+      "governed_dependency": "icr-evidence-foundation@1.0.0"
+    },
+    {
+      "id": "validation",
+      "interface_version": "1.0.0",
+      "status": "implemented",
+      "source": "assets/foundation/adapter.js",
+      "interface": "frozen consumer validation before exposure",
+      "governed_dependency": "icr-evidence-foundation@1.0.0"
+    },
+    {
+      "id": "a2ui-rendering",
+      "interface_version": null,
+      "status": "reserved",
+      "source": null,
+      "interface": "validated approved-component packet -> safe DOM",
+      "governed_dependency": null
+    },
+    {
+      "id": "icr-model-calculations",
+      "interface_version": null,
+      "status": "reserved",
+      "source": null,
+      "interface": "future typed project scenario -> deterministic results",
+      "governed_dependency": null
+    },
+    {
+      "id": "narrative-bindings",
+      "interface_version": null,
+      "status": "reserved",
+      "source": null,
+      "interface": "future results + approved bindings -> draft narrative",
+      "governed_dependency": null
+    },
+    {
+      "id": "dhschat-query-packets",
+      "interface_version": null,
+      "status": "reserved",
+      "source": null,
+      "interface": "future validated query packet -> provider request",
+      "governed_dependency": null
+    },
+    {
+      "id": "data-packets",
+      "interface_version": null,
+      "status": "reserved",
+      "source": null,
+      "interface": "future bounded records + provenance + pin -> export packet",
+      "governed_dependency": null
+    }
+  ]
+}

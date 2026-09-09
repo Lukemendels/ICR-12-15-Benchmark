@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "1.0.0",
+  "id": "icr-workbench",
+  "title": "ICR Workbench",
+  "version": "0.1.0",
+  "source": {
+    "html": "src/index.html",
+    "css": "src/style.css",
+    "javascript": "src/app.js"
+  },
+  "output": "dist/icr-workbench.html",
+  "skill": {
+    "mode": "authored",
+    "path": "skills/icr-workbench.md",
+    "slug": "icr-workbench"
+  },
+  "prompts": [
+    "prompts/foundation-context.md"
+  ],
+  "dependencies": [
+    {
+      "id": "icr-evidence-foundation",
+      "version": "1.0.0",
+      "path": "capabilities/icr-evidence-foundation/1.0.0/capability.json"
+    }
+  ],
+  "stickshiftInstallable": true
+}

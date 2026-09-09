@@ -1,0 +1,13 @@
+{
+  "release_id": "ICR-EVIDENCE-1.0.0",
+  "manifest_sha256": "572e8a414c5867e75a5d24eb4d5e939a475969c92bb1d81b3f183f436b4663a9",
+  "schema_major": 1,
+  "consumer_major": 1,
+  "tsa_graph": "1.0.0",
+  "federal_evidence": "M1-1.0.0",
+  "tsa_evidence": "M3-1.0.0",
+  "canonical_model": "0.5.0",
+  "rubric": "1.0.0",
+  "repository_path": "release/icr-evidence/v1.0.0",
+  "source_commit": "007abaf03e7bd950b2e8133ebd299c9f8b2f89de"
+}
