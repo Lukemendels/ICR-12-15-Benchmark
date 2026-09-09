@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.1.0",
+  "result": "PASS",
+  "errors": [],
+  "scope": "Ontology enums, required record/provenance fields and protocol presence. Populated graph validation is a later gate.",
+  "decisions": [
+    "Preserve committed ontology without rebuilding architecture.",
+    "Unknown shape dimensions remain null with reasons.",
+    "Similarity strength is separate from consistency classification and epistemic status.",
+    "Activity scope and period are mandatory comparison predicates; administrative inventory is not burden evidence.",
+    "Freeze requires source-locator validation, deterministic replay, challenge and extraction coverage; enum checks alone are insufficient."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ref": "202406-1652-001",
+  "retrieved_at": "2026-09-09T17:23:37.420207+00:00",
+  "documents": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202406-1652-001",
+    "path": "mission-3/sources/202406-1652-001/documents.txt",
+    "sha256_raw": "78bbd24f3866a329cc1a4161d44dc92d0f84a729bfcd7a6b7d43334b1bba765f",
+    "sha256_text": "7b2f05a67b04c4a7e663c7803897610b81b2ad11347f4172251c0b952090129e"
+  },
+  "record": {
+    "url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202406-1652-001",
+    "path": "mission-3/sources/202406-1652-001/record.txt",
+    "sha256_raw": "3ff6bd5756138cbc221b0411ff259eb46d64c20553fa345532a7b912327dd17a",
+    "sha256_text": "e244ee47a078ced7e735f1b2733b79dd68a0baabbfb5be92de160c16033d7916"
+  },
+  "previous_ref": "201904-1652-002",
+  "status": "Active",
+  "error": "'dict' object has no attribute 'append'"
+}

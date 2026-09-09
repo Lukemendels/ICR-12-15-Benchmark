@@ -1,0 +1,90 @@
+PART word/document.xml
+
+Explain the circumstances that make the collection of information necessary.  Identify any legal or administrative requirements that necessitate the collection.  Attach a copy of the appropriate section of each statute and regulation mandating or authorizing the collection of information.  (Annotate the CFR parts/sections affected).
+
+Consistent with the requirements in section 1922 of the TSA Modernization Act,  the Transportation Security Administration (TSA) intends to collect Real-Time Wait-Time (RTWT) data voluntarily submitted by airport or aircraft operators.  See Division K of the FAA Reauthorization Act of 2018, Pub. L. 115–254 (132 Stat. 3561; Oct. 5, 2018); codified at 49 USC 44901 note.  TSA will enter into Memorandum of Agreements with airport and aircraft operators to effectuate the sharing of RTWT data, which is collected via RTWT technology solutions deployed by airport or aircraft operators in TSA checkpoint environments.  RTWT data is provided in aggregate and measures the average time that a passenger spends in the checkpoint queue without personally identifiable information.
+
+Indicate how, by whom, and for what purpose the information is to be used.  Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+The purpose of the collection is to allow airport and aircraft operators to provide TSA with real-time insight into the operational tempo of the checkpoint and enable TSA to share the real-time wait-time data publicly via the MyTSA mobile application.  This will allow TSA to quickly mitigate high wait-times by redistributing resources (to the extent possible) across the airport accordingly.  TSA has designed an internal dashboard and Application Programming Interface (API) to ingest and store the RTWT data in 60-second (or less) intervals.  The data will be collected electronically, as determined by agreement with the relevant airport operator or aircraft operator.  The data being collected is aggregated wait-time data across the various screening lane configurations (e.g., TSA PreCheck®, Standard, or any combination of screening types (e.g., Blended)) and will not contain any personally identifiable information.
+
+TSA and individual airport and aircraft operators will use these results to improve the passenger’s experience; reduce the need for TSA officers to collect this data manually – yielding a cost avoidance; enable TSA to quickly respond and mitigate high wait-times; and evaluate opportunities to provide additional resources to frequent hot spots.
+
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection.  Also describe any consideration of using information technology to reduce burden.  [Effective 03/22/01, your response must SPECIFICALLY reference the Government Paperwork Elimination Act (GPEA), which addresses electronic filing and recordkeeping, and what you are doing to adhere to it.  You must explain how you will provide a fully electronic reporting option by October 2003, or an explanation of why this is not practicable.]
+
+In compliance with the Government Paperwork Elimination Act, all information collected will be transmitted electronically.
+
+Usability Study Requirement: The usability study is not feasible for this information collection.  The RTWT data is collected by the airport and aircraft operators on computerized systems, the TSA ingestion process is computerized, and the data is automatically vetted.  There is thus no method to observe personal interaction with the submission of data.  
+
+Describe efforts to identify duplication.  Show specifically why any similar information already available cannot be used or modified for use for the purpose(s) described in Item 2 above.
+
+Although TSA has a manual system to collect similar information, the manual data collection is less accurate and less timely because it is reliant on manual accuracy and limited to once each hour instead of the continuous automated system.  RTWT automated information is not collected from any other source and would not otherwise be collected or available.
+
+If the collection of information has a significant impact on a substantial number of small businesses or other small entities (Item 5 of the Paperwork Reduction Act submission form), describe the methods used to minimize burden.
+
+This collection does not have a significant impact on a substantial number of small businesses.
+
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+
+If the collection of information is not conducted, TSA will not be able to fully comply with the TSA Modernization Act to address RTWT, and TSA will not be able to improve sharing more accurate and timely wait time data to improve operations within a resource-constrained environment.
+
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with the general information collection guidelines in 5 CFR 1320.5(d)(2).
+
+The report of information to the agency will be collected in a manner different than the general information collection guidelines in 5 CFR 1320.5(d)(2)(ii)).  TSA will collect information to ascertain RTWT continuously.  The TSA system will electronically ingest wait-time data from airport and aircraft operators in real time (within 60-second increments).
+
+Describe efforts to consult persons outside the agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported.  If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the agency's notice, required by 5 CFR 1320.8(d) soliciting comments on the information collection prior to submission to OMB.  Summarize public comments received in response to that notice and describe actions taken by the agency in response to these comments.  Specifically address comments received on cost and hour burden.
+
+As required by 5 CFR 1320.8(d), TSA published a 60-day notice soliciting comments in the Federal Register on March 6, 2026 (91 FR 11084), and a 30-day notice on June 11, 2026 (91 FR 35536).  No comments were submitted to TSA in response to the notices.
+
+
+Explain any decision to provide any payment or gift to respondents, other than remuneration of contractors or grantees.
+
+TSA does not provide any gifts or payments to respondents.
+
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or agency policy.
+
+For this information collection, TSA does not collect any personally identifiable information from the public.  The aggregated automated system is reporting the average time it takes for passengers to move through security at the TSA checkpoint.  As such, there are no privacy implications for this collection.
+
+Provide additional justification for any questions of sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private.
+
+TSA does not ask questions of a sensitive nature.
+
+Provide estimates of hour and cost burdens of the collection of information.
+
+The information under this collection will be obtained electronically from airport or aircraft operators.  Therefore, there is no hour time burden estimated for this collection.
+
+Provide an estimate of the total annual cost burden to respondents or recordkeepers resulting from the collection of information.
+
+TSA estimates an average of 435 potential respondents per year based on the number of federalized airports.  However, TSA also estimates that 80 percent of airports use RTWT technology.  This results in an annual average of 348 respondents (435 federal airports x 80% RTWT usage).
+
+The collection involves RTWT solutions owned, managed, and operated by airport or aircraft operators deployed in TSA checkpoint environments.   RTWT data will be collected electronically, as determined by agreement with the relevant airport or aircraft operator, and ingested by TSA in 60-second (or less) intervals.  As respondent airports and/or aircraft operators already own and operate RTWT technology, outside of this collection, TSA assumes the additional cost to share this information with TSA will be negligible.
+ 
+Provide estimates of annualized cost to the Federal Government.  Also, provide a description of the method used to estimate cost, and other expenses that would not have been incurred without this collection of information.
+
+TSA estimates a onetime cost to build the intake system of $5,178.40 (40 hours x $129.46 Software Engineer cost).  In addition, TSA estimates it will spend an average of about $0.05 per year per airport on RTWT data storage.  This value is based on an estimated five megabytes of data per checkpoint per week.  This results in an annual data storage cost across federal airports providing RTWT data of $18.29 ($0.05 × 348 airports).  Ongoing maintenance costs are part of a larger effort and existing contracts with negligible cost impacts.
+
+TSA’s MyTSA application is an existing tool that covers a number of topics beyond wait times (e.g., “Can I Bring” database, and TSA PreCheck Info).  The app currently displays wait times based on historical checkpoint and other information where available.  The collection and use of RTWT data through automated processes will likely reduce costs associated with more manual efforts.  
+
+
+Explain the reasons for any program changes or adjustments reported in Items 13 or 14 of the OMB Form 83-I.
+
+This is a new collection; thus, no changes or adjustments have been reported.
+
+For collections of information whose results will be published, outline plans for tabulation and publication.  Address any complex analytical techniques that will be used.  Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+
+TSA will not publish results of this collection.
+
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+
+TSA is not seeking such approval.
+
+Explain each exception to the certification statement identified in Item 19, “Certification for Paperwork Reduction Act Submissions,” of OMB Form 83-I.
+
+TSA is not seeking any exceptions to the certification statement.
+PART word/footnotes.xml
+
+
+ …the Administrator shall make available to the public information on wait times at each airport security checkpoint at which security screening operations are conducted or overseen by the TSA.
+ An airport and/or an aircraft operator may own and operate the RTWT technology, but the number of responses will be based on the number of federal airports. 
+ GSA Software Engineer fully-loaded hourly ceiling rate of $129.46 (accessed April 22, 2026).  https://buy.gsa.gov/pricing/qr/mas?query_by=labor_category&q=Systems/Sofware%20Engineer&page=1&page_size=20&histogram=12&experience_range=0,45&price_range=15,500&ordering=current_price&acceptsDataDisclosure=true&sort=asc&labor_category=Systems%2FSofware%20Engineer
+ TSA does not include specific cost estimates as costs associated with the MyTSA app are acquisition sensitive.  

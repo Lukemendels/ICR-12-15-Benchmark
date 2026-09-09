@@ -1,5 +1,5 @@
 {
-  "MISSION_STATUS": "TSA_INVENTORY_COMPLETE",
+  "MISSION_STATUS": "SCHEMA_VALIDATED_EXTRACTION_IN_PROGRESS",
   "evidence_version": "M3-0.1.0",
   "graph_version": "0.1.0",
   "base_commit": "d041cde75fe33b0bf9dec29c7cc6ae7309ca8a69",
@@ -12,9 +12,10 @@
     "Read authoritative state, handoff, methods, TSA extractions and validation",
     "Verified available local files against GitHub blob identities",
     "Reconstructed 900 durable blobs and verified Git SHA-1 identities; discarded uncommitted prior analysis",
-    "Fresh recent/active/pending official searches reconciled; 48 assigned TSA control histories retrieved; five unassigned-control ICR proposals retained separately"
+    "Fresh recent/active/pending official searches reconciled; 48 assigned TSA control histories retrieved; five unassigned-control ICR proposals retained separately",
+    "Committed schema/taxonomy reviewed and structurally validated; original ontology retained"
   ],
-  "next": "Validate schema/taxonomy; finish fresh statement retrieval and select immediate preceding usable versions",
+  "next": "First substantive TSA extraction batch: security-program controls; all-source retrieval running",
   "freeze_gates": {
     "portfolio": true,
     "current_recent_coverage": false,
