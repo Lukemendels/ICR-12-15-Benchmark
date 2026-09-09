@@ -1,0 +1,2351 @@
+{
+  "comparisons": [
+    {
+      "id": "CMP-01",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202406-1652-001",
+        "202411-1652-003",
+        "202402-1652-002"
+      ],
+      "title": "Industry-requested carrier and cargo amendments"
+    },
+    {
+      "id": "CMP-02",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202304-1652-002",
+        "202504-1652-004"
+      ],
+      "title": "Surface training amendments across modes and transfer"
+    },
+    {
+      "id": "CMP-03",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202304-1652-002"
+      ],
+      "title": "Training record entry across surface modes"
+    },
+    {
+      "id": "CMP-04",
+      "classification": "UNRESOLVED",
+      "refs": [
+        "202412-1652-001",
+        "202406-1652-001"
+      ],
+      "title": "Airport and carrier-requested amendments"
+    },
+    {
+      "id": "CMP-05",
+      "classification": "UNRESOLVED",
+      "refs": [
+        "202606-1652-001",
+        "202504-1652-005"
+      ],
+      "title": "Coordinator contact updates across surface and pipeline collections"
+    },
+    {
+      "id": "CMP-06",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202601-1652-004",
+        "202512-1652-001"
+      ],
+      "title": "Pipeline compensation loading with aligned source vintage"
+    },
+    {
+      "id": "CMP-07",
+      "classification": "DIFFERENT_EXPLAINED",
+      "refs": [
+        "202412-1652-001",
+        "202406-1652-001"
+      ],
+      "title": "Loading variation by employee universe and source vintage"
+    },
+    {
+      "id": "CMP-08",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202605-1652-001",
+        "202606-1652-003"
+      ],
+      "title": "Medical applicant wage and waiting-time conventions"
+    },
+    {
+      "id": "CMP-09",
+      "classification": "UNRESOLVED",
+      "refs": [
+        "202605-1652-001",
+        "202606-1652-003"
+      ],
+      "title": "Medical applicant travel assumptions"
+    },
+    {
+      "id": "CMP-10",
+      "classification": "UNRESOLVED",
+      "refs": [
+        "202504-1652-008",
+        "202606-1652-002",
+        "202605-1652-002"
+      ],
+      "title": "Online credential renewal times"
+    },
+    {
+      "id": "CMP-11",
+      "classification": "DIFFERENT_EXPLAINED",
+      "refs": [
+        "202504-1652-006"
+      ],
+      "title": "Federal and contractor comment processing"
+    },
+    {
+      "id": "CMP-12",
+      "classification": "DIFFERENT_EXPLAINED",
+      "refs": [
+        "202411-1652-006"
+      ],
+      "title": "FFDO interview burden removed"
+    },
+    {
+      "id": "CMP-13",
+      "classification": "DIFFERENT_EXPLAINED",
+      "refs": [
+        "202509-1652-001",
+        "202206-1652-001"
+      ],
+      "title": "LEO checkpoint login duration change"
+    },
+    {
+      "id": "CMP-14",
+      "classification": "UNRESOLVED",
+      "refs": [
+        "202402-1652-002",
+        "202411-1652-003"
+      ],
+      "title": "Federal amendment-review bundles"
+    },
+    {
+      "id": "CMP-15",
+      "classification": "DIFFERENT_EXPLAINED",
+      "refs": [
+        "202606-1652-003"
+      ],
+      "title": "Medical examination payer change"
+    },
+    {
+      "id": "CMP-16",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202207-1652-001",
+        "202210-1652-001",
+        "202212-1652-001",
+        "202303-1652-001",
+        "202512-1652-001"
+      ],
+      "title": "Federal cybersecurity plan review staffing"
+    },
+    {
+      "id": "CMP-17",
+      "classification": "NOT_COMPARABLE",
+      "refs": [
+        "202405-1652-002",
+        "202512-1652-001"
+      ],
+      "title": "Manager title alone does not define comparable review"
+    },
+    {
+      "id": "CMP-18",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202606-1652-002",
+        "202504-1652-008"
+      ],
+      "title": "Credential fees and Federal resource-cost boundary"
+    },
+    {
+      "id": "CMP-19",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202112-1652-002",
+        "202501-1652-002"
+      ],
+      "title": "Maryland Three familiarization across renewal"
+    },
+    {
+      "id": "CMP-20",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202403-1652-002",
+        "202409-1652-001"
+      ],
+      "title": "Proposed COIP legal review across submissions"
+    },
+    {
+      "id": "CMP-21",
+      "classification": "UNRESOLVED",
+      "refs": [
+        "202504-1652-005",
+        "202606-1652-001"
+      ],
+      "title": "Coordinator turnover models have different denominators"
+    },
+    {
+      "id": "CMP-22",
+      "classification": "DIFFERENT_EXPLAINED",
+      "refs": [
+        "202409-1652-003"
+      ],
+      "title": "mDL initial and insufficient-application resubmission"
+    },
+    {
+      "id": "CMP-23",
+      "classification": "NOT_COMPARABLE",
+      "refs": [
+        "202304-1652-002",
+        "202402-1652-001"
+      ],
+      "title": "Annual recordkeeping is not per-record entry"
+    },
+    {
+      "id": "CMP-24",
+      "classification": "DIFFERENT_EXPLAINED",
+      "refs": [
+        "202502-1652-003",
+        "202511-1652-001"
+      ],
+      "title": "TRIP form time revised using user experience"
+    },
+    {
+      "id": "CMP-25",
+      "classification": "DIFFERENT_EXPLAINED",
+      "refs": [
+        "202411-1652-008"
+      ],
+      "title": "SSI bidder CHRC pathway includes additional activities"
+    },
+    {
+      "id": "CMP-26",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202203-1652-006",
+        "202507-1652-001"
+      ],
+      "title": "LEOSA rejection review request across renewals"
+    },
+    {
+      "id": "CMP-27",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202109-1652-008",
+        "202504-1652-005"
+      ],
+      "title": "Pipeline physical incident reporting across renewals"
+    },
+    {
+      "id": "CMP-28",
+      "classification": "NOT_COMPARABLE",
+      "refs": [
+        "202411-1652-001",
+        "202411-1652-006"
+      ],
+      "title": "Federal processing versus eligibility verification"
+    },
+    {
+      "id": "CMP-29",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202205-1652-002",
+        "202503-1652-002"
+      ],
+      "title": "DASSP operator application continuity"
+    },
+    {
+      "id": "CMP-30",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202202-1652-001",
+        "202411-1652-007"
+      ],
+      "title": "Claim filing continuity"
+    },
+    {
+      "id": "CMP-31",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202301-1652-003",
+        "202508-1652-001"
+      ],
+      "title": "Secure Flight identity-data transmission across carrier classes"
+    },
+    {
+      "id": "CMP-32",
+      "classification": "CONSISTENT",
+      "refs": [
+        "202303-1652-002",
+        "202601-1652-003"
+      ],
+      "title": "Canine adoption application continuity"
+    }
+  ],
+  "findings": [
+    {
+      "id": "FIND-HME",
+      "classification": "POTENTIALLY_INCONSISTENT",
+      "refs": [
+        "202606-1652-002",
+        "202502-1652-005"
+      ],
+      "title": "HME 2026 enrollment-path overlap"
+    },
+    {
+      "id": "FIND-MD3",
+      "classification": "POTENTIALLY_INCONSISTENT",
+      "refs": [
+        "202501-1652-002"
+      ],
+      "title": "Maryland Three pilot cost product"
+    },
+    {
+      "id": "FIND-GENERIC",
+      "classification": "POTENTIALLY_INCONSISTENT",
+      "refs": [
+        "202504-1652-003",
+        "202203-1652-004"
+      ],
+      "title": "Generic-clearance narrative and table conflicts"
+    },
+    {
+      "id": "FIND-EXIS",
+      "classification": "POTENTIALLY_INCONSISTENT",
+      "refs": [
+        "202411-1652-004"
+      ],
+      "title": "EXIS stock-versus-new-user subtraction"
+    },
+    {
+      "id": "FIND-LEO",
+      "classification": "POTENTIALLY_INCONSISTENT",
+      "refs": [
+        "202509-1652-001"
+      ],
+      "title": "Annual Federal cost table contains three-year value"
+    },
+    {
+      "id": "FIND-TURNOVER",
+      "classification": "POTENTIALLY_INCONSISTENT",
+      "refs": [
+        "202606-1652-001"
+      ],
+      "title": "Monthly separation rate used as annual coordinator turnover"
+    },
+    {
+      "id": "FIND-PRECHECK",
+      "classification": "UNRESOLVED",
+      "refs": [
+        "202605-1652-002"
+      ],
+      "title": "PreCheck monetization covers enrollment subtotal"
+    },
+    {
+      "id": "FIND-CYBER-COST",
+      "classification": "POTENTIALLY_INCONSISTENT",
+      "refs": [
+        "202512-1652-001",
+        "202212-1652-001"
+      ],
+      "title": "Cybersecurity Federal plan-review cost does not use displayed wage inputs"
+    }
+  ],
+  "bridge": {
+    "id": "BASELINE-TWIC-2025",
+    "current_ref": "202504-1652-008",
+    "prior_ref": "202502-1652-004",
+    "baseline_identity": "VERIFIED_MATCH_TO_ITEM15_AND_PREDECESSOR",
+    "baseline": 430317,
+    "current": 510471,
+    "unit": "hours",
+    "period": "annualized",
+    "components": [
+      "enrollment/renewal",
+      "replacement",
+      "in-person pickup",
+      "enrollment survey",
+      "appeal",
+      "issuance survey"
+    ],
+    "prior_values": [
+      251503,
+      3819,
+      117410,
+      5852,
+      50446,
+      1287
+    ],
+    "current_values": [
+      405488,
+      5725,
+      38595,
+      677,
+      59943,
+      43
+    ],
+    "component_deltas": [
+      153985,
+      1906,
+      -78815,
+      -5175,
+      9497,
+      -1244
+    ],
+    "net_change": 80154,
+    "residual": 0,
+    "epistemic_status": "CALCULATED",
+    "classification": "CONSISTENT",
+    "provenance": [
+      {
+        "source_id": "M3-SRC-202504-1652-008-ec91651842d62d7c",
+        "document_id": "ec91651842d62d7c",
+        "locator": "mission-3/sources/202504-1652-008/ec91651842d62d7c.txt:L241",
+        "original": "Year | Total Enrollments and Renewals Time Burden | Total Replacement Card Time Burden | Total Time Burden to Pick Up Card in Person | Total Customer Enrollment Process Satisfaction Survey Time Burden | Total Appeal Time Burden | Total Card Issuance Process Satisfaction Survey Time Burden | Total Time Burden (in hours)",
+        "extraction_method": "Reviewed complete source paragraph/table line",
+        "transformation": "Source retained verbatim; comparison inference separately labeled",
+        "status": "PUBLISHED"
+      },
+      {
+        "source_id": "M3-SRC-202504-1652-008-ec91651842d62d7c",
+        "document_id": "ec91651842d62d7c",
+        "locator": "mission-3/sources/202504-1652-008/ec91651842d62d7c.txt:L247",
+        "original": "Annualized | 405,488 | 5,725 | 38,595 | 677 | 59,943 | 43 | 510,471",
+        "extraction_method": "Reviewed complete source paragraph/table line",
+        "transformation": "Source retained verbatim; comparison inference separately labeled",
+        "status": "PUBLISHED"
+      },
+      {
+        "source_id": "M3-SRC-202504-1652-008-ec91651842d62d7c",
+        "document_id": "ec91651842d62d7c",
+        "locator": "mission-3/sources/202504-1652-008/ec91651842d62d7c.txt:L377",
+        "original": "Further, the annual time burden increased from 430,317 to 510,471 hours due to an increase in enrollments, renewals, replacement card and appeals.  The burden was also impacted by a decrease in the in-person card pick up, because TSA has increased the mailing of cards to respondents reducing in-person pick up.   ",
+        "extraction_method": "Reviewed complete source paragraph/table line",
+        "transformation": "Source retained verbatim; comparison inference separately labeled",
+        "status": "PUBLISHED"
+      },
+      {
+        "source_id": "M3-SRC-202502-1652-004-4639c859f157e253",
+        "document_id": "4639c859f157e253",
+        "locator": "mission-3/sources/202502-1652-004/4639c859f157e253.txt:L223",
+        "original": "Table 10 below displays the total annual hour burden estimated for the TWIC® program to TWIC® applicants.  The annualized burden is 430,317 hours.",
+        "extraction_method": "Reviewed complete source paragraph/table line",
+        "transformation": "Source retained verbatim; comparison inference separately labeled",
+        "status": "PUBLISHED"
+      },
+      {
+        "source_id": "M3-SRC-202502-1652-004-4639c859f157e253",
+        "document_id": "4639c859f157e253",
+        "locator": "mission-3/sources/202502-1652-004/4639c859f157e253.txt:L227",
+        "original": "Year | Total Enrollments and Renewals Time Burden | Total Replacement Card Time Burden | Total Time Burden to Pick  Up Card in Person | Total Customer Enrollment Process Satisfaction Survey Time Burden | Total Appeal Time Burden | Total Card Issuance Process Satisfaction Survey Time Burden | Total Time Burden (in hours)",
+        "extraction_method": "Reviewed complete source paragraph/table line",
+        "transformation": "Source retained verbatim; comparison inference separately labeled",
+        "status": "PUBLISHED"
+      },
+      {
+        "source_id": "M3-SRC-202502-1652-004-4639c859f157e253",
+        "document_id": "4639c859f157e253",
+        "locator": "mission-3/sources/202502-1652-004/4639c859f157e253.txt:L233",
+        "original": "Annualized | 251,503 | 3,819 | 117,410 | 5,852 | 50,446 | 1,287 | 430,317",
+        "extraction_method": "Reviewed complete source paragraph/table line",
+        "transformation": "Source retained verbatim; comparison inference separately labeled",
+        "status": "PUBLISHED"
+      }
+    ],
+    "limitations": "Fully reconciles the displayed annual component bridge. Does not assign causal contributions to growth, duration, shares, or fees; survey respondent identity differs from applicant-only totals."
+  },
+  "assumption_counts": {
+    "turnover": 3,
+    "purchased_services": 2,
+    "familiarization": 2,
+    "capital_life": 1,
+    "benefit_loading": 10,
+    "pathway_share": 58,
+    "federal_review_time": 12,
+    "recordkeeping": 3,
+    "legal_review": 2,
+    "task_duration": 43,
+    "federal_grade_pay": 10,
+    "fee_treatment": 3,
+    "wage_statistic": 2,
+    "manager_review": 7,
+    "occupational_assignment": 2,
+    "renewal": 2
+  },
+  "comparison_counts": {
+    "CONSISTENT": 15,
+    "UNRESOLVED": 6,
+    "DIFFERENT_EXPLAINED": 8,
+    "NOT_COMPARABLE": 3
+  },
+  "finding_counts": {
+    "POTENTIALLY_INCONSISTENT": 7,
+    "UNRESOLVED": 1
+  },
+  "labels": {
+    "CONSISTENT": "Consistent",
+    "DIFFERENT_EXPLAINED": "Different, explained",
+    "POTENTIALLY_INCONSISTENT": "Potentially inconsistent",
+    "NOT_COMPARABLE": "Not comparable",
+    "UNRESOLVED": "Unresolved"
+  },
+  "inventory": {
+    "202304-1652-001": {
+      "control": "",
+      "agency": "DHS/TSA",
+      "title": "Minimum Standards for Driver’s licenses and Identification Cards Acceptable by Federal Agencies for Official Purposes",
+      "request_type": "New collection (Request for a new OMB Control Number)",
+      "received": "07/10/2024",
+      "concluded": "09/25/2024",
+      "conclusion": "Improperly submitted",
+      "expiration": "",
+      "ic_count": "2",
+      "form_count": "0",
+      "ref": "202304-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202304-1652-001"
+    },
+    "202403-1652-002": {
+      "control": "",
+      "agency": "DHS/TSA",
+      "title": "Enhancing Surface Cyber Risk Management",
+      "request_type": "New collection (Request for a new OMB Control Number)",
+      "received": "04/18/2024",
+      "concluded": "09/10/2024",
+      "conclusion": "Improperly submitted",
+      "expiration": "",
+      "ic_count": "44",
+      "form_count": "0",
+      "ref": "202403-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202403-1652-002"
+    },
+    "202409-1652-003": {
+      "control": "",
+      "agency": "DHS/TSA",
+      "title": "Minimum Standards for Driver’s licenses and Identification Cards Acceptable by Federal Agencies for Official Purposes",
+      "request_type": "New collection (Request for a new OMB Control Number)",
+      "received": "10/25/2024",
+      "concluded": "10/25/2024",
+      "conclusion": "Improperly submitted",
+      "expiration": "",
+      "ic_count": "2",
+      "form_count": "0",
+      "ref": "202409-1652-003",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202409-1652-003"
+    },
+    "202606-1652-004": {
+      "control": "",
+      "agency": "DHS/TSA",
+      "title": "Real-Time Wait-Time Dashboarding",
+      "request_type": "New collection (Request for a new OMB Control Number)",
+      "received": "06/11/2026",
+      "concluded": "",
+      "conclusion": "",
+      "expiration": "",
+      "ic_count": "1",
+      "form_count": "0",
+      "ref": "202606-1652-004",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "pending"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202606-1652-004"
+    },
+    "202606-1652-005": {
+      "control": "",
+      "agency": "DHS/TSA",
+      "title": "Insider Threat Incident Reporting Tool",
+      "request_type": "New collection (Request for a new OMB Control Number)",
+      "received": "07/13/2026",
+      "concluded": "",
+      "conclusion": "",
+      "expiration": "",
+      "ic_count": "1",
+      "form_count": "0",
+      "ref": "202606-1652-005",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "pending"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202606-1652-005"
+    },
+    "202411-1652-002": {
+      "control": "1652-0001",
+      "agency": "DHS/TSA",
+      "title": "Imposition and Collection of Passenger Civil Aviation Security Service Fee (September 11th Security fee)",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "11/26/2024",
+      "concluded": "03/31/2025",
+      "conclusion": "Approved with change",
+      "expiration": "03/31/2028",
+      "ic_count": "2",
+      "form_count": "1",
+      "ref": "202411-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1652-002"
+    },
+    "202412-1652-001": {
+      "control": "1652-0002",
+      "agency": "DHS/TSA",
+      "title": "Airport Security Part 1542",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "03/20/2025",
+      "concluded": "05/22/2025",
+      "conclusion": "Approved with change",
+      "expiration": "05/31/2028",
+      "ic_count": "10",
+      "form_count": "0",
+      "ref": "202412-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202412-1652-001"
+    },
+    "202406-1652-001": {
+      "control": "1652-0003",
+      "agency": "DHS/TSA",
+      "title": "Aircraft Operator Security, 49 CFR Part 1544",
+      "request_type": "Reinstatement without change of a previously approved collection",
+      "received": "06/26/2024",
+      "concluded": "03/31/2025",
+      "conclusion": "Approved with change",
+      "expiration": "03/31/2028",
+      "ic_count": "18",
+      "form_count": "2",
+      "ref": "202406-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202406-1652-001"
+    },
+    "202109-1652-003": {
+      "control": "1652-0005",
+      "agency": "DHS/TSA",
+      "title": "Security Programs for Foreign Air Carriers",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "09/30/2021",
+      "concluded": "03/24/2022",
+      "conclusion": "Approved without change",
+      "expiration": "03/31/2025",
+      "ic_count": "6",
+      "form_count": "0",
+      "ref": "202109-1652-003",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202109-1652-003"
+    },
+    "202411-1652-003": {
+      "control": "1652-0005",
+      "agency": "DHS/TSA",
+      "title": "Security Programs for Foreign Air Carriers",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "12/05/2024",
+      "concluded": "03/31/2025",
+      "conclusion": "Approved with change",
+      "expiration": "03/31/2028",
+      "ic_count": "6",
+      "form_count": "0",
+      "ref": "202411-1652-003",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1652-003"
+    },
+    "202202-1652-002": {
+      "control": "1652-0011",
+      "agency": "DHS/TSA",
+      "title": "Federal Flight Deck Officer (FFDO) Program",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "02/17/2022",
+      "concluded": "03/24/2022",
+      "conclusion": "Approved without change",
+      "expiration": "04/30/2025",
+      "ic_count": "1",
+      "form_count": "0",
+      "ref": "202202-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202202-1652-002"
+    },
+    "202411-1652-006": {
+      "control": "1652-0011",
+      "agency": "DHS/TSA",
+      "title": "Federal Flight Deck Officer (FFDO) Program",
+      "request_type": "Revision of a currently approved collection",
+      "received": "12/06/2024",
+      "concluded": "04/24/2025",
+      "conclusion": "Approved with change",
+      "expiration": "04/30/2028",
+      "ic_count": "1",
+      "form_count": "0",
+      "ref": "202411-1652-006",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1652-006"
+    },
+    "202112-1652-001": {
+      "control": "1652-0013",
+      "agency": "DHS/TSA",
+      "title": "Aviation Security Customer Satisfaction Performance Measurement Passenger Survey",
+      "request_type": "Revision of a currently approved collection",
+      "received": "01/06/2022",
+      "concluded": "11/03/2022",
+      "conclusion": "Approved without change",
+      "expiration": "11/30/2025",
+      "ic_count": "1",
+      "form_count": "0",
+      "ref": "202112-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202112-1652-001"
+    },
+    "202505-1652-001": {
+      "control": "1652-0013",
+      "agency": "DHS/TSA",
+      "title": "Aviation Security Customer Satisfaction Performance Measurement Passenger Survey",
+      "request_type": "Revision of a currently approved collection",
+      "received": "08/15/2025",
+      "concluded": "11/25/2025",
+      "conclusion": "Approved with change",
+      "expiration": "11/30/2028",
+      "ic_count": "1",
+      "form_count": "0",
+      "ref": "202505-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202505-1652-001"
+    },
+    "202111-1652-002": {
+      "control": "1652-0021",
+      "agency": "DHS/TSA",
+      "title": "Flight Training Security Program",
+      "request_type": "Revision of a currently approved collection",
+      "received": "01/21/2022",
+      "concluded": "07/28/2023",
+      "conclusion": "Approved with change",
+      "expiration": "07/31/2026",
+      "ic_count": "5",
+      "form_count": "0",
+      "ref": "202111-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202111-1652-002"
+    },
+    "202402-1652-001": {
+      "control": "1652-0021",
+      "agency": "DHS/TSA",
+      "title": "Flight Training Security Program",
+      "request_type": "Revision of a currently approved collection",
+      "received": "05/10/2024",
+      "concluded": "05/10/2024",
+      "conclusion": "Comment filed on proposed rule and continue",
+      "expiration": "07/31/2026",
+      "ic_count": "2",
+      "form_count": "0",
+      "ref": "202402-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202402-1652-001"
+    },
+    "202405-1652-001": {
+      "control": "1652-0021",
+      "agency": "DHS/TSA",
+      "title": "Flight Training Security Program",
+      "request_type": "Revision of a currently approved collection",
+      "received": "05/14/2024",
+      "concluded": "05/28/2024",
+      "conclusion": "Approved with change",
+      "expiration": "05/31/2027",
+      "ic_count": "6",
+      "form_count": "0",
+      "ref": "202405-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202405-1652-001"
+    },
+    "202112-1652-003": {
+      "control": "1652-0027",
+      "agency": "DHS/TSA",
+      "title": "Security Threat Assessment for Individuals Applying for a Hazardous Materials Endorsement for a Commercial Driver's License",
+      "request_type": "Revision of a currently approved collection",
+      "received": "01/06/2022",
+      "concluded": "08/28/2023",
+      "conclusion": "Approved without change",
+      "expiration": "08/31/2026",
+      "ic_count": "6",
+      "form_count": "0",
+      "ref": "202112-1652-003",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202112-1652-003"
+    },
+    "202502-1652-005": {
+      "control": "1652-0027",
+      "agency": "DHS/TSA",
+      "title": "Security Threat Assessment for Individuals Applying for a Hazardous Materials Endorsement for a Commercial Driver's License",
+      "request_type": "No material or nonsubstantive change to a currently approved collection",
+      "received": "02/27/2025",
+      "concluded": "04/24/2025",
+      "conclusion": "Approved without change",
+      "expiration": "09/30/2026",
+      "ic_count": "6",
+      "form_count": "0",
+      "ref": "202502-1652-005",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202502-1652-005"
+    },
+    "202606-1652-002": {
+      "control": "1652-0027",
+      "agency": "DHS/TSA",
+      "title": "Security Threat Assessment for Individuals Applying for a Hazardous Materials Endorsement for a Commercial Driver's License",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "08/21/2026",
+      "concluded": "",
+      "conclusion": "",
+      "expiration": "09/30/2026",
+      "ic_count": "6",
+      "form_count": "0",
+      "ref": "202606-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "pending"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202606-1652-002"
+    },
+    "202109-1652-004": {
+      "control": "1652-0028",
+      "agency": "DHS/TSA",
+      "title": "Crew Member Self-Defense Training - Registration and Evaluation",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "09/30/2021",
+      "concluded": "11/01/2021",
+      "conclusion": "Approved without change",
+      "expiration": "05/31/2025",
+      "ic_count": "3",
+      "form_count": "5",
+      "ref": "202109-1652-004",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202109-1652-004"
+    },
+    "202405-1652-002": {
+      "control": "1652-0028",
+      "agency": "DHS/TSA",
+      "title": "Crew Member Self-Defense Training - Registration and Evaluation",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "09/13/2024",
+      "concluded": "05/22/2025",
+      "conclusion": "Approved with change",
+      "expiration": "05/31/2028",
+      "ic_count": "3",
+      "form_count": "3",
+      "ref": "202405-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202405-1652-002"
+    },
+    "202112-1652-002": {
+      "control": "1652-0029",
+      "agency": "DHS/TSA",
+      "title": "Maryland-3 Airports: Enhanced Security Procedures at Certain Airports in the Washington, DC Area",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "01/06/2022",
+      "concluded": "07/07/2022",
+      "conclusion": "Approved with change",
+      "expiration": "11/30/2025",
+      "ic_count": "1",
+      "form_count": "1",
+      "ref": "202112-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202112-1652-002"
+    },
+    "202501-1652-002": {
+      "control": "1652-0029",
+      "agency": "DHS/TSA",
+      "title": "Maryland-3 Airports: Enhanced Security Procedures at Certain Airports in the Washington, DC Area",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "05/05/2025",
+      "concluded": "11/25/2025",
+      "conclusion": "Approved with change",
+      "expiration": "11/30/2028",
+      "ic_count": "1",
+      "form_count": "1",
+      "ref": "202501-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202501-1652-002"
+    },
+    "202504-1652-006": {
+      "control": "1652-0030",
+      "agency": "DHS/TSA",
+      "title": "TSA Customer Comment Tools",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "06/02/2025",
+      "concluded": "11/25/2025",
+      "conclusion": "Approved with change",
+      "expiration": "11/30/2028",
+      "ic_count": "3",
+      "form_count": "0",
+      "ref": "202504-1652-006",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-1652-006"
+    },
+    "202305-1652-001": {
+      "control": "1652-0032",
+      "agency": "DHS/TSA",
+      "title": "Transportation Security Officer Medical Questionnaire",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "05/02/2023",
+      "concluded": "10/02/2023",
+      "conclusion": "Approved without change",
+      "expiration": "10/31/2026",
+      "ic_count": "1",
+      "form_count": "1",
+      "ref": "202305-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202305-1652-001"
+    },
+    "202606-1652-003": {
+      "control": "1652-0032",
+      "agency": "DHS/TSA",
+      "title": "Transportation Security Officer Medical Questionnaire",
+      "request_type": "Revision of a currently approved collection",
+      "received": "06/09/2026",
+      "concluded": "06/09/2026",
+      "conclusion": "Approved with change",
+      "expiration": "12/31/2026",
+      "ic_count": "2",
+      "form_count": "1",
+      "ref": "202606-1652-003",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202606-1652-003"
+    },
+    "202202-1652-003": {
+      "control": "1652-0033",
+      "agency": "DHS/TSA",
+      "title": "TSA Airspace Waiver Applications",
+      "request_type": "Revision of a currently approved collection",
+      "received": "03/04/2022",
+      "concluded": "12/06/2022",
+      "conclusion": "Approved with change",
+      "expiration": "01/31/2026",
+      "ic_count": "2",
+      "form_count": "0",
+      "ref": "202202-1652-003",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202202-1652-003"
+    },
+    "202505-1652-002": {
+      "control": "1652-0033",
+      "agency": "DHS/TSA",
+      "title": "TSA Airspace Waiver Applications",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "11/26/2025",
+      "concluded": "01/26/2026",
+      "conclusion": "Approved with change",
+      "expiration": "01/31/2029",
+      "ic_count": "2",
+      "form_count": "0",
+      "ref": "202505-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202505-1652-002"
+    },
+    "202411-1652-001": {
+      "control": "1652-0034",
+      "agency": "DHS/TSA",
+      "title": "Law Enforcement Officer (LEO) Flying Armed Training",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "11/26/2024",
+      "concluded": "03/31/2025",
+      "conclusion": "Approved without change",
+      "expiration": "03/31/2028",
+      "ic_count": "1",
+      "form_count": "0",
+      "ref": "202411-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1652-001"
+    },
+    "202205-1652-002": {
+      "control": "1652-0035",
+      "agency": "DHS/TSA",
+      "title": "Enhanced Security Procedures at Ronald Reagan Washington National Airport (DCA)",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "05/24/2022",
+      "concluded": "08/04/2022",
+      "conclusion": "Approved without change",
+      "expiration": "11/30/2025",
+      "ic_count": "2",
+      "form_count": "6",
+      "ref": "202205-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202205-1652-002"
+    },
+    "202503-1652-002": {
+      "control": "1652-0035",
+      "agency": "DHS/TSA",
+      "title": "Enhanced Security Procedures at Ronald Reagan Washington National Airport (DCA)",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "04/23/2025",
+      "concluded": "11/25/2025",
+      "conclusion": "Approved with change",
+      "expiration": "11/30/2028",
+      "ic_count": "2",
+      "form_count": "7",
+      "ref": "202503-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202503-1652-002"
+    },
+    "202202-1652-001": {
+      "control": "1652-0039",
+      "agency": "DHS/TSA",
+      "title": "TSA Claims Application",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "02/17/2022",
+      "concluded": "03/24/2022",
+      "conclusion": "Approved without change",
+      "expiration": "03/31/2025",
+      "ic_count": "2",
+      "form_count": "1",
+      "ref": "202202-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202202-1652-001"
+    },
+    "202411-1652-007": {
+      "control": "1652-0039",
+      "agency": "DHS/TSA",
+      "title": "TSA Claims Application",
+      "request_type": "Revision of a currently approved collection",
+      "received": "12/17/2024",
+      "concluded": "03/27/2025",
+      "conclusion": "Approved without change",
+      "expiration": "03/31/2028",
+      "ic_count": "2",
+      "form_count": "2",
+      "ref": "202411-1652-007",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1652-007"
+    },
+    "202402-1652-002": {
+      "control": "1652-0040",
+      "agency": "DHS/TSA",
+      "title": "Air Cargo Security Requirements",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "03/27/2024",
+      "concluded": "01/17/2025",
+      "conclusion": "Approved with change",
+      "expiration": "01/31/2028",
+      "ic_count": "9",
+      "form_count": "2",
+      "ref": "202402-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202402-1652-002"
+    },
+    "202204-1652-002": {
+      "control": "1652-0041",
+      "agency": "DHS/TSA",
+      "title": "TSA End of Course Level 1 Evaluation – Instructor-Led Classroom Training",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "04/20/2022",
+      "concluded": "08/04/2022",
+      "conclusion": "Approved without change",
+      "expiration": "08/31/2025",
+      "ic_count": "1",
+      "form_count": "1",
+      "ref": "202204-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202204-1652-002"
+    },
+    "202503-1652-004": {
+      "control": "1652-0041",
+      "agency": "DHS/TSA",
+      "title": "TSA End of Course Level 1 Evaluation – Instructor-Led Classroom Training",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "04/23/2025",
+      "concluded": "07/24/2025",
+      "conclusion": "Approved without change",
+      "expiration": "07/31/2028",
+      "ic_count": "1",
+      "form_count": "1",
+      "ref": "202503-1652-004",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202503-1652-004"
+    },
+    "202411-1652-008": {
+      "control": "1652-0042",
+      "agency": "DHS/TSA",
+      "title": "Sensitive Security Information Threat Assesment Application",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "12/17/2024",
+      "concluded": "04/08/2025",
+      "conclusion": "Approved with change",
+      "expiration": "04/30/2028",
+      "ic_count": "6",
+      "form_count": "6",
+      "ref": "202411-1652-008",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1652-008"
+    },
+    "202305-1652-002": {
+      "control": "1652-0043",
+      "agency": "DHS/TSA",
+      "title": "Law Enforcement/Federal Air Marshal Service (OLE/FAMS) Physical and Mental Health Certification",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "05/02/2023",
+      "concluded": "10/02/2023",
+      "conclusion": "Approved without change",
+      "expiration": "10/31/2026",
+      "ic_count": "5",
+      "form_count": "7",
+      "ref": "202305-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202305-1652-002"
+    },
+    "202605-1652-001": {
+      "control": "1652-0043",
+      "agency": "DHS/TSA",
+      "title": "Law Enforcement/Federal Air Marshal Service (OLE/FAMS) Physical and Mental Health Certification",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "09/04/2026",
+      "concluded": "",
+      "conclusion": "",
+      "expiration": "10/31/2026",
+      "ic_count": "4",
+      "form_count": "7",
+      "ref": "202605-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "pending"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202605-1652-001"
+    },
+    "202109-1652-002": {
+      "control": "1652-0044",
+      "agency": "DHS/TSA",
+      "title": "DHS Traveler Redress Inquiry Program (DHS TRIP)",
+      "request_type": "Revision of a currently approved collection",
+      "received": "09/29/2021",
+      "concluded": "01/09/2023",
+      "conclusion": "Approved with change",
+      "expiration": "01/31/2026",
+      "ic_count": "3",
+      "form_count": "1",
+      "ref": "202109-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202109-1652-002"
+    },
+    "202502-1652-003": {
+      "control": "1652-0044",
+      "agency": "DHS/TSA",
+      "title": "DHS Traveler Redress Inquiry Program (DHS TRIP)",
+      "request_type": "No material or nonsubstantive change to a currently approved collection",
+      "received": "02/27/2025",
+      "concluded": "04/24/2025",
+      "conclusion": "Approved with change",
+      "expiration": "06/30/2026",
+      "ic_count": "3",
+      "form_count": "1",
+      "ref": "202502-1652-003",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202502-1652-003"
+    },
+    "202511-1652-001": {
+      "control": "1652-0044",
+      "agency": "DHS/TSA",
+      "title": "DHS Traveler Redress Inquiry Program (DHS TRIP)",
+      "request_type": "Revision of a currently approved collection",
+      "received": "11/26/2025",
+      "concluded": "06/22/2026",
+      "conclusion": "Approved with change",
+      "expiration": "06/30/2029",
+      "ic_count": "3",
+      "form_count": "1",
+      "ref": "202511-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202511-1652-001"
+    },
+    "202301-1652-003": {
+      "control": "1652-0046",
+      "agency": "DHS/TSA",
+      "title": "Secure Flight Program",
+      "request_type": "Revision of a currently approved collection",
+      "received": "01/24/2023",
+      "concluded": "03/02/2023",
+      "conclusion": "Approved without change",
+      "expiration": "03/31/2026",
+      "ic_count": "7",
+      "form_count": "0",
+      "ref": "202301-1652-003",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202301-1652-003"
+    },
+    "202508-1652-001": {
+      "control": "1652-0046",
+      "agency": "DHS/TSA",
+      "title": "Secure Flight Program",
+      "request_type": "Revision of a currently approved collection",
+      "received": "12/11/2025",
+      "concluded": "01/28/2026",
+      "conclusion": "Approved with change",
+      "expiration": "01/31/2029",
+      "ic_count": "8",
+      "form_count": "0",
+      "ref": "202508-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202508-1652-001"
+    },
+    "202502-1652-004": {
+      "control": "1652-0047",
+      "agency": "DHS/TSA",
+      "title": "Transportation Worker Identification Credential",
+      "request_type": "No material or nonsubstantive change to a currently approved collection",
+      "received": "02/27/2025",
+      "concluded": "04/24/2025",
+      "conclusion": "Approved without change",
+      "expiration": "01/31/2026",
+      "ic_count": "9",
+      "form_count": "0",
+      "ref": "202502-1652-004",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202502-1652-004"
+    },
+    "202504-1652-008": {
+      "control": "1652-0047",
+      "agency": "DHS/TSA",
+      "title": "Transportation Worker Identification Credential",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "05/05/2025",
+      "concluded": "01/26/2026",
+      "conclusion": "Approved with change",
+      "expiration": "01/31/2029",
+      "ic_count": "9",
+      "form_count": "0",
+      "ref": "202504-1652-008",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-1652-008"
+    },
+    "202109-1652-007": {
+      "control": "1652-0050",
+      "agency": "DHS/TSA",
+      "title": "Critical Facility Information of the Top 100 Most Critical Pipelines",
+      "request_type": "Revision of a currently approved collection",
+      "received": "10/14/2021",
+      "concluded": "03/30/2023",
+      "conclusion": "Approved with change",
+      "expiration": "03/31/2026",
+      "ic_count": "3",
+      "form_count": "1",
+      "ref": "202109-1652-007",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202109-1652-007"
+    },
+    "202601-1652-004": {
+      "control": "1652-0050",
+      "agency": "DHS/TSA",
+      "title": "Critical Facility Information from the Top 100 Most Critical Pipeline Operators",
+      "request_type": "Reinstatement with change of a previously approved collection",
+      "received": "05/07/2026",
+      "concluded": "",
+      "conclusion": "",
+      "expiration": "03/31/2026",
+      "ic_count": "2",
+      "form_count": "1",
+      "ref": "202601-1652-004",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "pending"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202601-1652-004"
+    },
+    "202203-1652-005": {
+      "control": "1652-0051",
+      "agency": "DHS/TSA",
+      "title": "Rail Transportation Security",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "05/10/2022",
+      "concluded": "10/25/2022",
+      "conclusion": "Approved without change",
+      "expiration": "11/30/2025",
+      "ic_count": "4",
+      "form_count": "0",
+      "ref": "202203-1652-005",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202203-1652-005"
+    },
+    "202504-1652-004": {
+      "control": "1652-0051",
+      "agency": "DHS/TSA",
+      "title": "Physical Surface Transportation Security",
+      "request_type": "Revision of a currently approved collection",
+      "received": "07/02/2025",
+      "concluded": "11/25/2025",
+      "conclusion": "Approved with change",
+      "expiration": "11/30/2028",
+      "ic_count": "7",
+      "form_count": "0",
+      "ref": "202504-1652-004",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-1652-004"
+    },
+    "202408-1652-002": {
+      "control": "1652-0053",
+      "agency": "DHS/TSA",
+      "title": "Certified Cargo Screening Program",
+      "request_type": "Revision of a currently approved collection",
+      "received": "09/06/2024",
+      "concluded": "11/13/2024",
+      "conclusion": "Approved without change",
+      "expiration": "11/30/2027",
+      "ic_count": "9",
+      "form_count": "7",
+      "ref": "202408-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202408-1652-002"
+    },
+    "202109-1652-008": {
+      "control": "1652-0055",
+      "agency": "DHS/TSA",
+      "title": "Pipeline Operator Security Information",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "10/14/2021",
+      "concluded": "08/17/2022",
+      "conclusion": "Approved with change",
+      "expiration": "11/30/2025",
+      "ic_count": "3",
+      "form_count": "0",
+      "ref": "202109-1652-008",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202109-1652-008"
+    },
+    "202504-1652-005": {
+      "control": "1652-0055",
+      "agency": "DHS/TSA",
+      "title": "Pipeline Operator Security Information",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "06/02/2025",
+      "concluded": "11/25/2025",
+      "conclusion": "Approved with change",
+      "expiration": "11/30/2028",
+      "ic_count": "3",
+      "form_count": "0",
+      "ref": "202504-1652-005",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-1652-005"
+    },
+    "202111-1652-001": {
+      "control": "1652-0056",
+      "agency": "DHS/TSA",
+      "title": "Pipeline Corporate Security Review",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "11/16/2021",
+      "concluded": "07/26/2022",
+      "conclusion": "Approved with change",
+      "expiration": "07/31/2023",
+      "ic_count": "5",
+      "form_count": "0",
+      "ref": "202111-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202111-1652-001"
+    },
+    "202207-1652-001": {
+      "control": "1652-0056",
+      "agency": "DHS/TSA",
+      "title": "Pipeline Corporate Security Review",
+      "request_type": "Revision of a currently approved collection",
+      "received": "07/27/2022",
+      "concluded": "07/29/2022",
+      "conclusion": "Approved with change",
+      "expiration": "02/28/2023",
+      "ic_count": "6",
+      "form_count": "0",
+      "ref": "202207-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202207-1652-001"
+    },
+    "202212-1652-001": {
+      "control": "1652-0056",
+      "agency": "DHS/TSA",
+      "title": "Pipeline Corporate Security Reviews and Security Directives",
+      "request_type": "Revision of a currently approved collection",
+      "received": "01/09/2023",
+      "concluded": "02/15/2023",
+      "conclusion": "Approved without change",
+      "expiration": "05/31/2026",
+      "ic_count": "6",
+      "form_count": "0",
+      "ref": "202212-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202212-1652-001"
+    },
+    "202512-1652-001": {
+      "control": "1652-0056",
+      "agency": "DHS/TSA",
+      "title": "Pipeline Corporate Security Reviews and TSA Security Directive Pipeline– 2021–02 Series",
+      "request_type": "Revision of a currently approved collection",
+      "received": "01/02/2026",
+      "concluded": "05/28/2026",
+      "conclusion": "Approved with change",
+      "expiration": "05/31/2029",
+      "ic_count": "6",
+      "form_count": "0",
+      "ref": "202512-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202512-1652-001"
+    },
+    "202411-1652-004": {
+      "control": "1652-0057",
+      "agency": "DHS/TSA",
+      "title": "Exercise Information System",
+      "request_type": "Revision of a currently approved collection",
+      "received": "12/05/2024",
+      "concluded": "03/27/2025",
+      "conclusion": "Approved without change",
+      "expiration": "03/31/2028",
+      "ic_count": "3",
+      "form_count": "0",
+      "ref": "202411-1652-004",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1652-004"
+    },
+    "202203-1652-004": {
+      "control": "1652-0058",
+      "agency": "DHS/TSA",
+      "title": "Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "03/24/2022",
+      "concluded": "09/27/2022",
+      "conclusion": "Approved without change",
+      "expiration": "09/30/2025",
+      "ic_count": "11",
+      "form_count": "0",
+      "ref": "202203-1652-004",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202203-1652-004"
+    },
+    "202504-1652-003": {
+      "control": "1652-0058",
+      "agency": "DHS/TSA",
+      "title": "Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "07/02/2025",
+      "concluded": "08/11/2025",
+      "conclusion": "Approved without change",
+      "expiration": "08/31/2028",
+      "ic_count": "3",
+      "form_count": "1",
+      "ref": "202504-1652-003",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-1652-003"
+    },
+    "202407-1652-001": {
+      "control": "1652-0059",
+      "agency": "DHS/TSA",
+      "title": "TSA Pre-Check Application Program",
+      "request_type": "Revision of a currently approved collection",
+      "received": "09/06/2024",
+      "concluded": "03/31/2025",
+      "conclusion": "Approved with change",
+      "expiration": "03/31/2028",
+      "ic_count": "9",
+      "form_count": "0",
+      "ref": "202407-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202407-1652-001"
+    },
+    "202605-1652-002": {
+      "control": "1652-0059",
+      "agency": "DHS/TSA",
+      "title": "TSA Pre-Check Application Program",
+      "request_type": "Revision of a currently approved collection",
+      "received": "06/03/2026",
+      "concluded": "08/31/2026",
+      "conclusion": "Approved with change",
+      "expiration": "08/31/2029",
+      "ic_count": "11",
+      "form_count": "0",
+      "ref": "202605-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202605-1652-002"
+    },
+    "202204-1652-001": {
+      "control": "1652-0060",
+      "agency": "DHS/TSA",
+      "title": "Aircraft Repair Station Security",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "04/15/2022",
+      "concluded": "08/04/2022",
+      "conclusion": "Approved without change",
+      "expiration": "11/30/2025",
+      "ic_count": "8",
+      "form_count": "0",
+      "ref": "202204-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202204-1652-001"
+    },
+    "202504-1652-007": {
+      "control": "1652-0060",
+      "agency": "DHS/TSA",
+      "title": "Aircraft Repair Station Security",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "06/02/2025",
+      "concluded": "11/25/2025",
+      "conclusion": "Approved with change",
+      "expiration": "11/30/2028",
+      "ic_count": "7",
+      "form_count": "0",
+      "ref": "202504-1652-007",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-1652-007"
+    },
+    "202403-1652-001": {
+      "control": "1652-0062",
+      "agency": "DHS/TSA",
+      "title": "Highway Baseline Assessment for Security Enhancement (BASE) Program",
+      "request_type": "Revision of a currently approved collection",
+      "received": "05/17/2024",
+      "concluded": "04/24/2025",
+      "conclusion": "Approved with change",
+      "expiration": "04/30/2028",
+      "ic_count": "3",
+      "form_count": "0",
+      "ref": "202403-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202403-1652-001"
+    },
+    "202109-1652-005": {
+      "control": "1652-0063",
+      "agency": "DHS/TSA",
+      "title": "Law Enforcement Officer (LEO) Reimbursement Request",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "09/30/2021",
+      "concluded": "12/03/2021",
+      "conclusion": "Approved without change",
+      "expiration": "04/30/2024",
+      "ic_count": "1",
+      "form_count": "1",
+      "ref": "202109-1652-005",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202109-1652-005"
+    },
+    "202504-1652-002": {
+      "control": "1652-0064",
+      "agency": "DHS/TSA",
+      "title": "Screening Partnership Program",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "04/24/2025",
+      "concluded": "07/24/2025",
+      "conclusion": "Approved without change",
+      "expiration": "07/31/2028",
+      "ic_count": "1",
+      "form_count": "1",
+      "ref": "202504-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-1652-002"
+    },
+    "202411-1652-005": {
+      "control": "1652-0065",
+      "agency": "DHS/TSA",
+      "title": "TSA infoBoards",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "12/05/2024",
+      "concluded": "03/31/2025",
+      "conclusion": "Approved without change",
+      "expiration": "03/31/2028",
+      "ic_count": "1",
+      "form_count": "2",
+      "ref": "202411-1652-005",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202411-1652-005"
+    },
+    "202304-1652-002": {
+      "control": "1652-0066",
+      "agency": "DHS/TSA",
+      "title": "Security Training Program for Surface Transportation Employees",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "05/01/2023",
+      "concluded": "10/02/2023",
+      "conclusion": "Approved without change",
+      "expiration": "11/30/2025",
+      "ic_count": "11",
+      "form_count": "0",
+      "ref": "202304-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202304-1652-002"
+    },
+    "202303-1652-002": {
+      "control": "1652-0067",
+      "agency": "DHS/TSA",
+      "title": "TSA Canine Training Center Adoption Application",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "03/20/2023",
+      "concluded": "04/21/2023",
+      "conclusion": "Approved without change",
+      "expiration": "05/31/2026",
+      "ic_count": "1",
+      "form_count": "1",
+      "ref": "202303-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202303-1652-002"
+    },
+    "202601-1652-003": {
+      "control": "1652-0067",
+      "agency": "DHS/TSA",
+      "title": "TSA Canine Training Center Adoption Application",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "04/14/2026",
+      "concluded": "05/28/2026",
+      "conclusion": "Approved without change",
+      "expiration": "05/31/2029",
+      "ic_count": "1",
+      "form_count": "1",
+      "ref": "202601-1652-003",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202601-1652-003"
+    },
+    "202503-1652-001": {
+      "control": "1652-0068",
+      "agency": "DHS/TSA",
+      "title": "Security Appointment Center (SAC) Visitor Request Form and Foreign National Vetting Request",
+      "request_type": "Revision of a currently approved collection",
+      "received": "04/24/2025",
+      "concluded": "07/24/2025",
+      "conclusion": "Approved with change",
+      "expiration": "07/31/2028",
+      "ic_count": "1",
+      "form_count": "0",
+      "ref": "202503-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202503-1652-001"
+    },
+    "202412-1652-002": {
+      "control": "1652-0069",
+      "agency": "DHS/TSA",
+      "title": "Military Severely Injured Joint Support Operations Center (MSIJSOC) and Travel Protocol Office (TPO) Programs",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "12/19/2024",
+      "concluded": "03/31/2025",
+      "conclusion": "Approved without change",
+      "expiration": "03/31/2028",
+      "ic_count": "2",
+      "form_count": "2",
+      "ref": "202412-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202412-1652-002"
+    },
+    "202203-1652-006": {
+      "control": "1652-0071",
+      "agency": "DHS/TSA",
+      "title": "Law Enforcement Officers Safety Act (LEOSA) and Retired Badge/Credential",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "03/24/2022",
+      "concluded": "11/03/2022",
+      "conclusion": "Approved without change",
+      "expiration": "11/30/2025",
+      "ic_count": "2",
+      "form_count": "2",
+      "ref": "202203-1652-006",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202203-1652-006"
+    },
+    "202507-1652-001": {
+      "control": "1652-0071",
+      "agency": "DHS/TSA",
+      "title": "Law Enforcement Officers Safety Act (LEOSA) and Retired Badge/Credential",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "07/31/2025",
+      "concluded": "11/25/2025",
+      "conclusion": "Approved without change",
+      "expiration": "11/30/2028",
+      "ic_count": "2",
+      "form_count": "2",
+      "ref": "202507-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202507-1652-001"
+    },
+    "202206-1652-001": {
+      "control": "1652-0072",
+      "agency": "DHS/TSA",
+      "title": "Law Enforcement Officers (LEOs) Flying Armed",
+      "request_type": "Revision of a currently approved collection",
+      "received": "07/07/2022",
+      "concluded": "02/28/2023",
+      "conclusion": "Approved with change",
+      "expiration": "05/31/2026",
+      "ic_count": "1",
+      "form_count": "1",
+      "ref": "202206-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202206-1652-001"
+    },
+    "202509-1652-001": {
+      "control": "1652-0072",
+      "agency": "DHS/TSA",
+      "title": "Law Enforcement Officers (LEOs) Flying Armed",
+      "request_type": "Revision of a currently approved collection",
+      "received": "02/11/2026",
+      "concluded": "05/28/2026",
+      "conclusion": "Approved with change",
+      "expiration": "05/31/2029",
+      "ic_count": "1",
+      "form_count": "1",
+      "ref": "202509-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202509-1652-001"
+    },
+    "202301-1652-001": {
+      "control": "1652-0073",
+      "agency": "DHS/TSA",
+      "title": "TSA Reimbursable Screening Services Program (RSSP) Pilot Request",
+      "request_type": "Revision of a currently approved collection",
+      "received": "01/19/2023",
+      "concluded": "03/02/2023",
+      "conclusion": "Approved without change",
+      "expiration": "03/31/2026",
+      "ic_count": "2",
+      "form_count": "0",
+      "ref": "202301-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202301-1652-001"
+    },
+    "202601-1652-002": {
+      "control": "1652-0073",
+      "agency": "DHS/TSA",
+      "title": "TSA Reimbursable Screening Services Program (RSSP) Pilot Request",
+      "request_type": "Reinstatement without change of a previously approved collection",
+      "received": "05/04/2026",
+      "concluded": "",
+      "conclusion": "",
+      "expiration": "03/31/2026",
+      "ic_count": "2",
+      "form_count": "2",
+      "ref": "202601-1652-002",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "pending"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202601-1652-002"
+    },
+    "202111-1652-003": {
+      "control": "1652-0074",
+      "agency": "DHS/TSA",
+      "title": "Cybersecurity Measures for Surface Modes",
+      "request_type": "New collection (Request for a new OMB Control Number)",
+      "received": "11/30/2021",
+      "concluded": "11/30/2021",
+      "conclusion": "Approved without change",
+      "expiration": "10/31/2022",
+      "ic_count": "3",
+      "form_count": "0",
+      "ref": "202111-1652-003",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202111-1652-003"
+    },
+    "202203-1652-003": {
+      "control": "1652-0074",
+      "agency": "DHS/TSA",
+      "title": "Cybersecurity Measures for Surface Modes",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "04/07/2022",
+      "concluded": "10/25/2022",
+      "conclusion": "Approved with change",
+      "expiration": "10/31/2025",
+      "ic_count": "3",
+      "form_count": "0",
+      "ref": "202203-1652-003",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202203-1652-003"
+    },
+    "202210-1652-001": {
+      "control": "1652-0074",
+      "agency": "DHS/TSA",
+      "title": "Cybersecurity Measures for Surface Modes",
+      "request_type": "Revision of a currently approved collection",
+      "received": "10/26/2022",
+      "concluded": "10/26/2022",
+      "conclusion": "Approved without change",
+      "expiration": "08/31/2023",
+      "ic_count": "6",
+      "form_count": "0",
+      "ref": "202210-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202210-1652-001"
+    },
+    "202303-1652-001": {
+      "control": "1652-0074",
+      "agency": "DHS/TSA",
+      "title": "Cybersecurity Measures for Surface Modes",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "03/10/2023",
+      "concluded": "08/29/2023",
+      "conclusion": "Approved without change",
+      "expiration": "09/30/2026",
+      "ic_count": "6",
+      "form_count": "1",
+      "ref": "202303-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202303-1652-001"
+    },
+    "202606-1652-001": {
+      "control": "1652-0074",
+      "agency": "DHS/TSA",
+      "title": "Cybersecurity Measures for Surface Modes",
+      "request_type": "Revision of a currently approved collection",
+      "received": "09/01/2026",
+      "concluded": "",
+      "conclusion": "",
+      "expiration": "09/30/2026",
+      "ic_count": "5",
+      "form_count": "1",
+      "ref": "202606-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "pending"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202606-1652-001"
+    },
+    "202504-1652-001": {
+      "control": "1652-0075",
+      "agency": "DHS/TSA",
+      "title": "Speaker Request Form",
+      "request_type": "Extension without change of a currently approved collection",
+      "received": "04/24/2025",
+      "concluded": "07/24/2025",
+      "conclusion": "Approved without change",
+      "expiration": "07/31/2028",
+      "ic_count": "1",
+      "form_count": "0",
+      "ref": "202504-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-1652-001"
+    },
+    "202302-1652-001": {
+      "control": "1652-0076",
+      "agency": "DHS/TSA",
+      "title": "Security Vetting of Certain Surface Transportation Workers",
+      "request_type": "New collection (Request for a new OMB Control Number)",
+      "received": "06/15/2023",
+      "concluded": "11/15/2023",
+      "conclusion": "Comment filed on proposed rule",
+      "expiration": "",
+      "ic_count": "40",
+      "form_count": "0",
+      "ref": "202302-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202302-1652-001"
+    },
+    "202410-1652-003": {
+      "control": "1652-0077",
+      "agency": "DHS/TSA",
+      "title": "Minimum Standards for Driver’s licenses and Identification Cards Acceptable by Federal Agencies for Official Purposes",
+      "request_type": "New collection (Request for a new OMB Control Number)",
+      "received": "10/25/2024",
+      "concluded": "10/28/2024",
+      "conclusion": "Comment filed on proposed rule",
+      "expiration": "",
+      "ic_count": "2",
+      "form_count": "0",
+      "ref": "202410-1652-003",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202410-1652-003"
+    },
+    "202410-1652-004": {
+      "control": "1652-0077",
+      "agency": "DHS/TSA",
+      "title": "Minimum Standards for Driver’s licenses and Identification Cards Acceptable by Federal Agencies for Official Purposes",
+      "request_type": "New collection (Request for a new OMB Control Number)",
+      "received": "10/28/2024",
+      "concluded": "11/25/2024",
+      "conclusion": "Approved with change",
+      "expiration": "11/30/2027",
+      "ic_count": "2",
+      "form_count": "0",
+      "ref": "202410-1652-004",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent",
+        "active"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202410-1652-004"
+    },
+    "202409-1652-001": {
+      "control": "1652-0078",
+      "agency": "DHS/TSA",
+      "title": "Enhancing Surface Cyber Risk Management",
+      "request_type": "New collection (Request for a new OMB Control Number)",
+      "received": "11/12/2024",
+      "concluded": "03/27/2025",
+      "conclusion": "Comment filed on proposed rule",
+      "expiration": "",
+      "ic_count": "44",
+      "form_count": "0",
+      "ref": "202409-1652-001",
+      "record_kind": "PRAViewICR",
+      "search_membership": [
+        "recent"
+      ],
+      "scope": "recent",
+      "exclusion": null,
+      "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202409-1652-001"
+    }
+  },
+  "check_count": 341,
+  "check_versions": 40
+}

@@ -1,0 +1,6 @@
+Classification,Interpretation
+Consistent,"Agreement in the tested published component or method, with source-defined scope preserved."
+"Different, explained",Observed variation has a source-supported explanation; proxy optimality may remain unverified.
+Potentially inconsistent,A material published conflict remains after comparability and explanation challenge.
+Not comparable,"A proposed match fails because the actor, task, denominator, or other essential scope differs."
+Unresolved,"Available evidence cannot settle the relevant scope, methodological difference, or interpretation."

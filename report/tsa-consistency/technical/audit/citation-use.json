@@ -1,0 +1,3477 @@
+[
+  {
+    "location": "report.md:paragraph:7",
+    "text": "Several recurring analytical components are coherent. Carrier and cargo security-program requests retain a one-hour documentation coefficient. Surface security-training amendments retain an eight-hour coefficient, and training record entry retains one minute per record. Cybersecurity plan review retains eight manager hours plus 24 analyst hours per plan. Consistency here means agreement in the specified published component, with actor and task boundaries preserved. A stable coefficient across renewals is evidence of continuity, not independent confirmation of actual task time. [[CMP-01,CMP-02,CMP-03,CMP-16]]",
+    "evidence_records": [
+      "CMP-01",
+      "CMP-02",
+      "CMP-03",
+      "CMP-16"
+    ],
+    "reference_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "location": "",
+    "text": "Several recurring analytical components are coherent. Carrier and cargo security-program requests retain a one-hour documentation coefficient. Surface security-training amendments retain an eight-hour coefficient, and training record entry retains one minute per record. Cybersecurity plan review retains eight manager hours plus 24 analyst hours per plan. Consistency here means agreement in the specified published component, with actor and task boundaries preserved. A stable coefficient across renewals is evidence of continuity, not independent confirmation of actual task time. [[CMP-01,CMP-02,CMP-03,CMP-16]]",
+    "evidence_records": [
+      "CMP-01",
+      "CMP-02",
+      "CMP-03",
+      "CMP-16"
+    ],
+    "reference_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "location": "report.md:paragraph:8",
+    "text": "Observable differences often reflect different work. Examples include initial applications versus incremental resubmissions, security-threat triage versus contractor response handling, and pathways that add fingerprinting and travel. Other changes have a documented basis in online migration, user-experience feedback, employee universe, source vintage, or who pays for an examination. Such explanations justify distinguishing estimates; they do not establish that every proxy is optimal or that unpublished timing evidence has been independently validated. [[CMP-07,CMP-11,CMP-12,CMP-13,CMP-15,CMP-22,CMP-24,CMP-25]]",
+    "evidence_records": [
+      "CMP-07",
+      "CMP-11",
+      "CMP-12",
+      "CMP-13",
+      "CMP-15",
+      "CMP-22",
+      "CMP-24",
+      "CMP-25"
+    ],
+    "reference_numbers": [
+      11,
+      1,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "location": "",
+    "text": "Observable differences often reflect different work. Examples include initial applications versus incremental resubmissions, security-threat triage versus contractor response handling, and pathways that add fingerprinting and travel. Other changes have a documented basis in online migration, user-experience feedback, employee universe, source vintage, or who pays for an examination. Such explanations justify distinguishing estimates; they do not establish that every proxy is optimal or that unpublished timing evidence has been independently validated. [[CMP-07,CMP-11,CMP-12,CMP-13,CMP-15,CMP-22,CMP-24,CMP-25]]",
+    "evidence_records": [
+      "CMP-07",
+      "CMP-11",
+      "CMP-12",
+      "CMP-13",
+      "CMP-15",
+      "CMP-22",
+      "CMP-24",
+      "CMP-25"
+    ],
+    "reference_numbers": [
+      11,
+      1,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "location": "report.md:paragraph:9",
+    "text": "Six task/method comparisons remain unresolved. The public evidence does not align all relevant task bundles, denominators, travel measures, renewal boundaries, or calibration evidence. Airport and carrier amendment preparation, for example, cannot be interpreted as an efficiency comparison merely because the published times differ. These cases warrant targeted analyst and program review, rather than a finding of established methodological error. [[CMP-04,CMP-05,CMP-09,CMP-10,CMP-14,CMP-21]]",
+    "evidence_records": [
+      "CMP-04",
+      "CMP-05",
+      "CMP-09",
+      "CMP-10",
+      "CMP-14",
+      "CMP-21"
+    ],
+    "reference_numbers": [
+      11,
+      1,
+      21,
+      22,
+      23,
+      16,
+      24,
+      25,
+      26,
+      27,
+      28,
+      3,
+      2
+    ]
+  },
+  {
+    "location": "",
+    "text": "Six task/method comparisons remain unresolved. The public evidence does not align all relevant task bundles, denominators, travel measures, renewal boundaries, or calibration evidence. Airport and carrier amendment preparation, for example, cannot be interpreted as an efficiency comparison merely because the published times differ. These cases warrant targeted analyst and program review, rather than a finding of established methodological error. [[CMP-04,CMP-05,CMP-09,CMP-10,CMP-14,CMP-21]]",
+    "evidence_records": [
+      "CMP-04",
+      "CMP-05",
+      "CMP-09",
+      "CMP-10",
+      "CMP-14",
+      "CMP-21"
+    ],
+    "reference_numbers": [
+      11,
+      1,
+      21,
+      22,
+      23,
+      16,
+      24,
+      25,
+      26,
+      27,
+      28,
+      3,
+      2
+    ]
+  },
+  {
+    "location": "report.md:paragraph:10",
+    "text": "The separate within-ICR review retains seven potentially inconsistent findings and one unresolved finding. The seven concern: Hazardous Materials Endorsement (HME) enrollment-path overlap in a pending package; Maryland Three cost products; a generic-clearance table and narrative; Exercise Information System (EXIS) stock versus new-user definitions; an annual Federal-cost column that contains a three-year-scale value; a monthly separation-rate proxy applied annually in a pending surface-cyber package; and a cybersecurity Federal-cost product that does not reproduce the displayed total. These findings identify public reconciliation risks. They do not establish corrected official burden, actual expenditure, or the internal causes of the discrepancies. [[FIND-HME,FIND-MD3,FIND-GENERIC,FIND-EXIS,FIND-LEO,FIND-TURNOVER,FIND-CYBER-COST]]",
+    "evidence_records": [
+      "FIND-HME",
+      "FIND-MD3",
+      "FIND-GENERIC",
+      "FIND-EXIS",
+      "FIND-LEO",
+      "FIND-TURNOVER",
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      27,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      14,
+      15,
+      21,
+      9,
+      10,
+      8
+    ]
+  },
+  {
+    "location": "",
+    "text": "The separate within-ICR review retains seven potentially inconsistent findings and one unresolved finding. The seven concern: Hazardous Materials Endorsement (HME) enrollment-path overlap in a pending package; Maryland Three cost products; a generic-clearance table and narrative; Exercise Information System (EXIS) stock versus new-user definitions; an annual Federal-cost column that contains a three-year-scale value; a monthly separation-rate proxy applied annually in a pending surface-cyber package; and a cybersecurity Federal-cost product that does not reproduce the displayed total. These findings identify public reconciliation risks. They do not establish corrected official burden, actual expenditure, or the internal causes of the discrepancies. [[FIND-HME,FIND-MD3,FIND-GENERIC,FIND-EXIS,FIND-LEO,FIND-TURNOVER,FIND-CYBER-COST]]",
+    "evidence_records": [
+      "FIND-HME",
+      "FIND-MD3",
+      "FIND-GENERIC",
+      "FIND-EXIS",
+      "FIND-LEO",
+      "FIND-TURNOVER",
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      27,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      14,
+      15,
+      21,
+      9,
+      10,
+      8
+    ]
+  },
+  {
+    "location": "report.md:paragraph:11",
+    "text": "Counterevidence is central to the conclusion. Prior HME and Transportation Worker Identification Credential (TWIC) pathway partitions reconcile. The law enforcement officer (LEO) annual-cost narrative is coherent even though its table heading conflicts with the magnitude in the cell. PreCheck's difference between total hours and monetized hours is explained arithmetically by separately identified correction and survey activities; the unresolved question is their exclusion from valuation. These observations narrow the findings and prevent overgeneralization. [[FIND-HME,FIND-LEO,FIND-PRECHECK]]",
+    "evidence_records": [
+      "FIND-HME",
+      "FIND-LEO",
+      "FIND-PRECHECK"
+    ],
+    "reference_numbers": [
+      27,
+      29,
+      14,
+      15,
+      28,
+      36
+    ]
+  },
+  {
+    "location": "",
+    "text": "Counterevidence is central to the conclusion. Prior HME and Transportation Worker Identification Credential (TWIC) pathway partitions reconcile. The law enforcement officer (LEO) annual-cost narrative is coherent even though its table heading conflicts with the magnitude in the cell. PreCheck's difference between total hours and monetized hours is explained arithmetically by separately identified correction and survey activities; the unresolved question is their exclusion from valuation. These observations narrow the findings and prevent overgeneralization. [[FIND-HME,FIND-LEO,FIND-PRECHECK]]",
+    "evidence_records": [
+      "FIND-HME",
+      "FIND-LEO",
+      "FIND-PRECHECK"
+    ],
+    "reference_numbers": [
+      27,
+      29,
+      14,
+      15,
+      28,
+      36
+    ]
+  },
+  {
+    "location": "report.md:paragraph:20",
+    "text": "The recent-package window is defined by actual receipt dates, September 9, 2021, through September 9, 2026, rather than by the date-like characters in a package reference number. The archived official search produced 92 rows: 90 TSA ICR packages and two Office of Personnel Management (OPM) common-form requests excluded from TSA-authored statement comparison. The inventory also identifies 48 assigned TSA control histories and five packages with unassigned control numbers. A blank control number does not create a new independent collection identity. [[INVENTORY]]",
+    "evidence_records": [
+      "INVENTORY"
+    ],
+    "reference_numbers": [
+      37
+    ]
+  },
+  {
+    "location": "",
+    "text": "The recent-package window is defined by actual receipt dates, September 9, 2021, through September 9, 2026, rather than by the date-like characters in a package reference number. The archived official search produced 92 rows: 90 TSA ICR packages and two Office of Personnel Management (OPM) common-form requests excluded from TSA-authored statement comparison. The inventory also identifies 48 assigned TSA control histories and five packages with unassigned control numbers. A blank control number does not create a new independent collection identity. [[INVENTORY]]",
+    "evidence_records": [
+      "INVENTORY"
+    ],
+    "reference_numbers": [
+      37
+    ]
+  },
+  {
+    "location": "report.md:paragraph:21",
+    "text": "All 42 packages returned by the active search and all seven returned by the pending search appear within the 90-package recent corpus. Active-search membership is distinct from a historical approval conclusion. A package approved earlier can be a predecessor rather than the currently active version. Proposed-rule and improperly submitted packages provide evidence of published analytical constructs, but not evidence that their workloads were implemented. Status descriptions throughout this report refer to the September 9, 2026 evidence snapshot. [[INVENTORY]]",
+    "evidence_records": [
+      "INVENTORY"
+    ],
+    "reference_numbers": [
+      37
+    ]
+  },
+  {
+    "location": "",
+    "text": "All 42 packages returned by the active search and all seven returned by the pending search appear within the 90-package recent corpus. Active-search membership is distinct from a historical approval conclusion. A package approved earlier can be a predecessor rather than the currently active version. Proposed-rule and improperly submitted packages provide evidence of published analytical constructs, but not evidence that their workloads were implemented. Status descriptions throughout this report refer to the September 9, 2026 evidence snapshot. [[INVENTORY]]",
+    "evidence_records": [
+      "INVENTORY"
+    ],
+    "reference_numbers": [
+      37
+    ]
+  },
+  {
+    "location": "report.md:paragraph:30",
+    "text": "A shared activity label identifies a candidate comparison. It does not establish that the work is equivalent. For example, an annual school recordkeeping bundle and entry of one employee training record can both involve records, but their denominators differ. A Federal reviewer processing an electronic submission may perform different work from a reviewer verifying substantive eligibility. The analysis retains these failed matches rather than forcing a numerical comparison. [[CMP-23,CMP-28]]",
+    "evidence_records": [
+      "CMP-23",
+      "CMP-28"
+    ],
+    "reference_numbers": [
+      38,
+      4,
+      13,
+      39
+    ]
+  },
+  {
+    "location": "",
+    "text": "A shared activity label identifies a candidate comparison. It does not establish that the work is equivalent. For example, an annual school recordkeeping bundle and entry of one employee training record can both involve records, but their denominators differ. A Federal reviewer processing an electronic submission may perform different work from a reviewer verifying substantive eligibility. The analysis retains these failed matches rather than forcing a numerical comparison. [[CMP-23,CMP-28]]",
+    "evidence_records": [
+      "CMP-23",
+      "CMP-28"
+    ],
+    "reference_numbers": [
+      38,
+      4,
+      13,
+      39
+    ]
+  },
+  {
+    "location": "report.md:paragraph:43",
+    "text": "Prior-version falsification asks whether earlier evidence contradicts a proposed generalization. It is especially useful when an apparent defect in one recent version might otherwise be attributed to an entire collection family. The HME predecessor and TWIC partitions constrain the current HME finding. The LEO narrative constrains the cost-table finding. PreCheck's named subtotals constrain its valuation question. A repeated total in an earlier version establishes historical recurrence; it does not identify the internal mechanism that produced it. [[FIND-HME,FIND-LEO,FIND-PRECHECK,FIND-CYBER-COST]]",
+    "evidence_records": [
+      "FIND-HME",
+      "FIND-LEO",
+      "FIND-PRECHECK",
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      27,
+      29,
+      14,
+      15,
+      28,
+      36,
+      10,
+      8
+    ]
+  },
+  {
+    "location": "",
+    "text": "Prior-version falsification asks whether earlier evidence contradicts a proposed generalization. It is especially useful when an apparent defect in one recent version might otherwise be attributed to an entire collection family. The HME predecessor and TWIC partitions constrain the current HME finding. The LEO narrative constrains the cost-table finding. PreCheck's named subtotals constrain its valuation question. A repeated total in an earlier version establishes historical recurrence; it does not identify the internal mechanism that produced it. [[FIND-HME,FIND-LEO,FIND-PRECHECK,FIND-CYBER-COST]]",
+    "evidence_records": [
+      "FIND-HME",
+      "FIND-LEO",
+      "FIND-PRECHECK",
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      27,
+      29,
+      14,
+      15,
+      28,
+      36,
+      10,
+      8
+    ]
+  },
+  {
+    "location": "table:status:note",
+    "text": "Source: official package inventory at September 9, 2026. Active-search membership (42) is separate from these conclusion categories. [[INVENTORY]]",
+    "evidence_records": [
+      "INVENTORY"
+    ],
+    "reference_numbers": [
+      37
+    ]
+  },
+  {
+    "location": "",
+    "text": "Source: official package inventory at September 9, 2026. Active-search membership (42) is separate from these conclusion categories. [[INVENTORY]]",
+    "evidence_records": [
+      "INVENTORY"
+    ],
+    "reference_numbers": [
+      37
+    ]
+  },
+  {
+    "location": "report.md:paragraph:57",
+    "text": "The 76 packages with approval conclusions in Table 4 include historical versions; only 42 packages are in the active-search snapshot. The seven pending packages are not final approved estimates. Four proposed-rule comment outcomes and three improperly submitted outcomes remain analytically distinguishable from approvals. These status counts are mutually exclusive conclusion categories; active membership is a separate attribute. [[INVENTORY]]",
+    "evidence_records": [
+      "INVENTORY"
+    ],
+    "reference_numbers": [
+      37
+    ]
+  },
+  {
+    "location": "",
+    "text": "The 76 packages with approval conclusions in Table 4 include historical versions; only 42 packages are in the active-search snapshot. The seven pending packages are not final approved estimates. Four proposed-rule comment outcomes and three improperly submitted outcomes remain analytically distinguishable from approvals. These status counts are mutually exclusive conclusion categories; active membership is a separate attribute. [[INVENTORY]]",
+    "evidence_records": [
+      "INVENTORY"
+    ],
+    "reference_numbers": [
+      37
+    ]
+  },
+  {
+    "location": "report.md:paragraph:58",
+    "text": "This distinction affects interpretation of the case studies. The HME package received August 21, 2026, and the surface-cyber package received September 1, 2026, were pending in the evidence snapshot. The Maryland Three, generic-clearance, EXIS, LEO, PreCheck, and pipeline plan-review packages used in the principal cases were active. Status establishes the administrative context, not the arithmetic quality or empirical validity of a statement. [[INVENTORY]]",
+    "evidence_records": [
+      "INVENTORY"
+    ],
+    "reference_numbers": [
+      37
+    ]
+  },
+  {
+    "location": "",
+    "text": "This distinction affects interpretation of the case studies. The HME package received August 21, 2026, and the surface-cyber package received September 1, 2026, were pending in the evidence snapshot. The Maryland Three, generic-clearance, EXIS, LEO, PreCheck, and pipeline plan-review packages used in the principal cases were active. Status establishes the administrative context, not the arithmetic quality or empirical validity of a statement. [[INVENTORY]]",
+    "evidence_records": [
+      "INVENTORY"
+    ],
+    "reference_numbers": [
+      37
+    ]
+  },
+  {
+    "location": "report.md:paragraph:68",
+    "text": "Domestic carrier, foreign carrier, and indirect air carrier statements each identify one hour for industry-requested security-program documentation. The useful match is an operator preparing a request to change an existing program. TSA-issued directives, initial program development, and Federal review are separate tasks. The indirect air carrier description emphasizes approval of existing business practices, which may be narrower than other requests. The consistent classification is therefore local to the published one-hour component. [[CMP-01]]",
+    "evidence_records": [
+      "CMP-01"
+    ],
+    "reference_numbers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "location": "",
+    "text": "Domestic carrier, foreign carrier, and indirect air carrier statements each identify one hour for industry-requested security-program documentation. The useful match is an operator preparing a request to change an existing program. TSA-issued directives, initial program development, and Federal review are separate tasks. The indirect air carrier description emphasizes approval of existing business practices, which may be narrower than other requests. The consistent classification is therefore local to the published one-hour component. [[CMP-01]]",
+    "evidence_records": [
+      "CMP-01"
+    ],
+    "reference_numbers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "location": "report.md:paragraph:69",
+    "text": "Surface security-training program amendments retain eight hours and a 10 percent annual amendment share across modes and the receiving collection after consolidation. The transfer preserves a recognizable analytical structure, but it does not create independent empirical replications. The appropriate reusable object is a defined amendment activity with a time coefficient, frequency assumption, applicability conditions, and lineage. [[CMP-02]]",
+    "evidence_records": [
+      "CMP-02"
+    ],
+    "reference_numbers": [
+      4,
+      5
+    ]
+  },
+  {
+    "location": "",
+    "text": "Surface security-training program amendments retain eight hours and a 10 percent annual amendment share across modes and the receiving collection after consolidation. The transfer preserves a recognizable analytical structure, but it does not create independent empirical replications. The appropriate reusable object is a defined amendment activity with a time coefficient, frequency assumption, applicability conditions, and lineage. [[CMP-02]]",
+    "evidence_records": [
+      "CMP-02"
+    ],
+    "reference_numbers": [
+      4,
+      5
+    ]
+  },
+  {
+    "location": "report.md:paragraph:70",
+    "text": "Training record entry is separately estimated at one minute per record for freight rail, public transportation/passenger railroad, and over-the-road bus activities. The coefficient concerns an administrative record entry, not attendance at training. It illustrates why a well-bounded activity can support comparison across modes while a broad label such as training burden cannot. [[CMP-03]]",
+    "evidence_records": [
+      "CMP-03"
+    ],
+    "reference_numbers": [
+      4
+    ]
+  },
+  {
+    "location": "",
+    "text": "Training record entry is separately estimated at one minute per record for freight rail, public transportation/passenger railroad, and over-the-road bus activities. The coefficient concerns an administrative record entry, not attendance at training. It illustrates why a well-bounded activity can support comparison across modes while a broad label such as training burden cannot. [[CMP-03]]",
+    "evidence_records": [
+      "CMP-03"
+    ],
+    "reference_numbers": [
+      4
+    ]
+  },
+  {
+    "location": "report.md:paragraph:72",
+    "text": "Two pipeline packages use compensation-loading ratios of 1.467370066 and 1.467370 with aligned source period and employee universe. Their difference is displayed precision. This supports a common treatment of the formula and precision convention, not a requirement that the same ratio apply to different years or worker populations. [[CMP-06]]",
+    "evidence_records": [
+      "CMP-06"
+    ],
+    "reference_numbers": [
+      40,
+      10
+    ]
+  },
+  {
+    "location": "",
+    "text": "Two pipeline packages use compensation-loading ratios of 1.467370066 and 1.467370 with aligned source period and employee universe. Their difference is displayed precision. This supports a common treatment of the formula and precision convention, not a requirement that the same ratio apply to different years or worker populations. [[CMP-06]]",
+    "evidence_records": [
+      "CMP-06"
+    ],
+    "reference_numbers": [
+      40,
+      10
+    ]
+  },
+  {
+    "location": "report.md:paragraph:73",
+    "text": "The Federal Air Marshal Service (FAMS) and Transportation Security Officer (TSO) medical applicant statements share a $32.66 mean wage, a 1.4582 loading factor, and an 11-minute waiting assumption for the compared applicant component. Provider compensation and incumbent Federal employee travel have different actor boundaries. The agreement does not resolve the separate travel-proxy questions discussed in Section 6. [[CMP-08]]",
+    "evidence_records": [
+      "CMP-08"
+    ],
+    "reference_numbers": [
+      23,
+      16
+    ]
+  },
+  {
+    "location": "",
+    "text": "The Federal Air Marshal Service (FAMS) and Transportation Security Officer (TSO) medical applicant statements share a $32.66 mean wage, a 1.4582 loading factor, and an 11-minute waiting assumption for the compared applicant component. Provider compensation and incumbent Federal employee travel have different actor boundaries. The agreement does not resolve the separate travel-proxy questions discussed in Section 6. [[CMP-08]]",
+    "evidence_records": [
+      "CMP-08"
+    ],
+    "reference_numbers": [
+      23,
+      16
+    ]
+  },
+  {
+    "location": "report.md:paragraph:74",
+    "text": "HME and TWIC describe fee financing, and TWIC explicitly distinguishes excess revenue as a transfer. The consistency finding concerns that financing convention. It does not show that fee-funded activities have no resource cost or that fees should be added to underlying Federal costs to estimate total social cost. Gross resource use, fee receipts, and net budget effects remain different quantities. [[CMP-18]]",
+    "evidence_records": [
+      "CMP-18"
+    ],
+    "reference_numbers": [
+      27,
+      26
+    ]
+  },
+  {
+    "location": "",
+    "text": "HME and TWIC describe fee financing, and TWIC explicitly distinguishes excess revenue as a transfer. The consistency finding concerns that financing convention. It does not show that fee-funded activities have no resource cost or that fees should be added to underlying Federal costs to estimate total social cost. Gross resource use, fee receipts, and net budget effects remain different quantities. [[CMP-18]]",
+    "evidence_records": [
+      "CMP-18"
+    ],
+    "reference_numbers": [
+      27,
+      26
+    ]
+  },
+  {
+    "location": "report.md:paragraph:76",
+    "text": "Cybersecurity implementation-plan reviews retain eight manager hours and 24 analyst hours per plan across surface and pipeline packages and their versions. This is one of the clearest examples of a reusable role-based activity structure. It is also the clearest demonstration that method consistency and output consistency are separate: the plan-review staffing component is consistent, while a later pipeline cost total does not reproduce from its displayed wages and workload. [[CMP-16,FIND-CYBER-COST]]",
+    "evidence_records": [
+      "CMP-16",
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "location": "",
+    "text": "Cybersecurity implementation-plan reviews retain eight manager hours and 24 analyst hours per plan across surface and pipeline packages and their versions. This is one of the clearest examples of a reusable role-based activity structure. It is also the clearest demonstration that method consistency and output consistency are separate: the plan-review staffing component is consistent, while a later pipeline cost total does not reproduce from its displayed wages and workload. [[CMP-16,FIND-CYBER-COST]]",
+    "evidence_records": [
+      "CMP-16",
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "location": "report.md:paragraph:77",
+    "text": "Maryland Three familiarization remains a distinct half-hour step across renewal versions, separate from travel and the complete 5.75-hour process. Proposed cybersecurity operational implementation-plan legal review retains a four-hour Federal component across submissions; the 50 percent eligibility coefficient is separate. Those proposed submissions are not two implemented programs. The first had an improperly submitted outcome, and the later assigned-control submission had a proposed-rule comment outcome. [[CMP-19,CMP-20]]",
+    "evidence_records": [
+      "CMP-19",
+      "CMP-20"
+    ],
+    "reference_numbers": [
+      31,
+      30,
+      41,
+      42
+    ]
+  },
+  {
+    "location": "",
+    "text": "Maryland Three familiarization remains a distinct half-hour step across renewal versions, separate from travel and the complete 5.75-hour process. Proposed cybersecurity operational implementation-plan legal review retains a four-hour Federal component across submissions; the 50 percent eligibility coefficient is separate. Those proposed submissions are not two implemented programs. The first had an improperly submitted outcome, and the later assigned-control submission had a proposed-rule comment outcome. [[CMP-19,CMP-20]]",
+    "evidence_records": [
+      "CMP-19",
+      "CMP-20"
+    ],
+    "reference_numbers": [
+      31,
+      30,
+      41,
+      42
+    ]
+  },
+  {
+    "location": "report.md:paragraph:78",
+    "text": "Other stable components include an eight-hour Law Enforcement Officers Safety Act (LEOSA) rejection-review request, a 30-minute maximum for pipeline physical-incident reporting, a one-hour Ronald Reagan Washington National Airport (DCA) Access Standard Security Program (DASSP) initial operator application coefficient, claim filing, a 130-second Secure Flight identity-transmission component, and a 10-minute canine adoption application. The incident-reporting statistic is a maximum, not a measured mean. DASSP field scope is not proven identical across versions, and neighboring armed-security-officer nomination work is excluded. Secure Flight resolution calls and visitor applications are outside the identity-transmission comparison. [[CMP-26,CMP-27,CMP-29,CMP-30,CMP-31,CMP-32]]",
+    "evidence_records": [
+      "CMP-26",
+      "CMP-27",
+      "CMP-29",
+      "CMP-30",
+      "CMP-31",
+      "CMP-32"
+    ],
+    "reference_numbers": [
+      43,
+      44,
+      45,
+      22,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ]
+  },
+  {
+    "location": "",
+    "text": "Other stable components include an eight-hour Law Enforcement Officers Safety Act (LEOSA) rejection-review request, a 30-minute maximum for pipeline physical-incident reporting, a one-hour Ronald Reagan Washington National Airport (DCA) Access Standard Security Program (DASSP) initial operator application coefficient, claim filing, a 130-second Secure Flight identity-transmission component, and a 10-minute canine adoption application. The incident-reporting statistic is a maximum, not a measured mean. DASSP field scope is not proven identical across versions, and neighboring armed-security-officer nomination work is excluded. Secure Flight resolution calls and visitor applications are outside the identity-transmission comparison. [[CMP-26,CMP-27,CMP-29,CMP-30,CMP-31,CMP-32]]",
+    "evidence_records": [
+      "CMP-26",
+      "CMP-27",
+      "CMP-29",
+      "CMP-30",
+      "CMP-31",
+      "CMP-32"
+    ],
+    "reference_numbers": [
+      43,
+      44,
+      45,
+      22,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ]
+  },
+  {
+    "location": "table:explained:row:0",
+    "text": "Loading variation by employee universe and source vintage [[CMP-07]]",
+    "evidence_records": [
+      "CMP-07"
+    ],
+    "reference_numbers": [
+      11,
+      1
+    ]
+  },
+  {
+    "location": "table:explained:row:1",
+    "text": "Federal and contractor comment processing [[CMP-11]]",
+    "evidence_records": [
+      "CMP-11"
+    ],
+    "reference_numbers": [
+      12
+    ]
+  },
+  {
+    "location": "table:explained:row:2",
+    "text": "FFDO interview burden removed [[CMP-12]]",
+    "evidence_records": [
+      "CMP-12"
+    ],
+    "reference_numbers": [
+      13
+    ]
+  },
+  {
+    "location": "table:explained:row:3",
+    "text": "LEO checkpoint login duration change [[CMP-13]]",
+    "evidence_records": [
+      "CMP-13"
+    ],
+    "reference_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "location": "table:explained:row:4",
+    "text": "Medical examination payer change [[CMP-15]]",
+    "evidence_records": [
+      "CMP-15"
+    ],
+    "reference_numbers": [
+      16
+    ]
+  },
+  {
+    "location": "table:explained:row:5",
+    "text": "mDL initial and insufficient-application resubmission [[CMP-22]]",
+    "evidence_records": [
+      "CMP-22"
+    ],
+    "reference_numbers": [
+      17
+    ]
+  },
+  {
+    "location": "table:explained:row:6",
+    "text": "TRIP form time revised using user experience [[CMP-24]]",
+    "evidence_records": [
+      "CMP-24"
+    ],
+    "reference_numbers": [
+      18,
+      19
+    ]
+  },
+  {
+    "location": "table:explained:row:7",
+    "text": "SSI bidder CHRC pathway includes additional activities [[CMP-25]]",
+    "evidence_records": [
+      "CMP-25"
+    ],
+    "reference_numbers": [
+      20
+    ]
+  },
+  {
+    "location": "report.md:paragraph:87",
+    "text": "Comment-card processing distinguishes Federal security-threat triage, at 0.5 minute, from contractor reading and response selection, at five minutes. These are sequential functions performed by different actors. A ratio between their times would obscure the workflow rather than measure inconsistency. [[CMP-11]]",
+    "evidence_records": [
+      "CMP-11"
+    ],
+    "reference_numbers": [
+      12
+    ]
+  },
+  {
+    "location": "",
+    "text": "Comment-card processing distinguishes Federal security-threat triage, at 0.5 minute, from contractor reading and response selection, at five minutes. These are sequential functions performed by different actors. A ratio between their times would obscure the workflow rather than measure inconsistency. [[CMP-11]]",
+    "evidence_records": [
+      "CMP-11"
+    ],
+    "reference_numbers": [
+      12
+    ]
+  },
+  {
+    "location": "report.md:paragraph:88",
+    "text": "The mobile driver's license (mDL) application example distinguishes 20 hours of initial work from five hours for resubmission of an insufficient application. The latter is an incremental 25 percent of initial effort. It is not an alternative that replaces all initial work. By contrast, credentialing pathways can be mutually exclusive when the source says online renewal avoids an in-person visit. A common architecture must express both additive follow-up work and exclusive alternatives. [[CMP-22,FIND-HME]]",
+    "evidence_records": [
+      "CMP-22",
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      17,
+      27,
+      29
+    ]
+  },
+  {
+    "location": "",
+    "text": "The mobile driver's license (mDL) application example distinguishes 20 hours of initial work from five hours for resubmission of an insufficient application. The latter is an incremental 25 percent of initial effort. It is not an alternative that replaces all initial work. By contrast, credentialing pathways can be mutually exclusive when the source says online renewal avoids an in-person visit. A common architecture must express both additive follow-up work and exclusive alternatives. [[CMP-22,FIND-HME]]",
+    "evidence_records": [
+      "CMP-22",
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      17,
+      27,
+      29
+    ]
+  },
+  {
+    "location": "report.md:paragraph:89",
+    "text": "For bidders seeking Sensitive Security Information (SSI) access, the path with a criminal history records check (CHRC) includes fingerprinting and travel/wait activities that the no-CHRC path omits. Published totals of 116 and 15 minutes therefore have an observable scope explanation. Uniformity would be inappropriate if it removed work that one pathway actually includes. [[CMP-25]]",
+    "evidence_records": [
+      "CMP-25"
+    ],
+    "reference_numbers": [
+      20
+    ]
+  },
+  {
+    "location": "",
+    "text": "For bidders seeking Sensitive Security Information (SSI) access, the path with a criminal history records check (CHRC) includes fingerprinting and travel/wait activities that the no-CHRC path omits. Published totals of 116 and 15 minutes therefore have an observable scope explanation. Uniformity would be inappropriate if it removed work that one pathway actually includes. [[CMP-25]]",
+    "evidence_records": [
+      "CMP-25"
+    ],
+    "reference_numbers": [
+      20
+    ]
+  },
+  {
+    "location": "report.md:paragraph:91",
+    "text": "The Federal Flight Deck Officer (FFDO) statement removes a 10-minute verbal interview because certification questions move online and duplicative questions are removed. This supports the explanation for deleting that task. It does not by itself verify the entire Item 15 numerical change bridge. [[CMP-12]]",
+    "evidence_records": [
+      "CMP-12"
+    ],
+    "reference_numbers": [
+      13
+    ]
+  },
+  {
+    "location": "",
+    "text": "The Federal Flight Deck Officer (FFDO) statement removes a 10-minute verbal interview because certification questions move online and duplicative questions are removed. This supports the explanation for deleting that task. It does not by itself verify the entire Item 15 numerical change bridge. [[CMP-12]]",
+    "evidence_records": [
+      "CMP-12"
+    ],
+    "reference_numbers": [
+      13
+    ]
+  },
+  {
+    "location": "report.md:paragraph:92",
+    "text": "The LEO checkpoint-login estimate increases from one to four minutes, while the Traveler Redress Inquiry Program (TRIP) form estimate decreases from 60 to 30 minutes. The respective recent statements cite user experience as the basis. These are observable explanations for changed estimates. The timing samples and their representativeness are not publicly established in this evidence, so the report does not describe the new times as independently measured universal completion times. [[CMP-13,CMP-24]]",
+    "evidence_records": [
+      "CMP-13",
+      "CMP-24"
+    ],
+    "reference_numbers": [
+      14,
+      15,
+      18,
+      19
+    ]
+  },
+  {
+    "location": "",
+    "text": "The LEO checkpoint-login estimate increases from one to four minutes, while the Traveler Redress Inquiry Program (TRIP) form estimate decreases from 60 to 30 minutes. The respective recent statements cite user experience as the basis. These are observable explanations for changed estimates. The timing samples and their representativeness are not publicly established in this evidence, so the report does not describe the new times as independently measured universal completion times. [[CMP-13,CMP-24]]",
+    "evidence_records": [
+      "CMP-13",
+      "CMP-24"
+    ],
+    "reference_numbers": [
+      14,
+      15,
+      18,
+      19
+    ]
+  },
+  {
+    "location": "report.md:paragraph:94",
+    "text": "An airport compensation factor of 1.454667 uses full-time private-industry workers and a June 2024 source period, while the domestic carrier factor of 1.4582 uses production, transportation, and material-moving workers from March 2023. The differing universe and vintage explain unequal ratios. A month-label ambiguity in the carrier paragraph remains, and an explained difference does not establish optimal proxy selection. [[CMP-07]]",
+    "evidence_records": [
+      "CMP-07"
+    ],
+    "reference_numbers": [
+      11,
+      1
+    ]
+  },
+  {
+    "location": "",
+    "text": "An airport compensation factor of 1.454667 uses full-time private-industry workers and a June 2024 source period, while the domestic carrier factor of 1.4582 uses production, transportation, and material-moving workers from March 2023. The differing universe and vintage explain unequal ratios. A month-label ambiguity in the carrier paragraph remains, and an explained difference does not establish optimal proxy selection. [[CMP-07]]",
+    "evidence_records": [
+      "CMP-07"
+    ],
+    "reference_numbers": [
+      11,
+      1
+    ]
+  },
+  {
+    "location": "report.md:paragraph:95",
+    "text": "The TSO medical examination statement moves payment from Federal contractor funding to candidates, using $150 for each of 18,000 examinations. The payer change explains movement between cost categories. It is not evidence of an equivalent reduction in resources consumed. A governed estimate should identify the examination as the same resource activity while separately recording the party that pays. [[CMP-15]]",
+    "evidence_records": [
+      "CMP-15"
+    ],
+    "reference_numbers": [
+      16
+    ]
+  },
+  {
+    "location": "",
+    "text": "The TSO medical examination statement moves payment from Federal contractor funding to candidates, using $150 for each of 18,000 examinations. The payer change explains movement between cost categories. It is not evidence of an equivalent reduction in resources consumed. A governed estimate should identify the examination as the same resource activity while separately recording the party that pays. [[CMP-15]]",
+    "evidence_records": [
+      "CMP-15"
+    ],
+    "reference_numbers": [
+      16
+    ]
+  },
+  {
+    "location": "table:unresolved:row:0",
+    "text": "Airport and carrier-requested amendments [[CMP-04]]",
+    "evidence_records": [
+      "CMP-04"
+    ],
+    "reference_numbers": [
+      11,
+      1
+    ]
+  },
+  {
+    "location": "table:unresolved:row:1",
+    "text": "Coordinator contact updates across surface and pipeline collections [[CMP-05]]",
+    "evidence_records": [
+      "CMP-05"
+    ],
+    "reference_numbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "location": "table:unresolved:row:2",
+    "text": "Medical applicant travel assumptions [[CMP-09]]",
+    "evidence_records": [
+      "CMP-09"
+    ],
+    "reference_numbers": [
+      23,
+      16,
+      24,
+      25
+    ]
+  },
+  {
+    "location": "table:unresolved:row:3",
+    "text": "Online credential renewal times [[CMP-10]]",
+    "evidence_records": [
+      "CMP-10"
+    ],
+    "reference_numbers": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "location": "table:unresolved:row:4",
+    "text": "Federal amendment-review bundles [[CMP-14]]",
+    "evidence_records": [
+      "CMP-14"
+    ],
+    "reference_numbers": [
+      3,
+      2
+    ]
+  },
+  {
+    "location": "table:unresolved:row:5",
+    "text": "Coordinator turnover models have different denominators [[CMP-21]]",
+    "evidence_records": [
+      "CMP-21"
+    ],
+    "reference_numbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "location": "report.md:paragraph:101",
+    "text": "Airport amendment preparation is estimated at 25 hours, compared with one hour for carrier request documentation. The airport obligation includes development, submission, and implementation, but its timed paragraph does not decompose the preparation bundle. Equal case complexity and complete task boundaries are not established. The appropriate question is what work each estimate contains, not whether one program is 25 times less efficient. [[CMP-04]]",
+    "evidence_records": [
+      "CMP-04"
+    ],
+    "reference_numbers": [
+      11,
+      1
+    ]
+  },
+  {
+    "location": "",
+    "text": "Airport amendment preparation is estimated at 25 hours, compared with one hour for carrier request documentation. The airport obligation includes development, submission, and implementation, but its timed paragraph does not decompose the preparation bundle. Equal case complexity and complete task boundaries are not established. The appropriate question is what work each estimate contains, not whether one program is 25 times less efficient. [[CMP-04]]",
+    "evidence_records": [
+      "CMP-04"
+    ],
+    "reference_numbers": [
+      11,
+      1
+    ]
+  },
+  {
+    "location": "report.md:paragraph:102",
+    "text": "The Federal amendment-review comparison is similarly constrained. The indirect air carrier statement converts 15 days to 120 hours and pools TSA-issued and industry-requested amendments. The foreign carrier statement describes four hours of field work and 6.75 hours of headquarters review. The evidence does not establish identical amendment types, staffing, or complexity. It also does not establish that the 15-day quantity is elapsed rather than active time. Analysts would need a task and role decomposition for aligned case types before a useful numerical comparison could be made. [[CMP-14]]",
+    "evidence_records": [
+      "CMP-14"
+    ],
+    "reference_numbers": [
+      3,
+      2
+    ]
+  },
+  {
+    "location": "",
+    "text": "The Federal amendment-review comparison is similarly constrained. The indirect air carrier statement converts 15 days to 120 hours and pools TSA-issued and industry-requested amendments. The foreign carrier statement describes four hours of field work and 6.75 hours of headquarters review. The evidence does not establish identical amendment types, staffing, or complexity. It also does not establish that the 15-day quantity is elapsed rather than active time. Analysts would need a task and role decomposition for aligned case types before a useful numerical comparison could be made. [[CMP-14]]",
+    "evidence_records": [
+      "CMP-14"
+    ],
+    "reference_numbers": [
+      3,
+      2
+    ]
+  },
+  {
+    "location": "report.md:paragraph:104",
+    "text": "Surface-cyber updates use five minutes for a new coordinator or alternate. Pipeline updates use 30 minutes for an operator's coordinator and/or alternate update. One event may contain different numbers of people, fields, or verification steps. The six-to-one displayed-time ratio is not a defensible measure of methodological inconsistency until that cardinality is aligned. [[CMP-05]]",
+    "evidence_records": [
+      "CMP-05"
+    ],
+    "reference_numbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "location": "",
+    "text": "Surface-cyber updates use five minutes for a new coordinator or alternate. Pipeline updates use 30 minutes for an operator's coordinator and/or alternate update. One event may contain different numbers of people, fields, or verification steps. The six-to-one displayed-time ratio is not a defensible measure of methodological inconsistency until that cardinality is aligned. [[CMP-05]]",
+    "evidence_records": [
+      "CMP-05"
+    ],
+    "reference_numbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "location": "report.md:paragraph:105",
+    "text": "The associated frequency models also have different constructs: a four-percent annual substitution proxy versus one operator update per year. No common person-stock denominator or shared calibration is established. The comparison therefore remains a method-selection question. Separately, the surface statement's own source-to-period transformation is a within-ICR finding; the unresolved comparison does not dilute or expand that narrower finding. [[CMP-21,FIND-TURNOVER]]",
+    "evidence_records": [
+      "CMP-21",
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      21,
+      22,
+      9
+    ]
+  },
+  {
+    "location": "",
+    "text": "The associated frequency models also have different constructs: a four-percent annual substitution proxy versus one operator update per year. No common person-stock denominator or shared calibration is established. The comparison therefore remains a method-selection question. Separately, the surface statement's own source-to-period transformation is a within-ICR finding; the unresolved comparison does not dilute or expand that narrower finding. [[CMP-21,FIND-TURNOVER]]",
+    "evidence_records": [
+      "CMP-21",
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      21,
+      22,
+      9
+    ]
+  },
+  {
+    "location": "report.md:paragraph:107",
+    "text": "FAMS medical applicant travel uses 20 minutes each way, while the TSO statement uses 34 minutes each way. Different cited studies visibly explain the source selection, but the archived primary-source review does not establish an aligned travel quantity or applicant population. The Altarum brief describes diary-day travel rather than explicitly one-way travel, and the FAMS source concerns adults aged 50 or older. The evidence therefore leaves both the TSO doubling and applicant-population fit open. No corrected travel total is selected. [[CMP-09]]",
+    "evidence_records": [
+      "CMP-09"
+    ],
+    "reference_numbers": [
+      23,
+      16,
+      24,
+      25
+    ]
+  },
+  {
+    "location": "",
+    "text": "FAMS medical applicant travel uses 20 minutes each way, while the TSO statement uses 34 minutes each way. Different cited studies visibly explain the source selection, but the archived primary-source review does not establish an aligned travel quantity or applicant population. The Altarum brief describes diary-day travel rather than explicitly one-way travel, and the FAMS source concerns adults aged 50 or older. The evidence therefore leaves both the TSO doubling and applicant-population fit open. No corrected travel total is selected. [[CMP-09]]",
+    "evidence_records": [
+      "CMP-09"
+    ],
+    "reference_numbers": [
+      23,
+      16,
+      24,
+      25
+    ]
+  },
+  {
+    "location": "report.md:paragraph:108",
+    "text": "TWIC and HME use 10 minutes for online renewal, while PreCheck uses 1.8 minutes and separately models conditional biometric submission. TWIC reports pilot completion faster than its retained conservative estimate. These distinctions prevent treating all three published figures as interchangeable measured means. Closure would require aligned form content, conditional-task definitions, and timing evidence. Conditional biometrics must not be labeled duplicate renewal burden merely because it is an additional row. [[CMP-10]]",
+    "evidence_records": [
+      "CMP-10"
+    ],
+    "reference_numbers": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "location": "",
+    "text": "TWIC and HME use 10 minutes for online renewal, while PreCheck uses 1.8 minutes and separately models conditional biometric submission. TWIC reports pilot completion faster than its retained conservative estimate. These distinctions prevent treating all three published figures as interchangeable measured means. Closure would require aligned form content, conditional-task definitions, and timing evidence. Conditional biometrics must not be labeled duplicate renewal burden merely because it is an additional row. [[CMP-10]]",
+    "evidence_records": [
+      "CMP-10"
+    ],
+    "reference_numbers": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "location": "table:findings:row:0",
+    "text": "HME pathways\n202606-1652-002 [[FIND-HME]]",
+    "evidence_records": [
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      27,
+      29
+    ]
+  },
+  {
+    "location": "table:findings:row:1",
+    "text": "Maryland Three costs\n202501-1652-002 [[FIND-MD3]]",
+    "evidence_records": [
+      "FIND-MD3"
+    ],
+    "reference_numbers": [
+      30,
+      31
+    ]
+  },
+  {
+    "location": "table:findings:row:2",
+    "text": "Generic clearance\n202504-1652-003 [[FIND-GENERIC]]",
+    "evidence_records": [
+      "FIND-GENERIC"
+    ],
+    "reference_numbers": [
+      32,
+      33
+    ]
+  },
+  {
+    "location": "table:findings:row:3",
+    "text": "EXIS populations\n202411-1652-004 [[FIND-EXIS]]",
+    "evidence_records": [
+      "FIND-EXIS"
+    ],
+    "reference_numbers": [
+      34,
+      35
+    ]
+  },
+  {
+    "location": "table:findings:row:4",
+    "text": "LEO Federal cost\n202509-1652-001 [[FIND-LEO]]",
+    "evidence_records": [
+      "FIND-LEO"
+    ],
+    "reference_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "location": "table:findings:row:5",
+    "text": "Surface-cyber turnover\n202606-1652-001 [[FIND-TURNOVER]]",
+    "evidence_records": [
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      21,
+      9
+    ]
+  },
+  {
+    "location": "table:findings:row:6",
+    "text": "PreCheck valuation\n202605-1652-002 [[FIND-PRECHECK]]",
+    "evidence_records": [
+      "FIND-PRECHECK"
+    ],
+    "reference_numbers": [
+      28,
+      36
+    ]
+  },
+  {
+    "location": "table:findings:row:7",
+    "text": "Pipeline plan-review cost\n202512-1652-001 [[FIND-CYBER-COST]]",
+    "evidence_records": [
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      10,
+      8
+    ]
+  },
+  {
+    "location": "report.md:paragraph:116",
+    "text": "The Hazardous Materials Endorsement (HME) package, reference 202606-1652-002, control 1652-0027, was pending at the evidence cutoff. The statement describes online renewal as avoiding an enrollment-center visit. However, the in-person rows already exhaust the TSA-agent applicant population before online renewals are added. [[FIND-HME]]",
+    "evidence_records": [
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      27,
+      29
+    ]
+  },
+  {
+    "location": "",
+    "text": "The Hazardous Materials Endorsement (HME) package, reference 202606-1652-002, control 1652-0027, was pending at the evidence cutoff. The statement describes online renewal as avoiding an enrollment-center visit. However, the in-person rows already exhaust the TSA-agent applicant population before online renewals are added. [[FIND-HME]]",
+    "evidence_records": [
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      27,
+      29
+    ]
+  },
+  {
+    "location": "report.md:paragraph:117",
+    "text": "For 2026, the two in-person counts are 75,000 and 95,454, which sum to the parent cohort of 170,454. Adding 53,182 online renewals produces a partition residual of 53,182. The corresponding residuals are 54,840 in 2027 and 53,816 in 2028, exactly the displayed online-renewal counts. These are residuals in an analyst's exclusive-pathway identity; zero is the expected identity result, not a published source value. [[FIND-HME]]",
+    "evidence_records": [
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      27,
+      29
+    ]
+  },
+  {
+    "location": "",
+    "text": "For 2026, the two in-person counts are 75,000 and 95,454, which sum to the parent cohort of 170,454. Adding 53,182 online renewals produces a partition residual of 53,182. The corresponding residuals are 54,840 in 2027 and 53,816 in 2028, exactly the displayed online-renewal counts. These are residuals in an analyst's exclusive-pathway identity; zero is the expected identity result, not a published source value. [[FIND-HME]]",
+    "evidence_records": [
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      27,
+      29
+    ]
+  },
+  {
+    "location": "table:hme:note",
+    "text": "Source: HME pending package 202606-1652-002, enrollment pathway tables. Residual = in-person rows + online renewals - parent cohort, in persons. Zero is the analyst partition identity. [[FIND-HME]]",
+    "evidence_records": [
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      27,
+      29
+    ]
+  },
+  {
+    "location": "",
+    "text": "Source: HME pending package 202606-1652-002, enrollment pathway tables. Residual = in-person rows + online renewals - parent cohort, in persons. Zero is the analyst partition identity. [[FIND-HME]]",
+    "evidence_records": [
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      27,
+      29
+    ]
+  },
+  {
+    "location": "report.md:paragraph:119",
+    "text": "The challenge tested whether table extraction had displaced merged headers or whether in-person and online activities were deliberately additive. Original cell origins were verified. The narrative's avoidance of an in-person visit does not support charging the full parent population for that visit and then adding online renewal as another complete pathway. A documented rule requiring both activities, or evidence of a different parent cohort, could change the interpretation; neither is established in the reviewed paragraphs. [[FIND-HME]]",
+    "evidence_records": [
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      27,
+      29
+    ]
+  },
+  {
+    "location": "",
+    "text": "The challenge tested whether table extraction had displaced merged headers or whether in-person and online activities were deliberately additive. Original cell origins were verified. The narrative's avoidance of an in-person visit does not support charging the full parent population for that visit and then adding online renewal as another complete pathway. A documented rule requiring both activities, or evidence of a different parent cohort, could change the interpretation; neither is established in the reviewed paragraphs. [[FIND-HME]]",
+    "evidence_records": [
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      27,
+      29
+    ]
+  },
+  {
+    "location": "report.md:paragraph:120",
+    "text": "The finding is deliberately narrow. The prior HME statement partitions its populations coherently, and TWIC partitions also reconcile. The evidence does not support a general claim that credentialing models duplicate pathways. Nor can the residual counts simply be multiplied by a selected time or wage to produce an official corrected burden: the authoritative eligibility and activity rules must first be established. The recommended control is a declared exclusive/additive relationship for every pathway and a population-partition check against its parent cohort. [[FIND-HME]]",
+    "evidence_records": [
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      27,
+      29
+    ]
+  },
+  {
+    "location": "",
+    "text": "The finding is deliberately narrow. The prior HME statement partitions its populations coherently, and TWIC partitions also reconcile. The evidence does not support a general claim that credentialing models duplicate pathways. Nor can the residual counts simply be multiplied by a selected time or wage to produce an official corrected burden: the authoritative eligibility and activity rules must first be established. The recommended control is a declared exclusive/additive relationship for every pathway and a population-partition check against its parent cohort. [[FIND-HME]]",
+    "evidence_records": [
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      27,
+      29
+    ]
+  },
+  {
+    "location": "report.md:paragraph:122",
+    "text": "The Maryland-3 Airports package, reference 202501-1652-002, control 1652-0029, was active and approved with change. Its stated annual population is 262 applicants, its task bundle totals 5.75 hours, and its displayed loaded wage is $98.37 per hour. Their product is $148,194.405, compared with the published annual figure of $208,718. The displayed per-person product is $565.6275, compared with the published $563.63. [[FIND-MD3]]",
+    "evidence_records": [
+      "FIND-MD3"
+    ],
+    "reference_numbers": [
+      30,
+      31
+    ]
+  },
+  {
+    "location": "",
+    "text": "The Maryland-3 Airports package, reference 202501-1652-002, control 1652-0029, was active and approved with change. Its stated annual population is 262 applicants, its task bundle totals 5.75 hours, and its displayed loaded wage is $98.37 per hour. Their product is $148,194.405, compared with the published annual figure of $208,718. The displayed per-person product is $565.6275, compared with the published $563.63. [[FIND-MD3]]",
+    "evidence_records": [
+      "FIND-MD3"
+    ],
+    "reference_numbers": [
+      30,
+      31
+    ]
+  },
+  {
+    "location": "report.md:paragraph:123",
+    "text": "The large annual discrepancy is not explained by display rounding. The review also tested a three-year interpretation, additional tasks, a different actor or wage boundary, and prior-version values. The source separately reports a three-year narrative amount of $626,155. The predecessor has 369 applicants and a different wage, which cannot substitute for the current inputs without an explicit model explanation. [[FIND-MD3]]",
+    "evidence_records": [
+      "FIND-MD3"
+    ],
+    "reference_numbers": [
+      30,
+      31
+    ]
+  },
+  {
+    "location": "",
+    "text": "The large annual discrepancy is not explained by display rounding. The review also tested a three-year interpretation, additional tasks, a different actor or wage boundary, and prior-version values. The source separately reports a three-year narrative amount of $626,155. The predecessor has 369 applicants and a different wage, which cannot substitute for the current inputs without an explicit model explanation. [[FIND-MD3]]",
+    "evidence_records": [
+      "FIND-MD3"
+    ],
+    "reference_numbers": [
+      30,
+      31
+    ]
+  },
+  {
+    "location": "report.md:paragraph:124",
+    "text": "This is a cost-product reconstruction finding. The independently calculated products show what the displayed operands yield, not what the official estimate should necessarily become. A different eligible population, additional priced task, or different annual time basis would need to be documented and reconciled across the table and narrative. A deterministic control should require every reported cost total and per-person amount to resolve to the same approved inputs and rounding rules. [[FIND-MD3]]",
+    "evidence_records": [
+      "FIND-MD3"
+    ],
+    "reference_numbers": [
+      30,
+      31
+    ]
+  },
+  {
+    "location": "",
+    "text": "This is a cost-product reconstruction finding. The independently calculated products show what the displayed operands yield, not what the official estimate should necessarily become. A different eligible population, additional priced task, or different annual time basis would need to be documented and reconciled across the table and narrative. A deterministic control should require every reported cost total and per-person amount to resolve to the same approved inputs and rounding rules. [[FIND-MD3]]",
+    "evidence_records": [
+      "FIND-MD3"
+    ],
+    "reference_numbers": [
+      30,
+      31
+    ]
+  },
+  {
+    "location": "report.md:paragraph:126",
+    "text": "The Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery, reference 202504-1652-003, control 1652-0058, was active and approved without change. Its feedback row specifies 589,066 respondents and 45 minutes. The product is 441,799.5 hours, whereas the table publishes 589,066.43 hours. The five displayed respondent rows sum to 4,149,166, compared with a table total of 7,094,500. The annual narrative gives 13,383 hours while the table's displayed total is 1,180,050 hours. [[FIND-GENERIC]]",
+    "evidence_records": [
+      "FIND-GENERIC"
+    ],
+    "reference_numbers": [
+      32,
+      33
+    ]
+  },
+  {
+    "location": "",
+    "text": "The Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery, reference 202504-1652-003, control 1652-0058, was active and approved without change. Its feedback row specifies 589,066 respondents and 45 minutes. The product is 441,799.5 hours, whereas the table publishes 589,066.43 hours. The five displayed respondent rows sum to 4,149,166, compared with a table total of 7,094,500. The annual narrative gives 13,383 hours while the table's displayed total is 1,180,050 hours. [[FIND-GENERIC]]",
+    "evidence_records": [
+      "FIND-GENERIC"
+    ],
+    "reference_numbers": [
+      32,
+      33
+    ]
+  },
+  {
+    "location": "report.md:paragraph:127",
+    "text": "These are three related reconciliation problems within one finding, not three independent package defects. Even a half-minute allowance around the displayed feedback duration does not explain the row-product difference. Recovered table geometry confirms the minutes column and row identities. The preceding version repeats table values, which demonstrates recurrence but does not resolve the arithmetic or validate the totals. [[FIND-GENERIC]]",
+    "evidence_records": [
+      "FIND-GENERIC"
+    ],
+    "reference_numbers": [
+      32,
+      33
+    ]
+  },
+  {
+    "location": "",
+    "text": "These are three related reconciliation problems within one finding, not three independent package defects. Even a half-minute allowance around the displayed feedback duration does not explain the row-product difference. Recovered table geometry confirms the minutes column and row identities. The preceding version repeats table values, which demonstrates recurrence but does not resolve the arithmetic or validate the totals. [[FIND-GENERIC]]",
+    "evidence_records": [
+      "FIND-GENERIC"
+    ],
+    "reference_numbers": [
+      32,
+      33
+    ]
+  },
+  {
+    "location": "report.md:paragraph:128",
+    "text": "A generic clearance establishes a ceiling rather than observed realized collections. That qualification prevents claims about actual respondent hours or realized overstatement. It does not make incompatible annual table and narrative values reconcile. The appropriate response is to identify the authoritative ceiling, the scope of each table, and the column units, then bind all summaries to the same selected calculation. Neither published total is adopted here as the corrected official ceiling. [[FIND-GENERIC]]",
+    "evidence_records": [
+      "FIND-GENERIC"
+    ],
+    "reference_numbers": [
+      32,
+      33
+    ]
+  },
+  {
+    "location": "",
+    "text": "A generic clearance establishes a ceiling rather than observed realized collections. That qualification prevents claims about actual respondent hours or realized overstatement. It does not make incompatible annual table and narrative values reconcile. The appropriate response is to identify the authoritative ceiling, the scope of each table, and the column units, then bind all summaries to the same selected calculation. Neither published total is adopted here as the corrected official ceiling. [[FIND-GENERIC]]",
+    "evidence_records": [
+      "FIND-GENERIC"
+    ],
+    "reference_numbers": [
+      32,
+      33
+    ]
+  },
+  {
+    "location": "report.md:paragraph:130",
+    "text": "The Exercise Information System (EXIS) package, reference 202411-1652-004, control 1652-0057, was active and approved without change. Table 3 estimates exercisers from five percent of new limited users. Table 4 instead applies 95 percent to the entire limited-user stock, although the narrative describes subtracting Table 3 exercisers. [[FIND-EXIS]]",
+    "evidence_records": [
+      "FIND-EXIS"
+    ],
+    "reference_numbers": [
+      34,
+      35
+    ]
+  },
+  {
+    "location": "",
+    "text": "The Exercise Information System (EXIS) package, reference 202411-1652-004, control 1652-0057, was active and approved without change. Table 3 estimates exercisers from five percent of new limited users. Table 4 instead applies 95 percent to the entire limited-user stock, although the narrative describes subtracting Table 3 exercisers. [[FIND-EXIS]]",
+    "evidence_records": [
+      "FIND-EXIS"
+    ],
+    "reference_numbers": [
+      34,
+      35
+    ]
+  },
+  {
+    "location": "report.md:paragraph:131",
+    "text": "For 2025, the limited-user stock is 12,654 and Table 3 exercisers are 90. Following the stated subtraction yields 12,564, while Table 4 gives 12,021.3. The respective differences are 542.7, 632.7, and 702.2 responses across the three modeled years. These differences exceed rounding. [[FIND-EXIS]]",
+    "evidence_records": [
+      "FIND-EXIS"
+    ],
+    "reference_numbers": [
+      34,
+      35
+    ]
+  },
+  {
+    "location": "",
+    "text": "For 2025, the limited-user stock is 12,654 and Table 3 exercisers are 90. Following the stated subtraction yields 12,564, while Table 4 gives 12,021.3. The respective differences are 542.7, 632.7, and 702.2 responses across the three modeled years. These differences exceed rounding. [[FIND-EXIS]]",
+    "evidence_records": [
+      "FIND-EXIS"
+    ],
+    "reference_numbers": [
+      34,
+      35
+    ]
+  },
+  {
+    "location": "report.md:paragraph:132",
+    "text": "There is a plausible alternative model: if five percent of the entire user stock exercises annually, then a 95-percent stock calculation could be appropriate. But that model would depart from the stated new-user-based Table 3 subtraction. The evidence does not select which participation behavior is correct. It identifies a mismatch between the narrative operation and the table's denominator. A control should require every stock, inflow, subset, and subtraction to use an explicit population identity. [[FIND-EXIS]]",
+    "evidence_records": [
+      "FIND-EXIS"
+    ],
+    "reference_numbers": [
+      34,
+      35
+    ]
+  },
+  {
+    "location": "",
+    "text": "There is a plausible alternative model: if five percent of the entire user stock exercises annually, then a 95-percent stock calculation could be appropriate. But that model would depart from the stated new-user-based Table 3 subtraction. The evidence does not select which participation behavior is correct. It identifies a mismatch between the narrative operation and the table's denominator. A control should require every stock, inflow, subset, and subtraction to use an explicit population identity. [[FIND-EXIS]]",
+    "evidence_records": [
+      "FIND-EXIS"
+    ],
+    "reference_numbers": [
+      34,
+      35
+    ]
+  },
+  {
+    "location": "report.md:paragraph:134",
+    "text": "The Law Enforcement Officers Flying Armed package, reference 202509-1652-001, control 1652-0072, was active and approved with change. Its annual Federal task inputs are 83,749 responses, 0.025 hour per response, and $75.94 per hour. The annual product is $158,997.4765, which is consistent with the narrative's rounded annual figure of $158,997. The table's annual-cost column contains $476,990.86. [[FIND-LEO]]",
+    "evidence_records": [
+      "FIND-LEO"
+    ],
+    "reference_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "location": "",
+    "text": "The Law Enforcement Officers Flying Armed package, reference 202509-1652-001, control 1652-0072, was active and approved with change. Its annual Federal task inputs are 83,749 responses, 0.025 hour per response, and $75.94 per hour. The annual product is $158,997.4765, which is consistent with the narrative's rounded annual figure of $158,997. The table's annual-cost column contains $476,990.86. [[FIND-LEO]]",
+    "evidence_records": [
+      "FIND-LEO"
+    ],
+    "reference_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "location": "report.md:paragraph:135",
+    "text": "Multiplying the displayed annual product by three yields $476,992.4295, within wage-rounding tolerance of the table cell. A three-year interpretation therefore explains the magnitude but not the annual heading. The source excludes other Federal entities from the described cost, and the review did not identify an additional annual task that would account for the cell under its heading. [[FIND-LEO]]",
+    "evidence_records": [
+      "FIND-LEO"
+    ],
+    "reference_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "location": "",
+    "text": "Multiplying the displayed annual product by three yields $476,992.4295, within wage-rounding tolerance of the table cell. A three-year interpretation therefore explains the magnitude but not the annual heading. The source excludes other Federal entities from the described cost, and the review did not identify an additional annual task that would account for the cell under its heading. [[FIND-LEO]]",
+    "evidence_records": [
+      "FIND-LEO"
+    ],
+    "reference_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "location": "report.md:paragraph:136",
+    "text": "This is a period-label and representation conflict, not evidence that all Federal costs in the package are wrong. The coherent annual narrative is affirmative counterevidence against a broader conclusion. A governed output should inherit both the amount and its period from the same result object, so that an annual column cannot be populated with a three-year result without an explicit transformation. [[FIND-LEO]]",
+    "evidence_records": [
+      "FIND-LEO"
+    ],
+    "reference_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "location": "",
+    "text": "This is a period-label and representation conflict, not evidence that all Federal costs in the package are wrong. The coherent annual narrative is affirmative counterevidence against a broader conclusion. A governed output should inherit both the amount and its period from the same result object, so that an annual column cannot be populated with a three-year result without an explicit transformation. [[FIND-LEO]]",
+    "evidence_records": [
+      "FIND-LEO"
+    ],
+    "reference_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "location": "report.md:paragraph:138",
+    "text": "The Cybersecurity Measures for Surface Modes package, reference 202606-1652-001, control 1652-0074, was pending at the evidence cutoff. Its coordinator update model uses a four-percent coefficient annually, while the source footnote describes an average of monthly separation rates. The model also combines the coefficient with nine-percent residential mobility to represent contact changes. [[FIND-TURNOVER]]",
+    "evidence_records": [
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      21,
+      9
+    ]
+  },
+  {
+    "location": "",
+    "text": "The Cybersecurity Measures for Surface Modes package, reference 202606-1652-001, control 1652-0074, was pending at the evidence cutoff. Its coordinator update model uses a four-percent coefficient annually, while the source footnote describes an average of monthly separation rates. The model also combines the coefficient with nine-percent residential mobility to represent contact changes. [[FIND-TURNOVER]]",
+    "evidence_records": [
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      21,
+      9
+    ]
+  },
+  {
+    "location": "report.md:paragraph:139",
+    "text": "The arithmetic representation of four percent as 0.04 is unproblematic. The issue is the mapping from a monthly event-rate statistic to an annual coordinator-stock assumption, and from separation or residential movement to required contact updates. The public evidence does not supply an annual calibration or an overlap rule for those mechanisms. A deliberate four-percent annual proxy could be defensible, but the cited monthly statistic does not establish it by itself. [[FIND-TURNOVER]]",
+    "evidence_records": [
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      21,
+      9
+    ]
+  },
+  {
+    "location": "",
+    "text": "The arithmetic representation of four percent as 0.04 is unproblematic. The issue is the mapping from a monthly event-rate statistic to an annual coordinator-stock assumption, and from separation or residential movement to required contact updates. The public evidence does not supply an annual calibration or an overlap rule for those mechanisms. A deliberate four-percent annual proxy could be defensible, but the cited monthly statistic does not establish it by itself. [[FIND-TURNOVER]]",
+    "evidence_records": [
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      21,
+      9
+    ]
+  },
+  {
+    "location": "report.md:paragraph:140",
+    "text": "The report does not multiply the monthly rate by 12 or compound it into an annual probability. Separations are events; they are not automatically a validated individual hazard for a stable coordinator population. Residential mobility also need not be disjoint from job separation or correspond one-for-one with a required update. Closure requires a documented population, event definition, annual calibration, and overlap mapping. This case requires substantive assumption governance as well as unit-aware calculation controls. [[FIND-TURNOVER]]",
+    "evidence_records": [
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      21,
+      9
+    ]
+  },
+  {
+    "location": "",
+    "text": "The report does not multiply the monthly rate by 12 or compound it into an annual probability. Separations are events; they are not automatically a validated individual hazard for a stable coordinator population. Residential mobility also need not be disjoint from job separation or correspond one-for-one with a required update. Closure requires a documented population, event definition, annual calibration, and overlap mapping. This case requires substantive assumption governance as well as unit-aware calculation controls. [[FIND-TURNOVER]]",
+    "evidence_records": [
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      21,
+      9
+    ]
+  },
+  {
+    "location": "report.md:paragraph:142",
+    "text": "The TSA PreCheck Application Program package, reference 202605-1652-002, control 1652-0059, was active and approved with change. It reports 4,339,658 annual all-activity hours, while 4,286,341 enrollment hours are used in respondent valuation. Their difference is 53,317 hours. Table 15 separately identifies 7,149 correction-of-record hours and 46,167 survey hours, totaling 53,316 hours, within one hour of the displayed gap. [[FIND-PRECHECK]]",
+    "evidence_records": [
+      "FIND-PRECHECK"
+    ],
+    "reference_numbers": [
+      28,
+      36
+    ]
+  },
+  {
+    "location": "",
+    "text": "The TSA PreCheck Application Program package, reference 202605-1652-002, control 1652-0059, was active and approved with change. It reports 4,339,658 annual all-activity hours, while 4,286,341 enrollment hours are used in respondent valuation. Their difference is 53,317 hours. Table 15 separately identifies 7,149 correction-of-record hours and 46,167 survey hours, totaling 53,316 hours, within one hour of the displayed gap. [[FIND-PRECHECK]]",
+    "evidence_records": [
+      "FIND-PRECHECK"
+    ],
+    "reference_numbers": [
+      28,
+      36
+    ]
+  },
+  {
+    "location": "report.md:paragraph:143",
+    "text": "Those named components explain the arithmetic within rounding. The retained classification is unresolved because the reviewed evidence does not explain the valuation rule that excludes correction and survey hours. The report therefore rejects an arithmetic-error interpretation. It also does not automatically value the gap using the enrollment wage: the relevant actor, activity scope, and valuation rule require confirmation. [[FIND-PRECHECK]]",
+    "evidence_records": [
+      "FIND-PRECHECK"
+    ],
+    "reference_numbers": [
+      28,
+      36
+    ]
+  },
+  {
+    "location": "",
+    "text": "Those named components explain the arithmetic within rounding. The retained classification is unresolved because the reviewed evidence does not explain the valuation rule that excludes correction and survey hours. The report therefore rejects an arithmetic-error interpretation. It also does not automatically value the gap using the enrollment wage: the relevant actor, activity scope, and valuation rule require confirmation. [[FIND-PRECHECK]]",
+    "evidence_records": [
+      "FIND-PRECHECK"
+    ],
+    "reference_numbers": [
+      28,
+      36
+    ]
+  },
+  {
+    "location": "report.md:paragraph:144",
+    "text": "A useful control would show, for every burden activity, whether it is monetized, which rate applies, and why any exclusion exists. The sum of valued and explicitly excluded hours should reconcile to the all-activity total. Human review must establish the appropriateness of the exclusion; arithmetic can only verify that the partition is complete. [[FIND-PRECHECK]]",
+    "evidence_records": [
+      "FIND-PRECHECK"
+    ],
+    "reference_numbers": [
+      28,
+      36
+    ]
+  },
+  {
+    "location": "",
+    "text": "A useful control would show, for every burden activity, whether it is monetized, which rate applies, and why any exclusion exists. The sum of valued and explicitly excluded hours should reconcile to the all-activity total. Human review must establish the appropriateness of the exclusion; arithmetic can only verify that the partition is complete. [[FIND-PRECHECK]]",
+    "evidence_records": [
+      "FIND-PRECHECK"
+    ],
+    "reference_numbers": [
+      28,
+      36
+    ]
+  },
+  {
+    "location": "report.md:paragraph:148",
+    "text": "The published total is $290,825.84. The difference between the displayed-input product and the published amount is $56,998.16. Wage rounding across the 3,200 review hours cannot reconcile that difference; neither does the literal unparenthesized printed expression. [[FIND-CYBER-COST]]",
+    "evidence_records": [
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      10,
+      8
+    ]
+  },
+  {
+    "location": "",
+    "text": "The published total is $290,825.84. The difference between the displayed-input product and the published amount is $56,998.16. Wage rounding across the 3,200 review hours cannot reconcile that difference; neither does the literal unparenthesized printed expression. [[FIND-CYBER-COST]]",
+    "evidence_records": [
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      10,
+      8
+    ]
+  },
+  {
+    "location": "report.md:paragraph:149",
+    "text": "The earlier version reports the same total with lower wages and one-time review wording. This historical continuity does not establish why the later total remained unchanged. It also does not establish which recurrence convention should govern the current activity. A different reviewer count, effective rate, or explicit annualization convention would have to reproduce the amount and be documented consistently. [[FIND-CYBER-COST]]",
+    "evidence_records": [
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      10,
+      8
+    ]
+  },
+  {
+    "location": "",
+    "text": "The earlier version reports the same total with lower wages and one-time review wording. This historical continuity does not establish why the later total remained unchanged. It also does not establish which recurrence convention should govern the current activity. A different reviewer count, effective rate, or explicit annualization convention would have to reproduce the amount and be documented consistently. [[FIND-CYBER-COST]]",
+    "evidence_records": [
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      10,
+      8
+    ]
+  },
+  {
+    "location": "report.md:paragraph:150",
+    "text": "This case brings the principal thesis into focus. The eight-manager-hour and 24-analyst-hour components are consistent in the comparative method review, while the cost representation remains unreconciled. An institution can preserve a useful role-based method and still need a deterministic control that requires reported costs to use the displayed workload, rates, and period. The recomputed value is not an estimate of actual spending or a replacement official total. [[CMP-16,FIND-CYBER-COST]]",
+    "evidence_records": [
+      "CMP-16",
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "location": "",
+    "text": "This case brings the principal thesis into focus. The eight-manager-hour and 24-analyst-hour components are consistent in the comparative method review, while the cost representation remains unreconciled. An institution can preserve a useful role-based method and still need a deterministic control that requires reported costs to use the displayed workload, rates, and period. The recomputed value is not an estimate of actual spending or a replacement official total. [[CMP-16,FIND-CYBER-COST]]",
+    "evidence_records": [
+      "CMP-16",
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "location": "report.md:paragraph:152",
+    "text": "The registered Transportation Worker Identification Credential (TWIC) bridge links the prior annualized baseline of 430,317 hours to 510,471 hours. Six displayed component changes sum to 80,154 hours, with zero residual. The prior baseline is independently matched to the predecessor statement and to the current Item 15 narrative. [[BASELINE-TWIC-2025]]",
+    "evidence_records": [
+      "BASELINE-TWIC-2025"
+    ],
+    "reference_numbers": [
+      26,
+      54
+    ]
+  },
+  {
+    "location": "",
+    "text": "The registered Transportation Worker Identification Credential (TWIC) bridge links the prior annualized baseline of 430,317 hours to 510,471 hours. Six displayed component changes sum to 80,154 hours, with zero residual. The prior baseline is independently matched to the predecessor statement and to the current Item 15 narrative. [[BASELINE-TWIC-2025]]",
+    "evidence_records": [
+      "BASELINE-TWIC-2025"
+    ],
+    "reference_numbers": [
+      26,
+      54
+    ]
+  },
+  {
+    "location": "table:twic:note",
+    "text": "Source: TWIC 202502-1652-004 and 202504-1652-008, annualized burden tables and Item 15. Residual is zero; this is not a causal factor decomposition. [[BASELINE-TWIC-2025]]",
+    "evidence_records": [
+      "BASELINE-TWIC-2025"
+    ],
+    "reference_numbers": [
+      26,
+      54
+    ]
+  },
+  {
+    "location": "",
+    "text": "Source: TWIC 202502-1652-004 and 202504-1652-008, annualized burden tables and Item 15. Residual is zero; this is not a causal factor decomposition. [[BASELINE-TWIC-2025]]",
+    "evidence_records": [
+      "BASELINE-TWIC-2025"
+    ],
+    "reference_numbers": [
+      26,
+      54
+    ]
+  },
+  {
+    "location": "figure:twic",
+    "text": "Source: annualized TWIC component bridge; all values are hours. Component changes sum to +80,154 with zero residual. No causal driver attribution. [[BASELINE-TWIC-2025]]",
+    "evidence_records": [
+      "BASELINE-TWIC-2025"
+    ],
+    "reference_numbers": [
+      26,
+      54
+    ]
+  },
+  {
+    "location": "",
+    "text": "Source: annualized TWIC component bridge; all values are hours. Component changes sum to +80,154 with zero residual. No causal driver attribution. [[BASELINE-TWIC-2025]]",
+    "evidence_records": [
+      "BASELINE-TWIC-2025"
+    ],
+    "reference_numbers": [
+      26,
+      54
+    ]
+  },
+  {
+    "location": "report.md:paragraph:155",
+    "text": "The bridge verifies the named annualized component reconciliation. It does not isolate causal contributions from population growth, time changes, pathway shares, or other factors within a component. That requires a declared decomposition model, including treatment of interactions. It also does not verify other portfolio baselines merely because prior statements have been retrieved. The practical lesson is to retain baseline identity and a component ledger as explicit model objects, then add causal driver attribution where supported. [[BASELINE-TWIC-2025]]",
+    "evidence_records": [
+      "BASELINE-TWIC-2025"
+    ],
+    "reference_numbers": [
+      26,
+      54
+    ]
+  },
+  {
+    "location": "",
+    "text": "The bridge verifies the named annualized component reconciliation. It does not isolate causal contributions from population growth, time changes, pathway shares, or other factors within a component. That requires a declared decomposition model, including treatment of interactions. It also does not verify other portfolio baselines merely because prior statements have been retrieved. The practical lesson is to retain baseline identity and a component ledger as explicit model objects, then add causal driver attribution where supported. [[BASELINE-TWIC-2025]]",
+    "evidence_records": [
+      "BASELINE-TWIC-2025"
+    ],
+    "reference_numbers": [
+      26,
+      54
+    ]
+  },
+  {
+    "location": "report.md:paragraph:163",
+    "text": "Task duration, management review, legal review, familiarization, recordkeeping, and renewal supply recurring building blocks. The evidence supports retaining a defined per-plan manager/analyst review structure, a bounded training-record entry task, and stable within-lineage familiarization or appeal components. It does not support one universal review time, recordkeeping coefficient, or renewal duration. [[CMP-03,CMP-16,CMP-19,CMP-20,CMP-26]]",
+    "evidence_records": [
+      "CMP-03",
+      "CMP-16",
+      "CMP-19",
+      "CMP-20",
+      "CMP-26"
+    ],
+    "reference_numbers": [
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      31,
+      30,
+      41,
+      42,
+      43,
+      44
+    ]
+  },
+  {
+    "location": "",
+    "text": "Task duration, management review, legal review, familiarization, recordkeeping, and renewal supply recurring building blocks. The evidence supports retaining a defined per-plan manager/analyst review structure, a bounded training-record entry task, and stable within-lineage familiarization or appeal components. It does not support one universal review time, recordkeeping coefficient, or renewal duration. [[CMP-03,CMP-16,CMP-19,CMP-20,CMP-26]]",
+    "evidence_records": [
+      "CMP-03",
+      "CMP-16",
+      "CMP-19",
+      "CMP-20",
+      "CMP-26"
+    ],
+    "reference_numbers": [
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      31,
+      30,
+      41,
+      42,
+      43,
+      44
+    ]
+  },
+  {
+    "location": "report.md:paragraph:165",
+    "text": "Compensation is suitable for standardizing the transformation contract. If total compensation is C and wages are W, a loading factor C/W can be applied to a compatible wage input. A benefit share of total compensation requires a different transformation from a benefit-to-wage markup. Direct compensation must not be loaded again without a separately justified component. The choice of worker universe, occupation, vintage, and any overhead remains case-specific. [[CMP-06,CMP-07,ANALOGUE-202310-1220-004,CANONICAL]]",
+    "evidence_records": [
+      "CMP-06",
+      "CMP-07",
+      "ANALOGUE-202310-1220-004",
+      "CANONICAL"
+    ],
+    "reference_numbers": [
+      40,
+      10,
+      11,
+      1,
+      55,
+      56
+    ]
+  },
+  {
+    "location": "",
+    "text": "Compensation is suitable for standardizing the transformation contract. If total compensation is C and wages are W, a loading factor C/W can be applied to a compatible wage input. A benefit share of total compensation requires a different transformation from a benefit-to-wage markup. Direct compensation must not be loaded again without a separately justified component. The choice of worker universe, occupation, vintage, and any overhead remains case-specific. [[CMP-06,CMP-07,ANALOGUE-202310-1220-004,CANONICAL]]",
+    "evidence_records": [
+      "CMP-06",
+      "CMP-07",
+      "ANALOGUE-202310-1220-004",
+      "CANONICAL"
+    ],
+    "reference_numbers": [
+      40,
+      10,
+      11,
+      1,
+      55,
+      56
+    ]
+  },
+  {
+    "location": "report.md:paragraph:167",
+    "text": "Pathway shares require explicit eligibility and overlap rules. An initial application plus a conditional resubmission is an additive sequence; an online alternative that avoids an in-person visit may be an exclusive partition. Renewal duration requires a known form and conditional-task boundary. Turnover requires a population and annual event calibration. Source authority does not replace these mappings. [[CMP-10,CMP-22,FIND-HME,FIND-TURNOVER]]",
+    "evidence_records": [
+      "CMP-10",
+      "CMP-22",
+      "FIND-HME",
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      26,
+      27,
+      28,
+      17,
+      29,
+      21,
+      9
+    ]
+  },
+  {
+    "location": "",
+    "text": "Pathway shares require explicit eligibility and overlap rules. An initial application plus a conditional resubmission is an additive sequence; an online alternative that avoids an in-person visit may be an exclusive partition. Renewal duration requires a known form and conditional-task boundary. Turnover requires a population and annual event calibration. Source authority does not replace these mappings. [[CMP-10,CMP-22,FIND-HME,FIND-TURNOVER]]",
+    "evidence_records": [
+      "CMP-10",
+      "CMP-22",
+      "FIND-HME",
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      26,
+      27,
+      28,
+      17,
+      29,
+      21,
+      9
+    ]
+  },
+  {
+    "location": "report.md:paragraph:168",
+    "text": "Occupational assignment and wage statistic require an explanation of whose time is valued and whether a mean, median, or other statistic serves the intended purpose. Federal grade/pay requires an identified role, pay basis, effective period, and compensation treatment. Federal review time requires the case type and whether the time is active work, elapsed time, or a bundle of reviewers. Unknown distinctions should remain visible. [[CMP-08,CMP-14,CMP-16]]",
+    "evidence_records": [
+      "CMP-08",
+      "CMP-14",
+      "CMP-16"
+    ],
+    "reference_numbers": [
+      23,
+      16,
+      3,
+      2,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "location": "",
+    "text": "Occupational assignment and wage statistic require an explanation of whose time is valued and whether a mean, median, or other statistic serves the intended purpose. Federal grade/pay requires an identified role, pay basis, effective period, and compensation treatment. Federal review time requires the case type and whether the time is active work, elapsed time, or a bundle of reviewers. Unknown distinctions should remain visible. [[CMP-08,CMP-14,CMP-16]]",
+    "evidence_records": [
+      "CMP-08",
+      "CMP-14",
+      "CMP-16"
+    ],
+    "reference_numbers": [
+      23,
+      16,
+      3,
+      2,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "location": "report.md:paragraph:169",
+    "text": "Fee treatment, purchased services, and capital/system costs require payer, resource, and period boundaries. An examination paid by a candidate and an examination paid through a Federal contractor should not be treated as different resource activities solely because the payer changes. A capital life should not be equated with the approval horizon. The sparse reviewed capital evidence does not support a general default life or annualization method for TSA assets. [[CMP-15,CMP-18,CANONICAL]]",
+    "evidence_records": [
+      "CMP-15",
+      "CMP-18",
+      "CANONICAL"
+    ],
+    "reference_numbers": [
+      16,
+      27,
+      26,
+      56
+    ]
+  },
+  {
+    "location": "",
+    "text": "Fee treatment, purchased services, and capital/system costs require payer, resource, and period boundaries. An examination paid by a candidate and an examination paid through a Federal contractor should not be treated as different resource activities solely because the payer changes. A capital life should not be equated with the approval horizon. The sparse reviewed capital evidence does not support a general default life or annualization method for TSA assets. [[CMP-15,CMP-18,CANONICAL]]",
+    "evidence_records": [
+      "CMP-15",
+      "CMP-18",
+      "CANONICAL"
+    ],
+    "reference_numbers": [
+      16,
+      27,
+      26,
+      56
+    ]
+  },
+  {
+    "location": "report.md:paragraph:175",
+    "text": "The prior Federal benchmark found useful practices distributed across agencies and dimensions rather than a single uniformly superior exemplar. This report uses four selected cases already linked to the TSA evidence. They illustrate methods or analogous risks; they do not provide replacement TSA coefficients or a prevalence comparison. [[BENCHMARK]]",
+    "evidence_records": [
+      "BENCHMARK"
+    ],
+    "reference_numbers": [
+      57
+    ]
+  },
+  {
+    "location": "",
+    "text": "The prior Federal benchmark found useful practices distributed across agencies and dimensions rather than a single uniformly superior exemplar. This report uses four selected cases already linked to the TSA evidence. They illustrate methods or analogous risks; they do not provide replacement TSA coefficients or a prevalence comparison. [[BENCHMARK]]",
+    "evidence_records": [
+      "BENCHMARK"
+    ],
+    "reference_numbers": [
+      57
+    ]
+  },
+  {
+    "location": "table:analogues:row:0",
+    "text": "Census AIES [[ANALOGUE-202310-0607-003]]",
+    "evidence_records": [
+      "ANALOGUE-202310-0607-003"
+    ],
+    "reference_numbers": [
+      58
+    ]
+  },
+  {
+    "location": "table:analogues:row:1",
+    "text": "Federal Communications Commission (FCC), IPCS [[ANALOGUE-202503-3060-020]]",
+    "evidence_records": [
+      "ANALOGUE-202503-3060-020"
+    ],
+    "reference_numbers": [
+      59
+    ]
+  },
+  {
+    "location": "table:analogues:row:2",
+    "text": "Bureau of Labor Statistics (BLS), National Compensation Survey [[ANALOGUE-202310-1220-004]]",
+    "evidence_records": [
+      "ANALOGUE-202310-1220-004"
+    ],
+    "reference_numbers": [
+      55
+    ]
+  },
+  {
+    "location": "table:analogues:row:3",
+    "text": "Customs and Border Protection (CBP), Global Interoperability Standards [[ANALOGUE-202411-1651-004]]",
+    "evidence_records": [
+      "ANALOGUE-202411-1651-004"
+    ],
+    "reference_numbers": [
+      60
+    ]
+  },
+  {
+    "location": "report.md:paragraph:178",
+    "text": "The Census Annual Integrated Economic Survey (AIES) distinguishes respondent research and paradata measures. The reviewed evidence records medians of 4.5 hours in a response-analysis survey, four hours in the instrument, and 1.1 hours in paradata, with different samples and measurement scopes. These numbers are not interchangeable measures or means. The relevant lesson for TSA amendment, travel, and renewal questions is to preserve preparation time, active versus elapsed scope, respondent segment, and statistic type before applying a timing estimate. No AIES duration is proposed as a TSA default. [[ANALOGUE-202310-0607-003]]",
+    "evidence_records": [
+      "ANALOGUE-202310-0607-003"
+    ],
+    "reference_numbers": [
+      58
+    ]
+  },
+  {
+    "location": "",
+    "text": "The Census Annual Integrated Economic Survey (AIES) distinguishes respondent research and paradata measures. The reviewed evidence records medians of 4.5 hours in a response-analysis survey, four hours in the instrument, and 1.1 hours in paradata, with different samples and measurement scopes. These numbers are not interchangeable measures or means. The relevant lesson for TSA amendment, travel, and renewal questions is to preserve preparation time, active versus elapsed scope, respondent segment, and statistic type before applying a timing estimate. No AIES duration is proposed as a TSA default. [[ANALOGUE-202310-0607-003]]",
+    "evidence_records": [
+      "ANALOGUE-202310-0607-003"
+    ],
+    "reference_numbers": [
+      58
+    ]
+  },
+  {
+    "location": "report.md:paragraph:180",
+    "text": "The FCC Incarcerated People's Communications Services (IPCS) example distinguishes a prior-approved burden baseline from a public-notice estimate. The approved-baseline bridge is 6,690 + 5,900 + 1,760 + 825 = 15,175 hours. The notice estimate is 17,555 hours, with a 2,380-hour reduction to the same 15,175-hour endpoint. Both deltas can be meaningful because their starting points differ. [[ANALOGUE-202503-3060-020]]",
+    "evidence_records": [
+      "ANALOGUE-202503-3060-020"
+    ],
+    "reference_numbers": [
+      59
+    ]
+  },
+  {
+    "location": "",
+    "text": "The FCC Incarcerated People's Communications Services (IPCS) example distinguishes a prior-approved burden baseline from a public-notice estimate. The approved-baseline bridge is 6,690 + 5,900 + 1,760 + 825 = 15,175 hours. The notice estimate is 17,555 hours, with a 2,380-hour reduction to the same 15,175-hour endpoint. Both deltas can be meaningful because their starting points differ. [[ANALOGUE-202503-3060-020]]",
+    "evidence_records": [
+      "ANALOGUE-202503-3060-020"
+    ],
+    "reference_numbers": [
+      59
+    ]
+  },
+  {
+    "location": "report.md:paragraph:181",
+    "text": "The relevance to TSA is the structure: identify the baseline, retain component changes, and reconcile the endpoint. The FCC values do not substitute for a TSA baseline. The verified TWIC bridge is a TSA example of component reconciliation, while most other numerical baselines remain outside the scope of verified bridges in this study. [[BASELINE-TWIC-2025]]",
+    "evidence_records": [
+      "BASELINE-TWIC-2025"
+    ],
+    "reference_numbers": [
+      26,
+      54
+    ]
+  },
+  {
+    "location": "",
+    "text": "The relevance to TSA is the structure: identify the baseline, retain component changes, and reconcile the endpoint. The FCC values do not substitute for a TSA baseline. The verified TWIC bridge is a TSA example of component reconciliation, while most other numerical baselines remain outside the scope of verified bridges in this study. [[BASELINE-TWIC-2025]]",
+    "evidence_records": [
+      "BASELINE-TWIC-2025"
+    ],
+    "reference_numbers": [
+      26,
+      54
+    ]
+  },
+  {
+    "location": "report.md:paragraph:183",
+    "text": "The BLS National Compensation Survey uses direct total compensation and an occupational mix. Its reviewed rates of $63.45 and $33.01, weighted 70 and 30 percent, produce a displayed weighted rate of $54.32. This illustrates an observable alternative to separately loading a wage. It does not establish an optimal TSA proxy, and its rates should not be transplanted to unrelated tasks or vintages. [[ANALOGUE-202310-1220-004]]",
+    "evidence_records": [
+      "ANALOGUE-202310-1220-004"
+    ],
+    "reference_numbers": [
+      55
+    ]
+  },
+  {
+    "location": "",
+    "text": "The BLS National Compensation Survey uses direct total compensation and an occupational mix. Its reviewed rates of $63.45 and $33.01, weighted 70 and 30 percent, produce a displayed weighted rate of $54.32. This illustrates an observable alternative to separately loading a wage. It does not establish an optimal TSA proxy, and its rates should not be transplanted to unrelated tasks or vintages. [[ANALOGUE-202310-1220-004]]",
+    "evidence_records": [
+      "ANALOGUE-202310-1220-004"
+    ],
+    "reference_numbers": [
+      55
+    ]
+  },
+  {
+    "location": "report.md:paragraph:184",
+    "text": "The CBP Global Interoperability Standards example illustrates a related reconstruction problem rather than a best-practice cost total. Its Federal inputs of 288 responses and two hours per response imply 576 hours, while the statement reports 10 hours and about $702 using a $70.19 rate. The example also raises a boundary issue between collection costs and broader claimed savings. It shows that this type of public reconstruction risk is not unique to TSA, without establishing relative frequency or severity across agencies. [[ANALOGUE-202411-1651-004]]",
+    "evidence_records": [
+      "ANALOGUE-202411-1651-004"
+    ],
+    "reference_numbers": [
+      60
+    ]
+  },
+  {
+    "location": "",
+    "text": "The CBP Global Interoperability Standards example illustrates a related reconstruction problem rather than a best-practice cost total. Its Federal inputs of 288 responses and two hours per response imply 576 hours, while the statement reports 10 hours and about $702 using a $70.19 rate. The example also raises a boundary issue between collection costs and broader claimed savings. It shows that this type of public reconstruction risk is not unique to TSA, without establishing relative frequency or severity across agencies. [[ANALOGUE-202411-1651-004]]",
+    "evidence_records": [
+      "ANALOGUE-202411-1651-004"
+    ],
+    "reference_numbers": [
+      60
+    ]
+  },
+  {
+    "location": "report.md:paragraph:190",
+    "text": "Representation governance asks whether the same approved analytical result is represented consistently in a calculation, table, footnote, narrative summary, and renewal explanation. Maryland Three, generic clearance, LEO, and pipeline plan review provide direct examples of why this matters. The HME and EXIS cases add population relationships; the turnover case adds source-period mapping. [[FIND-MD3,FIND-GENERIC,FIND-LEO,FIND-CYBER-COST,FIND-HME,FIND-EXIS,FIND-TURNOVER]]",
+    "evidence_records": [
+      "FIND-MD3",
+      "FIND-GENERIC",
+      "FIND-LEO",
+      "FIND-CYBER-COST",
+      "FIND-HME",
+      "FIND-EXIS",
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      30,
+      31,
+      32,
+      33,
+      14,
+      15,
+      10,
+      8,
+      27,
+      29,
+      34,
+      35,
+      21,
+      9
+    ]
+  },
+  {
+    "location": "",
+    "text": "Representation governance asks whether the same approved analytical result is represented consistently in a calculation, table, footnote, narrative summary, and renewal explanation. Maryland Three, generic clearance, LEO, and pipeline plan review provide direct examples of why this matters. The HME and EXIS cases add population relationships; the turnover case adds source-period mapping. [[FIND-MD3,FIND-GENERIC,FIND-LEO,FIND-CYBER-COST,FIND-HME,FIND-EXIS,FIND-TURNOVER]]",
+    "evidence_records": [
+      "FIND-MD3",
+      "FIND-GENERIC",
+      "FIND-LEO",
+      "FIND-CYBER-COST",
+      "FIND-HME",
+      "FIND-EXIS",
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      30,
+      31,
+      32,
+      33,
+      14,
+      15,
+      10,
+      8,
+      27,
+      29,
+      34,
+      35,
+      21,
+      9
+    ]
+  },
+  {
+    "location": "report.md:paragraph:200",
+    "text": "The recommended architecture connects sources, structured inputs, assumptions, calculations, validation, output tables, and Items 12–15 narrative. It combines the prior Federal model architecture with the specific controls motivated by the TSA findings. This is a proposed design, not a claim about TSA's current internal systems. [[CANONICAL]]",
+    "evidence_records": [
+      "CANONICAL"
+    ],
+    "reference_numbers": [
+      56
+    ]
+  },
+  {
+    "location": "",
+    "text": "The recommended architecture connects sources, structured inputs, assumptions, calculations, validation, output tables, and Items 12–15 narrative. It combines the prior Federal model architecture with the specific controls motivated by the TSA findings. This is a proposed design, not a claim about TSA's current internal systems. [[CANONICAL]]",
+    "evidence_records": [
+      "CANONICAL"
+    ],
+    "reference_numbers": [
+      56
+    ]
+  },
+  {
+    "location": "figure:architecture",
+    "text": "Source: proposed analytical architecture derived from the documented TSA risks and prior canonical model. This is a recommendation, not a diagram of current TSA procedures. [[CANONICAL]]",
+    "evidence_records": [
+      "CANONICAL"
+    ],
+    "reference_numbers": [
+      56
+    ]
+  },
+  {
+    "location": "",
+    "text": "Source: proposed analytical architecture derived from the documented TSA risks and prior canonical model. This is a recommendation, not a diagram of current TSA procedures. [[CANONICAL]]",
+    "evidence_records": [
+      "CANONICAL"
+    ],
+    "reference_numbers": [
+      56
+    ]
+  },
+  {
+    "location": "table:architecture:note",
+    "text": "Source: report synthesis of the canonical analytical architecture and TSA findings; proposed design, not observed current practice. [[CANONICAL]]",
+    "evidence_records": [
+      "CANONICAL"
+    ],
+    "reference_numbers": [
+      56
+    ]
+  },
+  {
+    "location": "",
+    "text": "Source: report synthesis of the canonical analytical architecture and TSA findings; proposed design, not observed current practice. [[CANONICAL]]",
+    "evidence_records": [
+      "CANONICAL"
+    ],
+    "reference_numbers": [
+      56
+    ]
+  },
+  {
+    "location": "report.md:paragraph:207",
+    "text": "An exclusive pathway should reconcile to its parent population within an explicit tolerance. Additive activities should instead declare their triggering relationship and conditional frequency. A stock-minus-subset formula should identify the same stock and subset used by its narrative. These controls operationalize the HME and EXIS lessons without choosing their unresolved behavioral inputs. [[FIND-HME,FIND-EXIS,CMP-22]]",
+    "evidence_records": [
+      "FIND-HME",
+      "FIND-EXIS",
+      "CMP-22"
+    ],
+    "reference_numbers": [
+      27,
+      29,
+      34,
+      35,
+      17
+    ]
+  },
+  {
+    "location": "",
+    "text": "An exclusive pathway should reconcile to its parent population within an explicit tolerance. Additive activities should instead declare their triggering relationship and conditional frequency. A stock-minus-subset formula should identify the same stock and subset used by its narrative. These controls operationalize the HME and EXIS lessons without choosing their unresolved behavioral inputs. [[FIND-HME,FIND-EXIS,CMP-22]]",
+    "evidence_records": [
+      "FIND-HME",
+      "FIND-EXIS",
+      "CMP-22"
+    ],
+    "reference_numbers": [
+      27,
+      29,
+      34,
+      35,
+      17
+    ]
+  },
+  {
+    "location": "report.md:paragraph:209",
+    "text": "An Item 15 ledger should identify the applicable prior approval, prior statement, public notice, or transferred requirement. It should preserve previous values, current values, quantified changes, and classification of changes. A component bridge should reconcile independently for responses, hours, and relevant cost categories. A driver decomposition should document its order or an interaction term when multiple factors change simultaneously. [[BASELINE-TWIC-2025,ANALOGUE-202503-3060-020,CANONICAL]]",
+    "evidence_records": [
+      "BASELINE-TWIC-2025",
+      "ANALOGUE-202503-3060-020",
+      "CANONICAL"
+    ],
+    "reference_numbers": [
+      26,
+      54,
+      59,
+      56
+    ]
+  },
+  {
+    "location": "",
+    "text": "An Item 15 ledger should identify the applicable prior approval, prior statement, public notice, or transferred requirement. It should preserve previous values, current values, quantified changes, and classification of changes. A component bridge should reconcile independently for responses, hours, and relevant cost categories. A driver decomposition should document its order or an interaction term when multiple factors change simultaneously. [[BASELINE-TWIC-2025,ANALOGUE-202503-3060-020,CANONICAL]]",
+    "evidence_records": [
+      "BASELINE-TWIC-2025",
+      "ANALOGUE-202503-3060-020",
+      "CANONICAL"
+    ],
+    "reference_numbers": [
+      26,
+      54,
+      59,
+      56
+    ]
+  },
+  {
+    "location": "report.md:paragraph:217",
+    "text": "Retain activity segmentation, source-based compensation transformations, role-based Federal review structures, and explicit pathway or fee boundaries where supported. Preserve the task definitions and caveats with the coefficients. Economic analysts, program specialists, and PRA reviewers should jointly determine whether a recurring component is suitable as a default within a defined domain. Completion would be demonstrated by a reviewed archetype record with source, scope, and applicability conditions, rather than by a list of unqualified numbers. [[CMP-01,CMP-03,CMP-06,CMP-16,CMP-18]]",
+    "evidence_records": [
+      "CMP-01",
+      "CMP-03",
+      "CMP-06",
+      "CMP-16",
+      "CMP-18"
+    ],
+    "reference_numbers": [
+      1,
+      2,
+      3,
+      4,
+      40,
+      10,
+      6,
+      7,
+      8,
+      9,
+      27,
+      26
+    ]
+  },
+  {
+    "location": "",
+    "text": "Retain activity segmentation, source-based compensation transformations, role-based Federal review structures, and explicit pathway or fee boundaries where supported. Preserve the task definitions and caveats with the coefficients. Economic analysts, program specialists, and PRA reviewers should jointly determine whether a recurring component is suitable as a default within a defined domain. Completion would be demonstrated by a reviewed archetype record with source, scope, and applicability conditions, rather than by a list of unqualified numbers. [[CMP-01,CMP-03,CMP-06,CMP-16,CMP-18]]",
+    "evidence_records": [
+      "CMP-01",
+      "CMP-03",
+      "CMP-06",
+      "CMP-16",
+      "CMP-18"
+    ],
+    "reference_numbers": [
+      1,
+      2,
+      3,
+      4,
+      40,
+      10,
+      6,
+      7,
+      8,
+      9,
+      27,
+      26
+    ]
+  },
+  {
+    "location": "report.md:paragraph:220",
+    "text": "Start the assumption library with the recurring structures supported here. Treat turnover calibration, travel interpretation, renewal boundaries, and heterogeneous capital assumptions as case-specific until their evidence supports broader reuse. Completion would be demonstrated when a reviewer can determine whether two similarly named inputs are actually comparable without reconstructing their meanings from scattered prose. [[CMP-04,CMP-05,CMP-09,CMP-10,CMP-14,CMP-21]]",
+    "evidence_records": [
+      "CMP-04",
+      "CMP-05",
+      "CMP-09",
+      "CMP-10",
+      "CMP-14",
+      "CMP-21"
+    ],
+    "reference_numbers": [
+      11,
+      1,
+      21,
+      22,
+      23,
+      16,
+      24,
+      25,
+      26,
+      27,
+      28,
+      3,
+      2
+    ]
+  },
+  {
+    "location": "",
+    "text": "Start the assumption library with the recurring structures supported here. Treat turnover calibration, travel interpretation, renewal boundaries, and heterogeneous capital assumptions as case-specific until their evidence supports broader reuse. Completion would be demonstrated when a reviewer can determine whether two similarly named inputs are actually comparable without reconstructing their meanings from scattered prose. [[CMP-04,CMP-05,CMP-09,CMP-10,CMP-14,CMP-21]]",
+    "evidence_records": [
+      "CMP-04",
+      "CMP-05",
+      "CMP-09",
+      "CMP-10",
+      "CMP-14",
+      "CMP-21"
+    ],
+    "reference_numbers": [
+      11,
+      1,
+      21,
+      22,
+      23,
+      16,
+      24,
+      25,
+      26,
+      27,
+      28,
+      3,
+      2
+    ]
+  },
+  {
+    "location": "table:controls:row:0",
+    "text": "Maryland Three; pipeline review [[FIND-MD3,FIND-CYBER-COST]]",
+    "evidence_records": [
+      "FIND-MD3",
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      30,
+      31,
+      10,
+      8
+    ]
+  },
+  {
+    "location": "table:controls:row:1",
+    "text": "Generic clearance [[FIND-GENERIC]]",
+    "evidence_records": [
+      "FIND-GENERIC"
+    ],
+    "reference_numbers": [
+      32,
+      33
+    ]
+  },
+  {
+    "location": "table:controls:row:2",
+    "text": "HME; mDL contrast [[FIND-HME,CMP-22]]",
+    "evidence_records": [
+      "FIND-HME",
+      "CMP-22"
+    ],
+    "reference_numbers": [
+      27,
+      29,
+      17
+    ]
+  },
+  {
+    "location": "table:controls:row:3",
+    "text": "EXIS [[FIND-EXIS]]",
+    "evidence_records": [
+      "FIND-EXIS"
+    ],
+    "reference_numbers": [
+      34,
+      35
+    ]
+  },
+  {
+    "location": "table:controls:row:4",
+    "text": "LEO [[FIND-LEO]]",
+    "evidence_records": [
+      "FIND-LEO"
+    ],
+    "reference_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "location": "table:controls:row:5",
+    "text": "Turnover; analyst calibration still required [[FIND-TURNOVER]]",
+    "evidence_records": [
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      21,
+      9
+    ]
+  },
+  {
+    "location": "table:controls:row:6",
+    "text": "PreCheck [[FIND-PRECHECK]]",
+    "evidence_records": [
+      "FIND-PRECHECK"
+    ],
+    "reference_numbers": [
+      28,
+      36
+    ]
+  },
+  {
+    "location": "table:controls:row:7",
+    "text": "TWIC [[BASELINE-TWIC-2025]]",
+    "evidence_records": [
+      "BASELINE-TWIC-2025"
+    ],
+    "reference_numbers": [
+      26,
+      54
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:4",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR. Package references: 202406-1652-001, 202411-1652-003, 202402-1652-002. [[CMP-01]]",
+    "evidence_records": [
+      "CMP-01"
+    ],
+    "reference_numbers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR. Package references: 202406-1652-001, 202411-1652-003, 202402-1652-002. [[CMP-01]]",
+    "evidence_records": [
+      "CMP-01"
+    ],
+    "reference_numbers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:8",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR and lineage. Package references: 202304-1652-002, 202504-1652-004. [[CMP-02]]",
+    "evidence_records": [
+      "CMP-02"
+    ],
+    "reference_numbers": [
+      4,
+      5
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR and lineage. Package references: 202304-1652-002, 202504-1652-004. [[CMP-02]]",
+    "evidence_records": [
+      "CMP-02"
+    ],
+    "reference_numbers": [
+      4,
+      5
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:12",
+    "text": "**Disposition: Consistent.** Comparison type: within ICR. Package references: 202304-1652-002. [[CMP-03]]",
+    "evidence_records": [
+      "CMP-03"
+    ],
+    "reference_numbers": [
+      4
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: within ICR. Package references: 202304-1652-002. [[CMP-03]]",
+    "evidence_records": [
+      "CMP-03"
+    ],
+    "reference_numbers": [
+      4
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:16",
+    "text": "**Disposition: Unresolved.** Comparison type: cross ICR. Package references: 202412-1652-001, 202406-1652-001. [[CMP-04]]",
+    "evidence_records": [
+      "CMP-04"
+    ],
+    "reference_numbers": [
+      11,
+      1
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Unresolved.** Comparison type: cross ICR. Package references: 202412-1652-001, 202406-1652-001. [[CMP-04]]",
+    "evidence_records": [
+      "CMP-04"
+    ],
+    "reference_numbers": [
+      11,
+      1
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:20",
+    "text": "**Disposition: Unresolved.** Comparison type: cross ICR. Package references: 202606-1652-001, 202504-1652-005. [[CMP-05]]",
+    "evidence_records": [
+      "CMP-05"
+    ],
+    "reference_numbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Unresolved.** Comparison type: cross ICR. Package references: 202606-1652-001, 202504-1652-005. [[CMP-05]]",
+    "evidence_records": [
+      "CMP-05"
+    ],
+    "reference_numbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:24",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR. Package references: 202601-1652-004, 202512-1652-001. [[CMP-06]]",
+    "evidence_records": [
+      "CMP-06"
+    ],
+    "reference_numbers": [
+      40,
+      10
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR. Package references: 202601-1652-004, 202512-1652-001. [[CMP-06]]",
+    "evidence_records": [
+      "CMP-06"
+    ],
+    "reference_numbers": [
+      40,
+      10
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:28",
+    "text": "**Disposition: Different, explained.** Comparison type: cross ICR. Package references: 202412-1652-001, 202406-1652-001. [[CMP-07]]",
+    "evidence_records": [
+      "CMP-07"
+    ],
+    "reference_numbers": [
+      11,
+      1
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Different, explained.** Comparison type: cross ICR. Package references: 202412-1652-001, 202406-1652-001. [[CMP-07]]",
+    "evidence_records": [
+      "CMP-07"
+    ],
+    "reference_numbers": [
+      11,
+      1
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:32",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR. Package references: 202605-1652-001, 202606-1652-003. [[CMP-08]]",
+    "evidence_records": [
+      "CMP-08"
+    ],
+    "reference_numbers": [
+      23,
+      16
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR. Package references: 202605-1652-001, 202606-1652-003. [[CMP-08]]",
+    "evidence_records": [
+      "CMP-08"
+    ],
+    "reference_numbers": [
+      23,
+      16
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:36",
+    "text": "**Disposition: Unresolved.** Comparison type: cross ICR. Package references: 202605-1652-001, 202606-1652-003. [[CMP-09]]",
+    "evidence_records": [
+      "CMP-09"
+    ],
+    "reference_numbers": [
+      23,
+      16,
+      24,
+      25
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Unresolved.** Comparison type: cross ICR. Package references: 202605-1652-001, 202606-1652-003. [[CMP-09]]",
+    "evidence_records": [
+      "CMP-09"
+    ],
+    "reference_numbers": [
+      23,
+      16,
+      24,
+      25
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:40",
+    "text": "**Disposition: Unresolved.** Comparison type: cross ICR. Package references: 202504-1652-008, 202606-1652-002, 202605-1652-002. [[CMP-10]]",
+    "evidence_records": [
+      "CMP-10"
+    ],
+    "reference_numbers": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Unresolved.** Comparison type: cross ICR. Package references: 202504-1652-008, 202606-1652-002, 202605-1652-002. [[CMP-10]]",
+    "evidence_records": [
+      "CMP-10"
+    ],
+    "reference_numbers": [
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:44",
+    "text": "**Disposition: Different, explained.** Comparison type: within ICR. Package references: 202504-1652-006. [[CMP-11]]",
+    "evidence_records": [
+      "CMP-11"
+    ],
+    "reference_numbers": [
+      12
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Different, explained.** Comparison type: within ICR. Package references: 202504-1652-006. [[CMP-11]]",
+    "evidence_records": [
+      "CMP-11"
+    ],
+    "reference_numbers": [
+      12
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:48",
+    "text": "**Disposition: Different, explained.** Comparison type: lineage. Package references: 202411-1652-006. [[CMP-12]]",
+    "evidence_records": [
+      "CMP-12"
+    ],
+    "reference_numbers": [
+      13
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Different, explained.** Comparison type: lineage. Package references: 202411-1652-006. [[CMP-12]]",
+    "evidence_records": [
+      "CMP-12"
+    ],
+    "reference_numbers": [
+      13
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:52",
+    "text": "**Disposition: Different, explained.** Comparison type: lineage. Package references: 202509-1652-001, 202206-1652-001. [[CMP-13]]",
+    "evidence_records": [
+      "CMP-13"
+    ],
+    "reference_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Different, explained.** Comparison type: lineage. Package references: 202509-1652-001, 202206-1652-001. [[CMP-13]]",
+    "evidence_records": [
+      "CMP-13"
+    ],
+    "reference_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:56",
+    "text": "**Disposition: Unresolved.** Comparison type: cross ICR. Package references: 202402-1652-002, 202411-1652-003. [[CMP-14]]",
+    "evidence_records": [
+      "CMP-14"
+    ],
+    "reference_numbers": [
+      3,
+      2
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Unresolved.** Comparison type: cross ICR. Package references: 202402-1652-002, 202411-1652-003. [[CMP-14]]",
+    "evidence_records": [
+      "CMP-14"
+    ],
+    "reference_numbers": [
+      3,
+      2
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:60",
+    "text": "**Disposition: Different, explained.** Comparison type: lineage. Package references: 202606-1652-003. [[CMP-15]]",
+    "evidence_records": [
+      "CMP-15"
+    ],
+    "reference_numbers": [
+      16
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Different, explained.** Comparison type: lineage. Package references: 202606-1652-003. [[CMP-15]]",
+    "evidence_records": [
+      "CMP-15"
+    ],
+    "reference_numbers": [
+      16
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:64",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR and lineage. Package references: 202207-1652-001, 202210-1652-001, 202212-1652-001, 202303-1652-001, 202512-1652-001. [[CMP-16]]",
+    "evidence_records": [
+      "CMP-16"
+    ],
+    "reference_numbers": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR and lineage. Package references: 202207-1652-001, 202210-1652-001, 202212-1652-001, 202303-1652-001, 202512-1652-001. [[CMP-16]]",
+    "evidence_records": [
+      "CMP-16"
+    ],
+    "reference_numbers": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:68",
+    "text": "**Disposition: Not comparable.** Comparison type: cross ICR. Package references: 202405-1652-002, 202512-1652-001. [[CMP-17]]",
+    "evidence_records": [
+      "CMP-17"
+    ],
+    "reference_numbers": [
+      61,
+      10
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Not comparable.** Comparison type: cross ICR. Package references: 202405-1652-002, 202512-1652-001. [[CMP-17]]",
+    "evidence_records": [
+      "CMP-17"
+    ],
+    "reference_numbers": [
+      61,
+      10
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:72",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR. Package references: 202606-1652-002, 202504-1652-008. [[CMP-18]]",
+    "evidence_records": [
+      "CMP-18"
+    ],
+    "reference_numbers": [
+      27,
+      26
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR. Package references: 202606-1652-002, 202504-1652-008. [[CMP-18]]",
+    "evidence_records": [
+      "CMP-18"
+    ],
+    "reference_numbers": [
+      27,
+      26
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:76",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR or lineage. Package references: 202112-1652-002, 202501-1652-002. [[CMP-19]]",
+    "evidence_records": [
+      "CMP-19"
+    ],
+    "reference_numbers": [
+      31,
+      30
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR or lineage. Package references: 202112-1652-002, 202501-1652-002. [[CMP-19]]",
+    "evidence_records": [
+      "CMP-19"
+    ],
+    "reference_numbers": [
+      31,
+      30
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:80",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR or lineage. Package references: 202403-1652-002, 202409-1652-001. [[CMP-20]]",
+    "evidence_records": [
+      "CMP-20"
+    ],
+    "reference_numbers": [
+      41,
+      42
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR or lineage. Package references: 202403-1652-002, 202409-1652-001. [[CMP-20]]",
+    "evidence_records": [
+      "CMP-20"
+    ],
+    "reference_numbers": [
+      41,
+      42
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:84",
+    "text": "**Disposition: Unresolved.** Comparison type: cross ICR or lineage. Package references: 202504-1652-005, 202606-1652-001. [[CMP-21]]",
+    "evidence_records": [
+      "CMP-21"
+    ],
+    "reference_numbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Unresolved.** Comparison type: cross ICR or lineage. Package references: 202504-1652-005, 202606-1652-001. [[CMP-21]]",
+    "evidence_records": [
+      "CMP-21"
+    ],
+    "reference_numbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:88",
+    "text": "**Disposition: Different, explained.** Comparison type: cross ICR or lineage. Package references: 202409-1652-003. [[CMP-22]]",
+    "evidence_records": [
+      "CMP-22"
+    ],
+    "reference_numbers": [
+      17
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Different, explained.** Comparison type: cross ICR or lineage. Package references: 202409-1652-003. [[CMP-22]]",
+    "evidence_records": [
+      "CMP-22"
+    ],
+    "reference_numbers": [
+      17
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:92",
+    "text": "**Disposition: Not comparable.** Comparison type: cross ICR or lineage. Package references: 202304-1652-002, 202402-1652-001. [[CMP-23]]",
+    "evidence_records": [
+      "CMP-23"
+    ],
+    "reference_numbers": [
+      38,
+      4
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Not comparable.** Comparison type: cross ICR or lineage. Package references: 202304-1652-002, 202402-1652-001. [[CMP-23]]",
+    "evidence_records": [
+      "CMP-23"
+    ],
+    "reference_numbers": [
+      38,
+      4
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:96",
+    "text": "**Disposition: Different, explained.** Comparison type: cross ICR or lineage. Package references: 202502-1652-003, 202511-1652-001. [[CMP-24]]",
+    "evidence_records": [
+      "CMP-24"
+    ],
+    "reference_numbers": [
+      18,
+      19
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Different, explained.** Comparison type: cross ICR or lineage. Package references: 202502-1652-003, 202511-1652-001. [[CMP-24]]",
+    "evidence_records": [
+      "CMP-24"
+    ],
+    "reference_numbers": [
+      18,
+      19
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:100",
+    "text": "**Disposition: Different, explained.** Comparison type: cross ICR or lineage. Package references: 202411-1652-008. [[CMP-25]]",
+    "evidence_records": [
+      "CMP-25"
+    ],
+    "reference_numbers": [
+      20
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Different, explained.** Comparison type: cross ICR or lineage. Package references: 202411-1652-008. [[CMP-25]]",
+    "evidence_records": [
+      "CMP-25"
+    ],
+    "reference_numbers": [
+      20
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:104",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR or lineage. Package references: 202203-1652-006, 202507-1652-001. [[CMP-26]]",
+    "evidence_records": [
+      "CMP-26"
+    ],
+    "reference_numbers": [
+      43,
+      44
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR or lineage. Package references: 202203-1652-006, 202507-1652-001. [[CMP-26]]",
+    "evidence_records": [
+      "CMP-26"
+    ],
+    "reference_numbers": [
+      43,
+      44
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:108",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR or lineage. Package references: 202109-1652-008, 202504-1652-005. [[CMP-27]]",
+    "evidence_records": [
+      "CMP-27"
+    ],
+    "reference_numbers": [
+      45,
+      22
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR or lineage. Package references: 202109-1652-008, 202504-1652-005. [[CMP-27]]",
+    "evidence_records": [
+      "CMP-27"
+    ],
+    "reference_numbers": [
+      45,
+      22
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:112",
+    "text": "**Disposition: Not comparable.** Comparison type: cross ICR or lineage. Package references: 202411-1652-001, 202411-1652-006. [[CMP-28]]",
+    "evidence_records": [
+      "CMP-28"
+    ],
+    "reference_numbers": [
+      13,
+      39
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Not comparable.** Comparison type: cross ICR or lineage. Package references: 202411-1652-001, 202411-1652-006. [[CMP-28]]",
+    "evidence_records": [
+      "CMP-28"
+    ],
+    "reference_numbers": [
+      13,
+      39
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:116",
+    "text": "**Disposition: Consistent.** Comparison type: lineage. Package references: 202205-1652-002, 202503-1652-002. [[CMP-29]]",
+    "evidence_records": [
+      "CMP-29"
+    ],
+    "reference_numbers": [
+      46,
+      47
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: lineage. Package references: 202205-1652-002, 202503-1652-002. [[CMP-29]]",
+    "evidence_records": [
+      "CMP-29"
+    ],
+    "reference_numbers": [
+      46,
+      47
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:120",
+    "text": "**Disposition: Consistent.** Comparison type: lineage. Package references: 202202-1652-001, 202411-1652-007. [[CMP-30]]",
+    "evidence_records": [
+      "CMP-30"
+    ],
+    "reference_numbers": [
+      48,
+      49
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: lineage. Package references: 202202-1652-001, 202411-1652-007. [[CMP-30]]",
+    "evidence_records": [
+      "CMP-30"
+    ],
+    "reference_numbers": [
+      48,
+      49
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:124",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR and lineage. Package references: 202301-1652-003, 202508-1652-001. [[CMP-31]]",
+    "evidence_records": [
+      "CMP-31"
+    ],
+    "reference_numbers": [
+      50,
+      51
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: cross ICR and lineage. Package references: 202301-1652-003, 202508-1652-001. [[CMP-31]]",
+    "evidence_records": [
+      "CMP-31"
+    ],
+    "reference_numbers": [
+      50,
+      51
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:128",
+    "text": "**Disposition: Consistent.** Comparison type: lineage. Package references: 202303-1652-002, 202601-1652-003. [[CMP-32]]",
+    "evidence_records": [
+      "CMP-32"
+    ],
+    "reference_numbers": [
+      52,
+      53
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Disposition: Consistent.** Comparison type: lineage. Package references: 202303-1652-002, 202601-1652-003. [[CMP-32]]",
+    "evidence_records": [
+      "CMP-32"
+    ],
+    "reference_numbers": [
+      52,
+      53
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:134",
+    "text": "**Potentially inconsistent.** In-person rows already exhaust parent cohort before online renewals are added; residual equals 53182/54840/53816 online renewals. [[FIND-HME]]",
+    "evidence_records": [
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      27,
+      29
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Potentially inconsistent.** In-person rows already exhaust parent cohort before online renewals are added; residual equals 53182/54840/53816 online renewals. [[FIND-HME]]",
+    "evidence_records": [
+      "FIND-HME"
+    ],
+    "reference_numbers": [
+      27,
+      29
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:140",
+    "text": "**Potentially inconsistent.** Annual published 208718 differs from displayed product 148194.405; per-person product 565.6275 differs from 563.63. [[FIND-MD3]]",
+    "evidence_records": [
+      "FIND-MD3"
+    ],
+    "reference_numbers": [
+      30,
+      31
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Potentially inconsistent.** Annual published 208718 differs from displayed product 148194.405; per-person product 565.6275 differs from 563.63. [[FIND-MD3]]",
+    "evidence_records": [
+      "FIND-MD3"
+    ],
+    "reference_numbers": [
+      30,
+      31
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:145",
+    "text": "**Potentially inconsistent.** Feedback 45 minutes does not reproduce published hours; table population sum and annual narrative also disagree. [[FIND-GENERIC]]",
+    "evidence_records": [
+      "FIND-GENERIC"
+    ],
+    "reference_numbers": [
+      32,
+      33
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Potentially inconsistent.** Feedback 45 minutes does not reproduce published hours; table population sum and annual narrative also disagree. [[FIND-GENERIC]]",
+    "evidence_records": [
+      "FIND-GENERIC"
+    ],
+    "reference_numbers": [
+      32,
+      33
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:151",
+    "text": "**Potentially inconsistent.** Table 4 uses 95%of all limited users, whereas Table 3 applies 5%to new users. [[FIND-EXIS]]",
+    "evidence_records": [
+      "FIND-EXIS"
+    ],
+    "reference_numbers": [
+      34,
+      35
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Potentially inconsistent.** Table 4 uses 95%of all limited users, whereas Table 3 applies 5%to new users. [[FIND-EXIS]]",
+    "evidence_records": [
+      "FIND-EXIS"
+    ],
+    "reference_numbers": [
+      34,
+      35
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:157",
+    "text": "**Potentially inconsistent.** Annual-column 476990.86 aligns with three-year product; narrative annual 158997 is coherent. [[FIND-LEO]]",
+    "evidence_records": [
+      "FIND-LEO"
+    ],
+    "reference_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Potentially inconsistent.** Annual-column 476990.86 aligns with three-year product; narrative annual 158997 is coherent. [[FIND-LEO]]",
+    "evidence_records": [
+      "FIND-LEO"
+    ],
+    "reference_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:162",
+    "text": "**Potentially inconsistent.** Monthly-average 4%is used annually and combined with 9%residential mobility as contact changes. [[FIND-TURNOVER]]",
+    "evidence_records": [
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      21,
+      9
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Potentially inconsistent.** Monthly-average 4%is used annually and combined with 9%residential mobility as contact changes. [[FIND-TURNOVER]]",
+    "evidence_records": [
+      "FIND-TURNOVER"
+    ],
+    "reference_numbers": [
+      21,
+      9
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:165",
+    "text": "**Unresolved.** 4339658 all-activity hours versus 4286341 enrollment hours monetized. [[FIND-PRECHECK]]",
+    "evidence_records": [
+      "FIND-PRECHECK"
+    ],
+    "reference_numbers": [
+      28,
+      36
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Unresolved.** 4339658 all-activity hours versus 4286341 enrollment hours monetized. [[FIND-PRECHECK]]",
+    "evidence_records": [
+      "FIND-PRECHECK"
+    ],
+    "reference_numbers": [
+      28,
+      36
+    ]
+  },
+  {
+    "location": "appendices.md:paragraph:168",
+    "text": "**Potentially inconsistent.** Published 290825.84 versus component product 347824; the earlier version reports the same total with different wages. [[FIND-CYBER-COST]]",
+    "evidence_records": [
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      10,
+      8
+    ]
+  },
+  {
+    "location": "",
+    "text": "**Potentially inconsistent.** Published 290825.84 versus component product 347824; the earlier version reports the same total with different wages. [[FIND-CYBER-COST]]",
+    "evidence_records": [
+      "FIND-CYBER-COST"
+    ],
+    "reference_numbers": [
+      10,
+      8
+    ]
+  }
+]

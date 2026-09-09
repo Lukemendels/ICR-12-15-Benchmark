@@ -1,19 +1,22 @@
 {
-  "MISSION_STATUS": "OUTLINE_COMPLETE",
+  "MISSION_STATUS": "AUDIT_IN_PROGRESS",
   "evidence_base_commit": "b96aaaa4d81fe4df432602a0ae1346be78a151b1",
   "evidence_version": "M3-1.0.0",
   "graph_version": "1.0.0",
   "frozen_evidence_reopened": false,
   "history": [
     "INITIALIZING",
-    "OUTLINE_COMPLETE"
+    "OUTLINE_COMPLETE",
+    "DRAFT_COMPLETE",
+    "AUDIT_IN_PROGRESS"
   ],
   "report_root": "report/tsa-consistency/technical",
   "completed": [
     "Verified all 2189 frozen repository blobs against remote tree",
     "Read reporting handoff, adjudications, challenge, normalization and coverage limitations",
     "Established separate reporting scope and outline",
-    "Drafted full analytical narrative, including all eight within-ICR cases, six unresolved comparisons and four federal analogues"
+    "Drafted full analytical narrative, including all eight within-ICR cases, six unresolved comparisons and four federal analogues",
+    "Built complete PDF with 13 evidence tables, four figures, complete comparison/reconstruction appendices and scholarly references"
   ],
-  "next": "Generate evidence tables, figures, complete comparison appendix and references; build PDF; run separate audits."
+  "next": "Complete independent evidence/classification/quantitative/argument/causal/terminology/citation/figure audits and inspect every final PDF page; preserve frozen blobs; handoff."
 }

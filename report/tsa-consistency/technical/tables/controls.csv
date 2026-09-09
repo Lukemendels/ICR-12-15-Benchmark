@@ -1,0 +1,9 @@
+Control,Acceptance rule,Motivating evidence
+Cost products,Role hours × loaded rates must reproduce all published costs.,"Maryland Three; pipeline review [[FIND-MD3,FIND-CYBER-COST]]"
+Cross-output totals,"Rows, subtotals, summaries and narrative reconcile to identified results.",Generic clearance [[FIND-GENERIC]]
+Pathway relationships,Exclusive alternatives exhaust the parent; additive follow-up has a trigger.,"HME; mDL contrast [[FIND-HME,CMP-22]]"
+Population identity,"Stock, new inflow and subset subtraction use the stated denominator.",EXIS [[FIND-EXIS]]
+Period labels,Annual and multi-year values carry inherited period labels.,LEO [[FIND-LEO]]
+Source transformations,Source period and event unit map explicitly to the model coefficient.,Turnover; analyst calibration still required [[FIND-TURNOVER]]
+Valuation coverage,Valued plus explicitly excluded activities reconcile to all burden hours.,PreCheck [[FIND-PRECHECK]]
+Baseline/change bridge,Identified prior values plus changes reconcile to the current endpoint.,TWIC [[BASELINE-TWIC-2025]]

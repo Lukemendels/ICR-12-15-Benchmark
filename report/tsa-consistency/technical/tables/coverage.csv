@@ -1,0 +1,10 @@
+Evidence measure,Count,Interpretation
+Recent TSA packages,90,Versions received within the five-year window; all have principal-task and Items 12–15 coverage.
+Assigned control histories,48,"Control-number histories, distinct from recent package count."
+Unassigned-control packages,5,Included among the 90; not five additional independent histories.
+Package / statement versions with lineage,135 / 134,Includes one administrative version without a statement.
+Normalized activity representations,468,Nonadditive across overlapping source representations and versions.
+Reviewed assumption observations,162,69 scalar/categorical observations plus 93 formula-header coefficients.
+Task/method comparisons,32,15 consistent; 8 explained; 6 unresolved; 3 not comparable.
+Within-ICR findings,8,7 potentially inconsistent; 1 unresolved.
+Quantitative checks / covered versions,341 / 40,Checks are not independent findings or full-model validation.

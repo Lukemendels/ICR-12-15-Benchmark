@@ -1,0 +1,25 @@
+Case / package,Type of risk,Disposition / status
+"HME pathways
+202606-1652-002 [[FIND-HME]]",Potential duplication / pathway definition,"Potentially inconsistent
+Pending"
+"Maryland Three costs
+202501-1652-002 [[FIND-MD3]]",Arithmetic / cost product,"Potentially inconsistent
+Active; approved with change"
+"Generic clearance
+202504-1652-003 [[FIND-GENERIC]]","Arithmetic, totals and narrative conflict","Potentially inconsistent
+Active; approved without change"
+"EXIS populations
+202411-1652-004 [[FIND-EXIS]]",Stock/flow definition mismatch,"Potentially inconsistent
+Active; approved without change"
+"LEO Federal cost
+202509-1652-001 [[FIND-LEO]]",Period-label conflict,"Potentially inconsistent
+Active; approved with change"
+"Surface-cyber turnover
+202606-1652-001 [[FIND-TURNOVER]]",Source transformation / event definition,"Potentially inconsistent
+Pending"
+"PreCheck valuation
+202605-1652-002 [[FIND-PRECHECK]]",Unresolved valuation scope,"Unresolved
+Active; approved with change"
+"Pipeline plan-review cost
+202512-1652-001 [[FIND-CYBER-COST]]",Arithmetic / wage-workload product,"Potentially inconsistent
+Active; approved with change"

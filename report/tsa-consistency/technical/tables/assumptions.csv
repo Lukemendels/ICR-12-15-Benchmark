@@ -1,0 +1,18 @@
+Family,Observations,Proposed treatment
+Pathway share,58,Explicit eligibility and exclusive/additive relationships; case-specific shares.
+Task duration,43,"Reuse only with actor, scope, statistic, mode and period."
+Federal review time,12,"Retain reviewer roles, case types and recurrence."
+Benefit loading,10,Standardize formula/base; select universe and vintage case by case.
+Federal grade pay,10,"Identify grade/band, pay basis, effective date and load."
+Manager review,7,Reuse bounded review archetypes; title alone is insufficient.
+Turnover,3,Require annual event calibration and overlap mapping.
+Recordkeeping,3,Distinguish annual bundles from per-record tasks.
+Fee treatment,3,"Separate financing, resource cost and transfer."
+Purchased services,2,"Identify purchaser, quantity, price and nonduplication."
+Familiarization,2,Preserve separately timed step and applicability.
+Legal review,2,"Retain legal task, eligibility share and proposal status."
+Wage statistic,2,Preserve mean/median and valuation purpose.
+Occupational assignment,2,Justify occupation and worker universe.
+Renewal,2,Define form scope and conditional tasks.
+Capital life,1,Sparse evidence; no universal life or annualization default.
+Total,162,"Counts describe reviewed evidence, not independent defaults."

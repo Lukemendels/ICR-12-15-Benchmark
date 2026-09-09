@@ -1,0 +1,727 @@
+{
+  "definitions": {
+    "title": "How are the analytical classifications used?",
+    "headers": [
+      "Classification",
+      "Interpretation"
+    ],
+    "rows": [
+      [
+        "Consistent",
+        "Agreement in the tested published component or method, with source-defined scope preserved."
+      ],
+      [
+        "Different, explained",
+        "Observed variation has a source-supported explanation; proxy optimality may remain unverified."
+      ],
+      [
+        "Potentially inconsistent",
+        "A material published conflict remains after comparability and explanation challenge."
+      ],
+      [
+        "Not comparable",
+        "A proposed match fails because the actor, task, denominator, or other essential scope differs."
+      ],
+      [
+        "Unresolved",
+        "Available evidence cannot settle the relevant scope, methodological difference, or interpretation."
+      ]
+    ],
+    "widths": [
+      0.29,
+      0.71
+    ],
+    "note": "Source: analytical comparability protocol. Classifications are component-specific, not whole-package grades.",
+    "record_ids": []
+  },
+  "coverage": {
+    "title": "What does each evidence count measure?",
+    "headers": [
+      "Evidence measure",
+      "Count",
+      "Interpretation"
+    ],
+    "rows": [
+      [
+        "Recent TSA packages",
+        "90",
+        "Versions received within the five-year window; all have principal-task and Items 12–15 coverage."
+      ],
+      [
+        "Assigned control histories",
+        "48",
+        "Control-number histories, distinct from recent package count."
+      ],
+      [
+        "Unassigned-control packages",
+        "5",
+        "Included among the 90; not five additional independent histories."
+      ],
+      [
+        "Package / statement versions with lineage",
+        "135 / 134",
+        "Includes one administrative version without a statement."
+      ],
+      [
+        "Normalized activity representations",
+        "468",
+        "Nonadditive across overlapping source representations and versions."
+      ],
+      [
+        "Reviewed assumption observations",
+        "162",
+        "69 scalar/categorical observations plus 93 formula-header coefficients."
+      ],
+      [
+        "Task/method comparisons",
+        "32",
+        "15 consistent; 8 explained; 6 unresolved; 3 not comparable."
+      ],
+      [
+        "Within-ICR findings",
+        "8",
+        "7 potentially inconsistent; 1 unresolved."
+      ],
+      [
+        "Quantitative checks / covered versions",
+        "341 / 40",
+        "Checks are not independent findings or full-model validation."
+      ]
+    ],
+    "widths": [
+      0.36,
+      0.14,
+      0.5
+    ],
+    "note": "Source: reviewed inventory, graph manifest, adjudication and QA registers. Evidence snapshot: September 9, 2026.",
+    "record_ids": []
+  },
+  "portfolio": {
+    "title": "Which broad collection groups are covered?",
+    "headers": [
+      "Descriptive portfolio group",
+      "Recent versions"
+    ],
+    "rows": [
+      [
+        "Security-program activities",
+        "11"
+      ],
+      [
+        "Credentialing, redress and vetting",
+        "26"
+      ],
+      [
+        "Cyber and surface assessment",
+        "15"
+      ],
+      [
+        "Operational, fee and system activities",
+        "15"
+      ],
+      [
+        "Other collections",
+        "23"
+      ],
+      [
+        "Total",
+        "90"
+      ]
+    ],
+    "widths": [
+      0.78,
+      0.22
+    ],
+    "note": "Source: archived portfolio coverage registers. Grouping supports coverage description, not administrative ranking.",
+    "record_ids": []
+  },
+  "status": {
+    "title": "What administrative outcomes appear in the recent corpus?",
+    "headers": [
+      "Recorded conclusion or status",
+      "Packages"
+    ],
+    "rows": [
+      [
+        "Improperly submitted",
+        "3"
+      ],
+      [
+        "Pending",
+        "7"
+      ],
+      [
+        "Approved with change",
+        "39"
+      ],
+      [
+        "Approved without change",
+        "37"
+      ],
+      [
+        "Comment filed on proposed rule and continue",
+        "1"
+      ],
+      [
+        "Comment filed on proposed rule",
+        "3"
+      ],
+      [
+        "Total",
+        "90"
+      ]
+    ],
+    "widths": [
+      0.78,
+      0.22
+    ],
+    "note": "Source: official package inventory at September 9, 2026. Active-search membership (42) is separate from these conclusion categories. [[INVENTORY]]",
+    "record_ids": []
+  },
+  "explained": {
+    "title": "Which differences have an observable explanation?",
+    "headers": [
+      "Case",
+      "Observed difference",
+      "Explanation and boundary"
+    ],
+    "rows": [
+      [
+        "Loading variation by employee universe and source vintage [[CMP-07]]",
+        "1.454667 full-time private industry, June 2024; 1.4582 transportation/material-moving source, March 2023.",
+        "Different cited populations and periods explain why the ratios differ. This does not establish that each proxy is optimal; domestic paragraph also has a month-label ambiguity."
+      ],
+      [
+        "Federal and contractor comment processing [[CMP-11]]",
+        "0.5 minute Federal threat triage versus 5 minutes contractor read/respond.",
+        "Source separates security triage from reading and selecting a response template. Different task boundaries explain the values."
+      ],
+      [
+        "FFDO interview burden removed [[CMP-12]]",
+        "10-minute verbal interview removed.",
+        "Source explicitly moves certification questions online and removes duplicative interview questions. This explains the task deletion, not a fully reconciled numerical Item 15 bridge."
+      ],
+      [
+        "LEO checkpoint login duration change [[CMP-13]]",
+        "Prior 1 minute becomes 4 minutes.",
+        "Recent Item 15 cites user-experience feedback as basis. Published explanation supports changed estimate; underlying timing sample is not public."
+      ],
+      [
+        "Medical examination payer change [[CMP-15]]",
+        "Contractor Federal cost removed and candidate $150 per exam added for 18,000 exams.",
+        "Statement explicitly assigns local examination cost to candidates. Payer change explains category movement; no claim of net savings."
+      ],
+      [
+        "mDL initial and insufficient-application resubmission [[CMP-22]]",
+        "20 hours initial and 5 hours resubmission.",
+        "Source defines resubmission as incremental 25% of initial effort; not a mutually exclusive initial path."
+      ],
+      [
+        "TRIP form time revised using user experience [[CMP-24]]",
+        "60 minutes becomes 30 minutes.",
+        "Current Item 15 attributes the reduction to user experience. Underlying timing sample remains unavailable; this supports explanation, not measured universal completion time."
+      ],
+      [
+        "SSI bidder CHRC pathway includes additional activities [[CMP-25]]",
+        "15 minutes without CHRC versus 116 minutes with CHRC.",
+        "With-CHRC pathway includes fingerprinting and travel/wait omitted from the no-CHRC pathway. Scope explains the different total durations."
+      ]
+    ],
+    "widths": [
+      0.25,
+      0.29,
+      0.46
+    ],
+    "note": "Source: eight adjudicated task/method comparisons. Published explanations do not independently validate actual task performance.",
+    "record_ids": [
+      "CMP-07",
+      "CMP-11",
+      "CMP-12",
+      "CMP-13",
+      "CMP-15",
+      "CMP-22",
+      "CMP-24",
+      "CMP-25"
+    ]
+  },
+  "unresolved": {
+    "title": "What evidence would resolve the six open comparisons?",
+    "headers": [
+      "Comparison",
+      "Why unresolved",
+      "Evidence needed"
+    ],
+    "rows": [
+      [
+        "Airport and carrier-requested amendments [[CMP-04]]",
+        "Airport obligation includes development, submission and implementation; timed paragraph does not decompose preparation. Carrier paragraph isolates request documentation. Public text does not establish equal complexity or full task boundaries.",
+        "Decompose preparation, submission and implementation for aligned amendment types."
+      ],
+      [
+        "Coordinator contact updates across surface and pipeline collections [[CMP-05]]",
+        "Both cover updates, but pipeline cardinality and task detail are not decomposed; one operator event may encompass more work than one person contact.",
+        "Align persons, coordinator/alternate bundles, fields and operator events."
+      ],
+      [
+        "Medical applicant travel assumptions [[CMP-09]]",
+        "Different studies visibly explain source selection. Primary Altarum brief describes diary-day travel rather than explicitly one-way travel; TSO doubling needs clarification. FAMS source surveys adults aged 50+, not a measured applicant sample.",
+        "Establish one-way/round-trip statistic, travel purpose and applicant-population fit."
+      ],
+      [
+        "Online credential renewal times [[CMP-10]]",
+        "TWIC reports pilot completion faster than its retained conservative estimate. PreCheck separately models conditional biometric submission; common credential labels do not prove equal form content.",
+        "Align form content, conditional biometrics and timing evidence."
+      ],
+      [
+        "Federal amendment-review bundles [[CMP-14]]",
+        "IAC converts fifteen days into 120 hours without decomposition and pools TSA-issued and industry-requested amendments. FAC separately describes research/drafting and headquarters review. Identical case complexity and staffing are not established.",
+        "Decompose active work by role and amendment type; establish pooled scope."
+      ],
+      [
+        "Coordinator turnover models have different denominators [[CMP-21]]",
+        "No aligned pipeline person-stock denominator or shared empirical calibration is established. Do not form a numeric ratio; retain method-selection question.",
+        "Align person-stock and operator-event denominators; provide annual calibration."
+      ]
+    ],
+    "widths": [
+      0.25,
+      0.43,
+      0.32
+    ],
+    "note": "Source: adjudications and evidence-needed records. These are not established cross-ICR inconsistencies.",
+    "record_ids": [
+      "CMP-04",
+      "CMP-05",
+      "CMP-09",
+      "CMP-10",
+      "CMP-14",
+      "CMP-21"
+    ]
+  },
+  "findings": {
+    "title": "Which within-ICR risks remain after challenge?",
+    "headers": [
+      "Case / package",
+      "Type of risk",
+      "Disposition / status"
+    ],
+    "rows": [
+      [
+        "HME pathways\n202606-1652-002 [[FIND-HME]]",
+        "Potential duplication / pathway definition",
+        "Potentially inconsistent\nPending"
+      ],
+      [
+        "Maryland Three costs\n202501-1652-002 [[FIND-MD3]]",
+        "Arithmetic / cost product",
+        "Potentially inconsistent\nActive; approved with change"
+      ],
+      [
+        "Generic clearance\n202504-1652-003 [[FIND-GENERIC]]",
+        "Arithmetic, totals and narrative conflict",
+        "Potentially inconsistent\nActive; approved without change"
+      ],
+      [
+        "EXIS populations\n202411-1652-004 [[FIND-EXIS]]",
+        "Stock/flow definition mismatch",
+        "Potentially inconsistent\nActive; approved without change"
+      ],
+      [
+        "LEO Federal cost\n202509-1652-001 [[FIND-LEO]]",
+        "Period-label conflict",
+        "Potentially inconsistent\nActive; approved with change"
+      ],
+      [
+        "Surface-cyber turnover\n202606-1652-001 [[FIND-TURNOVER]]",
+        "Source transformation / event definition",
+        "Potentially inconsistent\nPending"
+      ],
+      [
+        "PreCheck valuation\n202605-1652-002 [[FIND-PRECHECK]]",
+        "Unresolved valuation scope",
+        "Unresolved\nActive; approved with change"
+      ],
+      [
+        "Pipeline plan-review cost\n202512-1652-001 [[FIND-CYBER-COST]]",
+        "Arithmetic / wage-workload product",
+        "Potentially inconsistent\nActive; approved with change"
+      ]
+    ],
+    "widths": [
+      0.35,
+      0.34,
+      0.31
+    ],
+    "note": "Source: eight adjudicated findings and package inventory. Status is the September 9, 2026 snapshot. Each case is one finding, even when several equations are checked.",
+    "record_ids": [
+      "FIND-HME",
+      "FIND-MD3",
+      "FIND-GENERIC",
+      "FIND-EXIS",
+      "FIND-LEO",
+      "FIND-TURNOVER",
+      "FIND-PRECHECK",
+      "FIND-CYBER-COST"
+    ]
+  },
+  "hme": {
+    "title": "Do HME pathway counts partition the stated parent cohort?",
+    "headers": [
+      "Year",
+      "Parent cohort",
+      "In-person rows, summed",
+      "Online renewals",
+      "Partition residual"
+    ],
+    "rows": [
+      [
+        "2026",
+        "170,454",
+        "170,454",
+        "53,182",
+        "53,182"
+      ],
+      [
+        "2027",
+        "175,770",
+        "175,770",
+        "54,840",
+        "54,840"
+      ],
+      [
+        "2028",
+        "172,487",
+        "172,487",
+        "53,816",
+        "53,816"
+      ]
+    ],
+    "widths": [
+      0.1,
+      0.22,
+      0.24,
+      0.22,
+      0.22
+    ],
+    "note": "Source: HME pending package 202606-1652-002, enrollment pathway tables. Residual = in-person rows + online renewals - parent cohort, in persons. Zero is the analyst partition identity. [[FIND-HME]]",
+    "record_ids": [
+      "FIND-HME"
+    ]
+  },
+  "twic": {
+    "title": "Does the TWIC annualized component bridge reconcile?",
+    "headers": [
+      "Activity component",
+      "Prior hours",
+      "Current hours",
+      "Change"
+    ],
+    "rows": [
+      [
+        "enrollment/renewal",
+        "251,503",
+        "405,488",
+        "+153,985"
+      ],
+      [
+        "replacement",
+        "3,819",
+        "5,725",
+        "+1,906"
+      ],
+      [
+        "in-person pickup",
+        "117,410",
+        "38,595",
+        "-78,815"
+      ],
+      [
+        "enrollment survey",
+        "5,852",
+        "677",
+        "-5,175"
+      ],
+      [
+        "appeal",
+        "50,446",
+        "59,943",
+        "+9,497"
+      ],
+      [
+        "issuance survey",
+        "1,287",
+        "43",
+        "-1,244"
+      ],
+      [
+        "Total",
+        "430,317",
+        "510,471",
+        "+80,154"
+      ]
+    ],
+    "widths": [
+      0.43,
+      0.19,
+      0.19,
+      0.19
+    ],
+    "note": "Source: TWIC 202502-1652-004 and 202504-1652-008, annualized burden tables and Item 15. Residual is zero; this is not a causal factor decomposition. [[BASELINE-TWIC-2025]]",
+    "record_ids": [
+      "BASELINE-TWIC-2025"
+    ]
+  },
+  "assumptions": {
+    "title": "How should reviewed assumption families be governed?",
+    "headers": [
+      "Family",
+      "Observations",
+      "Proposed treatment"
+    ],
+    "rows": [
+      [
+        "Pathway share",
+        "58",
+        "Explicit eligibility and exclusive/additive relationships; case-specific shares."
+      ],
+      [
+        "Task duration",
+        "43",
+        "Reuse only with actor, scope, statistic, mode and period."
+      ],
+      [
+        "Federal review time",
+        "12",
+        "Retain reviewer roles, case types and recurrence."
+      ],
+      [
+        "Benefit loading",
+        "10",
+        "Standardize formula/base; select universe and vintage case by case."
+      ],
+      [
+        "Federal grade pay",
+        "10",
+        "Identify grade/band, pay basis, effective date and load."
+      ],
+      [
+        "Manager review",
+        "7",
+        "Reuse bounded review archetypes; title alone is insufficient."
+      ],
+      [
+        "Turnover",
+        "3",
+        "Require annual event calibration and overlap mapping."
+      ],
+      [
+        "Recordkeeping",
+        "3",
+        "Distinguish annual bundles from per-record tasks."
+      ],
+      [
+        "Fee treatment",
+        "3",
+        "Separate financing, resource cost and transfer."
+      ],
+      [
+        "Purchased services",
+        "2",
+        "Identify purchaser, quantity, price and nonduplication."
+      ],
+      [
+        "Familiarization",
+        "2",
+        "Preserve separately timed step and applicability."
+      ],
+      [
+        "Legal review",
+        "2",
+        "Retain legal task, eligibility share and proposal status."
+      ],
+      [
+        "Wage statistic",
+        "2",
+        "Preserve mean/median and valuation purpose."
+      ],
+      [
+        "Occupational assignment",
+        "2",
+        "Justify occupation and worker universe."
+      ],
+      [
+        "Renewal",
+        "2",
+        "Define form scope and conditional tasks."
+      ],
+      [
+        "Capital life",
+        "1",
+        "Sparse evidence; no universal life or annualization default."
+      ],
+      [
+        "Total",
+        "162",
+        "Counts describe reviewed evidence, not independent defaults."
+      ]
+    ],
+    "widths": [
+      0.29,
+      0.17,
+      0.54
+    ],
+    "note": "Source: reviewed assumption observations, including formula-header coefficients. Item 15 is represented separately by baseline/change records.",
+    "record_ids": []
+  },
+  "analogues": {
+    "title": "What can the four Federal analogues contribute?",
+    "headers": [
+      "Federal example",
+      "TSA application",
+      "Boundary"
+    ],
+    "rows": [
+      [
+        "Census AIES [[ANALOGUE-202310-0607-003]]",
+        "Timing scope and statistic for amendments, travel and renewals.",
+        "Do not transfer survey durations or treat medians as expected means."
+      ],
+      [
+        "Federal Communications Commission (FCC), IPCS [[ANALOGUE-202503-3060-020]]",
+        "Baseline identity and component bridges.",
+        "Do not substitute a Federal exemplar for a TSA baseline."
+      ],
+      [
+        "Bureau of Labor Statistics (BLS), National Compensation Survey [[ANALOGUE-202310-1220-004]]",
+        "Direct compensation and occupational mixes.",
+        "Does not establish an optimal TSA proxy."
+      ],
+      [
+        "Customs and Border Protection (CBP), Global Interoperability Standards [[ANALOGUE-202411-1651-004]]",
+        "Federal workload reconstruction and gross-cost/savings boundaries.",
+        "Analogous risk, not a best-practice total or prevalence comparison."
+      ]
+    ],
+    "widths": [
+      0.32,
+      0.34,
+      0.34
+    ],
+    "note": "Source: four previously reviewed Federal methodological analogues selected for the TSA analysis.",
+    "record_ids": [
+      "ANALOGUE-202310-0607-003",
+      "ANALOGUE-202503-3060-020",
+      "ANALOGUE-202310-1220-004",
+      "ANALOGUE-202411-1651-004"
+    ]
+  },
+  "architecture": {
+    "title": "What must the recommended model preserve?",
+    "headers": [
+      "Stage",
+      "Required content",
+      "Review or control"
+    ],
+    "rows": [
+      [
+        "Sources",
+        "Document identity, exact locator, source period, original value.",
+        "Source content and applicability verified."
+      ],
+      [
+        "Structured inputs",
+        "Units, population, actor, period, evidence status.",
+        "Missing values remain explicit; zero requires source support."
+      ],
+      [
+        "Assumptions",
+        "Coefficient, rationale, applicability, owner, review trigger.",
+        "Approve proxy and scope; retain overrides."
+      ],
+      [
+        "Calculations",
+        "Formulas, full precision, role/pathway relationships.",
+        "Recompute independently; preserve units and periods."
+      ],
+      [
+        "Validation",
+        "Rule, operands, tolerance, result, disposition.",
+        "Separate arithmetic failures from scope/evidence questions."
+      ],
+      [
+        "Output tables",
+        "Approved result identity, label, unit and period.",
+        "Totals and summaries refer to the same model version."
+      ],
+      [
+        "Items 12–15 narrative",
+        "Bound numerical claims and reviewed analytical explanation.",
+        "Human review; no invention of missing rationale."
+      ]
+    ],
+    "widths": [
+      0.22,
+      0.42,
+      0.36
+    ],
+    "note": "Source: report synthesis of the canonical analytical architecture and TSA findings; proposed design, not observed current practice. [[CANONICAL]]",
+    "record_ids": []
+  },
+  "controls": {
+    "title": "Which reconciliation controls should be implemented?",
+    "headers": [
+      "Control",
+      "Acceptance rule",
+      "Motivating evidence"
+    ],
+    "rows": [
+      [
+        "Cost products",
+        "Role hours × loaded rates must reproduce all published costs.",
+        "Maryland Three; pipeline review [[FIND-MD3,FIND-CYBER-COST]]"
+      ],
+      [
+        "Cross-output totals",
+        "Rows, subtotals, summaries and narrative reconcile to identified results.",
+        "Generic clearance [[FIND-GENERIC]]"
+      ],
+      [
+        "Pathway relationships",
+        "Exclusive alternatives exhaust the parent; additive follow-up has a trigger.",
+        "HME; mDL contrast [[FIND-HME,CMP-22]]"
+      ],
+      [
+        "Population identity",
+        "Stock, new inflow and subset subtraction use the stated denominator.",
+        "EXIS [[FIND-EXIS]]"
+      ],
+      [
+        "Period labels",
+        "Annual and multi-year values carry inherited period labels.",
+        "LEO [[FIND-LEO]]"
+      ],
+      [
+        "Source transformations",
+        "Source period and event unit map explicitly to the model coefficient.",
+        "Turnover; analyst calibration still required [[FIND-TURNOVER]]"
+      ],
+      [
+        "Valuation coverage",
+        "Valued plus explicitly excluded activities reconcile to all burden hours.",
+        "PreCheck [[FIND-PRECHECK]]"
+      ],
+      [
+        "Baseline/change bridge",
+        "Identified prior values plus changes reconcile to the current endpoint.",
+        "TWIC [[BASELINE-TWIC-2025]]"
+      ]
+    ],
+    "widths": [
+      0.24,
+      0.48,
+      0.28
+    ],
+    "note": "Source: analytical recommendations tied to the cited cases. A passing arithmetic check does not validate the underlying behavioral assumption.",
+    "record_ids": []
+  }
+}

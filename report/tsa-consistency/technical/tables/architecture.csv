@@ -1,0 +1,8 @@
+Stage,Required content,Review or control
+Sources,"Document identity, exact locator, source period, original value.",Source content and applicability verified.
+Structured inputs,"Units, population, actor, period, evidence status.",Missing values remain explicit; zero requires source support.
+Assumptions,"Coefficient, rationale, applicability, owner, review trigger.",Approve proxy and scope; retain overrides.
+Calculations,"Formulas, full precision, role/pathway relationships.",Recompute independently; preserve units and periods.
+Validation,"Rule, operands, tolerance, result, disposition.",Separate arithmetic failures from scope/evidence questions.
+Output tables,"Approved result identity, label, unit and period.",Totals and summaries refer to the same model version.
+Items 12–15 narrative,Bound numerical claims and reviewed analytical explanation.,Human review; no invention of missing rationale.
