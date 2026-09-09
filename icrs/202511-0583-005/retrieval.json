@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202511-0583-005",
+  "retrieved_at": "2026-09-09T11:20:28.682155+00:00",
+  "documents": [
+    {
+      "title": "supporting statement Sanitation SOPs and PRHACCP 062026.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=170375501",
+      "path": "icrs/202511-0583-005/raw/supporting-statement-a-1.docx",
+      "sha256": "c6768819a1f46239224b81a023d083213a7c389884ca8ee5f155d4149fe0e8fe",
+      "text_chars": 43566
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202511-0583-005",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202511-0583-005",
+  "agency": "USDA/FSIS",
+  "title": "Sanitation SOPs and Pathogen Reduction/HACCP",
+  "omb_control_number": "0583-0103",
+  "submission_date": "07/20/2026",
+  "record_source_id": "SRC-0134",
+  "supporting_statement_source_ids": [
+    "SRC-0135"
+  ]
+}

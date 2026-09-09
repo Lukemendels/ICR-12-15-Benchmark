@@ -1,189 +1,120 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202310-0607-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "AIES Dress Rehearsal",
-      "rows": [
-        {
-          "text_line": 188,
-          "cells": [
-            "Respondents",
-            "Average time to complete",
-            "Annual Burden  Hours"
-          ]
-        },
-        {
-          "text_line": 189,
-          "cells": [
-            "8, 470",
-            "3 hours,  5 5  minutes",
-            "33, 206"
-          ]
-        },
-        {
-          "text_line": 190,
-          "cells": [
-            "50 debriefing interviews",
-            "1 hour",
-            "        5 0"
-          ]
-        },
-        {
-          "text_line": 191,
-          "cells": [
-            "        TOTAL",
-            "",
-            "3 3 ,2 56"
-          ]
-        }
+[
+  {
+    "file": "icrs/202310-0607-003/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Respondents",
+        "Average time to complete",
+        "Annual Burden  Hours"
+      ],
+      [
+        "8, 470",
+        "3 hours,  5 5  minutes",
+        "33, 206"
+      ],
+      [
+        "50 debriefing interviews",
+        "1 hour",
+        "        5 0"
+      ],
+      [
+        "        TOTAL",
+        "",
+        "3 3 ,2 56"
       ]
-    },
-    {
-      "source_file": "icrs/202310-0607-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "AIES",
-      "rows": [
-        {
-          "text_line": 196,
-          "cells": [
-            "Respondents",
-            "Average time to complete",
-            "Annual Burden  Hours"
-          ]
-        },
-        {
-          "text_line": 197,
-          "cells": [
-            "38 5 ,9 40 *",
-            "3 hours,  2 3  minutes *",
-            "1, 30 3 , 6 3 6"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-0607-003/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Respondents",
+        "Average time to complete",
+        "Annual Burden  Hours"
+      ],
+      [
+        "38 5 ,9 40 *",
+        "3 hours,  2 3  minutes *",
+        "1, 30 3 , 6 3 6"
       ]
-    },
-    {
-      "source_file": "icrs/202310-0607-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Dress Rehearsal Data Collection Schedule",
-      "rows": [
-        {
-          "text_line": 228,
-          "cells": [
-            "Advance Mailing",
-            "August 2023"
-          ]
-        },
-        {
-          "text_line": 229,
-          "cells": [
-            "Initial Mail Out",
-            "September 2023"
-          ]
-        },
-        {
-          "text_line": 230,
-          "cells": [
-            "Due Date Reminder",
-            "October 2023"
-          ]
-        },
-        {
-          "text_line": 231,
-          "cells": [
-            "Telephone Reminder",
-            "September  \u2013 October  2023"
-          ]
-        },
-        {
-          "text_line": 232,
-          "cells": [
-            "Email Follow-up",
-            "October 2023"
-          ]
-        },
-        {
-          "text_line": 233,
-          "cells": [
-            "First Mail Follow-up",
-            "October 2023"
-          ]
-        },
-        {
-          "text_line": 234,
-          "cells": [
-            "Telephone Follow-up",
-            "October  - November  2023"
-          ]
-        },
-        {
-          "text_line": 235,
-          "cells": [
-            "Debriefing Interviews",
-            "September-December 2023"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-0607-003/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Advance Mailing",
+        "August 2023"
+      ],
+      [
+        "Initial Mail Out",
+        "September 2023"
+      ],
+      [
+        "Due Date Reminder",
+        "October 2023"
+      ],
+      [
+        "Telephone Reminder",
+        "September  – October  2023"
+      ],
+      [
+        "Email Follow-up",
+        "October 2023"
+      ],
+      [
+        "First Mail Follow-up",
+        "October 2023"
+      ],
+      [
+        "Telephone Follow-up",
+        "October  - November  2023"
+      ],
+      [
+        "Debriefing Interviews",
+        "September-December 2023"
       ]
-    },
-    {
-      "source_file": "icrs/202310-0607-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "AIES Collection and Publication Schedule",
-      "rows": [
-        {
-          "text_line": 242,
-          "cells": [
-            "Advance Mailing",
-            "February 2024"
-          ]
-        },
-        {
-          "text_line": 243,
-          "cells": [
-            "Initial Mail Out",
-            "March 2024"
-          ]
-        },
-        {
-          "text_line": 244,
-          "cells": [
-            "Due Date Reminder",
-            "April 2024"
-          ]
-        },
-        {
-          "text_line": 245,
-          "cells": [
-            "Email Follow-up",
-            "May through December 2024"
-          ]
-        },
-        {
-          "text_line": 246,
-          "cells": [
-            "Mail Follow-up",
-            "May through December 2024"
-          ]
-        },
-        {
-          "text_line": 247,
-          "cells": [
-            "Telephone Follow-up",
-            "May through December 2024"
-          ]
-        },
-        {
-          "text_line": 248,
-          "cells": [
-            "Edit, Analysis, Tabulation",
-            "June 2024-May 2025"
-          ]
-        },
-        {
-          "text_line": 249,
-          "cells": [
-            "Data Release",
-            "July 2025"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-0607-003/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Advance Mailing",
+        "February 2024"
+      ],
+      [
+        "Initial Mail Out",
+        "March 2024"
+      ],
+      [
+        "Due Date Reminder",
+        "April 2024"
+      ],
+      [
+        "Email Follow-up",
+        "May through December 2024"
+      ],
+      [
+        "Mail Follow-up",
+        "May through December 2024"
+      ],
+      [
+        "Telephone Follow-up",
+        "May through December 2024"
+      ],
+      [
+        "Edit, Analysis, Tabulation",
+        "June 2024-May 2025"
+      ],
+      [
+        "Data Release",
+        "July 2025"
       ]
-    }
-  ]
-}
+    ]
+  }
+]

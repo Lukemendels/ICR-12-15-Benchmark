@@ -1,0 +1,262 @@
+{
+  "icr_id": "202504-2060-006",
+  "omb_control_number": "2060-0258",
+  "agency": "EPA/OAR",
+  "title": "Acid Rain Program under Title IV of the Clean Air Act Amendments (Renewal)",
+  "submission_date": "05/30/2025",
+  "archetype": "emissions capital and trading",
+  "complexity": "very high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 6,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0131",
+    "SRC-0130"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 9,
+    "segmentation": 14,
+    "labor": 6,
+    "item13": 7,
+    "item14": 6,
+    "item15": 4,
+    "validation": 3,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Detailed task/technology model and aggregate totals, but federal subtable inconsistencies.",
+    "provenance": "Current population and ECI update; legacy CEM capital inputs incomplete.",
+    "segmentation": "Six monitoring models and permitting/trading roles; overlapping add-on models identified.",
+    "labor": "Same differentiated wage method as CSAPR, incomplete original loading provenance.",
+    "item13": "Explicit7% annuity convention and separate outside contracts; missing life/principal prevents reconstruction of unit annuities.",
+    "item14": "Workload, grade, contractor and system costs explicit; state authority mixed into federal aggregate and table errors.",
+    "item15": "Percentage changes and reasons only.",
+    "validation": "Industry consultation and program observations; underlying cost evidence mostly not published here.",
+    "consistency": "Federal permits/NOx tables conflict with prose and totals; overlapping monitoring counts require care."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Allowance transfers",
+        null,
+        null,
+        2170
+      ],
+      [
+        "Permits",
+        null,
+        null,
+        5393
+      ],
+      [
+        "Monitoring",
+        null,
+        null,
+        1752308
+      ],
+      [
+        "Auction",
+        null,
+        null,
+        8
+      ],
+      [
+        "NOx",
+        null,
+        null,
+        640
+      ]
+    ],
+    "labor": {
+      "manager": 123.48,
+      "technical": 88.8,
+      "state_manager": 72.72,
+      "state_technical": 61.27,
+      "reported": 163003148,
+      "price_year": 2024
+    },
+    "item13": {
+      "reported": 123208182,
+      "interest_rate": 0.07,
+      "life": null,
+      "principal": null,
+      "columns": [
+        "activity",
+        "units",
+        "annual_om",
+        "annual_capital"
+      ],
+      "rows": [
+        [
+          "DAHS",
+          1075,
+          0,
+          570
+        ],
+        [
+          "Recertify",
+          648,
+          3482,
+          0
+        ],
+        [
+          "A",
+          460,
+          31949,
+          30282
+        ],
+        [
+          "B",
+          729,
+          295,
+          3733
+        ],
+        [
+          "C",
+          2324,
+          17818,
+          19661
+        ],
+        [
+          "D",
+          293,
+          1843,
+          2359
+        ],
+        [
+          "E",
+          150,
+          1991,
+          0
+        ],
+        [
+          "F",
+          16,
+          8192,
+          895
+        ]
+      ],
+      "overlap": "B and F are add-on monitoring obligations, not mutually exclusive populations."
+    },
+    "item14": {
+      "rate": 94.49,
+      "hours": 15476,
+      "labor_and_audits": 1483268,
+      "systems": 2500000,
+      "state_cost_in_aggregate": 111756,
+      "contract_audits": 68250,
+      "rows": [
+        [
+          "allowances",
+          6,
+          567
+        ],
+        [
+          "state permits",
+          1824,
+          111756
+        ],
+        [
+          "EPA permits",
+          229,
+          34923
+        ],
+        [
+          "monitoring",
+          13287,
+          1323739
+        ],
+        [
+          "auctions",
+          66,
+          6236
+        ],
+        [
+          "NOx",
+          64,
+          6047
+        ]
+      ]
+    },
+    "item15": {
+      "hours_pct_change": -3.6,
+      "nonlabor_pct_change": -4.8,
+      "drivers": [
+        "retirements",
+        "technology shifts",
+        "fewer trades and auctions"
+      ],
+      "detailed_bridge": null
+    },
+    "assumptions": [
+      "7% borrowing rate retained without contemporary rate rationale.",
+      "QA contractor work purchased on fixed-price contracts.",
+      "Electronic submissions remove processing labor but not system O&M."
+    ]
+  },
+  "reconstruction_issues": [
+    "Table14.3 EPA permit hours omit141 COR review hours from EPA subtotal229; full table components sum2193.6, not prose2685.",
+    "Table14.7 shows27 revision hours but footnote21 respondents and total64=43+21; reported cost1984 corresponds21 hours at94.49.",
+    "Table14.8 includes state permitting authority111756 in agency cost; preserve separately from federal scope.",
+    "Monitoring A+C+D+E units sum3227 versus3243 reported unique units; F16 is explicitly an overlapping subset, so cannot silently resolve by adding it.",
+    "Capital life and principal absent."
+  ],
+  "methods_worth_testing": [
+    "Annuity versus recurring maintenance distinction.",
+    "Fixed-price vendor contracts need not be translated into fictitious respondent hours.",
+    "Shared systems can be allocated once across related ICRs."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "2170+5393+1752308+8+640",
+      "calculated": 1760519,
+      "reported": 1760519,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0131"
+    },
+    {
+      "label": "Capital and O&M",
+      "formula": "1075*570+648*3482+460*(31949+30282)+729*(295+3733)+2324*(17818+19661)+293*(1843+2359)+150*1991+16*(8192+895)",
+      "calculated": 123208182,
+      "reported": 123208182,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact at published annual unit prices.",
+      "source_id": "SRC-0131"
+    },
+    {
+      "label": "Federal summary hours",
+      "formula": "6+1824+229+13287+66+64",
+      "calculated": 15476,
+      "reported": 15476,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Summary itself reconciles; underlying permit workload does not.",
+      "source_id": "SRC-0131"
+    },
+    {
+      "label": "NOx table hours",
+      "formula": "43+27",
+      "calculated": 70,
+      "reported": 64,
+      "difference": 6,
+      "unit": "hours",
+      "interpretation": "6-hour discrepancy; footnote21 resolves total but not displayed row.",
+      "source_id": "SRC-0131"
+    }
+  ],
+  "total_score": 67
+}

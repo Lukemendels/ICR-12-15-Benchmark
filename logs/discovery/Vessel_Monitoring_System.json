@@ -1,0 +1,78 @@
+{
+  "query": "Vessel Monitoring System",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&terms=Vessel+Monitoring+System",
+  "rows": [
+    {
+      "refs": [
+        "202404-0648-002"
+      ],
+      "text": "0648-0013\n|\nDOC/NOAA\n|\nSoutheast Region Dealer and Interview Family of Forms\n|\nRevision of a currently approved collection\n|\n04/16/2024\n|\n09/06/2024\n|\nApproved without change\n|\n09/30/2027\n|\n3\n|\n3\n|"
+    },
+    {
+      "refs": [
+        "202410-0648-019"
+      ],
+      "text": "0648-0202\n|\nDOC/NOAA\n|\nGreater Atlantic Region Permit Family of Forms\n|\nRevision of a currently approved collection\n|\n10/29/2024\n|\n05/13/2025\n|\nApproved with change\n|\n05/31/2028\n|\n26\n|\n14\n|"
+    },
+    {
+      "refs": [
+        "202507-0648-012"
+      ],
+      "text": "0648-0202\n|\nDOC/NOAA\n|\nGreater Atlantic Region Permit Family of Forms\n|\nRevision of a currently approved collection\n|\n12/09/2025\n|\n01/09/2026\n|\nComment filed on proposed rule and continue\n|\n05/31/2028\n|\n26\n|\n14\n|"
+    },
+    {
+      "refs": [
+        "202603-0648-002"
+      ],
+      "text": "0648-0202\n|\nDOC/NOAA\n|\nGreater Atlantic Region Permit Family of Forms\n|\nRevision of a currently approved collection\n|\n03/09/2026\n|\n04/29/2026\n|\nApproved without change\n|\n04/30/2029\n|\n26\n|\n14\n|"
+    },
+    {
+      "refs": [
+        "202309-0648-016"
+      ],
+      "text": "0648-0372\n|\nDOC/NOAA\n|\nElectronic Monitoring Systems for Atlantic Highly Migratory Species (HMS)\n|\nExtension without change of a currently approved collection\n|\n10/06/2023\n|\n05/20/2025\n|\nApproved with change\n|\n05/31/2028\n|\n9\n|\n1\n|"
+    },
+    {
+      "refs": [
+        "202603-0648-005"
+      ],
+      "text": "0648-0372\n|\nDOC/NOAA\n|\nElectronic Monitoring Systems for Atlantic Highly Migratory Species (HMS)\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n03/26/2026\n|\n05/06/2026\n|\nApproved without change\n|\n05/31/2028\n|\n19\n|\n1\n|"
+    },
+    {
+      "refs": [
+        "202401-0648-007"
+      ],
+      "text": "0648-0441\n|\nDOC/NOAA\n|\nVessel Monitoring System Requirements for the Pacific Islands Fisheries\n|\nExtension without change of a currently approved collection\n|\n01/12/2024\n|\n05/15/2024\n|\nApproved without change\n|\n05/31/2027\n|\n3\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202309-0648-006"
+      ],
+      "text": "0648-0445\n|\nDOC/NOAA\n|\nNMFS Alaska Region Vessel Monitoring System (VMS) Program\n|\nRevision of a currently approved collection\n|\n10/19/2023\n|\n12/11/2023\n|\nComment filed on proposed rule and continue\n|\n06/30/2024\n|\n1\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202402-0648-005"
+      ],
+      "text": "0648-0445\n|\nDOC/NOAA\n|\nNMFS Alaska Region Vessel Monitoring System (VMS) Program\n|\nRevision of a currently approved collection\n|\n02/20/2024\n|\n06/21/2024\n|\nApproved with change\n|\n06/30/2027\n|\n4\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202404-0648-015"
+      ],
+      "text": "0648-0498\n|\nDOC/NOAA\n|\nWest Coast Region Vessel Monitoring System and Pre-Trip Reporting System Requirements\n|\nRevision of a currently approved collection\n|\n04/25/2024\n|\n06/12/2024\n|\nComment filed on proposed rule and continue\n|\n05/31/2026\n|\n6\n|\n0\n|"
+    }
+  ],
+  "all_refs": [
+    "202309-0648-006",
+    "202309-0648-016",
+    "202401-0648-007",
+    "202402-0648-005",
+    "202404-0648-002",
+    "202404-0648-015",
+    "202410-0648-019",
+    "202507-0648-012",
+    "202603-0648-002",
+    "202603-0648-005"
+  ]
+}

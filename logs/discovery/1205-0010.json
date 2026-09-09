@@ -1,0 +1,15 @@
+{
+  "query": "1205-0010",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&ombControlNumber=1205-0010",
+  "rows": [
+    {
+      "refs": [
+        "202412-1205-002"
+      ],
+      "text": "1205-0010\n|\nDOL/ETA\n|\nClaims and Payment Activities\n|\nRevision of a currently approved collection\n|\n01/15/2025\n|\n05/08/2026\n|\nApproved with change\n|\n05/31/2029\n|\n1\n|\n2\n|"
+    }
+  ],
+  "all_refs": [
+    "202412-1205-002"
+  ]
+}

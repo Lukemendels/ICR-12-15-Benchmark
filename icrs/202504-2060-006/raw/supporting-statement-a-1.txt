@@ -1,0 +1,598 @@
+PART word/document.xml
+U.S. Environmental Protection Agency
+Information Collection Request
+
+Title: Acid Rain Program under Title IV of the Clean Air Act Amendments (Renewal)
+
+OMB Control Number: 2060-0258
+EPA ICR Number: 1633.19 
+Abstract:
+The United States Environmental Protection Agency (EPA) is renewing an information collection request (ICR) for the Acid Rain Program.  Congress established the program in title IV of the 1990 Clean Air Act (CAA) Amendments to address acid deposition by reducing emissions of sulfur dioxide (SO2) and nitrogen oxides (NOX). This renewal generally outlines programmatic aspects as established in the previous ICR with adjustments to reflect current labor costs and estimates of the numbers of respondents and transactions. 
+To reduce SO2 emissions, the Acid Rain Program uses a cap-and-trade system applicable to most large fossil fuel-fired electricity generating units in the contiguous United States.  Affected sources are required to hold one tradable allowance for each ton of SO2 emitted, and the total number of allowances issued is capped.    In addition to affected sources, any person or entity may establish an account to buy and sell allowances. EPA is required to conduct an allowance auction each year to promote market liquidity and price transparency.  
+To reduce NOX emissions, the Acid Rain Program applies NOX emission rate limits to a subset of affected units.  Each such unit may either meet its standard emission rate limit, arrange to comply on a group basis under an averaging plan, or seek approval for an alternative emission limitation (AEL) based on demonstrated inability to meet its otherwise applicable standard limit. 
+Affected units under the Acid Rain Program are required to monitor opacity and SO2, NOX, and carbon dioxide (CO2) emissions using continuous emission monitoring systems (CEMS) or alternative monitoring methods approved by the EPA Administrator. All affected units are also required to obtain and periodically renew permits that identify their plans for complying with the program’s applicable SO2 and NOX requirements. 
+As in previous Acid Rain Program ICRs, most of the topical discussions in this ICR renewal are organized around the main program elements established under different CAA sections:
+Allowance transfers (CAA section 403).
+Permits (CAA section 408).
+Emissions monitoring (CAA section 412).
+Auctions (CAA section 416).
+
+NOx permitting (CAA section 407).
+NOTE: For this ICR renewal, EPA is not including the Opt-in (CAA section 410) portion of the program as EPA has not received an opt-in application in over 10 years and does not anticipate receiving applications in the future. 
+
+
+Supporting Statement A
+NEED AND AUTHORITY FOR THE COLLECTION
+Explain the circumstances that make the collection of information necessary. Identify any legal or administrative requirements that necessitate the collection.
+Collection of the information requested from respondents under the Acid Rain Program is expressly required or otherwise authorized by statute, in most cases CAA sections 401 through 416 (42 U.S.C. §§ 7651-7651o) or CAA section 504 (42 U.S.C. § 7661c). The specific statutory authorities are identified below.
+1.1 Allowance Transfers 
+CAA section 403(b) provides for the transfer of allowances among designated representatives of owners and operators of affected sources and any person who holds allowances. Transfers of allowances are not deemed effective until written certification of the transfer, signed by a responsible official of each party to the transfer, is received and recorded by EPA. CAA section 403(d) requires EPA to develop a system for issuing, recording, and tracking allowances (intended to help ensure an orderly and competitive allowance system).
+1.2 Permits 
+CAA sections 403(d) and 408(i) require an affected source’s owners and operators to identify a designated representative. CAA section 408 requires the designated representative of the owners and operators of each affected source under the Acid Rain Program to obtain a permit. Section 408 also specifies that the permitting authority, usually a State or local agency, issue the permits with a term of five years.
+1.3 Emissions Monitoring 
+CAA section 412(a) requires the use of CEMS (or alternative monitoring systems demonstrated to be equivalent) at each affected unit's source of emissions. CAA section 504(c) requires each permit (which contains Acid Rain Program applicable requirements) to set forth inspection, entry, monitoring, compliance certification, and reporting requirements to assure compliance with the permit terms and conditions. CAA section 504(a) requires that the results of any required monitoring be submitted to the permitting authority no less often than every six months. The information collection is consistent with satisfying these minimum statutory requirements. Note that reports are submitted quarterly rather than semiannually. The Acid Rain Advisory Committee recommended that EPA collect emissions data on a quarterly basis and this schedule has proven to allow for effective implementation of the program. 
+Requirements for the collection of CO2 emissions data are established under section 821 of the 1990 CAA Amendments (Pub. L. 101-549, § 821, 104 Stat. 2399, 2699). 
+1.4 Auctions
+Although participation in the annual auctions is voluntary, the auctions themselves are required under CAA section 416(d) and the information to be collected is necessary for auction administration. 
+1.5 NOx Permitting 
+CAA section 408 specifies that utility owners and operators of affected units must submit permit applications and compliance plans (including NOX compliance plans), and the permitting authority must issue permits. Section 408 provides general authority for the information collections related to NOX permitting.  In addition: 
+●CAA section 407(e) allows the owner or operator of two or more affected units to petition the permitting authority for a NOX averaging plan.
+
+●CAA section 407(d) provides for AELs for units that cannot meet the applicable standard limitation using low-NOX burner technology or the technology on which the standard limitation was based. Section 407(d) specifies that an owner or operator requesting an AEL must show the permitting authority that (1) appropriate control equipment has been properly installed, and (2) the equipment has been properly operated for a period of fifteen months (or another period of time as established by regulation) and operating and monitoring data for such period demonstrate that the unit cannot meet the applicable standard emission rate. The owner or operator must also specify an emission rate that the unit can meet on an annual average basis.  
+
+PRACTICAL UTILITY/USERS OF THE DATA
+Indicate how, by whom, and for what purpose the information is to be used. Except for a new collection, indicate the actual use the agency has made of the information received from the current collection.
+
+2.1 Allowance Transfers 
+Information collected on allowance transfers is used by EPA to track allowances for the purpose of determining compliance with the Acid Rain Program. Information on allowance transfers is also used by participants in the allowance market and the public to evaluate the activities of utilities, and by EPA for program evaluation. 
+2.2 Permits 
+Acid rain permit applications are used by EPA and permitting authorities to issue operating permits. A permit application is legally binding on the owners, operators, and designated representative of a source until the actual permit is issued. This aspect of the permit application reduces significantly the uncertainty imposed on a source due to possible delays at EPA or the permitting authority. Affected sources may rely on the permit for information on the requirements with which they must comply. Because permit applications and permits are public documents, they may be used by the public to examine activities undertaken by affected sources.  
+The designated representative certification, which designates a responsible official through whom the owners and operators of each affected source and each affected unit can obtain and maintain permits, trade allowances, and report emissions, serves to remove EPA from involvement in disputes among owners and operators of affected units.
+2.3 Emissions Monitoring 
+Data from emissions monitoring are indispensable to successful implementation of the Acid Rain Program for two reasons:  
+CAA section 401 states that the primary purpose of the Acid Rain Program is to reduce the adverse effects of acid deposition by reducing annual emissions of SO2 and NOX. For SO2 emissions, the statutory objective is achieved through an emissions trading program. For NOX emissions, the statutory objective is achieved through annual emission rate limitations on certain units.
+EPA can only enforce the SO2 trading program and the NOX emission limitation program by having accurate emissions data for each affected unit. The affected sources’ certification of the emissions data, EPA’s electronic data audits and EPA’s and the permitting authorities’ CEMS field auditing all contribute to verifying the overall emissions data integrity. 
+Electric utilities, energy consultants, and power marketing companies can use the Acid Rain program emissions data to project future SO2 allowance costs and availability. Academic institutions can perform data modeling to evaluate environmental benefits and estimate health effects of SO2 reductions. EPA and other agencies use it to try to correlate the reduction of SO2 and NOX emissions with a decrease in acid precipitation, and also to measure the impacts of other existing and proposed emissions trading programs. Monitoring plan submissions are used by EPA to verify that the emissions monitoring system at each unit is capable of providing quality-assured emissions data and to verify that reported data are being calculated from equations that are appropriate given the parameters that are being measured, and the results of quality assurance tests allow EPA to verify that the monitors are providing quality-assured data on an ongoing basis.
+Together, the allowance trading system, operating permits, and emissions data provide the accountability to allow the Acid Rain Program to function without more stringent command and control approaches.
+2.4 Auctions
+EPA uses the information collected for the allowance auction to conduct and facilitate administration of auctions. The basic information requested requires little evaluation. The bids submitted for auctions are ranked to select winning bidders and to conduct transfers of emission allowances. The auction information results are also used by participants in the allowance market.
+2.5 NOx Permitting
+Information collected on NOX compliance plans is used by EPA to evaluate these compliance plans. Information collected on applications for emissions averaging groups or AELs is used by EPA to determine whether to approve these applications. This information may also be used by the regulated community and the public to evaluate the activities of utilities, and by EPA for program evaluation.
+
+USE OF TECHNOLOGY
+Describe whether, and to what extent, the collection of information involves the use of automated, electronic, mechanical, or other technological collection techniques or other forms of information technology, e.g., permitting electronic submission of responses, and the basis for the decision for adopting this means of collection. Also describe any consideration of using information technology to reduce burden.
+Several computer systems and associated databases have been developed to (1) track allowances, (2) record quarterly emissions monitoring data, (3) track auction proceed payments, and (4) calculate the number of allowances to be deducted each year. These systems and databases are designed to provide easy access to information for use by the Agency, states, the regulated community, and the general public. EPA provides access to the data on emissions and allowance activity in both detailed and summary formats on the Clean Air Power Sector Programs website.
+The use of the electronic data system allows EPA to expedite the data entry process, ensure consistent formatting of collections, and quality assure the information submitted. The EPA encourages electronic submissions to the extent possible with standard written form submissions available where needed. The EPA requires the information collected under 40 CFR part 75 (emissions monitoring) to be submitted via direct electronic submission. Allowance transfer information is mainly collected through an electronic application with the written form option available. Permit applications, and information associated with permitting (new unit exemptions, retired unit exemptions, NOx compliance plans) are submitted on standard paper forms. 
+
+EFFORTS TO IDENTIFY DUPLICATION
+Describe efforts to identify duplication. Show specifically why any similar information already available cannot be used or modified for use for the purposes described in Item 2 above.
+Almost none of the information requested from respondents under this ICR is available from other sources. EPA notes that many of the units that are subject to the Acid Rain Program are also subject to other programs, such as the New Source Performance Standards (NSPS). Under programs such as NSPS, sources are required to submit monitoring data reports that match the particular format and averaging time of the applicable emission limits under those standards. Although not the same information as the information provided under the Acid Rain Program, the information is often generated by the same monitoring equipment.  
+Many of the Acid Rain Program’s information collection requirements substantially overlap with information collection requirements of the Cross-State Air Pollution Rule (CSAPR) and Texas SO2 trading programs under 40 CFR part 97, subparts AAAAA through GGGGG, which are addressed in a separate ICR (OMB control number 2060-0667).  The reporting formats for affected sources under the CSAPR and Texas SO2 programs and the Acid Rain Program are integrated so that a single quarterly submission is used to satisfy the quarterly reporting requirements for all programs.  The information collection procedures under the various programs for submitting and updating certificates of representation, identifying retired units, and establishing non-source general accounts in the allowance tracking system are similarly integrated so that in each case, a representative can submit a single form to address the analogous requirements under all applicable programs.
+
+MINIMIZING BURDEN ON SMALL BUSINESSES AND SMALL ENTITIES
+If the collection of information impacts small businesses or other small entities, describe any methods used to minimize burden.
+In general, pursuant to CAA requirements, all affected sources under the Acid Rain Program are required to submit permit applications and to respond to other collections under this ICR without regard to entity size, except that retired units are exempted from most reporting requirements.  The use of standardized forms will enable small entities to understand and complete permit application submissions without the level of staffing which would be necessary in the absence of such forms.
+The Acid Rain Program regulations at 40 CFR 72.7 provide a conditional exemption from the program’s emissions reduction, permitting, and emissions monitoring requirements for new units having a nameplate capacity no greater than 25 MW that burn fuels with a sulfur content no greater than 0.05 percent by weight.  The program’s monitoring regulations at 40 CFR 75.19 create an additional exception available to many small units, specifically those that combust gas and/or fuel oil and that have low levels of mass emissions (referred to as LME units). An LME unit must emit no more than 25 tons of SO2 annually, less than 100 tons of NOX annually, and no more than 50 tons of NOX during the May-September ozone season (for units subject to part 75 requirements under an ozone season NOX program) and must be able to demonstrate continued compliance with these ceilings each year under conservative assumptions.  Units that qualify are exempted from certain requirements to install and operate monitoring equipment, conduct fuel sampling, and perform quality assurance or quality control tests.  Moreover, emissions reporting requirements are significantly simplified for these units.
+Gas- or oil-fired units that do not qualify for the new unit exemption or the LME provisions may still meet criteria that allow for the use of alternatives to CEMS for measuring emissions.  As discussed in the Regulatory Impact Analysis (RIA) for the initial Acid Rain rules (October 19, 1992), smaller utilities are more likely to be dependent on these oil- and gas-fired units, especially very small utilities (see pp. 5-14 of that RIA document).
+Opportunities to further reduce Acid Rain Program requirements specifically for small entities are limited because of the statutory requirements that all affected units use CEMS (or an equivalent method) to record and report emissions data.
+
+CONSEQUENCES OF LESS FREQUENT COLLECTION
+Describe the consequence to Federal program or policy activities if the collection is not conducted or is conducted less frequently, as well as any technical or legal obstacles to reducing burden.
+6.1 Allowance Transfers
+Collection of allowance transfer information for each transfer of allowances is necessary to effectively implement a system for issuing, recording, and tracking allowances. To facilitate accurate tracking of allowances and to help ensure the orderly and competitive functioning of the allowance system, it is essential that participants be able to report information on allowance transfers as they occur. 
+6.2 Permits
+The requirement for the designated representatives of owners and operators of affected sources to submit permit applications every five years is statutory.  
+6.3 Emissions Monitoring
+One-time submission of monitoring plans and submission of the results of any required monitoring no less often than every six months are required by statute.  Quarterly collection of emissions data allows for frequent checking of data for errors and provides rapid feedback to industry of needed adjustments to data collection systems, thereby promoting more accurate and reliable emissions data.  Also, existing federal and state emission monitoring programs often require reporting on a quarterly or even monthly basis.  Less frequent collection, i.e., semi-annually, would increase the amount of preparation and review time at the end of the reporting period both for regulated sources and for EPA, and would slow down the process of compliance determination.
+6.4 Auctions
+Collection of bid and payment information for the statutorily required allowance auctions occurs shortly before each annual auction.  The auctions could not be conducted without collection of bid information before each auction.  Simultaneous collection of payment information ensures that the bids are binding, which is essential to the integrity of the auction process.
+6.5 NOX Permitting
+The Agency is required by statute to include NOX compliance plans as part of the Acid Rain permits. As mentioned earlier, Acid Rain permits are renewed every five years, so NOX affected sources must submit a NOX compliance plan once every five years.
+
+GENERAL GUIDELINES
+Explain any special circumstances that require the collection to be conducted in a manner inconsistent with OMB guidelines.
+This information collection does not violate the general guidelines set forth by OMB. In some cases, records of NOX emission rate test results or fuel flowmeter calibration test results may need to be retained for up to five years, but only if the owner or operator chooses to take advantage of the ability to extend the period between tests up to five years. In all other circumstances, monitoring records under part 75 must be kept for only three years. The five-year life of an Acid Rain permit, which is the basis for the requirement to retain records supporting permit applications for five years, is established by CAA section 408(a). 
+
+PUBLIC COMMENT AND CONSULTATIONS
+8a. Public Comment
+If applicable, provide a copy and identify the date and page number of publication in the Federal Register of the Agency's notice, required by 5 CFR 1320.8(d), soliciting comments on the information collection prior to submission to OMB. Summarize public comments received in response to that notice and describe actions taken by the Agency in response to these comments. Specifically address comments received on cost and hour burden.
+EPA provided public notice of the proposed ICR in the Federal Register on 9/5/2024 (FRL-12192-01-OAR). The EPA did not receive any public comments for this ICR. 
+8b. Consultations
+Describe efforts to consult with persons outside the Agency to obtain their views on the availability of data, frequency of collection, the clarity of instructions and recordkeeping, disclosure, or reporting format (if any), and on the data elements to be recorded, disclosed, or reported. Consultation with representatives of those from whom information is to be obtained or those who must compile records should occur at least once every 3 years - even if the collection of information activity is the same as in prior periods. There may be circumstances that may preclude consultation in a specific situation. These circumstances should be explained.
+The data requirements for the Acid Rain Program were developed with the benefit of extensive consultation with the Acid Rain Advisory Committee (ARAC) during five meetings in 1991 lasting two to three days each. The Committee was composed of representatives of those entities most affected by or interested in the information requirements of the Acid Rain Program. Representation on the Committee was provided for industry, states, and environmental groups. Other parties consulted include the Utility Air Regulatory Group (UARG), the State and Territorial Air Pollution Program Administrators (STAPPA), and the Association of Local Air Pollution Control Officers (ALAPCO).
+Recommendations provided by ARAC strongly supported the use of standardized reporting forms for acid rain permit applications:
+Utilities affirmed that standardized forms reduce uncertainty about what constitutes a complete application and thus reduce the need to supply additional information in a second submission;
+States asserted that the use of standardized forms developed by EPA would reduce the time and effort states will need to implement an acid rain permit program; and
+Environmental groups argued that the use of standardized forms provides greater assurance that permits will be enforceable in a consistent manner nationwide.
+Many ARAC recommendations were incorporated into the acid rain regulations regarding permits and the related standardized forms.  Comments and suggestions from working groups including UARG, Class of ‘85 Regulatory Response Group, and the PJM Interconnection also were incorporated in designing the annual compliance forms.  
+Since the beginning of implementation of the Acid Rain Program, representatives from the utility industry, monitoring equipment vendors, software programmers, consultants working together with utilities, and other interested parties have offered comments on the existing rule requirements, standard forms, and electronic data reporting formats used to implement the emissions monitoring, recordkeeping, and reporting requirements in 40 CFR part 75. EPA has used these comments and experience gained from administering the program to revise the rules, forms, and reporting formats multiple times.
+For this ICR renewal, EPA reached out to a representative sample of affected sources who are subject to the Acid Rain requirements. The sources were asked for their voluntary input regarding estimated labor hours and costs associated with various tasks related to emissions monitoring and data submissions under the Acid Rain Program. Based on the limited responses received, the EPA re-evaluated the burden hours for specific tasks and capital and O&M costs incurred under the program.  
+
+PAYMENTS OR GIFTS TO RESPONDENTS
+Explain any decisions to provide payments or gifts to respondents, other than remuneration of contractors or grantees.
+Respondents will not receive payments or gifts. 
+
+ASSURANCE OF CONFIDENTIALITY
+Describe any assurance of confidentiality provided to respondents and the basis for the assurance in statute, regulation, or Agency policy. If the collection requires a systems of records notice (SORN) or privacy impact assessment (PIA), those should be cited and described here.
+None of the information collected will be treated as confidential.  CAA section 114(c) specifically requires that estimates or measurements of emissions must be treated as non-confidential.  
+
+JUSTIFICATION FOR SENSITIVE QUESTIONS
+Provide additional justification for any questions of a sensitive nature, such as sexual behavior and attitudes, religious beliefs, and other matters that are commonly considered private. This justification should include the reasons why the Agency considers the questions necessary, the specific uses to be made of the information, the explanation to be given to persons from whom the information is requested, and any steps to be taken to obtain their consent.
+This information collection does not ask any questions concerning sexual behavior or attitudes, religious beliefs, or other matters usually considered private.
+
+RESPONDENT BURDEN HOURS & LABOR COSTS
+Provide estimates of the hour burden of the collection of information. The statement should:
+Indicate the number of respondents, frequency of response, annual hour burden, and an explanation of how the burden was estimated. Generally, estimates should not include burden hours for customary and usual business practices.
+If this request for approval covers more than one form, provide separate hour burden estimates for each form and the aggregate the hour burdens.
+Provide estimates of annualized cost to respondents for the hour burdens for collections of information, identifying and using appropriate wage rate categories. The cost of contracting out or paying outside parties for information collection activities should not be included here. Instead, this cost should be included as O&M costs under non-labor costs covered under question 13.
+12a. Respondents/NAICS Codes
+The Acid Rain Program generally applies to fossil fuel-fired combustion sources that serve a generator producing electricity for sale or that did so in 1985. In the North American Industry Classification System, these sources are generally classified as NAICS code 221112 – Fossil Fuel-Fired Electric Power Generation.  All of these sources are subject to the program’s information collection requirements related to allowance transfers, permits, and emissions monitoring, and a subset of these sources that combust coal are subject to the program’s information collection requirements related to NOX permitting.  
+In addition to affected sources, any other person may engage in voluntary allowance transfer or auction activities under the Acid Rain Program subject to the respective information collection requirements.
+
+12b. Information Requested
+ Allowance Transfers
+Information regarding individual transfer transactions. All participants submitting allowance transfers are required to provide the following information for each allowance transfer through the allowance tracking system or by paper form:
+Allowance tracking system account number;
+Name, phone number, and facsimile number of the authorized account representative, along with the representative's signature and date of submission; and
+Serial numbers of allowances to be transferred.
+Optional identification of specific allowances for deduction. In addition, if the designated representative chooses to identify the specific serially-numbered allowances to be deducted from the unit's allowance tracking system account for annual reconciliation, then the following information is required:
+Allowance tracking system account number;
+Type of deduction;
+Serial numbers of the allowance blocks to be deducted; and
+Dated signature of the designated representative.
+Notification for distribution of auction proceeds. The proceeds from the annual auctions of allowances are generally distributed among affected sources via electronic funds transfer or direct deposit. The sources must notify EPA of information needed to complete the distributions. The following information is required:
+Authorized Account Representative (AAR) Identification;
+Name of the company receiving the payment;
+The company's taxpayer identification number;
+Bank account information;
+Plant name and plant code; and
+Signature of AAR.
+Application for general account in allowance tracking system. An entity other than an affected source that desires to trade allowances is required to submit a completed general account information application or provide the following information to obtain an allowance tracking system account number, prior to or simultaneous with the first transfer:
+Organization or company name (if applicable); 
+Name, mailing address, phone number, and email address of the authorized account representative;
+Name of the alternate authorized account representative (optional); 
+A list of all persons subject to a binding agreement for the authorized account representative to represent their ownership interests with respect to the allowances held in the account; and
+Certification statement and the signatures and date for the authorized account representative, and alternate authorized account representative, if any.
+
+Permits 
+Every affected source is required to submit and, when necessary, update a certificate of representation identifying a designated representative authorized to act on behalf of the source’s owners and operators. Every affected source is also required to have an Acid Rain permit. Acid Rain permits have five-year permit terms. The permitting authority's operating permits rule governs the issuance of permits to new units and for renewal of existing Acid Rain permits.  
+Certificate of Representation. Affected sources are assigned an allowance tracking system number and appoint a designated representative by submitting a certificate of representation. The data items requested for the certificate of representation are as follows:
+Source identification;
+Unit identification, including; 
+Unit type and category;
+Date of commencement of commercial operation;
+Generator IDs of generators served by unit;
+Nameplate capacity(s) of the generators served by the unit;
+List of applicable programs that the unit is subject to; and
+NAICS Code.
+Name, address, email, telephone and facsimile number of the designated representative;
+Name, address, email, telephone and facsimile number of the alternate designated representative;
+List of "owners and operators" of the source and each unit at the source;
+Certification statement;
+Signature of designated representative;
+Signature of alternate designated representative; and
+Date signed.
+Acid Rain Permit application. A complete Acid Rain permit application includes the following information:
+Identification of the source (plant name, ORIS code, State);
+Identification of affected units;
+A complete compliance plan;
+Standard requirements at 40 CFR 72.9;
+For new units, commence operation date and monitor certification deadline;
+Standard certification; and
+Name and signature of designated representative.
+Exemption for certain new units under 40 CFR 72.7. Operators of new units that serve generators with a nameplate capacity of 25 MW or less and use fuel with a sulfur content by weight of less than 0.05 percent may obtain an exemption from most requirements of the Acid Rain Program if they submit a certification with the following information:
+Unit Identification;
+Nameplate capacity of each of the generators served by the unit;
+The first full calendar year that the unit will meet the exemption requirements;
+The fuels currently burned by the unit, and that will be burned in the future, and their sulfur content by weight;
+Certification that the owners and operators will comply with all necessary requirements; and
+Standard certification at § 72.21(d)(2).
+Exemption for retired units under 40 CFR 72.8. Operators of affected units that are retired may obtain an exemption from most requirement of the Acid Rain Program if they submit a retired unit exemption form with the following information:
+Unit identification;
+The date that the unit was (or will be) permanently retired;
+The first full calendar year that the unit will meet the exemption requirements;
+Certification that the unit is permanently retired and will comply with all necessary requirements; and
+Standard certification at § 72.21(d)(2).
+All data items requested from permit applicants must be submitted on standard forms. Most of the information requested in the forms is specifically required by law.
+
+ Emissions Monitoring
+Emissions monitoring requirements specify that affected sources must (1) submit a monitoring plan for each affected unit at a source; (2) submit data for certification of each monitor; (3) record hourly operational, pollutant monitor, and flow monitor data for each affected unit; and (4) submit quarterly reports of their emissions data to EPA. 
+Respondents are required by 40 CFR 75.64 to submit the quarterly emissions data electronically, by direct electronic submission to EPA, and must also include a certification statement by the designated representative of the unit. EPA requires the certification statement to be submitted electronically unless it approves a hardcopy submission. All records are to be kept for three years, except for permitting records which are to be kept for the duration of the permit, or up to five years and certain new monitoring provisions.
+
+Auctions
+For auctions, participants are required to submit an electronic bid and a payment method at least six days prior to the date of the auction. Sealed bids are submitted electronically using the Clean Air Markets Division (CAMD) Business System. Each bid provides the following basic information:
+Name;
+Account number (or new account information);
+Allowance quantity and price; and
+Type of auction (spot or advance).
+The bid also specifies an acceptable method of payment for the total bid price. Full payment for allowances -- in an acceptable form -- is required with the bid at the time of submission.
+
+NOX Permitting
+An owner or operator of a unit subject to a NOX emission limitation may meet the requirements through one of three compliance options:  meeting the applicable standard limit, obtaining approval to comply on a group basis as one of multiple units in an emissions averaging plan, or obtaining approval for an alternative emission limit (AEL) based on demonstrated inability to meet the applicable standard limit. 
+Regardless of the compliance option selected, the following elements must be included in the compliance plan for each source:
+Identification of the source;
+Identification of each affected unit at the source that is subject to these regulations;
+Identification of the boiler type of each unit; and
+Identification of the compliance option proposed for each unit.
+For units that are choosing standard limits, the designated representative must simply check the appropriate box(es) to indicate the NOX compliance plan that is chosen.
+For units that are in an averaging plan, the following additional information must be submitted:
+Identification of each unit in the plan;
+Each unit's standard emission limitation;
+The alternative contemporaneous annual emission limitation for each unit (in lb/mmBtu);
+The annual heat input limit for each unit (in mmBtu);
+The calculation for the equation outlined in Step 2 of the EPA form for emissions averaging; and
+The calendar years for which the averaging plan applies.
+For an AEL, the EPA does not anticipate a submission under this option during the time period covered by this ICR. This option was not exercised during the previous two ICR time periods. 
+Recordkeeping
+All records are to be kept for three years, except for permitting records which are to be kept for the duration of the permit, or up to five years and certain new monitoring provisions.
+
+12c. Respondent Activities
+Allowance Transfers
+Participants in the allowance transfer system that are not affected units are required to perform two tasks: (1) negotiate an agreement to designate an authorized account representative and file an account information application to open an allowance tracking system general account, and (2) complete and submit allowance transfers. Designating an authorized account representative and filing an account information application is required one time only, prior to or concurrently with conducting the first transfer of allowances. For each transfer of allowances, participants are required to complete and submit an allowance transfer form or provide the required information using the CAMD Business System. The designated representative of an affected unit may identify the serial numbers of allowances to be deducted for annual reconciliation using the Allowance Deduction Form.
+General account holders and affected units may change the authorized account representatives by submitting a subsequent allowance account information form or certificate of representation form respectively.
+
+Permits
+The primary tasks to obtain a permit are listed below. These tasks are performed by existing sources required to renew their permits and new units during the period covered by this ICR. In general, sources with existing units, must reapply at least six months prior to the expiration of an existing permit, but the actual timeframe is governed by the permitting authority's operating permits rules.  
+Designate a representative of the owners and operators of a source. Read the designated representative certification procedures. Negotiate an agreement to designate a representative for each unit at a source. Complete and submit the certification. This task is only relevant for a new source or if a source changes the designated representative.
+Prepare the permit application. Read the permit application instructions, then collect relevant information for the permit application. Complete the acid rain permit application. Where appropriate, provide specific information to support the use of compliance options for NOX. Review the information for accuracy and appropriateness and report the information to the permitting authority.
+
+Emissions Monitoring
+The primary tasks that are performed by respondents to meet the emissions monitoring requirements are (1) completing and submitting appropriate monitoring plans; (2) conducting tests to certify monitors and submitting test results to EPA; (3) recording hourly emissions and operational data (this activity generally is performed electronically); (4) performing operation and maintenance activities associated with the monitoring, including quality assurance activities; (5) assuring data quality, preparing quarterly reports of emissions data, and submitting these reports to EPA; and (6) responding to error messages generated by EPA as a part of automated data checks or electronic audits, or to field audits conducted by EPA and the permitting authority. In addition, respondents must purchase the necessary monitoring hardware (or pay for fuel sampling and analysis in some cases) and purchase the electronic data reporting software (or software upgrades). EPA’s Emissions Collection and Monitoring Plan System (ECMPS) enables sources to run automated quality checks of reports prior to submittal to EPA and reduces the burden of having to respond to EPA generated error messages or follow-up EPA audits.  
+
+Auctions
+The tasks that are performed by auction participants are (1) submitting bids, which requires assessing the desired allowance quantities and prices to include in the bid; and (2) submitting payment information, which requires arranging for funds to be available to pay for any allowances acquired through successful bids. 
+
+NOX Permitting
+Prepare the NOX compliance plan application. Read the application instructions, then collect relevant information. Analyze compliance options and plan compliance. Complete written forms. Review the information for accuracy and appropriateness and report the information to the permitting authority and send a copy to EPA. Preparing a NOX compliance plan application may include interpreting the rule, collecting information and completing and submitting a NOX averaging plan, or an AEL petition.
+Because each source must renew its Acid Rain permit every five years, EPA assumes the tasks for permitting will be performed by 20 percent of all NOX-affected sources annually, in accordance with Section 408.  
+
+12d. Respondent Burden Hours and Labor Costs
+This section estimates the burden and cost of (1) tracking and transferring allowances, (2) obtaining and issuing permits, (3) submitting monitoring plans, obtaining certification of each monitor, and recording and reporting data from CEM systems, including quality assurance, (4) the auction program, and (5) NOX permitting.  
+Labor costs. In estimating labor costs for industry, EPA is estimating the following amounts: $123.48 per hour for managers and $88.80 per hour for technicians. EPA estimates are based on the Bureau of Labor Statistics (BLS) Employment Cost Index (ECI) to adjust labor rates to current year dollars.
+The respondent labor costs were adjusted based on the percent difference in the Employment Cost Index from September 2020 (time of previous ICR data) to March 2024 (most current data available). The Employment Cost Index values were obtained from the historical dataset titled “Continuous Data 1975 – Present” found at https://www.bls.gov/eci/tables.htm. The managerial per hour cost is based on the Employment Cost Index listed under “Private Industry”, “Management, business, and financial” and “Total Compensation”. The technical per hour cost is based on the Employment Cost Index listed under “Professional and related”. Among the occupations categories that are listed, these most closely matched to the managerial and technical work performed under this ICR.  
+The labor rate used for technical staff at state agencies is $61.27 per hour, and the labor rate for managerial employees at state agencies is $72.72.  These labor rates include benefits and overhead and are derived from data on the Bureau of Labor Statistics website at http://stats.bls.gov/news.release/ecec.toc.htm.  Wage and salary rates are shown at the link “Table 3:  State and local government, by major occupation and industry group (March 2024)."  The wage and salary rates from this table account for benefits provided to workers.  
+Allowance Transfers and Deductions
+Labor burden and costs for collections associated with tracking and transferring allowances are functions of the number of transfers anticipated. Based on the number of transfers recorded by EPA in 2021 through 2024, EPA assumes that about 517 privately submitted allowance transfers will be made each year, over the next three years. 
+Affected facilities have the option of identifying specific serially-numbered allowances to be deducted by EPA. Based on the number of submissions for the 2023 and 2024 compliance periods, EPA assumes that approximately 152 affected facilities will submit optional allowance deduction information each year during the period covered by this ICR.
+Estimate of Respondent Burden and Costs for Allowance Transfers and Deductions 
+Table 12.1 presents the annual burden and costs to participants in allowance transfers and deductions. Participants that are not affected units are required to negotiate an agreement to designate an authorized account representative and file a new account application; this activity is required only one time, prior to or simultaneously with the participant's first transfer of allowances. All participants are required to complete and submit allowance transfer information for each transfer of allowances. EPA estimates about ten hours to designate an authorized account representative and to open a general account, about two hours to prepare and submit information for an allowance transfer, and about three hours to prepare and submit an optional allowance deduction.
+EPA averaged the previous three years number of applications to establish new general accounts (21) and assumed that 3% of all active general accounts (47) will submit a revised application.  Assuming that 68 participants will file new or revised general account applications, 517 transfers will be made annually, and 152 deduction forms are submitted, the burden to respondents will be about 3,192 hours annually. The cost to respondents will be about $285,684 annually.
+Table 12.1: Respondent Burden/Cost Estimates for Allowance Transfers and Deductions
+Tasks | Burden hours per occurrence | Cost per  occurrence a | Total  burden b  (hours) | Total cost
+Designate an authorized account representative and file new account application. |  |  |  | 
+Managerial. | 3 | $370.44   | 204 | $ 25,190  
+Technical. | 7 | $ 621.60   | 476 | $ 42, 269  
+Prepare and submit allowance transfer information. |  |   |   |  
+Managerial. | 1 | $ 123.48   | 517 | $ 63,839  
+Technical. | 1 | $ 88.80   | 517 | $ 45,910  
+Allowance deduction form (optional). |  |   |   |  
+Managerial. | 1 | $ 123.48   | 152 | $ 18,769  
+Technical. | 2 | $ 177.60   | 304 | $ 26,995  
+Totals | 2170 | $ 222,972
+a2024 dollars; managerial hours $123.48 per hour and technical hours $88.80 per hour.
+bAssumes 68 participants file new or revised account applications, 517 transfers are made, and 152 optional deductions are submitted. 
+
+Permits 
+This subsection estimates the burden and costs associated with Acid Rain permitting activities which include (1) selecting a new designated representative, (2) submitting a permit application, (3) submitting a retired unit exemption, and (4) submitting a new unit exemption. Based on the past three years of operation, EPA assumes that each year 25% of sources will require Certificate of Representation submissions to appoint new designated representatives, 20 percent of all sources will submit permit applications (this number includes both new sources and sources renewing their permits), 10 units will submit retired unit exemptions, and 2 units will submit new unit exemptions. The total annual respondent burden is estimated to be 5,393 hours. The costs associated with the permitting process are estimated at $592,719 annually.
+12.2 Respondent Burden/Cost Estimates for Permits
+Tasks   | Burden hours per occurrence   | Cost per  occurrence a   | Total burden (hours)   | Total cost  
+Change Designated  Representative. b   |   |   |   |  
+Managerial.  | 10  | $1, 234.80    | 2,820   | $ 348,214   
+Technical.  | 5  | $ 444 .00    | 1, 410   | $ 125,208   
+Permit  applications. c   |   |    |    |   
+Managerial.  | 2  | $ 246.96    | 450   | $ 55,566   
+Technical.  | 3  | $ 266.40    | 675   | $ 59,940   
+Retired unit  exemption. d   |   |    |    |   
+Managerial.  | 1  | $1 23.48    | 10   | $ 1, 235   
+Technical.  | 2  | $1 77.60    | 20   | $ 1,776   
+New unit  exemption. e   |   |    |    |   
+Managerial.  | 1  | $1 23.48    | 2   | $ 247   
+Technical.  | 3  | $ 266.40    | 6   | $ 533   
+Totals   | 5,393     | $ 592,71 9    
+a2024 dollars. 
+bAssumes that 25% of sources will require certificate of representation submissions. 
+cAssumes 225 sources (20 percent of all affected sources) will submit permit applications each year. 
+dAssumes 10 units will submit retired unit exemptions each year. 
+eAssumes 2 units will submit new unit exemptions each year. 
+ 
+
+Emissions Monitoring, Recording, and Reporting 
+This subsection estimates the burden and cost of submitting monitoring plans, obtaining certification of each monitoring system, conducting monitor quality assurance activities, recording and reporting data from CEM systems (or approved alternatives), and other ancillary activities (such as responding to EPA generated error messages, or responding to EPA audits). 
+CAA section 412 requires all affected sources to install SO2 and NOX CEMS, continuous opacity monitors (COMS), and flow monitors (or approved alternatives). EPA requires that all affected units required to install CEMS use a data acquisition and handling system (DAHS) to record hourly CEMS and flow monitor data in the XML format. Affected gas- and oil-fired units may elect to use the approved alternative SO2 monitoring method and record fuel sulfur analysis data, and then use a DAHS to record and report hourly fuel flow values from a fuel flowmeter in the XML format. In addition, peaking units that burn natural gas and/or fuel oil may use an excepted method for calculating NOX emission rates. Finally, EPA allows certain low mass emissions (LME) units to use assumed emission factors together with operational data to calculate emissions. 
+Affected sources are required to complete and submit a monitoring plan and obtain certification of each monitor (on standard forms) for each affected unit at the source. These plans and certifications, which are only submitted once, have already been submitted for most units. Sources, however, may need to submit revised plans or even recertify if they change some aspect of their existing plan. New units will still need to submit plans and certifications for the first time. In addition, all affected units are required to submit quarterly reports of their emissions data to EPA; these reports include much of the basic monitoring plan data as well. 
+To quantify the respondents' burdens and costs, EPA has analyzed existing data reported by the affected sources and developed model unit categories to classify and characterize the affected population. The estimated numbers of units using each model reflect an assumption that approximately 30 new units become affected each year, apportioned among the different monitoring methodologies consistent with recently constructed new units.  
+Model A (units with SO2, NOX, CO2, and flow CEMS):  460 total units. 
+Model B (units with opacity CEMS solely as a result of the Acid Rain Program):  729 total units. (Note:  these units also are classified under other models for SO2, NOX, and CO2 requirements.) 
+Model C (units with appendix D monitoring for SO2 and CEMS for NOX):  2324 total units. 
+Model D (units using appendix D for SO2 and appendix E for NOX):  293 total units. 
+Model E (units using the LME methodology):  150 total units 
+Model F (units with moisture monitors necessary for moisture correction):  16 total units. (Note:  these units are also classified under Model A for other requirements.) 
+To estimate the burden and/or cost for each model, EPA has consulted with a subset of reporting sources to review previous estimates and provide updates as needed for each reporting activity.   The hourly labor rates for managerial, technical and clerical staff reflect the labor rates adjusted to 2024 dollars  using the Bureau of Labor Statistics Employment Cost Index, consistent with Agency ICR guidance. 
+Estimating Respondent Burden for Emissions Monitoring, Recording, and Reporting 
+The primary tasks performed by owners and operators of affected units are (1) reviewing the regulations, forms and instructions, (2) responding to EPA generated error messages and audits, (3) installing and reprogramming a DAHS and debugging the software, (4) completing and submitting monitoring plans for each unit at the source, (5) performing appropriate tests and providing test results to certify each monitor, (6) performing quality assurance testing and maintenance upon monitors, and (7) assuring the quality of emissions data, preparing quarterly reports of emissions data, and submitting reports to EPA.
+Regulatory Review 
+The estimate for time to review instructions and requirements remains consistent with the labor estimates used in previous ICRs (four manager hours and four technician hours) where no substantial changes have been made to the rule. These estimates apply at the facility level and cover reviews independent of the reviews that may occur as part of the reviewing task areas listed below. EPA continues to make available Part 75 Emissions Monitoring Technical Q&As, as well as tutorials, questions and answers, and other guidance documents for using ECMPS. Part 75 is available online through the electronic Code of Federal Regulations (e-CFR). In addition, EPA in 2005 posted online a text version of its Plain English Guide to Part 75.   
+Response to Error Messages/Audits 
+EPA provides feedback to sources so that suspected errors in submissions by sources are noted and corrected. With the use of the ECMPS software, this occurs before formal data submission because the ECMPS client tool checks all data with more than 1,000 QA checks, prior to the data being submitted. In particular, EPA makes significant use of electronic audits as a means to provide continuous data quality improvement. This effort has already been factored into respondent burden. In addition, if EPA and the permitting authorities conduct a field audit, the burden to a source could involve from 24 to 36 hours. However, on a per unit basis, these field audit impacts are less significant because not every unit will be subject to an audit in a particular year. EPA projects no more than five audits per year for the agency and no more than ten audits per year for each permitting authority. If the average burden of an audit is 30 hours per audit, the per unit burden for all units that would be associated with EPA's or the permitting authority’s audit activities is less than one hour of burden per respondent. Note that, because this activity should be inapplicable for the simplified reporting required of low mass emissions units, the total number of respondents for this activity excludes the LME units. 
+DAHS Upgrade and Debugging 
+During the years immediately preceding the 2010 – 2012 ICR, sources installed computer software designed to implement updated electronic data reporting using XML formats required under the Acid Rain Program. The ongoing annualized capital costs for ARP facilities associated with that DAHS upgrade are accounted for in this ICR.  
+Monitoring Plans 
+Completing and submitting monitoring plans is estimated to require an average of about 20 hours per unit initially. For existing units, initial monitoring plan submissions have been received prior to the time period covered in this renewal ICR, and, consistent with the existing ICR, EPA does not include burden hours for existing units under this initial monitoring plan development task area during the time period for this ICR. The burden associated with revising the monitoring plan is included in the time for preparing and submitting each quarterly emissions report. 
+Based on EIA's projected one percent per year increase in electricity generating capacity, EPA projects that the number of new units will increase approximately one percent per year over the number of units reporting in 2024. These units have a separate line item for initial monitoring plan preparation. 
+Monitor Certification 
+Based on information gathered as part of the 1999 rule revisions, EPA included assumptions in the previous ICR renewal to include labor burdens for monitor certification activity as well as test contractor costs. For existing units, only recertifications are included in the estimated activities for this ICR. The cost and burden figures exclude the costs and burdens associated with conducting a RATA as part of the recertification process because those costs are incorporated within the annual QA costs for previously certified monitoring systems.   
+Under part 75, sources are required to recertify the monitoring systems whenever the source makes a replacement, modification, or change in a certified CEMS or continuous opacity monitoring system that may significantly affect the ability of the system to accurately measure or record the SO2 or CO2 concentration, stack gas volumetric flow rate, NOX emission rate, or percent moisture, or to meet the QA and QC requirements. Recertification is also necessary whenever the source makes a replacement, modification, or change to the flue gas handling system or unit operation that may significantly change the flow or concentration profile. Examples of changes which require recertification include replacement of the analyzer, change in location or orientation of the sampling probe or site, and complete replacement of an existing CEMS or continuous opacity monitoring system. 
+For new units, the monitor certification costs are included in the capital/startup costs.
+Quality Assurance 
+Quality assurance (QA) testing and maintenance upon monitoring systems is the largest burden item under the monitoring, reporting and recordkeeping requirements for the Acid Rain Program. The requirements include daily, quarterly, and annual QA requirements, depending on the monitoring approach being used. For reporting units that use a full set of CEMS (SO2, flow, NOX, and CO2), the Agency has developed a per unit labor burden based primarily on information gathered from affected sources. For units that also are required to install and maintain a continuous opacity monitoring system (COMS) as a result of part 75, additional labor burdens apply. For units that rely on appendix D excepted methods for SO2 but use a NOX and CO2 CEMS, reduced labor burden estimates apply because the quality assurance activities for the excepted methods are less than for a CEMS. The labor burdens for these excepted methods were derived primarily from cost estimates provided by a group of affected utilities (see Docket A-97-35, Item II-D-48). For units that rely on the excepted methods under both appendix D and E (i.e., units without CEMS), the burden estimates are reduced further because no CEMS QA is required. For the relatively small number of units that require moisture correction, labor burdens for moisture monitoring QA activities were added based on information supplied by an affected utility (see Docket A-97-35, Item II-D-94). Finally, for units that use the LME provisions, no QA requirements apply except for units that use the unit-specific value option. Those units are required to test the unit to determine a unit-specific value. That cost has been included as a contractor cost for all new LME units. EPA estimates the average respondent burden per monitoring methodology (models A – F) which ranges from 0 – 530 hours.
+Quarterly Reports 
+Tasks performed by utilities in preparing quarterly reports include:  (1) assuring the quality of the data, (2) preparing the quarterly report, (3) revising the monitoring plan, if necessary, (4) preparation of hard copy documentation accompanying the quarterly reports, and (5) managerial review. 
+Estimating the Respondent Universe and Total Burden and Costs 
+EPA estimates for the time period covered by this ICR:  (a) 1,127 sources will review instructions and requirements; (b) 1,075 sources (this number excludes sources with only low mass emissions units and new units) will reprogram and debug DAHS computer software; (c) 3,093 units will submit quarterly reports (including 150 units using the LME methodology that submit simpler reports); and (d) 3,243 units will respond to EPA generated error messages (of which about five units will also respond to EPA audit activities), and perform QA testing and maintenance (units using the LME methodology are excluded from these activities).  EPA estimates that approximately 648 units will recertify annually. EPA estimates the annual cost of purchasing EPA protocol gases at $43,392, which are required for calibration of system components. Table 12.2 shows the total burden and total cost based on this respondent universe.  
+
+
+
+Table 12.3: Respondent Burden/Cost Estimates for Emissions Monitoring
+Task   | Mgr. $1 23.48 /Hour   | Tech. $ 88.80 /Hour   | Respondent Hours/Year   | Labor Cost/Year   | No. of Respondents   | Total Hours/Year   | Total Cost/Year   |  
+1.  Review Instructions and Requirements.  | 4  | 4  | 8  | $ 849    | 1,1 27   | 9, 016   | $ 956,823    |  
+2.  Respond to EPA Generated Error Messages, EPA, and Permitting Authority Field Audits.  | 6  | 18  | 24  | $2, 339    | 3, 243   | 77,832   | $ 7,585,377    |  
+3 .  DAHS Debugging.  | 4  | 12  | 16  | $1, 560    | 1, 075   | 17,200   | $ 1,677,000    |  
+4.  New Unit Monitoring Plans.  | 10  | 10  | 20  | $ 2,123    | 3 2   | 6 40   | $ 67,936    |  
+5.  Recertify Monitors.  | 38  | 12  | 50  | $ 5,758    | 6 48   | 3 2,400   | $ 3,731,184    |  
+6.  Startup/Capital Items and Perform QA Testing and Maintenance.  |    |    |   0 |    $0 |    |   0 | $0    |  
+(a) Model A (CEMS).  | 50  | 480  | 530  | $4 8,798    | 460   | 243,800   | $ 22,447,080    |  
+(b) Model B (COMS).  |    | 171  | 171  | $ 15,185    | 7 29   | 124,659   | $ 11,069, 865    |  
+(c) Model C (App D -- NO x  CEM).  | 20  | 375  | 395  | $ 35,770    | 2, 324   | 917,980   | $ 83,129,480    |  
+(d) Model D (App D and E).  | 5  | 30  | 35  | $ 3,281    | 293   | 10,255   | $ 961, 333    |  
+(e) Model E (LME).  |    |    | 0  | $0   | 150   | 0  | $ 0   |  
+(f) Model F (H 2 O).  |    | 40  | 40  | $ 3,552    | 16   | 640   | $ 56,832    |  
+7a.  Assure Data Quality, Prepare Reports (inc. monitor plan update), Submit Reports.  | 20  | 82  | 102  | $ 9,751    | 3,093   | 315,486   | $ 30,159,843    |  
+7b.  LME Reporting.  | 4  | 12  | 16  | $1, 560   | 150   | 2,400   | $ 234,000    |  
+8.  PGVP cylinder Costs  |    |    | 0  | $0   |    | 0  | $43,392   |  
+Totals   | 161   | 1246   | 1407   | $ 130,525   | 13 ,340 | 1, 752,308   | $ 162,120 , 145     |  
+
+Auctions
+This subsection presents estimates of the burden and costs to participants and EPA associated with the auction program.   
+Auctions are held only once a year. No restrictions are placed on the number of allowances for which a participant may bid. Multiple bids from a given participant are permitted, but each bid is treated individually and requires a separate bid submission. Based on the average number of bids in the past three auctions, EPA estimates that 5 bids will be received each year. 
+Estimate of Respondent Burden and Costs
+Table 12.3 depicts the burden and costs to auction participants. Auction participants must complete and submit the information electronically along with a certified check, letter of credit, or wire transfer. EPA estimates that the auction bid submission takes approximately 30 minutes to prepare, and obtaining a means of payment takes approximately one hour. This estimate includes time allocated to research the required information, enter the information on-line, arrange for a certified check, letter of credit, or wire transfer, and send the material to EPA. The burden and cost to auction participants is estimated to be 7.5 hours and $874 per year respectively. 
+ 
+ Table 12.4: Respondent Burden/Cost Estimates for Auctions 
+Collection activities   | Burden hours per bid   | Cost per  bid a   | Burden hours per year   | Cost per year  
+Submitting bid  information b   | 0.5  | $5 8 .27   | 2.5   | $ 291   
+Obtaining means of  payment b   | 1  | $1 16 .54   | 5   | $ 583   
+Totals   | 1.5   | 174.8 1   | 7.5   | $ 874  
+aBased on an average rate of $116.54 per hour (for costing purposes, it is assumed that 80 percent of the total hours will be Managerial ($123.48 per hour) and 20 percent will be Technical ($88.80 per hour). These estimates are based on 2024 dollars.
+bThe 5 bids represents an average number of bids over the past three EPA auctions.   
+
+NOX Permitting 
+This subsection estimates the burden and cost of renewing and revising NOX compliance plans.  
+Estimate of Respondent Burden and Costs 
+Table 12.6 presents the burden and costs to applicants for preparing and submitting NOX compliance plan renewal applications and revising NOx compliance plans. Permits, including NOX compliance plans for units affected for NOX, must be renewed every five years. Therefore, EPA assumes 20 percent of all units affected for NOX (i.e., 86 units) will submit NOX compliance plan renewal applications each year. Based on previous years of the program, EPA anticipates5% of sources (21) to make NOX compliance plan revisions each year.   
+For each compliance plan renewal, EPA estimates that the applicant will require about five hours, while compliance plan revisions will require about ten hours. The total respondent burden for NOX permitting, as shown in Table 12.6, is estimated to be 640 hours each year. The costs associated with NOX permitting are estimated at $66,438 per year. 
+ 
+Table 12.6: Respondent Burden/Cost Estimates for NOx Permitting
+Tasks   | Burden hours per occurrence   | Cost per  occurrence a   | Total burden (hours)   | Total cost  
+Prepare NO X  compliance plan renewal  applications. b   |   |   |   |  
+Managerial.  | 2  | $2 46.96    | 172   | $ 21,239   
+Technical.  | 3  | $2 66.40    | 258   | $ 22,910   
+Revise NO X  compliance plan (e.g., emissions averaging plans). c   |   |    |    |   
+Managerial.  | 5  | $ 617.40    | 1 05   | $ 12,965   
+Technical.  | 5  | $ 444.00    | 1 05   | $ 9,324   
+Totals   | 640   | $ 66,438  
+ a2024 dollars. 
+  bAssumes 86 units (20 percent of all NOX affected units) submit NOX compliance plan renewals each year.       
+  cAssumes 21 respondents revise emissions averaging plans each year. 
+
+
+Table 12.7: Aggregate Annual Respondent Burden and Cost  
+Program element   | Total burden (hours)   | Total  costs a  
+Allowance transfers.  | 2,17 0   | $ 222,972  
+Permits.  | 5,393   | $ 592,719  
+Emissions reporting.  | 1, 752,308   | $ 162,1 2 0,1 45   
+Auctions.  | 8   | $ 874  
+NO X  permitting.  | 640   | $ 66,438  
+Totals   | 1, 760,51 9   | $ 163,003,148    
+a2024 dollars. 
+
+
+Respondent CAPITAL AND O&m CostS 
+Provide an estimate for the total annual cost burden to respondents or record keepers resulting from the collection of information. (Do not include the cost of any hour burden already reflected on the burden worksheet).
+The cost estimate should be split into two components: (a) a total capital and start-up cost
+component (annualized over its expected useful life) and (b) a total operation and maintenance and purchase of services component. The estimates should consider costs associated with generating, maintaining, and disclosing or providing the information. Include descriptions of methods used to estimate major cost factors including system and technology acquisition, expected useful life of capital equipment, the discount rate(s), and the period over which costs will be incurred. Capital and start-up costs include, among other items, preparations for collecting information such as purchasing computers and software; monitoring, sampling, drilling, and testing equipment; and record storage facilities.
+If cost estimates are expected to vary widely, agencies should present ranges of cost burdens and explain the reasons for the variance. The cost of purchasing or contracting out information collections services should be a part of this cost burden estimate. 
+Generally, estimates should not include purchases of equipment or services, or portions thereof, made: (1) prior to October 1, 1995, (2) to achieve regulatory compliance with requirements not associated with the information collection, (3) for reasons other than to provide information or keep records for the government, or (4) as part of customary and usual business or private practices. 
+CAA section 412 requires all affected sources to install SO2 and NOX CEMS, continuous opacity monitors (COMS), and flow monitors (or approved alternatives). EPA requires that all affected units required to install CEMS use a data acquisition and handling system (DAHS) to record hourly CEMS and flow monitor data. Affected gas- and oil-fired units may elect to use the approved alternative SO2 monitoring method and record fuel sulfur analysis data, and then use a DAHS to record and report hourly fuel flow values from a fuel flowmeter. In addition, peaking units that burn natural gas and/or fuel oil may use an excepted method for calculating NOX emission rates. Finally, EPA allows certain low mass emissions (LME) units to use assumed emission factors together with operational data to calculate emissions. 
+ 
+Estimating Total Capital and Annual Operations and Maintenance Costs 
+Capital/start-up costs include the cost of installing required CEMS or alternatives. The Agency developed the capital cost estimates for the CEM and other equipment based on EPA CEM cost models, existing ICRs, and comments from various affected utilities. The cost estimates vary depending on the number and type of monitors that are required. Annualized capital cost estimates are included for each of the Models A – F: 
+Model A (units with SO2, NOX, CO2, and flow CEMS): 460 total units. 
+Model B (units with opacity CEMS solely as a result of the Acid Rain Program): 729 total units. (Note:  these units also are classified under other models for SO2, NOX, and CO2 requirements.) 
+Model C (units with appendix D monitoring for SO2 and CEMS for NOX): 2,324 total units. 
+Model D (units using appendix D for SO2 and appendix E for NOX): 293 total units. 
+Model E (units using the LME methodology):  150 total units. 
+Model F (units with moisture monitors necessary for moisture correction): 16 total units. (Note:  these units are also classified under Model A for other requirements.) 
+In addition to capital/start-up costs, respondents incur operation and maintenance (O&M) costs (exclusive of labor costs) that reflect ongoing costs to a unit. These costs include both contractor costs for the required recertification, diagnostic, and quality assurance (QA) testing, and other direct maintenance-related expenses (e.g., spare parts and calibration gases). The cost estimates used in this renewal ICR were derived from EPA CEM cost models, existing ICRs, Agency staff experience, information gathered during development of the 1999 and 2002 part 75 revisions, and estimates provided through consultation for this ICR. . 
+Note that testing contractor costs for certification, recertification and annual RATAs are presented as other direct costs and are not converted to equivalent source labor hours. This approach is consistent with the common business practice for obtaining outside contractors to conduct certification/recertification tests and annual relative accuracy test audits. For initial certification, the certification test costs are commonly bundled with equipment purchase contracts, according to information provided by a range of CEMS equipment vendors. For RATAs that are conducted either as part of the annual quality assurance requirements or as part of recertification, industry contacts have indicated that RATA testing is usually performed under a fixed price contract basis, except for travel costs that may be billed on an hourly basis beyond the basic contract cost. For annual RATAs, the sources indicated that an annual contract between a testing company and utility is often used. One municipal utility representative indicated that the applicable municipal regulations required that outside contracts be on a flat fee, not hourly, basis. 
+
+Capital/Start-up vs. Operating and Maintenance (O&M) Costs 
+Capital costs reflect one-time costs for purchase of equipment which will be used over a period of years. Conversely, operating and maintenance costs are those costs which are incurred on an annual or other scheduled basis. For instance, costs associated with quality assurance activities, such as spare parts or contractor costs for work, will be incurred on an annual basis.
+
+Annualizing Capital Costs 
+Capital costs for this ICR were annualized at a rate of seven percent (i.e., the annualized capital cost was calculated assuming money to purchase the capital equipment was borrowed at a seven percent annual interest rate). The cost of the loan was amortized over the life of the loan to repay the original borrowed amount plus interest. The result is the annualized capital cost reported. The annualized cost of the necessary monitoring equipment capital purchases varies from $2,359 to $30,282, per year, per unit, depending on the type of monitoring methodology. 
+
+
+Table 13.1: Respondent Burden/Cost Estimates for Emissions Monitoring
+ 
+Task   | Cont./O&M Cost   | Capital/Start-up Cost   | No. of Respondents   | Total Cost/Year   |  
+ |  |  |  |  |  
+1 .  DAHS Upgrade.  |    | $570   | 1,075   | $ 612,750    |  
+2 .  Recertify Monitors.  | $3,482   |    | 648   | $ 2,256,336    |  
+3 .  Startup/Capital Items and Perform QA Testing and Maintenance.  |    |    |    |    |  
+(a) Model A (CEMS).  | $31,949   | $30,282   | 460   | $ 28,626,260    |  
+(b) Model B (COMS).  | $295   | $3,733   | 729   | $ 2,936,412    |  
+(c) Model C (App D -- NO x  CEM).  | $17,818   | $19,661   | 2,324   | $ 87,101, 196    |  
+(d) Model D (App D and E).  | $1,843   | $2,359   | 293   | $1, 231,186    |  
+(e) Model E (LME).  | $1,991   |    | 150   | $ 298,650    |  
+(f) Model F (H 2 O).  | $8,192   | $895   | 16   | $ 145, 392    |  
+Totals   | $65,570   | $57,500   | 5 , 695   | $ 123,208,182     |  
+
+
+AGENCY COSTS
+Provide estimates of annualized costs to the Federal government. Also, provide a description of the method used to estimate cost, which should include quantification of hours, operational expenses (such as equipment, overhead, printing, and support staff), and any other expense that would not have been incurred without this collection of information.
+14a. Agency Activities
+ Allowance Transfers
+Collections associated with operating the allowance transfer system require EPA to (1) track allowance holders and maintain allowance accounts, (2) review allowance transfer information for completeness and ensure that all requirements are met, (3) record allowance transfers, and (4) notify both participants in a transfer whether the transfer was recorded. EPA has developed a computerized allowance tracking system to track allowances and maintain information on accounts that allow market participants to submit transfers via the internet in real time with instantaneous confirmation.  
+Permits
+EPA staff administering the permit program perform the following task: 
+Review certificates of representation, enter the information in the CAMD database, and notify the representative.
+Permitting authority staff, generally at the state or local level, perform the following task:
+Review permit applications and issue permits. Receive and review permit applications and record submissions. Provide notice to applicants whether permit applications are complete. Reformat collected data items to constitute proposed and final permits. Provide opportunities for public comment and participation.
+Emissions Monitoring 
+The major EPA activities related to emissions monitoring and reporting include (1) reviewing monitoring plans and certification applications, and (2) processing, reviewing and evaluating reports of quarterly emissions data from affected units. EPA's ECMPS computer system tracks and maintains this information. EPA also answers respondent questions and conducts audits of data submissions and field audits of monitoring systems. The use of the ECMPS software streamlines EPA's process for conducting many of these data checks. 
+ Auctions 
+EPA staff administering the auctions receive the sealed bids and payments. The bids are submitted electronically by the participants, and payment is made via wire transfer, certified check, or letter of credit. After bids are received, they are ranked using a computer program and then the allowances are allocated. EPA announces the results by posting them on the EPA website. Finally, after payment is verified, EPA records the transfer of allowances and transfers the auction proceeds to the owners and operators from whom the allowances were withheld. EPA has developed a computer system to run the entire auction.
+NOX Permitting
+Agency staff perform the following task:
+Review NOX compliance plan applications. Receive and review applications and record submissions. Provide notice to applicants whether applications are complete.
+Collection Methodology and Management
+To ensure consistency nationwide and to expedite (1) data entry and (2) permit issuance, EPA requires that standard reporting forms or equivalent formats or standard electronic reporting formats be used to submit all information to be collected under this ICR. 
+Currently, respondents to collections for allowance transfer information may submit the required information on a standard written form or using an electronic format. Permit applications are submitted on standard paper forms, as are certifications for new and retired unit exemptions. EPA requires the information collected under part 75 to be submitted in XML format via direct electronic submission. 
+Several computer systems and associated databases have been developed to (1) track allowances, (2) record quarterly emissions monitoring data, (3) track auction proceed payments, and (4) calculate the number of allowances to be deducted each year. These systems and databases are designed to provide easy access to information for use by the Agency, states, the regulated community, and the general public. EPA provides access to the data on emissions and allowance activity in both detailed and summary formats on the CAMD website.
+
+14b. Agency Labor Cost
+This section estimates the burden and cost of (1) tracking and transferring allowances, (2) obtaining and issuing permits, (3) submitting monitoring plans, obtaining certification of each monitor, and recording and reporting data from CEM systems, including quality assurance, (4) the auction program, (5) the opt-in program, and (6) NOX permitting.   
+
+Federal Agency labor rates were assumed to be $94.49 per hour. This labor rate was derived from the federal government's 2024 U.S. Office of Personnel Management General Schedule "Salary Table 2024-GS" (https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2024/general-schedule) using the factors in Table 14.1 below.   
+ 
+Table 14.1:  Determination of Federal Wage Rates 
+Labor category   | Factors   | Total  
+Annual salary of technical staff, GS 13, Step 8   |   | $ 109,177  
+Annual cost of supervisory staff, GS 15, Step 8   | $ 1 51,748   |  
+Factor (1/11) applied to cost of supervisory staff  | 0.09  |  
+   |   | $ 1 3,657.32   
+Benefits  | 1.6  |  
+Total cost per FTE   |   | $196,534.91   
+Total hourly cost (total cost per FTE divided by 2,080 hours per year)  |   | $ 94. 49   
+a2024 dollars. 
+
+Tracking, Transferring, and Deducting Allowances 
+Labor burden and costs for collections associated with tracking and transferring allowances are functions of the number of transfers anticipated. Based on the number of transfers recorded by EPA in 2021 through 2024, EPA assumes that about 517 privately submitted allowance transfers will be made each year, over the next three years. For transfers requiring agency action, the EPA estimates 1% of total transfers will be submitted via hard copy form requiring processing by EPA staff. 
+Affected facilities have the option of identifying specific serially-numbered allowances to be deducted by EPA. Based on the number of submissions for the 2023 and 2024 compliance periods, EPA assumes that approximately 152 affected facilities will submit optional allowance deduction information each year during the period covered by this ICR. EPA estimates 2 submissions will be submitted via hard copy form requiring processing by EPA staff. 
+Agency burden and costs are divided into those costs associated with implementing a tracking system, and those associated with transferring and deducting allowances. 
+Allowance Tracking System 
+The allowance system regulations set the general requirements for the tracking system, which has been developed by EPA. In order to track allowances, the allowance tracking system must include information on (1) allowance allocations for each affected facility, (2) allowance transfers and deductions, and (3) allowance holders. Also, to allow for the transfer of future year allowances, the allowance tracking system will contain allowance information for thirty years into the future. EPA has made the information compiled in the allowance tracking system publicly available on the internet and is continually working to improve electronic access. 
+EPA incurs annual operation and maintenance (O&M) costs for running an electronic transmission network, system enhancement, general maintenance, and employee salaries. These O&M costs are estimated at $2.5 million annually.
+Transferring and Deducting Allowances 
+Upon receipt of an allowance transfer notification in hard copy form, EPA will (1) review allowance transfer information for completeness and ensure that all requirements have been met, (2) record allowance transfers, and (3) notify both participants to a transfer whether the transfer was recorded. EPA estimates that it will require an average of one hour to perform these activities for each notification. Upon receipt of an optional allowance deduction form, in hard copy, EPA will record the data into the EPA data system. This is estimated to take about 30 minutes per form. 
+The EPA estimates 5 (out of the 517total) transfers will be made using paper forms each year and 2 (out of the 152 total) deduction submissions will be made using a paper form, the annual burden to EPA will be about 6 hours. There is no Agency burden when participants use the electronic online transfer system (also used for the optional deduction submission), since all EPA functions are automated. Costs for maintaining the online system are included in the O&M costs. The total labor cost to EPA will be about $567 annually. Table 14.2 summarizes the Agency burden and cost estimates for recording and transferring allowances. 
+
+ 
+Table 14.2: Agency Burden/Cost Estimates for Allowance Transfers 
+Tasks   | Burden hours   per occurrence   | Cost per  occurrence a   | Total  burden b  (hours)   | Total cost  
+Review allowance transfer information, record transfer, and notify transfer participants.  | 1  | $ 94. 49    | 5 | $ 472.45  
+Enter deduction data and deduct allowances.  | 0.5  | $ 47.25    | 1  | $ 94.50   
+Totals   | 6 | $ 567  
+a2024 dollars. 
+bAssumes 5 paper transfer forms and 2 paper optional deduction forms are submitted annually. 
+ 
+Obtaining and Issuing Permits 
+This subsection presents estimates of the level of effort required and the associated costs to permit applicants and either EPA or the permitting authority of obtaining and issuing permits. This analysis estimates the cost and burden for new sources required to obtain permits, for sources changing designated representatives, and sources renewing their permits.   
+All applicants for permits will be required to submit a general acid rain permit application for each affected source that covers all units at the source. 
+Estimate of Agency/Permitting Authority Burden and Costs for Permitting 
+Table 14.3 presents the burden and costs to EPA and the permitting authority to review and process permit information. The primary tasks performed by EPA are reviewing certificates of representation and reviewing permit applications. The primary tasks performed by the permitting authority are reviewing and processing permit applications, notifying the public, issuing proposed and final permits, and reviewing new and retired unit exemptions. Reviewing a certificate of representation and determining completeness is estimated to require half an hour. Reviewing the permit application, notifying the public, and issuing proposed and final permits is estimated to require nine hours per occurrence.  The total annual estimated burden and cost to EPA and the Permitting Authorities is 2685 hours and $253,732.50.
+
+ 
+Table 14.3: Agency/Permitting Authority Burden/Cost Estimates for Permits  
+Tasks   | Burden hours per occurrence   | Cost per  source a   | Total burden (hours)   | Total cost  
+EPA reviews certificates of representation and records  information. b   | 0.5   | $ 47.25 | 141 | $ 13,323
+Review permit application, and issue draft, proposed, and final  permit. c   |   |    |    |   
+Permitting Authority action.  | 8  | $ 490.16 | 1,8 00 | $ 110,286
+EPA review.  | 1  | $ 94. 49 | 225 | $ 21,260
+Receive and process retired and new unit  exemptions. d   |   |    |    |   
+Permitting Authority action.  | 2  | $ 122.54    | 24   | $ 1,470   
+EPA review.  | 0.3  | $ 28.35    | 3.6 | $ 340
+Totals   | 21 9 4   | $ 146, 6 79
+a2024 dollars. 
+bAssumes 282 sources submit a certificate of representation. 
+cAssumes 225 sources (20 percent of all affected sources) will submit permit applications each year. 
+dAssumes 10 retired and 2 new unit exemptions are submitted each year. 
+ 
+Emissions Monitoring, Recording, and Reporting 
+Estimating Agency Burden and Cost for emissions monitoring, recording, reporting 
+The tasks that will be performed by EPA include processing, reviewing, and evaluating emissions data reports submitted by utilities, and conducting appropriate CEMS and data audit activities to verify the information provided. The estimated Agency burden remains at one hour per report, consistent with the previous ICR. EPA's increased audit oversight efforts are more than offset by burden reductions from increasing familiarity with the program and improved automated tools. Assuming that affected sources will submit 3,243 emissions reports to EPA per quarter, the total annual burden incurred by the Agency will be 12,972 hours. The total annual cost to EPA for processing, reviewing, and evaluating these quarterly emissions reports will be approximately $1,323,739. Table 14.4 summarizes the Agency burden and costs associated with emissions reporting including conducting CEMS audits and reviewing CEMS audits conducted by government contractors.  
+
+
+Table 14.4: Agency Burden/Cost Estimates for Emissions Reporting 
+Tasks   | Hours per report   | Quarterly cost per  report a | Number of reports | Total burden per year (hours ) | Total cost  
+Process, review, and evaluate quarterly report and issue feedback letter.  | 1  | $ 94. 49    | 12,972   | 12,972   | $ 1 , 225,724   
+Conduct and review EPA field audits  | 35  | $ 3,307. 15    | 5   | 175   | $ 16,536   
+Independent contractor CEMS audits  | 0  | $0.00   | 0  | 0  | $ 68, 250
+Manage PGVP, AETB  | -  |    | -  | 140  | $ 13,2 29   
+Totals  | 13, 287 | $ 1,3 23,739   
+a2024 dollars.   
+bAssumes 3,243emission data reports each quarter and an average of 5 CEMS audits per year. 
+
+
+ 
+Auctions 
+This subsection presents estimates of the burden and costs to EPA associated with the auction program.  
+Estimate of Agency Burden and Costs 
+Table 14.5 depicts the burden and cost to EPA for the auction program. Based on past experience, the burden and cost to the Agency will be about the same each year. Setting up and revising allowance tracking system accounts for auction participants is estimated to take one hour, the handling of bid information and checks is estimated to take 10 hours, tabulation, checking, and announcing the auction results is estimated to take fifteen hours, and transferring allowances and proceeds is expected to require 40 hours per year. As Exhibit 8 shows, the total burden to EPA for auction activities is 66 hours at a cost of $6,236.
+
+Table 14.5: Agency Burden/Cost Estimates for Auctions 
+Collection activities   | Burden hours per year   | Cost per  year a  
+Setup allowance tracking system accounts.  | 1  | $ 94  
+Handle bids and checks.  | 10  | $ 945  
+Tabulate, check, and announce results.  | 15  | $ 1,417  
+Transfer of allowances and proceeds.  | 40  | $ 3,780  
+Totals   | 66   | $ 6,23 6  
+ a2024 dollars. 
+ 
+ 
+NOX Permitting 
+Estimate of Agency/Permitting Authority Burden and Costs for NOX 
+Table 14.7 presents the burden and costs to EPA for NOX permitting. The total annual burden and cost for renewing and revising NOX compliance plans is estimated at 85 hours and $8,032.50, respectively. The tasks involved in reviewing applications will include reviewing forms for completeness and entering the revised data from the plans into a NOX compliance database. 
+ 
+Table 14.7: Agency Burden/Cost Estimates for NOx Permitting  
+Tasks   | Burden hours per occurrence   | Cost per  occurrence   | Total burden (hours)   | Total cost  
+Renew NO X  compliance  plans. b   | 0.5  | $ 47.25    | 43   | $ 4,063  
+Revise NO X  emissions averaging  plans. c   | 1   | $ 94. 49    | 27  | $ 1,984   
+Totals   | 64   | $ 6,047
+a2024 dollars. 
+bAssumes 86 units (20 percent of all NOX affected units) submit NOX compliance plan renewals each year.   
+cAssumes 21 respondents revise emissions averaging plans each year. 
+
+
+
+
+Table 14.8: Aggregate Annual Agency Burden and Cost
+Program element   | Total burden (hours)   | Total  costs a  
+Allowance transfers.  | 6   | $ 567
+Permits.  |    |   
+Permitting Authority.  | 1,824   | $ 1 11,756
+EPA.  | 229   | $ 34,923
+Emissions reporting.  | 13, 287 | $ 1,3 23,739   
+Auctions.  | 66  | $ 6,23 6
+NO X  permitting.  | 64   | $ 6,047  
+Totals   | 15,476   | $ 1,483,268
+a2024 dollars. 
+
+14c. Agency Non-Labor Costs 
+The EPA operates and maintains a data system for the electronic submission of allowance transfers, certification of representation updates, emissions data, monitoring plans, auction bids, etc. EPA incurs annual operation and maintenance (O&M) costs for running the system that consists of multiple applications and databases and requires regular maintenance and system enhancements. The O&M tasks are performed by a procured contractor and the costs for the system are estimated at $2.5 million annually.
+
+REASONS FOR CHANGE IN BURDEN 
+Explain the reasons for any program changes or adjustments reported in the burden or capital/O&M cost estimates.
+Overall, the estimated annual respondent burden hours decreased by approximately 3.6% from the previous ICR and the estimate respondent capital/O&M costs decreased by approximately 4.8%. These decreases are largely attributed to the reduction in the number of Acid Rain affected units due to unit retirements. It is also due to a shift towards less burdensome monitoring methodologies. As units shift to burning natural gas this provides opportunities to use alternative monitoring methods which require less costly equipment and require less labor hours. Additionally, with the abundance of available Acid Rain allowances there are less allowance transactions occurring and less participation in the Acid Rain auction. 
+
+PUBLICATION OF DATA
+For collections of information whose results will be published, outline plans for tabulation and publication. Address any complex analytical techniques that will be used. Provide the time schedule for the entire project, including beginning and ending dates of the collection of information, completion of report, publication dates, and other actions.
+Data from sources regarding emissions, allowances, compliance, and facility information will be published on the Clean Air Markets Program Data (CAMPD) site. Data is published automatically to CAMPD. Allowance transfer data is published daily, emissions data is published quarterly, and compliance data is published yearly. 
+
+DISPLAY OF EXPIRATION DATE 
+If seeking approval to not display the expiration date for OMB approval of the information collection, explain the reasons that display would be inappropriate.
+N/A – expiration date may be displayed. 
+
+CERTIFICATION STATEMENT
+Explain each exception to the topics of the certification statement identified in “Certification for Paperwork Reduction Act Submissions.”
+This information collection complies with all provisions of the Certification for Paperwork Reduction Act Submissions.

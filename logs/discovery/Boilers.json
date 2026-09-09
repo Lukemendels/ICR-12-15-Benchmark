@@ -1,0 +1,64 @@
+{
+  "query": "Boilers",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&terms=Boilers",
+  "rows": [
+    {
+      "refs": [
+        "202303-1219-004"
+      ],
+      "text": "1219-0089\n|\nDOL/MSHA\n|\nSafety Defects; Examination, Correction, and Records\n|\nExtension without change of a currently approved collection\n|\n09/14/2023\n|\n02/29/2024\n|\nApproved with change\n|\n02/28/2027\n|\n1\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202411-2050-002"
+      ],
+      "text": "2050-0073\n|\nEPA/OLEM\n|\nInformation Requirements for Boilers and Industrial Furnaces (Renewal)\n|\nExtension without change of a currently approved collection\n|\n11/21/2024\n|\n06/17/2026\n|\nImproperly submitted and continue\n|\n09/30/2026\n|\n1\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202606-2050-003"
+      ],
+      "text": "2050-0073\n|\nEPA/OLEM\n|\nInformation Requirements for Boilers and Industrial Furnaces (Renewal)\n|\nExtension without change of a currently approved collection\n|\n06/30/2026\n|\n|\n\n|\n09/30/2026\n|\n1\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202505-2060-003"
+      ],
+      "text": "2060-0445\n|\nEPA/OAR\n|\nNOX SIP Call (Renewal)\n|\nExtension without change of a currently approved collection\n|\n05/30/2025\n|\n|\n\n|\n09/30/2026\n|\n1\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202505-2060-001"
+      ],
+      "text": "2060-0515\n|\nEPA/OAR\n|\nNESHAP for Refractory Products Manufacturing (40 CFR Part 63, Subpart SSSSS) (Renewal)\n|\nExtension without change of a currently approved collection\n|\n06/30/2025\n|\n12/15/2025\n|\nApproved with change\n|\n12/31/2028\n|\n1\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202505-2060-004"
+      ],
+      "text": "2060-0667\n|\nEPA/OAR\n|\nCross-State Air Pollution Rule and Texas SO2 Trading Programs (Renewal)\n|\nExtension without change of a currently approved collection\n|\n05/30/2025\n|\n|\n\n|\n09/30/2026\n|\n3\n|\n6\n|"
+    },
+    {
+      "refs": [
+        "202602-2060-006"
+      ],
+      "text": "2060-0743\n|\nEPA/OAR\n|\nNESHAP for Hazardous Waste Combustors (40 CFR Part 63, Subpart EEE) (Proposed Rule)\n|\nRevision of a currently approved collection\n|\n02/27/2026\n|\n06/23/2026\n|\nComment filed on proposed rule and continue\n|\n05/31/2028\n|\n1\n|\n2\n|"
+    },
+    {
+      "refs": [
+        "202311-3041-002"
+      ],
+      "text": "3041-0200\n|\nCPSC\n|\nSafety Standard for Residential Gas Furnaces and Boilers\n|\nNew collection (Request for a new OMB Control Number)\n|\n11/07/2023\n|\n12/08/2023\n|\nComment filed on proposed rule\n|\n|\n3\n|\n0\n|"
+    }
+  ],
+  "all_refs": [
+    "202303-1219-004",
+    "202311-3041-002",
+    "202411-2050-002",
+    "202505-2060-001",
+    "202505-2060-003",
+    "202505-2060-004",
+    "202602-2060-006",
+    "202606-2050-003"
+  ]
+}

@@ -1,272 +1,191 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202606-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 1: Total SD 1580/82-2022-01_Railroads/Passenger rail operations -Annual Burden Costs",
-      "rows": [
-        {
-          "text_line": 172,
-          "cells": [
-            "Activity",
-            "Number of Responses",
-            "Hour Burden per  Re sponse",
-            "Time Burden",
-            "Wage Rate",
-            "Time Burden Cost"
-          ]
-        },
-        {
-          "text_line": 173,
-          "cells": [
-            "",
-            "A",
-            "B",
-            "C = A x B",
-            "D",
-            "E = C x D"
-          ]
-        },
-        {
-          "text_line": 174,
-          "cells": [
-            "Cybersecurity Implementation Plan Update",
-            "34",
-            "15",
-            "510",
-            "$91.19",
-            "$46,507"
-          ]
-        },
-        {
-          "text_line": 175,
-          "cells": [
-            "Cybersecurity Assessment  Plan and  Report",
-            "67",
-            "2 4 0",
-            "1 6 ,0 80",
-            "$58.52",
-            "$ 941 , 002"
-          ]
-        },
-        {
-          "text_line": 176,
-          "cells": [
-            "Compliance Documentation",
-            "67",
-            "80",
-            "5,360",
-            "$106.23",
-            "$569,393"
-          ]
-        },
-        {
-          "text_line": 177,
-          "cells": [
-            "Total",
-            "168",
-            "\u00a0",
-            "2 1 , 950",
-            "",
-            "$1, 556 , 902"
-          ]
-        }
+[
+  {
+    "file": "icrs/202606-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Activity",
+        "Number of Responses",
+        "Hour Burden per  Re sponse",
+        "Time Burden",
+        "Wage Rate",
+        "Time Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = A x B",
+        "D",
+        "E = C x D"
+      ],
+      [
+        "Cybersecurity Implementation Plan Update",
+        "34",
+        "15",
+        "510",
+        "$91.19",
+        "$46,507"
+      ],
+      [
+        "Cybersecurity Assessment  Plan and  Report",
+        "67",
+        "2 4 0",
+        "1 6 ,0 80",
+        "$58.52",
+        "$ 941 , 002"
+      ],
+      [
+        "Compliance Documentation",
+        "67",
+        "80",
+        "5,360",
+        "$106.23",
+        "$569,393"
+      ],
+      [
+        "Total",
+        "168",
+        " ",
+        "2 1 , 950",
+        "",
+        "$1, 556 , 902"
       ]
-    },
-    {
-      "source_file": "icrs/202606-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 2: Annual Hour Burden Costs to Designate Cybersecurity Coordinator and Alternates",
-      "rows": [
-        {
-          "text_line": 188,
-          "cells": [
-            "Mode",
-            "Number of  New Cyber Coordinators",
-            "Hours per Response",
-            "Annual Hour Burden",
-            "Hourly Wage Rate",
-            "Annual Hour Burden Cost"
-          ]
-        },
-        {
-          "text_line": 189,
-          "cells": [
-            "",
-            "A",
-            "B",
-            "C = A  \u00d7  B",
-            "D",
-            "E = C  \u00d7  D"
-          ]
-        },
-        {
-          "text_line": 190,
-          "cells": [
-            "Freight Rail",
-            "117",
-            "0. 083",
-            "10",
-            "$106.23",
-            "$ 1, 062"
-          ]
-        },
-        {
-          "text_line": 191,
-          "cells": [
-            "Passenger Rail",
-            "63",
-            "",
-            "5",
-            "$148.23",
-            "$ 741"
-          ]
-        },
-        {
-          "text_line": 192,
-          "cells": [
-            "OTRB",
-            "19",
-            "",
-            "2",
-            "$148.23",
-            "$ 296"
-          ]
-        },
-        {
-          "text_line": 193,
-          "cells": [
-            "Total",
-            "199",
-            "",
-            "17",
-            "",
-            "$ 2, 099"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202606-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Mode",
+        "Number of  New Cyber Coordinators",
+        "Hours per Response",
+        "Annual Hour Burden",
+        "Hourly Wage Rate",
+        "Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = A  ×  B",
+        "D",
+        "E = C  ×  D"
+      ],
+      [
+        "Freight Rail",
+        "117",
+        "0. 083",
+        "10",
+        "$106.23",
+        "$ 1, 062"
+      ],
+      [
+        "Passenger Rail",
+        "63",
+        "",
+        "5",
+        "$148.23",
+        "$ 741"
+      ],
+      [
+        "OTRB",
+        "19",
+        "",
+        "2",
+        "$148.23",
+        "$ 296"
+      ],
+      [
+        "Total",
+        "199",
+        "",
+        "17",
+        "",
+        "$ 2, 099"
       ]
-    },
-    {
-      "source_file": "icrs/202606-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 3: Summary of Annual Time Burden and Cost",
-      "rows": [
-        {
-          "text_line": 210,
-          "cells": [
-            "IC Title",
-            "Annual  Hour Time Burden",
-            "Annual Hour Burden Cost"
-          ]
-        },
-        {
-          "text_line": 211,
-          "cells": [
-            "Cybersecurity Implementation Plan  Update s",
-            "510",
-            "$ 46,50 7"
-          ]
-        },
-        {
-          "text_line": 212,
-          "cells": [
-            "Annual  Assessment  Plan  and  Report s",
-            "1 6 , 080",
-            "$ 941 , 002"
-          ]
-        },
-        {
-          "text_line": 213,
-          "cells": [
-            "Compliance Documentation",
-            "                                   5 ,36 0",
-            "$569, 393"
-          ]
-        },
-        {
-          "text_line": 214,
-          "cells": [
-            "Designate Cybersecurity Coordinator  and Alternate Coordinator",
-            "17",
-            "$ 2, 099"
-          ]
-        },
-        {
-          "text_line": 215,
-          "cells": [
-            "Cybersecurity Incident Response Plan  Update s",
-            "200",
-            "22,086"
-          ]
-        },
-        {
-          "text_line": 216,
-          "cells": [
-            "Total",
-            "22,167",
-            "$ 1, 581 , 087"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202606-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "IC Title",
+        "Annual  Hour Time Burden",
+        "Annual Hour Burden Cost"
+      ],
+      [
+        "Cybersecurity Implementation Plan  Update s",
+        "510",
+        "$ 46,50 7"
+      ],
+      [
+        "Annual  Assessment  Plan  and  Report s",
+        "1 6 , 080",
+        "$ 941 , 002"
+      ],
+      [
+        "Compliance Documentation",
+        "                                   5 ,36 0",
+        "$569, 393"
+      ],
+      [
+        "Designate Cybersecurity Coordinator  and Alternate Coordinator",
+        "17",
+        "$ 2, 099"
+      ],
+      [
+        "Cybersecurity Incident Response Plan  Update s",
+        "200",
+        "22,086"
+      ],
+      [
+        "Total",
+        "22,167",
+        "$ 1, 581 , 087"
       ]
-    },
-    {
-      "source_file": "icrs/202606-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "The total government time burden for this information collection is 881 hours per year and the total government time burden cost is $117,269 per year.  Table 8 provides an overview of the total Federal time burden and the associated costs.",
-      "rows": [
-        {
-          "text_line": 249,
-          "cells": [
-            "Table  8 : Total Annual Federal Burden Cost",
-            ""
-          ]
-        },
-        {
-          "text_line": 250,
-          "cells": [
-            "Activity",
-            "Time Burden (in Hours)",
-            "Time Burden Cost"
-          ]
-        },
-        {
-          "text_line": 251,
-          "cells": [
-            "Review Cybersecurity Implementation Plan  Updates",
-            "408",
-            "$42,501"
-          ]
-        },
-        {
-          "text_line": 252,
-          "cells": [
-            "Review  Annual  Assessment  Plan Reports",
-            "536",
-            "         $ 55,836"
-          ]
-        },
-        {
-          "text_line": 253,
-          "cells": [
-            "Cybersecurity Coordinator  Processing",
-            "5",
-            "             $ 1,254"
-          ]
-        },
-        {
-          "text_line": 254,
-          "cells": [
-            "Cybersecurity Incident Response Plan Updates",
-            "200",
-            "$ 17,678"
-          ]
-        },
-        {
-          "text_line": 255,
-          "cells": [
-            "Total",
-            "881",
-            "        $ 117,269"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202606-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Table  8 : Total Annual Federal Burden Cost",
+        ""
+      ],
+      [
+        "Activity",
+        "Time Burden (in Hours)",
+        "Time Burden Cost"
+      ],
+      [
+        "Review Cybersecurity Implementation Plan  Updates",
+        "408",
+        "$42,501"
+      ],
+      [
+        "Review  Annual  Assessment  Plan Reports",
+        "536",
+        "         $ 55,836"
+      ],
+      [
+        "Cybersecurity Coordinator  Processing",
+        "5",
+        "             $ 1,254"
+      ],
+      [
+        "Cybersecurity Incident Response Plan Updates",
+        "200",
+        "$ 17,678"
+      ],
+      [
+        "Total",
+        "881",
+        "        $ 117,269"
       ]
-    }
-  ]
-}
+    ]
+  }
+]

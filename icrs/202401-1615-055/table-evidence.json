@@ -1,135 +1,105 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202401-1615-055/raw/supporting-statement-a-1.txt",
-      "preceding_text": "\u2022Provide estimates of annualized cost to respondents for the hour burdens for collections of information, identifying and using appropriate wage rate categories. The cost of contracting out or paying outside parties for information collection activities should not be included here.  Instead, this cost should be included in Item 14.",
-      "rows": [
-        {
-          "text_line": 106,
-          "cells": [
-            "",
-            "",
-            "A",
-            "B",
-            "C (= AxB )",
-            "D",
-            "E (= CxD )",
-            "F",
-            "(= ExF )"
-          ]
-        },
-        {
-          "text_line": 107,
-          "cells": [
-            "Type of Respondent",
-            "Form Name / Form Number",
-            "#. of Respondents",
-            "#. of Responses per Respondent",
-            "# of Responses",
-            "Avg. Burden per Response (in hours)",
-            "Total Annual Burden (in hours)",
-            "Avg. Hourly Wage Rate*",
-            "Total Annual Respondent Cost"
-          ]
-        },
-        {
-          "text_line": 108,
-          "cells": [
-            "Individuals or households",
-            "I-751 / Petition to Remove Conditions on Residence",
-            "153,000",
-            "1",
-            "153,000",
-            "4. 38 7",
-            "671,211",
-            "$36.47",
-            "$ 24,479,065"
-          ]
-        },
-        {
-          "text_line": 109,
-          "cells": [
-            "Individuals or households",
-            "Biometric processing",
-            "306,000**",
-            "1",
-            "306,000",
-            "1.17",
-            "358,020",
-            "$36.47",
-            "$13,056,989"
-          ]
-        },
-        {
-          "text_line": 110,
-          "cells": [
-            "Total",
-            "",
-            "",
-            "",
-            "459,000",
-            "",
-            "1,029,231",
-            "",
-            "$ 37,536,054"
-          ]
-        }
+[
+  {
+    "file": "icrs/202401-1615-055/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "",
+        "",
+        "A",
+        "B",
+        "C (= AxB )",
+        "D",
+        "E (= CxD )",
+        "F",
+        "(= ExF )"
+      ],
+      [
+        "Type of Respondent",
+        "Form Name / Form Number",
+        "#. of Respondents",
+        "#. of Responses per Respondent",
+        "# of Responses",
+        "Avg. Burden per Response (in hours)",
+        "Total Annual Burden (in hours)",
+        "Avg. Hourly Wage Rate*",
+        "Total Annual Respondent Cost"
+      ],
+      [
+        "Individuals or households",
+        "I-751 / Petition to Remove Conditions on Residence",
+        "153,000",
+        "1",
+        "153,000",
+        "4. 38 7",
+        "671,211",
+        "$36.47",
+        "$ 24,479,065"
+      ],
+      [
+        "Individuals or households",
+        "Biometric processing",
+        "306,000**",
+        "1",
+        "306,000",
+        "1.17",
+        "358,020",
+        "$36.47",
+        "$13,056,989"
+      ],
+      [
+        "Total",
+        "",
+        "",
+        "",
+        "459,000",
+        "",
+        "1,029,231",
+        "",
+        "$ 37,536,054"
       ]
-    },
-    {
-      "source_file": "icrs/202401-1615-055/raw/supporting-statement-a-1.txt",
-      "preceding_text": "This information collection has been revised to reflect changes proposed by the Fee Rule. USCIS has consolidated filing fee information from individual form instructions into the Form G-1055, Fee Schedule. These changes include removing instructional information about: filing fees, biometric services fees, processing information, payment methods, electronic funds transfers, fee waivers, and premium processing.",
-      "rows": [
-        {
-          "text_line": 139,
-          "cells": [
-            "Data collection Activity/Instru- ment (in hours)",
-            "Program Change (hours currently on OMB Inventory) ",
-            "Program Change (New) ",
-            "Difference",
-            "Adjustment (hours currently on OMB Inventory)",
-            "Adjustment (New) [new minus current]  ",
-            "Difference"
-          ]
-        },
-        {
-          "text_line": 140,
-          "cells": [
-            "I-751",
-            "699,210",
-            "671,211",
-            "(27,999)",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "text_line": 141,
-          "cells": [
-            "Biometrics",
-            "358,020",
-            "358,020",
-            "0",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "text_line": 142,
-          "cells": [
-            "Total(s)",
-            "1,057,230",
-            "1,029,231",
-            "(27,999)",
-            "",
-            "",
-            ""
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202401-1615-055/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Data collection Activity/Instru- ment (in hours)",
+        "Program Change (hours currently on OMB Inventory) ",
+        "Program Change (New) ",
+        "Difference",
+        "Adjustment (hours currently on OMB Inventory)",
+        "Adjustment (New) [new minus current]  ",
+        "Difference"
+      ],
+      [
+        "I-751",
+        "699,210",
+        "671,211",
+        "(27,999)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Biometrics",
+        "358,020",
+        "358,020",
+        "0",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total(s)",
+        "1,057,230",
+        "1,029,231",
+        "(27,999)",
+        "",
+        "",
+        ""
       ]
-    }
-  ]
-}
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202405-0938-022",
+  "retrieved_at": "2026-09-09T11:20:28.681715+00:00",
+  "documents": [
+    {
+      "title": "CMS-10711.Supporting Statement Part Af.pdf",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=142960301",
+      "path": "icrs/202405-0938-022/raw/supporting-statement-a-1.pdf",
+      "sha256": "9005a17c4fb1b01bb693f4844ba6a36a7f0065057c26aaaf22030343ec1b93d1",
+      "text_chars": 15976
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202405-0938-022",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202405-0938-022",
+  "agency": "HHS/CMS",
+  "title": "Proposed Prior Authorization Process and Requirements for Certain Hospital Outpatient Department (OPD) Services (CMS-10711)",
+  "omb_control_number": "0938-1368",
+  "submission_date": "05/24/2024",
+  "record_source_id": "SRC-0128",
+  "supporting_statement_source_ids": [
+    "SRC-0129"
+  ]
+}

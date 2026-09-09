@@ -1,448 +1,331 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202406-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 1: Respondents",
-      "rows": [
-        {
-          "text_line": 78,
-          "cells": [
-            "Respondent Category",
-            "Annual Respondents"
-          ]
-        },
-        {
-          "text_line": 79,
-          "cells": [
-            "AOSSP ",
-            "48"
-          ]
-        },
-        {
-          "text_line": 80,
-          "cells": [
-            "TFSSP/PCSSP",
-            "586"
-          ]
-        },
-        {
-          "text_line": 81,
-          "cells": [
-            "Total Respondents",
-            "634"
-          ]
-        }
+[
+  {
+    "file": "icrs/202406-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Table 1: Respondents"
+      ],
+      [
+        "Respondent Category",
+        "Annual Respondents"
+      ],
+      [
+        "AOSSP ",
+        "48"
+      ],
+      [
+        "TFSSP/PCSSP",
+        "586"
+      ],
+      [
+        "Total Respondents",
+        "634"
       ]
-    },
-    {
-      "source_file": "icrs/202406-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 2: AOSSP Hour Burden Estimate",
-      "rows": [
-        {
-          "text_line": 90,
-          "cells": [
-            "Information Collection",
-            "Average Annual Responses",
-            "Hour Burden Per Response",
-            "Average Annual Hour Burden",
-            "Average Hourly Loaded Wage",
-            "Annual Hour Burden Cost"
-          ]
-        },
-        {
-          "text_line": 91,
-          "cells": [
-            "",
-            "A",
-            "B",
-            "C = A \u00d7 B",
-            "D",
-            "E = C \u00d7 D"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202406-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Information Collection",
+        "Average Annual Responses",
+        "Hour Burden Per Response",
+        "Average Annual Hour Burden",
+        "Average Hourly Loaded Wage",
+        "Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = A × B",
+        "D",
+        "E = C × D"
+      ],
+      [
+        "Security Programs"
+      ],
+      [
+        "New",
+        "                                                   3 ",
+        "                                              120 ",
+        "                                            360 ",
+        "$103.20",
+        "$37,151"
+      ],
+      [
+        "Updates",
+        "                                              288 ",
+        "                                                  4 ",
+        "                                         1,152 ",
+        "$103.20",
+        "$118,882"
+      ],
+      [
+        "Amendments , Security Directives, and Information Circulars",
+        "                                              192 ",
+        "                                                  1 ",
+        "                                            192 ",
+        "$103.20",
+        "$19,814"
+      ],
+      [
+        "Requests to Change",
+        "                                              120 ",
+        "                                                  1 ",
+        "                                            120 ",
+        "$103.20",
+        "$12,384"
+      ],
+      [
+        "CHRC Applications",
+        "                                         74,880 ",
+        "                                            0.50 ",
+        "                                      37,440 ",
+        "$98.32",
+        "$3,681,282"
+      ],
+      [
+        "STA Applications",
+        "                                         74,880 ",
+        "                                            0.25 ",
+        "                                      18,720 ",
+        "$98.32",
+        "$1,840,641"
+      ],
+      [
+        "Recordkeeping"
+      ],
+      [
+        "Security Programs",
+        "                                                48 ",
+        "                                               4 ",
+        "                                            192 ",
+        "$36.85",
+        "$7, 075"
+      ],
+      [
+        "CHRCs/STAs",
+        "                                                48 ",
+        "                                              520 ",
+        "                                      24,960 ",
+        "$36.85",
+        "$9 19,735"
+      ],
+      [
+        "Training",
+        "                                                48 ",
+        "                                                24 ",
+        "                                         1,152 ",
+        "$36.85",
+        "$ 42,449"
+      ],
+      [
+        "Air Cargo Screening  Addresses",
+        "                                                30 ",
+        "                                                  2 ",
+        "                                              60 ",
+        "$36.85",
+        "$2,211"
+      ],
+      [
+        "First Flight  Checklist",
+        "                                   2,588,645 ",
+        "                                            0.17 ",
+        "                                    431,441 ",
+        "$46.74",
+        "$20,165,327"
+      ],
+      [
+        "Employees at Airports",
+        "                                         17,800 ",
+        "                                            0.08 ",
+        "                                         1,483 ",
+        "$36.85",
+        "$54,658"
+      ],
+      [
+        "Other",
+        "                                                48 ",
+        "                                              520 ",
+        "                                      24,960 ",
+        "$36.85",
+        "$ 919,735"
+      ],
+      [
+        "Incident and Suspicious Activity Reporting",
+        "                                           1,200 ",
+        "                                            0.33 ",
+        "                                            400 ",
+        "$54.40",
+        "$21,762"
+      ],
+      [
+        "Total",
+        " ",
+        " ",
+        "                                    542,632 ",
+        " ",
+        "$27,821,343"
       ]
-    },
-    {
-      "source_file": "icrs/202406-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Security Programs",
-      "rows": [
-        {
-          "text_line": 93,
-          "cells": [
-            "New",
-            "                                                   3 ",
-            "                                              120 ",
-            "                                            360 ",
-            "$103.20",
-            "$37,151"
-          ]
-        },
-        {
-          "text_line": 94,
-          "cells": [
-            "Updates",
-            "                                              288 ",
-            "                                                  4 ",
-            "                                         1,152 ",
-            "$103.20",
-            "$118,882"
-          ]
-        },
-        {
-          "text_line": 95,
-          "cells": [
-            "Amendments , Security Directives, and Information Circulars",
-            "                                              192 ",
-            "                                                  1 ",
-            "                                            192 ",
-            "$103.20",
-            "$19,814"
-          ]
-        },
-        {
-          "text_line": 96,
-          "cells": [
-            "Requests to Change",
-            "                                              120 ",
-            "                                                  1 ",
-            "                                            120 ",
-            "$103.20",
-            "$12,384"
-          ]
-        },
-        {
-          "text_line": 97,
-          "cells": [
-            "CHRC Applications",
-            "                                         74,880 ",
-            "                                            0.50 ",
-            "                                      37,440 ",
-            "$98.32",
-            "$3,681,282"
-          ]
-        },
-        {
-          "text_line": 98,
-          "cells": [
-            "STA Applications",
-            "                                         74,880 ",
-            "                                            0.25 ",
-            "                                      18,720 ",
-            "$98.32",
-            "$1,840,641"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202406-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Table 3 TFSSP/PCSSP Hour Burden Estimate"
+      ],
+      [
+        "Information Collection",
+        "Average Annual Responses",
+        "Hour Burden Per Response",
+        "Total Annual Burden Hours",
+        "Average Hourly Loaded Wage",
+        "Total Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C=AxB",
+        "D",
+        "E=CxD"
+      ],
+      [
+        "Security Programs",
+        "                                           1,172 ",
+        "                                                  8 ",
+        "                                         9,376 ",
+        "$103.20",
+        "$967,564"
+      ],
+      [
+        "CHRC Applications",
+        "                                           2,250 ",
+        "                                            0.50 ",
+        "                                         1,125 ",
+        "$55.72",
+        "$62,681"
+      ],
+      [
+        "STA Applications",
+        "                                           2,250 ",
+        "                                            0.25 ",
+        "                                            563 ",
+        "$55.72",
+        "$31,340"
+      ],
+      [
+        "Recordkeeping",
+        "                                           2,250 ",
+        "                                            0.08 ",
+        "                                            188 ",
+        "$36.85",
+        "$6,909"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total",
+        "7,922",
+        "",
+        "11,251",
+        "",
+        "$1,068,495"
       ]
-    },
-    {
-      "source_file": "icrs/202406-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Recordkeeping",
-      "rows": [
-        {
-          "text_line": 100,
-          "cells": [
-            "Security Programs",
-            "                                                48 ",
-            "                                               4 ",
-            "                                            192 ",
-            "$36.85",
-            "$7, 075"
-          ]
-        },
-        {
-          "text_line": 101,
-          "cells": [
-            "CHRCs/STAs",
-            "                                                48 ",
-            "                                              520 ",
-            "                                      24,960 ",
-            "$36.85",
-            "$9 19,735"
-          ]
-        },
-        {
-          "text_line": 102,
-          "cells": [
-            "Training",
-            "                                                48 ",
-            "                                                24 ",
-            "                                         1,152 ",
-            "$36.85",
-            "$ 42,449"
-          ]
-        },
-        {
-          "text_line": 103,
-          "cells": [
-            "Air Cargo Screening  Addresses",
-            "                                                30 ",
-            "                                                  2 ",
-            "                                              60 ",
-            "$36.85",
-            "$2,211"
-          ]
-        },
-        {
-          "text_line": 104,
-          "cells": [
-            "First Flight  Checklist",
-            "                                   2,588,645 ",
-            "                                            0.17 ",
-            "                                    431,441 ",
-            "$46.74",
-            "$20,165,327"
-          ]
-        },
-        {
-          "text_line": 105,
-          "cells": [
-            "Employees at Airports",
-            "                                         17,800 ",
-            "                                            0.08 ",
-            "                                         1,483 ",
-            "$36.85",
-            "$54,658"
-          ]
-        },
-        {
-          "text_line": 106,
-          "cells": [
-            "Other",
-            "                                                48 ",
-            "                                              520 ",
-            "                                      24,960 ",
-            "$36.85",
-            "$ 919,735"
-          ]
-        },
-        {
-          "text_line": 107,
-          "cells": [
-            "Incident and Suspicious Activity Reporting",
-            "                                           1,200 ",
-            "                                            0.33 ",
-            "                                            400 ",
-            "$54.40",
-            "$21,762"
-          ]
-        },
-        {
-          "text_line": 108,
-          "cells": [
-            "Total",
-            "\u00a0",
-            "\u00a0",
-            "                                    542,632 ",
-            "\u00a0",
-            "$27,821,343"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202406-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Respondent Category",
+        "Total Annual Hour Burden",
+        "Total Annual Hour Burden Cost"
+      ],
+      [
+        "AOSSP",
+        "                                       542,632 ",
+        "$27,821,343"
+      ],
+      [
+        "TFSSP/PCSSP",
+        "                                         11,251 ",
+        "$1,068,495"
+      ],
+      [
+        "Total",
+        "                                       553,883 ",
+        "$28,889,838"
       ]
-    },
-    {
-      "source_file": "icrs/202406-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 3 TFSSP/PCSSP Hour Burden Estimate",
-      "rows": [
-        {
-          "text_line": 165,
-          "cells": [
-            "Information Collection",
-            "Average Annual Responses",
-            "Hour Burden Per Response",
-            "Total Annual Burden Hours",
-            "Average Hourly Loaded Wage",
-            "Total Annual Hour Burden Cost"
-          ]
-        },
-        {
-          "text_line": 166,
-          "cells": [
-            "",
-            "A",
-            "B",
-            "C=AxB",
-            "D",
-            "E=CxD"
-          ]
-        },
-        {
-          "text_line": 167,
-          "cells": [
-            "Security Programs",
-            "                                           1,172 ",
-            "                                                  8 ",
-            "                                         9,376 ",
-            "$103.20",
-            "$967,564"
-          ]
-        },
-        {
-          "text_line": 168,
-          "cells": [
-            "CHRC Applications",
-            "                                           2,250 ",
-            "                                            0.50 ",
-            "                                         1,125 ",
-            "$55.72",
-            "$62,681"
-          ]
-        },
-        {
-          "text_line": 169,
-          "cells": [
-            "STA Applications",
-            "                                           2,250 ",
-            "                                            0.25 ",
-            "                                            563 ",
-            "$55.72",
-            "$31,340"
-          ]
-        },
-        {
-          "text_line": 170,
-          "cells": [
-            "Recordkeeping",
-            "                                           2,250 ",
-            "                                            0.08 ",
-            "                                            188 ",
-            "$36.85",
-            "$6,909"
-          ]
-        },
-        {
-          "text_line": 171,
-          "cells": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "text_line": 172,
-          "cells": [
-            "Total",
-            "7,922",
-            "",
-            "11,251",
-            "",
-            "$1,068,495"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202406-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Collection Activity",
+        "Annual Respondents",
+        "Hour Burden Per Respondent",
+        "Total Annual Hour Burden",
+        "Loaded Hourly Wage",
+        "Total Annual Cost Burden"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = A  ×  B",
+        "D",
+        "E=C  ×  D"
+      ],
+      [
+        "AOSSP  Verification",
+        "                                                 48 ",
+        "                                                25 ",
+        "                                         1,200 ",
+        "$63.65",
+        "$76,375"
+      ],
+      [
+        "TFSP/PCSSP  Verification",
+        "                                              586 ",
+        "                                                  4 ",
+        "                                         2,344 ",
+        "$63.65",
+        "$149,185"
+      ],
+      [
+        "Review Incident and Suspicious Activity Reports",
+        "                                           1,200 ",
+        "                                            0.25 ",
+        "                                            300 ",
+        "$87.11",
+        "$26,133"
+      ],
+      [
+        "Total",
+        " ",
+        " ",
+        "                            3,844 ",
+        " ",
+        "$251,693"
+      ],
+      [
+        "Note:  Totals may not sum due to rounding."
       ]
-    },
-    {
-      "source_file": "icrs/202406-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 4: Total AOSSP, TFSSP, and PCSSP Hour Burden and Cost Estimate",
-      "rows": [
-        {
-          "text_line": 193,
-          "cells": [
-            "Respondent Category",
-            "Total Annual Hour Burden",
-            "Total Annual Hour Burden Cost"
-          ]
-        },
-        {
-          "text_line": 194,
-          "cells": [
-            "AOSSP",
-            "                                       542,632 ",
-            "$27,821,343"
-          ]
-        },
-        {
-          "text_line": 195,
-          "cells": [
-            "TFSSP/PCSSP",
-            "                                         11,251 ",
-            "$1,068,495"
-          ]
-        },
-        {
-          "text_line": 196,
-          "cells": [
-            "Total",
-            "                                       553,883 ",
-            "$28,889,838"
-          ]
-        }
-      ]
-    },
-    {
-      "source_file": "icrs/202406-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 5: Federal Government Hour Burden and Cost",
-      "rows": [
-        {
-          "text_line": 220,
-          "cells": [
-            "Collection Activity",
-            "Annual Respondents",
-            "Hour Burden Per Respondent",
-            "Total Annual Hour Burden",
-            "Loaded Hourly Wage",
-            "Total Annual Cost Burden"
-          ]
-        },
-        {
-          "text_line": 221,
-          "cells": [
-            "",
-            "A",
-            "B",
-            "C = A  \u00d7  B",
-            "D",
-            "E=C  \u00d7  D"
-          ]
-        },
-        {
-          "text_line": 222,
-          "cells": [
-            "AOSSP  Verification",
-            "                                                 48 ",
-            "                                                25 ",
-            "                                         1,200 ",
-            "$63.65",
-            "$76,375"
-          ]
-        },
-        {
-          "text_line": 223,
-          "cells": [
-            "TFSP/PCSSP  Verification",
-            "                                              586 ",
-            "                                                  4 ",
-            "                                         2,344 ",
-            "$63.65",
-            "$149,185"
-          ]
-        },
-        {
-          "text_line": 224,
-          "cells": [
-            "Review Incident and Suspicious Activity Reports",
-            "                                           1,200 ",
-            "                                            0.25 ",
-            "                                            300 ",
-            "$87.11",
-            "$26,133"
-          ]
-        },
-        {
-          "text_line": 225,
-          "cells": [
-            "Total",
-            "\u00a0",
-            "\u00a0",
-            "                            3,844 ",
-            "\u00a0",
-            "$251,693"
-          ]
-        }
-      ]
-    }
-  ]
-}
+    ]
+  }
+]

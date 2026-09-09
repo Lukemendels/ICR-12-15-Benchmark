@@ -1,0 +1,78 @@
+{
+  "query": "Hospital",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&terms=Hospital",
+  "rows": [
+    {
+      "refs": [
+        "202403-0607-001"
+      ],
+      "text": "0607-0907\n|\nDOC/CENSUS\n|\nQuarterly Services Survey\n|\nExtension without change of a currently approved collection\n|\n03/11/2024\n|\n05/30/2024\n|\nApproved with change\n|\n05/31/2027\n|\n1\n|\n1\n|"
+    },
+    {
+      "refs": [
+        "202405-0693-005"
+      ],
+      "text": "0693-0078\n|\nDOC/NIST\n|\nGeneric Clearance for Community Resilience Data Collections\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n05/23/2024\n|\n05/23/2024\n|\nApproved without change\n|\n08/31/2025\n|\n44\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202507-0693-001"
+      ],
+      "text": "0693-0078\n|\nDOC/NIST\n|\nGeneric Clearance for Community Resilience Data Collections\n|\nExtension without change of a currently approved collection\n|\n07/10/2025\n|\n08/27/2025\n|\nApproved without change\n|\n08/31/2028\n|\n23\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202505-0704-008"
+      ],
+      "text": "0704-0553\n|\nDOW/DODDEP\n|\nFast Track Generic Clearance for the Collection of Qualitative Feedback on Agency Service Delivery\n|\nRevision of a currently approved collection\n|\n05/28/2025\n|\n08/27/2025\n|\nApproved with change\n|\n08/31/2028\n|\n172\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202408-0720-001"
+      ],
+      "text": "0720-0034\n|\nDOW/DODOASHA\n|\nDefense Health Agency Patient Safety Culture Survey\n|\nRevision of a currently approved collection\n|\n10/04/2024\n|\n11/07/2024\n|\nApproved without change\n|\n11/30/2027\n|\n1\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202401-0720-004"
+      ],
+      "text": "0720-0077\n|\nDOW/DODOASHA\n|\nTRICARE Inpatient Satisfaction Survey (TRISS)\n|\nExisting collection in use without an OMB Control Number\n|\n02/20/2024\n|\n05/01/2024\n|\nApproved with change\n|\n05/31/2027\n|\n2\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202401-0906-003"
+      ],
+      "text": "0906-0081\n|\nHHS/HRSA\n|\nNational Practitioner Data Bank for Adverse Information on Physicians and Other Health Care Practitioners: 45 CFR Part 60 Regulations and Forms\n|\nRevision of a currently approved collection\n|\n01/12/2024\n|\n01/12/2024\n|\nApproved without change\n|\n01/31/2027\n|\n44\n|\n44\n|"
+    },
+    {
+      "refs": [
+        "202508-0906-005"
+      ],
+      "text": "0906-0110\n|\nHHS/HRSA\n|\nData System for Organ Procurement and Transplantation Network\n|\nRevision of a currently approved collection\n|\n08/25/2025\n|\n08/25/2025\n|\nApproved with change\n|\n08/31/2028\n|\n153\n|\n153\n|"
+    },
+    {
+      "refs": [
+        "202310-0915-003"
+      ],
+      "text": "0915-0126\n|\nHHS/HSA\n|\nNational Practitioner Data Bank for Adverse Information on Physicians and Other Health Care Practitioners: 45 CFR Part 60 Regulations and Forms\n|\nRevision of a currently approved collection\n|\n11/09/2023\n|\n01/10/2024\n|\nApproved without change\n|\n01/31/2027\n|\n44\n|\n44\n|"
+    },
+    {
+      "refs": [
+        "202602-0915-001"
+      ],
+      "text": "0915-0151\n|\nHHS/HSA\n|\nRyan White HIV/AIDS Program Part F Dental Services Report\n|\nRevision of a currently approved collection\n|\n03/02/2026\n|\n04/15/2026\n|\nApproved without change\n|\n04/30/2029\n|\n4\n|\n4\n|"
+    }
+  ],
+  "all_refs": [
+    "202310-0915-003",
+    "202401-0720-004",
+    "202401-0906-003",
+    "202403-0607-001",
+    "202405-0693-005",
+    "202408-0720-001",
+    "202505-0704-008",
+    "202507-0693-001",
+    "202508-0906-005",
+    "202602-0915-001"
+  ]
+}

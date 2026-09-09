@@ -1,0 +1,353 @@
+PART word/document.xml
+FINAL SUPPORTING STATEMENT FOR
+10 CFR PART 50
+ISSUANCE, LIMITATIONS, AND CONDITIONS OF LICENSES AND CONSTRUCTION PERMITS
+SECTION 5
+
+(50.54(hh)(1) Procedures for aircraft threat; 50.54(cc), Bankruptcy Notifications; 
+50.55(e), Design and Construction Deficiencies; 50.55(f), Appendices A & B, Quality Assurance;
+50.59(c) and (d), Reports; Appendices G & H, 50.60, Fracture Toughness; 
+50.61, Pressurized Thermal Shock; 50.62, ATWS; 50.63, Station Blackout; 
+50.64, Highly Enriched Uranium; 50.65, Maintenance; and 50.66, Thermal Annealing)
+
+3150-0011
+
+
+ABSTRACT
+
+The U.S. Nuclear Regulatory Commission (NRC) is authorized by Congress to have responsibility and authority for the licensing and regulation of nuclear power plants, research/test facilities, fuel reprocessing plants and other utilization and production facilities licensed pursuant to the Act.  To meet its responsibilities, the NRC conducts a detailed review of all applications for licenses to construct and operate such facilities.  The purpose of the detailed review is to ensure that the proposed facilities can be built and operated safely at the proposed locations, and that all structures, systems and components important to safety will be designed to withstand the effects of postulated accident conditions, without undue risk to the health and safety of the public.
+
+Under 10 CFR Part 50, before a company can build a nuclear power plant or non-power production or utilization facility (NPUF) at a particular site, it must obtain a construction permit from the NRC.  Subsequently, the company must obtain an operating license from the NRC before it can operate the plant.  The decision by the NRC as to whether to approve a company's application for a construction permit or an operating license is based largely on the NRC staff's detailed review of the information provided by the company as part of its application.  Information provided by the applicant as part of the application is crucial to the licensing process as it provides the NRC with the information it needs to make a decision with regard to the proposed plant's impact on the public's health and safety and the environment.  
+
+The Commission issues a license or construction permit, with appropriate conditions and limitations (including technical specifications), after determining that an application for a license meets certain standards and requirements.  Licensees must maintain records and prepare reports to demonstrate their fulfillment of regulatory requirements.  The information collection requirements in this section include:
+
+maintain procedures to address preparatory actions in the event of a potential aircraft threat or a beyond-design basis event;
+submit notification in cases of bankruptcy; 
+submit reports of deficiencies occurring during the design and construction of nuclear power plants;
+maintain records of the design, fabrication, erection and testing of structures, systems and components important to safety throughout the life of the unit; 
+maintain records of changes in the facility, of changes in procedures, and of tests and experiments, and submit a report containing a brief description of any changes, tests, and experiments, including a summary of the evaluation of each; 
+submit test methods for supplemental fracture toughness; 
+submit proposed schedules for meeting the requirements on the Use of Highly Enriched Uranium, and 
+submit Thermal Annealing Reports.  
+
+These regulations affect 10 CFR Part 50, “Domestic Licensing of Production and Utilization Facilities” licensees for operating nuclear power plants, licensed non-power production and utilization facilities (NPUF), other new technologies (ONTs), such as light (LWRs) and non-light-water reactors (non-LWRs), and power plants that are currently being decommissioned. Also, license and permit holders, and applicants under 10 CFR Part 52, “Licenses, Certifications, and Approvals for Nuclear Power Plants.” These entities total 195 respondents for the current clearance cycle.  Licensees may voluntarily submit a request for an exemption to the Commission and maintain a record of that request. 
+
+This renewal incorporates information collection changes made as part of the Emergency Preparedness (EP) for Small Modular Reactors (SMR) and Other New Technologies (ONT) Final Rule, approved by OMB on October 13, 2023. To allow maximum flexibility while continuing to provide adequate protection of public health and safety and the common defense and security, the NRC made the new EP requirements an alternative to the current requirements. Thus, existing SMR or ONT facilities or future facilities licensed after the effective date of the final rule will use either the new performance-based EP program or the existing deterministic EP requirements in 10 CFR Part 50. 
+
+
+JUSTIFICATION
+
+1.Need for the Collection of Information  
+
+The information is needed in order to determine licensee compliance with the regulations set forth in 50.54(hh)(1); 50.55(e); 50.55(f); Appendices A & B,;  50.59(c) and (d); Appendices G & H; 50.60; 50.61; 50.62; 50.63; 50.64; 50.65; and 50.66.  Details of these regulations can be found at the end of this supporting statement in “Description of Requirements.”
+
+2.Agency Use of Information  
+
+Applicants or licensees requesting approval to construct or operate utilization or production facilities are required by the Atomic Energy Act of 1954, as amended (the Act), to provide information and data that the NRC may determine necessary to ensure the health and safety of the public.
+
+The NRC uses the records and reports required in this part to ascertain that licensees’ licensing the design, construction, operation, and decommissioning of commercial nuclear power plants and other nuclear facilities programs are adequate to protect public health and minimize danger to life and property and that licensees’ personnel are aware of and follow up on the information and steps needed to perform licensed activities in a safe manner.  The reports and recordkeeping requirements allow NRC to 
+
+determine whether to take actions, such as to conduct inspections or to alert other licensees to prevent similar events that may have generic implications.
+
+3.Reduction of Burden Through Information Technology
+
+The NRC has issued Guidance for Electronic Submissions to the NRC which provides direction for the electronic transmission and submittal of documents to the NRC.  Electronic transmission and submittal of documents can be accomplished via the following avenues: the Electronic Information Exchange (EIE) process, which is available from the NRC's “Electronic Submittals” Web page, by Optical Storage Media (OSM) (e.g. CD-ROM, DVD), by facsimile or by e-mail.  It is estimated that approximately 60% of the responses are filed electronically.
+
+4.Effort to Identify Duplication and Use Similar Information
+
+No sources of similar information are available.  There is no duplication of requirements.  
+
+5.Effort to Reduce Small Business Burden
+
+Not Applicable.
+
+6.Consequences to Federal Program or Policy Activities if the Collection is Not Conducted or is Conducted Less Frequently
+
+If the information is not collected, NRC will not be able to assess whether licensees are operating within the specific safety requirements applicable to the licensing and operating activities for existing nuclear power reactors and research and test reactors.
+
+The information and required frequency from licensees that seek to licensee and operator nuclear power reactors and research and test reactors is essential to NRC’s determination of whether the applicant has adequate equipment, training, funds and experience throughout the life of the licensee to protect the public health and safety.
+
+7.Circumstances which Justify Variation From OMB Guidelines
+
+50.54(cc) varies from the Office of Management and Budget guidelines by requiring that licensees submit the notification in less than 30 days from the date of filing of the petition in bankruptcy.  The requirement to provide notification promptly following the filing of the petition is a reasonable measure to ensure that NRC is made aware of the bankruptcy so as to take effective action to protect public health and safety.  Allowing a period of 30 or more days to elapse might preclude NRC from becoming aware of the licensee's distressed financial circumstances in time to prevent the development or aggravation of a potential hazard to the public.  Moreover, the United States Code contains requirements regarding notification of creditors of bankruptcy.  This regulation requires one additional notification.  Notifying NRC promptly after the filing of the petition would in fact be less of a burden on the bankrupt licensee than a separate notification later in the proceedings since these notifications are accomplished by forwarding to NRC a copy of the petition.
+
+Records in 50.55(e) are required to be retained longer than the OMB established 3-year retention period because operating experience has demonstrated that a minimum of a 10-year retention period is necessary in order to evaluate the adequacy of the evaluation and correction of recurring defects.  Procurement documents are retained for the lifetime of the components, a standard industry practice.  Review of documented component characteristics and performance history must be available for review as needed.
+
+The two-day initial notification required by 10 CFR 50.55(e)(6)(i) provides the NRC with advance notice of potentially generic defects, substantial safety hazards, or significant breakdowns in QA programs, which could affect operating facilities.
+
+50.71(c) states that if a retention period is not otherwise specified, these records must be retained until the Commission terminates the facility license or, in the case of an early site permit, until the permit expires.  Records related to design, fabrication, erection and testing of structures, systems and components important to safety must be retained for the life of the plant in order to support the review and confirmation of safety-related activities.
+
+The information reported pursuant to 10 CFR 50.59 is required to be submitted at intervals not to exceed 24 months but may be submitted annually or along with the Final Safety Analysis Report (FSAR) updates, and, therefore, does not vary from OMB guidelines.  The record retention periods specified in 10 CFR 50.59 (5 years, and until termination of the license) are required because these records provide the NRC with vital information about changes in the reactor facility, changes in procedures, and tests and experiments made without prior Commission approval.  Without these records, NRC's ability to protect the health and safety of the public would be reduced.
+
+The provisions of 10 CFR 50.60, 10 CFR 50 Appendix G, and 10 CFR 50 Appendix H require that this information be maintained for the life of the plant in order to detect material deteriorations or flaws which might affect the health and safety of the public.
+
+8.Consultations Outside the NRC
+
+Opportunity for public comment on the information collection requirements for this clearance package was published In the Federal Register on June 13, 2024 (89 FR 50381). Additionally, NRC staff contacted eight stakeholders via email. The stakeholders included operating reactor licensees, licensed and under construction non-power production and utilization facilities, as well as power reactors being decommissioned and industry representatives from Constellation Energy, Holtec International, Southern Nuclear Operating Co., Inc, SHINE Technologies, Abilene Christian University, Oregon State University, Texas A & M University, and Energy Solutions.
+
+No responses or comments were received from the FRN publication or the staff’s direct solicitation of comments related to this section.
+
+9.Payment or Gift to Respondents
+
+Not applicable.
+
+10.Confidentiality of Information
+
+Confidential and proprietary information is protected in accordance with NRC regulations at 10 CFR 9.17(a) and 10 CFR 2.390(b).  
+
+11.Justification for Sensitive Questions
+
+This regulation does not request sensitive information.  
+
+12.Estimated Industry Burden and Burden Hour Cost
+
+The total estimated cost for information collection requirements in this section is estimated to be 1,475,187 hours at a cost of $442.6M.
+
+ | Hours | Responses
+Reporting | 70,056 | 296
+Recordkeeping | 1,405,251 | 11 9
+Third Party Disclosure | 0 | 0
+TOTAL | 1,475,307 | 4 15
+
+Detailed burden estimates are included in the supplemental burden spreadsheet titled, “Table 1 - Summary of Supporting Statements.”  The $300 hourly rate used in the burden estimates is based on the Nuclear Regulatory Commission’s fee for hourly rates as noted in 10 CFR 170.20 “Average cost per professional staff-hour.” For more information on the basis of this rate, see the Revision of Fee Schedules; Fee Recovery for Fiscal Year 2023 (88 FR 39120, June 15, 2023). 
+
+13.Estimate of Other Additional Costs
+
+The quantity of records to be maintained is roughly proportional to the recordkeeping burden and therefore can be used to calculate approximate records storage costs.  Based on the number of pages maintained for a typical clearance, the records storage cost has been determined to be equal to .0004 times the recordkeeping burden cost.  Therefore, the storage cost for this clearance is estimated to be $168,630 (1.405M recordkeeping hours x $300 x .0004).
+
+14.Estimated Annualized Cost to the Federal Government
+
+The staff has developed estimates of annualized costs to the Federal Government related to the conduct of this collection of information.  These estimates are based on staff experience and subject matter expertise and include the burden needed to review, analyze, and process the collected information and any relevant operational expenses.
+
+The annualized cost to the government is estimated to be $21.9M (73,115 staff hours x $300/hr) as shown on the attached Summary Table.  
+
+15.Reasons for Changes in Burden or Cost
+
+The burden and number of responses have changed as described in the tables below:
+
+Burden change
+ | 2021  estimates | Current submission | Change
+Reporting | 220,288 | 70,056 | -150,232
+Recordkeeping | 1,769,883 | 1,405,251 | -364,632
+Third Party Disclosure | 200 | 0 | -200
+Total | 1,990,3 7 1 | 1,475,307 | -515,064
+
+
+Change in Responses
+ | 2021  estimates | Current submission | Change
+Reporting | 1,080 | 296 | -784
+Recordkeeping | 118 | 119 | +1
+Third Party Disclosure | 2 | 0 | -2
+Total | 1,200 | 415 | -785
+
+The overall burden for this section decreased from 1.990M to 1.475M, a reduction of 515,064 hours total.  
+
+In 2023, the NRC staff submitted a request for a new clearance to cover information collections contained in 10 CFR 50.55a, “Codes and Standards.”  These information collections pertain to voluntary consensus standards developed by the American Society of Mechanical Engineers (ASME), a voluntary consensus body.  The standards are regularly updated by rulemaking; therefore, having a stand-alone information collection allows for more timely processing of these rules.  These information collections are now covered under OMB clearance 3150-0264.  This submission is the first time that these hours have been removed from the Part 50 collection.  Currently, 418,894 hours (178,934 hours reporting + 239,760 hours recordkeeping + 200 hours third party disclosure) and 797 reporting responses in the Part 50 burden are associated with 50.55a requirements.  With the approval of a separate clearance for 50.55a requirements, we are now removing that burden from the Part 50 clearance.
+
+Outside of this change, the largest changes occurred in sections of recordkeeping based on NRC staff and industry interactions resulting in the implementation of program efficiencies achieved with industry initiatives.  
+
+External programs are contributing to the progression of advanced reactor designs, causing an influx of applications during this clearance cycle.  Due to these programs, ongoing robust pre-application engagements (i.e., topical report reviews), and meetings, discussions and continuous contact with prospective stakeholders, the agency is expected to receive applications for, construction permits (CP), early site permits (ESP), standard design approvals (SDAs) and certifications, manufacturing license (MLs), combined licensees (COLs), for commercial nuclear power reactors, as well as operating licenses (OLs) related to the licensing processes that apply to light-water reactors (LWR) and non-light water reactors (NLWR).  The effects if any of these projected applications on the requirements in this section are captured below.  
+
+Reporting Increases:
+
+Section, 50.55(f), Appendices A & B (Quality Assurance reports for operating reactors), increased by 5 respondents and 800 hours.
+Section, 50.59(c) and (d) (reports of changes in the facility for power reactors), increased by 1 respondent and 380 hours.
+Section, 50.61 (pressurized thermal shock), increased by 5 respondents.  In addition, NRC staff increased the estimated burden per response from 24 hours to 102 hours (an increase of 78 hours per respondent), based on analysis required and for consistency with similar requirements.  The total burden for this requirement increased by 822 hours.
+A burden estimate for 50.61a (Alternate fracture toughness requirements for protection against pressurized thermal shock events) was added at 250 hours per response.  The previous renewal did not include an estimate for 50.61a.  No respondents are anticipated during this clearance cycle; therefore, the burden estimate is 0 hours.
+
+Recordkeeping Increases:
+
+Section, 50.59(c) and (d), (Records of changes in the facility, of changes in procedures, and of tests and experiments for power reactors), increased by 1 recordkeeper and 100 hours.
+Section, 50.54(hh)(1) (procedures for aircraft threat), increased by 3 recordkeepers and 120 hours.
+
+Recordkeeping Decreases:
+
+Digitized electronic recordkeeping and advancement in technology has impacted the burden to maintain records.  Staff has recognized these advancements and applied burden accordingly.  The effects if any are captured below.
+
+Section, 50.55(f), Appendices A & B (Quality Assurance records for shutdown reactors), decreased by 4 recordkeepers and 10,000 hours.
+Section, 50.59(c) and (d), (Records of changes in the facility, of changes in procedures, and of tests and experiments for non-power reactors), decreased the burden hours per recordkeeper by from 480 hours to 100 hours per recordkeeper (a decrease of 380 hours per recordkeeper).  This change in the burden estimate was initiated by NRC staff to be in line with the burden estimate for power reactors for this section (100 hours). The overall reduction for this requirement is 11,780 hours.
+Section, 50.61 (Pressurized Thermal Shock records), increased by 5 recordkeepers.  In addition, NRC staff decreased the burden hours per recordkeeper by 205 hours (from 216 hours to 11 hours) due to improved technology.  The overall reduction for this requirement is 765 hours.
+Section, 50.65, (Maintenance program records for operating reactors), increased by 5 recordkeepers, NRC staff decreased the burden hours per recordkeeper by 1,315 hours (from 4,315 hours to 3,000 hours), based on NRC staff and industry interactions indicating that industry initiatives to implement program efficiencies achieved a burden reduction.  The over reduction for this requirement is 102,035 hours.
+Section, 50.65, (Maintenance program records for shutdown plants), decreased by 4 recordkeepers and 512 hours.
+
+16.Publication for Statistical Use
+
+The information being collected is not expected to be published for statistical use.
+
+17.Reason for Not Displaying the Expiration Date
+
+The recordkeeping and reporting requirements for this information collection are associated with regulations and are not submitted on instruments such as forms or surveys. For this reason, there are no data instruments on which to display an OMB expiration date. Further, amending the regulatory text of the CFR to display information that, in an annual publication, could become obsolete would be unduly burdensome and too difficult to keep current.
+
+18.Exceptions to the Certification Statement
+
+None.
+
+B.COLLECTIONS OF INFORMATION EMPLOYING STATISTICAL METHODS
+
+Not applicable.
+
+Appendix A – Description Requirements 
+
+Issuance, Limitations, and Conditions of Licenses and Construction Permits
+
+Section 50.54(cc) requires licensees to notify the appropriate NRC regional office immediately in writing in the event of the commencement of a bankruptcy proceeding involving the licensee, indicating the bankruptcy court in which the petition was filed and the date of the filing.  There is no action required of a licensee unless and until a bankruptcy petition is filed.
+
+Section 50.54(hh)(1) requires licensees to develop, implement, and maintain procedures to address preparatory actions to be taken in the event of a potential aircraft threat to a nuclear power reactor facility.
+
+Section 50.54(hh)(2) requires licensees to develop and implement guidance and strategies to address the loss of large areas of the plant due to explosions or fires from a beyond-design basis threat.  These one-time requirements have been completed.
+
+10 CFR 50.55(e) establishes requirements for reporting deficiencies occurring during the design and construction of nuclear power plants.  The regulation is designed to enable the NRC to receive prompt notification of deficiencies and to have timely information on which to base an evaluation of the potential safety consequences of the deficiency and determine whether regulatory action is required.  Therefore, the holder of a permit for the construction of a nuclear power plant is required to notify the Commission of each significant deficiency found in design and construction, which if it were to remain uncorrected, could adversely affect the safety of operations of the nuclear power plant at any time throughout the expected lifetime of the plant.
+
+10 CFR 50.55(e)(3) requires each CP holder and manufacturing licensee to adopt appropriate procedures to evaluate deviations and failures to comply to identify defects and failures to comply associated with substantial safety hazards as soon as practicable, and, except as provided in 10 CFR 50.55(e)(3)(ii), in all cases within 60 days of discovery, in order to identify a reportable defect or failure to comply that could create a substantial safety hazard.
+
+10 CFR 50.55(e)(3)(ii) requires that if the evaluation required by 50.55(e)(3)(i) cannot be completed within 60 days of discovery, an interim report is prepared and submitted to the Commission.  The interim report should describe the deviation or failure to comply that is being evaluated and should also state when the evaluation will be completed.  The interim report must be submitted in writing within 60 days of discovery of the deviation or failure to comply.
+
+10 CFR 50.55(e)(3)(iii) requires that a director or responsible officer of a holder of CP, COL (until the Commission makes the finding under 10 CFR 52.103(g)), and manufacturing license is informed within 5 working days after completion of the evaluation described above, if the construction of a facility or activity, or a basic component supplied for such facility or activity fails to comply with the Atomic Energy Act of 1954, as amended (the Act), or any applicable rule, regulation, order, or license of the Commission relating to a substantial safety hazard; contains a defect; or undergoes any significant breakdown in any portion of the quality assurance program required by 10 CFR 50 Appendix B that could have produced a defect in a basic component.  Such breakdowns in the QA program are reportable whether or not the breakdown actually resulted in a defect in a design approved and released for construction or installation.
+
+
+10 CFR 50.55(e)(4) requires a holder of a CP, COL (until the Commission makes the finding under 10 CFR 52.103(g)), and manufacturing license to notify the Commission, through a director or responsible officer or designated person, of information reasonably indicating that the facility fails to comply with the Act or any applicable rule, regulation, order, or license of the Commission relating to a substantial safety hazard.  
+
+10 CFR 50.55(e)(4)(iii) requires a CP holder to notify the Commission, through a director or responsible officer or designated person, of information reasonably indicating any significant breakdown in the QA program.
+
+10 CFR 50.55(e)(4)(iv) requires dedicating entities are responsible for identifying and evaluating deviations and reporting defects and failures to comply with substantial safety hazards for dedicated items; and maintaining auditable records for the dedication process.
+
+10 CFR 50.55(e)(5)(i) requires notifications, as required by paragraphs (e)(3) and (4) above, to be made initially by facsimile or by telephone within 2 days following receipt of information by the director or responsible corporate officer.  This does not apply to interim reports described in 10 CFR 50.55(e)(3)(ii).  Verification that the facsimile has been received should be made by telephone.
+
+10 CFR 50.55(e)(5)(ii) requires notifications, as specified above, to also be made in writing, with copies to the appropriate Regional Administrator and to the appropriate NRC resident inspector, within 30 days following receipt of information by the director or responsible corporate officer.
+
+10 CFR 50.55(e)(6) requires that the notification, required by 10 CFR 50.55(e)(5)(ii), clearly indicate that it is being submitted under 10 CFR 50.55(e) and includes, to the extent known, the name and address of the individual(s) informing the Commission; identification of the facility, the activity or the basic component supplied for the facility or the activity within the U.S. which contains a defect or fails to comply; identification of the firm constructing the facility or supplying the basic component which fails to comply or contains a defect; nature of the defect or failure to comply and the safety hazard which is created or could be created by such defect or failure to comply; the date on which the information of such defect or failure to comply was obtained; in the case of a basic component which contains a defect or fails to comply, the number and location of all the components in use at the facility; the corrective action which has been, is being, or will be taken, the name of the individual or organization responsible for  the action, and the length of time that has been or will be taken to complete the action; and any advice related to the defect or failure to comply about the facility, activity, or basic component that has been, is being, or will be given to other entities.
+
+10 CFR 50.55(e)(7) requires each individual, corporation, partnership, dedicating entity, or other entity subject to 10 CFR 50.55(e) shall ensure that each procurement document for a facility, or a basic component specifies or issued by the entity subject to the regulations, when applicable, that provisions of 10 CFR 21 or 10 CFR 50.55(e) applies, as applicable.
+
+10 CFR 50.55(e)(8) states that the requirements of 50.55(e) are satisfied when the defect or failure to comply associated with a substantial safety hazard has been previously reported under parts 21, 73.1205, 50.55(e) or 50.73. The burden is included in 10 CFR 21 (3150-0035) or NRC Form 366 (3150-0104).
+
+10 CFR 50.55(e)(9)(i) requires holders of a CP, COL, or manufacturing license to retain procurement documents, which define the requirements that facilities or basic components must meet in order to be considered acceptable, for the lifetime of the facility or basic component.
+
+10 CFR 50.55(e)(9)(ii) requires a holder of a CP, COL, and manufacturing license to retain records of evaluations of deviations and failures to comply for the longest of: 10 years from the date of the evaluation, 5 years from the date that an early site permit is references in an application for a COL, or 5 years from the date of delivery of a manufactured reactor.
+
+10 CFR 50.55(e)(9)(iii) requires records of all interim reports to the Commission made under 50.55(e)(3)(ii) or notifications to the Commission made under 50.55(e)(4) to be retained for the minimum periods stated in 50.55(e)(9)(ii).
+
+10 CFR 50.55(e)(9)(iv) requires suppliers of basic components to retain records of all notifications to affected licensees or purchasers under 50.55(e)(4)(iv) for a minimum of 10 years following the date of notification and the facilities or other purchasers to whom basic components or associated services were supplied for a minimum of 15 years from the delivery of the basic component or associated services.
+
+10 CFR 50.55(f) addresses quality assurance program requirements for holders of construction permits.  
+
+10 CFR 50 Appendix A, General Design Criteria for Nuclear Plants, Criteria 1, requires maintenance of records of the design, fabrication, erection, and testing of structures, systems, and components important to safety throughout the life of the unit.
+
+10 CFR 50 Appendix B.  Each nuclear power plant subject to the criteria in 10 CFR 50 Appendix B shall implement the quality assurance program described or referenced in the Safety Analysis Report for the facility.  10 CFR 50 Appendix B requires that sufficient records be maintained to furnish evidence of activities affecting quality.  Appropriate records of the design, fabrication, erection and testing of structures, systems and components important to safety shall be maintained by the licensee throughout the life of the plant, including:
+
+Management:  QA plan, procedures, and instructions
+Qualification and training of personnel
+Design
+Procurement, items identification/control, acceptance status
+Special processes
+Manufacture, installation/testing
+Calibration
+Handling, storage and shipping
+Inspection, test, and operating status
+Non-conformance, corrective action
+Audits
+Modification, maintenance, and repair
+Operation
+QA plans in support of Part 52 applications
+
+
+10 CFR 50.59(c) allows a holder of a license authorizing operation of a production or utilization facility or for a facility that has ceased operation to (i) make changes in the facility as described in the Final Safety Analysis Report (FSAR), (ii) make changes in procedures as described in the Final Safety Analysis Report, and (iii) conduct tests or experiments not described in the Final Safety Analysis Report, without prior Commission approval, unless the proposed change, test or experiment involves a change to the technical specifications incorporated in the license or meets one or more specified criteria, which would more than minimally decrease safety, in which case prior Commission approval is required prior to making the change.
+
+10 CFR 50.59(d) requires the facility licensee to maintain records of changes in the facility, of changes in procedures, and of tests and experiments and to submit a report containing a brief description of any changes, tests, and experiments, including a summary of the evaluation of each.  The report must be submitted at intervals not to exceed 24 months.  The records of changes in the facility must be maintained until the termination of the license is issued.  Records of changes in procedures and records of tests and experiments must be maintained for a period of 5 years. 
+ 
+10 CFR 50.60, "Acceptance criteria for fracture prevention measures for light water nuclear power reactors for normal operation" provisions are as follows:  (a) except as provided in 10 CFR 50.60(b), all light water nuclear power reactors, other than reactor facilities for which 10 CFR 50.82(a)(1) certifications have been submitted, must meet the fracture toughness and material surveillance program requirements for the reactor coolant pressure boundary set forth in 10 CFR 50 Appendix G and 10 CFR 50 Appendix H; and (b) proposed alternatives to the described requirements in 10 CFR 50 Appendix G and 10 CFR 50 Appendix H may be used when an exemption is granted by the Commission under 10 CFR 50.12.  
+
+10 CFR 50 Appendix G specifies minimum fracture toughness requirements for ferritic materials of pressure-retaining components of the reactor coolant pressure boundary of light water nuclear power reactors.  The Section I Note requires the adequacy of the fracture toughness of other ferritic materials not covered in Section I to be demonstrated on an individual basis.  Section III.A requires supplemental information for a reactor vessel constructed to an American Society of Mechanical Engineers (ASME) Code earlier than the Summer 1972 Addenda of the 1971 Edition to demonstrate equivalence with the fracture toughness requirements of 10 CFR 50 Appendix G.  Section III.B requires the submission and approval prior to testing of test methods for supplemental fracture toughness described in Section IV.A.1.b.  Section III.C requires that records of the fracture toughness test program be retained until termination of the license to comply with ASME Code requirements.  Section IV.A.1 requires licensees to maintain upper-shelf energy throughout the life of the reactor vessel of no less than 50 ft-lbs unless it is demonstrated that lower values of upper-shelf energy will provide margins of safety against fracture equivalent to those required by Appendix G of the ASME Code, “Fracture Toughness Criteria for Protection Against Failure.”  The analysis for satisfying this section must be submitted for review and approval on an individual-case basis at least 3 years prior to the date when the predicted Charpy upper-shelf energy will no longer satisfy the requirements of Section IV.A.1, or on a schedule approved by the NRC.  Section IV.A.2 requires licensees to provide pressure-temperature limits for the reactor vessel.  Both upper-shelf energy and pressure-temperature limits are dependent upon the predicted radiation damage to the reactor vessel.  
+
+10 CFR 50 Appendix H requires a material surveillance program for each reactor vessel to monitor changes in the fracture toughness of the reactor vessel beltline materials resulting from their exposure to neutron irradiation and the thermal environment.  Under the program, fracture toughness test data are obtained from material specimens exposed in surveillance capsules, which 
+
+are withdrawn periodically from the reactor vessel.  Section III.B.1 requires test procedures and reporting requirements that meet the requirements of American Society for Testing and Materials (ASTM) E 185-82, “Standard Practice for Conducting Surveillance Tests for Light-Water Cooled Nuclear Power Reactor Vessels,” to the extent practical for the configuration of the specimens in the capsule.  Section III.B.3 requires a proposed withdrawal schedule and technical justification to be submitted to and approved by the NRC.  Section III.C.1 requires integrated surveillance programs for reactors with similar design and operating features to be submitted to NRC for approval.  Criteria for approval include, among other items, an adequate dosimetry program, a contingency plan to assure that the surveillance program for each reactor will not be jeopardized by operation at reduced power level or by an extended outage of another reactor from which data are expected.  Section III.C.3 requires that any reduction in the amount of testing must be authorized by NRC.  Section IV requires:  A.) a summary technical report, submitted to NRC, of test results obtained from each capsule withdrawal, within one year of the date of capsule withdrawal, unless an extension is granted by NRC; B.) that the report include the data specified in Section  III.B.1 of 10 CFR 50 Appendix H and the results of all fracture toughness tests conducted on the beltline materials in the irradiated and unirradiated conditions; and C.) if a change in the Technical Specifications (TS) is required, either in the pressure-temperature limits or in the operating procedures required to meet the limits, the expected date for submittal of the revised TS must be provided with the report.
+
+10 CFR 50.61(b)(1) requires each PWR licensee, other than a licensee for a PWR for which 10 CFR 50.82(a)(1) certifications have been submitted, to have projected values of RTPTS, accepted by the NRC, for each reactor vessel beltline material for the expiration date of the operating license (EOL) fluence of the material.  The assessment must use the calculation procedures given in 10 CFR 50.61 and must specify the bases for the projected value, including the assumptions regarding core loading patterns, and must specify the copper and nickel contents and the fluence value used in the calculation for each beltline material.  This assessment must be updated whenever there is a significant change in projected values of RTPTS, or upon a request for a change in the expiration date for operation of the facility.  For PWRs with a construction permit issued before February 3, 2010, projected values of RTMAX-X per 10 CFR 50.61a, “Alternative Fracture Toughness Requirements for Protection Against Pressurized Thermal Shock Events,” could be used as an alternative.
+
+10 CFR 50.61(b)(3) provides for submittal and anticipated approval by the NRC of detailed plant-specific analyses, submitted to demonstrate acceptable risk with RTPTS above the screening limit due to plant modifications, new information, or new analysis techniques.
+ 
+10 CFR 50.61(b)(4) requires licensees for PWRs for which the analysis required by 10 CFR 50.61(b)(3) indicates that no reasonably practical flux reduction program will prevent RTPTS from exceeding the PTS screening criterion to submit a safety analysis to determine what, if any, modifications to equipment, systems, and operation are necessary to prevent potential failure of the reactor vessel as a result of postulated PTS events if continued operation beyond the screening criterion is allowed.  This analysis must be submitted at least three years before RTPTS is projected to exceed the PTS screening criterion.
+
+10 CFR 50.61(b)(6) states that if NRC concludes that operation of the facility with PTPTS in excess of the PTS screening criterion cannot be approved on the basis of the licensee's analyses submitted in accordance with 10 CFR 50.61(b)(3) and (4), the licensee shall request and receive approval by NRC prior to any operation beyond the criterion.
+
+10 CFR 50.61(c)(3) requires licensees to report to NRC any information believed to significantly improve the accuracy of the RTPTS values.  
+
+10 CFR 50.61a(c) requires each licensee shall submit a request for approval in the form of an application for a license amendment in accordance with § 50.90 together with the documentation required by paragraphs (c)(1), (c)(2), and (c)(3) of this section for review and approval by the Director of the Office of Nuclear Reactor Regulation (Director), before implementation of 10 CFR 50.61a. The application must be submitted for review and approval by the Director at least three years before the limiting RTPTS value calculated under 10 CFR 50.61 is projected to exceed the PTS screening criteria in 10 CFR 50.61 for plants licensed under this part. The burden is reported in Section 2 of this clearance.
+
+10 CFR 50.61a(d) requires licensees who have been approved to use 10 CFR 50.61a under the requirements of paragraph (c) of this section shall comply with the requirements of this paragraph.  10 CFR 50.61a(d)(1) requires that whenever there is a significant change in projected values of RTMAX–X, so that the previous value, the current value, or both values, exceed the screening criteria before the expiration of the plant operating license; or upon the licensee’s request for a change in the expiration date for operation of the facility; a re-assessment of RTMAX–X values documented consistent with the requirements of paragraph (c)(1) and (c)(3) of this section must be submitted in the form of a license amendment for review and approval by the Director. If the surveillance data used to perform the re-assessment of RTMAX–X values meet the requirements of paragraph (f)(6)(v) of this section, the licensee shall submit the data and the results of the analysis of the data to the Director for review and approval within one year after the capsule is withdrawn from the vessel. If the surveillance data meet the requirements of paragraph (f)(6)(vi) of this section, the licensee shall submit the data, the results of the analysis of the data, and proposed ΔT30 and RTMAX–X values considering the surveillance data in the form of a license amendment to the Director for review and approval within two years after the capsule is withdrawn from the vessel. If the Director does not approve the assessment of RTMAX–X values, then the licensee shall perform the actions required in paragraphs (d)(3) through (d)(7) of this section, as necessary, before operation beyond the PTS screening criteria in Table 1 of this section.  10 CFR 50.61a(d)(2) requires the licensee verify that the requirements of paragraphs (e), (e)(1), (e)(2), and (e)(3) of this section have been met. The licensee must submit, within 120 days after completing a volumetric examination of reactor vessel beltline materials as required by ASME Code, Section XI, the adjustments made to the volumetric test data to account for NDE-related uncertainties as described in paragraph (e)(1) of this section and all information required by paragraph (e)(1)(iii) of this section in the form of a license amendment for review and approval by the Director. If a licensee is required to implement paragraphs (e)(4), (e)(5), and (e)(6) of this section, the information required in these paragraphs must be submitted in the form of a license amendment for review and approval by the Director within one year after completing a volumetric examination of reactor vessel materials as required by ASME Code, Section XI.  10 CFR 50.61a(d)(3) requires that if the value of RTMAX–X is projected to exceed the PTS screening criteria, then the licensee shall implement those flux reduction programs that are reasonably practicable to avoid exceeding the PTS screening criteria. The schedule for implementation of flux reduction measures may take into account the schedule for review and anticipated approval by the Director of detailed plant-specific analyses which demonstrate acceptable risk with RTMAX–X values above the PTS screening criteria due to plant modifications, new information, or new analysis techniques. 10 CFR 50.61a(d)(4) requires that if the analysis required by paragraph (d)(3) of this section indicates that no reasonably practicable flux reduction program will prevent the RTMAX–X value for one or more reactor vessel beltline materials from exceeding the PTS screening criteria, then the licensee shall perform a safety analysis to determine what, if any, modifications to equipment, systems, and operation are 
+
+necessary to prevent the potential for an unacceptably high probability of failure of the reactor vessel as a result of postulated PTS events. In the analysis, the licensee may determine the properties of the reactor vessel materials based on available information, research results and plant surveillance data, and may use probabilistic fracture mechanics techniques. This analysis and the description of the modifications must be submitted to the Director in the form of a license amendment at least three years before RTMAX–X is projected to exceed the PTS screening criteria. 10 CFR 50.61a(d)(6) requires that if the Director concludes, under paragraph (d)(5) of this section, that operation of the facility with RTMAX–X values in excess of the PTS screening criteria cannot be approved on the basis of the licensee’s analyses submitted under paragraphs (d)(3) and (d)(4) of this section, then the licensee shall request a license amendment, and receive approval by the Director, before any operation beyond the PTS screening criteria. The request must be based on modifications to equipment, systems, and operation of the facility in addition to those previously proposed in the submitted analyses that would reduce the potential for failure of the reactor vessel due to PTS events, or on further analyses based on new information or improved methodology. The licensee must show that the proposed alternatives provide reasonable assurance of adequate protection of the public health and safety.
+
+10 CFR 50.61a(e) requires the volumetric examination results evaluated under paragraphs (e)(1), (e)(2), and (e)(3) of this section must be acquired using procedures, equipment and personnel that have been qualified under the ASME Code, Section XI, Appendix VIII, Supplement 4 and Supplement 6, as specified in 10 CFR 50.55a(b)(2)(xv). 10 CFR 50.61(e)(1) The licensee shall verify that the flaw density and size distributions within the volume described in ASME Code, Section XI, Figures IWB–2500–1 and IWB–2500–2 and limited to a depth from the clad-to-base metal interface of 1-inch or 10 percent of the vessel thickness, whichever is greater, do not exceed the limits in Tables 2 and 3 of this section based on the test results from the volumetric examination. The values in Tables 2 and 3 represent actual flaw sizes. Test results from the volumetric examination may be adjusted to account for the effects of NDE-related uncertainties. The methodology to account for NDE-related uncertainties must be based on statistical data from the qualification tests and any other tests that measure the difference between the actual flaw size and the NDE detected flaw size. Licensees who adjust their test data to account for NDE-related uncertainties to verify conformance with the values in Tables 2 and 3 shall prepare and submit the methodology used to estimate the NDE uncertainty, the statistical data used to adjust the test data and an explanation of how the data was analyzed for review and approval by the Director in accordance with paragraphs (c)(2) and (d)(2) of this section. The verification of the flaw density and size distributions shall be performed line-by-line for Tables 2 and 3. If the flaw density and size distribution exceeds the limitations specified in Tables 2 and 3 of this section, the licensee shall perform the analyses required by paragraph (e)(4) of this section. If analyses are required in accordance with paragraph (e)(4) of this section, the licensee must address the effects on through-wall crack frequency (TWCF) in accordance with paragraph (e)(5) of this section and must prepare and submit a neutron fluence map in accordance with the requirements of paragraph (e)(6) of this section.  10 CFR 50.61a(e)(4) requires that the licensee shall perform analyses to demonstrate that the reactor vessel will have a TWCF of less than 1 × 10–6 per reactor year if the ASME Code, Section XI volumetric examination required by paragraph (c)(2) or (d)(2) of this section indicates if the flaw density and size in the inspection volume described in paragraph (e)(1) exceed the limits in Tables 2 or 3 of this section; there are axial flaws that penetrate through the clad into the low alloy steel reactor vessel shell, at a depth equal to or greater than 0.075 inches in through-wall extent from the clad-to-base metal interface; or any flaws between the clad-to-base metal interface and three-eighths of the vessel thickness exceed the size allowable in ASME Code, Section XI, Table IWB–3510–1.  10 CFR 50.61a(e)(6) requires that for all flaw assessments performed in accordance with paragraph (e)(4) of this section, the licensee shall prepare and submit a neutron 
+
+fluence map, projected to the date of license expiration, for the reactor vessel beltline clad-to-base metal interface and indexed in a manner that allows the determination of the neutron fluence at the location of the detected flaws.
+
+10 CFR 50.62 requires the installation of certain equipment in nuclear power plants to prevent and mitigate anticipated transient without scram (ATWS) events.  The licensee for a nuclear power plant is required, by 10 CFR 50.62(c)(6), to submit a copy of equipment design and installation plans to the NRC to ensure that the equipment will perform its intended safety function.  The burden to provide this information is included in the OMB clearance for 10 CFR Part 52, “Licenses, Certifications, and Approvals for Nuclear Power Plants” (3150-0151).  The information is included in an applicant’s Final Safety Analysis Report (FSAR).  10 CFR 52.47, 52.79, 52.137, and 52.157 require that applicants for standard design certifications, combined licenses, standard design approvals, and manufacturing licenses include the information required by this section in their FSAR.
+
+10 CFR 50.62(d) requires the licensee to submit a schedule to the NRC for implementing the requirements of 10 CFR 50.62.  This provision allows the establishment of implementation schedules that are tailored to the safety priority needs and resources of the individual licensee.  This requirement is complete.
+
+The provisions of 10 CFR 50.63 require each licensed light-water-cooled nuclear power plant to be able to withstand for a specified duration and recover from a site blackout.  This information collection has been completed for all current licensees.  
+
+10 CFR 50.63(a)(2) states that the capability for coping with a site blackout of specified duration shall be determined by an appropriate coping analysis.  Utilities are expected to have the baseline assumptions, analyses, and related information used in their coping evaluations available for NRC review.  Information for plants licensed to operate prior to September 27, 2007, is complete.  The burden to provide this information is included in the OMB clearance for 10 CFR Part 52, “Licenses, Certifications, and Approvals for Nuclear Power Plants” (3150-0151).  The information is included in an applicant’s Final Safety Analysis Report (FSAR).
+
+10 CFR 50.63(c)(1) requires light-water-cooled nuclear power plant licensed to operate after July 21, 1988, but before September 27, 2007, to submit the following information 270 days after the date of license issuance:
+
+(i) A proposed station blackout duration for use in determining compliance with 10 CFR 50.63, including a justification for the selection based on the following factors:  (i) the redundancy of the onsite emergency AC power sources; (ii) the reliability of the onsite emergency AC power sources; (iii) the expected frequency of loss of offsite power; and (iv) the probable time needed to restore offsite power.
+
+(ii)A description of the procedures that will be implemented for site blackout events for the duration determined in (i), above, and for recovery therefrom.
+
+(iii)A list of modifications to equipment and associated procedures, if any, necessary to meet the requirements of 10 CFR 50.63 for the specified site blackout duration determined in (i), above, and a proposed schedule for implementing the stated modifications. 
+
+10 CFR 50.63(c)(4) requires licensees for plants licensed to operate on or before June 21, 1988, to submit a schedule commitment for implementing any equipment and associated procedure modifications.  This submittal was required within 30 days after receipt of NRC's regulatory assessment and was required to include an explanation of the schedule and a justification if the schedule did not provide for completion of the modifications within two years of the notification.  Thus, all information collection is now complete.
+
+Section 50.64(b)(1) limits the use of highly enriched uranium (HEU) fuel in non-power reactors.  This regulation requires that new non-power reactors use low enriched uranium (LEU) fuel unless the applicant demonstrates a “unique purpose” as defined in 50.2.  Moreover, section 50.64(b)(2) requires that existing non-power reactors replace HEU fuel with acceptable LEU fuel when available.
+
+Section 50.64(c)(1) states any request by a licensee for a determination that a non-power reactor has a unique purpose as defined in 50.2 should be submitted with supporting documentation to the Director of the Office of Nuclear Reactor Regulation. 
+
+Section 50.64(c)(2)(i) requires that licensees authorized to possess and use HEU fuel submit to the NRC written documentation containing a schedule of when a Safety Analysis Report will be submitted and when other events will take place in the conversion from HEU to LEU fuel.  This documentation should be updated annually until the Safety Analysis Report is submitted.  This documentation containing the schedule will be based upon the availability of replacement fuel acceptable to the NRC and consideration of other factors such as the availability of shipping casks, financial support, and reactor usage.
+
+Section 50.64(c)(2)(ii) requires the licensee authorized to possess and use HEU fuel to submit a statement to the NRC that Federal Government funding for conversion to LEU is not available (with supporting documentation) in lieu of the requirement of section 50.64(c)(2)(i) above.  If this statement of non-availability of Federal Government funding is submitted, the licensee will be required to resubmit a proposal for meeting the requirements of 50.64(b)(2) or (3) at 12-month intervals.  
+
+Section 50.64(c)(2)(iii) requires that the proposal include, to the extent required to effect the conversion, all necessary changes in the license, facility, or procedures.  Supporting safety analyses should also be provided so as to meet the schedule established for conversion.
+
+Section 50.65 contains requirements pertaining to the monitoring of the effectiveness of maintenance at nuclear power plants.  This performance-based rule requires monitoring of the overall continuing effectiveness of licensee maintenance programs by means of licensee tracking of the performance (in terms of availability and/or reliability) or condition of structures, systems or components (SSCs) within the scope of the rule as defined in 10 CFR 50.65(b), with the objective that: (1) safety-related and certain non-safety related SSCs remain capable of performing their intended functions; and (2) the non-safety related SSCs will not fail in a manner that could prevent the fulfillment of safety-related functions, or result in reactor scrams or trips and unnecessary actuations of safety-related systems.  For a nuclear power plant for which the licensee has submitted the certifications specified in 10 CFR 50.82(a)(1) (i.e., a decommissioned plant), 10 CFR 50.65 applies to the extent that the licensee shall monitor the performance or condition of all SSCs associated with the storage, control, and maintenance of spent fuel in a safe condition, in a manner sufficient to provide reasonable assurance that such structures, systems, and components 
+
+remain capable of fulfilling their intended functions.  10 CFR 50.65(a)(4), added in 2000, requires assessing and managing risk associated with maintenance activities.
+
+10 CFR 50.66(b)(1) requires the Thermal Annealing Operating Plan to include (1) a detailed description of the pressure vessel and all structures and components that are expected to experience thermal or stress effects during the annealing operation; (2) an evaluation of the effects of mechanical and thermal stresses and temperatures on the vessel, containment, biological shield, attached piping and appurtenances, and adjacent equipment and components to demonstrate that operability of the reactor will not be detrimentally affected; (3) the methods, including heat source, instrumentation and procedures proposed for performing the thermal annealing; and, (4) the proposed thermal annealing operating parameters, including bounding conditions for temperatures and times, and heatup and cooldown schedules. 
+
+10 CFR 50.66(b)(2) requires the Requalification Inspection and Test Program to requalify the annealed reactor vessel to include enough detail to demonstrate that the limitations of the thermal annealing plan are not exceeded and have not degraded the reactor vessel.
+
+10 CFR 50.66(b)(3) details the parameters and conditions that must be evaluated in the Fracture Toughness Recovery and Reembrittlement Trend Assurance Program to document fracture toughness recovery and reembrittlement rate.  
+
+10 CFR 50.66(b)(4) requires the report to identify any changes to the facility as described in the updated final safety analysis report (UFSAR) constituting unreviewed safety questions, and any changes to the technical specifications (TS), which are necessary to either conduct the thermal annealing or operate the nuclear power reactor following the annealing.
+
+10 CFR 50.66(c)(1) requires that if the thermal annealing was completed in accordance with the Thermal Annealing Operating Plan (the Plan) and the Requalification Inspection and Test Program (the Program), the licensee shall so confirm in writing to the NRC.
+
+10 CFR 50.66(c)(2) requires that if the thermal annealing was completed but the annealing was not performed in accordance with the Plan and the Program, the licensee shall submit, to the NRC, a summary of lack of compliance and a justification for subsequent operation.  This summary and justification must identify any changes to the facility as described in the UFSAR which are attributable to the non-compliance and constitute unreviewed safety questions, and any changes to the TS which are required as a result of the non-compliance.
+
+10 CFR 50.66(c)(3) requires that if the thermal annealing was terminated prior to completion, the licensee shall immediately notify the NRC of the premature termination.  10 CFR 50.66(c)(3)(i) states that if the partial annealing was otherwise performed in accordance with the Plan and relevant portions of the Program, and the licensee does not elect to take credit for any recovery, the licensee need not submit the Thermal Annealing Results Report (Results Report) required by 10 CFR 50.66(d), but instead shall confirm in writing to the NRC that the partial annealing was otherwise performed in accordance with the Plan and relevant portions of the Program.  10 CFR 50.66(c)(3)(ii) states that if the partial annealing was otherwise performed in accordance with the Plan and relevant portions of the Program, and the licensee elects to take full or partial credit for the partial annealing, the licensee shall so confirm in writing to the NRC.  10 CFR 50.66(c)(3)(iii) states that if the partial annealing was not performed in accordance with the Plan and relevant portions of the Program, the licensee shall submit, to the NRC, a summary of lack of compliance and a justification for subsequent operation.  The summary and justification shall also identify any 
+
+changes to the facility as described in the UFSAR which are attributable to the noncompliances and which requires a license amendment, and any changes to the TS which are required as a result of the noncompliances.
+
+10 CFR 50.66(d) requires, within three months of completing the thermal annealing, unless an extension is authorized by the NRC, a Results Report from every licensee that either completes a thermal annealing, or that terminates an annealing but elects to take full or partial credit for the annealing.  The Results Report shall provide time and temperature profiles of the actual annealing, the post-anneal RTNDT (reference temperature for nil ductility transition) and Charpy upper-shelf energy values for use in subsequent reactor operation, the projected post-annealing reembrittlement trends for both RTNDT and Charpy upper-shelf energy, and their projected values at the end of the proposed period of operation addressed in the Thermal Annealing Report.
+
+Regulatory Guide (RG) 1.162 was developed to describe a format and content acceptable to the NRC staff for the report to be submitted for approval to perform a thermal annealing of a reactor vessel.  Use of this format by the applicant would help ensure the completeness of the information provided, would assist the NRC staff in location of specific information, and would aid in shortening the time needed for the review process.  Also, this guide describes acceptance criteria that the NRC staff would use in evaluating these reports to ensure that the annealing conditions imposed on the reactor and other equipment, components, and structures do not degrade the original design of the system.  Section C2.1 of RG 1.162 directs the licensee to retain reactor annealing measurement records until the facility license is terminated.  
+GUIDANCE DOCUMENTS FOR INFORMATION COLLECTION REQUIREMENTS
+CONTAINED IN
+10 CFR PART 50
+ISSUANCE, LIMITATIONS, AND CONDITIONS OF LICENSES AND CONSTRUCTION PERMITS
+SECTION 5
+(10 CFR 50.30 – 50.39)
+
+3150-0011
+
+Title | Accession number
+Regulatory Guide 1.160, Rev.  4 , “Monitoring the Effectiveness of Maintenance at Nuclear Power Plants” (endorses industry guidance document,  Nuclear Utility Management and Resources Committee  ( NUMARC) 93-01, Rev.  4F , "Industry Guideline for Monitoring the Effectiveness of Maintenance at Nuclear Power Plants.") |  ML18220B281
+Regulatory Guide   1.162 , “ Format and Content of Report for Thermal Annealing of Reactor Pressure Vessels ” | ML003740052
+Regulatory Guide 1.174,  Rev. 3,  “An Approach for Using Probabilistic Risk Assessment in Risk-Informed Decisions on Plant-Specific Changes to the Licensing Basis” | ML 17317A256
+Regulatory Guide 1.200,  Rev. 3,  “An Approach for Determining the Technical Adequacy of Probabilistic Risk Assessment Results for Risk-Informed Activities” | ML 20238B871
+Regulatory Guide 1.234 , Rev. 0, “ Evaluating Deviations and Reporting Defects and Noncompliance Under 10 CFR Part 21” | ML17338A072
+
+

@@ -1,499 +1,406 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "12.Estimate of burden hours for information requested",
-      "rows": [
-        {
-          "text_line": 121,
-          "cells": [
-            "Total Number of Respondents",
-            "Total Number of Annual Responses",
-            "Total Annual Burden Hours",
-            "Total Annual Salary Costs",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 122,
-          "cells": [
-            "11,134",
-            "14, 893",
-            "41, 529.50",
-            "$ 3, 443 ,969",
-            "$0"
-          ]
-        }
+[
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Total Number of Respondents",
+        "Total Number of Annual Responses",
+        "Total Annual Burden Hours",
+        "Total Annual Salary Costs",
+        "Total Burden Cost"
+      ],
+      [
+        "11,134",
+        "14, 893",
+        "41, 529.50",
+        "$ 3, 443 ,969",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Based on the number of approval applications, PHMSA estimates 15\u00a0companies submit one application per year.  Each application takes approximately 4.75 hours to complete for a total of approximately 71 hours (4.75 hours x 15\u00a0responses).  It is estimated that respondents make $82.93 per hour for a total of $5,909 (71 burden hours x $82.93 per hour).  PHMSA does not estimate any out-of-pocket expenses.",
-      "rows": [
-        {
-          "text_line": 129,
-          "cells": [
-            "Information Collection",
-            "Number of Respondents",
-            "Response s  per  Respondent",
-            "Number of Responses",
-            "Hours per Response",
-            "Total Burden Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 130,
-          "cells": [
-            "Designated approval agencies, independent cylinder testing agencies, and prospective foreign manufacturers of cylinders ",
-            "15",
-            "1",
-            "15",
-            "4.75",
-            "71",
-            "$ 82.93  ",
-            "$5, 909  ",
-            "$0"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Information Collection",
+        "Number of Respondents",
+        "Response s  per  Respondent",
+        "Number of Responses",
+        "Hours per Response",
+        "Total Burden Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost",
+        "Total Burden Cost"
+      ],
+      [
+        "Designated approval agencies, independent cylinder testing agencies, and prospective foreign manufacturers of cylinders ",
+        "15",
+        "1",
+        "15",
+        "4.75",
+        "71",
+        "$ 82.93  ",
+        "$5, 909  ",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Based on the historical number of cylinder qualifier approval applications, PHMSA estimates 3,000 companies apply for this type of approval each year.  Each application takes approximately 1.105 hours to complete for a total of 3,315 burden hours (1.105\u00a0hours x 3,000 responses).  At $82.93 per hour in salary cost, PHMSA estimates a total salary cost of $274,907 (3,315 burden hours x $82.93 per hour).  PHMSA does not estimate any out-of-pocket expenses.",
-      "rows": [
-        {
-          "text_line": 136,
-          "cells": [
-            "Information Collection",
-            "Number of Respondents",
-            "Response s  per  Respondent",
-            "Number of Responses",
-            "Hours  per Response",
-            "Total Burden Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 137,
-          "cells": [
-            "Approval of cylinder and pressure receptacle  requalifiers",
-            "  3,000  ",
-            "1",
-            "  3,000  ",
-            "1.105",
-            "  3,315  ",
-            "$ 82.93  ",
-            "$ 274,907  ",
-            "$0"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Information Collection",
+        "Number of Respondents",
+        "Response s  per  Respondent",
+        "Number of Responses",
+        "Hours  per Response",
+        "Total Burden Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost",
+        "Total Burden Cost"
+      ],
+      [
+        "Approval of cylinder and pressure receptacle  requalifiers",
+        "  3,000  ",
+        "1",
+        "  3,000  ",
+        "1.105",
+        "  3,315  ",
+        "$ 82.93  ",
+        "$ 274,907  ",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Based on the historical number of M number approval applications, PHMSA estimates 30 companies apply for this type of approval each year.  Each application takes approximately 4.75 hours to complete for a total of 143 burden hours (4.75\u00a0hours x 30 responses).  At $82.93 per hour in salary cost, PHMSA estimates a total salary cost of $11,817 (143 burden hours x $82.93 per hour).  PHMSA does not estimate any out-of-pocket expenses.",
-      "rows": [
-        {
-          "text_line": 143,
-          "cells": [
-            "Information Collection",
-            "Number of Respondents",
-            "Response s  per  Respondent",
-            "Number of Responses",
-            "Hours  per Response",
-            "Total Burden Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 144,
-          "cells": [
-            "M Numbers (New Applications)",
-            "  3 0  ",
-            "1",
-            "30",
-            "4.75",
-            "143",
-            "$ 82.93  ",
-            "$ 11,817  ",
-            "$0"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Information Collection",
+        "Number of Respondents",
+        "Response s  per  Respondent",
+        "Number of Responses",
+        "Hours  per Response",
+        "Total Burden Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost",
+        "Total Burden Cost"
+      ],
+      [
+        "M Numbers (New Applications)",
+        "  3 0  ",
+        "1",
+        "30",
+        "4.75",
+        "143",
+        "$ 82.93  ",
+        "$ 11,817  ",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Based on the historical number of M number approval applications for modifications and renewals, PHMSA estimates 150 companies apply for this type of approval each year.  Each application takes approximately 1 hour to complete for a total of 150 burden hours (1\u00a0hours x 150 responses).  At $82.93 per hour in salary cost, PHMSA estimates a total salary cost of $12,439 (150 burden hours x $82.93 per hour).  PHMSA does not estimate any out-of-pocket expenses.",
-      "rows": [
-        {
-          "text_line": 150,
-          "cells": [
-            "Information Collection",
-            "Number of Respondents",
-            "Response s  per  Respondent",
-            "Number of Responses",
-            "Hours  per Response",
-            "Total Burden Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 151,
-          "cells": [
-            "M Numbers (Modifications/Renewals)",
-            "  150  ",
-            "1",
-            "150",
-            "1",
-            "150",
-            "$ 82.93  ",
-            "$ 12,439  ",
-            "$0"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Information Collection",
+        "Number of Respondents",
+        "Response s  per  Respondent",
+        "Number of Responses",
+        "Hours  per Response",
+        "Total Burden Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost",
+        "Total Burden Cost"
+      ],
+      [
+        "M Numbers (Modifications/Renewals)",
+        "  150  ",
+        "1",
+        "150",
+        "1",
+        "150",
+        "$ 82.93  ",
+        "$ 12,439  ",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Based on the historic number of RIN approval applications, PHMSA estimates 3,500\u00a0companies apply for this type of approval each year.  Each application takes approximately 51 minutes (0.852 hours) to complete for a total of 2,982 burden hours (0.852\u00a0hours x 3,500 responses).  At a salary cost of $82.93 per hour, PHMSA estimates a total of $247,292 (2,982 burden hours x $82.93 per hour).",
-      "rows": [
-        {
-          "text_line": 158,
-          "cells": [
-            "Information Collection",
-            "Number of Respondents",
-            "Response s  per  Respondent",
-            "Number of Responses",
-            "Hours per Response",
-            "Total Burden Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 159,
-          "cells": [
-            "RIN Approval for Cylinders (International Shipments)",
-            " 3,500 ",
-            "1",
-            " 3,500 ",
-            "0.852",
-            " 2,982 ",
-            "$ 82.93",
-            "$ 247,292  ",
-            "$0"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 6,
+    "rows": [
+      [
+        "Information Collection",
+        "Number of Respondents",
+        "Response s  per  Respondent",
+        "Number of Responses",
+        "Hours per Response",
+        "Total Burden Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost",
+        "Total Burden Cost"
+      ],
+      [
+        "RIN Approval for Cylinders (International Shipments)",
+        " 3,500 ",
+        "1",
+        " 3,500 ",
+        "0.852",
+        " 2,982 ",
+        "$ 82.93",
+        "$ 247,292  ",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Based on the historical number of approval applications, PHMSA estimates 50\u00a0companies apply for this type of approval approximately 4.98 times for year, for a total of 249 responses per year (50 companies x 4.98 applications).  Each application takes approximately 4.75 hours to complete for a total of 1,182.75 burden hours (4.75 hours x 249\u00a0responses).  At an estimated salary cost of $82.93  per hour, PHMSA estimates a total of $98,083 in salary cost (1,182.75 burden hours x $82.93 per hour).  PHMSA does not estimate any out-of-pocket expenses.",
-      "rows": [
-        {
-          "text_line": 167,
-          "cells": [
-            "Information Collection",
-            "Number of Respondents",
-            "Response s  per  Respondent",
-            "Number of Responses",
-            "Hours per Response",
-            "Total Burden Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 168,
-          "cells": [
-            "Safety Determinations as to the Adequacy of the  Packagings  for Materials with Special Hazards  (New Applications)",
-            "50",
-            "4.98",
-            "249",
-            "4.75",
-            "1, 182.75",
-            "$ 82.93",
-            "$ 98 ,083  ",
-            "$0"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 7,
+    "rows": [
+      [
+        "Information Collection",
+        "Number of Respondents",
+        "Response s  per  Respondent",
+        "Number of Responses",
+        "Hours per Response",
+        "Total Burden Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost",
+        "Total Burden Cost"
+      ],
+      [
+        "Safety Determinations as to the Adequacy of the  Packagings  for Materials with Special Hazards  (New Applications)",
+        "50",
+        "4.98",
+        "249",
+        "4.75",
+        "1, 182.75",
+        "$ 82.93",
+        "$ 98 ,083  ",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Based on the historical number of approval applications, PHMSA estimates 120\u00a0companies apply for this type of approval approximately 4 time per year, for a total of 480 responses per year (120 companies x 4 applications per year).  Each application takes approximately 1 hour to complete for a total of 480 burden hours (1 hour x 480\u00a0responses).  At an estimated salary cost of $82.93 per hour, PHMSA estimates a total of $39,806 in salary cost (480 burden hours x $82.93 per hour).  PHMSA does not estimate any out-of-pocket expenses.",
-      "rows": [
-        {
-          "text_line": 174,
-          "cells": [
-            "Information Collection",
-            "Number of Respondents",
-            "Response s  per  Respondent",
-            "Number of Responses",
-            "Hours per Response",
-            "Total Burden Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 175,
-          "cells": [
-            "Safety Determinations as to the Adequacy of the  Packagings  for Materials with Special Hazards  (Renewals/Modifications/Corrections)",
-            "120",
-            "4",
-            "480",
-            "1",
-            "480",
-            "$ 82.93  ",
-            "$ 39,806  ",
-            "$0"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 8,
+    "rows": [
+      [
+        "Information Collection",
+        "Number of Respondents",
+        "Response s  per  Respondent",
+        "Number of Responses",
+        "Hours per Response",
+        "Total Burden Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost",
+        "Total Burden Cost"
+      ],
+      [
+        "Safety Determinations as to the Adequacy of the  Packagings  for Materials with Special Hazards  (Renewals/Modifications/Corrections)",
+        "120",
+        "4",
+        "480",
+        "1",
+        "480",
+        "$ 82.93  ",
+        "$ 39,806  ",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Based on the historical number of approvals submitted to PHMSA, it is estimated that 10 companies apply for this type of approval each year.  Based on PHMSA estimates, each application is estimated to take 40 hours to complete, for a total of 400 burden hours (10\u00a0responses x 40 hours).  At an estimated salary of $82.93 per hour, PHMSA estimates a total of $33,171 in salary cost (400 burden hours x $82.93).  PHMSA does not estimate any out-of-pocket expenses.",
-      "rows": [
-        {
-          "text_line": 181,
-          "cells": [
-            "Information Collection",
-            "Number of Respondents",
-            "Response s  per  Respondent",
-            "Number of Responses",
-            "Hours per Response",
-            "Total Burden Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 182,
-          "cells": [
-            "Lithium Battery State of Charge Approval",
-            "10",
-            "1",
-            "10",
-            "40",
-            "400",
-            "$ 82.93  ",
-            "$ 33,171  ",
-            "$0"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 9,
+    "rows": [
+      [
+        "Information Collection",
+        "Number of Respondents",
+        "Response s  per  Respondent",
+        "Number of Responses",
+        "Hours per Response",
+        "Total Burden Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost",
+        "Total Burden Cost"
+      ],
+      [
+        "Lithium Battery State of Charge Approval",
+        "10",
+        "1",
+        "10",
+        "40",
+        "400",
+        "$ 82.93  ",
+        "$ 33,171  ",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Based on the historical annual number of approval applications, PHMSA estimates 24 companies apply for this type of approval each year.  Each application takes approximately 4.75 hours to complete, for a total of 114 burden hours (4.75 hours x 24\u00a0responses).  At a salary cost of $82.93 per hour, PHMSA estimates a total of $9,454 in salary cost (114 burden hours x $82.93 per hour).  PHMSA does not estimate any out-of-pocket expenses.",
-      "rows": [
-        {
-          "text_line": 189,
-          "cells": [
-            "Information Collection",
-            "Number of Respondents",
-            "Response s  per  Respondent",
-            "Number of Responses",
-            "Hours per Response",
-            "Total Burden Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 190,
-          "cells": [
-            "Alternative  Packagings  or Test Methods",
-            "24",
-            "1",
-            "24",
-            "4.75",
-            "114",
-            "$ 82.93",
-            "$9 ,454  ",
-            "$0"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 10,
+    "rows": [
+      [
+        "Information Collection",
+        "Number of Respondents",
+        "Response s  per  Respondent",
+        "Number of Responses",
+        "Hours per Response",
+        "Total Burden Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost",
+        "Total Burden Cost"
+      ],
+      [
+        "Alternative  Packagings  or Test Methods",
+        "24",
+        "1",
+        "24",
+        "4.75",
+        "114",
+        "$ 82.93",
+        "$9 ,454  ",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Based on the historical number of infectious substance approval applications, PHMSA estimates five companies apply for this type of approval each year.  Each application takes approximately 4.75 hours to complete, for a total of approximately 24 burden hours (4.75 hours x 5 responses).  At a salary cost of $82.93 per hour, PHMSA estimates a total of $1,990 in salary cost (24 burden hours x $82.93 per hour).  PHMSA does not estimate any out-of-pocket expenses.",
-      "rows": [
-        {
-          "text_line": 197,
-          "cells": [
-            "Information Collection",
-            "Number of Respondents",
-            "Responses per Respondent",
-            "Number of Responses",
-            "Hours per Response",
-            "Total Burden Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 198,
-          "cells": [
-            "Infectious Substances",
-            "5",
-            "1",
-            "5",
-            "4.75",
-            "24",
-            "$ 82.93  ",
-            "$1, 990  ",
-            "$0"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 11,
+    "rows": [
+      [
+        "Information Collection",
+        "Number of Respondents",
+        "Responses per Respondent",
+        "Number of Responses",
+        "Hours per Response",
+        "Total Burden Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost",
+        "Total Burden Cost"
+      ],
+      [
+        "Infectious Substances",
+        "5",
+        "1",
+        "5",
+        "4.75",
+        "24",
+        "$ 82.93  ",
+        "$1, 990  ",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Based on the historical number of explosive approval applications, PHMSA estimates 330\u00a0companies apply for this type of approval each year.  Each application takes approximately 4.75 hours to complete, for a total of 1,568 burden hours (4.75 hours x 330\u00a0responses).  At a salary cost of $82.93 per hour, PHMSA estimates a total of $130,032 in salary cost (1,568 burden hours x $82.93 per hour).  PHMSA does not estimate any out-of-pocket expenses.",
-      "rows": [
-        {
-          "text_line": 205,
-          "cells": [
-            "Information Collection",
-            "Number of Respondents",
-            "Response s  per  Respondent",
-            "Number of Responses",
-            "Hours per Response",
-            "Total Burden Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 206,
-          "cells": [
-            "Testing and Assignment of the Classification of Explosive Materials  (New Applications)",
-            "330",
-            "1",
-            "330",
-            "4.75",
-            "  1,568  ",
-            "$ 82.93  ",
-            "$ 130,032  ",
-            "$0"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 12,
+    "rows": [
+      [
+        "Information Collection",
+        "Number of Respondents",
+        "Response s  per  Respondent",
+        "Number of Responses",
+        "Hours per Response",
+        "Total Burden Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost",
+        "Total Burden Cost"
+      ],
+      [
+        "Testing and Assignment of the Classification of Explosive Materials  (New Applications)",
+        "330",
+        "1",
+        "330",
+        "4.75",
+        "  1,568  ",
+        "$ 82.93  ",
+        "$ 130,032  ",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Based on the historical number of explosive approval applications, PHMSA estimates 700\u00a0companies apply for this type of approval each year.  Each application takes approximately 1 hours to complete, for a total of 700 burden hours (1 hours x 700\u00a0responses).  At a salary cost of $82.93 per hour, PHMSA estimates a total of $58,050 in salary cost (700 burden hours x $82.93 per hour).  PHMSA does not estimate any out-of-pocket expenses.",
-      "rows": [
-        {
-          "text_line": 214,
-          "cells": [
-            "Information Collection",
-            "Number of Respondents",
-            "Response s  per  Respondent",
-            "Number of Responses",
-            "Hours per Response",
-            "Total Burden Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 215,
-          "cells": [
-            "Testing and Assignment of the Classification of Explosive Materials  ( Modifications )",
-            "700",
-            "1",
-            "700",
-            "1",
-            "  700  ",
-            "$ 82.93  ",
-            "$ 58,050  ",
-            "$0"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 13,
+    "rows": [
+      [
+        "Information Collection",
+        "Number of Respondents",
+        "Response s  per  Respondent",
+        "Number of Responses",
+        "Hours per Response",
+        "Total Burden Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost",
+        "Total Burden Cost"
+      ],
+      [
+        "Testing and Assignment of the Classification of Explosive Materials  ( Modifications )",
+        "700",
+        "1",
+        "700",
+        "1",
+        "  700  ",
+        "$ 82.93  ",
+        "$ 58,050  ",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Based on the historical number of approvals of fireworks packaging exceptions, PHMSA estimate approximately 3,200 companies apply for this type of approval twice each year on average.  Each application takes approximately 4.75 hours to complete for a total of 30,400 hours (4.75\u00a0hours x 6,400\u00a0responses).  At a salary cost of $82.93 per hour, PHMSA estimates a total of $2,521,019 in salary cost (30,400 burden hours x $82.93 per hour).  PHMSA does not estimate any out-of-pocket expenses.",
-      "rows": [
-        {
-          "text_line": 221,
-          "cells": [
-            "Information Collection",
-            "Number of Respondents",
-            "Response s  per  Respondent",
-            "Number of Responses",
-            "Hours per Response",
-            "Total Burden Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost",
-            "Total Burden Cost"
-          ]
-        },
-        {
-          "text_line": 222,
-          "cells": [
-            "Packaging Exception/Exceptions for Division 1.4G Consumer Fireworks",
-            " 3,200 ",
-            "2",
-            "  6,400  ",
-            "4.75",
-            "  30,400  ",
-            "$ 82.93  ",
-            "$ 2,521,019  ",
-            "$0"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 14,
+    "rows": [
+      [
+        "Information Collection",
+        "Number of Respondents",
+        "Response s  per  Respondent",
+        "Number of Responses",
+        "Hours per Response",
+        "Total Burden Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost",
+        "Total Burden Cost"
+      ],
+      [
+        "Packaging Exception/Exceptions for Division 1.4G Consumer Fireworks",
+        " 3,200 ",
+        "2",
+        "  6,400  ",
+        "4.75",
+        "  30,400  ",
+        "$ 82.93  ",
+        "$ 2,521,019  ",
+        "$0"
       ]
-    },
-    {
-      "source_file": "icrs/202404-2137-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "There are approximately 14,893 approval applications submitted annually to PHMSA.  Each review takes 30 minutes, for a total of 7,447 annual hours (14,893 approvals x 30\u00a0minutes).  Review by a GS-13 in Washington, D.C. is approximately $80.48 per hour, for a total cost of approximately $599,281 to the Federal Government.",
-      "rows": [
-        {
-          "text_line": 234,
-          "cells": [
-            "Total Number of Approvals",
-            "Minutes per Review",
-            "Total Number of Review Hours",
-            "Salary Cost per Hour",
-            "Total Salary Cost"
-          ]
-        },
-        {
-          "text_line": 235,
-          "cells": [
-            "14 ,894",
-            "30",
-            "7, 447",
-            "$ 73.23",
-            " $ 545 , 343.81  "
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-2137-003/raw/supporting-statement-a-1.docx",
+    "table": 15,
+    "rows": [
+      [
+        "Total Number of Approvals",
+        "Minutes per Review",
+        "Total Number of Review Hours",
+        "Salary Cost per Hour",
+        "Total Salary Cost"
+      ],
+      [
+        "14 ,894",
+        "30",
+        "7, 447",
+        "$ 73.23",
+        " $ 545 , 343.81  "
       ]
-    }
-  ]
-}
+    ]
+  }
+]

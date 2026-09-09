@@ -1,0 +1,207 @@
+{
+  "icr_id": "202306-3038-007",
+  "omb_control_number": "3038-0096",
+  "agency": "CFTC",
+  "title": "Swap Data Recordkeeping and Reporting Requirements",
+  "submission_date": "09/13/2023",
+  "archetype": "swap transaction reporting systems",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 6,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0125",
+    "SRC-0124"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 16,
+    "provenance": 9,
+    "segmentation": 14,
+    "labor": 6,
+    "item13": 5,
+    "item14": 5,
+    "item15": 8,
+    "validation": 2,
+    "consistency": 2
+  },
+  "score_rationale": {
+    "reproducibility": "Attachment rows show activity formulas and four IC totals; displayed frequency/count and system-response inconsistencies.",
+    "provenance": "BLS2022 financial industry source and labor mix for new rate; inherited rates less traceable.",
+    "segmentation": "Nine reporting activities, records, DCOs, corrections and new systems separated.",
+    "labor": "50/25/25 programmer/compliance/lawyer mix and1.3 loading; component wages and occupation codes omitted.",
+    "item13": "Zero justified by inclusion in labor, without a detailed purchased-system boundary.",
+    "item14": "No incremental staff/technology asserted, not a full workload model.",
+    "item15": "Exact2825-hour program increment connects1093 reporting and1732 system hours.",
+    "validation": "Staff experience; little independent support for large transaction frequencies or one-hour system changes.",
+    "consistency": "New UPI response frequency63 conflicts with109300 annual responses; new systems annual-response column1 conflicts with1732 entities."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "45.3",
+        12124000,
+        0.01,
+        121240
+      ],
+      [
+        "45.4",
+        166119855,
+        0.0035,
+        581419
+      ],
+      [
+        "45.5",
+        16999900,
+        0.01,
+        169999
+      ],
+      [
+        "45.6",
+        1732,
+        0.02,
+        35
+      ],
+      [
+        "45.7 UPI",
+        109300,
+        0.01,
+        1093
+      ],
+      [
+        "45.10",
+        15,
+        0.01,
+        0.15
+      ],
+      [
+        "45.14 reporting",
+        90064,
+        2,
+        180128
+      ],
+      [
+        "45.14a",
+        1732,
+        6,
+        10392
+      ],
+      [
+        "45.14b",
+        20784,
+        10,
+        207840
+      ],
+      [
+        "Records",
+        17320000,
+        0.01,
+        173200
+      ],
+      [
+        "DCO",
+        56518,
+        0.1,
+        5652
+      ],
+      [
+        "Corrections",
+        1742,
+        6,
+        10452
+      ],
+      [
+        "Systems",
+        1732,
+        1,
+        1732
+      ]
+    ],
+    "labor": {
+      "inherited_rates": [
+        86.9,
+        81.7
+      ],
+      "new_rate": 93.31,
+      "new_mix": {
+        "programmer": 0.5,
+        "compliance": 0.25,
+        "lawyer": 0.25
+      },
+      "loading": 1.3,
+      "wage_year": 2022
+    },
+    "item13": {
+      "reported": 0,
+      "reason": "O&M said covered under Item12; no detailed external services model"
+    },
+    "item14": {
+      "reported": 0,
+      "scope": "Incremental amendment; no additional staff or technology asserted"
+    },
+    "item15": {
+      "old_hours": 1460357,
+      "new_hours": 1463182,
+      "program_increment": 2825,
+      "components": [
+        1093,
+        1732
+      ]
+    },
+    "assumptions": [
+      "One hour per entity to implement UPI system update.",
+      "Existing transaction and correction frequencies carried forward."
+    ]
+  },
+  "reconstruction_issues": [
+    "1732*63*.01=1091.16 rather than1093; displayed frequency may be rounded but convention unstated.",
+    "One-time1732-hour system work included in annual estimate without horizon explanation.",
+    "New system annual-response total1 is inconsistent with1732 respondents.",
+    "Different rate vintages retained across old and new ICs."
+  ],
+  "methods_worth_testing": [
+    "Amendment increment explicitly added to a full prior burden inventory.",
+    "Weighted financial-sector occupations for systems tasks."
+  ],
+  "checks": [
+    {
+      "label": "Bridge",
+      "formula": "1460357+1093+1732",
+      "calculated": 1463182,
+      "reported": 1463182,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0125"
+    },
+    {
+      "label": "UPI row",
+      "formula": "1732*63*.01",
+      "calculated": 1091.16,
+      "reported": 1093,
+      "difference": -1.8399999999999181,
+      "unit": "hours",
+      "interpretation": "Displayed inputs do not reproduce total.",
+      "source_id": "SRC-0125"
+    },
+    {
+      "label": "IC totals",
+      "formula": "1445346+5652+10452+1732",
+      "calculated": 1463182,
+      "reported": 1463182,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0125"
+    }
+  ],
+  "total_score": 67
+}

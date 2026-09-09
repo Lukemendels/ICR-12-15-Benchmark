@@ -1,0 +1,78 @@
+{
+  "query": "Custody",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&terms=Custody",
+  "rows": [
+    {
+      "refs": [
+        "202508-0648-004"
+      ],
+      "text": "0648-0335\n|\nDOC/NOAA\n|\nTuna Tracking and Verification Program\n|\nRevision of a currently approved collection\n|\n09/03/2025\n|\n|\n\n|\n09/30/2026\n|\n5\n|\n1\n|"
+    },
+    {
+      "refs": [
+        "202601-0930-002"
+      ],
+      "text": "0930-0158\n|\nHHS/SAMHSA\n|\nMandatory Guidelines for Federal Workplace Drug Testing Programs\n|\nExtension without change of a currently approved collection\n|\n01/14/2026\n|\n04/27/2026\n|\nApproved with change\n|\n04/30/2029\n|\n7\n|\n7\n|"
+    },
+    {
+      "refs": [
+        "202603-0960-005"
+      ],
+      "text": "0960-0019\n|\nSSA\n|\nCertificate of Responsibility for Welfare and Care of Child Not In Applicant's Custody\n|\nRevision of a currently approved collection\n|\n04/27/2026\n|\n|\n\n|\n09/30/2026\n|\n1\n|\n1\n|"
+    },
+    {
+      "refs": [
+        "202410-0960-005"
+      ],
+      "text": "0960-0617\n|\nSSA\n|\nProhibition of Payment of SSI Benefits to Fugitive Felons and Parole/Probation Violators\n|\nRevision of a currently approved collection\n|\n10/24/2024\n|\n02/26/2025\n|\nApproved without change\n|\n02/29/2028\n|\n1\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202311-0970-001"
+      ],
+      "text": "0970-0278\n|\nHHS/ACF\n|\nFamily Reunification Packet for Sponsors of Unaccompanied Children\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n11/02/2023\n|\n11/03/2023\n|\nApproved without change\n|\n08/31/2025\n|\n8\n|\n20\n|"
+    },
+    {
+      "refs": [
+        "202402-0970-002"
+      ],
+      "text": "0970-0278\n|\nHHS/ACF\n|\nFamily Reunification Packet for Sponsors of Unaccompanied Children\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n02/06/2024\n|\n02/08/2024\n|\nApproved without change\n|\n02/28/2026\n|\n8\n|\n20\n|"
+    },
+    {
+      "refs": [
+        "202508-0970-005"
+      ],
+      "text": "0970-0278\n|\nHHS/ACF\n|\nUnaccompanied Alien Children Sponsor Application Packet\n|\nRevision of a currently approved collection\n|\n08/14/2025\n|\n02/27/2026\n|\nApproved with change\n|\n02/28/2029\n|\n8\n|\n25\n|"
+    },
+    {
+      "refs": [
+        "202410-0970-004"
+      ],
+      "text": "0970-0466\n|\nHHS/ACF\n|\nMedical Assessment Form and Dental Assessment Form\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n10/07/2024\n|\n10/08/2024\n|\nApproved with change\n|\n10/31/2026\n|\n6\n|\n6\n|"
+    },
+    {
+      "refs": [
+        "202309-0970-005"
+      ],
+      "text": "0970-0509\n|\nHHS/ACF\n|\nMental Health Assessment Form, Public Health Investigation Form: Active TB, and Public Health Investigation Form: Non-TB Illness\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n09/18/2023\n|\n09/19/2023\n|\nApproved without change\n|\n09/30/2026\n|\n6\n|\n6\n|"
+    },
+    {
+      "refs": [
+        "202410-0970-005"
+      ],
+      "text": "0970-0509\n|\nHHS/ACF\n|\nMental Health Assessment Form, Public Health Investigation Form: Active TB, and Public Health Investigation Form: Non-TB Illness\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n10/07/2024\n|\n10/08/2024\n|\nApproved with change\n|\n09/30/2026\n|\n6\n|\n6\n|"
+    }
+  ],
+  "all_refs": [
+    "202309-0970-005",
+    "202311-0970-001",
+    "202402-0970-002",
+    "202410-0960-005",
+    "202410-0970-004",
+    "202410-0970-005",
+    "202508-0648-004",
+    "202508-0970-005",
+    "202601-0930-002",
+    "202603-0960-005"
+  ]
+}

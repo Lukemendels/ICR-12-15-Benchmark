@@ -1,204 +1,156 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202501-1210-006/raw/supporting-statement-a-1.txt",
-      "preceding_text": "TABLE 1.--Hour Burden and Equivalent Costs",
-      "rows": [
-        {
-          "text_line": 127,
-          "cells": [
-            "\u00a0",
-            "Number",
-            "Per Entity Hour Burden",
-            "Hourly Labor Cost",
-            "Total Hour Burden",
-            "Equivalent Cost"
-          ]
-        },
-        {
-          "text_line": 128,
-          "cells": [
-            "\u00a0",
-            "(A)",
-            "(B)",
-            "(C)",
-            "( A  \u00d7  B )",
-            "( A \u00d7 B \u00d7 C )"
-          ]
-        },
-        {
-          "text_line": 129,
-          "cells": [
-            "Prepare Written Notice: Accountants and Auditors",
-            "3",
-            "1",
-            "$118.93",
-            "3.0 0",
-            "$35 7"
-          ]
-        },
-        {
-          "text_line": 130,
-          "cells": [
-            "Prepare Written Notice: Clerical Personnel",
-            "3",
-            "30/60",
-            "$69.41",
-            "1.50",
-            "$104"
-          ]
-        },
-        {
-          "text_line": 131,
-          "cells": [
-            "Distribute Written Notice: Clerical Personnel",
-            "22",
-            "2/60",
-            "$69.41",
-            "44/60",
-            "$5 1"
-          ]
-        },
-        {
-          "text_line": 132,
-          "cells": [
-            "\u00a0",
-            "\u00a0",
-            "\u00a0",
-            "Total",
-            "5",
-            "$51 2"
-          ]
-        }
+[
+  {
+    "file": "icrs/202501-1210-006/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        " ",
+        "Number",
+        "Per Entity Hour Burden",
+        "Hourly Labor Cost",
+        "Total Hour Burden",
+        "Equivalent Cost"
+      ],
+      [
+        " ",
+        "(A)",
+        "(B)",
+        "(C)",
+        "( A  ×  B )",
+        "( A × B × C )"
+      ],
+      [
+        "Prepare Written Notice: Accountants and Auditors",
+        "3",
+        "1",
+        "$118.93",
+        "3.0 0",
+        "$35 7"
+      ],
+      [
+        "Prepare Written Notice: Clerical Personnel",
+        "3",
+        "30/60",
+        "$69.41",
+        "1.50",
+        "$104"
+      ],
+      [
+        "Distribute Written Notice: Clerical Personnel",
+        "22",
+        "2/60",
+        "$69.41",
+        "44/60",
+        "$5 1"
+      ],
+      [
+        " ",
+        " ",
+        " ",
+        "Total",
+        "5",
+        "$51 2"
       ]
-    },
-    {
-      "source_file": "icrs/202501-1210-006/raw/supporting-statement-a-1.txt",
-      "preceding_text": "TABLE 2.--Estimated Annualized Respondent Cost and Hour Burden",
-      "rows": [
-        {
-          "text_line": 139,
-          "cells": [
-            "Activity",
-            "Number of Respondents",
-            "Number of Responses per Respondent",
-            "Total Responses",
-            "Average Burden per Response",
-            "Total Burden (Hours)",
-            "Hourly Rate",
-            "Equivalent Cost of Hour Burden"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202501-1210-006/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Activity",
+        "Number of Respondents",
+        "Number of Responses per Respondent",
+        "Total Responses",
+        "Average Burden per Response",
+        "Total Burden (Hours)",
+        "Hourly Rate",
+        "Equivalent Cost of Hour Burden"
+      ],
+      [
+        "PTE 94-71"
+      ],
+      [
+        "Prepare Written Notice: Accountants and Auditors",
+        "3",
+        "1",
+        "3",
+        "1",
+        "3",
+        "$118.93 ",
+        "$35 7  "
+      ],
+      [
+        "Prepare Written Notice: Clerical Personnel",
+        "3",
+        "1",
+        "3",
+        "30/60",
+        "1.50 ",
+        "$69.41 ",
+        "$104"
+      ],
+      [
+        "Distribute Written Notice: Clerical Personnel",
+        "3",
+        "7",
+        "22",
+        " 2/60",
+        "44/60",
+        "$69.410 ",
+        "$51 "
+      ],
+      [
+        "Total",
+        "3",
+        " ",
+        "567*",
+        " ",
+        "5",
+        "-",
+        "$512 "
+      ],
+      [
+        "*As previously discussed, the Department that approximately 3 plans with an average of 189 participants and beneficiaries use the exemption annually. Thus, the Department estimates that there are 567 responses (3 plans x 189 participants)."
       ]
-    },
-    {
-      "source_file": "icrs/202501-1210-006/raw/supporting-statement-a-1.txt",
-      "preceding_text": "PTE 94-71",
-      "rows": [
-        {
-          "text_line": 141,
-          "cells": [
-            "Prepare Written Notice: Accountants and Auditors",
-            "3",
-            "1",
-            "3",
-            "1",
-            "3",
-            "$118.93 ",
-            "$35 7  "
-          ]
-        },
-        {
-          "text_line": 142,
-          "cells": [
-            "Prepare Written Notice: Clerical Personnel",
-            "3",
-            "1",
-            "3",
-            "30/60",
-            "1.50 ",
-            "$69.41 ",
-            "$104"
-          ]
-        },
-        {
-          "text_line": 143,
-          "cells": [
-            "Distribute Written Notice: Clerical Personnel",
-            "3",
-            "7",
-            "22",
-            " 2/60",
-            "44/60",
-            "$69.410 ",
-            "$51 "
-          ]
-        },
-        {
-          "text_line": 144,
-          "cells": [
-            "Total",
-            "3",
-            "\u00a0",
-            "567*",
-            "\u00a0",
-            "5",
-            "-",
-            "$512 "
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202501-1210-006/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        " ",
+        "Number of Notices Sent by Mail",
+        "Pages",
+        "Paper and Print Costs",
+        "Postage",
+        "Equivalent Cost"
+      ],
+      [
+        " ",
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)",
+        "( A  x  B  x  C )"
+      ],
+      [
+        "Written Notice",
+        "22",
+        "1",
+        "$0.05",
+        "$0.73",
+        "$17"
+      ],
+      [
+        " ",
+        " ",
+        " ",
+        " ",
+        "Total",
+        "$17"
       ]
-    },
-    {
-      "source_file": "icrs/202501-1210-006/raw/supporting-statement-a-1.txt",
-      "preceding_text": "TABLE 3.--Cost Burden (Material and Postage Cost)",
-      "rows": [
-        {
-          "text_line": 159,
-          "cells": [
-            "\u00a0",
-            "Number of Notices Sent by Mail",
-            "Pages",
-            "Paper and Print Costs",
-            "Postage",
-            "Equivalent Cost"
-          ]
-        },
-        {
-          "text_line": 160,
-          "cells": [
-            "\u00a0",
-            "(A)",
-            "(B)",
-            "(C)",
-            "(D)",
-            "( A  x  B  x  C )"
-          ]
-        },
-        {
-          "text_line": 161,
-          "cells": [
-            "Written Notice",
-            "22",
-            "1",
-            "$0.05",
-            "$0.73",
-            "$17"
-          ]
-        },
-        {
-          "text_line": 162,
-          "cells": [
-            "\u00a0",
-            "\u00a0",
-            "\u00a0",
-            "\u00a0",
-            "Total",
-            "$17"
-          ]
-        }
-      ]
-    }
-  ]
-}
+    ]
+  }
+]

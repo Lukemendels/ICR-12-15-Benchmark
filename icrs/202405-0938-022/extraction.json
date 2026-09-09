@@ -1,0 +1,153 @@
+{
+  "icr_id": "202405-0938-022",
+  "omb_control_number": "0938-1368",
+  "agency": "HHS/CMS",
+  "title": "Proposed Prior Authorization Process and Requirements for Certain Hospital Outpatient Department (OPD) Services (CMS-10711)",
+  "submission_date": "05/24/2024",
+  "archetype": "hospital prior authorization",
+  "complexity": "moderate",
+  "tsa_relevance": "medium",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 6,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0129",
+    "SRC-0128"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 10,
+    "segmentation": 12,
+    "labor": 6,
+    "item13": 7,
+    "item14": 3,
+    "item15": 5,
+    "validation": 2,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Paper/electronic initial/resubmission counts, time and education formula clear.",
+    "provenance": "2022 BLS occupation and source explicit; workload origin and contractor costs less detailed.",
+    "segmentation": "Submission pathway and resubmissions distinguished; education separate.",
+    "labor": "Median health-support wage doubled; rationale broad and one role for all incremental tasks.",
+    "item13": "Postage explicit underItem12 and inROCIS nonlabor; capital zero defensible.",
+    "item14": "25.3million contractor review total lacks workload/unit price.",
+    "item15": "46999-hour adjustment stated but unchanged ROCIS responses contradict explanation of increased submissions.",
+    "validation": "Existing documentation scope reasoned; time and contractor assumptions not independently tested.",
+    "consistency": "Main totals reconcile with rounding, but846015 postage differs from846013 package and unit typo says million."
+  },
+  "thoroughness": "moderate",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Initial paper",
+        127397,
+        0.5,
+        63698.5
+      ],
+      [
+        "Initial electronic",
+        297261,
+        0.5,
+        148630.5
+      ],
+      [
+        "Resubmission paper",
+        41806,
+        0.5,
+        20903
+      ],
+      [
+        "Resubmission electronic",
+        97546,
+        0.5,
+        48773
+      ],
+      [
+        "Education",
+        11469,
+        3,
+        34407
+      ]
+    ],
+    "labor": {
+      "wage": 18.53,
+      "loaded": 37.06,
+      "benefit_markup": 1,
+      "year": 2022,
+      "occupation": "Miscellaneous healthcare support workers; median"
+    },
+    "item13": {
+      "mail_responses": 169203,
+      "postage": 5,
+      "reported": 846015,
+      "rocis": 846013,
+      "capital": 0,
+      "presentation": "Mail shown inItem12 cost table; ROCIS classifies nonlabor"
+    },
+    "item14": {
+      "contractor_medical_review": 25300000,
+      "derivation": null
+    },
+    "item15": {
+      "old_hours": 269413,
+      "new_hours": 316412,
+      "delta": 46999,
+      "classification": "adjustment",
+      "old_and_new_responses": 564010
+    },
+    "assumptions": [
+      "30 minutes incremental submission; underlying clinical documentation already exists.",
+      "All11469 providers receive three hours education."
+    ]
+  },
+  "reconstruction_issues": [
+    "Federal contractor cost cannot be reconstructed from public inputs.",
+    "Increased submissions explanation does not identify why package response inventory remains564010.",
+    "Postage846015 versusROCIS846013 is a small discrepancy; text million unit is erroneous."
+  ],
+  "methods_worth_testing": [
+    "Separate existing clinical documentation from incremental authorization preparation.",
+    "Retain mailed/electronic pathways and repeat submissions."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "(127397+297261+41806+97546)*.5+11469*3",
+      "calculated": 316412.0,
+      "reported": 316412,
+      "difference": 0.0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0129"
+    },
+    {
+      "label": "All respondent cost",
+      "formula": "316412*37.06+169203*5",
+      "calculated": 12572243.72,
+      "reported": 12572244,
+      "difference": -0.27999999932944775,
+      "unit": "USD",
+      "interpretation": "Whole-dollar rounding.",
+      "source_id": "SRC-0129"
+    },
+    {
+      "label": "Mail",
+      "formula": "169203*5",
+      "calculated": 846015,
+      "reported": 846013,
+      "difference": 2,
+      "unit": "USD",
+      "interpretation": "Two-dollar ROCIS difference.",
+      "source_id": "SRC-0129"
+    }
+  ],
+  "total_score": 65
+}

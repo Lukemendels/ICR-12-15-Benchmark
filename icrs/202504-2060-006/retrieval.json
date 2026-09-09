@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202504-2060-006",
+  "retrieved_at": "2026-09-09T11:20:28.684388+00:00",
+  "documents": [
+    {
+      "title": "1633ss19.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=158264700",
+      "path": "icrs/202504-2060-006/raw/supporting-statement-a-1.docx",
+      "sha256": "635632193785100176bd4f0e6118131fd7cf66099470fd7e27a69efd38093d5f",
+      "text_chars": 92427
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202504-2060-006",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202504-2060-006",
+  "agency": "EPA/OAR",
+  "title": "Acid Rain Program under Title IV of the Clean Air Act Amendments (Renewal)",
+  "omb_control_number": "2060-0258",
+  "submission_date": "05/30/2025",
+  "record_source_id": "SRC-0130",
+  "supporting_statement_source_ids": [
+    "SRC-0131"
+  ]
+}

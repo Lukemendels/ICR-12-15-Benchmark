@@ -1,13 +1,15 @@
 {
   "mission_status": "IN_PROGRESS",
-  "current_iteration": 5,
-  "icrs_reviewed": 44,
+  "current_iteration": 6,
+  "icrs_reviewed": 52,
   "agencies_components_reviewed": [
     "CFPB",
+    "CFTC",
     "DHS/TSA",
     "DHS/USCBP",
     "DHS/USCIS",
     "DOC/CENSUS",
+    "DOC/NOAA",
     "DOL/BLS",
     "DOL/EBSA",
     "DOL/MSHA",
@@ -24,9 +26,11 @@
     "FRS",
     "HHS/CMS",
     "HHS/FDA",
+    "NRC",
     "SEC",
     "SSA",
-    "TREAS/IRS"
+    "TREAS/IRS",
+    "USDA/FSIS"
   ],
   "rubric_version": "1.0.0",
   "canonical_model_version": "0.5.0",
@@ -52,8 +56,10 @@
         "202405-1652-001",
         "202406-1652-001",
         "202410-0960-002",
+        "202410-3150-005",
         "202502-2040-002",
         "202509-2060-003",
+        "202511-0583-005",
         "202511-1545-005",
         "202603-1210-004"
       ],
@@ -100,11 +106,10 @@
     "No matched agency dispersion samples",
     "Underlying citations not all independently retrieved",
     "No saturation or challenge round",
-    "No validated nonzero capital exemplar",
-    "Peripheral table normalization incomplete",
-    "Scoring calibration and final source/claim validation pending"
+    "Capital annuity inputs not fully reproduced",
+    "Final scoring calibration and source/claim validation pending"
   ],
   "saturation_streak": 0,
-  "next_research_strategy": "Iteration 6: nonzero capital annualization, federal resource costs, and repeated regulated-industry challengers; NRC and EPA retrieved, other targets in discovery.",
-  "updated_at": "2026-09-09T11:17:43.308551+00:00"
+  "next_research_strategy": "Iteration7: DoD CMMC, EPA capital monitoring, benefit processing and repeated financial regulatory cases; see iteration007 plan after discovery.",
+  "updated_at": "2026-09-09T11:50:01.541388+00:00"
 }

@@ -1,235 +1,178 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202403-0910-005/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table  1.-- Estimated Annual Reporting Burden 1,2",
-      "rows": [
-        {
-          "text_line": 110,
-          "cells": [
-            "21 CFR Part; Activity; Form FDA #",
-            "No. of Respondents",
-            "No. of Responses per Respondent",
-            "Total Annual Responses",
-            "Average Burden per Response",
-            "Total Hours"
-          ]
-        },
-        {
-          "text_line": 111,
-          "cells": [
-            "1114.5; Submission of Standard Bundled PMTAs 1",
-            "215",
-            "1",
-            "215",
-            "1,713",
-            "368,295"
-          ]
-        },
-        {
-          "text_line": 112,
-          "cells": [
-            "PMTA Submission;  Form FDA 4057",
-            "215",
-            "1",
-            "215",
-            ". 58 (35 minutes)",
-            "125"
-          ]
-        },
-        {
-          "text_line": 113,
-          "cells": [
-            "PMTA Amendment and General Correspondence Submission; Form FDA 4057a",
-            "80",
-            "4",
-            "320",
-            ".16 (10 minutes)",
-            "51"
-          ]
-        },
-        {
-          "text_line": 114,
-          "cells": [
-            "PMTA Unique Identification for New Tobacco Products ; Form FDA 4057b",
-            "215",
-            "1",
-            "215",
-            ".58  (35 minutes)",
-            "125"
-          ]
-        },
-        {
-          "text_line": 115,
-          "cells": [
-            "Tobacco Product Grouping Spreadsheet Validator",
-            "215",
-            "1",
-            "215",
-            ".08  (5 minutes)",
-            "17"
-          ]
-        },
-        {
-          "text_line": 116,
-          "cells": [
-            "1114.41;  Reporting Requirements (periodic reports)",
-            "10",
-            "3",
-            "30",
-            "50",
-            "1,500"
-          ]
-        },
-        {
-          "text_line": 117,
-          "cells": [
-            "1114.9; Amendments",
-            "24",
-            "2",
-            "48",
-            "188",
-            "9,024"
-          ]
-        },
-        {
-          "text_line": 118,
-          "cells": [
-            "1114.13; Change in Ownership",
-            "1 0",
-            "1",
-            "1 0",
-            "1",
-            "1 0"
-          ]
-        },
-        {
-          "text_line": 119,
-          "cells": [
-            "1114.15; Supplemental applications",
-            "2",
-            "1",
-            "2",
-            "428",
-            "856"
-          ]
-        },
-        {
-          "text_line": 120,
-          "cells": [
-            "1114.17; Resubmissions",
-            "5",
-            "1",
-            "5",
-            "565",
-            "2,825"
-          ]
-        },
-        {
-          "text_line": 121,
-          "cells": [
-            "1114.49(b) and (c); Waiver from Electronic Submission",
-            "1",
-            "1",
-            "1",
-            ".25 (15 minutes)",
-            "1"
-          ]
-        },
-        {
-          "text_line": 122,
-          "cells": [
-            "Total",
-            "1,276",
-            "",
-            "382,828"
-          ]
-        }
+[
+  {
+    "file": "icrs/202403-0910-005/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Table  1.-- Estimated Annual Reporting Burden 1,2"
+      ],
+      [
+        "21 CFR Part; Activity; Form FDA #",
+        "No. of Respondents",
+        "No. of Responses per Respondent",
+        "Total Annual Responses",
+        "Average Burden per Response",
+        "Total Hours"
+      ],
+      [
+        "1114.5; Submission of Standard Bundled PMTAs 1",
+        "215",
+        "1",
+        "215",
+        "1,713",
+        "368,295"
+      ],
+      [
+        "PMTA Submission;  Form FDA 4057",
+        "215",
+        "1",
+        "215",
+        ". 58 (35 minutes)",
+        "125"
+      ],
+      [
+        "PMTA Amendment and General Correspondence Submission; Form FDA 4057a",
+        "80",
+        "4",
+        "320",
+        ".16 (10 minutes)",
+        "51"
+      ],
+      [
+        "PMTA Unique Identification for New Tobacco Products ; Form FDA 4057b",
+        "215",
+        "1",
+        "215",
+        ".58  (35 minutes)",
+        "125"
+      ],
+      [
+        "Tobacco Product Grouping Spreadsheet Validator",
+        "215",
+        "1",
+        "215",
+        ".08  (5 minutes)",
+        "17"
+      ],
+      [
+        "1114.41;  Reporting Requirements (periodic reports)",
+        "10",
+        "3",
+        "30",
+        "50",
+        "1,500"
+      ],
+      [
+        "1114.9; Amendments",
+        "24",
+        "2",
+        "48",
+        "188",
+        "9,024"
+      ],
+      [
+        "1114.13; Change in Ownership",
+        "1 0",
+        "1",
+        "1 0",
+        "1",
+        "1 0"
+      ],
+      [
+        "1114.15; Supplemental applications",
+        "2",
+        "1",
+        "2",
+        "428",
+        "856"
+      ],
+      [
+        "1114.17; Resubmissions",
+        "5",
+        "1",
+        "5",
+        "565",
+        "2,825"
+      ],
+      [
+        "1114.49(b) and (c); Waiver from Electronic Submission",
+        "1",
+        "1",
+        "1",
+        ".25 (15 minutes)",
+        "1"
+      ],
+      [
+        "Total",
+        "1,276",
+        "",
+        "382,828"
       ]
-    },
-    {
-      "source_file": "icrs/202403-0910-005/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table  2.-- Estimated Annual Recordkeeping Burden",
-      "rows": [
-        {
-          "text_line": 163,
-          "cells": [
-            "21 CFR Part; Activity",
-            "No. of Recordkeepers",
-            "No. of Records per Recordkeeper",
-            "Total Annual Records",
-            "Average Burden per Recordkeeping",
-            "Total Hours"
-          ]
-        },
-        {
-          "text_line": 164,
-          "cells": [
-            "1114.45; PMTA records",
-            "215",
-            "1",
-            "215",
-            "2",
-            "430"
-          ]
-        },
-        {
-          "text_line": 165,
-          "cells": [
-            "1100.204; Pre-existing products records ",
-            "1",
-            "1",
-            "1",
-            "2",
-            "2"
-          ]
-        },
-        {
-          "text_line": 166,
-          "cells": [
-            "1107.3; Exemptions from Substantial Equivalence (SE) records ",
-            "1",
-            "1",
-            "1",
-            "2",
-            "2"
-          ]
-        },
-        {
-          "text_line": 167,
-          "cells": [
-            "Total",
-            "    217",
-            "",
-            "434"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202403-0910-005/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Table  2.-- Estimated Annual Recordkeeping Burden"
+      ],
+      [
+        "21 CFR Part; Activity",
+        "No. of Recordkeepers",
+        "No. of Records per Recordkeeper",
+        "Total Annual Records",
+        "Average Burden per Recordkeeping",
+        "Total Hours"
+      ],
+      [
+        "1114.45; PMTA records",
+        "215",
+        "1",
+        "215",
+        "2",
+        "430"
+      ],
+      [
+        "1100.204; Pre-existing products records ",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2"
+      ],
+      [
+        "1107.3; Exemptions from Substantial Equivalence (SE) records ",
+        "1",
+        "1",
+        "1",
+        "2",
+        "2"
+      ],
+      [
+        "Total",
+        "    217",
+        "",
+        "434"
       ]
-    },
-    {
-      "source_file": "icrs/202403-0910-005/raw/supporting-statement-a-1.txt",
-      "preceding_text": "The estimated annual reporting cost to respondents for this collection of information is $24,896,700. This estimate assumes that tobacco industry (all occupations) will account for the submissions regarding PMTAs at an average wage of $32.48 (Department of Labor\u2019s Bureau of Labor Statistics for Tobacco Manufacturers (May 2023: https://www.bls.gov/oes/current/naics4_312200.htm). We double this to account for benefits and overhead, yielding an hourly wage rate of $64.96.",
-      "rows": [
-        {
-          "text_line": 175,
-          "cells": [
-            "Activit y; Type of Respondent",
-            "Total Burden Hours",
-            "Hourly Wage Rate",
-            "Total Respondent Costs"
-          ]
-        },
-        {
-          "text_line": 176,
-          "cells": [
-            "Preparing PMTAs and Related Reports ;     Tobacco Industry",
-            "383,262",
-            "$6 4 . 96",
-            "$ 24,896,700"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202403-0910-005/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Activit y; Type of Respondent",
+        "Total Burden Hours",
+        "Hourly Wage Rate",
+        "Total Respondent Costs"
+      ],
+      [
+        "Preparing PMTAs and Related Reports ;     Tobacco Industry",
+        "383,262",
+        "$6 4 . 96",
+        "$ 24,896,700"
       ]
-    }
-  ]
-}
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202402-0648-005",
+  "retrieved_at": "2026-09-09T11:20:51.076631+00:00",
+  "documents": [
+    {
+      "title": "0648-0445 (BM42) Supporting Statement A FINAL 2024-0620.docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=139855304",
+      "path": "icrs/202402-0648-005/raw/supporting-statement-a-1.docx",
+      "sha256": "b30c14c3c1da8669d180c32b982ec1f2e54b3c48a395767911e0313f1891c90d",
+      "text_chars": 52160
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202402-0648-005",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202402-0648-005",
+  "agency": "DOC/NOAA",
+  "title": "NMFS Alaska Region Vessel Monitoring System (VMS) Program",
+  "omb_control_number": "0648-0445",
+  "submission_date": "02/20/2024",
+  "record_source_id": "SRC-0126",
+  "supporting_statement_source_ids": [
+    "SRC-0127"
+  ]
+}

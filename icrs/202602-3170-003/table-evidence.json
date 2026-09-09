@@ -1,127 +1,94 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202602-3170-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "The Bureau generally shares burden with other federal regulators who have enforcement authority over the same entities.  Very few entities are required to comply with the disclosure requirements of Regulation I.  Thus, for convenience, the Bureau allocates to itself all burden associated with Regulation I.  This burden is as follows:",
-      "rows": [
-        {
-          "text_line": 119,
-          "cells": [
-            "Information Collection Requirement",
-            "No. of Respondents",
-            "Type of IC",
-            "Frequency",
-            "Annual Responses",
-            "Average Response Time (hours)",
-            "Annual Burden Hours",
-            "Hourly Costs"
-          ]
-        },
-        {
-          "text_line": 120,
-          "cells": [
-            "HMDA Reporting Requirements",
-            "136",
-            "Reporting",
-            "1",
-            "136",
-            "6,776",
-            "921,536",
-            "$ 61,125,482"
-          ]
-        },
-        {
-          "text_line": 121,
-          "cells": [
-            "Recordkeeping Requirements",
-            "136",
-            "Recordkeeping",
-            "1",
-            "136",
-            "4,330",
-            "5 88,880",
-            "$ 39,060,410"
-          ]
-        },
-        {
-          "text_line": 122,
-          "cells": [
-            "Third Party Disclosure requirements",
-            "136",
-            "Third party disclosures",
-            "1",
-            "136",
-            "4",
-            "544",
-            "$ 36,083"
-          ]
-        },
-        {
-          "text_line": 123,
-          "cells": [
-            "TOTAL",
-            "136",
-            "",
-            "",
-            "136",
-            "",
-            "1, 510,960  ",
-            "$ 100,221,975"
-          ]
-        }
+[
+  {
+    "file": "icrs/202602-3170-003/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Information Collection Requirement",
+        "No. of Respondents",
+        "Type of IC",
+        "Frequency",
+        "Annual Responses",
+        "Average Response Time (hours)",
+        "Annual Burden Hours",
+        "Hourly Costs"
+      ],
+      [
+        "HMDA Reporting Requirements",
+        "136",
+        "Reporting",
+        "1",
+        "136",
+        "6,776",
+        "921,536",
+        "$ 61,125,482"
+      ],
+      [
+        "Recordkeeping Requirements",
+        "136",
+        "Recordkeeping",
+        "1",
+        "136",
+        "4,330",
+        "5 88,880",
+        "$ 39,060,410"
+      ],
+      [
+        "Third Party Disclosure requirements",
+        "136",
+        "Third party disclosures",
+        "1",
+        "136",
+        "4",
+        "544",
+        "$ 36,083"
+      ],
+      [
+        "TOTAL",
+        "136",
+        "",
+        "",
+        "136",
+        "",
+        "1, 510,960  ",
+        "$ 100,221,975"
       ]
-    },
-    {
-      "source_file": "icrs/202602-3170-003/raw/supporting-statement-a-1.txt",
-      "preceding_text": "There should be minimal annualized costs to keep the required acknowledgement forms on file and insert the necessary language into all advertisements.  Covered entities will incur a small material cost to obtain the written disclosures.  Depository institutions who convert from federal insurance to non-federal insurance will incur costs to mail disclosures with return postage for acknowledgements.  It is the Bureau\u2019s understanding that the only private insurer of depository institutions provides disclosure signage for its customers.  Therefore, there will be minimal costs to depository institutions who convert to private insurance to develop and display disclosures on their premises.  If an institution instead converts to another form of insurance, such as state insurance, that institution would incur minimal costs to display disclosures on its premises.  Accordingly, the Bureau estimates the burden as follows:",
-      "rows": [
-        {
-          "text_line": 130,
-          "cells": [
-            "Description of Costs (O&M)",
-            "Per Unit Costs",
-            "Quantity",
-            "Costs"
-          ]
-        },
-        {
-          "text_line": 131,
-          "cells": [
-            "Annual Software Licensing Fees for HMS software",
-            "$10,114",
-            "136",
-            "$1,37 5,504"
-          ]
-        },
-        {
-          "text_line": 132,
-          "cells": [
-            "Obtaining an LEI (one-time cost, already incurred for Bureau respondents)",
-            "$0",
-            "136",
-            "$0"
-          ]
-        },
-        {
-          "text_line": 133,
-          "cells": [
-            "LEI Annual Renewal",
-            "$133",
-            "136",
-            "$18, 088"
-          ]
-        },
-        {
-          "text_line": 134,
-          "cells": [
-            "TOTAL",
-            "",
-            "136",
-            "$1,3 93,592"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202602-3170-003/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Description of Costs (O&M)",
+        "Per Unit Costs",
+        "Quantity",
+        "Costs"
+      ],
+      [
+        "Annual Software Licensing Fees for HMS software",
+        "$10,114",
+        "136",
+        "$1,37 5,504"
+      ],
+      [
+        "Obtaining an LEI (one-time cost, already incurred for Bureau respondents)",
+        "$0",
+        "136",
+        "$0"
+      ],
+      [
+        "LEI Annual Renewal",
+        "$133",
+        "136",
+        "$18, 088"
+      ],
+      [
+        "TOTAL",
+        "",
+        "136",
+        "$1,3 93,592"
       ]
-    }
-  ]
-}
+    ]
+  }
+]

@@ -1,0 +1,217 @@
+{
+  "icr_id": "202511-0583-005",
+  "omb_control_number": "0583-0103",
+  "agency": "USDA/FSIS",
+  "title": "Sanitation SOPs and Pathogen Reduction/HACCP",
+  "submission_date": "07/20/2026",
+  "archetype": "food safety HACCP and sanitation records",
+  "complexity": "very high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 6,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0135",
+    "SRC-0134"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 14,
+    "provenance": 8,
+    "segmentation": 15,
+    "labor": 4,
+    "item13": 3,
+    "item14": 5,
+    "item15": 6,
+    "validation": 3,
+    "consistency": 1
+  },
+  "score_rationale": {
+    "reproducibility": "Extensive task/size tables, but narrative, subtotals and totals contain material discrepancies.",
+    "provenance": "RTI2015 report and tables cited, current wage vintage but no role/load derivation.",
+    "segmentation": "Plant sizes, state/federal and SOP/microbiology/HACCP tasks meaningfully separated.",
+    "labor": "107.04 loaded BLS rate without occupation or component derivation.",
+    "item13": "600000 capital for20 new plants has no equipment, useful life or unit-cost evidence.",
+    "item14": "Inspector activities and hours shown; some workloads and47.91 rate lack derivation.",
+    "item15": "No-change renewal baseline stated, but unchanged errors undermine reproducibility.",
+    "validation": "External cost study and inspection systems cited; underlying report inaccessible in this retrieval.",
+    "consistency": "Subtotals, frequencies and federal workload disagree; document length does not yield consistency."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "SOP development",
+        20,
+        null,
+        11000
+      ],
+      [
+        "SOP revision",
+        17578,
+        null,
+        609030
+      ],
+      [
+        "SOP records",
+        1582620,
+        null,
+        1234090
+      ],
+      [
+        "SOP review",
+        null,
+        null,
+        288668
+      ],
+      [
+        "Microbiology",
+        null,
+        null,
+        113202
+      ],
+      [
+        "HACCP development",
+        20,
+        null,
+        12500
+      ],
+      [
+        "HACCP reassessment",
+        30435,
+        null,
+        971250
+      ],
+      [
+        "HACCP records",
+        19549819,
+        0.08333333333333333,
+        1629152
+      ],
+      [
+        "HACCP review",
+        19549819,
+        0.03333333333333333,
+        651661
+      ],
+      [
+        "Prerequisites",
+        1521770,
+        null,
+        1522230
+      ],
+      [
+        "Supplier",
+        2500,
+        1,
+        2500
+      ]
+    ],
+    "labor": {
+      "loaded": 107.04,
+      "source": "BLS May2025, no specific occupation",
+      "reported": 754127022
+    },
+    "item13": {
+      "new_plants": 20,
+      "capital": 600000,
+      "life": null,
+      "equipment": null
+    },
+    "item14": {
+      "rate": 47.91,
+      "hours": [
+        555439,
+        38202,
+        100000,
+        28652,
+        160000,
+        417
+      ],
+      "reported_hours": 882710,
+      "reported_cost": 42290636
+    },
+    "item15": {
+      "classification": "no change",
+      "hours": 7045283,
+      "responses": 44185915,
+      "respondents": 6087
+    },
+    "assumptions": [
+      "Low and medium volume equated to small HACCP plants in RTI2015; high volume to large.",
+      "260 respondent operating days; federal daily review implies365 days."
+    ]
+  },
+  "reconstruction_issues": [
+    "Microbiology detailed activities200+13224+85524+14254=113202, while nearby prose113435 conflicts.",
+    "SOP review rows899340+582140+350100=1831580 responses, not1582620 total.",
+    "HACCP development prose971250 is reassessment total, while development table12500.",
+    "Federal weekly HACCP review6087*.25*52=79131 rather than100000; other workload denominators unstated.",
+    "Loaded respondent cost differs by70.32 from published hours*rate.",
+    "RTI2015 cited report returned403 through official links; underlying estimates not independently corroborated."
+  ],
+  "methods_worth_testing": [
+    "Task/plant-size tables tie recurring recordkeeping to physical operations.",
+    "Reference empirical cost study with explicit mapping from study size classes.",
+    "Extensive documentation can expose errors without resolving them."
+  ],
+  "checks": [
+    {
+      "label": "Main categories",
+      "formula": "2142788+113202+4786793+2500",
+      "calculated": 7045283,
+      "reported": 7045283,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0135"
+    },
+    {
+      "label": "Labor",
+      "formula": "7045283*107.04",
+      "calculated": 754127092.32,
+      "reported": 754127022,
+      "difference": 70.32000005245209,
+      "unit": "USD",
+      "interpretation": "70.32 difference.",
+      "source_id": "SRC-0135"
+    },
+    {
+      "label": "Federal",
+      "formula": "882710*47.91",
+      "calculated": 42290636.099999994,
+      "reported": 42290636,
+      "difference": 0.09999999403953552,
+      "unit": "USD",
+      "interpretation": "Whole-dollar rounding.",
+      "source_id": "SRC-0135"
+    },
+    {
+      "label": "SOP review responses",
+      "formula": "899340+582140+350100",
+      "calculated": 1831580,
+      "reported": 1582620,
+      "difference": 248960,
+      "unit": "responses",
+      "interpretation": "Total incorrectly retains260-day high-volume frequency.",
+      "source_id": "SRC-0135"
+    },
+    {
+      "label": "HACCP weekly review",
+      "formula": "6087*.25*52",
+      "calculated": 79131.0,
+      "reported": 100000,
+      "difference": -20869.0,
+      "unit": "hours",
+      "interpretation": "Population/frequency do not reproduce federal claim.",
+      "source_id": "SRC-0135"
+    }
+  ],
+  "total_score": 59
+}

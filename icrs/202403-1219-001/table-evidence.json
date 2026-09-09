@@ -1,0 +1,258 @@
+[
+  {
+    "file": "icrs/202403-1219-001/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "",
+        "",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "A x B x C  x D x E"
+      ],
+      [
+        "Occupation",
+        "NAICS Code",
+        "Average Wage Rate",
+        "Benefit Multiplier",
+        "Inflation Multiplier",
+        "Overhead Cost Multiplier",
+        "GDP Deflator 2021-2022",
+        "Loaded Hourly Wage Rate"
+      ],
+      [
+        "Coal  Industrial Hygienist*",
+        "212 100",
+        "$39. 22",
+        "1.49",
+        "1.043",
+        "1.17",
+        "1.071",
+        "$76. 35"
+      ],
+      [
+        "Coal  Clerk**",
+        "212 100",
+        "$ 21.49",
+        "1.49",
+        "1.043",
+        "1.17",
+        "1.071",
+        "$ 41.83"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202403-1219-001/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Activity (Occupation)",
+        "No. of Respondents ( Coal  Mines)",
+        "No. of Responses per Respondent",
+        "Total  Responses (Revised SOPs)",
+        "Average Burden (Hours)",
+        "Total Burden (Hours)",
+        "Hourly Wage Rate",
+        "Total Burden Cost"
+      ],
+      [
+        "Revised SOPs (Industrial hygienist)",
+        "1,106",
+        "1",
+        "1,106",
+        "4",
+        "4,424 .00",
+        "$76. 35",
+        "$ 337,752.31"
+      ],
+      [
+        "Subtotal (Rounded)",
+        "1,106",
+        "",
+        "1,106",
+        "",
+        "4,424",
+        "",
+        "$ 337,752"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202403-1219-001/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Activity (Occupation)",
+        "No. of Respondents (Coal Mines)",
+        "No. of Responses per Respondent",
+        "Total  Responses (Records)",
+        "Average Burden (Hours)",
+        "Total Burden (Hours)",
+        "Hourly Wage Rate",
+        "Total Burden Cost"
+      ],
+      [
+        "ASTM Recordkeeping (Clerk)",
+        "1,106",
+        "1",
+        "1,106",
+        "4",
+        "4,424 .00",
+        "$ 41.83",
+        "$ 185,060.98"
+      ],
+      [
+        "Subtotal (Rounded)",
+        "1,106",
+        "",
+        "1,106",
+        "",
+        "4,424",
+        "",
+        "$ 185,061"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202403-1219-001/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Activity (Occupation)",
+        "No. of Respondents (Coal Mines)",
+        "No. of Responses per Respondent",
+        "Total  Responses (Records)",
+        "Average Burden (Hours)",
+        "Total Burden (Hours)",
+        "Hourly Wage Rate",
+        "Total Burden Cost"
+      ],
+      [
+        "Medical Evaluation and  Fit Test Records (Industrial Hygienist)",
+        "1,106",
+        "4",
+        "4,424",
+        "0.25",
+        "1,106.00",
+        "$76.35",
+        "$84,438.08"
+      ],
+      [
+        "Subtotal (Rounded)",
+        "1,106",
+        " ",
+        "4,424",
+        " ",
+        "1,106",
+        " ",
+        "$84,438"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202403-1219-001/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Activity (Occupation)",
+        "No. of Respondents (Coal Mines)",
+        "No. of Responses per Respondent",
+        "Total Responses  (Records)",
+        "Average Burden (Minutes)",
+        "Total Burden (Hours)",
+        "Hourly Wage Rate",
+        "Total Burden Cost"
+      ],
+      [
+        "Emergency Respirator Inspection Records ( Industrial Hygienist )",
+        "1,106",
+        "12",
+        "13,272",
+        "5",
+        "1,106 .00",
+        "$76. 35",
+        "$ 84,438.08"
+      ],
+      [
+        "Subtotal (Rounded)",
+        "1,106",
+        "",
+        "13,272",
+        "",
+        "1,106",
+        "",
+        "$ 84,438"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202403-1219-001/raw/supporting-statement-a-1.docx",
+    "table": 6,
+    "rows": [
+      [
+        "Activity",
+        "No. of Respondents ",
+        "No. of Responses per Respondent",
+        "Total  Responses ",
+        "Average Burden (Hours)",
+        "Total Burden (Hours)",
+        "Hourly Wage Rate",
+        "Total Burden Cost"
+      ],
+      [
+        "Revise SOPs",
+        "1,106",
+        "1",
+        "1,106",
+        "4.00",
+        "4,424 .00",
+        "$76.35",
+        "$337,752.31"
+      ],
+      [
+        "ASTM Recordkeeping",
+        "1,106",
+        "1",
+        "1,106",
+        "4.00",
+        "4,424 .00",
+        "$41.83",
+        "$185,060.98"
+      ],
+      [
+        "Medical Evaluation and  Fit Test Records",
+        "1,106",
+        "4",
+        "4,424",
+        "0.25",
+        "1,106.00",
+        "$76.35",
+        "$84,438.08"
+      ],
+      [
+        "Emergency Respirator Inspection Records",
+        "1,106",
+        "12",
+        "13,272",
+        "0.08",
+        "1,106 .00",
+        "$76.35",
+        "$84,438.08"
+      ],
+      [
+        "Total (Rounded)",
+        "1,106",
+        "",
+        "19,908",
+        " ",
+        "11,060",
+        " ",
+        "$691,689"
+      ]
+    ]
+  }
+]

@@ -1,682 +1,529 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202405-1218-005/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 1 -- WAGE HOUR ESTIMATES",
-      "rows": [
-        {
-          "text_line": 102,
-          "cells": [
-            "Occupational Title",
-            "(SOC)   Code",
-            "Mean Hourly Wage Rate (A)",
-            "Fringe Benefits (B) ",
-            "Loaded Hourly Wage Rate (C) = (A)/((1-(B))"
-          ]
-        },
-        {
-          "text_line": 103,
-          "cells": [
-            "Precision Instrument and Equipment Repairer s , All Other",
-            "49-9069",
-            "$ 30.76",
-            ".29 4",
-            "$ 43.57"
-          ]
-        }
+[
+  {
+    "file": "icrs/202405-1218-005/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Table 1 -- WAGE HOUR ESTIMATES"
+      ],
+      [
+        "Occupational Title",
+        "(SOC)   Code",
+        "Mean Hourly Wage Rate (A)",
+        "Fringe Benefits (B) ",
+        "Loaded Hourly Wage Rate (C) = (A)/((1-(B))"
+      ],
+      [
+        "Precision Instrument and Equipment Repairer s , All Other",
+        "49-9069",
+        "$ 30.76",
+        ".29 4",
+        "$ 43.57"
       ]
-    },
-    {
-      "source_file": "icrs/202405-1218-005/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 2: Estimated Annualized Respondent Cost and Hour Burden",
-      "rows": [
-        {
-          "text_line": 128,
-          "cells": [
-            "Collections of Information",
-            "Type of Respondent",
-            "No. of Respondents",
-            "No. of Responses per Respondent",
-            "Total No. of Responses",
-            "Burden Per Response (In Hrs . )",
-            "Total Burden Hours",
-            "Loaded  Hourly Wage Rate",
-            "Total Burden  C ost (runded)"
-          ]
-        },
-        {
-          "text_line": 129,
-          "cells": [
-            "\u00a71910.157(e)(3) -- Portable Fire Extinguishers -- Inspection, maintenance, and testing.",
-            "Precision Instrument and Equipment Repairer",
-            "956,785",
-            "1",
-            "956,785",
-            "30/60",
-            "478,393",
-            "$ 43.57",
-            "$ 20,843,583"
-          ]
-        },
-        {
-          "text_line": 130,
-          "cells": [
-            "TOTAL",
-            "",
-            "956,785",
-            "--",
-            "956,785",
-            "--",
-            "478,393",
-            "--",
-            "$ 20,843,583"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202405-1218-005/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Table 2: Estimated Annualized Respondent Cost and Hour Burden"
+      ],
+      [
+        "Collections of Information",
+        "Type of Respondent",
+        "No. of Respondents",
+        "No. of Responses per Respondent",
+        "Total No. of Responses",
+        "Burden Per Response (In Hrs . )",
+        "Total Burden Hours",
+        "Loaded  Hourly Wage Rate",
+        "Total Burden  C ost (runded)"
+      ],
+      [
+        "§1910.157(e)(3) -- Portable Fire Extinguishers -- Inspection, maintenance, and testing.",
+        "Precision Instrument and Equipment Repairer",
+        "956,785",
+        "1",
+        "956,785",
+        "30/60",
+        "478,393",
+        "$ 43.57",
+        "$ 20,843,583"
+      ],
+      [
+        "TOTAL",
+        "",
+        "956,785",
+        "--",
+        "956,785",
+        "--",
+        "478,393",
+        "--",
+        "$ 20,843,583"
       ]
-    },
-    {
-      "source_file": "icrs/202405-1218-005/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Our lead economist assisted us in the update of this paperwork package in February.\u00a0 They verified that the increase in numbers were driven in part by a jump from 2012 to 2018 data from EIA\u2019s Commercial Buildings Energy Consumption Survey (and to a lesser extend a jump in a parallel Manufacturing Energy Consumption Survey (MECS) from 2010 to 2018).\u00a0 The chart below shows which years data was used for the most recent ICRs at the time of the update. \u00a0\u00a0These types of large studies are not usually conducted annually, and we use the data that is most current at the time the ICR is up for renewal. As you can see in the table the studies have a gap of six years when they update the data.",
-      "rows": [
-        {
-          "text_line": 170,
-          "cells": [
-            "ICR Year",
-            "MECS Year",
-            "CBECS Year"
-          ]
-        },
-        {
-          "text_line": 171,
-          "cells": [
-            "2017",
-            "2010",
-            "2012"
-          ]
-        },
-        {
-          "text_line": 172,
-          "cells": [
-            "2020",
-            "2010",
-            "2012"
-          ]
-        },
-        {
-          "text_line": 173,
-          "cells": [
-            "2024",
-            "2018",
-            "2018"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202405-1218-005/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "ICR Year",
+        "MECS Year",
+        "CBECS Year"
+      ],
+      [
+        "2017",
+        "2010",
+        "2012"
+      ],
+      [
+        "2020",
+        "2010",
+        "2012"
+      ],
+      [
+        "2024",
+        "2018",
+        "2018"
       ]
-    },
-    {
-      "source_file": "icrs/202405-1218-005/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table  3 : Total Number of Portable Fire Extinguishers (Estimated)",
-      "rows": [
-        {
-          "text_line": 200,
-          "cells": [
-            "Source",
-            "Number  of Fire Extinguishers"
-          ]
-        },
-        {
-          "text_line": 201,
-          "cells": [
-            "Non-Manufacturing Establishments",
-            "                         62,681,516"
-          ]
-        },
-        {
-          "text_line": 202,
-          "cells": [
-            "Manufacturing Establishments",
-            "                           1,104,134  "
-          ]
-        },
-        {
-          "text_line": 203,
-          "cells": [
-            "Total",
-            "                           63,785,650"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202405-1218-005/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Table  3 : Total Number of Portable Fire Extinguishers (Estimated)"
+      ],
+      [
+        "Source",
+        "Number  of Fire Extinguishers"
+      ],
+      [
+        "Non-Manufacturing Establishments",
+        "                         62,681,516"
+      ],
+      [
+        "Manufacturing Establishments",
+        "                           1,104,134  "
+      ],
+      [
+        "Total",
+        "                           63,785,650"
       ]
-    },
-    {
-      "source_file": "icrs/202405-1218-005/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 4: Fire Extinguishers in Non-Manufacturing Establishments",
-      "rows": [
-        {
-          "text_line": 212,
-          "cells": [
-            "Principal Building Activity",
-            "Avg. Sq. Footage per Building (a)",
-            "Square feet per Extinguisher (b)",
-            "No. of Fire Extinguishers per Building",
-            "Total Buildings (a)",
-            "Total No. of Fire Extinguishers"
-          ]
-        },
-        {
-          "text_line": 213,
-          "cells": [
-            "Education",
-            "150,583",
-            "11,250",
-            "13.4",
-            "437,486",
-            "5,855,824"
-          ]
-        },
-        {
-          "text_line": 214,
-          "cells": [
-            "Enclosed mall",
-            "975,429",
-            "11,250",
-            "86.7",
-            "940",
-            "81,531"
-          ]
-        },
-        {
-          "text_line": 215,
-          "cells": [
-            "Food sales",
-            "31,805",
-            "11,250",
-            "2.8",
-            "162,912",
-            "460,578"
-          ]
-        },
-        {
-          "text_line": 216,
-          "cells": [
-            "Food service",
-            "6,784",
-            "11,250",
-            "0.6",
-            "286,467",
-            "172,745"
-          ]
-        },
-        {
-          "text_line": 217,
-          "cells": [
-            "Inpatient health care",
-            "582,578",
-            "11,250",
-            "51.8",
-            "8,529",
-            "441,655"
-          ]
-        },
-        {
-          "text_line": 218,
-          "cells": [
-            "Laboratory",
-            "236,548",
-            "11,250",
-            "21.0",
-            "10,837",
-            "227,872"
-          ]
-        },
-        {
-          "text_line": 219,
-          "cells": [
-            "Lodging",
-            "224,198",
-            "11,250",
-            "19.9",
-            "169,453",
-            "3,376,988"
-          ]
-        },
-        {
-          "text_line": 220,
-          "cells": [
-            "Nonrefrigerated warehouse",
-            "176,738",
-            "11,250",
-            "15.7",
-            "1,000,919",
-            "15,724,528"
-          ]
-        },
-        {
-          "text_line": 221,
-          "cells": [
-            "Nursing",
-            "116,285",
-            "11,250",
-            "10.3",
-            "37,551",
-            "388,146"
-          ]
-        },
-        {
-          "text_line": 222,
-          "cells": [
-            "Office",
-            "214,527",
-            "11,250",
-            "19.1",
-            "970,303",
-            "18,502,793"
-          ]
-        },
-        {
-          "text_line": 223,
-          "cells": [
-            "Other",
-            "128,842",
-            "11,250",
-            "11.5",
-            "102,396",
-            "1,172,705"
-          ]
-        },
-        {
-          "text_line": 224,
-          "cells": [
-            "Outpatient health care",
-            "92,232",
-            "11,250",
-            "8.2",
-            "128,540",
-            "1,053,820"
-          ]
-        },
-        {
-          "text_line": 225,
-          "cells": [
-            "Public assembly",
-            "139,128",
-            "11,250",
-            "12.4",
-            "488,199",
-            "6,037,546"
-          ]
-        },
-        {
-          "text_line": 226,
-          "cells": [
-            "Public order and safety",
-            "202,211",
-            "11,250",
-            "18.0",
-            "81,218",
-            "1,459,835"
-          ]
-        },
-        {
-          "text_line": 227,
-          "cells": [
-            "Refrigerated warehouse",
-            "219,109",
-            "11,250",
-            "19.5",
-            "3,451",
-            "67,217"
-          ]
-        },
-        {
-          "text_line": 228,
-          "cells": [
-            "Religious worship",
-            "33,832",
-            "11,250",
-            "3.0",
-            "438,606",
-            "1,319,010"
-          ]
-        },
-        {
-          "text_line": 229,
-          "cells": [
-            "Retail other than mall",
-            "95,464",
-            "11,250",
-            "8.5",
-            "350,357",
-            "2,973,013"
-          ]
-        },
-        {
-          "text_line": 230,
-          "cells": [
-            "Service",
-            "25,430",
-            "11,250",
-            "2.3",
-            "866,880",
-            "1,959,501"
-          ]
-        },
-        {
-          "text_line": 231,
-          "cells": [
-            "Strip shopping mall",
-            "95,497",
-            "11,250",
-            "8.5",
-            "165,658",
-            "1,406,209"
-          ]
-        },
-        {
-          "text_line": 232,
-          "cells": [
-            "Grand Total",
-            "\u00a0",
-            "\u00a0",
-            "\u00a0",
-            "\u00a0",
-            "           62,681,516 "
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202405-1218-005/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Table 4: Fire Extinguishers in Non-Manufacturing Establishments"
+      ],
+      [
+        "Principal Building Activity",
+        "Avg. Sq. Footage per Building (a)",
+        "Square feet per Extinguisher (b)",
+        "No. of Fire Extinguishers per Building",
+        "Total Buildings (a)",
+        "Total No. of Fire Extinguishers"
+      ],
+      [
+        "Education",
+        "150,583",
+        "11,250",
+        "13.4",
+        "437,486",
+        "5,855,824"
+      ],
+      [
+        "Enclosed mall",
+        "975,429",
+        "11,250",
+        "86.7",
+        "940",
+        "81,531"
+      ],
+      [
+        "Food sales",
+        "31,805",
+        "11,250",
+        "2.8",
+        "162,912",
+        "460,578"
+      ],
+      [
+        "Food service",
+        "6,784",
+        "11,250",
+        "0.6",
+        "286,467",
+        "172,745"
+      ],
+      [
+        "Inpatient health care",
+        "582,578",
+        "11,250",
+        "51.8",
+        "8,529",
+        "441,655"
+      ],
+      [
+        "Laboratory",
+        "236,548",
+        "11,250",
+        "21.0",
+        "10,837",
+        "227,872"
+      ],
+      [
+        "Lodging",
+        "224,198",
+        "11,250",
+        "19.9",
+        "169,453",
+        "3,376,988"
+      ],
+      [
+        "Nonrefrigerated warehouse",
+        "176,738",
+        "11,250",
+        "15.7",
+        "1,000,919",
+        "15,724,528"
+      ],
+      [
+        "Nursing",
+        "116,285",
+        "11,250",
+        "10.3",
+        "37,551",
+        "388,146"
+      ],
+      [
+        "Office",
+        "214,527",
+        "11,250",
+        "19.1",
+        "970,303",
+        "18,502,793"
+      ],
+      [
+        "Other",
+        "128,842",
+        "11,250",
+        "11.5",
+        "102,396",
+        "1,172,705"
+      ],
+      [
+        "Outpatient health care",
+        "92,232",
+        "11,250",
+        "8.2",
+        "128,540",
+        "1,053,820"
+      ],
+      [
+        "Public assembly",
+        "139,128",
+        "11,250",
+        "12.4",
+        "488,199",
+        "6,037,546"
+      ],
+      [
+        "Public order and safety",
+        "202,211",
+        "11,250",
+        "18.0",
+        "81,218",
+        "1,459,835"
+      ],
+      [
+        "Refrigerated warehouse",
+        "219,109",
+        "11,250",
+        "19.5",
+        "3,451",
+        "67,217"
+      ],
+      [
+        "Religious worship",
+        "33,832",
+        "11,250",
+        "3.0",
+        "438,606",
+        "1,319,010"
+      ],
+      [
+        "Retail other than mall",
+        "95,464",
+        "11,250",
+        "8.5",
+        "350,357",
+        "2,973,013"
+      ],
+      [
+        "Service",
+        "25,430",
+        "11,250",
+        "2.3",
+        "866,880",
+        "1,959,501"
+      ],
+      [
+        "Strip shopping mall",
+        "95,497",
+        "11,250",
+        "8.5",
+        "165,658",
+        "1,406,209"
+      ],
+      [
+        "Grand Total",
+        " ",
+        " ",
+        " ",
+        " ",
+        "           62,681,516 "
+      ],
+      [
+        "(a) Commercial Buildings Energy Consumption Survey (CBECS) building characteristics public use microdata files (201 8  data released  September  20 21 )"
+      ],
+      [
+        ""
       ]
-    },
-    {
-      "source_file": "icrs/202405-1218-005/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 5: Fire Extinguishers in Manufacturing Establishments",
-      "rows": [
-        {
-          "text_line": 239,
-          "cells": [
-            "NAICS Code",
-            "Subsector and Industry",
-            "Average Enclosed Floorspace per Establishment  (sq ft) (a)",
-            "Square feet per Extinguisher (b)",
-            "No. of Fire Extinguishers per Establishment",
-            "Establishments (a)",
-            "Total No. of Fire Extinguishers"
-          ]
-        },
-        {
-          "text_line": 240,
-          "cells": [
-            "311",
-            "Food",
-            "78,245",
-            "11,250",
-            "7.0",
-            "15,842",
-            "110,183"
-          ]
-        },
-        {
-          "text_line": 241,
-          "cells": [
-            "312",
-            "Beverage and Tobacco Products",
-            "75,622",
-            "11,250",
-            "6.7",
-            "3,938",
-            "26,471"
-          ]
-        },
-        {
-          "text_line": 242,
-          "cells": [
-            "313",
-            "Textile Mills",
-            "99,458",
-            "11,250",
-            "8.8",
-            "1,360",
-            "12,023"
-          ]
-        },
-        {
-          "text_line": 243,
-          "cells": [
-            "314",
-            "Textile Product Mills",
-            "30,538",
-            "11,250",
-            "2.7",
-            "4,116",
-            "11,173"
-          ]
-        },
-        {
-          "text_line": 244,
-          "cells": [
-            "315",
-            "Apparel",
-            "12,893",
-            "11,250",
-            "1.1",
-            "3,856",
-            "4,419"
-          ]
-        },
-        {
-          "text_line": 245,
-          "cells": [
-            "316",
-            "Leather and Allied Products",
-            "29,088",
-            "11,250",
-            "2.6",
-            "655",
-            "1,694"
-          ]
-        },
-        {
-          "text_line": 246,
-          "cells": [
-            "321",
-            "Wood Products",
-            "61,482",
-            "11,250",
-            "5.5",
-            "9,435",
-            "51,563"
-          ]
-        },
-        {
-          "text_line": 247,
-          "cells": [
-            "322",
-            "Paper",
-            "223,239",
-            "11,250",
-            "19.8",
-            "3,009",
-            "59,709"
-          ]
-        },
-        {
-          "text_line": 248,
-          "cells": [
-            "323",
-            "Printing and Related Support",
-            "28,686",
-            "11,250",
-            "2.5",
-            "12,614",
-            "32,164"
-          ]
-        },
-        {
-          "text_line": 249,
-          "cells": [
-            "324",
-            "Petroleum and Coal Products",
-            "78,328",
-            "11,250",
-            "7.0",
-            "1,883",
-            "13,110"
-          ]
-        },
-        {
-          "text_line": 250,
-          "cells": [
-            "325",
-            "Chemicals",
-            "117,387",
-            "11,250",
-            "10.4",
-            "8,902",
-            "92,887"
-          ]
-        },
-        {
-          "text_line": 251,
-          "cells": [
-            "326",
-            "Plastics and Rubber Products",
-            "108,548",
-            "11,250",
-            "9.6",
-            "8,317",
-            "80,248"
-          ]
-        },
-        {
-          "text_line": 252,
-          "cells": [
-            "327",
-            "Nonmetallic Mineral Products",
-            "49,801",
-            "11,250",
-            "4.4",
-            "12,035",
-            "53,276"
-          ]
-        },
-        {
-          "text_line": 253,
-          "cells": [
-            "331",
-            "Primary Metals",
-            "202,492",
-            "11,250",
-            "18.0",
-            "3,226",
-            "58,066"
-          ]
-        },
-        {
-          "text_line": 254,
-          "cells": [
-            "332",
-            "Fabricated Metal Products",
-            "43,876",
-            "11,250",
-            "3.9",
-            "37,949",
-            "148,004"
-          ]
-        },
-        {
-          "text_line": 255,
-          "cells": [
-            "333",
-            "Machinery",
-            "72,187",
-            "11,250",
-            "6.4",
-            "14,919",
-            "95,729"
-          ]
-        },
-        {
-          "text_line": 256,
-          "cells": [
-            "334",
-            "Computer and Electronic Products",
-            "67,171",
-            "11,250",
-            "6.0",
-            "6,646",
-            "39,682"
-          ]
-        },
-        {
-          "text_line": 257,
-          "cells": [
-            "335",
-            "Electrical Equip., Appliances, and Components",
-            "92,694",
-            "11,250",
-            "8.2",
-            "3,295",
-            "27,149"
-          ]
-        },
-        {
-          "text_line": 258,
-          "cells": [
-            "336",
-            "Transportation Equipment",
-            "176,604",
-            "11,250",
-            "15.7",
-            "7,103",
-            "111,504"
-          ]
-        },
-        {
-          "text_line": 259,
-          "cells": [
-            "337",
-            "Furniture and Related Products",
-            "53,379",
-            "11,250",
-            "4.7",
-            "8,347",
-            "39,605"
-          ]
-        },
-        {
-          "text_line": 260,
-          "cells": [
-            "339",
-            "Miscellaneous",
-            "29,175",
-            "11,250",
-            "2.6",
-            "13,679",
-            "35,475"
-          ]
-        },
-        {
-          "text_line": 261,
-          "cells": [
-            "\u00a0",
-            "Total",
-            "69,062",
-            "\u00a0",
-            "\u00a0",
-            "181,126",
-            "1,104,134"
-          ]
-        },
-        {
-          "text_line": 262,
-          "cells": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202405-1218-005/raw/supporting-statement-a-1.docx",
+    "table": 6,
+    "rows": [
+      [
+        "Table 5: Fire Extinguishers in Manufacturing Establishments"
+      ],
+      [
+        "NAICS Code",
+        "Subsector and Industry",
+        "Average Enclosed Floorspace per Establishment  (sq ft) (a)",
+        "Square feet per Extinguisher (b)",
+        "No. of Fire Extinguishers per Establishment",
+        "Establishments (a)",
+        "Total No. of Fire Extinguishers"
+      ],
+      [
+        "311",
+        "Food",
+        "78,245",
+        "11,250",
+        "7.0",
+        "15,842",
+        "110,183"
+      ],
+      [
+        "312",
+        "Beverage and Tobacco Products",
+        "75,622",
+        "11,250",
+        "6.7",
+        "3,938",
+        "26,471"
+      ],
+      [
+        "313",
+        "Textile Mills",
+        "99,458",
+        "11,250",
+        "8.8",
+        "1,360",
+        "12,023"
+      ],
+      [
+        "314",
+        "Textile Product Mills",
+        "30,538",
+        "11,250",
+        "2.7",
+        "4,116",
+        "11,173"
+      ],
+      [
+        "315",
+        "Apparel",
+        "12,893",
+        "11,250",
+        "1.1",
+        "3,856",
+        "4,419"
+      ],
+      [
+        "316",
+        "Leather and Allied Products",
+        "29,088",
+        "11,250",
+        "2.6",
+        "655",
+        "1,694"
+      ],
+      [
+        "321",
+        "Wood Products",
+        "61,482",
+        "11,250",
+        "5.5",
+        "9,435",
+        "51,563"
+      ],
+      [
+        "322",
+        "Paper",
+        "223,239",
+        "11,250",
+        "19.8",
+        "3,009",
+        "59,709"
+      ],
+      [
+        "323",
+        "Printing and Related Support",
+        "28,686",
+        "11,250",
+        "2.5",
+        "12,614",
+        "32,164"
+      ],
+      [
+        "324",
+        "Petroleum and Coal Products",
+        "78,328",
+        "11,250",
+        "7.0",
+        "1,883",
+        "13,110"
+      ],
+      [
+        "325",
+        "Chemicals",
+        "117,387",
+        "11,250",
+        "10.4",
+        "8,902",
+        "92,887"
+      ],
+      [
+        "326",
+        "Plastics and Rubber Products",
+        "108,548",
+        "11,250",
+        "9.6",
+        "8,317",
+        "80,248"
+      ],
+      [
+        "327",
+        "Nonmetallic Mineral Products",
+        "49,801",
+        "11,250",
+        "4.4",
+        "12,035",
+        "53,276"
+      ],
+      [
+        "331",
+        "Primary Metals",
+        "202,492",
+        "11,250",
+        "18.0",
+        "3,226",
+        "58,066"
+      ],
+      [
+        "332",
+        "Fabricated Metal Products",
+        "43,876",
+        "11,250",
+        "3.9",
+        "37,949",
+        "148,004"
+      ],
+      [
+        "333",
+        "Machinery",
+        "72,187",
+        "11,250",
+        "6.4",
+        "14,919",
+        "95,729"
+      ],
+      [
+        "334",
+        "Computer and Electronic Products",
+        "67,171",
+        "11,250",
+        "6.0",
+        "6,646",
+        "39,682"
+      ],
+      [
+        "335",
+        "Electrical Equip., Appliances, and Components",
+        "92,694",
+        "11,250",
+        "8.2",
+        "3,295",
+        "27,149"
+      ],
+      [
+        "336",
+        "Transportation Equipment",
+        "176,604",
+        "11,250",
+        "15.7",
+        "7,103",
+        "111,504"
+      ],
+      [
+        "337",
+        "Furniture and Related Products",
+        "53,379",
+        "11,250",
+        "4.7",
+        "8,347",
+        "39,605"
+      ],
+      [
+        "339",
+        "Miscellaneous",
+        "29,175",
+        "11,250",
+        "2.6",
+        "13,679",
+        "35,475"
+      ],
+      [
+        " ",
+        "Total",
+        "69,062",
+        " ",
+        " ",
+        "181,126",
+        "1,104,134"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "(a)    Source:  U.S. Energy Information Administration, Office of Energy Consumption and Efficiency Statistics, Form EIA-846, '2010 Manufacturing Energy Consumption Survey.'"
       ]
-    }
-  ]
-}
+    ]
+  }
+]

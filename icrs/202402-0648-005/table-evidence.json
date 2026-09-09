@@ -1,0 +1,438 @@
+[
+  {
+    "file": "icrs/202402-0648-005/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Who is required to carry an operational VMS?",
+        "Regulatory reference 50 CFR",
+        "Needs and Uses"
+      ],
+      [
+        "Vessels that operate in a Federal reporting area when the vessel is authorized to participate in the Atka mackerel, Pacific cod, or pollock directed fisheries and the vessel’s authorized species and gear type is open to directed fishing. These VMS requirements do not apply to vessels using jig gear.",
+        "§   679.7(a)(18) , instruction s for Federal Fisheries Permit  application form, and  § 679.28(f)(6)(i)",
+        "To monitor compliance with time and area closures to protect Steller Sea lions. "
+      ],
+      [
+        "Vessels named on a Federal Fisheries Permit   or Federal Crab Vessel Permit while operating in the Aleutian Islands subarea or operating a federally permitted vessel  in adjacent State of Alaska waters. In addition, vessels using trawl gear in the Aleutian Islands must set their VMS to transmit vessel location at least 10 times per hour.",
+        "§§  679.7(a)(21) ,  679.28(f)(6)(ii)  and  (f)(6)(ix) ,  679.28(f)(7)",
+        "To monitor compliance with area closures to protect Essential Fish Habitat. "
+      ],
+      [
+        "Vessels h arvesting  Crab Rationalization Program crab in the Bering Sea.",
+        "§§  680.7(c)(2)  and  680.23(d)",
+        "To monitor proper accounting of area-specific allocations. "
+      ],
+      [
+        "Federally permitted vessels operating in the GOA with non-pelagic trawl or dredge gear on board.",
+        "§§  679.7(a)(22) ,  679.28(f)(6)(iii)",
+        "To monitor compliance with area closures to protect Essential Fish Habitat."
+      ],
+      [
+        "GOA Rockfish Program —  vessels assigned to a rockfish cooperative must use VMS at all times when operating in a reporting area off Alaska from May 1 until November 15; or until that rockfish cooperative has submitted a rockfish cooperative termination of fishing declaration that has been approved by NMFS. In addition, vessels assigned to a rockfish cooperative and subject to a sideboard limit must use VMS at all times when operating in a reporting area off Alaska from July 1 until July 31.",
+        "§§  679.5(r)(7) ,  679.7(n)(3 ), 679.28(f)(6)(iv)",
+        "To monitor proper accounting of area-specific allocations."
+      ],
+      [
+        "Amendment 80 catcher/processors at all times while operating in the BSAI or GOA.",
+        "§§  679.5(s)(7) , 679.28(f)(6)(vi)",
+        "To monitor proper accounting of area-specific allocations."
+      ],
+      [
+        "Vessels operating in the Western and Central GOA (Federal reporting areas 610, 620, or 630) that receive and process groundfish from other vessels. ",
+        "§§  679.7(b)(4)(ii) ,  679.28(f)(6)(v)",
+        "M onitor compliance with area-specific processing caps in the Western and Central GOA and a requirement that Pacific cod harvested in the GOA may not be delivered to a vessel for processing in a different regulatory area. "
+      ],
+      [
+        "Vessels fishing for individual fishing quota (IFQ) sablefish in the Bering Sea or Aleutian Islands IFQ regulatory areas (including vessels using pot gear).",
+        "§§  679.28(f)(6)(vii) , 679.42(k)(1)",
+        "M onitor proper accounting of area-specific allocations."
+      ],
+      [
+        "Vessels using pot gear to fish for IFQ or CDQ halibut or CDQ sablefish in the BSAI.",
+        "§§  679.7(f)(26) , 679.28(f)(6)(viii) ,   679.42(m)(4)(ii)",
+        "M onitor proper accounting of area-specific allocations, and to monitor vessels using pot gear to retain halibut IFQ or CDQ."
+      ],
+      [
+        "Vessels operating in a GOA IFQ regulatory area and using longline pot gear to fish IFQ sablefish or to retain halibut incidentally in longline pot gear. ",
+        "§§  679.7(f)(25) ,  679.28(f)(6)(viii) , and  679.42(k)(2)  and  (l)(7)(ii) , Annual halibut management measures ( 88 FR 14066, 03/07/2023 )",
+        "M onitor compliance with requirements to redeploy or remove pot gear from the fishing grounds within a specified time period. "
+      ],
+      [
+        "Pacific Cod Trawl Cooperative Program   (PCTC Program)  —  catcher vessels assigned to a PCTC  Program  cooperative or that are subject to sideboard limits detailed in § 679.13 3  must use functioning VMS equipment as described at § 679.28(f) at all times when operating in a reporting area off Alaska during the A and B season.",
+        "§§  679.7(m)(3) ,  679.134(f)(5)",
+        "M onitor proper accounting of area-specific allocations."
+      ],
+      [
+        "Cook Inlet EEZ Commercial Salmon Fishery   —   vessel s  required to have a  Salmon Federal Fisheries Permit  issued under § 679.114  to commercially fish for salmon in the  Cook Inlet  EEZ Area must use a functioning VMS unit as described in § 679.28(f) .",
+        "§ 679.11 7(b)(1)(xiv)   [new]",
+        "M onitor part icipation in the  Cook Inlet EEZ salmon  fishery and compliance with Federal fishing area, time, and catch accounting regulations.  "
+      ],
+      [
+        "OPTIONAL Any vessel that carries a transmitting VMS while fishing for halibut in Area 4A, 4B, 4C, or 4D, and until all halibut caught in any of these areas is landed, is exempt from vessel clearance requirements.",
+        "Annual  halibut management measures ( 88 FR 14066, 03/07/2023 ) No.  1 5 --Vessel Clearance in IPHC Regulatory Area 4, No. (16)",
+        "M onitor proper accounting of area-specific allocations. These requirements in the halibut annual management measures are not subject to the PRA. "
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202402-0648-005/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Information Collection",
+        "Type of Respondent (e.g., Occupational Title)",
+        "# of Respondents/year (a)",
+        "Annual # of Responses / Respondent (b)",
+        "Total # of Annual Responses (c) = (a) x (b)",
+        "Burden Hrs / Response (d)",
+        "Total Annual Burden Hrs (e)   = (c) x (d)",
+        "Hourly Wage Rate (for Type of Respondent) (f)",
+        "Total Annual Wage Burden Costs (g) = (e) x (f)"
+      ],
+      [
+        "VMS   installation of new units",
+        "Vessel owner",
+        "33 annualized (100/3)",
+        "1",
+        "33 *",
+        "6 hrs",
+        "198   hrs   annualized (600  hrs /3)",
+        "*",
+        "*"
+      ],
+      [
+        "VMS installation of replacement units",
+        "Vessel owner",
+        "33 annualized (100/3)",
+        "1",
+        "33 *",
+        "6 hrs",
+        "198   hrs   annualized (600  hrs /3)",
+        "*",
+        "*"
+      ],
+      [
+        "VMS maintenance",
+        "Vessel owner",
+        "659",
+        "1",
+        "659*",
+        "4 hrs",
+        "2, 6 36  hrs",
+        "*",
+        "*"
+      ],
+      [
+        "VMS failure troubleshooting (assume 5% failure rate/year)",
+        "Vessel owner",
+        "33 ( 6 59 × 0.05)",
+        "1",
+        "33*",
+        "2 hrs",
+        "66 hrs",
+        "*",
+        "*"
+      ],
+      [
+        "Totals",
+        "",
+        "",
+        "",
+        "758 *",
+        "",
+        "3, 098   hrs",
+        "",
+        "$0*"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202402-0648-005/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Information Collection",
+        "# of Respondents /  Yr",
+        "Annual # of Responses / Respondent",
+        "Total # of Annual Responses",
+        "Cost Burden / Response",
+        "Total Annual Cost Burden"
+      ],
+      [
+        "VMS Installation - new units 1",
+        "33 annualized (100/3)",
+        "1",
+        "33 annualized (100/3)",
+        "$128 x 6  hrs  (electrician) ",
+        " $        25, 344  "
+      ],
+      [
+        "VMS installation - replacement units",
+        "33 annualized (100/3)",
+        "1",
+        "33 annualized (100/3)",
+        "$3100 + $128 x 6  hrs  (electrician)",
+        " $       127,644  "
+      ],
+      [
+        "VMS Maintenance",
+        "659",
+        "2",
+        "659 2",
+        "$720 3  (transmission costs) + $128 x 4  hrs  (electrician)",
+        " $      811,888 "
+      ],
+      [
+        "VMS failure / troubleshooting",
+        "33 (659 x 0.05)",
+        "1",
+        "33",
+        "$128 x 2  hrs  (electrician)",
+        " $           8,448 "
+      ],
+      [
+        "Totals",
+        "758",
+        " ",
+        "758",
+        " ",
+        " $       973,324  "
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202402-0648-005/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Cost Descriptions",
+        "Grade/Step",
+        "Loaded Salary /Cost",
+        "% of Effort",
+        "Fringe (if Applicable)",
+        "Total Cost to Government"
+      ],
+      [
+        "Federal Oversight program manager",
+        "ZA-4  step 4 (GS 13/14)",
+        "$280,943",
+        "3%",
+        "",
+        "$ 8, 428"
+      ],
+      [
+        "Other Federal Positions",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "enforcement technician",
+        "ZS- 4  step 4 (GS 7/8)",
+        "$ 124,818",
+        "1 2 %",
+        "",
+        "$ 14,978"
+      ],
+      [
+        "Contractor Cost",
+        "",
+        "",
+        "",
+        "",
+        "$0"
+      ],
+      [
+        "Travel",
+        "",
+        "",
+        "",
+        "",
+        "$0"
+      ],
+      [
+        "Other Costs: ",
+        "",
+        "",
+        "",
+        "",
+        "$0"
+      ],
+      [
+        "TOTAL",
+        "",
+        "",
+        "",
+        "",
+        "$ 23,406"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202402-0648-005/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Information Collection",
+        "Respondents",
+        "Responses",
+        "Burden Hours",
+        "Reason for change or adjustment"
+      ],
+      [
+        "",
+        "Current Renewal / Revision",
+        "Previous Renewal / Revision",
+        "Current Renewal / Revision",
+        "Previous Renewal / Revision",
+        "Current Renewal / Revision",
+        "Previous Renewal / Revision",
+        ""
+      ],
+      [
+        "VMS Purchase, Installation, Maintenance, Transmission Costs, & Troubleshooting",
+        "0",
+        "550",
+        "0",
+        "611",
+        "0",
+        "2476",
+        "Broken out into individual ICs for increased granularity"
+      ],
+      [
+        "VMS installation of new units",
+        "33",
+        "—",
+        "33",
+        "—",
+        "198",
+        "—",
+        "The rule adds vessels that are expected to install VMS. No new installations were expected during the last renewal period. (program change)"
+      ],
+      [
+        "VMS installation of replacement units",
+        "33",
+        "0",
+        "33",
+        "0",
+        "198",
+        "0",
+        "Change to adjust SSA and ROCIS to match. (adjustment)"
+      ],
+      [
+        "VMS Maintenance (& daily transmission costs)",
+        "659",
+        "0",
+        "659",
+        "0",
+        "2,636",
+        "0",
+        "The rule increases the annual number of vessels that would be expected to have transmission costs (program change), and there was a small increase in the average number of vessels that currently have transmission costs (adjustment)."
+      ],
+      [
+        "VMS installation, maintenance, and troubleshooting",
+        "33",
+        "0",
+        "33",
+        "0",
+        "66",
+        "0",
+        "The rule increases the number of vessels annually that would be expected to hire a technician to install, maintain, and troubleshoot VMS units (program change)."
+      ],
+      [
+        "Total for Collection",
+        "659",
+        "550",
+        "758",
+        "611",
+        "3,098",
+        "2,476",
+        " "
+      ],
+      [
+        "Difference",
+        "109",
+        "147",
+        "622",
+        " "
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202402-0648-005/raw/supporting-statement-a-1.docx",
+    "table": 6,
+    "rows": [
+      [
+        "Information Collection",
+        "Labor Costs",
+        "Miscellaneous Costs",
+        "Reason for change or adjustment"
+      ],
+      [
+        "",
+        "Current",
+        "Previous",
+        "Current",
+        "Previous",
+        ""
+      ],
+      [
+        "VMS Purchase, Installation, Maintenance, Transmission Costs, & Troubleshooting",
+        "0",
+        "0",
+        "0",
+        "812668",
+        "Broken out into individual ICs for increased granularity"
+      ],
+      [
+        "VMS installation of new units",
+        "0",
+        "—",
+        "25344",
+        "—",
+        "The rule adds vessels that are expected to install VMS. No new installations were expected during the last renewal period. (program change)"
+      ],
+      [
+        "VMS installation of replacement units",
+        "0",
+        "0",
+        "127,644",
+        "0",
+        "No change"
+      ],
+      [
+        "VMS Maintenance (& daily transmission costs)",
+        "0",
+        "0",
+        "811,888",
+        "0",
+        "The rule increases the annual number of vessels that would be expected to have transmission costs (program change), and there was a small increase in the average number of vessels that currently have transmission costs (adjustment)."
+      ],
+      [
+        "VMS installation, maintenance, and troubleshooting",
+        "0",
+        "0",
+        "8,448",
+        "0",
+        "The rule increases the number of vessels annually that would be expected to hire a technician to install, maintain, and troubleshoot VMS units (program change)."
+      ],
+      [
+        "Total for Collection",
+        "$0 ",
+        "$0 ",
+        "$973,324 ",
+        "$812,668 ",
+        " "
+      ],
+      [
+        "Difference",
+        "0",
+        "$160,656 ",
+        " "
+      ]
+    ]
+  }
+]

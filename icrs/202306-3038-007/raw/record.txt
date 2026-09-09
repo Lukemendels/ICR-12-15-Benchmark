@@ -1,0 +1,350 @@
+View Information Collection Request (ICR) Package
+Skip to main content
+An official website of the United States government
+The .gov means it's official.
+Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
+The site is secure.
+The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+Search:
+Agenda
+Reg Review
+ICR
+|
+|
+|
+|
+|
+|
+This script is used to control the display of information in this page.
+Display additional information by clicking on the following:
+All
+Brief and OIRA conclusion
+Abstract/Justification
+Legal Statutes
+Rulemaking
+FR Notices/Comments
+IC List
+Burden
+Misc.
+Common Form Info.
+Certification
+View Information Collection (IC) List
+|
+View Supporting Statement and Other Documents
+|
+|
+|
+Please note that the OMB number and expiration date may not have been determined
+when this Information Collection Request and associated Information Collection forms
+were submitted to OMB. The approved OMB number and expiration date may be found by
+clicking on the Notice of Action link below.
+View ICR - OIRA Conclusion
+OMB Control No:
+3038-0096
+|
+ICR Reference No:
+202306-3038-007
+|
+Status:
+Active
+|
+Previous ICR Reference No:
+202212-3038-001
+|
+Agency/Subagency:
+CFTC
+|
+Agency Tracking No:
+|
+Title:
+Swap Data Recordkeeping and Reporting Requirements
+|
+Type of Information Collection:
+Revision of a currently approved collection
+|
+Common Form ICR:
+No
+|
+Type of Review Request:
+Regular
+|
+|
+OIRA Conclusion Action:
+Approved without change
+|
+Conclusion Date:
+10/18/2023
+|
+Retrieve Notice of Action (NOA)
+|
+Date Received in OIRA:
+09/13/2023
+|
+Terms of Clearance:
+|
+|
+Inventory as of this Action |
+Requested |
+Previously Approved |
+Expiration Date |
+10/31/2026 |
+36 Months From Approved |
+04/30/2026 |
+Responses |
+229,693,748 |
+0 |
+229,692,016 |
+Time Burden (Hours) |
+1,463,182 |
+0 |
+1,460,357 |
+Cost Burden (Dollars) |
+0 |
+0 |
+0 |
+Abstract:
+Section 2(a)(13)(G) of the Commodity Exchange Act (“CEA”) requires that all swaps, whether cleared or uncleared, must be reported to SDRs. CEA section 21(b) directs the Commission to prescribe standards for swap data recordkeeping and reporting, which are to apply to both registered entities and counterparties involved with swaps. The Commission established these regulations in Part 45 of the Commission’s regulations. The regulations establish swap reporting and recordkeeping requirements for swap execution facilities (“SEFs”), designated contract markets (“DCMs”), swap data repositories (“SDRs”), derivatives clearing organizations (“DCOs”), swap dealers (“SDs”), major swap participants (“MSPs”), and non-SD/MSP/DCO counterparties.
+On November 25, 2020, the Commission published the final rule amending regulations in Parts 45 concerning swap data recordkeeping and reporting requirements (“Swap Data Reporting Rule”). Regulation 45.7 requires swaps to be identified in all recordkeeping and all swap data reporting by means of a Unique Product Identifier (“UPI”) and product classification system after the Commission designates a UPI and product classification system that satisfies the requirements set forth in the section. As part of that rulemaking, the Commission provided that the burden for the product fields reported in place of UPIs would be accounted for as part of the burden estimates associated with §§ 45.3 and 45.4 until the Commission designated a UPI.
+On February 24, 2023, the Commission issued an order designating a UPI and product classification system to be used in swap recordkeeping and data reporting for swaps in the credit, equity, foreign exchange, and interest rate asset classes.
+Now that the Commission has designated a UPI and product classification system for certain asset classes, the Commission is revising Information Collection 3038-0096 to take into account the revised burden associated with reporting pursuant to the newly designated UPI and product classification system, in compliance with the Paperwork Reduction Act (“PRA”) and Office of Management and Budget (“OMB”) regulations. These information collection requirements impact SDRs, SEFs, DCMs, and reporting counterparties that report swap data for the Commission to perform its regulatory duties of risk monitoring and ensuring compliance with its rules, among other items. As part of this update, the Commission is addressing the burden estimates pertaining to information collections for § 45.7.
+|
+Authorizing Statute(s):
+US Code:
+7 USC 2(a), and 21(b)
+Name of Law: CEA
+
+PL:
+Pub.L. 111 - 203 124 Stat. 1376 (2010)
+Name of Law: Dodd-Frank Act
+
+|
+Citations for New Statutory Requirements:
+PL: Pub.L. 111 - 203 124 Stat. 1376 (2010) Name of Law: Dodd-Frank Act
+|
+Associated Rulemaking Information
+|
+RIN: |
+Stage of Rulemaking: |
+Federal Register Citation: |
+Date: |
+|
+Not associated with rulemaking
+|
+|
+|
+Federal Register Notices & Comments
+|
+60-day Notice:
+|
+Federal Register Citation:
+|
+Citation Date:
+|
+
+|
+88 FR 43086
+|
+07/06/2023
+|
+30-day Notice:
+|
+Federal Register Citation:
+|
+Citation Date:
+|
+|
+88 FR 62774
+|
+09/13/2023
+|
+Did the Agency receive public comments on this ICR?
+No
+|
+Number of Information Collection (IC) in this ICR:
+4
+|
+IC Title |
+Form No. |
+Form Name |
+Correcting errors in swap data verification of swap data accuracy (17 CFR 45.14)
+|
+Swap Data Error Correction Form |
+Swap Data Error Correction Form
+|
+Exemption from Derivatives Clearing Organization Registration
+|
+|
+|
+Swap Data Recordkeeping and Reporting Requirements
+|
+|
+|
+Update Systems to Obtain and Transmit UPIs
+|
+|
+|
+|
+ICR Summary of Burden
+|
+Total Approved |
+Previously Approved |
+Change Due to New Statute |
+Change Due to Agency Discretion |
+Change Due to Adjustment in Estimate |
+Change Due to Potential Violation of the PRA |
+Annual Number of Responses |
+229,693,748 |
+229,692,016 |
+0 |
+0 |
+1,732 |
+0 |
+Annual Time Burden (Hours) |
+1,463,182 |
+1,460,357 |
+0 |
+0 |
+2,825 |
+0 |
+Annual Cost Burden (Dollars) |
+0 |
+0 |
+0 |
+0 |
+0 |
+0 |
+Burden increases because of Program Change due to Agency Discretion:
+No
+|
+Burden Increase Due to:
+|
+Burden decreases because of Program Change due to Agency Discretion:
+No
+|
+Burden Reduction Due to:
+|
+Short Statement:
+The Commission is revising its burden hours and hourly labor cost estimates following the Commission’s designation of a UPI and product classification system for certain asset classes. The Commission is revising its burden estimates associated with the reporting obligations under Part 45 of the Commission rules to account for new burden associated with the requirements of Part 45.7. These changes result in an incremental increase of 1,093 burden hours for reporting along with $101,992 in associated labor costs under IC 1: “Swap Data Recordkeeping and Reporting Requirements.” These revisions do not impact the estimates for recordkeeping hours under IC 1 “Swap Data Recordkeeping and Reporting Requirements” or any of the burden hour estimates under IC 2 titled “Exemption from Derivatives Clearing Organization Registration” or IC 3 titled “Correcting errors in swap data verification of swap data accuracy (17 CFR 45.14).” In addition, the Commission is adding a second new IC titled “Update Systems to Obtain and Transmit UPIs” to reflect the addition of an estimated 1,732 burden hours and an associated $161,620 in labor costs associated with the work necessary to update update systems to retrieve and transmit UPIs. As a result, this revision results in an overall increase of 2,825 hours annually, yielding a new aggregate burden of 1,463,182 total burden hours for the Collection (as compared to the previously approved total of 1,460,357 burden hours).
+|
+Annual Cost to Federal Government:
+$0
+|
+Does this IC contain surveys, censuses, or employ statistical methods?
+No
+|
+Does this ICR request any personally identifiable information (see OMB Circular No. A-130 for an explanation of this term)? Please consult with your agency's privacy program when making this determination.
+
+No
+|
+Does this ICR include a form that requires a Privacy Act Statement (see 5 U.S.C. §552a(e)(3) )? Please consult with your agency's privacy program when making this determination.
+
+No
+|
+Is this ICR related to the Affordable Care Act [Pub. L. 111-148 & 111-152]?
+No
+|
+Is this ICR related to the Dodd-Frank Wall Street Reform and Consumer Protection Act, [Pub. L. 111-203]?
+Yes
+|
+Is this ICR related to the American Recovery and Reinvestment Act of 2009 (ARRA)?
+No
+|
+Is this ICR related to the Pandemic Response?
+No
+|
+Agency Contact:
+Kenny Wright 202 326-2907 kwright@ftc.gov
+|
+Common Form ICR:
+No
+|
+On behalf of this Federal agency, I certify that the collection of information encompassed by this request complies with 5 CFR 1320.9 and the related provisions of 5 CFR 1320.8(b)(3).
+|
+The following is a summary of the topics, regarding the proposed collection of information, that the certification covers:
+|
+|
+|
+(a) It is necessary for the proper performance of agency functions;
+|
+|
+|
+(b) It avoids unnecessary duplication;
+|
+|
+|
+(c) It reduces burden on small entities;
+|
+|
+|
+(d) It uses plain, coherent, and unambiguous language that is understandable to respondents;
+|
+|
+|
+(e) Its implementation will be consistent and compatible with current reporting and recordkeeping practices;
+|
+|
+|
+(f) It indicates the retention periods for recordkeeping requirements;
+|
+|
+|
+(g) It informs respondents of the information called for under 5 CFR 1320.8 (b)(3) about:
+|
+|
+|
+(i) Why the information is being collected; |
+|
+|
+(ii) Use of information; |
+|
+|
+(iii) Burden estimate; |
+|
+|
+(iv) Nature of response (voluntary, required for a benefit, or mandatory); |
+|
+|
+(v) Nature and extent of confidentiality; and |
+|
+|
+(vi) Need to display currently valid OMB control number; |
+|
+|
+(h) It was developed by an office that has planned and allocated resources for the efficient and effective management and use of the information to be collected.
+|
+|
+|
+(i) It uses effective and efficient statistical survey methodology (if applicable); and
+|
+|
+|
+(j) It makes appropriate use of information technology.
+|
+If you are unable to certify compliance with any of these provisions, identify the item by leaving the box unchecked and explain the reason in the Supporting Statement.
+|
+Certification Date:
+09/13/2023
+|
+|
+|
+|
+|
+|
+Something went wrong when downloading this file. If you have any questions, please send an email to risc@gsa.gov.
+Reginfo.gov
+An official website of the U.S. General Services Administration and the Office of Management and Budget
+About Us
+About GSA
+About OIRA
+Related Resources
+Disclosure
+Accessibility
+FOIA
+Privacy Policy
+Contact Us
+Looking for U.S. government
+information and services?
+
+Visit USA.gov
+|
+|

@@ -1,0 +1,210 @@
+{
+  "icr_id": "202505-1218-008",
+  "omb_control_number": "1218-0129",
+  "agency": "DOL/OSHA",
+  "title": "Benzene Standard (29 CFR 1910.1028)",
+  "submission_date": "01/26/2026",
+  "archetype": "benzene exposure monitoring and medical surveillance",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 6,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0133",
+    "SRC-0132"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 11,
+    "segmentation": 14,
+    "labor": 7,
+    "item13": 7,
+    "item14": 7,
+    "item15": 8,
+    "validation": 3,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "CFR activity and medical/exposure counts mostly reconstruct; cost inflation error.",
+    "provenance": "OEWS2023 SOCs, CBP2020/2022 industry growth, JOLTS2023 and CPI endpoints; legacy coefficients remain.",
+    "segmentation": "Industry, exposure class, examination type and job role segmented.",
+    "labor": "Three SOC rates divided by.704 wage share; occupational choice explicit.",
+    "item13": "Samples and examinations priced separately; recurrent services mislabeled capital and exam price update inconsistent.",
+    "item14": "Explicit exclusion of inspection investigations; zero depends on stated narrow collection scope.",
+    "item15": "Old/new activity table exactly explains452-hour decline, with cost and population reasons.",
+    "validation": "Administrative exposure baseline plus official proxies; inherited shares lack current validation.",
+    "consistency": "Hour bridge coherent;2.46% medical price claim does not produce227 from204."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Exposure notice",
+        null,
+        null,
+        1646
+      ],
+      [
+        "Compliance program",
+        null,
+        null,
+        3068
+      ],
+      [
+        "Medical examinations",
+        47679,
+        null,
+        95480
+      ],
+      [
+        "Physician information",
+        47679,
+        null,
+        3973
+      ],
+      [
+        "Physician opinion",
+        47679,
+        null,
+        3973
+      ],
+      [
+        "Monitoring records",
+        null,
+        null,
+        1636
+      ],
+      [
+        "Medical records",
+        47679,
+        null,
+        3973
+      ],
+      [
+        "Access",
+        null,
+        null,
+        397
+      ]
+    ],
+    "labor": {
+      "wages": {
+        "51-1011": 34.48,
+        "51-0000": 22.9,
+        "43-6014": 21.87
+      },
+      "loaded": [
+        48.98,
+        32.53,
+        31.07
+      ],
+      "wage_share": 0.704,
+      "year": 2023,
+      "accessed": "2025-02-12"
+    },
+    "item13": {
+      "monitor_samples": [
+        122,
+        18405,
+        1227
+      ],
+      "sample_price": 63,
+      "medical_exams": [
+        24038,
+        23580,
+        61
+      ],
+      "medical_price": 227,
+      "reported": 12067635,
+      "subtype": "recurring purchased services despite capital label"
+    },
+    "item14": {
+      "reported": 0,
+      "reason": "Records disclosure during open investigation excluded under5CFR1320.4(a)(2)"
+    },
+    "item15": {
+      "old_hours": 114598,
+      "new_hours": 114146,
+      "activity_deltas": [
+        26,
+        31,
+        -466,
+        -19,
+        -19,
+        16,
+        -19,
+        -2
+      ],
+      "old_cost": 10958889,
+      "new_cost": 12067635,
+      "old_exposed": 69742,
+      "new_exposed": 65499
+    },
+    "assumptions": [
+      "36.7% annual JOLTS manufacturing separations proxy new exposed workers.",
+      "36% of exposed workers receive periodic exams; referrals.26% of those.",
+      "1%initial monitoring and10%additional monitoring facilities inherited."
+    ]
+  },
+  "reconstruction_issues": [
+    "204*(1+.0246)=209.0184, not227; claimed2.46% CPI transformation inconsistent.",
+    "Medical services CPI used to update monitoring sampler price without economic justification.",
+    "High-authority CBP growth does not independently validate inherited exposed-worker shares."
+  ],
+  "methods_worth_testing": [
+    "Preserve SOC codes, wage share and industry-specific population updates.",
+    "Activity-level Item15 bridge.",
+    "Separate worker examination time from purchased physician services."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "1646+3068+95480+3973+3973+1636+3973+397",
+      "calculated": 114146,
+      "reported": 114146,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0133"
+    },
+    {
+      "label": "Nonlabor",
+      "formula": "(122+18405+1227)*63+(24038+23580+61)*227",
+      "calculated": 12067635,
+      "reported": 12067635,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact at asserted prices.",
+      "source_id": "SRC-0133"
+    },
+    {
+      "label": "Change",
+      "formula": "sum([26,31,-466,-19,-19,16,-19,-2])",
+      "calculated": -452,
+      "reported": -452,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0133"
+    },
+    {
+      "label": "Medical price inflation",
+      "formula": "204*1.0246",
+      "calculated": 209.01839999999999,
+      "reported": 227,
+      "difference": -17.981600000000014,
+      "unit": "USD/exam",
+      "interpretation": "Material price transformation discrepancy.",
+      "source_id": "SRC-0133"
+    }
+  ],
+  "total_score": 77
+}

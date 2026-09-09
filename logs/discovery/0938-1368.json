@@ -1,0 +1,22 @@
+{
+  "query": "0938-1368",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&ombControlNumber=0938-1368",
+  "rows": [
+    {
+      "refs": [
+        "202405-0938-022"
+      ],
+      "text": "0938-1368\n|\nHHS/CMS\n|\nProposed Prior Authorization Process and Requirements for Certain Hospital Outpatient Department (OPD) Services (CMS-10711)\n|\nExtension without change of a currently approved collection\n|\n05/24/2024\n|\n11/18/2024\n|\nApproved without change\n|\n11/30/2027\n|\n2\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202607-0938-012"
+      ],
+      "text": "0938-1368\n|\nHHS/CMS\n|\nPrior Authorization Process and Requirements for Certain Hospital Outpatient Department (OPD) Services (CMS-10711)\n|\nRevision of a currently approved collection\n|\n07/14/2026\n|\n|\n\n|\n11/30/2027\n|\n2\n|\n0\n|"
+    }
+  ],
+  "all_refs": [
+    "202405-0938-022",
+    "202607-0938-012"
+  ]
+}

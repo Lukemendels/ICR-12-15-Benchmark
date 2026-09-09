@@ -1,0 +1,411 @@
+[
+  {
+    "file": "icrs/202505-2060-004/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "108",
+        "Manager $123.48 per hour",
+        "Technician   $88.80 per hour",
+        "Respondent hours per year",
+        "Respondent labor cost per year",
+        "Number of respondents / transactions",
+        "Total hours per year",
+        "Total cost per year"
+      ],
+      [
+        "Registration-related burden and costs"
+      ],
+      [
+        "Certificate of representation updates 1",
+        "0.50",
+        "0.50",
+        "1",
+        "$106",
+        "45",
+        "45",
+        "$4,770"
+      ],
+      [
+        "Retired unit exemption forms 2",
+        "1",
+        "1",
+        "2",
+        "$212",
+        "14",
+        "28",
+        "$2,968"
+      ],
+      [
+        "Allowance-related burden and costs"
+      ],
+      [
+        "Allowance transfer form submissions 3",
+        "1",
+        "1",
+        "2",
+        "$212",
+        "1 , 214",
+        "2,428",
+        "$257,368"
+      ],
+      [
+        "Allowance deduction form submissions 4",
+        "1",
+        "2",
+        "3",
+        "$301",
+        "218",
+        "654",
+        "$65,618"
+      ],
+      [
+        "Emissions-related burden and costs"
+      ],
+      [
+        "Review of regulations 5",
+        "4",
+        "4",
+        "8",
+        "$849",
+        "136",
+        "1,088",
+        "$115,464"
+      ],
+      [
+        "Response to error messages 6",
+        "6",
+        "18",
+        "24",
+        "$2,339",
+        "450",
+        "10,800",
+        "$1,052,550"
+      ],
+      [
+        "DAHS debugging 6",
+        "4",
+        "12",
+        "16",
+        "$ 1,560",
+        "450",
+        "7,200",
+        "$ 702,000"
+      ],
+      [
+        "Recertification of monitors by monitoring approach 7"
+      ],
+      [
+        "Solid fuel units: SO 2  CEMS (where needed), NO X  CEMS, and stack flow CEMS",
+        "15",
+        "48",
+        "63",
+        "$6,115",
+        "1",
+        "63",
+        "$6,115"
+      ],
+      [
+        "Gas/oil units: NO X  CEMS and Appendix D fuel monitoring",
+        "10",
+        "32",
+        "42",
+        "$4,076",
+        "9",
+        "378",
+        "$36,684"
+      ],
+      [
+        "Gas/oil peaking units: Appendix D fuel monitoring, Appendix E, or LME methods",
+        "8",
+        "24",
+        "32",
+        "$3,119",
+        "33",
+        "1,056",
+        "$102,927"
+      ],
+      [
+        "Start-up/capital costs, performance of QA testing and maintenance, by monitoring approach 8"
+      ],
+      [
+        "Solid fuel units: SO 2  CEMS (where needed), NO X  CEMS, and stack flow CEMS",
+        "50",
+        "480",
+        "530",
+        "$48,798",
+        "17",
+        "9,010",
+        "$829,566"
+      ],
+      [
+        "Gas/oil units: NO X  CEMS and Appendix D fuel monitoring",
+        "20",
+        "375",
+        "395",
+        "$35,770",
+        "99",
+        "39,105",
+        "$3,541,230"
+      ],
+      [
+        "Gas/oil peaking units: Appendix D fuel monitoring, Appendix E, or LME methods",
+        "5",
+        "30",
+        "35",
+        "$3,281",
+        "334",
+        "11,690",
+        "$1,095,854"
+      ],
+      [
+        "Data Quality assurance and preparation and submittal of quarterly reports, by reporting frequency 9"
+      ],
+      [
+        "Annual reporters (four quarterly reports/year)",
+        "16",
+        "42",
+        "58",
+        "$5,705",
+        "422",
+        "24,476",
+        "$2,407,510"
+      ],
+      [
+        "Ozone season-only reporters (two quarterly reports/year)",
+        "8",
+        "21",
+        "29",
+        "$2,853",
+        "28",
+        "812",
+        "$79,884"
+      ],
+      [
+        "Totals",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "108,833",
+        "$ 10,300,508"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202505-2060-004/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "",
+        "Manager $ 72.72 per hour",
+        "Technician $ 61.27  per hour",
+        "Respondent hours per year",
+        "Respondent labor cost per year",
+        "Responses per year",
+        "Total hours per year",
+        "Total cost per year"
+      ],
+      [
+        "State allowance allocation 1",
+        "25",
+        "75",
+        "100",
+        "$ 6,413",
+        "4",
+        "400",
+        "$ 25,652"
+      ],
+      [
+        "Totals",
+        "400",
+        "$ 25,652"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202505-2060-004/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        " ",
+        "Cont. O&M cost per year",
+        "Start-up / capital cost per year",
+        "Number of respondents / transactions",
+        "Total cost per year"
+      ],
+      [
+        "   Emissions-related burden and costs"
+      ],
+      [
+        "Recertification of monitors, by monitoring approach:  "
+      ],
+      [
+        "Solid fuel units: SO 2  CEMS (where needed), NO X  CEMS, and stack flow CEMS",
+        "$2,800 ",
+        " ",
+        "1",
+        "$2,800 "
+      ],
+      [
+        "Gas/oil units: NO X  CEMS and Appendix D fuel monitoring",
+        "$2,800 ",
+        " ",
+        "9",
+        "$25,200 "
+      ],
+      [
+        "Gas/oil peaking units: Appendix D fuel monitoring, Appendix E, or LME methods",
+        "$10,000 ",
+        " ",
+        "33",
+        "$330,000 "
+      ],
+      [
+        "Start-up/capital items and performance of QA testing and maintenance, by monitoring approach:  "
+      ],
+      [
+        "Solid fuel units: SO 2  CEMS (where needed), NO X  CEMS, and stack flow CEMS",
+        "$31,949 ",
+        "$30,282 ",
+        "17",
+        "$1,057,927 "
+      ],
+      [
+        "Gas/oil units: NO X  CEMS and Appendix D fuel monitoring",
+        "$17,818 ",
+        "$19,661 ",
+        "99",
+        "$3,710,421 "
+      ],
+      [
+        "Gas/oil peaking units: Appendix D fuel monitoring, Appendix E, or LME methods",
+        "$1,843 ",
+        "$2,359 ",
+        "334",
+        "$1,403,468 "
+      ],
+      [
+        "Totals",
+        " ",
+        " ",
+        " ",
+        "$6,529,816 "
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202505-2060-004/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "",
+        "Hours per occurrence",
+        "Cost per occurrence  ",
+        "Occurrences per year",
+        "Total hours per year",
+        "Total cost per year"
+      ],
+      [
+        "Review and processing of updated certificates of representation.",
+        "0.5",
+        "$ 47.25  ",
+        "45",
+        "2 2 .5",
+        "$ 2,126"
+      ],
+      [
+        "Review and processing of retired unit exemptions.",
+        "0.3",
+        "$2 8.35",
+        "14",
+        "4",
+        "$ 397"
+      ],
+      [
+        "Annual allocation and recordation of allowances.",
+        "200",
+        "$ 18, 898",
+        "1",
+        "200",
+        "$ 18, 898"
+      ],
+      [
+        "Review and recordation of allowance transfers and notification of transfer participants. 1",
+        "1",
+        "$ 94. 49",
+        "12",
+        "12",
+        "$ 1,134"
+      ],
+      [
+        "Review and recordation of allowance deductions. 2",
+        "0.5",
+        "$ 47.25",
+        "2",
+        "1",
+        "$ 9 5"
+      ],
+      [
+        "Review and processing of quarterly reports and issuance of feedback letters. 3",
+        "1",
+        "$ 94. 49",
+        "1,744",
+        "1,744",
+        "$ 164,791"
+      ],
+      [
+        "Totals",
+        "1,983.5",
+        "$ 187,441"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202505-2060-004/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Labor category ",
+        "Factors",
+        "Total"
+      ],
+      [
+        "Annual salary of technical staff, GS 13, Step 8 ",
+        "",
+        "$ 109,177"
+      ],
+      [
+        "Annual cost of supervisory staff, GS 15, Step 8 ",
+        "$ 151,748",
+        ""
+      ],
+      [
+        "Factor (1/11) applied to cost of supervisory staff",
+        "0.09",
+        ""
+      ],
+      [
+        " ",
+        "",
+        "$ 13,657.32  "
+      ],
+      [
+        "Benefits",
+        "1.6",
+        ""
+      ],
+      [
+        "Total cost per FTE ",
+        "",
+        "$ 196,534.91  "
+      ],
+      [
+        "Total hourly cost (total cost per FTE divided by 2,080 hours per year)",
+        "",
+        "$ 94. 49  "
+      ]
+    ]
+  }
+]

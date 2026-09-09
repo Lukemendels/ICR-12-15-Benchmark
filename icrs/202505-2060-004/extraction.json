@@ -1,0 +1,273 @@
+{
+  "icr_id": "202505-2060-004",
+  "omb_control_number": "2060-0667",
+  "agency": "EPA/OAR",
+  "title": "Cross-State Air Pollution Rule and Texas SO2 Trading Programs (Renewal)",
+  "submission_date": "05/30/2025",
+  "archetype": "emissions monitoring and allowance markets",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 6,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0116",
+    "SRC-0115"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 9,
+    "segmentation": 14,
+    "labor": 6,
+    "item13": 7,
+    "item14": 8,
+    "item15": 5,
+    "validation": 3,
+    "consistency": 4
+  },
+  "score_rationale": {
+    "reproducibility": "Task-level manager and technical hours reconstruct workload; costs use rounded unit dollars.",
+    "provenance": "ECI endpoints and ECEC cited, but original industry wage basis and legacy equipment model inputs incomplete.",
+    "segmentation": "Monitoring technologies, sources and state processing separated.",
+    "labor": "Two private and two state rates; ECI updating explicit but base loading not reproduced.",
+    "item13": "Equipment and recurring test contracts separated; annual capital unit costs lack useful-life/principal derivation.",
+    "item14": "GS13/8 plus supervisory allocation, workload and shared-system exclusion explicit.",
+    "item15": "Net changes and reasons but not a quantified driver decomposition.",
+    "validation": "Utility consultation and observed program populations; limited reproducible uncertainty.",
+    "consistency": "Hours and cost rows largely reconcile; state/federal and shared program boundaries explicit."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "COR",
+        45,
+        1,
+        45
+      ],
+      [
+        "Retired units",
+        14,
+        2,
+        28
+      ],
+      [
+        "Transfers",
+        1214,
+        2,
+        2428
+      ],
+      [
+        "Deductions",
+        218,
+        3,
+        654
+      ],
+      [
+        "Review",
+        136,
+        8,
+        1088
+      ],
+      [
+        "Errors",
+        450,
+        24,
+        10800
+      ],
+      [
+        "DAHS",
+        450,
+        16,
+        7200
+      ],
+      [
+        "Solid recertification",
+        1,
+        63,
+        63
+      ],
+      [
+        "Gas recertification",
+        9,
+        42,
+        378
+      ],
+      [
+        "Peaking recertification",
+        33,
+        32,
+        1056
+      ],
+      [
+        "Solid QA",
+        17,
+        530,
+        9010
+      ],
+      [
+        "Gas QA",
+        99,
+        395,
+        39105
+      ],
+      [
+        "Peaking QA",
+        334,
+        35,
+        11690
+      ],
+      [
+        "Quarterly reports",
+        422,
+        58,
+        24476
+      ],
+      [
+        "Season reports",
+        28,
+        29,
+        812
+      ],
+      [
+        "State processing",
+        4,
+        100,
+        400
+      ]
+    ],
+    "labor": {
+      "private_manager": 123.48,
+      "private_technical": 88.8,
+      "state_manager": 72.72,
+      "state_technical": 61.27,
+      "update": "ECI September2020 toMarch2024; state ECEC March2024",
+      "reported_labor": 10326160
+    },
+    "item13": {
+      "reported": 6529816,
+      "recertification": {
+        "solid": [
+          1,
+          2800
+        ],
+        "gas": [
+          9,
+          2800
+        ],
+        "peaking": [
+          33,
+          10000
+        ]
+      },
+      "technology_costs": [
+        [
+          "solid",
+          17,
+          31949,
+          30282
+        ],
+        [
+          "gas",
+          99,
+          17818,
+          19661
+        ],
+        [
+          "peaking",
+          334,
+          1843,
+          2359
+        ]
+      ],
+      "columns": [
+        "technology",
+        "units",
+        "annual_om",
+        "annual_capital"
+      ],
+      "life": null
+    },
+    "item14": {
+      "rate_formula": "(109177+151748*.09)*1.6/2080",
+      "rate": 94.49,
+      "hours": 1983.5,
+      "reported": 187441,
+      "shared_systems": "2.5million charged wholly to Acid Rain ICR; excluded here"
+    },
+    "item15": {
+      "hours_delta": -4279,
+      "cost_delta": 112763,
+      "reasons": [
+        "unit retirements",
+        "monitoring methods",
+        "price updates"
+      ],
+      "decomposition": null
+    },
+    "assumptions": [
+      "Technical hours from program experience and source consultation.",
+      "Legacy monitoring equipment model annual rates retained."
+    ]
+  },
+  "reconstruction_issues": [
+    "Capital unit costs cannot be regenerated without original purchase prices and useful lives.",
+    "Base private compensation rates before ECI update not fully sourced.",
+    "Net change lacks separate population, technology and price effects."
+  ],
+  "methods_worth_testing": [
+    "Separate outsourced fixed-price testing from internal labor.",
+    "Shared-system ledger across control numbers avoids double charging.",
+    "Federal supervisory time allocated explicitly."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "sum([45,28,2428,654,1088,10800,7200,63,378,1056,9010,39105,11690,24476,812,400])",
+      "calculated": 109233,
+      "reported": 109233,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0116"
+    },
+    {
+      "label": "Nonlabor",
+      "formula": "2800+9*2800+33*10000+17*(31949+30282)+99*(17818+19661)+334*(1843+2359)",
+      "calculated": 6529816,
+      "reported": 6529816,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0116"
+    },
+    {
+      "label": "Federal",
+      "formula": "1983.5*94.49",
+      "calculated": 187420.91499999998,
+      "reported": 187441,
+      "difference": -20.085000000020955,
+      "unit": "USD",
+      "interpretation": "Rounded unit dollars and hours.",
+      "source_id": "SRC-0116"
+    },
+    {
+      "label": "Loaded federal rate",
+      "formula": "(109177+151748*.09)*1.6/2080",
+      "calculated": 94.48793846153846,
+      "reported": 94.49,
+      "difference": -0.002061538461532564,
+      "unit": "USD/hour",
+      "interpretation": "Close rounding; .09 approximates1/11.",
+      "source_id": "SRC-0116"
+    }
+  ],
+  "total_score": 73
+}

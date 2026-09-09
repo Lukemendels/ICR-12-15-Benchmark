@@ -1,245 +1,194 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202405-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 1 .  Hour Burden Cost to Flight Training Candidates",
-      "rows": [
-        {
-          "text_line": 92,
-          "cells": [
-            "Collection Activity",
-            "Responses",
-            "Number of Annual Responses",
-            "Hour Burden Per Response",
-            "Total Hour Burden",
-            "Total Annual Hour Burden Cost"
-          ]
-        },
-        {
-          "text_line": 93,
-          "cells": [
-            "",
-            "Year 1",
-            "Year 2",
-            "Year 3",
-            "a",
-            "b",
-            "c = a \u00d7 b",
-            "d = c \u00d7 $41.51"
-          ]
-        },
-        {
-          "text_line": 94,
-          "cells": [
-            "Applications  (with new or renewing STA)",
-            "30,847 ",
-            "13,611 ",
-            "13,611 ",
-            "            19,356 ",
-            "0.75 ",
-            "           14,517 ",
-            "$602,547"
-          ]
-        },
-        {
-          "text_line": 95,
-          "cells": [
-            "Training  event notifications   (with existing STA)",
-            "14,329 ",
-            "31,643 ",
-            "31,794 ",
-            "            25,922 ",
-            "0.58 ",
-            "           15,121 ",
-            "$627,611"
-          ]
-        },
-        {
-          "text_line": 96,
-          "cells": [
-            "Total",
-            "\u00a0",
-            "\u00a0",
-            "\u00a0",
-            "          45,278 ",
-            "\u00a0",
-            "           29,638 ",
-            "$1,230,158"
-          ]
-        }
+[
+  {
+    "file": "icrs/202405-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Table 1 .  Hour Burden Cost to Flight Training Candidates"
+      ],
+      [
+        "Collection Activity",
+        "Responses",
+        "Number of Annual Responses",
+        "Hour Burden Per Response",
+        "Total Hour Burden",
+        "Total Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "Year 1",
+        "Year 2",
+        "Year 3",
+        "a",
+        "b",
+        "c = a × b",
+        "d = c × $41.51"
+      ],
+      [
+        "Applications  (with new or renewing STA)",
+        "30,847 ",
+        "13,611 ",
+        "13,611 ",
+        "            19,356 ",
+        "0.75 ",
+        "           14,517 ",
+        "$602,547"
+      ],
+      [
+        "Training  event notifications   (with existing STA)",
+        "14,329 ",
+        "31,643 ",
+        "31,794 ",
+        "            25,922 ",
+        "0.58 ",
+        "           15,121 ",
+        "$627,611"
+      ],
+      [
+        "Total",
+        " ",
+        " ",
+        " ",
+        "          45,278 ",
+        " ",
+        "           29,638 ",
+        "$1,230,158"
       ]
-    },
-    {
-      "source_file": "icrs/202405-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 2. Hour Burden Cost to Flight Training Providers",
-      "rows": [
-        {
-          "text_line": 112,
-          "cells": [
-            "Collection",
-            "Responses",
-            "Number of Annual Responses",
-            "Hour Burden Per Response",
-            "Total Hour Burden",
-            "Compensation Rate  ",
-            "Total Annual Hour Burden Cost"
-          ]
-        },
-        {
-          "text_line": 113,
-          "cells": [
-            "",
-            "Year 1",
-            "Year 2",
-            "Year 3",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "text_line": 114,
-          "cells": [
-            "",
-            "",
-            "",
-            "",
-            "a",
-            "b",
-            "",
-            "c",
-            "d = a \u00d7 b \u00d7 c"
-          ]
-        },
-        {
-          "text_line": 115,
-          "cells": [
-            "Security Coordinator Submission",
-            "CFI and Clubs",
-            "30,975 ",
-            "3,994 ",
-            "4,100 ",
-            "13,023 ",
-            "0.25 00",
-            "3,2 5 6",
-            "$61.27",
-            "$199,463"
-          ]
-        },
-        {
-          "text_line": 116,
-          "cells": [
-            "",
-            "Large",
-            "1,122 ",
-            "126 ",
-            "125 ",
-            "458 ",
-            "",
-            "115",
-            "$95.94",
-            "$10,981"
-          ]
-        },
-        {
-          "text_line": 117,
-          "cells": [
-            "Recordkeeping of Security Awareness Training",
-            "CFI and Clubs",
-            "41,378 ",
-            "5,435 ",
-            "38,742 ",
-            "28,518 ",
-            "0.0167",
-            "476",
-            "$61.27",
-            "$29,120"
-          ]
-        },
-        {
-          "text_line": 118,
-          "cells": [
-            "",
-            "Large",
-            "9,624 ",
-            "1,333 ",
-            "8,957 ",
-            "6,638 ",
-            "",
-            "111",
-            "$30.62",
-            "$3,387"
-          ]
-        },
-        {
-          "text_line": 119,
-          "cells": [
-            "Total",
-            "",
-            "",
-            "",
-            "48,637",
-            "",
-            "3,958",
-            "",
-            "$242,952"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202405-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Collection",
+        "Responses",
+        "Number of Annual Responses",
+        "Hour Burden Per Response",
+        "Total Hour Burden",
+        "Compensation Rate  ",
+        "Total Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "Year 1",
+        "Year 2",
+        "Year 3",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "a",
+        "b",
+        "",
+        "c",
+        "d = a × b × c"
+      ],
+      [
+        "Security Coordinator Submission",
+        "CFI and Clubs",
+        "30,975 ",
+        "3,994 ",
+        "4,100 ",
+        "13,023 ",
+        "0.25 00",
+        "3,2 5 6",
+        "$61.27",
+        "$199,463"
+      ],
+      [
+        "",
+        "Large",
+        "1,122 ",
+        "126 ",
+        "125 ",
+        "458 ",
+        "",
+        "115",
+        "$95.94",
+        "$10,981"
+      ],
+      [
+        "Recordkeeping of Security Awareness Training",
+        "CFI and Clubs",
+        "41,378 ",
+        "5,435 ",
+        "38,742 ",
+        "28,518 ",
+        "0.0167",
+        "476",
+        "$61.27",
+        "$29,120"
+      ],
+      [
+        "",
+        "Large",
+        "9,624 ",
+        "1,333 ",
+        "8,957 ",
+        "6,638 ",
+        "",
+        "111",
+        "$30.62",
+        "$3,387"
+      ],
+      [
+        "Total",
+        "",
+        "",
+        "",
+        "48,637",
+        "",
+        "3,958",
+        "",
+        "$242,952"
       ]
-    },
-    {
-      "source_file": "icrs/202405-1652-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 3.  Fees and Other Annualized Costs",
-      "rows": [
-        {
-          "text_line": 128,
-          "cells": [
-            "Activity",
-            "Annual Number of Instances",
-            "Fee ",
-            "Annual Cost"
-          ]
-        },
-        {
-          "text_line": 129,
-          "cells": [
-            "",
-            "a",
-            "b",
-            "c = a x b"
-          ]
-        },
-        {
-          "text_line": 130,
-          "cells": [
-            "Standard (Regular Processing) STA Fee",
-            "19,112",
-            "$140.00",
-            "$2,675,630"
-          ]
-        },
-        {
-          "text_line": 131,
-          "cells": [
-            "Reduced STA Fee  (for eligible candidates)",
-            "245",
-            "$125.00",
-            "$30,582"
-          ]
-        },
-        {
-          "text_line": 132,
-          "cells": [
-            "Total",
-            "19,356",
-            "",
-            "$2,706,212"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202405-1652-001/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Table 3.  Fees and Other Annualized Costs"
+      ],
+      [
+        "Activity",
+        "Annual Number of Instances",
+        "Fee ",
+        "Annual Cost"
+      ],
+      [
+        "",
+        "a",
+        "b",
+        "c = a x b"
+      ],
+      [
+        "Standard (Regular Processing) STA Fee",
+        "19,112",
+        "$140.00",
+        "$2,675,630"
+      ],
+      [
+        "Reduced STA Fee  (for eligible candidates)",
+        "245",
+        "$125.00",
+        "$30,582"
+      ],
+      [
+        "Total",
+        "19,356",
+        "",
+        "$2,706,212"
       ]
-    }
-  ]
-}
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+{
+  "icr_id": "202402-0648-005",
+  "omb_control_number": "0648-0445",
+  "agency": "DOC/NOAA",
+  "title": "NMFS Alaska Region Vessel Monitoring System (VMS) Program",
+  "submission_date": "02/20/2024",
+  "archetype": "vessel monitoring systems",
+  "complexity": "high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 6,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0127",
+    "SRC-0126"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 17,
+    "provenance": 10,
+    "segmentation": 13,
+    "labor": 3,
+    "item13": 7,
+    "item14": 7,
+    "item15": 7,
+    "validation": 3,
+    "consistency": 3
+  },
+  "score_rationale": {
+    "reproducibility": "Four activity calculations explicit; initial rounding and automatic-response boundary need qualification.",
+    "provenance": "Vendor range, local technician quotes and CAPS2024 identified; some prices not linked.",
+    "segmentation": "New, replacement, maintenance and failure activities separated.",
+    "labor": "Owner presence hours assigned zero labor cost because technician paid in Item13; distinct owner opportunity cost unvalued.",
+    "item13": "Equipment, service and repair costs explicit, but reimbursements netted and higher reporting-frequency scenarios unsupported.",
+    "item14": "Two federal grades, FTE shares and52% load; equipment reimbursements omitted from cost boundary.",
+    "item15": "Old/new by activity, with program versus adjustment explanations; combined effects not fully decomposed.",
+    "validation": "Three local technician quotes and known fleet, but service-price offset assumption untested.",
+    "consistency": "Main arithmetic reconciles at rounded counts; maintenance frequency and response definition conflict."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "New installations",
+        33,
+        6,
+        198
+      ],
+      [
+        "Replacements",
+        33,
+        6,
+        198
+      ],
+      [
+        "Maintenance",
+        659,
+        4,
+        2636
+      ],
+      [
+        "Failures",
+        33,
+        2,
+        66
+      ]
+    ],
+    "labor": {
+      "owner_labor_cost": 0,
+      "reason_in_document": "Owner present but technician charges in Item13",
+      "technician_price": 128,
+      "informal_quotes": [
+        115,
+        135,
+        142
+      ]
+    },
+    "item13": {
+      "new_technician": 25344,
+      "replacement_equipment_and_technician": 127644,
+      "maintenance_and_transmission": 811888,
+      "failure": 8448,
+      "reported": 973324,
+      "equipment": 3100,
+      "monthly_service": 60,
+      "months": 12,
+      "new_equipment_reimbursed": true,
+      "price_range": [
+        2500,
+        3200
+      ],
+      "high_frequency_monthly_service": 190
+    },
+    "item14": {
+      "pay_system": "CAPS2024",
+      "rows": [
+        [
+          "ZA4 step4",
+          280943,
+          0.03,
+          8428
+        ],
+        [
+          "ZS4 step4",
+          124818,
+          0.12,
+          14978
+        ]
+      ],
+      "load": 0.52,
+      "reported": 23406,
+      "reimbursements_included": false
+    },
+    "item15": {
+      "old": [
+        550,
+        611,
+        2476,
+        812668
+      ],
+      "new": [
+        659,
+        758,
+        3098,
+        973324
+      ],
+      "columns": [
+        "respondents",
+        "responses",
+        "hours",
+        "nonlabor"
+      ],
+      "new_rule_vessels": 100
+    },
+    "assumptions": [
+      "100 installations and replacements over3 years rounded to33 per year.",
+      "Failures5% of659.",
+      "All vessels charged12months at low service rate; longer season said to offset high-frequency price without quantification."
+    ]
+  },
+  "reconstruction_issues": [
+    "Owner time and technician purchases are different resources; zero owner cost is not justified by paying a technician.",
+    "659*2 maintenance frequency table does not match659 response count.",
+    "Gross new equipment costs are excluded through reimbursement while federal Item14 omits reimbursement outlay; show resource cost and transfer separately.",
+    "100/3 rounded before multiplying six hours understates each cohort by2 hours/year."
+  ],
+  "methods_worth_testing": [
+    "Supplier-price ranges and technician location evidence.",
+    "Asset replacement, recurring service and failure rates modeled separately."
+  ],
+  "checks": [
+    {
+      "label": "Hours",
+      "formula": "33*6+33*6+659*4+33*2",
+      "calculated": 3098,
+      "reported": 3098,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact at rounded counts.",
+      "source_id": "SRC-0127"
+    },
+    {
+      "label": "Costs",
+      "formula": "33*6*128+33*(3100+6*128)+659*(720+4*128)+33*2*128",
+      "calculated": 973324,
+      "reported": 973324,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0127"
+    },
+    {
+      "label": "Federal",
+      "formula": "280943*.03+124818*.12",
+      "calculated": 23406.449999999997,
+      "reported": 23406,
+      "difference": 0.4499999999970896,
+      "unit": "USD",
+      "interpretation": "Dollar rounding.",
+      "source_id": "SRC-0127"
+    },
+    {
+      "label": "Hour change",
+      "formula": "3098-2476",
+      "calculated": 622,
+      "reported": 622,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0127"
+    }
+  ],
+  "total_score": 70
+}

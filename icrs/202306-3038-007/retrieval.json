@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202306-3038-007",
+  "retrieved_at": "2026-09-09T11:20:28.680168+00:00",
+  "documents": [
+    {
+      "title": "2023 Supporting Statement 3038-0096 (UPI Revision).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=135166801",
+      "path": "icrs/202306-3038-007/raw/supporting-statement-a-1.docx",
+      "sha256": "477b486b5302d5e6505bd76ce6e8cc40d0e48eae0158dda7b6a253f35655215f",
+      "text_chars": 27897
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202306-3038-007",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202306-3038-007",
+  "agency": "CFTC",
+  "title": "Swap Data Recordkeeping and Reporting Requirements",
+  "omb_control_number": "3038-0096",
+  "submission_date": "09/13/2023",
+  "record_source_id": "SRC-0124",
+  "supporting_statement_source_ids": [
+    "SRC-0125"
+  ]
+}

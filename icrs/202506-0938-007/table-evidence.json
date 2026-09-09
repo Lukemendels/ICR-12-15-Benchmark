@@ -1,144 +1,96 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202506-0938-007/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Burden Estimates (Hours & Cost)",
-      "rows": [
-        {
-          "text_line": 90,
-          "cells": [
-            "Number of hospital facilities (as of  1 2 / 27 /202 4 )",
-            "6,0 44"
-          ]
-        }
+[
+  {
+    "file": "icrs/202506-0938-007/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        ""
+      ],
+      [
+        "Number of hospital facilities (as of  1 2 / 27 /202 4 )",
+        "6,0 44"
+      ],
+      [
+        ""
+      ],
+      [
+        "Hours burden per facility to complete the cost report:",
+        "67 5"
+      ],
+      [
+        "",
+        "Number of hours of reporting",
+        "137",
+        ""
+      ],
+      [
+        "",
+        "Number of hours of recordkeeping",
+        "53 8",
+        ""
+      ],
+      [
+        ""
+      ],
+      [
+        "Total hours burden (6,0 44   hospital  facilities x 67 5  hours)",
+        "4,0 7 9, 700"
+      ],
+      [
+        ""
+      ],
+      [
+        "Cost per hospital",
+        "$3 7 ,6 11 . 94"
+      ],
+      [
+        ""
+      ],
+      [
+        "Total annual cost  estimate ($3 7 ,6 11 . 94  x 6,0 44  hospitals) , rounded",
+        "$2 27 , 326 , 565"
+      ],
+      [
+        ""
+      ],
+      [
+        ""
       ]
-    },
-    {
-      "source_file": "icrs/202506-0938-007/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Burden Estimates (Hours & Cost)",
-      "rows": [
-        {
-          "text_line": 92,
-          "cells": [
-            "Hours burden per facility to complete the cost report:",
-            "67 5"
-          ]
-        },
-        {
-          "text_line": 93,
-          "cells": [
-            "",
-            "Number of hours of reporting",
-            "137",
-            ""
-          ]
-        },
-        {
-          "text_line": 94,
-          "cells": [
-            "",
-            "Number of hours of recordkeeping",
-            "53 8",
-            ""
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202506-0938-007/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "",
+        ""
+      ],
+      [
+        "Annual cost to MACs",
+        "$ 6 4,878,604"
+      ],
+      [
+        ""
+      ],
+      [
+        "Annual cost to CMS   ",
+        "$ 7 4, 301"
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total Federal cost",
+        "$ 64,9 5 2, 905"
+      ],
+      [
+        "",
+        "",
+        ""
       ]
-    },
-    {
-      "source_file": "icrs/202506-0938-007/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Burden Estimates (Hours & Cost)",
-      "rows": [
-        {
-          "text_line": 96,
-          "cells": [
-            "Total hours burden (6,0 44   hospital  facilities x 67 5  hours)",
-            "4,0 7 9, 700"
-          ]
-        }
-      ]
-    },
-    {
-      "source_file": "icrs/202506-0938-007/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Burden Estimates (Hours & Cost)",
-      "rows": [
-        {
-          "text_line": 98,
-          "cells": [
-            "Cost per hospital",
-            "$3 7 ,6 11 . 94"
-          ]
-        }
-      ]
-    },
-    {
-      "source_file": "icrs/202506-0938-007/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Burden Estimates (Hours & Cost)",
-      "rows": [
-        {
-          "text_line": 100,
-          "cells": [
-            "Total annual cost  estimate ($3 7 ,6 11 . 94  x 6,0 44  hospitals) , rounded",
-            "$2 27 , 326 , 565"
-          ]
-        }
-      ]
-    },
-    {
-      "source_file": "icrs/202506-0938-007/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Cost to Federal Government",
-      "rows": [
-        {
-          "text_line": 122,
-          "cells": [
-            "",
-            ""
-          ]
-        },
-        {
-          "text_line": 123,
-          "cells": [
-            "Annual cost to MACs",
-            "$ 6 4,878,604"
-          ]
-        }
-      ]
-    },
-    {
-      "source_file": "icrs/202506-0938-007/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Cost to Federal Government",
-      "rows": [
-        {
-          "text_line": 125,
-          "cells": [
-            "Annual cost to CMS   ",
-            "$ 7 4, 301"
-          ]
-        },
-        {
-          "text_line": 126,
-          "cells": [
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "text_line": 127,
-          "cells": [
-            "Total Federal cost",
-            "$ 64,9 5 2, 905"
-          ]
-        },
-        {
-          "text_line": 128,
-          "cells": [
-            "",
-            "",
-            ""
-          ]
-        }
-      ]
-    }
-  ]
-}
+    ]
+  }
+]

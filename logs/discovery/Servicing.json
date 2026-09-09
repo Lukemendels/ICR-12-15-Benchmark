@@ -1,0 +1,78 @@
+{
+  "query": "Servicing",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&terms=Servicing",
+  "rows": [
+    {
+      "refs": [
+        "202407-0503-003"
+      ],
+      "text": "0503-0021\n|\nUSDA/AgSEC\n|\nGeneric Clearance for the Collection of Qualitative Feedback on Agency Service Delivery - Department\n|\nReinstatement without change of a previously approved collection\n|\n07/25/2024\n|\n08/26/2024\n|\nApproved without change\n|\n08/31/2027\n|\n14\n|\n5\n|"
+    },
+    {
+      "refs": [
+        "202408-0560-004"
+      ],
+      "text": "0560-0233\n|\nUSDA/FSA\n|\nFarm Loan Programs - Direct Loan Servicing - Special ( 7 CFR 766)\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n09/20/2024\n|\n09/20/2024\n|\nApproved without change\n|\n11/30/2024\n|\n1\n|\n24\n|"
+    },
+    {
+      "refs": [
+        "202409-0560-007"
+      ],
+      "text": "0560-0233\n|\nUSDA/FSA\n|\nFarm Loan Programs - Direct Loan Servicing - Special ( 7 CFR 766)\n|\nExtension without change of a currently approved collection\n|\n10/08/2024\n|\n11/08/2024\n|\nApproved without change\n|\n11/30/2027\n|\n1\n|\n24\n|"
+    },
+    {
+      "refs": [
+        "202401-0560-007"
+      ],
+      "text": "0560-0236\n|\nUSDA/FSA\n|\nFarm Loan Programs - Direct Loan Servicing - Regular\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n01/30/2024\n|\n02/01/2024\n|\nApproved without change\n|\n08/31/2026\n|\n1\n|\n10\n|"
+    },
+    {
+      "refs": [
+        "202408-0560-001"
+      ],
+      "text": "0560-0236\n|\nUSDA/FSA\n|\nFarm Loan Programs - Direct Loan Servicing - Regular\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n08/23/2024\n|\n08/30/2024\n|\nApproved with change\n|\n08/31/2026\n|\n1\n|\n10\n|"
+    },
+    {
+      "refs": [
+        "202409-0560-001"
+      ],
+      "text": "0560-0236\n|\nUSDA/FSA\n|\nFarm Loan Programs - Direct Loan Servicing - Regular\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n09/06/2024\n|\n09/25/2024\n|\nApproved with change\n|\n09/30/2026\n|\n1\n|\n10\n|"
+    },
+    {
+      "refs": [
+        "202508-0560-001"
+      ],
+      "text": "0560-0236\n|\nUSDA/FSA\n|\nFarm Loan Programs - Direct Loan Servicing - Regular\n|\nRevision of a currently approved collection\n|\n08/03/2026\n|\n09/06/2026\n|\nApproved with change\n|\n09/30/2029\n|\n2\n|\n24\n|"
+    },
+    {
+      "refs": [
+        "202401-0560-006"
+      ],
+      "text": "0560-0237\n|\nUSDA/FSA\n|\nFarm Loan Programs - Direct Loan Making\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n01/30/2024\n|\n02/01/2024\n|\nApproved without change\n|\n01/31/2026\n|\n1\n|\n39\n|"
+    },
+    {
+      "refs": [
+        "202406-0560-002"
+      ],
+      "text": "0560-0237\n|\nUSDA/FSA\n|\nFarm Loan Programs - Direct Loan Making\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n08/23/2024\n|\n08/30/2024\n|\nApproved without change\n|\n01/31/2026\n|\n1\n|\n39\n|"
+    },
+    {
+      "refs": [
+        "202409-0560-003"
+      ],
+      "text": "0560-0237\n|\nUSDA/FSA\n|\nFarm Loan Programs - Direct Loan Making\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n09/09/2024\n|\n09/10/2024\n|\nApproved without change\n|\n01/31/2026\n|\n1\n|\n40\n|"
+    }
+  ],
+  "all_refs": [
+    "202401-0560-006",
+    "202401-0560-007",
+    "202406-0560-002",
+    "202407-0503-003",
+    "202408-0560-001",
+    "202408-0560-004",
+    "202409-0560-001",
+    "202409-0560-003",
+    "202409-0560-007",
+    "202508-0560-001"
+  ]
+}

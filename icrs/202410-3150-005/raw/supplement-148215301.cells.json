@@ -1,0 +1,8240 @@
+[
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B1",
+    "value": "ANNUAL REPORTING REQUIREMENTS\n(Recurring Information Collection Requirements)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A2",
+    "value": "Supporting Statement Section",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B2",
+    "value": "Rule Section",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C2",
+    "value": "Description",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D2",
+    "value": "Number of Respondents",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E2",
+    "value": "Responses per Respondent",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F2",
+    "value": "Total Number of Responses ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G2",
+    "value": "Burden per Response",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H2",
+    "value": "Total Annual Burden Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I2",
+    "value": "Total Cost @ $300/Hour",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A3",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B3",
+    "value": "50.33(a)-(d), (g), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C3",
+    "value": "Early Site Permit application - general information",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D3",
+    "value": "0.33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E3",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F3",
+    "value": "0.33",
+    "formula": "D3*E3"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G3",
+    "value": "360",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H3",
+    "value": "118.80000000000001",
+    "formula": "F3*G3"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I3",
+    "value": "35640",
+    "formula": "H3*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B4",
+    "value": "50.33(a)-(d), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C4",
+    "value": "Standard Design Certification application - general information",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D4",
+    "value": "0.33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E4",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F4",
+    "value": "0.33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G4",
+    "value": "450",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H4",
+    "value": "148.5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I4",
+    "value": "44550",
+    "formula": "H4*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B5",
+    "value": "50.33(a)-(d), (g), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C5",
+    "value": "Combined OL application - general information",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D5",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E5",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F5",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G5",
+    "value": "2700",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H5",
+    "value": "5400",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I5",
+    "value": "1620000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B6",
+    "value": "50.33(a)-(d), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C6",
+    "value": "Standard Design Approval application - general information",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D6",
+    "value": "0.66",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E6",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F6",
+    "value": "0.66",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G6",
+    "value": "450",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H6",
+    "value": "297",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I6",
+    "value": "89100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B7",
+    "value": "50.33(a)-(d), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C7",
+    "value": "Manfacturing License application - general information",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D7",
+    "value": "0.66",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E7",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F7",
+    "value": "0.66",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G7",
+    "value": "450",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H7",
+    "value": "297",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I7",
+    "value": "89100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B8",
+    "value": "50.33(a)-(d), (h), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C8",
+    "value": "NPUF Construction Permit application - general information",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D8",
+    "value": "1.33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E8",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F8",
+    "value": "1.33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G8",
+    "value": "2700",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H8",
+    "value": "3591",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I8",
+    "value": "1077300",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B9",
+    "value": "50.33(a)-(d), (h), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C9",
+    "value": "NPUF Operating License application - general information ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D9",
+    "value": "2.33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E9",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F9",
+    "value": "2.33",
+    "formula": "D9*E9"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G9",
+    "value": "2700",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H9",
+    "value": "6291",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I9",
+    "value": "1887300",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B10",
+    "value": "50.33(a)-(d), (h)-(j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C10",
+    "value": "Nuclear Power Plant  Construction Permit application - general information",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D10",
+    "value": "1.33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E10",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F10",
+    "value": "1.33",
+    "formula": "D10*E10"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G10",
+    "value": "2700",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H10",
+    "value": "3591",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I10",
+    "value": "1077300",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B11",
+    "value": "50.33(a)-(d), (g)-(j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C11",
+    "value": "Nuclear Power Plant Operating License application - technical information",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D11",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E11",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F11",
+    "value": "1",
+    "formula": "D11*E11"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G11",
+    "value": "2700",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H11",
+    "value": "2700",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I11",
+    "value": "810000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B12",
+    "value": "50.33(f)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C12",
+    "value": "Financial qualification information as requested by the Commission",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D12",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E12",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F12",
+    "value": "2",
+    "formula": "D12*E12"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G12",
+    "value": "3580",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H12",
+    "value": "7160",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I12",
+    "value": "2148000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B13",
+    "value": "50.34(a)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C13",
+    "value": "Nuclear Power Plant Construction Permit application with deterministic emergency plan- general information (PSAR)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D13",
+    "value": "1.33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E13",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F13",
+    "value": "1.33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G13",
+    "value": "14000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H13",
+    "value": "18620",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I13",
+    "value": "5586000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B14",
+    "value": "50.34(a)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C14",
+    "value": "Nuclear Power Plant Construction Permit application with performance based emergency plan in 50.160- general information (PSAR) - SMR or ONT",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D14",
+    "value": "0.66",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E14",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F14",
+    "value": "0.66",
+    "formula": "D14*E14"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G14",
+    "value": "89800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H14",
+    "value": "59268",
+    "formula": "F14*G14"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I14",
+    "value": "17780400",
+    "formula": "H14*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B15",
+    "value": "50.34(b)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C15",
+    "value": "NPUF Operating License application - technical information (FSAR)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D15",
+    "value": "2.33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E15",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F15",
+    "value": "2.33",
+    "formula": "D15*E15"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G15",
+    "value": "7000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H15",
+    "value": "16310",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I15",
+    "value": "4893000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B16",
+    "value": "50.34(a)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C16",
+    "value": "NPUF Operating License application - technical information (PSAR)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D16",
+    "value": "1.33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E16",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F16",
+    "value": "1.33",
+    "formula": "D16*E16"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G16",
+    "value": "10000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H16",
+    "value": "13300",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I16",
+    "value": "3990000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B17",
+    "value": "50.34(a)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C17",
+    "value": "Nuclear Power Plant Construction Permit application - general information (PSAR)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D17",
+    "value": "1.33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E17",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F17",
+    "value": "1.33",
+    "formula": "D17*E17"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G17",
+    "value": "90000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H17",
+    "value": "119700",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I17",
+    "value": "35910000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B18",
+    "value": "50.34(b)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C18",
+    "value": "Nuclear Power Plant Operating License application - technical information (FSAR)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D18",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E18",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F18",
+    "value": "1",
+    "formula": "D18*E18"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G18",
+    "value": "40000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H18",
+    "value": "40000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I18",
+    "value": "12000000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B19",
+    "value": "50.54(bb)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C19",
+    "value": "Decommissioned plants submit program for managing and funding irradiated fuel following permanent cessation of operation of the reactor",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D19",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E19",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F19",
+    "value": "0",
+    "formula": "D19*E19"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G19",
+    "value": "250",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H19",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I19",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B20",
+    "value": "50.59(c), 50.90, 50.91(a), (b)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C20",
+    "value": "License Amendments",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D20",
+    "value": "164",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E20",
+    "value": "6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F20",
+    "value": "982",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G20",
+    "value": "313",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H20",
+    "value": "307366",
+    "formula": "F20*G20"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I20",
+    "value": "92209800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B21",
+    "value": "50.59(c), 50.90, 50.91(a), (b)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C21",
+    "value": "License Amendments - Topical Reports",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D21",
+    "value": "15",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E21",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F21",
+    "value": "15",
+    "formula": "D21*E21"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G21",
+    "value": "400",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H21",
+    "value": "6000",
+    "formula": "F21*G21"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I21",
+    "value": "1800000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B22",
+    "value": "50.74",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C22",
+    "value": "Notification within 30 days of a change in status of a licensed reactor operator or senior operator.  ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D22",
+    "value": "67",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E22",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F22",
+    "value": "201",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G22",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H22",
+    "value": "201",
+    "formula": "F22*G22"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I22",
+    "value": "60300",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B23",
+    "value": "50.80(b)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C23",
+    "value": "License Transfers",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D23",
+    "value": "8",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E23",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F23",
+    "value": "8",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G23",
+    "value": "540",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H23",
+    "value": "4320",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I23",
+    "value": "1296000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B24",
+    "value": "50.83(b) & (d)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C24",
+    "value": "Release of facility or site",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D24",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E24",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F24",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G24",
+    "value": "240",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H24",
+    "value": "480",
+    "formula": "F24*G24"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I24",
+    "value": "144000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B25",
+    "value": "50.36 - Reports - Administrative Controls, 50.36a, 50.36b & Appendix I",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C25",
+    "value": "Technical Specifications",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D25",
+    "value": "150",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E25",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F25",
+    "value": "750",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G25",
+    "value": "168",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H25",
+    "value": "126000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I25",
+    "value": "37800000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B26",
+    "value": "50.36(c)(2)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C26",
+    "value": "Technical Specifications - Risk Informed Completion Times (RICT) Program",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D26",
+    "value": "28",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E26",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F26",
+    "value": "28",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G26",
+    "value": "60",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H26",
+    "value": "1680",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I26",
+    "value": "504000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B27",
+    "value": "50.54(p)(2) - Submit Report (prepare and maintain safeguards contingency plan procedures)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C27",
+    "value": "Physical security, training and qualification plan, and safeguards contingency plans \u2013 report description change within 2 months after the change is made (operating power reactors)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D27",
+    "value": "68",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E27",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F27",
+    "value": "136",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G27",
+    "value": "29",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H27",
+    "value": "3944",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I27",
+    "value": "1183200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B28",
+    "value": "50.54(p)(2) - Submit Report (prepare and maintain safeguards contingency plan procedures)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C28",
+    "value": "Physical security, training and qualification plan, and safeguards contingency plans \u2013 report description change within 2 months after the change is made (decommissioned/shutdown power reactors)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D28",
+    "value": "25",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E28",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F28",
+    "value": "25",
+    "formula": "D28*E28"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G28",
+    "value": "29",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H28",
+    "value": "725",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I28",
+    "value": "217500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B29",
+    "value": "50.54(p)(2) - Submit Report - (prepare and maintain safeguards contingency plan procedures)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C29",
+    "value": "Physical security plan  \u2013 report description change within 2 months after the change is made (nonpower reactors)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D29",
+    "value": "31",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E29",
+    "value": "0.2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F29",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G29",
+    "value": "29",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H29",
+    "value": "145",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I29",
+    "value": "43500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B30",
+    "value": "50.35(b)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C30",
+    "value": "Periodic reports of the progress and results of research and development programs designed to resolve safety questions",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D30",
+    "value": "31",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E30",
+    "value": "0.2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F30",
+    "value": "6.2",
+    "formula": "D30*E30"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G30",
+    "value": "100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H30",
+    "value": "620",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I30",
+    "value": "186000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B31",
+    "value": "50.54(w)(3)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C31",
+    "value": "Annual report on the source of property and damage insurance",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D31",
+    "value": "119",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E31",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F31",
+    "value": "119",
+    "formula": "D31*E31"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G31",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H31",
+    "value": "476",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I31",
+    "value": "142800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B32",
+    "value": "10 CFR 50.54(w)(4)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C32",
+    "value": "Cleanup plan outlining the steps and costs needed to complete decontamination and cleanup following an accident",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D32",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E32",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F32",
+    "value": "0",
+    "formula": "D32*E32"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G32",
+    "value": "2000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H32",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I32",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A34",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B34",
+    "value": "50.33(k)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C34",
+    "value": "Contents of applications",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D34",
+    "value": "2.66",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E34",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F34",
+    "value": "2.66",
+    "formula": "D34*E34"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G34",
+    "value": "200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H34",
+    "value": "532",
+    "formula": "F34*G34"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I34",
+    "value": "159600",
+    "formula": "H34*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B35",
+    "value": "50.75",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C35",
+    "value": "Decommissioning planning",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D35",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E35",
+    "value": "0.5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F35",
+    "value": "47",
+    "formula": "D35*E35"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G35",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H35",
+    "value": "235",
+    "formula": "F35*G35"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I35",
+    "value": "70500",
+    "formula": "H35*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B36",
+    "value": "50.82",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C36",
+    "value": "Termination of license",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D36",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E36",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F36",
+    "value": "5",
+    "formula": "D36*E36"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G36",
+    "value": "680",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H36",
+    "value": "3400",
+    "formula": "F36*G36"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I36",
+    "value": "1020000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A38",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B38",
+    "value": "50.71(b)& Appendix C",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C38",
+    "value": "Annual financial reporting",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D38",
+    "value": "60",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E38",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F38",
+    "value": "60",
+    "formula": "D38*E38"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G38",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H38",
+    "value": "60",
+    "formula": "F38*G38"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I38",
+    "value": "18000",
+    "formula": "H38*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B39",
+    "value": "50.76",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C39",
+    "value": "Submission of financial qualifications information within 75 days prior to ceasing to be an electric utility",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D39",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E39",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F39",
+    "value": "0",
+    "formula": "D39*E39"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G39",
+    "value": "33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H39",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I39",
+    "value": "0",
+    "formula": "H39*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B40",
+    "value": "50.71(e)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C40",
+    "value": "Updated FSAR (operating reactors)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D40",
+    "value": "54",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E40",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F40",
+    "value": "54",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G40",
+    "value": "900",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H40",
+    "value": "48600",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I40",
+    "value": "14580000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B41",
+    "value": "50.71(e)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C41",
+    "value": "Updated FSAR (power reactors that have ceased operating)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D41",
+    "value": "25",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E41",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F41",
+    "value": "25",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G41",
+    "value": "225",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H41",
+    "value": "5625",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I41",
+    "value": "1687500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B42",
+    "value": "50.71(f)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C42",
+    "value": "Updated FSAR (manufacturing license)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D42",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E42",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G42",
+    "value": "900",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H42",
+    "value": "0",
+    "formula": "F42*G42"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I42",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B43",
+    "value": "50.72 & 50.54(z)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C43",
+    "value": "Notification of Events",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D43",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E43",
+    "value": "5.9",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F43",
+    "value": "554.6",
+    "formula": "D43*E43"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G43",
+    "value": "5.76",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H43",
+    "value": "3194.4960000000001",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I43",
+    "value": "958348.80000000005",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B44",
+    "value": "50.72 & 50.54(z)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C44",
+    "value": "Notification of Events (Retractions)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D44",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E44",
+    "value": "0.5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F44",
+    "value": "47",
+    "formula": "D44*E44"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G44",
+    "value": "8",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H44",
+    "value": "376",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I44",
+    "value": "112800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B45",
+    "value": "10 CFR Part 50, Appendix E, Paragraph E.9.d",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C45",
+    "value": "Daily testing of the ENS system by the HOO, submission of voluntary reactor status and grid information",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D45",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E45",
+    "value": "365",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F45",
+    "value": "34310",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G45",
+    "value": "8.3000000000000004E-2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H45",
+    "value": "2847.73",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I45",
+    "value": "854319",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B46",
+    "value": "Appendix E, VI.1 Periodic Testing",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C46",
+    "value": "Quarterly testing of Emergency Response Data System",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D46",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E46",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F46",
+    "value": "376",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G46",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H46",
+    "value": "752",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I46",
+    "value": "225600",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B47",
+    "value": "Appendix E, VI.3 a&b",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C47",
+    "value": "HW/SW changes affecting ERDS DPLs and communication",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D47",
+    "value": "9",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E47",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F47",
+    "value": "9",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G47",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H47",
+    "value": "36",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I47",
+    "value": "10800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B48",
+    "value": "50.72(a)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C48",
+    "value": "Emergency Response Data System reports",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D48",
+    "value": "25",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E48",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F48",
+    "value": "25",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G48",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H48",
+    "value": "100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I48",
+    "value": "30000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B49",
+    "value": "50.70",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C49",
+    "value": "Team Inspections (Engineering, Problem Identification and Resolution, Radiation Protection, Emergency Prepardness and In-Service Inspections)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D49",
+    "value": "54",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E49",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F49",
+    "value": "270",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G49",
+    "value": "32",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H49",
+    "value": "8640",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I49",
+    "value": "2592000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B50",
+    "value": "50.70",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C50",
+    "value": "Other Inspections (e.g. Resident, Supplemental, Special and Infrequently Performed, Temporary Instructions, and Reactive)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D50",
+    "value": "54",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E50",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F50",
+    "value": "54",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G50",
+    "value": "45",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H50",
+    "value": "2430",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I50",
+    "value": "729000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B51",
+    "value": "50.69(g)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C51",
+    "value": "Submission of event report to submit a licensee event report for any event or condition that would have prevented RISC-1 and RISC-2 structures, systems, and components from performing a safety-significant function",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D51",
+    "value": "10",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E51",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F51",
+    "value": "10",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G51",
+    "value": "600",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H51",
+    "value": "6000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I51",
+    "value": "1800000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A53",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B53",
+    "value": "50.54(cc)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C53",
+    "value": "Bankruptcy Notifications ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D53",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E53",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F53",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G53",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H53",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I53",
+    "value": "0",
+    "formula": "H53*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B54",
+    "value": "50.55(e)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C54",
+    "value": "48 hour notification (Design and Construction Deficiencies)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D54",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E54",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F54",
+    "value": "2",
+    "formula": "D54*E54"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G54",
+    "value": "10",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H54",
+    "value": "20",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I54",
+    "value": "6000",
+    "formula": "H54*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B55",
+    "value": "50.55(e)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C55",
+    "value": "30-day reports (Design and Construction Deficiencies)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D55",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E55",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F55",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G55",
+    "value": "70",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H55",
+    "value": "140",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I55",
+    "value": "42000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B56",
+    "value": "50.55(f), Appendices A & B",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C56",
+    "value": "Quality Assurance reports (operating reactors)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D56",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E56",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F56",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G56",
+    "value": "160",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H56",
+    "value": "15040",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I56",
+    "value": "4512000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B57",
+    "value": "50.55(f), Appendices A & B",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C57",
+    "value": "Quality Assurance reports (reactors under construction)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D57",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E57",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F57",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G57",
+    "value": "160",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H57",
+    "value": "320",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I57",
+    "value": "96000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B58",
+    "value": "50.55(f), Appendices A & B",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C58",
+    "value": "Quality Assurance reports (Part 52 applicants)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D58",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E58",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F58",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G58",
+    "value": "667",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H58",
+    "value": "1334",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I58",
+    "value": "400200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B59",
+    "value": "50.59(c) and d",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C59",
+    "value": "Power reactors - Reports changes in the facility, of changes in procedures, and of tests and experiments and to submit a report containing a brief description of any changes, tests, and experiments, including a summary of the evaluation of each",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D59",
+    "value": "119",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E59",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F59",
+    "value": "119",
+    "formula": "D59*E59"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G59",
+    "value": "380",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H59",
+    "value": "45220",
+    "formula": "F59*G59"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I59",
+    "value": "13566000",
+    "formula": "H59*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B60",
+    "value": "50.59(c) and d",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C60",
+    "value": "Non-power reactors - Reports changes in the facility, of changes in procedures, and of tests and experiments and to submit a report containing a brief description of any changes, tests, and experiments, including a summary of the evaluation of each",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D60",
+    "value": "31",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E60",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F60",
+    "value": "31",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G60",
+    "value": "120",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H60",
+    "value": "3720",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I60",
+    "value": "1116000",
+    "formula": "H60*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B61",
+    "value": "Appendices G & H, 50.60",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C61",
+    "value": "Fracture Toughness",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D61",
+    "value": "22",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E61",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F61",
+    "value": "22",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G61",
+    "value": "102",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H61",
+    "value": "2244",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I61",
+    "value": "673200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B62",
+    "value": "50.61",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C62",
+    "value": "Pressurized Thermal Shock",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D62",
+    "value": "9",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E62",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F62",
+    "value": "9",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G62",
+    "value": "102",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H62",
+    "value": "918",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I62",
+    "value": "275400",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B63",
+    "value": "50.61a",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C63",
+    "value": "Alterntate Pressurized Thermal Shock",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D63",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E63",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F63",
+    "value": "0",
+    "formula": "D63*E63"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G63",
+    "value": "250",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H63",
+    "value": "0",
+    "formula": "F63*G63"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I63",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B64",
+    "value": "50.64(c)(1)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C64",
+    "value": "Unique purpose application for highly enriched uranium",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D64",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E64",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F64",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G64",
+    "value": "10",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H64",
+    "value": "20",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I64",
+    "value": "6000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B65",
+    "value": "50.64(c)(2)(i) ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C65",
+    "value": "Highly enriched uranium - updated documentation",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D65",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E65",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F65",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G65",
+    "value": "10",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H65",
+    "value": "40",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I65",
+    "value": "12000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B66",
+    "value": "50.64(c)(2)(ii) ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C66",
+    "value": "Highly enriched uranium - updated documentation",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D66",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E66",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F66",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G66",
+    "value": "10",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H66",
+    "value": "40",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I66",
+    "value": "12000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B67",
+    "value": "50.64(c)(2)(iii)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C67",
+    "value": "Highly enriched uranium, safety analyses",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D67",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E67",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F67",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G67",
+    "value": "333.3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H67",
+    "value": "1000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I67",
+    "value": "300000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B68",
+    "value": "50.66",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C68",
+    "value": "Thermal Annealing",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D68",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E68",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F68",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G68",
+    "value": "6400",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H68",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I68",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A70",
+    "value": "6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B70",
+    "value": "50.12",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C70",
+    "value": "Exemptions",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D70",
+    "value": "27",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E70",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F70",
+    "value": "27",
+    "formula": "D70*E70"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G70",
+    "value": "360",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H70",
+    "value": "9720",
+    "formula": "F70*G70"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I70",
+    "value": "2916000",
+    "formula": "H70*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B71",
+    "value": "50.9(b)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C71",
+    "value": "Completeness of Information",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D71",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E71",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F71",
+    "value": "0",
+    "formula": "D71*E71"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G71",
+    "value": "12",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H71",
+    "value": "0",
+    "formula": "F71*G71"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I71",
+    "value": "0",
+    "formula": "H71*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "A73",
+    "value": "7",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B73",
+    "value": "50.34(i)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C73",
+    "value": "Part 50 applicants provide plans for implementing rule requirements in application",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D73",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E73",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F73",
+    "value": "0",
+    "formula": "D73*E73"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G73",
+    "value": "300",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H73",
+    "value": "0",
+    "formula": "F73*G73"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I73",
+    "value": "0",
+    "formula": "H73*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B74",
+    "value": "50.44(c) ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C74",
+    "value": "Hydrogen Control Requirements",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D74",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E74",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F74",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G74",
+    "value": "203",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H74",
+    "value": "0",
+    "formula": "F74*G74"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I74",
+    "value": "0",
+    "formula": "H74*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B75",
+    "value": "50.46(a)(3)(ii) ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C75",
+    "value": "Annual report of changes to change evaluation model",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D75",
+    "value": "105",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E75",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F75",
+    "value": "105",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G75",
+    "value": "20",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H75",
+    "value": "2100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I75",
+    "value": "630000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B76",
+    "value": "50.46(a)(3)(ii) ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C76",
+    "value": "30-day report of significant change or error to evaluation model",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D76",
+    "value": "52",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E76",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F76",
+    "value": "52",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G76",
+    "value": "20",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H76",
+    "value": "1040",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I76",
+    "value": "312000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B77",
+    "value": "50.46, Appendix K",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C77",
+    "value": "Realistic evaluation model submittal",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D77",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E77",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F77",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G77",
+    "value": "2500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H77",
+    "value": "2500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I77",
+    "value": "750000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B78",
+    "value": "50.46, Appendix K",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C78",
+    "value": "Modified evaluation model submittal",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D78",
+    "value": "0.6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E78",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F78",
+    "value": "0.6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G78",
+    "value": "1750",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H78",
+    "value": "1050",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I78",
+    "value": "315000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B79",
+    "value": "50.46, Appendix K",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C79",
+    "value": "Schedule for completing actions associated with 10 CFR 50 Appendix K and 10 CFR 50.46(b) ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D79",
+    "value": "1.6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E79",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F79",
+    "value": "1.6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G79",
+    "value": "16",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H79",
+    "value": "25.6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I79",
+    "value": "7680",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B80",
+    "value": "50.47, 50.54(q & t), Appendix E",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C80",
+    "value": "Emergency plans (operating power reactors)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D80",
+    "value": "54",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E80",
+    "value": "25",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F80",
+    "value": "1350",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G80",
+    "value": "81",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H80",
+    "value": "109350",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I80",
+    "value": "32805000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B81",
+    "value": "50.54(q)(4)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C81",
+    "value": "Submission of proposed changes that would reduce the effectiveness of approved emergency plans (operating power reactors)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D81",
+    "value": "12",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E81",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F81",
+    "value": "12",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G81",
+    "value": "40",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H81",
+    "value": "480",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I81",
+    "value": "144000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B82",
+    "value": "50.54(q)(5)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C82",
+    "value": "Submission of non-LAR changes to emergency plan",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D82",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E82",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F82",
+    "value": "0",
+    "formula": "D82*E82"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G82",
+    "value": "20",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H82",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I82",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B83",
+    "value": "50.54(q)(7)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C83",
+    "value": "Current Licensee Submission of LAR to Request to Implement EP Program Under 10 CFR 50.160 ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D83",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E83",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F83",
+    "value": "0",
+    "formula": "D83*E83"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G83",
+    "value": "1260",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H83",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I83",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B84",
+    "value": "App. E.IV.F.2.a,b",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C84",
+    "value": "Participation Exercise \u2013 exercise scenario submission",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D84",
+    "value": "27",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E84",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F84",
+    "value": "27",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G84",
+    "value": "40",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H84",
+    "value": "1080",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I84",
+    "value": "324000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B85",
+    "value": "50.47, 50.54(q & t), Appendix E",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C85",
+    "value": "Emergency plans (operating non-power reactors)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D85",
+    "value": "31",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E85",
+    "value": "10",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F85",
+    "value": "310",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G85",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H85",
+    "value": "620",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I85",
+    "value": "186000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B86",
+    "value": "50.47, 50.54(q & t), Appendix E",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C86",
+    "value": "Emergency plans (power reactor sites being decommissioned)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D86",
+    "value": "24",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E86",
+    "value": "15",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F86",
+    "value": "360",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G86",
+    "value": "34",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H86",
+    "value": "12240",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I86",
+    "value": "3672000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B87",
+    "value": "50.47, 50.54(q & t), Appendix E",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C87",
+    "value": "Emergency plans (non-power reactors being decommissioned and possession only)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D87",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E87",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F87",
+    "value": "20",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G87",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H87",
+    "value": "20",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I87",
+    "value": "6000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B88",
+    "value": "50.47, 50.54(q & t), Appendix E",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C88",
+    "value": "Emergency Planning",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D88",
+    "value": "110",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E88",
+    "value": "18",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F88",
+    "value": "1980",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G88",
+    "value": "60",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H88",
+    "value": "118800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I88",
+    "value": "35640000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B89",
+    "value": "Appendix S and 50.54(ff)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C89",
+    "value": "Earthquake Engineering Criteria, CPA/OL, DC/COL applicants",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D89",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E89",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F89",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G89",
+    "value": "155000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H89",
+    "value": "465000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I89",
+    "value": "139500000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B90",
+    "value": "Appendix S and 50.54(ff)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "C90",
+    "value": "Earthquake Engineering Criteria, Operating Reactors",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "D90",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "E90",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F90",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "G90",
+    "value": "900",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H90",
+    "value": "1800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I90",
+    "value": "540000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "B91",
+    "value": "Total",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "F91",
+    "value": "42693.609999999993",
+    "formula": "SUM(F3:F90)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "H91",
+    "value": "1627459.1260000002",
+    "formula": "SUM(H3:H90)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet1.xml",
+    "cell": "I91",
+    "value": "488237737.80000007",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B1",
+    "value": "ANNUAL RECORDKEEPING REQUIREMENTS\n(Recurring Information Collection Requirements)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "A2",
+    "value": "Supporting Statement Section",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B2",
+    "value": "Section",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C2",
+    "value": "Description",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D2",
+    "value": "Number of Recordkeepers",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E2",
+    "value": "Hours per Recordkeeper",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F2",
+    "value": "Total Annual Burden Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G2",
+    "value": "Annual Cost @ $300/hr",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "A3",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B3",
+    "value": "50.33(a)-(d), (g), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C3",
+    "value": "Early Site Permits (records)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D3",
+    "value": "8",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E3",
+    "value": "13",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F3",
+    "value": "104",
+    "formula": "D3*E3"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G3",
+    "value": "31200",
+    "formula": "F3*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B4",
+    "value": "50.33(a)-(d), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C4",
+    "value": "Standard Design Certification (records)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D4",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E4",
+    "value": "16.5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F4",
+    "value": "16.5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G4",
+    "value": "4950",
+    "formula": "F4*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B5",
+    "value": "50.33(a)-(d), (g), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C5",
+    "value": "Combined OL (records)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D5",
+    "value": "14",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E5",
+    "value": "99",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F5",
+    "value": "1386",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G5",
+    "value": "415800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B6",
+    "value": "50.33(a)-(d), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C6",
+    "value": "Standard Design Approval (records)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D6",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E6",
+    "value": "16.5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F6",
+    "value": "33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G6",
+    "value": "9900",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B7",
+    "value": "50.33(a)-(d), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C7",
+    "value": "Manfacturing License (records)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D7",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E7",
+    "value": "16.5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F7",
+    "value": "33",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G7",
+    "value": "9900",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B8",
+    "value": "50.33(a)-(d), (h), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C8",
+    "value": "NPUF Construction Permit (records)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D8",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E8",
+    "value": "99",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F8",
+    "value": "396",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G8",
+    "value": "118800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B9",
+    "value": "50.33(a)-(d), (h), (j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C9",
+    "value": "NPUF Operating License (records)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D9",
+    "value": "7",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E9",
+    "value": "99",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F9",
+    "value": "693",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G9",
+    "value": "207900",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B10",
+    "value": "50.33(a)-(d), (h)-(j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C10",
+    "value": "Nuclear Power Plant Construction Permit (records)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D10",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E10",
+    "value": "99",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F10",
+    "value": "396",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G10",
+    "value": "118800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B11",
+    "value": "50.33(a)-(d), (g)-(j)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C11",
+    "value": "Nuclear Power Plant Operating License (records)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D11",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E11",
+    "value": "99",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F11",
+    "value": "297",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G11",
+    "value": "89100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B12",
+    "value": "50.59(c), 50.90, 50.91(a), (b)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C12",
+    "value": "Records License Amendments",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D12",
+    "value": "162",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E12",
+    "value": "192",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F12",
+    "value": "31104",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G12",
+    "value": "9331200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B13",
+    "value": "50.74 - Burden covered under 10 CFR 55.22 approved by OMB under Clearance No. 3150-0024",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C13",
+    "value": "Records of change in status of a licensed reactor operator or senior operator",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D13",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E13",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F13",
+    "value": "0",
+    "formula": "D13*E13"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G13",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B14",
+    "value": "50.80(b)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C14",
+    "value": "License Transfers",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D14",
+    "value": "8",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E14",
+    "value": "60",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F14",
+    "value": "480",
+    "formula": "D14*E14"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G14",
+    "value": "144000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B15",
+    "value": "50.36,50.36A, 50.36B & Appendix I",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C15",
+    "value": "Technical Specifications (Operating power reactor)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D15",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E15",
+    "value": "2080",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F15",
+    "value": "195520",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G15",
+    "value": "58656000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B16",
+    "value": "50.36,50.36A, 50.36B & Appendix I",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C16",
+    "value": "Technical Specifications (operating NPUFs)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D16",
+    "value": "31",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E16",
+    "value": "208",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F16",
+    "value": "6448",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G16",
+    "value": "1934400",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B17",
+    "value": "50.36,50.36A, 50.36B & Appendix I",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C17",
+    "value": "Technical Specifications (shutdown power reactor)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D17",
+    "value": "25",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E17",
+    "value": "208",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F17",
+    "value": "5200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G17",
+    "value": "1560000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B18",
+    "value": "50.54(p)(2) - Burden covered under 10 CFR 73.55(c)(4) and 10 CFR 73.55(c)(5) approved by OMB under Clearance No. 3150-0002 ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C18",
+    "value": "Records of physical security, training and qualification plan, and safeguards contingency plans \u2013 report description change within 2 months after the change is made",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D18",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E18",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F18",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G18",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "A20",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B20",
+    "value": "50.75",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C20",
+    "value": "Decommissioning planning",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D20",
+    "value": "169",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E20",
+    "value": "51",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F20",
+    "value": "8619",
+    "formula": "D20*E20"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G20",
+    "value": "2585700",
+    "formula": "F20*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "A22",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B22",
+    "value": "50.71(b)& Appendix C",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C22",
+    "value": "Financial records",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D22",
+    "value": "60",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E22",
+    "value": "0.1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F22",
+    "value": "6",
+    "formula": "D22*E22"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G22",
+    "value": "1800",
+    "formula": "F22*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B23",
+    "value": "50.71(e)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C23",
+    "value": "Records for updated FSAR (operating reactors)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D23",
+    "value": "54",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E23",
+    "value": "150",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F23",
+    "value": "8100",
+    "formula": "D23*E23"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G23",
+    "value": "2430000",
+    "formula": "F23*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B24",
+    "value": "50.71(e)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C24",
+    "value": "Records for updated FSAR (power reactors that have ceased operating)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D24",
+    "value": "25",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E24",
+    "value": "25",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F24",
+    "value": "625",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G24",
+    "value": "187500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B25",
+    "value": "50.71(h)(1)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C25",
+    "value": "Fuel Load",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D25",
+    "value": "10",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E25",
+    "value": "1533",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F25",
+    "value": "15330",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G25",
+    "value": "4599000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B26",
+    "value": "50.71(h)(2)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C26",
+    "value": "Fuel Load (Quadrennial)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D26",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E26",
+    "value": "200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F26",
+    "value": "1000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G26",
+    "value": "300000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B27",
+    "value": "50.71(h)(3)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C27",
+    "value": "Fuel Load (One-time requirement)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D27",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E27",
+    "value": "1533",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F27",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G27",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B28",
+    "value": "50.72 & 50.54(z)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C28",
+    "value": "Notification of Events",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D28",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E28",
+    "value": "0.8",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F28",
+    "value": "75.2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G28",
+    "value": "22560",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B29",
+    "value": "50.72 & 50.54(z)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C29",
+    "value": "Notification of Events (Retractions)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D29",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E29",
+    "value": "0.1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F29",
+    "value": "9.4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G29",
+    "value": "2820",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B30",
+    "value": "Appendix E, VI.1 Periodic Testing",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C30",
+    "value": "Quarterly testing of Emergency Response Data System",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D30",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E30",
+    "value": "0.5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F30",
+    "value": "47",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G30",
+    "value": "14100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B31",
+    "value": "Appendix E, VI.3 a&b",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C31",
+    "value": "HW/SW changes affecting ERDS DPLs and communication",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D31",
+    "value": "9",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E31",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F31",
+    "value": "9",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G31",
+    "value": "2700",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B32",
+    "value": "50.72(a)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C32",
+    "value": "Emergency Data Response System",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D32",
+    "value": "25",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E32",
+    "value": "0.5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F32",
+    "value": "12.5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G32",
+    "value": "3750",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B33",
+    "value": "50.69",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C33",
+    "value": "Maintain processes to control the inspection, testing, and corrective actions for structures, systems, and components, other SSC records",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D33",
+    "value": "10",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E33",
+    "value": "833",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F33",
+    "value": "8330",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G33",
+    "value": "2499000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B34",
+    "value": "50.69 (one-time implementation requirements)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C34",
+    "value": "After approval of application, perform evaluations of the significance of SSC functions (implementation for the alternative requirements of 10 CFR 50.69 - voluntary)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D34",
+    "value": "16",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E34",
+    "value": "920",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F34",
+    "value": "14720",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G34",
+    "value": "4416000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "A36",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B36",
+    "value": "50.54(hh)(1)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C36",
+    "value": "Procedures for aircraft threat",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D36",
+    "value": "54",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E36",
+    "value": "40",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F36",
+    "value": "2160",
+    "formula": "D36*E36"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G36",
+    "value": "648000",
+    "formula": "F36*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B37",
+    "value": "50.55(e)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C37",
+    "value": "Retention of evaluations, 50.55(e)(9)(ii) (Design and Construction Deficiencies)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D37",
+    "value": "25",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E37",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F37",
+    "value": "50",
+    "formula": "D37*E37"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G37",
+    "value": "15000",
+    "formula": "F37*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B38",
+    "value": "50.55(f), Appendices A & B",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C38",
+    "value": "Quality Assurance records (operating reactors, 4 reactors under construction, 1 ESP, 1 COL)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D38",
+    "value": "104",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E38",
+    "value": "10000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F38",
+    "value": "1040000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G38",
+    "value": "312000000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B39",
+    "value": "50.55(f), Appendices A & B",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C39",
+    "value": "Quality Assurance records (shutdown reactors)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D39",
+    "value": "25",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E39",
+    "value": "2500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F39",
+    "value": "62500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G39",
+    "value": "18750000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B40",
+    "value": "50.59(c) and (d)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C40",
+    "value": "Power reactors - Records of changes in the facility, of changes in procedures, and of tests and experiments and to submit a report containing a brief description of any changes, tests, and experiments, including a summary of the evaluation of each",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D40",
+    "value": "119",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E40",
+    "value": "100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F40",
+    "value": "11900",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G40",
+    "value": "3570000",
+    "formula": "F40*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B41",
+    "value": "50.59(c) and (d)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C41",
+    "value": "Non-power reactors - Records of changes in the facility, of changes in procedures, and of tests and experiments and to submit a report containing a brief description of any changes, tests, and experiments, including a summary of the evaluation of each ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D41",
+    "value": "31",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E41",
+    "value": "100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F41",
+    "value": "3100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G41",
+    "value": "930000",
+    "formula": "F41*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B42",
+    "value": "Appendices G & H, 50.60",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C42",
+    "value": "Fracture Toughness",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D42",
+    "value": "22",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E42",
+    "value": "11",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F42",
+    "value": "242",
+    "formula": "D42*E42"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G42",
+    "value": "72600",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B43",
+    "value": "50.61",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C43",
+    "value": "Pressurized Thermal Shock",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D43",
+    "value": "9",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E43",
+    "value": "11",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F43",
+    "value": "99",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G43",
+    "value": "29700",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B44",
+    "value": "50.61a",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C44",
+    "value": "Alterntate Pressurized Thermal Shock",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D44",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E44",
+    "value": "20",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F44",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G44",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B45",
+    "value": "50.65",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C45",
+    "value": "Maintenance program records for operating plants",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D45",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E45",
+    "value": "3000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F45",
+    "value": "282000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G45",
+    "value": "84600000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B46",
+    "value": "50.65",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C46",
+    "value": "Maintenance program records for shutdown plants",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D46",
+    "value": "25",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E46",
+    "value": "128",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F46",
+    "value": "3200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G46",
+    "value": "960000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "A48",
+    "value": "6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B48",
+    "value": "50.12",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C48",
+    "value": "Exemptions",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D48",
+    "value": "27",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E48",
+    "value": "40",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F48",
+    "value": "1080",
+    "formula": "D48*E48"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G48",
+    "value": "324000",
+    "formula": "F48*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B49",
+    "value": "50.9(b)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C49",
+    "value": "Completeness of Information",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D49",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E49",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F49",
+    "value": "5",
+    "formula": "D49*E49"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G49",
+    "value": "1500",
+    "formula": "F49*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "A51",
+    "value": "7",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B51",
+    "value": "50.44(c)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C51",
+    "value": "Hydrogen Control Requirements",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D51",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E51",
+    "value": "1",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F51",
+    "value": "94",
+    "formula": "D51*E51"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G51",
+    "value": "28200",
+    "formula": "F51*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B52",
+    "value": "50.47, 50.54(q & t), Appendix E",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C52",
+    "value": "Emergency Planning Records for Operating Power Reactors",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D52",
+    "value": "110",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E52",
+    "value": "589",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F52",
+    "value": "64790",
+    "formula": "D52*E52"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G52",
+    "value": "19437000",
+    "formula": "F52*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B53",
+    "value": "52.17, 52.79, 50.54, 50.160",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C53",
+    "value": "Emergency Planning Records for Operating Power Reactors - performance based framework (SMR and ONT)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D53",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E53",
+    "value": "295",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F53",
+    "value": "885",
+    "formula": "D53*E53"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G53",
+    "value": "265500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B54",
+    "value": "50.47, 50.54(q & t), Appendix E",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C54",
+    "value": "Emergency Planning Records for Operating Non-Power Reactors",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D54",
+    "value": "31",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E54",
+    "value": "589",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F54",
+    "value": "18259",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G54",
+    "value": "5477700",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B55",
+    "value": "50.47, 50.54(q & t), Appendix E",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C55",
+    "value": "Emergency Planning Records for Power Reactor Sites Being Decommissioned",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D55",
+    "value": "24",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E55",
+    "value": "256",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F55",
+    "value": "6144",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G55",
+    "value": "1843200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B56",
+    "value": "50.47, 50.54(q & t), Appendix E",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C56",
+    "value": "Emergency Planning Records for Non-Power Reactors Being Decommissioned and Possession Only",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D56",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E56",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F56",
+    "value": "16",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G56",
+    "value": "4800",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B57",
+    "value": "50.48 (c)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C57",
+    "value": "One-time transition of records for fire protection to NFPA 805",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D57",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E57",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F57",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G57",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B58",
+    "value": "50.48, Appendix R",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C58",
+    "value": "Fire Protection plan records",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D58",
+    "value": "116",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E58",
+    "value": "84",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F58",
+    "value": "9744",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G58",
+    "value": "2923200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B59",
+    "value": "50.49(a),(d),(f)\n",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C59",
+    "value": "One-time environmental qualification (program establishment, qualification of equipment), annualized",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D59",
+    "value": "9",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E59",
+    "value": "793.3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F59",
+    "value": "7139.7",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G59",
+    "value": "2141910",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B60",
+    "value": "50.49(d),(f),(j)\n",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C60",
+    "value": "Environmental Qualification",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D60",
+    "value": "101",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E60",
+    "value": "2080",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F60",
+    "value": "210080",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G60",
+    "value": "63024000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B61",
+    "value": "50.120(b)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C61",
+    "value": "Training & Qualification Records for Operating Reactors",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D61",
+    "value": "59",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E61",
+    "value": "780",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F61",
+    "value": "46020",
+    "formula": "D61*E61"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G61",
+    "value": "13806000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B62",
+    "value": "50.120(b)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C62",
+    "value": "Training & Qualification Records for Applicants",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D62",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E62",
+    "value": "1440",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F62",
+    "value": "7200",
+    "formula": "D62*E62"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G62",
+    "value": "2160000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B63",
+    "value": "50.155(a)(1)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C63",
+    "value": "One-time Licensees review rule requirements and update procedures, programs, or plans",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D63",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E63",
+    "value": "315",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F63",
+    "value": "630",
+    "formula": "D63*E63"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G63",
+    "value": "189000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B64",
+    "value": "50.155(f)(1) - Burden captured under Section 50.71(e)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C64",
+    "value": "Maintain documentation of changes in the implementation of requirements",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D64",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E64",
+    "value": "50",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F64",
+    "value": "0",
+    "formula": "D64*E64"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G64",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B65",
+    "value": "Appendix J",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C65",
+    "value": "Development and Ongoing Analyses & Maintenance of Performance Based Leakage Testing Program",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D65",
+    "value": "158",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E65",
+    "value": "60",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F65",
+    "value": "9480",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G65",
+    "value": "2844000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B66",
+    "value": "Appendix S and 50.54(ff)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C66",
+    "value": "Earthquake Engineering Criteria, Operating Reactors",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D66",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E66",
+    "value": "100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F66",
+    "value": "200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G66",
+    "value": "60000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B67",
+    "value": "Appendix S and 50.54(ff)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C67",
+    "value": "Earthquake Engineering Criteria, CPA/OL, DC/COL applicants",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D67",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E67",
+    "value": "100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F67",
+    "value": "300",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G67",
+    "value": "90000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B68",
+    "value": "Appendix S IV(a)(3)",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "C68",
+    "value": "Plant inspection and documentation of inspection following seismic event",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D68",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "E68",
+    "value": "320",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F68",
+    "value": "640",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G68",
+    "value": "192000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "B69",
+    "value": "Total",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "D69",
+    "value": "169",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "F69",
+    "value": "2086947.3",
+    "formula": "SUM(F3:F68)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet2.xml",
+    "cell": "G69",
+    "value": "626084190",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A1",
+    "value": "Total Burden and Responses Section 2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F1",
+    "value": "Total Burden and Responses Section 3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J1",
+    "value": "Item #13, Other Costs Section ",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B2",
+    "value": "Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C2",
+    "value": "Responses",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G2",
+    "value": "Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H2",
+    "value": "Responses",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J2",
+    "value": "Section",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K2",
+    "value": "Costs",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A3",
+    "value": "Reporting",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B3",
+    "value": "748749.3",
+    "formula": "SUM(Reporting!H3:H32)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C3",
+    "value": "2297.1499999999996",
+    "formula": "SUM(Reporting!F3:F32)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F3",
+    "value": "Reporting",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G3",
+    "value": "4167",
+    "formula": "SUM(Reporting!H34:H36)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H3",
+    "value": "54.66",
+    "formula": "SUM(Reporting!F34:F36)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J3",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K3",
+    "value": "29052.780000000002",
+    "formula": "B10"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A4",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B4",
+    "value": "242106.5",
+    "formula": "SUM(Recordkeeping!F3:F17)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C4",
+    "value": "162",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F4",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G4",
+    "value": "8619",
+    "formula": "SUM(Recordkeeping!F20)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H4",
+    "value": "169",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J4",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K4",
+    "value": "1034.28",
+    "formula": "G10"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A5",
+    "value": "TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B5",
+    "value": "990855.8",
+    "formula": "SUM(B3:B4)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C5",
+    "value": "2459.1499999999996",
+    "formula": "SUM(C3:C4)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F5",
+    "value": "TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G5",
+    "value": "12786",
+    "formula": "SUM(G3:G4)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H5",
+    "value": "223.66",
+    "formula": "SUM(H3:H4)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J5",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K5",
+    "value": "5791.6920000000009",
+    "formula": "B27"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J6",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K6",
+    "value": "168630.12000000002",
+    "formula": "G29"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J7",
+    "value": "6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K7",
+    "value": "130.19999999999999",
+    "formula": "B45"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A8",
+    "value": "Item #13, Other Costs Section 2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F8",
+    "value": "Item #13, Other Costs Section 3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J8",
+    "value": "7",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K8",
+    "value": "45794.604000000007",
+    "formula": "G45"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A9",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B9",
+    "value": "29052.780000000002",
+    "formula": "B4*0.0004*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F9",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G9",
+    "value": "1034.28",
+    "formula": "G4*0.0004*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J9",
+    "value": "Total",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K9",
+    "value": "250433.67600000004",
+    "formula": "SUM(K3:K8)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A10",
+    "value": "TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B10",
+    "value": "29052.780000000002",
+    "formula": "SUM(B9:B9)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F10",
+    "value": "TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G10",
+    "value": "1034.28",
+    "formula": "SUM(G9)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J12",
+    "value": "Item #14, Costs to the Federal Government,",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A13",
+    "value": "Item #14, Costs to the Federal Government, Section 2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F13",
+    "value": "Item #14, Costs to the Federal Government, Section 3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J13",
+    "value": "Section",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K13",
+    "value": "Staff Time Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L13",
+    "value": "Cost @ $300/hr",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B14",
+    "value": "Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C14",
+    "value": "Cost @ $300/hr",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G14",
+    "value": "Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H14",
+    "value": "Cost @ $300/hr",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A15",
+    "value": "Staff time",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B15",
+    "value": "101953",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C15",
+    "value": "30585900",
+    "formula": "B15*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F15",
+    "value": "Staff time",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G15",
+    "value": "1526",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H15",
+    "value": "457800",
+    "formula": "G15*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J15",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K15",
+    "value": "101953",
+    "formula": "B15"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L15",
+    "value": "30585900",
+    "formula": "+K15*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J16",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K16",
+    "value": "1526",
+    "formula": "G15"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L16",
+    "value": "457800",
+    "formula": "+K16*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J17",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K17",
+    "value": "41295",
+    "formula": "B32"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L17",
+    "value": "12388500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A18",
+    "value": "Total Burden and Responses Section 4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J18",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K18",
+    "value": "73115",
+    "formula": "G34"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L18",
+    "value": "21934500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B19",
+    "value": "Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C19",
+    "value": "Responses",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F19",
+    "value": "Total Burden and Responses Section 5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J19",
+    "value": "6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K19",
+    "value": "2250",
+    "formula": "B50"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L19",
+    "value": "675000",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A20",
+    "value": "Reporting",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B20",
+    "value": "78661.225999999995",
+    "formula": "SUM(Reporting!H38:H51)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C20",
+    "value": "35794.6",
+    "formula": "SUM(Reporting!F38:F51)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G20",
+    "value": "Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H20",
+    "value": "Responses",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J20",
+    "value": "7",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K20",
+    "value": "20275",
+    "formula": "G50"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L20",
+    "value": "6082500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A21",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B21",
+    "value": "48264.100000000006",
+    "formula": "SUM(Recordkeeping!F22:F34)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C21",
+    "value": "94",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F21",
+    "value": "Reporting",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G21",
+    "value": "70056",
+    "formula": "SUM(Reporting!H53:H68)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H21",
+    "value": "296",
+    "formula": "SUM(Reporting!F53:F68)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J21",
+    "value": "Total",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K21",
+    "value": "240414",
+    "formula": "SUM(K15:K20)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L21",
+    "value": "72124200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A22",
+    "value": "TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B22",
+    "value": "126925.326",
+    "formula": "SUM(B19:B21)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C22",
+    "value": "35888.6",
+    "formula": "SUM(C19:C21)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F22",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G22",
+    "value": "1405251",
+    "formula": "SUM(Recordkeeping!F36:F46)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H22",
+    "value": "119",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F23",
+    "value": "Third Party Disclosure",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G23",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H23",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J23",
+    "value": "Burden Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F24",
+    "value": "TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G24",
+    "value": "1475307",
+    "formula": "SUM(G21:G23)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H24",
+    "value": "415",
+    "formula": "SUM(H21:H23)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J24",
+    "value": "Section",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K24",
+    "value": "Reporting",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L24",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M24",
+    "value": "3rd Party",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N24",
+    "value": "Total",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "O24",
+    "value": "Cost",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A25",
+    "value": "Item #13, Other Costs Section 4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A26",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B26",
+    "value": "5791.6920000000009",
+    "formula": "B21*0.0004*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J26",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K26",
+    "value": "748749.3",
+    "formula": "B3"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L26",
+    "value": "242106.5",
+    "formula": "B4"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M26",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N26",
+    "value": "990855.8",
+    "formula": "SUM(K26:M26)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "O26",
+    "value": "297256740",
+    "formula": "+N26*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A27",
+    "value": "TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B27",
+    "value": "5791.6920000000009",
+    "formula": "SUM(B26)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F27",
+    "value": "Item #13, Other Costs Section 5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J27",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K27",
+    "value": "4167",
+    "formula": "G3"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L27",
+    "value": "8619",
+    "formula": "G4"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M27",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N27",
+    "value": "12786",
+    "formula": "SUM(K27:M27)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "O27",
+    "value": "3835800",
+    "formula": "+N27*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F28",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G28",
+    "value": "168630.12000000002",
+    "formula": "G22*0.0004*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J28",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K28",
+    "value": "78661.225999999995",
+    "formula": "B20"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L28",
+    "value": "48264.100000000006",
+    "formula": "B21"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M28",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N28",
+    "value": "126925.326",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "O28",
+    "value": "38077597.799999997",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F29",
+    "value": "TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G29",
+    "value": "168630.12000000002",
+    "formula": "SUM(G28)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J29",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K29",
+    "value": "70056",
+    "formula": "G21"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L29",
+    "value": "1405251",
+    "formula": "G22"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M29",
+    "value": "0",
+    "formula": "G23"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N29",
+    "value": "1475307",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "O29",
+    "value": "442592100",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A30",
+    "value": "Item #14, Costs to the Federal Government, Section 4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J30",
+    "value": "6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K30",
+    "value": "9720",
+    "formula": "B38"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L30",
+    "value": "1085",
+    "formula": "B39"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M30",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N30",
+    "value": "10805",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "O30",
+    "value": "3241500",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B31",
+    "value": "Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C31",
+    "value": "Cost @ $300/hr",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J31",
+    "value": "7",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K31",
+    "value": "716105.6",
+    "formula": "G38"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L31",
+    "value": "381621.7",
+    "formula": "G39"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M31",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N31",
+    "value": "1097727.3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "O31",
+    "value": "329318190",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A32",
+    "value": "Staff time",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B32",
+    "value": "41295",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C32",
+    "value": "12388500",
+    "formula": "B32*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F32",
+    "value": "Item #14, Costs to the Federal Government, Section 5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J32",
+    "value": "Total",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K32",
+    "value": "1627459.1260000002",
+    "formula": "SUM(K25:K31)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L32",
+    "value": "2086947.3",
+    "formula": "SUM(L25:L31)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M32",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N32",
+    "value": "3714406.426",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "O32",
+    "value": "1114321927.8",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G33",
+    "value": "Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H33",
+    "value": "Cost @ $300/hr",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J33",
+    "value": "Previous total",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K33",
+    "value": "1184555.6000000001",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L33",
+    "value": "2448598",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M33",
+    "value": "200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N33",
+    "value": "3633354.2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "O33",
+    "value": "1090006260",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F34",
+    "value": "Staff time",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G34",
+    "value": "73115",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H34",
+    "value": "21934500",
+    "formula": "G34*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J34",
+    "value": "Deltas",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K34",
+    "value": "442903.52600000007",
+    "formula": "+K32-K33"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L34",
+    "value": "-361650.69999999995",
+    "formula": "+L32-L33"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M34",
+    "value": "-200",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N34",
+    "value": "81052.826000000117",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "O34",
+    "value": "24315847.800000034",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A36",
+    "value": "Total Burden and Responses Section 6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F36",
+    "value": "Total Burden and Responses Section 7",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B37",
+    "value": "Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C37",
+    "value": "Responses",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G37",
+    "value": "Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H37",
+    "value": "Responses",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J37",
+    "value": "Responses",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A38",
+    "value": "Reporting",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B38",
+    "value": "9720",
+    "formula": "SUM(Reporting!H70)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C38",
+    "value": "27",
+    "formula": "Reporting!F70"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F38",
+    "value": "Reporting",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G38",
+    "value": "716105.6",
+    "formula": "SUM(Reporting!H73:H90)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H38",
+    "value": "4224.2",
+    "formula": "SUM(Reporting!F73:F90)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J38",
+    "value": "Section",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K38",
+    "value": "Reporting",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L38",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M38",
+    "value": "3rd Party",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N38",
+    "value": "TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A39",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B39",
+    "value": "1085",
+    "formula": "SUM(Recordkeeping!F48:F49)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C39",
+    "value": "32",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F39",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G39",
+    "value": "381621.7",
+    "formula": "SUM(Recordkeeping!F51:F68)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H39",
+    "value": "158",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A40",
+    "value": "TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B40",
+    "value": "10805",
+    "formula": "SUM(B38:B39)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C40",
+    "value": "59",
+    "formula": "SUM(C38:C39)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F40",
+    "value": "TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G40",
+    "value": "1097727.3",
+    "formula": "SUM(G38:G39)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H40",
+    "value": "4382.2",
+    "formula": "SUM(H38:H39)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J40",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K40",
+    "value": "2297.1499999999996",
+    "formula": "C3"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L40",
+    "value": "162",
+    "formula": "C4"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M40",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N40",
+    "value": "2459.1499999999996",
+    "formula": "SUM(K40:M40)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J41",
+    "value": "3",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K41",
+    "value": "54.66",
+    "formula": "H3"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L41",
+    "value": "169",
+    "formula": "H4"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M41",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N41",
+    "value": "223.66",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J42",
+    "value": "4",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K42",
+    "value": "35794.6",
+    "formula": "C20"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L42",
+    "value": "94",
+    "formula": "C21"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M42",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N42",
+    "value": "35888.6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A43",
+    "value": "Item #13, Other Costs Section 6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F43",
+    "value": "Item #13, Other Costs Section 7",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J43",
+    "value": "5",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K43",
+    "value": "296",
+    "formula": "H21"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L43",
+    "value": "119",
+    "formula": "H22"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M43",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N43",
+    "value": "415",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A44",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B44",
+    "value": "130.19999999999999",
+    "formula": "B39*0.0004*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F44",
+    "value": "Recordkeeping",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G44",
+    "value": "45794.604000000007",
+    "formula": "G39*0.0004*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J44",
+    "value": "6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K44",
+    "value": "27",
+    "formula": "C38"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L44",
+    "value": "32",
+    "formula": "C39"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M44",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N44",
+    "value": "59",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A45",
+    "value": "TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B45",
+    "value": "130.19999999999999",
+    "formula": "SUM(B44)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F45",
+    "value": "TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G45",
+    "value": "45794.604000000007",
+    "formula": "SUM(G44)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J45",
+    "value": "7",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K45",
+    "value": "4224.2",
+    "formula": "H38"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L45",
+    "value": "158",
+    "formula": "H39"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M45",
+    "value": "0",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N45",
+    "value": "4382.2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J46",
+    "value": "2024 TOTAL",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K46",
+    "value": "42693.609999999993",
+    "formula": "SUM(K39:K45)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L46",
+    "value": "169",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M46",
+    "value": "0",
+    "formula": "SUM(M39:M45)"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N46",
+    "value": "42862.609999999993",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J47",
+    "value": "Previous total",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K47",
+    "value": "42025",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L47",
+    "value": "164",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M47",
+    "value": "2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N47",
+    "value": "42191",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A48",
+    "value": "Item #14, Costs to the Federal Government, Section 6",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F48",
+    "value": "Item #14, Costs to the Federal Government, Section 7",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "J48",
+    "value": "Deltas",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "K48",
+    "value": "668.60999999999331",
+    "formula": "+K46-K47"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "L48",
+    "value": "5",
+    "formula": "+L46-L47"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "M48",
+    "value": "-2",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "N48",
+    "value": "671.60999999999331",
+    "formula": "N46-N47"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B49",
+    "value": "Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C49",
+    "value": "Cost @ $300/hr",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G49",
+    "value": "Hours",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H49",
+    "value": "Cost @ $300/hr",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "A50",
+    "value": "Staff time",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "B50",
+    "value": "2250",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "C50",
+    "value": "675000",
+    "formula": "B50*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F50",
+    "value": "Staff time",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G50",
+    "value": "20275",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H50",
+    "value": "6082500",
+    "formula": "G50*300"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G53",
+    "value": "HOURS",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H53",
+    "value": "RESPONSES",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F54",
+    "value": "2024",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G54",
+    "value": "3714406.426",
+    "formula": "+K32+L32+M32"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H54",
+    "value": "42862.609999999993",
+    "formula": "N46"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F55",
+    "value": "Previous",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G55",
+    "value": "3633354.2",
+    "formula": "N33"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H55",
+    "value": "42191",
+    "formula": "N47"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "F56",
+    "value": "Delta",
+    "formula": null
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "G56",
+    "value": "81052.225999999791",
+    "formula": "+G54-G55"
+  },
+  {
+    "sheet": "xl/worksheets/sheet3.xml",
+    "cell": "H56",
+    "value": "671.60999999999331",
+    "formula": "+H54-H55"
+  }
+]

@@ -1,0 +1,181 @@
+{
+  "icr_id": "202410-3150-005",
+  "omb_control_number": "3150-0011",
+  "agency": "NRC",
+  "title": "10 CFR Part 50, Domestic Licensing of Production and Utilization Facilities",
+  "submission_date": "10/24/2024",
+  "archetype": "nuclear licensing lifecycle",
+  "complexity": "very high",
+  "tsa_relevance": "high",
+  "review_status": "REVIEWED_PROVISIONAL",
+  "review_iteration": 6,
+  "rubric_version": "1.0.0",
+  "source_ids": [
+    "SRC-0114",
+    "SRC-0113"
+  ],
+  "source_verification_depth": "Complete Supporting Statement A plus package; underlying cited sources not all independently retrieved. Specific corroboration recorded separately.",
+  "score": {
+    "reproducibility": 18,
+    "provenance": 9,
+    "segmentation": 15,
+    "labor": 3,
+    "item13": 4,
+    "item14": 7,
+    "item15": 9,
+    "validation": 4,
+    "consistency": 4
+  },
+  "score_rationale": {
+    "reproducibility": "Six technical sections and a formula workbook preserve CFR-level workload and totals.",
+    "provenance": "Dates, CFRs, fee rule and experience identified; time and storage coefficients less independently grounded.",
+    "segmentation": "Applications, reactor types, records, inspections and standards have meaningful separate rows.",
+    "labor": "NRC fee rate of $300 is used for private and federal labor without occupational mapping; section2 cites2023 fee rule whereas overview cites2020.",
+    "item13": "Storage equals .0004 of recordkeeping labor cost; proxy coefficient has no accessible derivation.",
+    "item14": "Technical workload by section times fee rate; resource mix and overhead components hidden in fee proxy.",
+    "item15": "Section-level previous/current bridges and CFR driver explanations, including a418894-hour transfer; not every input interaction isolated.",
+    "validation": "Stakeholder challenge and NRC responses preserved, including opposing estimates and one added requirement.",
+    "consistency": "Main and workbook totals agree within whole-hour rounding; some section deltas differ by one hour."
+  },
+  "thoroughness": "extensive",
+  "model": {
+    "activity_columns": [
+      "activity",
+      "annual_responses",
+      "hours_per_response",
+      "reported_annual_hours"
+    ],
+    "activities": [
+      [
+        "Applications",
+        null,
+        null,
+        990856
+      ],
+      [
+        "Decommissioning",
+        null,
+        null,
+        12786
+      ],
+      [
+        "Inspections",
+        null,
+        null,
+        126925
+      ],
+      [
+        "License conditions",
+        null,
+        null,
+        1475307
+      ],
+      [
+        "License requirements",
+        null,
+        null,
+        10805
+      ],
+      [
+        "Standards",
+        null,
+        null,
+        1097727
+      ]
+    ],
+    "labor": {
+      "hourly_rate": 300,
+      "basis": "10CFR170.20 average professional staff-hour fee; section2 cites88FR39120 June15,2023",
+      "reported_labor": 1114321928
+    },
+    "item13": {
+      "method": "recordkeeping hours *300*.0004",
+      "hours": 2086947,
+      "reported": 250434,
+      "life": null
+    },
+    "item14": {
+      "section_hours": [
+        101953,
+        1526,
+        41295,
+        73115,
+        2250,
+        20275
+      ],
+      "rate": 300,
+      "reported": 72124200
+    },
+    "item15": {
+      "old_hours": 3633354,
+      "new_hours": 3714406,
+      "delta": 81052,
+      "old_responses": 42191,
+      "new_responses": 42863,
+      "transfer_out": {
+        "control": "3150-0264",
+        "hours": 418894,
+        "responses": 797
+      },
+      "detail": "Technical sections2–7, Reasons for Changes; workbook sheet3 rows54–56."
+    },
+    "assumptions": [
+      "New reactor application forecasts use pre-application engagement.",
+      "Storage-to-labor factor assumes stable pages and storage technology.",
+      "Maintenance record time reduced4315 to3000 hours using staff experience."
+    ]
+  },
+  "reconstruction_issues": [
+    "Fee rate is not independently established as respondent occupational compensation.",
+    "Storage proxy has no pages, price per page or digital-system basis.",
+    "ACU proposed200 rather than3580 hours for financial qualifications and12000 rather than7000 for FSAR; NRC rejected both using broader experience, without publishing underlying observations."
+  ],
+  "methods_worth_testing": [
+    "CFR-level transfer and change ledger.",
+    "Preserve adverse stakeholder burden estimates and agency disposition.",
+    "Publish formula workbook alongside narrative."
+  ],
+  "checks": [
+    {
+      "label": "Section sum",
+      "formula": "990856+12786+126925+1475307+10805+1097727",
+      "calculated": 3714406,
+      "reported": 3714406,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact displayed section sum.",
+      "source_id": "SRC-0114"
+    },
+    {
+      "label": "Federal section hours",
+      "formula": "(101953+1526+41295+73115+2250+20275)*300",
+      "calculated": 72124200,
+      "reported": 72124200,
+      "difference": 0,
+      "unit": "USD",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0114"
+    },
+    {
+      "label": "Storage",
+      "formula": "2086947*300*.0004",
+      "calculated": 250433.64,
+      "reported": 250434,
+      "difference": -0.35999999998603016,
+      "unit": "USD",
+      "interpretation": "Whole-dollar rounding.",
+      "source_id": "SRC-0114"
+    },
+    {
+      "label": "Old-new bridge",
+      "formula": "3714406-3633354",
+      "calculated": 81052,
+      "reported": 81052,
+      "difference": 0,
+      "unit": "hours",
+      "interpretation": "Exact.",
+      "source_id": "SRC-0114"
+    }
+  ],
+  "total_score": 73
+}

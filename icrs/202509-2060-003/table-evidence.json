@@ -1,0 +1,912 @@
+[
+  {
+    "file": "icrs/202509-2060-003/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Standard (40 CFR Part 63, Subpart BBBBBB)",
+        "SIC Codes",
+        "NAICS Codes"
+      ],
+      [
+        "Other Warehousing and Storage  ",
+        "4226  ",
+        "493190  "
+      ],
+      [
+        "Pipeline transportation of Refined Petroleum Products",
+        "4613",
+        "486910"
+      ],
+      [
+        "Petroleum Bulk Stations and Terminals",
+        "5171",
+        "424710"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202509-2060-003/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Number of Respondents"
+      ],
+      [
+        "",
+        "Respondents That Submit Reports",
+        "Respondents That Do Not Submit Any Reports",
+        ""
+      ],
+      [
+        "Year",
+        "(A)   Number of New Respondents ",
+        "(B)   Number of Existing Respondents",
+        "(C)   Number of Existing Respondents that keep records but do not submit reports",
+        "(D)   Number of Existing Respondents That Are Also New Respondents",
+        "(E)   Number of  Respondents a (E=A+B+C-D)"
+      ],
+      [
+        "1",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "2",
+        "0",
+        "4,632",
+        "0",
+        "0",
+        "4,632"
+      ],
+      [
+        "3",
+        "0",
+        "9,263",
+        "0",
+        "0",
+        "9,263"
+      ],
+      [
+        "Average",
+        "0",
+        "4,632",
+        "",
+        "",
+        "4,632"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202509-2060-003/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Total Annual Responses"
+      ],
+      [
+        "(A) Information Collection Activity",
+        "(B)   Number of Respondents",
+        "(C)   Number of Responses",
+        "(D)   Number of Existing Respondents That Keep Records But Do Not Submit Reports",
+        "(E)   Total Anual Responses E=( BxC )+D"
+      ],
+      [
+        "Notification of compliance status",
+        "3,073",
+        "1",
+        "0",
+        "3,073"
+      ],
+      [
+        "Semiannual compliance reports",
+        "0",
+        "2",
+        "0",
+        "0"
+      ],
+      [
+        "Notification of performance test",
+        "85",
+        "0.2",
+        "0",
+        "17"
+      ],
+      [
+        "Notification of performance evaluation",
+        "27",
+        "1",
+        "0",
+        "27"
+      ],
+      [
+        "Performance test",
+        "85",
+        "0.2",
+        "0",
+        "17"
+      ],
+      [
+        "Performance evaluation",
+        "27",
+        "1",
+        "0",
+        "27"
+      ],
+      [
+        "",
+        "",
+        "",
+        "Total",
+        "3,161"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202509-2060-003/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Requirement",
+        "Regulation Reference   (40 CFR Part 63)"
+      ],
+      [
+        "Notifications"
+      ],
+      [
+        "Initial notifications",
+        "§63.9(b)"
+      ],
+      [
+        "Notification of compliance status",
+        "§63.11093(b) "
+      ],
+      [
+        "Notification of performance testing",
+        "§63.9(e)"
+      ],
+      [
+        "Notification of performance evaluation",
+        "§63.9(g)"
+      ],
+      [
+        "Reports"
+      ],
+      [
+        "Performance test report",
+        "§63.11095(a)"
+      ],
+      [
+        "Performance evaluation report",
+        "§63.11095(b)"
+      ],
+      [
+        "Semiannual compliance report ",
+        "§63.11095(d) and (e)"
+      ],
+      [
+        "Recordkeeping"
+      ],
+      [
+        "Cargo tank documentation",
+        "§63.11094(b) and (c)"
+      ],
+      [
+        "Continuous monitoring data",
+        "§63.11094(e)(1)"
+      ],
+      [
+        "Compliance status",
+        "§63.11094(e)(2)"
+      ],
+      [
+        "Performance evaluation test plan",
+        "§63.11094(h)"
+      ],
+      [
+        "Storage tank inspections",
+        "§63.11094 (a)"
+      ],
+      [
+        "All equipment in gasoline service",
+        "§63.11094(d)"
+      ],
+      [
+        "Equipment leak inspection",
+        "§63.11094(d)"
+      ],
+      [
+        "Failures to meet an emissions limitation ",
+        "§63.11094(g)"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202509-2060-003/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Industry Worker Category  a",
+        "Labor Rates, $/ hr   a",
+        "110% Overhead",
+        "Total, $/ hr"
+      ],
+      [
+        "Managerial (11-0000)",
+        "$55.84",
+        "$61.42",
+        "$117.26"
+      ],
+      [
+        "Technical (20% 17-2000; 80% 49-9000)",
+        "$27.75",
+        "$30.53",
+        "$58.28"
+      ],
+      [
+        "Clerical (43-0000)",
+        "$21.11",
+        "$23.22",
+        "$44.33"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202509-2060-003/raw/supporting-statement-a-1.docx",
+    "table": 6,
+    "rows": [
+      [
+        "Agency Worker Categories  a",
+        "Labor Rates, $/ hr   a",
+        "60% Overhead",
+        "Total, $/ hr"
+      ],
+      [
+        "Managerial (GS-13, step 5)",
+        "$43.15",
+        "$25.89",
+        "$69.04"
+      ],
+      [
+        "Technical (GS-12, step 1) ",
+        "$32.02",
+        "$19.21",
+        "$51.23"
+      ],
+      [
+        "Clerical (GS-6, step 3)",
+        "$17.33",
+        "$10.40",
+        "$27.73"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202509-2060-003/raw/supporting-statement-a-1.docx",
+    "table": 7,
+    "rows": [
+      [
+        "Burden item",
+        "(A)  Person hours per occurrence",
+        "(B) No. of occurrences per respondent per year",
+        "(C)  P erson hours per respondent per year (C= AxB )",
+        "(D)  Respondents per year  a",
+        "(E)  Technical person- hours per year (E= CxD )",
+        "(F)  Management person hours per year (Ex0.05)",
+        "(G)  Clerical person hours per year (Ex0.1)",
+        "(H)  Total Cost per year  b"
+      ],
+      [
+        "1.  Applications",
+        "N/A",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "  "
+      ],
+      [
+        "2.  Surveys and Studies",
+        "N/A",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "  "
+      ],
+      [
+        "3.  Reporting Requirements",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "A.  Familiarization with Regulatory Requirements  c",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "     i . Bulk gasoline terminals",
+        "8",
+        "1",
+        "8",
+        "116",
+        "928",
+        "46.4",
+        "92.8",
+        "$63,639 "
+      ],
+      [
+        "    ii. Bulk gasoline plants, pipeline pumping stations, and pipeline breakout stations ",
+        "4",
+        "1",
+        "4",
+        "4,516",
+        "18,064",
+        "903.2",
+        "1,806.4",
+        "$1,238,757 "
+      ],
+      [
+        "B.  Required activities  d",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "     i . Equipment leaks monitoring  e",
+        "0",
+        "1",
+        "0",
+        "4,632",
+        "0",
+        "0",
+        "0",
+        "$0 "
+      ],
+      [
+        "    ii. Performance test  f",
+        "8",
+        "1",
+        "8",
+        "85",
+        "680",
+        "34",
+        "68",
+        "$46,632 "
+      ],
+      [
+        "    iii. Performance evaluation  g",
+        "8",
+        "0.2",
+        "1.6",
+        "27",
+        "43.2",
+        "2.16",
+        "4.32",
+        "$2,962 "
+      ],
+      [
+        "    iv. CEMS daily calibration checks  g",
+        "0.2",
+        "365",
+        "73",
+        "27",
+        "1,971",
+        "98.55",
+        "197.1",
+        "$135,163 "
+      ],
+      [
+        "    v. Flare sampling",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "         Sample collection",
+        "0.5",
+        "14",
+        "7",
+        "4",
+        "28",
+        "1.4",
+        "2.8",
+        "$1,920 "
+      ],
+      [
+        "         Analysis and reporting",
+        "8",
+        "1",
+        "8",
+        "4",
+        "32",
+        "1.6",
+        "3.2",
+        "$2,194 "
+      ],
+      [
+        "    vi. VCU sampling",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "         Sample collection",
+        "0.5",
+        "14",
+        "7",
+        "68",
+        "476",
+        "23.8",
+        "47.6",
+        "$32,642 "
+      ],
+      [
+        "         Analysis and reporting",
+        "8",
+        "1",
+        "8",
+        "68",
+        "544",
+        "27.2",
+        "54.4",
+        "$37,305 "
+      ],
+      [
+        "    vii. LEL monitoring",
+        "0.75",
+        "1",
+        "0.75",
+        "2,642",
+        "1,981.5",
+        "99.075",
+        "198.15",
+        "$135,883 "
+      ],
+      [
+        "C.  Write Report",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "     i . Notification of compliance status",
+        "1",
+        "1",
+        "1",
+        "3,073",
+        "3,073",
+        "153.65",
+        "307.3",
+        "$210,734 "
+      ],
+      [
+        "    ii. Semiannual compliance reports for large bulk gasoline terminals  h",
+        "5",
+        "2",
+        "10",
+        "0",
+        "0",
+        "0",
+        "0",
+        "$0 "
+      ],
+      [
+        "    iii. Semiannual compliance reports for small bulk gasoline terminals, bulk gasoline plants, pipeline pumping stations, and pipeline breakout stations  h",
+        "2.5",
+        "2",
+        "5",
+        "0",
+        "0",
+        "0",
+        "0",
+        "$0"
+      ],
+      [
+        "    iv. Notification of performance test",
+        "1",
+        "0.2",
+        "0.2",
+        "85",
+        "17",
+        "0.85",
+        "1.7",
+        "$1,166 "
+      ],
+      [
+        "    v. Report of performance test",
+        "8",
+        "0.2",
+        "1.6",
+        "85",
+        "136",
+        "6.8",
+        "13.6",
+        "$9,326 "
+      ],
+      [
+        "    vi. Notification of performance evaluation",
+        "1",
+        "1",
+        "1",
+        "27",
+        "27",
+        "1.35",
+        "2.7",
+        "$1,852 "
+      ],
+      [
+        "    vii. Report of performance evaluation",
+        "8",
+        "1",
+        "8",
+        "27",
+        "216",
+        "10.8",
+        "21.6",
+        "$14,812 "
+      ],
+      [
+        "    viii. Continuous Emissions Monitoring System (CEMS) QA plan",
+        "40",
+        "0.33",
+        "13.33",
+        "54",
+        "720",
+        "36",
+        "72",
+        "$49,375 "
+      ],
+      [
+        "Subtotal for Reporting Requirements",
+        "",
+        "",
+        "",
+        "",
+        "28,937",
+        "1,447",
+        "2,894",
+        "$1,984,363"
+      ],
+      [
+        "4. Recordkeeping Requirements",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "A. Familiarize with regulatory requirements",
+        "See 3A",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "B. Plan activities",
+        "1",
+        "1",
+        "1",
+        "4,632",
+        "4,632",
+        "231.6",
+        "463.2",
+        "$317,644 "
+      ],
+      [
+        "C. Implement activities",
+        "2",
+        "1",
+        "2",
+        "4,632",
+        "9,264",
+        "463.2",
+        "926.4",
+        "$635,288 "
+      ],
+      [
+        "D. Develop record system",
+        "1",
+        "1",
+        "1",
+        "4,632",
+        "4,632",
+        "231.6",
+        "463.2",
+        "$317,644 "
+      ],
+      [
+        "E. Time to enter information",
+        "0.5",
+        "2",
+        "1",
+        "4,632",
+        "4,632",
+        "231.6",
+        "463.2",
+        "$317,644 "
+      ],
+      [
+        "F. Time to train personnel",
+        "2",
+        "1",
+        "2",
+        "4,632",
+        "9,264",
+        "463.2",
+        "926.4",
+        "$635,288 "
+      ],
+      [
+        "G. Time to adjust existing ways to comply with previously applicable requirements",
+        "2",
+        "1",
+        "2",
+        "4,632",
+        "9,264",
+        "463.2",
+        "926.4",
+        "$635,288 "
+      ],
+      [
+        "H. Time to transit information",
+        "0.25",
+        "2",
+        "0.5",
+        "4,632",
+        "2,316",
+        "115.8",
+        "231.6",
+        "$158,822 "
+      ],
+      [
+        "Subtotal for Recordkeeping Requirements",
+        "",
+        "",
+        "",
+        "",
+        "44,004",
+        "2,200",
+        "4,400",
+        "$3,017,618"
+      ],
+      [
+        "TOTAL LABOR BURDEN AND COST ",
+        "",
+        "",
+        "",
+        "",
+        "83,882",
+        "$5,001,981"
+      ],
+      [
+        "TOTAL CAPITAL AND O&M COST",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$0"
+      ],
+      [
+        "GRAND TOTAL",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$5,001,981"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202509-2060-003/raw/supporting-statement-a-1.docx",
+    "table": 8,
+    "rows": [
+      [
+        "Assumptions:"
+      ],
+      [
+        "a    The average number of respondents per year over the first three years of this ICR. We assumed no facilities would report the first year, half the facilities would report the second year, and all facilities report the third year."
+      ],
+      [
+        "b   This ICR uses the following labor rates from the United States Department of Labor, Bureau of Labor Statistics, May 2021, mean labor rates for Merchant Wholesales, Nondurable Goods (NAICS 4240A3) for Management Occupations (11-0000), Engineers (17-2000) and Office and Administrative Support (43-0000) . The rates have been increased by 110 percent to account for the benefit packages available to those employed by private industry. Fully burdened hourly rates are: $117.26 for management; $58.28 for technical; and $44.33 for clerical."
+      ],
+      [
+        "c   We have assumed that all respondents will have to familiarize with regulatory requirements each year."
+      ],
+      [
+        "d   We have assumed that existing respondents are in compliance with the initial rule requirements."
+      ],
+      [
+        "e   Equipment leaks monitoring was assumed to be performed by an external contractor and these costs were included in the costs of equipment leak monitoring programs.  f   Performance tests only required for vapor combustors. g   Performance evaluations and CEMS calibrations only required for vapor recovery systems.  h   Respondents are already subject to semiannual compliance reporting. "
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202509-2060-003/raw/supporting-statement-a-1.docx",
+    "table": 9,
+    "rows": [
+      [
+        "Activity",
+        "(A)  EPA person-hours per occurrence",
+        "(B)  No. of occurrences per plant per year",
+        "(C)  EPA person hours per plant per year ( AxB )",
+        "(D)  Plants per year  a   ",
+        "(E) Technical person-hours per year ( CxD )",
+        "(F) Management person-hours per year (Ex0.05)",
+        "(G) Clerical person-hours per year (Ex0.1)",
+        "(H)  Cost, $  b"
+      ],
+      [
+        "Report Review:",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      [
+        "Notification of applicability  c",
+        "2",
+        "1",
+        "2",
+        "0",
+        "0",
+        "0",
+        "0",
+        "$0"
+      ],
+      [
+        "Notification of performance test  d",
+        "1",
+        "0.2",
+        "0.2",
+        "85",
+        "17",
+        "1",
+        "2",
+        "$977"
+      ],
+      [
+        "Notification of performance evaluations  e",
+        "1",
+        "1",
+        "1",
+        "27",
+        "27",
+        "1",
+        "3",
+        "$1,551"
+      ],
+      [
+        "CEMS QA plan  c",
+        "2",
+        "0.33",
+        "0.67",
+        "54",
+        "36",
+        "2",
+        "4",
+        "$2,068"
+      ],
+      [
+        "Notification of compliance status  c",
+        "4",
+        "1",
+        "2",
+        "3,073",
+        "6,146",
+        "307",
+        "615",
+        "$353,129 "
+      ],
+      [
+        "Performance test report  d",
+        "2",
+        "0.2",
+        "0.4",
+        "85",
+        "34",
+        "2",
+        "3",
+        "$1,954"
+      ],
+      [
+        "Performance evaluation report  e",
+        "2",
+        "1",
+        "2",
+        "27",
+        "54",
+        "3",
+        "5",
+        "$3,103"
+      ],
+      [
+        "Semiannual compliance report  f",
+        "2",
+        "2",
+        "4",
+        "0",
+        "0",
+        "0",
+        "0",
+        "$00"
+      ],
+      [
+        "TOTAL ANNUAL BURDEN AND COST",
+        " ",
+        " ",
+        " ",
+        " ",
+        "7,261",
+        "$362,782"
+      ],
+      [
+        "Assumptions:"
+      ],
+      [
+        "a   We have assumed that the average number of respondents that will be subject to this rule will be 4,632.  There will be no new facilities projected during the next three years of this ICR."
+      ],
+      [
+        "b   This cost is based on the following 2021 labor rates which incorporates a 1.6 benefits multiplication factor to account for government overhead expenses: $69.04 Managerial rate (GS-13, Step 5), $51.23 Technical rate (GS-12, Step 1), and $27.73 Clerical rate (GS-6, Step 3).  These rates are calculated from the hourly rates included in the Office of Personnel Management (OPM) 2021 General Schedule which excludes locality rates of pay; the rates have been increased by 60 percent to account for benefit packages available to government employees."
+      ],
+      [
+        "c   We have assumed that existing respondents are in compliance with the initial rule requirements.  New respondents would have to comply with the initial rule requirements including notification and performance test and performance evaluation for add-on control devices. d   Performance tests only required for vapor combustors. e   Performance evaluations only required for vapor recovery systems. f   Respondents are already subject to semiannual compliance reporting."
+      ],
+      [
+        ""
+      ]
+    ]
+  }
+]

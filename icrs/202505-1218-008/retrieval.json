@@ -1,0 +1,23 @@
+{
+  "icr_ref": "202505-1218-008",
+  "retrieved_at": "2026-09-09T11:20:28.681284+00:00",
+  "documents": [
+    {
+      "title": "SS_1218-0129_Benzene Standard_8-04-25_ROCIS (1).docx",
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=158380301",
+      "path": "icrs/202505-1218-008/raw/supporting-statement-a-1.docx",
+      "sha256": "f6daf916057a12c57b7e6aef968611b05739c5f80db6bee7632eeabf9ebe329f",
+      "text_chars": 69896
+    }
+  ],
+  "record_url": "https://www.reginfo.gov/public/do/PRAViewICR?ref_nbr=202505-1218-008",
+  "documents_url": "https://www.reginfo.gov/public/do/PRAViewDocument?ref_nbr=202505-1218-008",
+  "agency": "DOL/OSHA",
+  "title": "Benzene Standard (29 CFR 1910.1028)",
+  "omb_control_number": "1218-0129",
+  "submission_date": "01/26/2026",
+  "record_source_id": "SRC-0132",
+  "supporting_statement_source_ids": [
+    "SRC-0133"
+  ]
+}

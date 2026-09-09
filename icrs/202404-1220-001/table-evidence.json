@@ -1,762 +1,543 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202404-1220-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Sample Groups and Sizes for Pre-Collection Letter Test",
-      "rows": [
-        {
-          "text_line": 69,
-          "cells": [
-            "Size groupings",
-            "Control",
-            "Treatment",
-            "Total"
-          ]
-        },
-        {
-          "text_line": 70,
-          "cells": [
-            "Small establishments",
-            "1,350",
-            "1,350",
-            "2,700"
-          ]
-        },
-        {
-          "text_line": 71,
-          "cells": [
-            "Large Establishments",
-            "1,350",
-            "1,350",
-            "2,700"
-          ]
-        },
-        {
-          "text_line": 72,
-          "cells": [
-            "Total",
-            "2,700",
-            "2,700",
-            "5,400"
-          ]
-        }
+[
+  {
+    "file": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Size groupings",
+        "Control",
+        "Treatment",
+        "Total"
+      ],
+      [
+        "Small establishments",
+        "1,350",
+        "1,350",
+        "2,700"
+      ],
+      [
+        "Large Establishments",
+        "1,350",
+        "1,350",
+        "2,700"
+      ],
+      [
+        "Total",
+        "2,700",
+        "2,700",
+        "5,400"
       ]
-    },
-    {
-      "source_file": "icrs/202404-1220-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "BLS timeline for implementing SPD-15 in the Survey of Occupational Injuries and Illnesses (SOII)",
-      "rows": [
-        {
-          "text_line": 141,
-          "cells": [
-            "Date",
-            "Activity"
-          ]
-        },
-        {
-          "text_line": 142,
-          "cells": [
-            "January 2027",
-            "Begin work to implement SPD-15 changes to SOII forms, processes, and IT systems"
-          ]
-        },
-        {
-          "text_line": 143,
-          "cells": [
-            "January 2028",
-            "Collect reference year (RY) 2027 data reflecting updated race/ethnicity"
-          ]
-        },
-        {
-          "text_line": 144,
-          "cells": [
-            "January 2029",
-            "Collect RY 2028 data reflecting updated race/ethnicity"
-          ]
-        },
-        {
-          "text_line": 145,
-          "cells": [
-            "November 2029",
-            "Publish RY 2028-29 biennial case and demographic SOII estimates for first time using updated race/ethnicity"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Date",
+        "Activity"
+      ],
+      [
+        "January 2027",
+        "Begin work to implement SPD-15 changes to SOII forms, processes, and IT systems"
+      ],
+      [
+        "January 2028",
+        "Collect reference year (RY) 2027 data reflecting updated race/ethnicity"
+      ],
+      [
+        "January 2029",
+        "Collect RY 2028 data reflecting updated race/ethnicity"
+      ],
+      [
+        "November 2029",
+        "Publish RY 2028-29 biennial case and demographic SOII estimates for first time using updated race/ethnicity"
       ]
-    },
-    {
-      "source_file": "icrs/202404-1220-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 1. Reporting Burden for Form 9300 \u2013 Part I",
-      "rows": [
-        {
-          "text_line": 209,
-          "cells": [
-            "Sector",
-            "Sample units",
-            "Average Burden (minutes)",
-            "Hours"
-          ]
-        },
-        {
-          "text_line": 210,
-          "cells": [
-            "Private",
-            "207,300",
-            "10",
-            "34,550"
-          ]
-        },
-        {
-          "text_line": 211,
-          "cells": [
-            "Public (mandatory)",
-            "15,100",
-            "10",
-            "2,517  "
-          ]
-        },
-        {
-          "text_line": 212,
-          "cells": [
-            "Public (voluntary)",
-            "5,800",
-            "10",
-            "967"
-          ]
-        },
-        {
-          "text_line": 213,
-          "cells": [
-            "Total",
-            "228,200",
-            "10",
-            "38,034"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Sector",
+        "Sample units",
+        "Average Burden (minutes)",
+        "Hours"
+      ],
+      [
+        "Private",
+        "207,300",
+        "10",
+        "34,550"
+      ],
+      [
+        "Public (mandatory)",
+        "15,100",
+        "10",
+        "2,517  "
+      ],
+      [
+        "Public (voluntary)",
+        "5,800",
+        "10",
+        "967"
+      ],
+      [
+        "Total",
+        "228,200",
+        "10",
+        "38,034"
       ]
-    },
-    {
-      "source_file": "icrs/202404-1220-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 2. Reporting Burden for Form 9300 \u2013 Part II",
-      "rows": [
-        {
-          "text_line": 218,
-          "cells": [
-            "Sector",
-            "Days away from work cases and days of job transfer  and  restriction   cases",
-            "Average Burden (minutes)",
-            "Hours"
-          ]
-        },
-        {
-          "text_line": 219,
-          "cells": [
-            "Private",
-            "255,000",
-            "15",
-            "63,750"
-          ]
-        },
-        {
-          "text_line": 220,
-          "cells": [
-            "Public (mandatory)",
-            " 37,500",
-            "15",
-            "9,375"
-          ]
-        },
-        {
-          "text_line": 221,
-          "cells": [
-            "Public (voluntary)",
-            "  7,500",
-            "15",
-            "1,875"
-          ]
-        },
-        {
-          "text_line": 222,
-          "cells": [
-            "Total",
-            "300,000",
-            "15",
-            "75,000"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Sector",
+        "Days away from work cases and days of job transfer  and  restriction   cases",
+        "Average Burden (minutes)",
+        "Hours"
+      ],
+      [
+        "Private",
+        "255,000",
+        "15",
+        "63,750"
+      ],
+      [
+        "Public (mandatory)",
+        " 37,500",
+        "15",
+        "9,375"
+      ],
+      [
+        "Public (voluntary)",
+        "  7,500",
+        "15",
+        "1,875"
+      ],
+      [
+        "Total",
+        "300,000",
+        "15",
+        "75,000"
       ]
-    },
-    {
-      "source_file": "icrs/202404-1220-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 3. Reporting burden for treatment groups in pre-collection letter test",
-      "rows": [
-        {
-          "text_line": 227,
-          "cells": [
-            "Sector",
-            "Sample units (treatment groups)",
-            "Average Burden (Minutes)",
-            "Hours"
-          ]
-        },
-        {
-          "text_line": 228,
-          "cells": [
-            "Private , small establishments",
-            "1,350",
-            "6",
-            "135"
-          ]
-        },
-        {
-          "text_line": 229,
-          "cells": [
-            "Private, large establishments",
-            "1,350",
-            "6",
-            "135"
-          ]
-        },
-        {
-          "text_line": 230,
-          "cells": [
-            "Total",
-            "2,700",
-            "6",
-            "270"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Sector",
+        "Sample units (treatment groups)",
+        "Average Burden (Minutes)",
+        "Hours"
+      ],
+      [
+        "Private , small establishments",
+        "1,350",
+        "6",
+        "135"
+      ],
+      [
+        "Private, large establishments",
+        "1,350",
+        "6",
+        "135"
+      ],
+      [
+        "Total",
+        "2,700",
+        "6",
+        "270"
       ]
-    },
-    {
-      "source_file": "icrs/202404-1220-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 4. Total Reporting Burden for the SOII",
-      "rows": [
-        {
-          "text_line": 236,
-          "cells": [
-            "Sector",
-            "Hours"
-          ]
-        },
-        {
-          "text_line": 237,
-          "cells": [
-            "Private",
-            "98,570  (34,550 + 63,750  +270 )"
-          ]
-        },
-        {
-          "text_line": 238,
-          "cells": [
-            "Public (mandatory)",
-            "11,892 (2,517 + 9,375)"
-          ]
-        },
-        {
-          "text_line": 239,
-          "cells": [
-            "Public (voluntary)",
-            "2,842 (967 + 1,875)"
-          ]
-        },
-        {
-          "text_line": 240,
-          "cells": [
-            "Total",
-            "113,304  (38,034 + 75,000  +270 )"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+    "table": 6,
+    "rows": [
+      [
+        "Sector",
+        "Hours"
+      ],
+      [
+        "Private",
+        "98,570  (34,550 + 63,750  +270 )"
+      ],
+      [
+        "Public (mandatory)",
+        "11,892 (2,517 + 9,375)"
+      ],
+      [
+        "Public (voluntary)",
+        "2,842 (967 + 1,875)"
+      ],
+      [
+        "Total",
+        "113,304  (38,034 + 75,000  +270 )"
       ]
-    },
-    {
-      "source_file": "icrs/202404-1220-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 5. Recording Burden for Form 9300 \u2013 Part I",
-      "rows": [
-        {
-          "text_line": 247,
-          "cells": [
-            "Sector",
-            "Sample units",
-            "Average Burden (minutes)",
-            "Hours"
-          ]
-        },
-        {
-          "text_line": 248,
-          "cells": [
-            "Private",
-            "80,000",
-            "58",
-            "77,333"
-          ]
-        },
-        {
-          "text_line": 249,
-          "cells": [
-            "Public (voluntary)",
-            "5,800",
-            "58",
-            "5,607"
-          ]
-        },
-        {
-          "text_line": 250,
-          "cells": [
-            "Total",
-            "85,800",
-            "58",
-            "82,940"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+    "table": 7,
+    "rows": [
+      [
+        "Sector",
+        "Sample units",
+        "Average Burden (minutes)",
+        "Hours"
+      ],
+      [
+        "Private",
+        "80,000",
+        "58",
+        "77,333"
+      ],
+      [
+        "Public (voluntary)",
+        "5,800",
+        "58",
+        "5,607"
+      ],
+      [
+        "Total",
+        "85,800",
+        "58",
+        "82,940"
       ]
-    },
-    {
-      "source_file": "icrs/202404-1220-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 6. Recording Burden for Form 9300 \u2013 Part II",
-      "rows": [
-        {
-          "text_line": 255,
-          "cells": [
-            "Sector",
-            "Days away from work cases and days of job transfer or restriction   cases",
-            "Average Burden (minutes)",
-            "Log hours",
-            "Average Burden (minutes)",
-            "Incident report hours"
-          ]
-        },
-        {
-          "text_line": 256,
-          "cells": [
-            "Private",
-            "25,100",
-            "14",
-            "5,857",
-            "22",
-            "9,203"
-          ]
-        },
-        {
-          "text_line": 257,
-          "cells": [
-            "Public (voluntary)",
-            "6,000",
-            "14",
-            "1,400",
-            "22",
-            "2,200"
-          ]
-        },
-        {
-          "text_line": 258,
-          "cells": [
-            "Total",
-            "31,100",
-            "14",
-            "7,257",
-            "22",
-            "11,403"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+    "table": 8,
+    "rows": [
+      [
+        "Sector",
+        "Days away from work cases and days of job transfer or restriction   cases",
+        "Average Burden (minutes)",
+        "Log hours",
+        "Average Burden (minutes)",
+        "Incident report hours"
+      ],
+      [
+        "Private",
+        "25,100",
+        "14",
+        "5,857",
+        "22",
+        "9,203"
+      ],
+      [
+        "Public (voluntary)",
+        "6,000",
+        "14",
+        "1,400",
+        "22",
+        "2,200"
+      ],
+      [
+        "Total",
+        "31,100",
+        "14",
+        "7,257",
+        "22",
+        "11,403"
       ]
-    },
-    {
-      "source_file": "icrs/202404-1220-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 7. Total Recording Burden for Form 9300 Part I and Part II",
-      "rows": [
-        {
-          "text_line": 261,
-          "cells": [
-            "Sector",
-            "Hours"
-          ]
-        },
-        {
-          "text_line": 262,
-          "cells": [
-            "Private",
-            "92,393  ( 77,333 + 5,857 + 9,203 )"
-          ]
-        },
-        {
-          "text_line": 263,
-          "cells": [
-            "Public (voluntary)",
-            "9,207  ( 5,607 + 1,400 + 2,200 )"
-          ]
-        },
-        {
-          "text_line": 264,
-          "cells": [
-            "Total",
-            "101,600"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+    "table": 9,
+    "rows": [
+      [
+        "Sector",
+        "Hours"
+      ],
+      [
+        "Private",
+        "92,393  ( 77,333 + 5,857 + 9,203 )"
+      ],
+      [
+        "Public (voluntary)",
+        "9,207  ( 5,607 + 1,400 + 2,200 )"
+      ],
+      [
+        "Total",
+        "101,600"
       ]
-    },
-    {
-      "source_file": "icrs/202404-1220-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 8a. Total SOII Recording and Reporting Burden, including pre-collection test",
-      "rows": [
-        {
-          "text_line": 271,
-          "cells": [
-            "Sector",
-            "Sample units",
-            "Hours"
-          ]
-        },
-        {
-          "text_line": 272,
-          "cells": [
-            "Private",
-            "207,300",
-            "190,9 6 3  ( 34, 550  + 63,750  + 270  + 77,333 + 5,857 + 9,203 )"
-          ]
-        },
-        {
-          "text_line": 273,
-          "cells": [
-            "Public (mandatory)",
-            "15,100",
-            "11,892 (2,517 + 9,375)"
-          ]
-        },
-        {
-          "text_line": 274,
-          "cells": [
-            "Public (voluntary)",
-            "5,800",
-            "12,049  ( 967 + 1,875 + 5,607 + 1,400+ 2,200 )"
-          ]
-        },
-        {
-          "text_line": 275,
-          "cells": [
-            "Total",
-            "228,200",
-            "214, 904"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+    "table": 10,
+    "rows": [
+      [
+        "Sector",
+        "Sample units",
+        "Hours"
+      ],
+      [
+        "Private",
+        "207,300",
+        "190,9 6 3  ( 34, 550  + 63,750  + 270  + 77,333 + 5,857 + 9,203 )"
+      ],
+      [
+        "Public (mandatory)",
+        "15,100",
+        "11,892 (2,517 + 9,375)"
+      ],
+      [
+        "Public (voluntary)",
+        "5,800",
+        "12,049  ( 967 + 1,875 + 5,607 + 1,400+ 2,200 )"
+      ],
+      [
+        "Total",
+        "228,200",
+        "214, 904"
       ]
-    },
-    {
-      "source_file": "icrs/202404-1220-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 8b. Total SOII Recording and Reporting Burden, excluding pre-collection test",
-      "rows": [
-        {
-          "text_line": 278,
-          "cells": [
-            "Sector",
-            "Sample units",
-            "Hours"
-          ]
-        },
-        {
-          "text_line": 279,
-          "cells": [
-            "Private",
-            "207,300",
-            "190,693  ( 34, 550  + 63,750 + 77,333 + 5,857 + 9,203)"
-          ]
-        },
-        {
-          "text_line": 280,
-          "cells": [
-            "Public (mandatory)",
-            "15,100",
-            "11,892 (2,517 + 9,375)"
-          ]
-        },
-        {
-          "text_line": 281,
-          "cells": [
-            "Public (voluntary)",
-            "5,800",
-            "12,049  ( 967 + 1,875 + 5,607 + 1,400+ 2,200)"
-          ]
-        },
-        {
-          "text_line": 282,
-          "cells": [
-            "Total",
-            "228,200",
-            "214,634"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+    "table": 11,
+    "rows": [
+      [
+        "Sector",
+        "Sample units",
+        "Hours"
+      ],
+      [
+        "Private",
+        "207,300",
+        "190,693  ( 34, 550  + 63,750 + 77,333 + 5,857 + 9,203)"
+      ],
+      [
+        "Public (mandatory)",
+        "15,100",
+        "11,892 (2,517 + 9,375)"
+      ],
+      [
+        "Public (voluntary)",
+        "5,800",
+        "12,049  ( 967 + 1,875 + 5,607 + 1,400+ 2,200)"
+      ],
+      [
+        "Total",
+        "228,200",
+        "214,634"
       ]
-    },
-    {
-      "source_file": "icrs/202404-1220-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Estimated Annualized Respondent Cost and Hour Burden",
-      "rows": [
-        {
-          "text_line": 290,
-          "cells": [
-            "Survey Year",
-            "Sector",
-            "No. of Respondents",
-            "Reporting Burden (Hours)",
-            "Recording Burden (Hours)",
-            "Total  Burden (Hours)",
-            "Average Burden (Hours)",
-            "Hourly Wage Rate",
-            "Total  Burden C ost"
-          ]
-        },
-        {
-          "text_line": 291,
-          "cells": [
-            "2024",
-            "Private",
-            "207,300",
-            "98,570",
-            "92,393",
-            "190,963",
-            "0.921",
-            "$ 32.91",
-            "  $  6,284,592  "
-          ]
-        },
-        {
-          "text_line": 292,
-          "cells": [
-            "",
-            "Public (m)",
-            "15,100",
-            "11,892",
-            "  --",
-            "11,892",
-            "0.788",
-            "$ 32.91",
-            " $     391,366  "
-          ]
-        },
-        {
-          "text_line": 293,
-          "cells": [
-            "",
-            "Public (v)",
-            "5,800",
-            "  2,842",
-            "9,207",
-            "12,049",
-            "2.077",
-            "$ 32.91",
-            " $     396,533     "
-          ]
-        },
-        {
-          "text_line": 294,
-          "cells": [
-            "",
-            "Total",
-            "228,200",
-            "113,304",
-            "  101,600",
-            "214,904",
-            "0.942",
-            "$ 32.91",
-            " $  7,072,491  "
-          ]
-        },
-        {
-          "text_line": 295,
-          "cells": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "text_line": 296,
-          "cells": [
-            "2025",
-            "Private",
-            "207,300",
-            "98,300",
-            "92,393",
-            "190,693",
-            "0.920",
-            "$ 32.91",
-            "  $  6,275,707  "
-          ]
-        },
-        {
-          "text_line": 297,
-          "cells": [
-            "",
-            "Public (m)",
-            "15,100",
-            "11,892",
-            "  --",
-            "11,892",
-            "0.788",
-            "$ 32.91",
-            " $     391,366  "
-          ]
-        },
-        {
-          "text_line": 298,
-          "cells": [
-            "",
-            "Public (v)",
-            "5,800",
-            "  2,842",
-            "9,207",
-            "12,049",
-            "2.077",
-            "$ 32.91",
-            " $     396,533     "
-          ]
-        },
-        {
-          "text_line": 299,
-          "cells": [
-            "",
-            "Total",
-            "228,200",
-            "113,034",
-            "  101,600",
-            "214,634",
-            "0.941",
-            "$ 32.91",
-            " $  7,063,605  "
-          ]
-        },
-        {
-          "text_line": 300,
-          "cells": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            " $                  "
-          ]
-        },
-        {
-          "text_line": 301,
-          "cells": [
-            "2026",
-            "Private",
-            "207,300",
-            "98,300",
-            "92,393",
-            "190,693",
-            "0.920",
-            "$ 32.91",
-            "  $  6,275,707  "
-          ]
-        },
-        {
-          "text_line": 302,
-          "cells": [
-            "",
-            "Public (m)",
-            "15,100",
-            "11,892",
-            "  --",
-            "11,892",
-            "0.788",
-            "$ 32.91",
-            " $     391,366  "
-          ]
-        },
-        {
-          "text_line": 303,
-          "cells": [
-            "",
-            "Public (v)",
-            "5,800",
-            "  2,842",
-            "9,207",
-            "12,049",
-            "2.077",
-            "$ 32.91",
-            " $     396,533     "
-          ]
-        },
-        {
-          "text_line": 304,
-          "cells": [
-            "",
-            "Total",
-            "228,200",
-            "113,034",
-            "  101,600",
-            "214,634",
-            "0.941",
-            "$ 32.91",
-            " $  7,063,605  "
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+    "table": 12,
+    "rows": [
+      [
+        "Survey Year",
+        "Sector",
+        "No. of Respondents",
+        "Reporting Burden (Hours)",
+        "Recording Burden (Hours)",
+        "Total  Burden (Hours)",
+        "Average Burden (Hours)",
+        "Hourly Wage Rate",
+        "Total  Burden C ost"
+      ],
+      [
+        "2024",
+        "Private",
+        "207,300",
+        "98,570",
+        "92,393",
+        "190,963",
+        "0.921",
+        "$ 32.91",
+        "  $  6,284,592  "
+      ],
+      [
+        "",
+        "Public (m)",
+        "15,100",
+        "11,892",
+        "  --",
+        "11,892",
+        "0.788",
+        "$ 32.91",
+        " $     391,366  "
+      ],
+      [
+        "",
+        "Public (v)",
+        "5,800",
+        "  2,842",
+        "9,207",
+        "12,049",
+        "2.077",
+        "$ 32.91",
+        " $     396,533     "
+      ],
+      [
+        "",
+        "Total",
+        "228,200",
+        "113,304",
+        "  101,600",
+        "214,904",
+        "0.942",
+        "$ 32.91",
+        " $  7,072,491  "
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "2025",
+        "Private",
+        "207,300",
+        "98,300",
+        "92,393",
+        "190,693",
+        "0.920",
+        "$ 32.91",
+        "  $  6,275,707  "
+      ],
+      [
+        "",
+        "Public (m)",
+        "15,100",
+        "11,892",
+        "  --",
+        "11,892",
+        "0.788",
+        "$ 32.91",
+        " $     391,366  "
+      ],
+      [
+        "",
+        "Public (v)",
+        "5,800",
+        "  2,842",
+        "9,207",
+        "12,049",
+        "2.077",
+        "$ 32.91",
+        " $     396,533     "
+      ],
+      [
+        "",
+        "Total",
+        "228,200",
+        "113,034",
+        "  101,600",
+        "214,634",
+        "0.941",
+        "$ 32.91",
+        " $  7,063,605  "
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        " $                  "
+      ],
+      [
+        "2026",
+        "Private",
+        "207,300",
+        "98,300",
+        "92,393",
+        "190,693",
+        "0.920",
+        "$ 32.91",
+        "  $  6,275,707  "
+      ],
+      [
+        "",
+        "Public (m)",
+        "15,100",
+        "11,892",
+        "  --",
+        "11,892",
+        "0.788",
+        "$ 32.91",
+        " $     391,366  "
+      ],
+      [
+        "",
+        "Public (v)",
+        "5,800",
+        "  2,842",
+        "9,207",
+        "12,049",
+        "2.077",
+        "$ 32.91",
+        " $     396,533     "
+      ],
+      [
+        "",
+        "Total",
+        "228,200",
+        "113,034",
+        "  101,600",
+        "214,634",
+        "0.941",
+        "$ 32.91",
+        " $  7,063,605  "
       ]
-    },
-    {
-      "source_file": "icrs/202404-1220-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 9. Summary Timetable for Major SOII Collection Phases",
-      "rows": [
-        {
-          "text_line": 332,
-          "cells": [
-            "December",
-            "Pre-notification mailing"
-          ]
-        },
-        {
-          "text_line": 333,
-          "cells": [
-            "January",
-            "Initial mailing of BLS No. 9300 forms to sample units"
-          ]
-        },
-        {
-          "text_line": 334,
-          "cells": [
-            "March",
-            "Second request mailing to nonrespondents"
-          ]
-        },
-        {
-          "text_line": 335,
-          "cells": [
-            "April",
-            "Third request mailing to nonrespondents"
-          ]
-        },
-        {
-          "text_line": 336,
-          "cells": [
-            "May",
-            "Telephone ,  mail , or email  follow-up of key nonrespondents "
-          ]
-        },
-        {
-          "text_line": 337,
-          "cells": [
-            "July",
-            "Active collection of data closed"
-          ]
-        },
-        {
-          "text_line": 338,
-          "cells": [
-            "November",
-            "SOII news release highlighting industry rates and counts  (c haracteristics and circumstances of  workplace  injuries and illnesses   will be a  biennial  release)."
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202404-1220-001/raw/supporting-statement-a-1.docx",
+    "table": 13,
+    "rows": [
+      [
+        "December",
+        "Pre-notification mailing"
+      ],
+      [
+        "January",
+        "Initial mailing of BLS No. 9300 forms to sample units"
+      ],
+      [
+        "March",
+        "Second request mailing to nonrespondents"
+      ],
+      [
+        "April",
+        "Third request mailing to nonrespondents"
+      ],
+      [
+        "May",
+        "Telephone ,  mail , or email  follow-up of key nonrespondents "
+      ],
+      [
+        "July",
+        "Active collection of data closed"
+      ],
+      [
+        "November",
+        "SOII news release highlighting industry rates and counts  (c haracteristics and circumstances of  workplace  injuries and illnesses   will be a  biennial  release)."
       ]
-    }
-  ]
-}
+    ]
+  }
+]

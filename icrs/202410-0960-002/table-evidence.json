@@ -1,224 +1,164 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202410-0960-002/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Estimates of Public Reporting Burden",
-      "rows": [
-        {
-          "text_line": 57,
-          "cells": [
-            "Modality of Completion",
-            "Number of Respondents",
-            "Frequency of Response",
-            "Average Burden Per Response (minutes)",
-            "Estimates Total Annual Burden (hours)",
-            "Average Theoretical Hourly Cost Amount (dollars)*",
-            "Average Wait Time in Field Office (minutes)**",
-            "Total Annual Opportunity Cost (dollars)***"
-          ]
-        },
-        {
-          "text_line": 58,
-          "cells": [
-            "SSA-3441-BK  (Paper Form)",
-            "2 4,645",
-            "1",
-            "50",
-            "20,538",
-            "$ 13.31 *",
-            "",
-            "$ 273,361 ***"
-          ]
-        },
-        {
-          "text_line": 59,
-          "cells": [
-            "Electronic Disability Collect System (EDCS) \u2013 Individuals",
-            "159,971",
-            "1",
-            "50",
-            "133,309",
-            "$ 13.31 *",
-            "24**",
-            "$2,626,023 ***"
-          ]
-        },
-        {
-          "text_line": 60,
-          "cells": [
-            "Electronic Disability Collect System (EDCS) - Representatives",
-            "44,192",
-            "1",
-            "45",
-            "33,144",
-            "$ 58.40 *",
-            "",
-            "$ 1,935,610 ***"
-          ]
-        },
-        {
-          "text_line": 61,
-          "cells": [
-            "i3441 (Internet Application) - Individuals",
-            "696,896",
-            "1",
-            "33",
-            "383,293",
-            "$ 1 3.31 *",
-            "",
-            "$5,101,630 ***"
-          ]
-        },
-        {
-          "text_line": 62,
-          "cells": [
-            "i3441 (Internet Application) - Representatives",
-            "583,031",
-            "1",
-            "28",
-            "272,081",
-            "$ 58.40 *",
-            "",
-            "$ 15,889,530 ***"
-          ]
-        },
-        {
-          "text_line": 63,
-          "cells": [
-            "Totals",
-            "1, 508,735",
-            "",
-            "",
-            "842,365",
-            "",
-            "",
-            "$25,826,154 ***"
-          ]
-        }
+[
+  {
+    "file": "icrs/202410-0960-002/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Modality of Completion",
+        "Number of Respondents",
+        "Frequency of Response",
+        "Average Burden Per Response (minutes)",
+        "Estimates Total Annual Burden (hours)",
+        "Average Theoretical Hourly Cost Amount (dollars)*",
+        "Average Wait Time in Field Office (minutes)**",
+        "Total Annual Opportunity Cost (dollars)***"
+      ],
+      [
+        "SSA-3441-BK  (Paper Form)",
+        "2 4,645",
+        "1",
+        "50",
+        "20,538",
+        "$ 13.31 *",
+        "",
+        "$ 273,361 ***"
+      ],
+      [
+        "Electronic Disability Collect System (EDCS) – Individuals",
+        "159,971",
+        "1",
+        "50",
+        "133,309",
+        "$ 13.31 *",
+        "24**",
+        "$2,626,023 ***"
+      ],
+      [
+        "Electronic Disability Collect System (EDCS) - Representatives",
+        "44,192",
+        "1",
+        "45",
+        "33,144",
+        "$ 58.40 *",
+        "",
+        "$ 1,935,610 ***"
+      ],
+      [
+        "i3441 (Internet Application) - Individuals",
+        "696,896",
+        "1",
+        "33",
+        "383,293",
+        "$ 1 3.31 *",
+        "",
+        "$5,101,630 ***"
+      ],
+      [
+        "i3441 (Internet Application) - Representatives",
+        "583,031",
+        "1",
+        "28",
+        "272,081",
+        "$ 58.40 *",
+        "",
+        "$ 15,889,530 ***"
+      ],
+      [
+        "Totals",
+        "1, 508,735",
+        "",
+        "",
+        "842,365",
+        "",
+        "",
+        "$25,826,154 ***"
       ]
-    },
-    {
-      "source_file": "icrs/202410-0960-002/raw/supporting-statement-a-1.txt",
-      "preceding_text": "In addition, OMB\u2019s Office of Information and Regulatory Affairs is requiring SSA to use a rough estimate of a 30-minute, one-way drive time in our calculations of the time burden for this collection.  OIRA based their estimation on a spatial analysis of SSA\u2019s current field office locations and the location of the average population centers based on census tract information, which likely represents a 13.97 mile driving distance for one-way travel.  We depict this on the chart below:",
-      "rows": [
-        {
-          "text_line": 71,
-          "cells": [
-            "Total Number of Respondents Who Visit a Field Office",
-            "Frequency of Response",
-            "Average One-Way Travel Time to a Field Office  (minutes)",
-            "Estimated Total Travel Time to a Field Office (hours)",
-            "Total Annual Opportunity Cost for Travel Time  (dollars)****"
-          ]
-        },
-        {
-          "text_line": 72,
-          "cells": [
-            "159,971",
-            "1",
-            "30",
-            "79,986",
-            "$ 1,064,614 ****"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202410-0960-002/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Total Number of Respondents Who Visit a Field Office",
+        "Frequency of Response",
+        "Average One-Way Travel Time to a Field Office  (minutes)",
+        "Estimated Total Travel Time to a Field Office (hours)",
+        "Total Annual Opportunity Cost for Travel Time  (dollars)****"
+      ],
+      [
+        "159,971",
+        "1",
+        "30",
+        "79,986",
+        "$ 1,064,614 ****"
       ]
-    },
-    {
-      "source_file": "icrs/202410-0960-002/raw/supporting-statement-a-1.txt",
-      "preceding_text": "We calculated the following Learning Cost time burden based on the estimated time and effort we expect respondents will take to learn about this program, its applicability to their circumstances, and to cover any additional research we believe respondents may need to take to understand how to comply with the program requirements (beyond reading the instructions on the collection instrument):",
-      "rows": [
-        {
-          "text_line": 81,
-          "cells": [
-            "Total Number of Respondents ",
-            "Frequency of Response",
-            "Estimate Learning Cost (minutes)",
-            "Estimated Total Annual Burden (hours)",
-            "Total Annual Learning Cost (dollars)**"
-          ]
-        },
-        {
-          "text_line": 82,
-          "cells": [
-            "881,512",
-            "1",
-            "5",
-            "73,459",
-            "$977,739 ****"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202410-0960-002/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Total Number of Respondents ",
+        "Frequency of Response",
+        "Estimate Learning Cost (minutes)",
+        "Estimated Total Annual Burden (hours)",
+        "Total Annual Learning Cost (dollars)**"
+      ],
+      [
+        "881,512",
+        "1",
+        "5",
+        "73,459",
+        "$977,739 ****"
       ]
-    },
-    {
-      "source_file": "icrs/202410-0960-002/raw/supporting-statement-a-1.txt",
-      "preceding_text": "The annual cost to the Federal Government is approximately $3,005,838. This estimate accounts for costs from the following areas:",
-      "rows": [
-        {
-          "text_line": 95,
-          "cells": [
-            "Description of Cost Factor",
-            "Methodology for Estimating Cost",
-            "Cost in Dollars*"
-          ]
-        },
-        {
-          "text_line": 96,
-          "cells": [
-            "Designing and Printing the Form",
-            "Design cost and uploading into inForm; Systems to store form in  inForm  and make it available on our website",
-            "$2 ,042"
-          ]
-        },
-        {
-          "text_line": 97,
-          "cells": [
-            "Distributing, Shipping, and Material Costs for the Form",
-            "Distribution + Shipping + Material Cost (we no longer distribute or ship this form)",
-            "$ 0 *"
-          ]
-        },
-        {
-          "text_line": 98,
-          "cells": [
-            "SSA Employee (e.g., field office, 800 number, DDS staff) Information Collection and Processing Time",
-            "GS-9 employee x # of responses x processing time",
-            "         $ 2,997,425"
-          ]
-        },
-        {
-          "text_line": 99,
-          "cells": [
-            "Full-Time Equivalent Costs",
-            "Out of pocket costs + Other expenses for providing this service",
-            "$0 *"
-          ]
-        },
-        {
-          "text_line": 100,
-          "cells": [
-            "Systems Development, Updating, and Maintenance",
-            "GS-9  employee x man hours for development, updating, maintenance",
-            "$ 8,413"
-          ]
-        },
-        {
-          "text_line": 101,
-          "cells": [
-            "Quantifiable IT Costs",
-            "Any additional IT costs",
-            "$0 *"
-          ]
-        },
-        {
-          "text_line": 102,
-          "cells": [
-            "Total",
-            "",
-            "$ 3,007 ,881"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202410-0960-002/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Description of Cost Factor",
+        "Methodology for Estimating Cost",
+        "Cost in Dollars*"
+      ],
+      [
+        "Designing and Printing the Form",
+        "Design cost and uploading into inForm; Systems to store form in  inForm  and make it available on our website",
+        "$2 ,042"
+      ],
+      [
+        "Distributing, Shipping, and Material Costs for the Form",
+        "Distribution + Shipping + Material Cost (we no longer distribute or ship this form)",
+        "$ 0 *"
+      ],
+      [
+        "SSA Employee (e.g., field office, 800 number, DDS staff) Information Collection and Processing Time",
+        "GS-9 employee x # of responses x processing time",
+        "         $ 2,997,425"
+      ],
+      [
+        "Full-Time Equivalent Costs",
+        "Out of pocket costs + Other expenses for providing this service",
+        "$0 *"
+      ],
+      [
+        "Systems Development, Updating, and Maintenance",
+        "GS-9  employee x man hours for development, updating, maintenance",
+        "$ 8,413"
+      ],
+      [
+        "Quantifiable IT Costs",
+        "Any additional IT costs",
+        "$0 *"
+      ],
+      [
+        "Total",
+        "",
+        "$ 3,007 ,881"
       ]
-    }
-  ]
-}
+    ]
+  }
+]

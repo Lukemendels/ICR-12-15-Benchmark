@@ -1,0 +1,78 @@
+{
+  "query": "Acreage",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&terms=Acreage",
+  "rows": [
+    {
+      "refs": [
+        "202603-0535-001"
+      ],
+      "text": "0535-0213\n|\nUSDA/NASS\n|\nAgricultural Surveys Program\n|\nRevision of a currently approved collection\n|\n03/17/2026\n|\n04/22/2026\n|\nApproved with change\n|\n03/31/2028\n|\n2\n|\n65\n|"
+    },
+    {
+      "refs": [
+        "202309-0535-004"
+      ],
+      "text": "0535-0270\n|\nUSDA/NASS\n|\nHemp Production and Disposition Inquiry\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n09/21/2023\n|\n10/19/2023\n|\nApproved without change\n|\n08/31/2024\n|\n2\n|\n3\n|"
+    },
+    {
+      "refs": [
+        "202311-0535-002"
+      ],
+      "text": "0535-0270\n|\nUSDA/NASS\n|\nHemp Production and Disposition Inquiry\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n11/07/2023\n|\n11/16/2023\n|\nApproved without change\n|\n08/31/2024\n|\n2\n|\n4\n|"
+    },
+    {
+      "refs": [
+        "202404-0535-004"
+      ],
+      "text": "0535-0270\n|\nUSDA/NASS\n|\nHemp Production and Disposition Inquiry\n|\nRevision of a currently approved collection\n|\n06/04/2024\n|\n07/24/2024\n|\nApproved without change\n|\n07/31/2027\n|\n2\n|\n1\n|"
+    },
+    {
+      "refs": [
+        "202601-0535-031"
+      ],
+      "text": "0535-0270\n|\nUSDA/NASS\n|\nHemp Production and Disposition Inquiry\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n01/26/2026\n|\n02/24/2026\n|\nApproved with change\n|\n07/31/2027\n|\n2\n|\n1\n|"
+    },
+    {
+      "refs": [
+        "202607-0535-003"
+      ],
+      "text": "0535-0270\n|\nUSDA/NASS\n|\nHemp Production and Disposition Inquiry\n|\nRevision of a currently approved collection\n|\n08/19/2026\n|\n|\n\n|\n07/31/2027\n|\n2\n|\n1\n|"
+    },
+    {
+      "refs": [
+        "202309-0535-006"
+      ],
+      "text": "0535-0276\n|\nUSDA/NASS\n|\n2023 Hawaii Agricultural Disaster Survey\n|\nNew collection (Request for a new OMB Control Number)\n|\n10/05/2023\n|\n10/05/2023\n|\nApproved without change\n|\n03/31/2024\n|\n2\n|\n1\n|"
+    },
+    {
+      "refs": [
+        "202403-0563-001"
+      ],
+      "text": "0563-0084\n|\nUSDA/FCIC\n|\nAcreage/Crop Reporting Streamling Initiative (ACRSI)\n|\nRevision of a currently approved collection\n|\n12/27/2024\n|\n02/19/2025\n|\nApproved without change\n|\n02/29/2028\n|\n1\n|\n1\n|"
+    },
+    {
+      "refs": [
+        "202504-1004-001"
+      ],
+      "text": "1004-0121\n|\nDOI/BLM\n|\nLeasing of Solid Minerals Other Than Coal and Oil Shale (43 CFR 3500-3590)\n|\nRevision of a currently approved collection\n|\n07/17/2025\n|\n12/31/2025\n|\nApproved without change\n|\n12/31/2028\n|\n32\n|\n12\n|"
+    },
+    {
+      "refs": [
+        "202601-1004-001"
+      ],
+      "text": "1004-0121\n|\nDOI/BLM\n|\nLeasing of Solid Minerals Other Than Coal and Oil Shale (43 CFR 3500-3590)\n|\nNo material or nonsubstantive change to a currently approved collection\n|\n01/28/2026\n|\n02/24/2026\n|\nApproved without change\n|\n12/31/2028\n|\n32\n|\n12\n|"
+    }
+  ],
+  "all_refs": [
+    "202309-0535-004",
+    "202309-0535-006",
+    "202311-0535-002",
+    "202403-0563-001",
+    "202404-0535-004",
+    "202504-1004-001",
+    "202601-0535-031",
+    "202601-1004-001",
+    "202603-0535-001",
+    "202607-0535-003"
+  ]
+}

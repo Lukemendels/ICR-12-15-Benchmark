@@ -1,306 +1,240 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202402-1652-002/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Tab le 1 :  Public Hour Burden and Costs for Air Cargo Security Collection",
-      "rows": [
-        {
-          "text_line": 115,
-          "cells": [
-            "Collection Activity",
-            "Number of Annual Respondents",
-            "Number of Annual Responses",
-            "Hour Burden per Response",
-            "Total Annual Hour Burden",
-            "Respondent Wage Rate",
-            "Annual Hour Burden Cost"
-          ]
-        },
-        {
-          "text_line": 116,
-          "cells": [
-            "",
-            "A",
-            "B",
-            "C",
-            "D  =  B  x  C",
-            "E",
-            "F  =  D  x  E"
-          ]
-        },
-        {
-          "text_line": 117,
-          "cells": [
-            "Security Program New Entrants",
-            "201",
-            "                             201 ",
-            "4",
-            "                          804.0 ",
-            "$103.20",
-            "$82,969"
-          ]
-        },
-        {
-          "text_line": 118,
-          "cells": [
-            "Security Program Renewals",
-            "3 , 341",
-            "                          3,341 ",
-            "4",
-            "                    13,364.0 ",
-            "$103.20",
-            "$1,379,110"
-          ]
-        },
-        {
-          "text_line": 119,
-          "cells": [
-            "Security Program Appeals",
-            "33",
-            "                               33 ",
-            "5",
-            "                          167.1 ",
-            "$103.20",
-            "$17,239"
-          ]
-        },
-        {
-          "text_line": 120,
-          "cells": [
-            "TSA Issued Amendments",
-            "600",
-            "                             600 ",
-            "1",
-            "                          600.0 ",
-            "$103.20",
-            "$61,918"
-          ]
-        },
-        {
-          "text_line": 121,
-          "cells": [
-            "Industry Requested amendments",
-            "946",
-            "                             946 ",
-            "1",
-            "                          946.0 ",
-            "$103.20",
-            "$97,623"
-          ]
-        },
-        {
-          "text_line": 122,
-          "cells": [
-            "STA Applications",
-            "3,542",
-            "                        98,500 ",
-            "0.25",
-            "                    24,625.0 ",
-            "$34.62",
-            "$852,508"
-          ]
-        },
-        {
-          "text_line": 123,
-          "cells": [
-            "Electronic KSMS Submissions",
-            "3,542",
-            "                      800,000 ",
-            "0.033",
-            "                    26,666.7 ",
-            "$34.62",
-            "$923,190"
-          ]
-        },
-        {
-          "text_line": 124,
-          "cells": [
-            "Manual KSMS Submissions",
-            "3,542",
-            "                          1,400 ",
-            "1",
-            "                      1,400.0 ",
-            "$34.62",
-            "$48,467"
-          ]
-        },
-        {
-          "text_line": 125,
-          "cells": [
-            "Record - keeping",
-            "3,542",
-            "                      102,042 ",
-            "0.08",
-            "                      8,503.5 ",
-            "$26.73",
-            "$227,286"
-          ]
-        },
-        {
-          "text_line": 126,
-          "cells": [
-            "Total ",
-            "",
-            "      1,007,063 ",
-            "\u00a0",
-            "                    77,076.2 ",
-            "\u00a0",
-            "$3,690,311"
-          ]
-        }
+[
+  {
+    "file": "icrs/202402-1652-002/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Tab le 1 :  Public Hour Burden and Costs for Air Cargo Security Collection"
+      ],
+      [
+        "Collection Activity",
+        "Number of Annual Respondents",
+        "Number of Annual Responses",
+        "Hour Burden per Response",
+        "Total Annual Hour Burden",
+        "Respondent Wage Rate",
+        "Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C",
+        "D  =  B  x  C",
+        "E",
+        "F  =  D  x  E"
+      ],
+      [
+        "Security Program New Entrants",
+        "201",
+        "                             201 ",
+        "4",
+        "                          804.0 ",
+        "$103.20",
+        "$82,969"
+      ],
+      [
+        "Security Program Renewals",
+        "3 , 341",
+        "                          3,341 ",
+        "4",
+        "                    13,364.0 ",
+        "$103.20",
+        "$1,379,110"
+      ],
+      [
+        "Security Program Appeals",
+        "33",
+        "                               33 ",
+        "5",
+        "                          167.1 ",
+        "$103.20",
+        "$17,239"
+      ],
+      [
+        "TSA Issued Amendments",
+        "600",
+        "                             600 ",
+        "1",
+        "                          600.0 ",
+        "$103.20",
+        "$61,918"
+      ],
+      [
+        "Industry Requested amendments",
+        "946",
+        "                             946 ",
+        "1",
+        "                          946.0 ",
+        "$103.20",
+        "$97,623"
+      ],
+      [
+        "STA Applications",
+        "3,542",
+        "                        98,500 ",
+        "0.25",
+        "                    24,625.0 ",
+        "$34.62",
+        "$852,508"
+      ],
+      [
+        "Electronic KSMS Submissions",
+        "3,542",
+        "                      800,000 ",
+        "0.033",
+        "                    26,666.7 ",
+        "$34.62",
+        "$923,190"
+      ],
+      [
+        "Manual KSMS Submissions",
+        "3,542",
+        "                          1,400 ",
+        "1",
+        "                      1,400.0 ",
+        "$34.62",
+        "$48,467"
+      ],
+      [
+        "Record - keeping",
+        "3,542",
+        "                      102,042 ",
+        "0.08",
+        "                      8,503.5 ",
+        "$26.73",
+        "$227,286"
+      ],
+      [
+        "Total ",
+        "",
+        "      1,007,063 ",
+        " ",
+        "                    77,076.2 ",
+        " ",
+        "$3,690,311"
       ]
-    },
-    {
-      "source_file": "icrs/202402-1652-002/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 2 :  STA Fee  Costs",
-      "rows": [
-        {
-          "text_line": 134,
-          "cells": [
-            "Number of STAs",
-            "Fee per STA",
-            "STA Fee Costs"
-          ]
-        },
-        {
-          "text_line": 135,
-          "cells": [
-            "A",
-            "B",
-            "C = A x B"
-          ]
-        },
-        {
-          "text_line": 136,
-          "cells": [
-            "98,500",
-            "$41",
-            "$4,038,500"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202402-1652-002/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Table 2 :  STA Fee  Costs"
+      ],
+      [
+        "Number of STAs",
+        "Fee per STA",
+        "STA Fee Costs"
+      ],
+      [
+        "A",
+        "B",
+        "C = A x B"
+      ],
+      [
+        "98,500",
+        "$41",
+        "$4,038,500"
       ]
-    },
-    {
-      "source_file": "icrs/202402-1652-002/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 3 :  TSA Hour Burden and Costs for Air Cargo Security Collection",
-      "rows": [
-        {
-          "text_line": 144,
-          "cells": [
-            "Collection Activity",
-            "Number of Annual Responses",
-            "Hour Burden per Response",
-            "Total Annual Hour Burden",
-            "TSA Wage Rate",
-            "Annual Hour Burden Cost"
-          ]
-        },
-        {
-          "text_line": 145,
-          "cells": [
-            "",
-            "A",
-            "B",
-            "C = A x B",
-            "D",
-            "E = C x D"
-          ]
-        },
-        {
-          "text_line": 146,
-          "cells": [
-            "Security Program Review",
-            "                               3,542 ",
-            "                            2.25 ",
-            "                        7,970 ",
-            "$80.53",
-            "$641,766"
-          ]
-        },
-        {
-          "text_line": 147,
-          "cells": [
-            "Amendments",
-            "                               1,546 ",
-            "                             120 ",
-            "                    185,520 ",
-            "$87.11",
-            "$16,160,705"
-          ]
-        },
-        {
-          "text_line": 148,
-          "cells": [
-            "Total",
-            "                               5,088 ",
-            "\u00a0",
-            "                    193,490 ",
-            "\u00a0",
-            "$16,802,471"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202402-1652-002/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Table 3 :  TSA Hour Burden and Costs for Air Cargo Security Collection"
+      ],
+      [
+        "Collection Activity",
+        "Number of Annual Responses",
+        "Hour Burden per Response",
+        "Total Annual Hour Burden",
+        "TSA Wage Rate",
+        "Annual Hour Burden Cost"
+      ],
+      [
+        "",
+        "A",
+        "B",
+        "C = A x B",
+        "D",
+        "E = C x D"
+      ],
+      [
+        "Security Program Review",
+        "                               3,542 ",
+        "                            2.25 ",
+        "                        7,970 ",
+        "$80.53",
+        "$641,766"
+      ],
+      [
+        "Amendments",
+        "                               1,546 ",
+        "                             120 ",
+        "                    185,520 ",
+        "$87.11",
+        "$16,160,705"
+      ],
+      [
+        "Total",
+        "                               5,088 ",
+        " ",
+        "                    193,490 ",
+        " ",
+        "$16,802,471"
       ]
-    },
-    {
-      "source_file": "icrs/202402-1652-002/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 4 :  TSA KSMS Con tracting Costs",
-      "rows": [
-        {
-          "text_line": 154,
-          "cells": [
-            "Business Vetting Services",
-            "Operations and Maintenance",
-            "Total"
-          ]
-        },
-        {
-          "text_line": 155,
-          "cells": [
-            "A",
-            "B",
-            "C = A +   B"
-          ]
-        },
-        {
-          "text_line": 156,
-          "cells": [
-            "$6,500,000",
-            "$1, 6 00,000",
-            "$ 8,1 00,000"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202402-1652-002/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Table 4 :  TSA KSMS Con tracting Costs"
+      ],
+      [
+        "Business Vetting Services",
+        "Operations and Maintenance",
+        "Total"
+      ],
+      [
+        "A",
+        "B",
+        "C = A +   B"
+      ],
+      [
+        "$6,500,000",
+        "$1, 6 00,000",
+        "$ 8,1 00,000"
       ]
-    },
-    {
-      "source_file": "icrs/202402-1652-002/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 5 :  Total TSA Costs",
-      "rows": [
-        {
-          "text_line": 162,
-          "cells": [
-            "Hour Burden Costs",
-            "KSMS Contracting Costs",
-            "Total TSA Costs"
-          ]
-        },
-        {
-          "text_line": 163,
-          "cells": [
-            "A",
-            "B",
-            "C = A + B"
-          ]
-        },
-        {
-          "text_line": 164,
-          "cells": [
-            "$16,802,471",
-            "$8,100,000",
-            "$24,902,471"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202402-1652-002/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Table 5 :  Total TSA Costs"
+      ],
+      [
+        "Hour Burden Costs",
+        "KSMS Contracting Costs",
+        "Total TSA Costs"
+      ],
+      [
+        "A",
+        "B",
+        "C = A + B"
+      ],
+      [
+        "$16,802,471",
+        "$8,100,000",
+        "$24,902,471"
       ]
-    }
-  ]
-}
+    ]
+  }
+]

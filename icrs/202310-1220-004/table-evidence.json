@@ -1,1252 +1,928 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 1a. Anticipated private sector sample burden by activity type for FY 2024 (annual figures)",
-      "rows": [
-        {
-          "text_line": 260,
-          "cells": [
-            "Collection Activity",
-            "Number of Respondents Per Activity (Net)",
-            "Responses  Per  Respondent",
-            "Total  Annual  Responses by Activity",
-            "Minutes Per  Response",
-            "Total  Hours"
-          ]
-        },
-        {
-          "text_line": 261,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data ",
-            "2,364  ",
-            "1",
-            "2,364",
-            "254",
-            "10,00 8"
-          ]
-        },
-        {
-          "text_line": 262,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS   data (nonresponse)",
-            "2,364",
-            "1",
-            "2,364",
-            "5",
-            "1 97"
-          ]
-        },
-        {
-          "text_line": 263,
-          "cells": [
-            "Activity 1b\u2014Updates of NCS data",
-            "11,500",
-            "3.2",
-            "36,800  ",
-            "40",
-            "24,533  "
-          ]
-        },
-        {
-          "text_line": 264,
-          "cells": [
-            "Activity 2\u2014Feasibility survey testing",
-            "400",
-            "1",
-            "400",
-            "60",
-            "400"
-          ]
-        },
-        {
-          "text_line": 265,
-          "cells": [
-            "Activity 3a\u2014Re-interview for quality assurance activities of initiations",
-            "118",
-            "1",
-            "118",
-            "15",
-            "30"
-          ]
-        },
-        {
-          "text_line": 266,
-          "cells": [
-            "Activity 3b\u2014Re-interview for quality assurance activities of updates",
-            "575",
-            "3.2",
-            "1, 840  ",
-            "15",
-            "460  "
-          ]
-        },
-        {
-          "text_line": 267,
-          "cells": [
-            "FY 202 4  Totals annually",
-            "17,321",
-            "",
-            "43,8 8 6",
-            "--",
-            "35,62 8  "
-          ]
-        }
+[
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Collection Activity",
+        "Number of Respondents Per Activity (Net)",
+        "Responses  Per  Respondent",
+        "Total  Annual  Responses by Activity",
+        "Minutes Per  Response",
+        "Total  Hours"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data ",
+        "2,364  ",
+        "1",
+        "2,364",
+        "254",
+        "10,00 8"
+      ],
+      [
+        "Activity 1a—Initiation of NCS   data (nonresponse)",
+        "2,364",
+        "1",
+        "2,364",
+        "5",
+        "1 97"
+      ],
+      [
+        "Activity 1b—Updates of NCS data",
+        "11,500",
+        "3.2",
+        "36,800  ",
+        "40",
+        "24,533  "
+      ],
+      [
+        "Activity 2—Feasibility survey testing",
+        "400",
+        "1",
+        "400",
+        "60",
+        "400"
+      ],
+      [
+        "Activity 3a—Re-interview for quality assurance activities of initiations",
+        "118",
+        "1",
+        "118",
+        "15",
+        "30"
+      ],
+      [
+        "Activity 3b—Re-interview for quality assurance activities of updates",
+        "575",
+        "3.2",
+        "1, 840  ",
+        "15",
+        "460  "
+      ],
+      [
+        "FY 202 4  Totals annually",
+        "17,321",
+        "",
+        "43,8 8 6",
+        "--",
+        "35,62 8  "
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 1b. Anticipated private sector sample burden by activity type for FY 2025 (annual figures)",
-      "rows": [
-        {
-          "text_line": 272,
-          "cells": [
-            "Collection Activity",
-            "Number of Respondents Per Activity (Net)",
-            "Responses  Per  Respondent",
-            "Total  Annual  Responses by Activity",
-            "Minutes Per  Response",
-            "Total  Hours"
-          ]
-        },
-        {
-          "text_line": 273,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data ",
-            "1,773",
-            "1",
-            "1,773",
-            "254",
-            "7,50 6"
-          ]
-        },
-        {
-          "text_line": 274,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data  (nonresponse)",
-            "1, 773",
-            "1",
-            "1, 773",
-            "5",
-            "148"
-          ]
-        },
-        {
-          "text_line": 275,
-          "cells": [
-            "Activity 1b\u2014Updates of NCS data",
-            "13,000",
-            "3. 2",
-            "41,600",
-            "40",
-            "27,733"
-          ]
-        },
-        {
-          "text_line": 276,
-          "cells": [
-            "Activity 2\u2014Feasibility survey testing",
-            "4 00",
-            "1",
-            "4 00",
-            "60",
-            "4 00"
-          ]
-        },
-        {
-          "text_line": 277,
-          "cells": [
-            "Activity 3a\u2014Re-interview for quality assurance activities of initiations",
-            "89",
-            "1",
-            "89",
-            "15",
-            "2 2"
-          ]
-        },
-        {
-          "text_line": 278,
-          "cells": [
-            "Activity 3b\u2014Re-interview for quality assurance activities of updates",
-            "650",
-            "3. 2",
-            "2,080",
-            "15",
-            "520"
-          ]
-        },
-        {
-          "text_line": 279,
-          "cells": [
-            "FY 20 2 5  To tals annually",
-            "17,685",
-            "--",
-            "47,715",
-            "--",
-            "36,32 9"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Collection Activity",
+        "Number of Respondents Per Activity (Net)",
+        "Responses  Per  Respondent",
+        "Total  Annual  Responses by Activity",
+        "Minutes Per  Response",
+        "Total  Hours"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data ",
+        "1,773",
+        "1",
+        "1,773",
+        "254",
+        "7,50 6"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data  (nonresponse)",
+        "1, 773",
+        "1",
+        "1, 773",
+        "5",
+        "148"
+      ],
+      [
+        "Activity 1b—Updates of NCS data",
+        "13,000",
+        "3. 2",
+        "41,600",
+        "40",
+        "27,733"
+      ],
+      [
+        "Activity 2—Feasibility survey testing",
+        "4 00",
+        "1",
+        "4 00",
+        "60",
+        "4 00"
+      ],
+      [
+        "Activity 3a—Re-interview for quality assurance activities of initiations",
+        "89",
+        "1",
+        "89",
+        "15",
+        "2 2"
+      ],
+      [
+        "Activity 3b—Re-interview for quality assurance activities of updates",
+        "650",
+        "3. 2",
+        "2,080",
+        "15",
+        "520"
+      ],
+      [
+        "FY 20 2 5  To tals annually",
+        "17,685",
+        "--",
+        "47,715",
+        "--",
+        "36,32 9"
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 1c. Anticipated private sector sample burden by activity type for FY 2026 (annual figures)",
-      "rows": [
-        {
-          "text_line": 283,
-          "cells": [
-            "Collection Activity",
-            "Number of Respondents Per Activity (Net)",
-            "Responses  Per  Respondent",
-            "Total  Annual  Responses by Activity",
-            "Minutes Per  Response",
-            "Total  Hours"
-          ]
-        },
-        {
-          "text_line": 284,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data ",
-            "621",
-            "1",
-            "621",
-            "254",
-            "2,62 9"
-          ]
-        },
-        {
-          "text_line": 285,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data  (nonresponse)",
-            "621",
-            "1",
-            "621",
-            "5",
-            "52"
-          ]
-        },
-        {
-          "text_line": 286,
-          "cells": [
-            "Activity 1b\u2014Updates of NCS data",
-            "14,425",
-            "3. 2",
-            "46,160",
-            "40",
-            "30,773"
-          ]
-        },
-        {
-          "text_line": 287,
-          "cells": [
-            "Activity 2\u2014Feasibility survey testing",
-            "400",
-            "1",
-            "400",
-            "60",
-            "400"
-          ]
-        },
-        {
-          "text_line": 288,
-          "cells": [
-            "Activity 3a\u2014Re-interview for quality  assurance activities of initiations",
-            "31",
-            "1",
-            "31",
-            "15",
-            "8"
-          ]
-        },
-        {
-          "text_line": 289,
-          "cells": [
-            "Activity 3b\u2014Re-interview for quality assurance activities of updates",
-            "721",
-            "3. 2",
-            "2, 307",
-            "15",
-            "577"
-          ]
-        },
-        {
-          "text_line": 290,
-          "cells": [
-            "FY 202 6  Totals annually ",
-            "16,819",
-            "--",
-            "50,140",
-            "--",
-            "34,439"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "Collection Activity",
+        "Number of Respondents Per Activity (Net)",
+        "Responses  Per  Respondent",
+        "Total  Annual  Responses by Activity",
+        "Minutes Per  Response",
+        "Total  Hours"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data ",
+        "621",
+        "1",
+        "621",
+        "254",
+        "2,62 9"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data  (nonresponse)",
+        "621",
+        "1",
+        "621",
+        "5",
+        "52"
+      ],
+      [
+        "Activity 1b—Updates of NCS data",
+        "14,425",
+        "3. 2",
+        "46,160",
+        "40",
+        "30,773"
+      ],
+      [
+        "Activity 2—Feasibility survey testing",
+        "400",
+        "1",
+        "400",
+        "60",
+        "400"
+      ],
+      [
+        "Activity 3a—Re-interview for quality  assurance activities of initiations",
+        "31",
+        "1",
+        "31",
+        "15",
+        "8"
+      ],
+      [
+        "Activity 3b—Re-interview for quality assurance activities of updates",
+        "721",
+        "3. 2",
+        "2, 307",
+        "15",
+        "577"
+      ],
+      [
+        "FY 202 6  Totals annually ",
+        "16,819",
+        "--",
+        "50,140",
+        "--",
+        "34,439"
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 2a. Anticipated state and local government sample burden by activity type for FY 2024 (annual figures) which carries forward from previous sample",
-      "rows": [
-        {
-          "text_line": 294,
-          "cells": [
-            "Collection Activity",
-            "Number of Respondents Per Activity (Net)",
-            "Responses  Per  Respondent",
-            "Total  Annual  Responses by Activity",
-            "Minutes Per  Response",
-            "Total  Hours"
-          ]
-        },
-        {
-          "text_line": 295,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data ",
-            "0",
-            "0",
-            "0",
-            "0",
-            "0"
-          ]
-        },
-        {
-          "text_line": 296,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS   data (nonresponse)",
-            "0",
-            "0",
-            "0",
-            "0",
-            "0"
-          ]
-        },
-        {
-          "text_line": 297,
-          "cells": [
-            "Activity 1b\u2014Updates of NCS data",
-            "1 , 596",
-            "3.6",
-            "5,746",
-            "40",
-            "3,831"
-          ]
-        },
-        {
-          "text_line": 298,
-          "cells": [
-            "Activity 2\u2014Feasibility survey testing",
-            "60",
-            "1",
-            "60",
-            "60",
-            "60"
-          ]
-        },
-        {
-          "text_line": 299,
-          "cells": [
-            "Activity 3a\u2014Re-interview for quality assurance activities of initiations",
-            "0",
-            "0",
-            "0",
-            "0",
-            "0"
-          ]
-        },
-        {
-          "text_line": 300,
-          "cells": [
-            "Activity 3b\u2014Re-interview for quality assurance activities of updates",
-            "80",
-            "3.6",
-            "288",
-            "15",
-            "72"
-          ]
-        },
-        {
-          "text_line": 301,
-          "cells": [
-            "FY 20 2 4   Totals annually",
-            "1 , 736",
-            "--",
-            "6,094",
-            "--",
-            "3,963"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 4,
+    "rows": [
+      [
+        "Collection Activity",
+        "Number of Respondents Per Activity (Net)",
+        "Responses  Per  Respondent",
+        "Total  Annual  Responses by Activity",
+        "Minutes Per  Response",
+        "Total  Hours"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data ",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "Activity 1a—Initiation of NCS   data (nonresponse)",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "Activity 1b—Updates of NCS data",
+        "1 , 596",
+        "3.6",
+        "5,746",
+        "40",
+        "3,831"
+      ],
+      [
+        "Activity 2—Feasibility survey testing",
+        "60",
+        "1",
+        "60",
+        "60",
+        "60"
+      ],
+      [
+        "Activity 3a—Re-interview for quality assurance activities of initiations",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "Activity 3b—Re-interview for quality assurance activities of updates",
+        "80",
+        "3.6",
+        "288",
+        "15",
+        "72"
+      ],
+      [
+        "FY 20 2 4   Totals annually",
+        "1 , 736",
+        "--",
+        "6,094",
+        "--",
+        "3,963"
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 2b. Anticipated state and local government sample burden by activity type for FY 2025 (annual figures) which carries forward from previous sample",
-      "rows": [
-        {
-          "text_line": 305,
-          "cells": [
-            "Collection Activity",
-            "Number of Respondents Per Activity (Net)",
-            "Responses  Per  Respondent",
-            "Total  Annual  Responses by Activity",
-            "Minutes Per  Response",
-            "Total  Hours"
-          ]
-        },
-        {
-          "text_line": 306,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data ",
-            "359",
-            "1",
-            "359",
-            "254",
-            "1,5 20"
-          ]
-        },
-        {
-          "text_line": 307,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS   data (nonresponse)",
-            "40",
-            "1",
-            "40",
-            "5",
-            "3"
-          ]
-        },
-        {
-          "text_line": 308,
-          "cells": [
-            "Activity 1b\u2014Updates of NCS data",
-            "1 , 596",
-            "3.6",
-            "5,746",
-            "40",
-            "3,831"
-          ]
-        },
-        {
-          "text_line": 309,
-          "cells": [
-            "Activity 2\u2014Feasibility survey testing",
-            "60",
-            "1",
-            "60",
-            "60",
-            "60"
-          ]
-        },
-        {
-          "text_line": 310,
-          "cells": [
-            "Activity 3a\u2014Re-interview for quality assurance activities of initiations",
-            "18",
-            "1",
-            "18",
-            "15",
-            "5"
-          ]
-        },
-        {
-          "text_line": 311,
-          "cells": [
-            "Activity 3b\u2014Re-interview for quality assurance activities of updates",
-            "80",
-            "3.6",
-            "288",
-            "15",
-            "72"
-          ]
-        },
-        {
-          "text_line": 312,
-          "cells": [
-            "FY 20 2 5  Totals annually",
-            "2,153",
-            "--",
-            "6 , 511",
-            "--",
-            "5,49 1"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 5,
+    "rows": [
+      [
+        "Collection Activity",
+        "Number of Respondents Per Activity (Net)",
+        "Responses  Per  Respondent",
+        "Total  Annual  Responses by Activity",
+        "Minutes Per  Response",
+        "Total  Hours"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data ",
+        "359",
+        "1",
+        "359",
+        "254",
+        "1,5 20"
+      ],
+      [
+        "Activity 1a—Initiation of NCS   data (nonresponse)",
+        "40",
+        "1",
+        "40",
+        "5",
+        "3"
+      ],
+      [
+        "Activity 1b—Updates of NCS data",
+        "1 , 596",
+        "3.6",
+        "5,746",
+        "40",
+        "3,831"
+      ],
+      [
+        "Activity 2—Feasibility survey testing",
+        "60",
+        "1",
+        "60",
+        "60",
+        "60"
+      ],
+      [
+        "Activity 3a—Re-interview for quality assurance activities of initiations",
+        "18",
+        "1",
+        "18",
+        "15",
+        "5"
+      ],
+      [
+        "Activity 3b—Re-interview for quality assurance activities of updates",
+        "80",
+        "3.6",
+        "288",
+        "15",
+        "72"
+      ],
+      [
+        "FY 20 2 5  Totals annually",
+        "2,153",
+        "--",
+        "6 , 511",
+        "--",
+        "5,49 1"
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 2c. Anticipated state and local government sample burden by activity type for FY 2026 (annual figures) which carries forward from previous sample",
-      "rows": [
-        {
-          "text_line": 316,
-          "cells": [
-            "Collection Activity",
-            "Number of Respondents Per Activity (Net)",
-            "Responses  Per  Respondent",
-            "Total  Annual  Responses by Activity",
-            "Minutes Per  Response",
-            "Total  Hours"
-          ]
-        },
-        {
-          "text_line": 317,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data ",
-            "1,077",
-            "1",
-            "1,077",
-            "254",
-            "4,55 9"
-          ]
-        },
-        {
-          "text_line": 318,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS   data (nonresponse)",
-            "120",
-            "1",
-            "120",
-            "5",
-            "10"
-          ]
-        },
-        {
-          "text_line": 319,
-          "cells": [
-            "Activity 1b\u2014Updates of NCS data",
-            "1 , 596",
-            "3.6",
-            "5,746",
-            "40",
-            "3,831"
-          ]
-        },
-        {
-          "text_line": 320,
-          "cells": [
-            "Activity 2\u2014Feasibility survey testing",
-            "60",
-            "1",
-            "60",
-            "60",
-            "60"
-          ]
-        },
-        {
-          "text_line": 321,
-          "cells": [
-            "Activity 3a\u2014Re-interview for quality assurance activities of initiations",
-            "54",
-            "1",
-            "54",
-            "15",
-            "14"
-          ]
-        },
-        {
-          "text_line": 322,
-          "cells": [
-            "Activity 3b\u2014Re-interview for quality assurance activities of updates",
-            "80",
-            "3.6",
-            "288",
-            "15",
-            "72"
-          ]
-        },
-        {
-          "text_line": 323,
-          "cells": [
-            "FY 20 2 6   Totals annually",
-            "2,987",
-            "--",
-            "7,345",
-            "--",
-            "8,54 6"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 6,
+    "rows": [
+      [
+        "Collection Activity",
+        "Number of Respondents Per Activity (Net)",
+        "Responses  Per  Respondent",
+        "Total  Annual  Responses by Activity",
+        "Minutes Per  Response",
+        "Total  Hours"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data ",
+        "1,077",
+        "1",
+        "1,077",
+        "254",
+        "4,55 9"
+      ],
+      [
+        "Activity 1a—Initiation of NCS   data (nonresponse)",
+        "120",
+        "1",
+        "120",
+        "5",
+        "10"
+      ],
+      [
+        "Activity 1b—Updates of NCS data",
+        "1 , 596",
+        "3.6",
+        "5,746",
+        "40",
+        "3,831"
+      ],
+      [
+        "Activity 2—Feasibility survey testing",
+        "60",
+        "1",
+        "60",
+        "60",
+        "60"
+      ],
+      [
+        "Activity 3a—Re-interview for quality assurance activities of initiations",
+        "54",
+        "1",
+        "54",
+        "15",
+        "14"
+      ],
+      [
+        "Activity 3b—Re-interview for quality assurance activities of updates",
+        "80",
+        "3.6",
+        "288",
+        "15",
+        "72"
+      ],
+      [
+        "FY 20 2 6   Totals annually",
+        "2,987",
+        "--",
+        "7,345",
+        "--",
+        "8,54 6"
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 3: Anticipated private sector average responses and burden by Fiscal Year",
-      "rows": [
-        {
-          "text_line": 329,
-          "cells": [
-            "Fiscal Year",
-            "Respondents ",
-            "Average responses per year",
-            "Total # of Responses",
-            "Average minutes per response",
-            "Total hours"
-          ]
-        },
-        {
-          "text_line": 330,
-          "cells": [
-            "FY 20 2 4",
-            "1 7,321",
-            "2. 5337",
-            "43,886",
-            "48 . 7098",
-            "35,62 8"
-          ]
-        },
-        {
-          "text_line": 331,
-          "cells": [
-            "FY 20 2 5",
-            "1 7,685",
-            "2. 6980",
-            "47,715",
-            "4 5. 6825",
-            "3 6,32 9"
-          ]
-        },
-        {
-          "text_line": 332,
-          "cells": [
-            "FY 20 2 6",
-            "1 6,819",
-            "2. 9812",
-            "50,140",
-            "41. 2114",
-            "3 4, 439"
-          ]
-        },
-        {
-          "text_line": 333,
-          "cells": [
-            "Overall Average",
-            "17,275",
-            "2. 7350",
-            "47,24 6",
-            "4 5.0 3 78",
-            "3 5,4 65"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 7,
+    "rows": [
+      [
+        "Fiscal Year",
+        "Respondents ",
+        "Average responses per year",
+        "Total # of Responses",
+        "Average minutes per response",
+        "Total hours"
+      ],
+      [
+        "FY 20 2 4",
+        "1 7,321",
+        "2. 5337",
+        "43,886",
+        "48 . 7098",
+        "35,62 8"
+      ],
+      [
+        "FY 20 2 5",
+        "1 7,685",
+        "2. 6980",
+        "47,715",
+        "4 5. 6825",
+        "3 6,32 9"
+      ],
+      [
+        "FY 20 2 6",
+        "1 6,819",
+        "2. 9812",
+        "50,140",
+        "41. 2114",
+        "3 4, 439"
+      ],
+      [
+        "Overall Average",
+        "17,275",
+        "2. 7350",
+        "47,24 6",
+        "4 5.0 3 78",
+        "3 5,4 65"
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 4: Anticipated state and local government average responses and burden by Fiscal Year",
-      "rows": [
-        {
-          "text_line": 338,
-          "cells": [
-            "Fiscal Year",
-            "Respondents ",
-            "Average responses per year",
-            "Total # of Responses",
-            "Average minutes per response",
-            "Total hours"
-          ]
-        },
-        {
-          "text_line": 339,
-          "cells": [
-            "FY 20 2 4",
-            "1 , 736",
-            "3. 5 104",
-            "6 , 094",
-            "39 .0187",
-            "3,963"
-          ]
-        },
-        {
-          "text_line": 340,
-          "cells": [
-            "FY 20 2 5",
-            "2,153",
-            "3. 0242",
-            "6 , 511",
-            "50. 6005",
-            "5,49 1"
-          ]
-        },
-        {
-          "text_line": 341,
-          "cells": [
-            "FY 20 2 6",
-            "2,987",
-            "2.4590",
-            "7 , 345",
-            "69. 8108",
-            "8,54 6"
-          ]
-        },
-        {
-          "text_line": 342,
-          "cells": [
-            "Overall Average",
-            "2,292",
-            "2.9014",
-            "6 , 650",
-            "54.1 353",
-            "6,000"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 8,
+    "rows": [
+      [
+        "Fiscal Year",
+        "Respondents ",
+        "Average responses per year",
+        "Total # of Responses",
+        "Average minutes per response",
+        "Total hours"
+      ],
+      [
+        "FY 20 2 4",
+        "1 , 736",
+        "3. 5 104",
+        "6 , 094",
+        "39 .0187",
+        "3,963"
+      ],
+      [
+        "FY 20 2 5",
+        "2,153",
+        "3. 0242",
+        "6 , 511",
+        "50. 6005",
+        "5,49 1"
+      ],
+      [
+        "FY 20 2 6",
+        "2,987",
+        "2.4590",
+        "7 , 345",
+        "69. 8108",
+        "8,54 6"
+      ],
+      [
+        "Overall Average",
+        "2,292",
+        "2.9014",
+        "6 , 650",
+        "54.1 353",
+        "6,000"
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 5. Anticipated burden by activity type in FY 2024 \u2013 October 2023 to September 2024",
-      "rows": [
-        {
-          "text_line": 350,
-          "cells": [
-            "Collection Activity",
-            "Number of Respondents Per Activity (Net)",
-            "Responses  Per  Respondent",
-            "Total  Annual  Responses  by  Activity",
-            "Minutes Per  Response",
-            "Total  Hours"
-          ]
-        },
-        {
-          "text_line": 351,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data ",
-            "2,364",
-            "1",
-            "2,364",
-            "254",
-            "10,00 8"
-          ]
-        },
-        {
-          "text_line": 352,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data  (nonresponse)",
-            "2,364",
-            "1",
-            "2,364",
-            "5",
-            "1 97"
-          ]
-        },
-        {
-          "text_line": 353,
-          "cells": [
-            "Activity 1b\u2014Updates of NCS data",
-            "13,096",
-            "3. 2488",
-            "42,546",
-            "40",
-            "2 8,364"
-          ]
-        },
-        {
-          "text_line": 354,
-          "cells": [
-            "Activity 2\u2014Feasibility survey testing",
-            "460",
-            "1",
-            "460",
-            "60",
-            "460"
-          ]
-        },
-        {
-          "text_line": 355,
-          "cells": [
-            "Activity 3a\u2014 Re-interview for quality assurance activities of initiations",
-            "118",
-            "1",
-            "118",
-            "15",
-            "30"
-          ]
-        },
-        {
-          "text_line": 356,
-          "cells": [
-            "Activity 3b\u2014 Re-interview for quality assurance activities of updates",
-            "655",
-            "3. 2489",
-            "2,128",
-            "15",
-            "532"
-          ]
-        },
-        {
-          "text_line": 357,
-          "cells": [
-            "FY 20 2 4  Total ",
-            "1 9,057",
-            "--",
-            "4 9,980",
-            "--",
-            "3 9,5 91"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 9,
+    "rows": [
+      [
+        "Collection Activity",
+        "Number of Respondents Per Activity (Net)",
+        "Responses  Per  Respondent",
+        "Total  Annual  Responses  by  Activity",
+        "Minutes Per  Response",
+        "Total  Hours"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data ",
+        "2,364",
+        "1",
+        "2,364",
+        "254",
+        "10,00 8"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data  (nonresponse)",
+        "2,364",
+        "1",
+        "2,364",
+        "5",
+        "1 97"
+      ],
+      [
+        "Activity 1b—Updates of NCS data",
+        "13,096",
+        "3. 2488",
+        "42,546",
+        "40",
+        "2 8,364"
+      ],
+      [
+        "Activity 2—Feasibility survey testing",
+        "460",
+        "1",
+        "460",
+        "60",
+        "460"
+      ],
+      [
+        "Activity 3a— Re-interview for quality assurance activities of initiations",
+        "118",
+        "1",
+        "118",
+        "15",
+        "30"
+      ],
+      [
+        "Activity 3b— Re-interview for quality assurance activities of updates",
+        "655",
+        "3. 2489",
+        "2,128",
+        "15",
+        "532"
+      ],
+      [
+        "FY 20 2 4  Total ",
+        "1 9,057",
+        "--",
+        "4 9,980",
+        "--",
+        "3 9,5 91"
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 6. Anticipated burden by activity type in FY 2025 \u2013 October 2024 to September 2025",
-      "rows": [
-        {
-          "text_line": 361,
-          "cells": [
-            "Collection Activity",
-            "Number of Respondents Per Activity (Net)",
-            "Responses  Per  Respondent",
-            "Total  Annual  Responses by Activity",
-            "Minutes Per  Response",
-            "Total  Hours"
-          ]
-        },
-        {
-          "text_line": 362,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data ",
-            "2, 132",
-            "1",
-            "2, 132",
-            "254",
-            "9, 02 6"
-          ]
-        },
-        {
-          "text_line": 363,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data  (nonresponse)",
-            "1, 813",
-            "1",
-            "1, 813",
-            "5",
-            "151"
-          ]
-        },
-        {
-          "text_line": 364,
-          "cells": [
-            "Activity 1b\u2014Updates of NCS data",
-            "14,596",
-            "3. 2438",
-            "47,346",
-            "40",
-            "31,564"
-          ]
-        },
-        {
-          "text_line": 365,
-          "cells": [
-            "Activity 2\u2014Feasibility survey testing",
-            "460",
-            "1",
-            "460",
-            "60",
-            "460"
-          ]
-        },
-        {
-          "text_line": 366,
-          "cells": [
-            "Activity 3a\u2014 Re-interview for quality assurance activities of initiations",
-            "10 7",
-            "1",
-            "10 7",
-            "15",
-            "2 7"
-          ]
-        },
-        {
-          "text_line": 367,
-          "cells": [
-            "Activity 3b\u2014 Re-interview for quality  assurance activities of updates",
-            "730",
-            "3. 2438",
-            "2,368",
-            "15",
-            "592"
-          ]
-        },
-        {
-          "text_line": 368,
-          "cells": [
-            "FY 20 2 5  Total ",
-            "19,838",
-            "--",
-            "54,226",
-            "--",
-            "41,8 20"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 10,
+    "rows": [
+      [
+        "Collection Activity",
+        "Number of Respondents Per Activity (Net)",
+        "Responses  Per  Respondent",
+        "Total  Annual  Responses by Activity",
+        "Minutes Per  Response",
+        "Total  Hours"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data ",
+        "2, 132",
+        "1",
+        "2, 132",
+        "254",
+        "9, 02 6"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data  (nonresponse)",
+        "1, 813",
+        "1",
+        "1, 813",
+        "5",
+        "151"
+      ],
+      [
+        "Activity 1b—Updates of NCS data",
+        "14,596",
+        "3. 2438",
+        "47,346",
+        "40",
+        "31,564"
+      ],
+      [
+        "Activity 2—Feasibility survey testing",
+        "460",
+        "1",
+        "460",
+        "60",
+        "460"
+      ],
+      [
+        "Activity 3a— Re-interview for quality assurance activities of initiations",
+        "10 7",
+        "1",
+        "10 7",
+        "15",
+        "2 7"
+      ],
+      [
+        "Activity 3b— Re-interview for quality  assurance activities of updates",
+        "730",
+        "3. 2438",
+        "2,368",
+        "15",
+        "592"
+      ],
+      [
+        "FY 20 2 5  Total ",
+        "19,838",
+        "--",
+        "54,226",
+        "--",
+        "41,8 20"
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 7. Anticipated burden by activity type in FY 2026 \u2013 October 2025 to September 2026",
-      "rows": [
-        {
-          "text_line": 372,
-          "cells": [
-            "Collection Activity",
-            "Number of Respondents Per Activity (Net)",
-            "Responses  Per  Respondent",
-            "Total  Annual  Responses by Activity",
-            "Minutes Per  Response",
-            "Total  Hours"
-          ]
-        },
-        {
-          "text_line": 373,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data ",
-            "1,698",
-            "1",
-            "1,698",
-            "254",
-            "7,18 8"
-          ]
-        },
-        {
-          "text_line": 374,
-          "cells": [
-            "Activity 1a\u2014Initiation of NCS data  (nonresponse)",
-            "741",
-            "1",
-            "741",
-            "5",
-            "62"
-          ]
-        },
-        {
-          "text_line": 375,
-          "cells": [
-            "Activity 1b\u2014Updates of NCS data",
-            "16,021",
-            "3. 2399",
-            "51,906",
-            "40",
-            "34,604"
-          ]
-        },
-        {
-          "text_line": 376,
-          "cells": [
-            "Activity 2\u2014Feasibility survey testing",
-            "460",
-            "1",
-            "460",
-            "60",
-            "460"
-          ]
-        },
-        {
-          "text_line": 377,
-          "cells": [
-            "Activity 3a\u2014 Re-interview for quality assurance activities of initiations",
-            "85",
-            "1",
-            "85",
-            "15",
-            "22"
-          ]
-        },
-        {
-          "text_line": 378,
-          "cells": [
-            "Activity 3b\u2014 Re-interview for quality assurance activities of updates",
-            "801",
-            "3. 2397",
-            "2, 595",
-            "15",
-            "649"
-          ]
-        },
-        {
-          "text_line": 379,
-          "cells": [
-            "FY 20 2 6  Total ",
-            "1 9, 806",
-            "--",
-            "57,485",
-            "--",
-            "4 2,98 5"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 11,
+    "rows": [
+      [
+        "Collection Activity",
+        "Number of Respondents Per Activity (Net)",
+        "Responses  Per  Respondent",
+        "Total  Annual  Responses by Activity",
+        "Minutes Per  Response",
+        "Total  Hours"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data ",
+        "1,698",
+        "1",
+        "1,698",
+        "254",
+        "7,18 8"
+      ],
+      [
+        "Activity 1a—Initiation of NCS data  (nonresponse)",
+        "741",
+        "1",
+        "741",
+        "5",
+        "62"
+      ],
+      [
+        "Activity 1b—Updates of NCS data",
+        "16,021",
+        "3. 2399",
+        "51,906",
+        "40",
+        "34,604"
+      ],
+      [
+        "Activity 2—Feasibility survey testing",
+        "460",
+        "1",
+        "460",
+        "60",
+        "460"
+      ],
+      [
+        "Activity 3a— Re-interview for quality assurance activities of initiations",
+        "85",
+        "1",
+        "85",
+        "15",
+        "22"
+      ],
+      [
+        "Activity 3b— Re-interview for quality assurance activities of updates",
+        "801",
+        "3. 2397",
+        "2, 595",
+        "15",
+        "649"
+      ],
+      [
+        "FY 20 2 6  Total ",
+        "1 9, 806",
+        "--",
+        "57,485",
+        "--",
+        "4 2,98 5"
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 8: Anticipated average responses and burden by Fiscal Year",
-      "rows": [
-        {
-          "text_line": 385,
-          "cells": [
-            "Fiscal Year",
-            "Respondents ",
-            "Average responses per year",
-            "Total # of Responses",
-            "Average minutes",
-            "Total hours"
-          ]
-        },
-        {
-          "text_line": 386,
-          "cells": [
-            "FY 20 2 4",
-            "1 9,057",
-            " 2. 6227",
-            " 4 9,980",
-            " 4 7.5 282",
-            " 3 9,5 91"
-          ]
-        },
-        {
-          "text_line": 387,
-          "cells": [
-            "FY 20 2 5",
-            "1 9,838",
-            " 2. 7334  ",
-            "  54,226  ",
-            " 4 6. 27 30  ",
-            "  41,8 20  "
-          ]
-        },
-        {
-          "text_line": 388,
-          "cells": [
-            "FY 202 6",
-            "1 9, 806",
-            " 2. 9024",
-            "  57,485  ",
-            "  4 4. 8656",
-            "  42,98 5"
-          ]
-        },
-        {
-          "text_line": 389,
-          "cells": [
-            "Overall Average",
-            "1 9,567",
-            "2. 75 45",
-            "53,89 6",
-            "4 6. 1603",
-            "41,4 65"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 12,
+    "rows": [
+      [
+        "Fiscal Year",
+        "Respondents ",
+        "Average responses per year",
+        "Total # of Responses",
+        "Average minutes",
+        "Total hours"
+      ],
+      [
+        "FY 20 2 4",
+        "1 9,057",
+        " 2. 6227",
+        " 4 9,980",
+        " 4 7.5 282",
+        " 3 9,5 91"
+      ],
+      [
+        "FY 20 2 5",
+        "1 9,838",
+        " 2. 7334  ",
+        "  54,226  ",
+        " 4 6. 27 30  ",
+        "  41,8 20  "
+      ],
+      [
+        "FY 202 6",
+        "1 9, 806",
+        " 2. 9024",
+        "  57,485  ",
+        "  4 4. 8656",
+        "  42,98 5"
+      ],
+      [
+        "Overall Average",
+        "1 9,567",
+        "2. 75 45",
+        "53,89 6",
+        "4 6. 1603",
+        "41,4 65"
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 9. Functions and uses of NCS forms",
-      "rows": [
-        {
-          "text_line": 397,
-          "cells": [
-            "Information collected",
-            "Purpose/Activity",
-            "Forms",
-            "Time  to Complete"
-          ]
-        },
-        {
-          "text_line": 398,
-          "cells": [
-            "Government General Establishment Information, work level and schedule; records check of these data",
-            "Initiation general information (1a);",
-            "Establishment collection, work level and schedule form  NCS  Form2 4 -1G (202 4 )",
-            "54 minutes "
-          ]
-        },
-        {
-          "text_line": 399,
-          "cells": [
-            "Private Industry General Establishment Information, work level and schedule; records check of these data",
-            "Initiation general information (1a); ",
-            "Establishment collection, work level and schedule form  NCS  Form2 4 -1P (202 4 )",
-            "54 minutes "
-          ]
-        },
-        {
-          "text_line": 400,
-          "cells": [
-            "Government Earnings  data;  records check of earnings data ",
-            "Wage initiation  (1a) ",
-            "Earnings form  NCS Form  2 4 -2G (202 4 )",
-            "20 minutes "
-          ]
-        },
-        {
-          "text_line": 401,
-          "cells": [
-            "Private Industry Earnings  data;  records check of earnings data ",
-            "Wage initiation (1a)",
-            "Earnings form  NCS Form  2 4 -2P (202 4 )",
-            "20 minutes "
-          ]
-        },
-        {
-          "text_line": 402,
-          "cells": [
-            "Government  Updating earnings data; records check of earnings data",
-            "Wage update (1b)",
-            "Wage Shuttle form  (computer generated earnings update  form )   NCS Form2 4 -9G (202 4 ) IDCF E-Update Entry Form",
-            "20 minutes"
-          ]
-        },
-        {
-          "text_line": 403,
-          "cells": [
-            "Private Industry  Updating earnings data; records check of earnings data",
-            "Wage update (1b)",
-            "Wage Shuttle form  (computer generated earnings update  form ) NCS Form2 4 -9P (202 4 ) IDCF E-Update Entry Form",
-            "20 minutes"
-          ]
-        },
-        {
-          "text_line": 404,
-          "cells": [
-            "Government Collection of benefits for new government units; records check of this collection ",
-            "Benefit  initiation (1a)",
-            "Benefits Collection Form  NCS  Form 2 4 -5G (202 4 )",
-            "180 minutes "
-          ]
-        },
-        {
-          "text_line": 405,
-          "cells": [
-            "Private Industry Collection of benefits for new units; records check of this collection",
-            "Benefit initiation  (1a)",
-            "Benefits Collection Form  NCS  Form 2 4 -5P (202 4 )",
-            "180 minutes"
-          ]
-        },
-        {
-          "text_line": 406,
-          "cells": [
-            "Government  Update of benefits data for all establishments; records check of this collection",
-            "Benefit   update (1b)",
-            "Summary of Benefits (Benefit update form SO-1003 G ) IDCF E-Update Entry Form Benefits Fillable (Benefit update form  SO100 BF-1GP)",
-            "20 minutes "
-          ]
-        },
-        {
-          "text_line": 407,
-          "cells": [
-            "Private Industry  Update of benefits data for all establishments; records check of this collection",
-            "Benefit  update (1b)",
-            "Summary of Benefits (Benefit update form SO-1003P) IDCF E-Update Entry Form Benefits Fillable (Benefit update form  SO100BF-1GP )",
-            "20 minutes"
-          ]
-        },
-        {
-          "text_line": 408,
-          "cells": [
-            "Entry screens for SSL Website ",
-            "File   upload screens for wage and benefit update (1b)",
-            "IDCF/ BLSCompdata  Web-Lite Authentication ",
-            "4 0  minutes "
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 13,
+    "rows": [
+      [
+        "Information collected",
+        "Purpose/Activity",
+        "Forms",
+        "Time  to Complete"
+      ],
+      [
+        "Government General Establishment Information, work level and schedule; records check of these data",
+        "Initiation general information (1a);",
+        "Establishment collection, work level and schedule form  NCS  Form2 4 -1G (202 4 )",
+        "54 minutes "
+      ],
+      [
+        "Private Industry General Establishment Information, work level and schedule; records check of these data",
+        "Initiation general information (1a); ",
+        "Establishment collection, work level and schedule form  NCS  Form2 4 -1P (202 4 )",
+        "54 minutes "
+      ],
+      [
+        "Government Earnings  data;  records check of earnings data ",
+        "Wage initiation  (1a) ",
+        "Earnings form  NCS Form  2 4 -2G (202 4 )",
+        "20 minutes "
+      ],
+      [
+        "Private Industry Earnings  data;  records check of earnings data ",
+        "Wage initiation (1a)",
+        "Earnings form  NCS Form  2 4 -2P (202 4 )",
+        "20 minutes "
+      ],
+      [
+        "Government  Updating earnings data; records check of earnings data",
+        "Wage update (1b)",
+        "Wage Shuttle form  (computer generated earnings update  form )   NCS Form2 4 -9G (202 4 ) IDCF E-Update Entry Form",
+        "20 minutes"
+      ],
+      [
+        "Private Industry  Updating earnings data; records check of earnings data",
+        "Wage update (1b)",
+        "Wage Shuttle form  (computer generated earnings update  form ) NCS Form2 4 -9P (202 4 ) IDCF E-Update Entry Form",
+        "20 minutes"
+      ],
+      [
+        "Government Collection of benefits for new government units; records check of this collection ",
+        "Benefit  initiation (1a)",
+        "Benefits Collection Form  NCS  Form 2 4 -5G (202 4 )",
+        "180 minutes "
+      ],
+      [
+        "Private Industry Collection of benefits for new units; records check of this collection",
+        "Benefit initiation  (1a)",
+        "Benefits Collection Form  NCS  Form 2 4 -5P (202 4 )",
+        "180 minutes"
+      ],
+      [
+        "Government  Update of benefits data for all establishments; records check of this collection",
+        "Benefit   update (1b)",
+        "Summary of Benefits (Benefit update form SO-1003 G ) IDCF E-Update Entry Form Benefits Fillable (Benefit update form  SO100 BF-1GP)",
+        "20 minutes "
+      ],
+      [
+        "Private Industry  Update of benefits data for all establishments; records check of this collection",
+        "Benefit  update (1b)",
+        "Summary of Benefits (Benefit update form SO-1003P) IDCF E-Update Entry Form Benefits Fillable (Benefit update form  SO100BF-1GP )",
+        "20 minutes"
+      ],
+      [
+        "Entry screens for SSL Website ",
+        "File   upload screens for wage and benefit update (1b)",
+        "IDCF/ BLSCompdata  Web-Lite Authentication ",
+        "4 0  minutes "
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 10a. Estimated respondent cost and distribution",
-      "rows": [
-        {
-          "text_line": 414,
-          "cells": [
-            "Type of Respondents",
-            "Average Hourly Rate",
-            "Historical   Respondent Percentage"
-          ]
-        },
-        {
-          "text_line": 415,
-          "cells": [
-            "Professional and related specialty",
-            "$ 63.45",
-            "70"
-          ]
-        },
-        {
-          "text_line": 416,
-          "cells": [
-            "Office and administrative support",
-            "$ 33.01",
-            "30"
-          ]
-        },
-        {
-          "text_line": 417,
-          "cells": [
-            "Weighted Average Hourly Wage Rate",
-            "$ 54.32",
-            ""
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 14,
+    "rows": [
+      [
+        "Type of Respondents",
+        "Average Hourly Rate",
+        "Historical   Respondent Percentage"
+      ],
+      [
+        "Professional and related specialty",
+        "$ 63.45",
+        "70"
+      ],
+      [
+        "Office and administrative support",
+        "$ 33.01",
+        "30"
+      ],
+      [
+        "Weighted Average Hourly Wage Rate",
+        "$ 54.32",
+        ""
       ]
-    },
-    {
-      "source_file": "icrs/202310-1220-004/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Table 10b. Anticipated total sample average responses and burden by Fiscal Year",
-      "rows": [
-        {
-          "text_line": 423,
-          "cells": [
-            "Fiscal Year",
-            "Respondents",
-            "Total # of responses*",
-            "Average minutes per response",
-            "Total hours",
-            "Average Hourly Wage Rate",
-            "Total Burden Costs"
-          ]
-        },
-        {
-          "text_line": 424,
-          "cells": [
-            "FY 202 4",
-            "19, 057",
-            " 4 9,980",
-            " 4 7.5 282",
-            "3 9, 591  ",
-            "$ 54.32",
-            "$ 2,150, 583"
-          ]
-        },
-        {
-          "text_line": 425,
-          "cells": [
-            "FY 202 5",
-            "19,838  ",
-            "  54,226  ",
-            " 4 6. 27 30  ",
-            "41,8 20  ",
-            "$ 54.32  ",
-            "$ 2,271, 6 62  "
-          ]
-        },
-        {
-          "text_line": 426,
-          "cells": [
-            "FY 202 6",
-            "1 9, 806  ",
-            "  57,485",
-            "  4 4. 8656  ",
-            "42,98 5  ",
-            "$ 54.32  ",
-            "$ 2,334, 945  "
-          ]
-        },
-        {
-          "text_line": 427,
-          "cells": [
-            "Total Average",
-            "1 9,567  ",
-            "53,89 6",
-            "4 6.1 603",
-            "41,4 65",
-            "$ 54.32",
-            "$ 2,252, 379  "
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202310-1220-004/raw/supporting-statement-a-1.docx",
+    "table": 15,
+    "rows": [
+      [
+        "Fiscal Year",
+        "Respondents",
+        "Total # of responses*",
+        "Average minutes per response",
+        "Total hours",
+        "Average Hourly Wage Rate",
+        "Total Burden Costs"
+      ],
+      [
+        "FY 202 4",
+        "19, 057",
+        " 4 9,980",
+        " 4 7.5 282",
+        "3 9, 591  ",
+        "$ 54.32",
+        "$ 2,150, 583"
+      ],
+      [
+        "FY 202 5",
+        "19,838  ",
+        "  54,226  ",
+        " 4 6. 27 30  ",
+        "41,8 20  ",
+        "$ 54.32  ",
+        "$ 2,271, 6 62  "
+      ],
+      [
+        "FY 202 6",
+        "1 9, 806  ",
+        "  57,485",
+        "  4 4. 8656  ",
+        "42,98 5  ",
+        "$ 54.32  ",
+        "$ 2,334, 945  "
+      ],
+      [
+        "Total Average",
+        "1 9,567  ",
+        "53,89 6",
+        "4 6.1 603",
+        "41,4 65",
+        "$ 54.32",
+        "$ 2,252, 379  "
+      ],
+      [
+        "*Initiations, quarterly updates, quality assurance contacts, and collection testing Note: The sum of individual items may not equal totals due to rounding."
       ]
-    }
-  ]
-}
+    ]
+  }
+]

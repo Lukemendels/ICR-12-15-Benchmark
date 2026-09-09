@@ -1,160 +1,115 @@
-{
-  "status": "Parsed source cells; not automatically normalized model inputs",
-  "tables": [
-    {
-      "source_file": "icrs/202412-3170-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "The Bureau estimates the burden of this information collection as follows:",
-      "rows": [
-        {
-          "text_line": 122,
-          "cells": [
-            "Information Collection Requirements",
-            "Information Collection Details",
-            "Number of Respondents",
-            "Number of annual responses",
-            "Time per response",
-            "Total Burden Hours"
-          ]
-        }
+[
+  {
+    "file": "icrs/202412-3170-001/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Information Collection Requirements",
+        "Information Collection Details",
+        "Number of Respondents",
+        "Number of annual responses",
+        "Time per response",
+        "Total Burden Hours"
+      ],
+      [
+        "Recordkeeping"
+      ],
+      [
+        "1033.351-one time",
+        "1033.351: Policies and  procedures for data providers",
+        "1,785",
+        "1,785",
+        "557",
+        "994,245"
+      ],
+      [
+        "1033.351-ongoing",
+        "1033.351: Policies and procedures for data providers",
+        "1,785",
+        "1,785",
+        "60",
+        "107,100"
+      ],
+      [
+        "1033.441-One time",
+        "1033 . 441: Policies and procedures for third party record retention.",
+        "8,500",
+        "8,500",
+        "320",
+        "2,720,000"
+      ],
+      [
+        "1033.441-ongoing",
+        "1033 . 441: Policies and procedures for third party record retention.",
+        "8,500",
+        "8,500",
+        "150",
+        "1,275,000"
+      ],
+      [
+        "Disclosures",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1033.341 1033.201 1033.301 1033.311-one time",
+        "1033.341: Information about the data provider 1033.201: Obligation to make covered data available. 1033.301: General requirements. 1033.311: Requirements applicable to developer interface",
+        "1,785",
+        "1,785",
+        "324",
+        "578,340"
+      ],
+      [
+        "1033.341 1033.201 1033.301 1033.311-ongoing",
+        "1033.341: Information about the  data provider 1033.201: Obligation to make covered data available. 1033.301: General requirements. 1033.311: Requirements applicable to developer interface",
+        "1,785",
+        "1,785",
+        "30",
+        "53,550"
+      ],
+      [
+        "1033.411 1033.421 1033.401 1033.431-one time ",
+        "1033.411: Authorization disclosure 1033.421: Third party obligations 1033.401: Third party authorization; general 1033.431: Use of data aggregator",
+        "8,500",
+        "8,500",
+        "162",
+        "1 , 377 , 000"
+      ],
+      [
+        "TOTAL",
+        "",
+        "10,285",
+        "32,640",
+        "",
+        "7 , 105 , 235"
       ]
-    },
-    {
-      "source_file": "icrs/202412-3170-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "Recordkeeping",
-      "rows": [
-        {
-          "text_line": 124,
-          "cells": [
-            "1033.351-one time",
-            "1033.351: Policies and  procedures for data providers",
-            "1,785",
-            "1,785",
-            "557",
-            "994,245"
-          ]
-        },
-        {
-          "text_line": 125,
-          "cells": [
-            "1033.351-ongoing",
-            "1033.351: Policies and procedures for data providers",
-            "1,785",
-            "1,785",
-            "60",
-            "107,100"
-          ]
-        },
-        {
-          "text_line": 126,
-          "cells": [
-            "1033.441-One time",
-            "1033 . 441: Policies and procedures for third party record retention.",
-            "8,500",
-            "8,500",
-            "320",
-            "2,720,000"
-          ]
-        },
-        {
-          "text_line": 127,
-          "cells": [
-            "1033.441-ongoing",
-            "1033 . 441: Policies and procedures for third party record retention.",
-            "8,500",
-            "8,500",
-            "150",
-            "1,275,000"
-          ]
-        },
-        {
-          "text_line": 128,
-          "cells": [
-            "Disclosures",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "text_line": 129,
-          "cells": [
-            "1033.341 1033.201 1033.301 1033.311-one time",
-            "1033.341: Information about the data provider 1033.201: Obligation to make covered data available. 1033.301: General requirements. 1033.311: Requirements applicable to developer interface",
-            "1,785",
-            "1,785",
-            "324",
-            "578,340"
-          ]
-        },
-        {
-          "text_line": 130,
-          "cells": [
-            "1033.341 1033.201 1033.301 1033.311-ongoing",
-            "1033.341: Information about the  data provider 1033.201: Obligation to make covered data available. 1033.301: General requirements. 1033.311: Requirements applicable to developer interface",
-            "1,785",
-            "1,785",
-            "30",
-            "53,550"
-          ]
-        },
-        {
-          "text_line": 131,
-          "cells": [
-            "1033.411 1033.421 1033.401 1033.431-one time ",
-            "1033.411: Authorization disclosure 1033.421: Third party obligations 1033.401: Third party authorization; general 1033.431: Use of data aggregator",
-            "8,500",
-            "8,500",
-            "162",
-            "1 , 377 , 000"
-          ]
-        },
-        {
-          "text_line": 132,
-          "cells": [
-            "TOTAL",
-            "",
-            "10,285",
-            "32,640",
-            "",
-            "7 , 105 , 235"
-          ]
-        }
+    ]
+  },
+  {
+    "file": "icrs/202412-3170-001/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "Entities",
+        "Number of Entities",
+        "Annualized Burden Amount Per Entity",
+        "Total Annualized Burden (dollars)"
+      ],
+      [
+        "Data Providers - one time  costs ",
+        "1,339",
+        "$ 16,800",
+        "$ 22,495,200"
+      ],
+      [
+        "Data Providers-ongoing",
+        "1,339",
+        "4,200",
+        "5,623,800"
       ]
-    },
-    {
-      "source_file": "icrs/202412-3170-001/raw/supporting-statement-a-1.txt",
-      "preceding_text": "13.  Provide an estimate of the total annual cost burden to respondents or record keepers resulting from the collection of information.  (Do not include the cost of any hour burden shown in Items 12 and 14).",
-      "rows": [
-        {
-          "text_line": 169,
-          "cells": [
-            "Entities",
-            "Number of Entities",
-            "Annualized Burden Amount Per Entity",
-            "Total Annualized Burden (dollars)"
-          ]
-        },
-        {
-          "text_line": 170,
-          "cells": [
-            "Data Providers - one time  costs ",
-            "1,339",
-            "$ 16,800",
-            "$ 22,495,200"
-          ]
-        },
-        {
-          "text_line": 171,
-          "cells": [
-            "Data Providers-ongoing",
-            "1,339",
-            "4,200",
-            "5,623,800"
-          ]
-        }
-      ]
-    }
-  ]
-}
+    ]
+  }
+]

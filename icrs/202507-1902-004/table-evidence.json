@@ -1,0 +1,94 @@
+[
+  {
+    "file": "icrs/202507-1902-004/raw/supporting-statement-a-1.docx",
+    "table": 1,
+    "rows": [
+      [
+        "Proposed Burden TOP-003-7 Docket No. RD25-5"
+      ],
+      [
+        "Reliability Standard",
+        "Type and Number of Entity   (1)  ",
+        "Number of Annual Responses Per Entity   (2)",
+        "Total Number of Responses   (1)*(2)=(3)  ",
+        "Average Number of Burden Hours per Response   (4)  ",
+        "Total Burden Hours   (3)*(4)=(5)  "
+      ],
+      [
+        "Annual Collection TOP-003-7 FERC-725A"
+      ],
+      [
+        "Annual review and record retention",
+        "97 (BA)",
+        "1",
+        "97",
+        "4 hrs. $ 70.67/hr",
+        "388 hrs. $ 27,419.96"
+      ],
+      [
+        "Total for TOP-003-7",
+        "",
+        "",
+        "97",
+        "",
+        "388 hrs. $ 27,419.96"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202507-1902-004/raw/supporting-statement-a-1.docx",
+    "table": 2,
+    "rows": [
+      [
+        "",
+        "Number of Employees (FTEs)",
+        "Estimated Annual Federal Cost"
+      ],
+      [
+        "Analysis and Processing of filings",
+        "0",
+        "$0"
+      ],
+      [
+        "PRA Administrative Cost",
+        "",
+        "$ 7,978"
+      ],
+      [
+        "FERC Total",
+        "",
+        "$ 7 , 978"
+      ]
+    ]
+  },
+  {
+    "file": "icrs/202507-1902-004/raw/supporting-statement-a-1.docx",
+    "table": 3,
+    "rows": [
+      [
+        "",
+        "Requested",
+        "Program Changes due to Agency Discretion",
+        "Previously Approved"
+      ],
+      [
+        "Annual # of Responses",
+        "7 , 387",
+        "+97",
+        "7 ,290"
+      ],
+      [
+        "Annual Time Burden",
+        "1,407, 626   hours",
+        "+ 388  hours",
+        "1,40 7 ,2 38   hours"
+      ],
+      [
+        "Annual Cost Burden  ($)",
+        "$156,953",
+        "$0",
+        "$156 ,953"
+      ]
+    ]
+  }
+]

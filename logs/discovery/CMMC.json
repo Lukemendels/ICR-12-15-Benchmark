@@ -1,0 +1,36 @@
+{
+  "query": "CMMC",
+  "url": "https://www.reginfo.gov/public/do/PRASearch?operation=2&requestTypeCategory=ICR&dateType=RE&startDate=09%2F09%2F2023&endDate=09%2F09%2F2026&terms=CMMC",
+  "rows": [
+    {
+      "refs": [
+        "202311-0704-006"
+      ],
+      "text": "0704-0676\n|\nDOW/DODDEP\n|\nCybersecurity Maturity Model Certification (CMMC) Enterprise Mission Assurance Support-Service (eMASS) Instantiation Information Collection\n|\nNew collection (Request for a new OMB Control Number)\n|\n11/16/2023\n|\n01/02/2024\n|\nComment filed on proposed rule\n|\n|\n2\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202405-0704-001"
+      ],
+      "text": "0704-0676\n|\nDOW/DODDEP\n|\nCybersecurity Maturity Model Certification (CMMC) Enterprise Mission Assurance Support-Service (eMASS) Instantiation Information Collection\n|\nNew collection (Request for a new OMB Control Number)\n|\n06/26/2024\n|\n10/15/2024\n|\nApproved with change\n|\n10/31/2027\n|\n2\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202211-0704-001"
+      ],
+      "text": "0704-0677\n|\nDOW/DODDEP\n|\nCybersecurity Maturity Model Certification (CMMC) Program Reporting and Recordkeeping Requirements Information Collection\n|\nNew collection (Request for a new OMB Control Number)\n|\n11/16/2023\n|\n01/02/2024\n|\nComment filed on proposed rule\n|\n|\n2\n|\n0\n|"
+    },
+    {
+      "refs": [
+        "202405-0704-002"
+      ],
+      "text": "0704-0677\n|\nDOW/DODDEP\n|\nCybersecurity Maturity Model Certification (CMMC) Program Reporting and Recordkeeping Requirements Information Collection\n|\nNew collection (Request for a new OMB Control Number)\n|\n06/25/2024\n|\n10/18/2024\n|\nApproved with change\n|\n10/31/2027\n|\n2\n|\n0\n|"
+    }
+  ],
+  "all_refs": [
+    "202211-0704-001",
+    "202311-0704-006",
+    "202405-0704-001",
+    "202405-0704-002"
+  ]
+}
