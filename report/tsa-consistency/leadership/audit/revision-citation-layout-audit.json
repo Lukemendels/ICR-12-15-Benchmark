@@ -1,147 +1,151 @@
 {
   "result": "PASS",
-  "baseline_commit": "439ba34",
-  "pdf_sha256": "8cbfb2d671042176638cfc5e345f8f42494434914c57fd6c047b98361ae993bc",
-  "pages": 9,
-  "page_9_references": true,
-  "full_first_use_citations": 4,
-  "abbreviated_subsequent_citations": 11,
-  "supporting_statement_link_annotations": 8,
-  "supporting_statement_link_occurrences": 6,
+  "baseline_commit": "e39e257633209e73d6f8df2df3b00ef8baa32a77",
+  "pdf_sha256": "eeb1b1e1deb727b18acbc4b48fee3fdb6f6e533d580592b8d2ce58a6dbdab28b",
+  "manuscript_sha256": "48c136dc69ed63aa1bbe1a98b2b105bf87731b256c48e3ad0bc9f5725c1d4790",
+  "pages": 14,
+  "references_page": 14,
+  "full_first_use_citations": 3,
+  "abbreviated_subsequent_citations": 0,
+  "supporting_statement_link_annotations": 6,
   "distinct_supporting_statement_urls": 3,
   "links": [
     {
-      "page": 4,
+      "page": 6,
       "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701",
       "rectangle": [
-        138.43060302734375,
-        642.7999877929688,
-        277.95001220703125,
-        652.760009765625
+        140.46510314941406,
+        667.0,
+        234.6416015625,
+        677.2000122070312
       ]
     },
     {
-      "page": 5,
+      "page": 7,
       "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403",
       "rectangle": [
-        446.3208923339844,
-        599.4000244140625,
-        539.5256958007812,
-        609.3599853515625
+        455.7744140625,
+        663.0,
+        549.950927734375,
+        673.2000122070312
       ]
     },
     {
-      "page": 5,
-      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403",
-      "rectangle": [
-        54.0,
-        610.7999877929688,
-        97.67632293701172,
-        620.760009765625
-      ]
-    },
-    {
-      "page": 5,
+      "page": 7,
       "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901",
       "rectangle": [
-        446.3208923339844,
-        639.5999755859375,
-        539.5256958007812,
-        649.5599975585938
+        455.7744140625,
+        703.5,
+        549.950927734375,
+        713.7000122070312
       ]
     },
     {
-      "page": 5,
-      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901",
-      "rectangle": [
-        54.0,
-        651.0,
-        97.67632293701172,
-        660.9600219726562
-      ]
-    },
-    {
-      "page": 9,
+      "page": 14,
       "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701",
       "rectangle": [
         355.62109375,
-        230.0,
-        523.716796875,
-        242.0
+        139.0,
+        466.4169921875,
+        151.0
       ]
     },
     {
-      "page": 9,
+      "page": 14,
       "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901",
       "rectangle": [
         155.72360229492188,
-        295.0,
-        323.8193054199219,
-        307.0
+        204.0,
+        266.5195007324219,
+        216.0
       ]
     },
     {
-      "page": 9,
+      "page": 14,
       "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403",
       "rectangle": [
         155.72360229492188,
-        360.0,
-        323.8193054199219,
-        372.0
+        269.0,
+        266.5195007324219,
+        281.0
       ]
     }
   ],
   "geometry": [
     {
       "page": 1,
-      "characters": 1538,
+      "characters": 2101,
       "result": "PASS"
     },
     {
       "page": 2,
-      "characters": 1719,
+      "characters": 1513,
       "result": "PASS"
     },
     {
       "page": 3,
-      "characters": 1615,
+      "characters": 2580,
       "result": "PASS"
     },
     {
       "page": 4,
-      "characters": 1499,
+      "characters": 1412,
       "result": "PASS"
     },
     {
       "page": 5,
-      "characters": 1788,
+      "characters": 1410,
       "result": "PASS"
     },
     {
       "page": 6,
-      "characters": 1560,
+      "characters": 1946,
       "result": "PASS"
     },
     {
       "page": 7,
-      "characters": 1867,
+      "characters": 2335,
       "result": "PASS"
     },
     {
       "page": 8,
-      "characters": 1471,
+      "characters": 1939,
       "result": "PASS"
     },
     {
       "page": 9,
-      "characters": 1146,
+      "characters": 1128,
+      "result": "PASS"
+    },
+    {
+      "page": 10,
+      "characters": 843,
+      "result": "PASS"
+    },
+    {
+      "page": 11,
+      "characters": 1675,
+      "result": "PASS"
+    },
+    {
+      "page": 12,
+      "characters": 1598,
+      "result": "PASS"
+    },
+    {
+      "page": 13,
+      "characters": 1724,
+      "result": "PASS"
+    },
+    {
+      "page": 14,
+      "characters": 841,
       "result": "PASS"
     }
   ],
+  "source_text_units_verified": 240,
   "technical_report_pages": 55,
   "technical_report_sha256": "f06b03b911c1beb829006f6e5a2d3cb6ebbab00fb068372aa782e1fc7b40c0b4",
   "protected_state": "PASS: all tracked changes confined to leadership directory; technical PDF byte-identical",
-  "prior_manuscript_words": 2746,
-  "revised_main_brief_words": 1690,
-  "network_destination_checks": "Not performed: exact frozen locators validated offline as instructed"
+  "network_destination_checks": "Not performed: exact frozen locators validated offline"
 }

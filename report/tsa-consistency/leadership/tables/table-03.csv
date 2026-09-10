@@ -1,3 +1,6 @@
-Role,Hours per plan,Hourly rate
-Manager,8,$122.27
-Analyst,24,$104.17
+Input,Published value
+Reviews,100
+Manager time per review,8 hours
+Manager hourly rate,$122.27
+Analyst time per review,24 hours
+Analyst hourly rate,$104.17

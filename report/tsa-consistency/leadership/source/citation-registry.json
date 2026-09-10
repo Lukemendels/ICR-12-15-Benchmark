@@ -1,78 +1,62 @@
 {
-  "style": "Government-document APA adaptation; title-first technical report because no author is stated; TWIC 2025a/b distinguish predecessor/current packages in package chronology. No unregistered publication date is inferred.",
+  "style": "Government-document APA adaptation. Full first-use same-page notes; three cited Supporting Statements in References. TWIC 2025a/b distinguish predecessor/current packages in package chronology. No technical report citation in the leadership manuscript.",
   "entries": [
     {
       "number": 1,
-      "source_id": "TECHNICAL-REPORT-2026",
-      "url": null,
-      "full": "*Consistency and defensibility of burden and cost estimation across TSA information collections*. (2026, September 9). [Technical analytical report, 55 pages].",
-      "abbreviated": "Technical report, 2026",
-      "source_path": "report/tsa-consistency/technical/source/report.md",
-      "locator": "Executive summary; \u00a7\u00a71\u20138, 10\u201314",
-      "pages": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8
-      ],
-      "first_use_page": 1,
-      "reference_entry": "*Consistency and defensibility of burden and cost estimation across TSA information collections*. (2026, September 9). [Technical analytical report, 55 pages].",
-      "subsequent_citation_count": 9
-    },
-    {
-      "number": 2,
       "source_id": "M3-SRC-202512-1652-001-e21e863d84c9cbf0",
       "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701",
-      "full": "Transportation Security Administration. (2026, January 2). *Pipeline Corporate Security Reviews and TSA Security Directive Pipeline\u20132021\u201302 Series: Supporting Statement A* (OMB Control No. 1652-0056; ICR 202512-1652-001). U.S. Department of Homeland Security. [Registered Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701).",
+      "full": "Transportation Security Administration. (2026, January 2). *Pipeline Corporate Security Reviews and TSA Security Directive Pipeline\u20132021\u201302 Series: Supporting Statement A* (OMB Control No. 1652-0056; ICR 202512-1652-001). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701).",
       "abbreviated": "TSA, Pipeline Supporting Statement A, 2026",
       "source_path": "mission-3/sources/202512-1652-001/e21e863d84c9cbf0.txt",
       "provenance_path": "mission-3/sources/202512-1652-001/source.json",
       "registered_document_title": "1652-0056 Pipeline CSR_SDs SS (1.2.2026).docx",
       "locator": "Item 14",
       "pages": [
-        4
+        6,
+        7,
+        13
       ],
-      "first_use_page": 4,
-      "reference_entry": "Transportation Security Administration. (2026, January 2). *Pipeline Corporate Security Reviews and TSA Security Directive Pipeline\u20132021\u201302 Series: Supporting Statement A* (OMB Control No. 1652-0056; ICR 202512-1652-001). U.S. Department of Homeland Security. [Registered Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701).",
-      "subsequent_citation_count": 1
+      "first_use_page": 6,
+      "reference_entry": "Transportation Security Administration. (2026, January 2). *Pipeline Corporate Security Reviews and TSA Security Directive Pipeline\u20132021\u201302 Series: Supporting Statement A* (OMB Control No. 1652-0056; ICR 202512-1652-001). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701).",
+      "subsequent_citation_count": 0,
+      "full_note": "Transportation Security Administration. (2026, January 2). *Pipeline Corporate Security Reviews and TSA Security Directive Pipeline\u20132021\u201302 Series: Supporting Statement A* (OMB Control No. 1652-0056; ICR 202512-1652-001). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701), Item 14."
     },
     {
-      "number": 3,
+      "number": 2,
       "source_id": "M3-SRC-202504-1652-008-ec91651842d62d7c",
       "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403",
-      "full": "Transportation Security Administration. (2025b). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202504-1652-008). U.S. Department of Homeland Security. [Registered Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403).",
+      "full": "Transportation Security Administration. (2025b). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202504-1652-008). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403).",
       "abbreviated": "TSA, TWIC Supporting Statement A, 2025b",
       "source_path": "mission-3/sources/202504-1652-008/ec91651842d62d7c.txt",
       "provenance_path": "mission-3/sources/202504-1652-008/source.json",
       "registered_document_title": "1652-0047 TWIC SS Part A.docx",
       "locator": "Item 15",
       "pages": [
-        5
+        7,
+        13
       ],
-      "first_use_page": 5,
-      "reference_entry": "Transportation Security Administration. (2025b). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202504-1652-008). U.S. Department of Homeland Security. [Registered Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403).",
-      "subsequent_citation_count": 1
+      "first_use_page": 7,
+      "reference_entry": "Transportation Security Administration. (2025b). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202504-1652-008). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403).",
+      "subsequent_citation_count": 0,
+      "full_note": "Transportation Security Administration. (2025b). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202504-1652-008). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403), Item 15."
     },
     {
-      "number": 4,
+      "number": 3,
       "source_id": "M3-SRC-202502-1652-004-4639c859f157e253",
       "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901",
-      "full": "Transportation Security Administration. (2025a). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202502-1652-004). U.S. Department of Homeland Security. [Registered Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901).",
+      "full": "Transportation Security Administration. (2025a). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202502-1652-004). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901).",
       "abbreviated": "TSA, TWIC Supporting Statement A, 2025a",
       "source_path": "mission-3/sources/202502-1652-004/4639c859f157e253.txt",
       "provenance_path": "mission-3/sources/202502-1652-004/source.json",
       "registered_document_title": "1652-0047 TWIC SS Part A_83c.docx",
-      "locator": "Item 12; annualized baseline",
+      "locator": "Item 12",
       "pages": [
-        5
+        7
       ],
-      "first_use_page": 5,
-      "reference_entry": "Transportation Security Administration. (2025a). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202502-1652-004). U.S. Department of Homeland Security. [Registered Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901).",
-      "subsequent_citation_count": 0
+      "first_use_page": 7,
+      "reference_entry": "Transportation Security Administration. (2025a). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202502-1652-004). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901).",
+      "subsequent_citation_count": 0,
+      "full_note": "Transportation Security Administration. (2025a). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202502-1652-004). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901), Item 12."
     }
   ]
 }

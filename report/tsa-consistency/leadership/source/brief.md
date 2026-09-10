@@ -1,203 +1,390 @@
-# Decision at a glance
-TSA ICR Items 12–15 | EAB decision brief | September 10, 2026
+# What the TSA ICR Review Shows — and How We Can Use It
 
-### FINDING
-**Comparable TSA estimation approaches are generally coherent.** The clearer observed risk is that published outputs can become disconnected from the analytical inputs that support them.[^1]
+**TSA ICR Items 12–15 | EAB leadership brief | September 2026**
 
-### SO WHAT
-A reasonable method can still produce a Supporting Statement that is difficult to reproduce, review, renew, or reuse when calculations, tables, labels, footnotes, and prose are maintained separately. This creates an avoidable analytical-control problem.
+## Why I looked at this
 
-### DECISION REQUESTED
-**Authorize EAB to pilot a single, traceable quantitative ICR model on a small number of upcoming renewals or revisions.** Generate Items 12–15 tables and draft numerical language from the same reviewed model, retaining human analytical judgment and approval.
+Information Collection Requests require analysts to make the same kinds of judgments again and again: who is affected, what activity is required, how often it occurs, how long it takes, what wage or cost should be applied, what Federal work is required, and how the estimate has changed since the last approval.
 
-### NEXT MOVE
-Select cases covering respondent burden with multiple respondent pathways, Federal cost by role, and Item 15 changes from the prior baseline. Test whether a second analyst can trace each key number to its source and calculation, reproduce it, and confirm that supported changes reach calculations, tables, and narrative.
+Those choices are usually documented one ICR at a time. Over time, the analytical history becomes spread across Supporting Statements, spreadsheets, source documents, and prior versions. That makes two practical questions surprisingly difficult to answer:
 
-> Standardize the controls connecting inputs to outputs while preserving justified analytical differences.
+1. **When TSA is estimating genuinely similar work, are we using consistent approaches?**
+2. **Can we make it easier for the next analyst to understand what TSA did before, decide whether it still applies, and carry the analysis cleanly into the next Supporting Statement?**
 
-[^1]: *Consistency and defensibility of burden and cost estimation across TSA information collections*. (2026, September 9). [Technical analytical report, 55 pages]. Executive summary; §§10, 14.
+I reviewed five years of publicly available TSA ICR packages to answer those questions.
+
+## What I did
+
+I mapped **90 recent TSA ICR packages across 48 OMB control histories**. Instead of treating each Supporting Statement as a standalone document, I broke the estimates into their analytical building blocks and linked comparable pieces across collections and versions.
+
+The mapping ultimately captured **468 representations of principal activities** and **162 recurring assumption observations**, including task times, wage treatments, and other inputs that could be examined across versions or related activities. I also ran **341 quantitative checks across 40 package versions** to test whether displayed inputs and outputs reproduced as published.
+
+This was not a statistical audit of every TSA ICR, and the 90 packages are not 90 independent collections. The purpose was different: make the analytical structure visible so that like work could be compared with like work and the published calculations could be reconstructed where the public record allowed it.
+
+## What I found
+
+**TSA already shows substantial consistency when genuinely comparable activities are examined.** Many differences that initially look inconsistent make sense once the underlying task, population, pathway, source, or lifecycle stage is aligned.
+
+The more actionable issue is different: **a sound analytical approach can become disconnected as it moves into calculations, tables, footnotes, totals, and narrative.**
+
+That distinction matters. The opportunity is not to force every ICR to use the same assumptions. It is to make TSA's existing analytical choices easier to see, carry forward, update deliberately, and keep synchronized through publication.
+
+## What I am suggesting
+
+Use the map created for this review as the starting reference layer for future ICR development.
+
+When an analyst begins a new ICR or a renewal, the process should be able to surface relevant TSA precedent, show the assumptions and sources used before, let the analyst carry an assumption forward or change it with a documented reason, and then use one reviewed quantitative model to produce the related calculations, tables, and draft numerical language for Items 12–15.
+
+**The analyst should spend time deciding what the estimate should be—not hunting for what TSA did last time or fixing places where the same estimate was copied differently.**
+
+I recommend testing that approach on a small number of upcoming ICRs before deciding whether to expand it.
 
 ---
 
-# What we learned
-**Strengthen reconciliation while preserving methods that work.**
+# From documents to a map of the analytical process
 
-### Like activities often use coherent approaches
-TSA shows substantial methodological coherence when genuinely comparable work is compared. Many differences have legitimate explanations in task scope, pathway, population, source vintage, payer, or lifecycle.
+A Supporting Statement shows the final estimate for one collection at one point in time. That is enough to review an individual submission, but it makes it difficult to see the analytical patterns that repeat across TSA's portfolio.
 
-### Six questions still need context
-Six task/method questions remain unresolved from public evidence. They require analyst or program context and **are not classified as errors**. A missing public explanation does not establish that no internal rationale exists.
+The mapping changes the unit of analysis. Instead of asking only, “What number did this ICR publish?”, it asks, “What work does this number represent, what assumptions produced it, and where else has TSA estimated comparable work?”
 
-### The more actionable weakness is inside individual statements
-Inputs, calculations, tables, periods, labels, footnotes, and narrative can diverge even when the underlying method is reasonable. The evidence supports traceable models and automated reconciliation checks more directly than common numeric assumptions across unlike activities. (Technical report, 2026, §§4–7, 10, 14.)
+For each reviewed package, the map captures the pieces needed to understand the estimate in context.
 
-| Evidence base | Meaning for this decision |
+| What the map captures | Why it matters |
 |---|---|
-| 90 recent TSA packages; 48 assigned control histories | Includes historical versions, proposals, and pending submissions |
-| 341 quantitative checks across 40 versions | Selected, heterogeneous checks; not complete model validation |
+| **Actor** | Identifies who performs the work: applicant, employee, operator, manager, analyst, or another role |
+| **Activity** | Identifies what the person or organization is actually doing |
+| **Population or event** | Identifies what is being counted and prevents a person count from being confused with an operator, submission, review, or event count |
+| **Frequency** | Identifies how often the activity occurs |
+| **Task time** | Records how long the activity is assumed to take |
+| **Wage or cost input** | Records how burden or Federal effort is valued |
+| **Period and unit** | Distinguishes annual, one-time, three-year, per-person, per-event, and other measures |
+| **Source** | Preserves where the input or assumption came from |
+| **Version / prior relationship** | Connects a renewal or revision to the estimate that came before it |
 
-**These counts do not establish a portfolio error rate.** Task/method comparisons and within-ICR findings answer distinct questions; their counts must not be combined. The completed 55-page report remains the authoritative analytical record. (Technical report, 2026, §§1–3, 13.)
+This lets us connect versions within the same OMB control history and also identify similar activities across different collections.
 
-> Leadership can act on a demonstrated control need without claiming that TSA methods are broadly inconsistent.
+For example, two Supporting Statements may both contain something called an “amendment,” but that does not make the estimates directly comparable. One may include preparation and submission while another includes implementation work. One may count affected people while another counts operator events. One may describe an initial application while another describes a renewal.
+
+The map preserves those distinctions rather than flattening them.
+
+**That is important because consistency does not mean identical numbers. It means using comparable approaches when the work is comparable—and being able to explain why the approach changes when the work does.**
+
+The same structure also makes the portfolio reusable. Once an assumption is connected to the activity, population, period, source, and version in which it was used, it becomes possible to ask whether that assumption is relevant to the next ICR instead of rediscovering it from scratch.
 
 ---
 
-# Why this matters
-**A published total is useful only if the next reviewer can understand and reproduce it.**
+# How I checked consistency
 
-When several representations of an estimate must be maintained separately, a supported change can reach one place and miss another. Leadership then faces a review and continuity problem. The management implications below follow from the completed analysis. (Technical report, 2026, §§8, 10–11.)
+The review asked two related but different questions.
 
-| Leadership need | What a connected analytical record enables |
+## 1. Are we estimating similar work in a consistent way?
+
+Before comparing two assumptions, I aligned what they represented: the actor, task, population or event, frequency, unit, period, and lifecycle stage.
+
+Only then did I compare the methods.
+
+A reviewed comparison could lead to one of four practical conclusions:
+
+| Conclusion | What it means |
 |---|---|
-| Review and reproducibility | Trace each key number to its source and calculation; resolve discrepancies before approval |
-| Renewals and assumption reuse | Identify the prior model, determine which assumptions still apply, and update supported inputs |
-| Change accounting | Connect the applicable baseline, component changes, and new total |
-| Economic and regulatory reuse | Retain task scope, population, period, and valuation context before adapting an estimate |
-| Institutional memory | Preserve sources and analytical decisions so another analyst can reconstruct the work |
+| **Consistent** | Comparable work uses the same or materially coherent approach |
+| **Different for an explainable reason** | The numbers differ, but the work, pathway, source, population, or other context explains why |
+| **Not truly comparable** | The activities look similar at a high level but do not represent the same underlying work |
+| **Still unresolved** | The public record does not contain enough information to determine whether the difference is justified |
 
-### A practical scope for EAB
-EAB can require a common way to record sources, assumptions, calculations, and reconciliation results without standardizing every numerical assumption. Different tasks can retain different times, wages, or proxies when their applicability is documented.
+Across the completed comparison register, **15 reviewed cases were consistent, 8 were different for an explainable reason, 3 were not comparable, and 6 remained unresolved from public evidence**.
 
-The proposed benefits are prospective and unmeasured. This analysis does not assess individual analysts or infer undocumented internal causes.
+The unresolved cases are not classified as errors. They are places where analyst or program context would be needed before drawing a conclusion.
 
-> Make the analytical record easier to review, carry forward, and use responsibly.
+The important point is that the mapping prevents a superficial comparison of numbers from being mistaken for evidence of inconsistency.
 
----
+## 2. Do the pieces inside a Supporting Statement reconcile with each other?
 
-# Where the controllable risk appears
-**Pipeline cybersecurity: a coherent role-based method, an output that does not reproduce.**[^2]
+This is a different control question.
 
-The Federal plan-review example displays **100 reviews**, with the following inputs for each plan:
+A method can be reasonable, but the published output may still fail to reproduce if a population, task time, wage, period, subtotal, table, footnote, or narrative value gets out of sync.
 
-| Role | Hours per plan | Hourly rate |
-|---|---:|---:|
-| Manager | 8 | $122.27 |
-| Analyst | 24 | $104.17 |
+I therefore used the mapped inputs to perform **341 targeted quantitative checks across 40 package versions**. These were not complete audits of every calculation. They were reconstruction checks designed to answer questions such as:
 
-### Displayed inputs reproduce approximately $347,824
-100 × [(8 × $122.27) + (24 × $104.17)] = **$347,824**
+- Does the displayed population multiplied by the displayed time reproduce the burden shown?
+- Do role-specific Federal hours and wages reproduce the published Federal cost?
+- Do pathway shares reconcile to the parent population when they are meant to be alternatives?
+- Does the prior burden plus the identified Item 15 changes equal the new burden?
+- Do the table, footnote, and narrative describe the same period and value?
 
-### Published amount: $290,825.84
-The role-based method itself is coherent, but the displayed inputs do not reproduce the published output. (TSA, Pipeline Supporting Statement A, 2026, Item 14.)
+This distinction became the central finding of the review:
 
-**$347,824 is not an official corrected estimate or an estimate of actual spending.** Public evidence does not establish which alternative underlying inputs or recurrence convention should govern. (Technical report, 2026, §7.9.)
+> **TSA's methods are often coherent across comparable work. The clearer control opportunity is making sure the reviewed analysis stays connected to every place that analysis appears in the Supporting Statement.**
 
-> This is exactly the class of problem an automated check connecting model calculations to published outputs should detect before publication.
-
-Analysts would still determine the appropriate assumptions and resolve the discrepancy. The control would make the mismatch visible before approval.
-
-[^2]: Transportation Security Administration. (2026, January 2). *Pipeline Corporate Security Reviews and TSA Security Directive Pipeline–2021–02 Series: Supporting Statement A* (OMB Control No. 1652-0056; ICR 202512-1652-001). U.S. Department of Homeland Security. [Registered Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701). Item 14.
+That is a much more useful finding than simply labeling collections “consistent” or “inconsistent.”
 
 ---
 
-# What good looks like
-**The validated TWIC Item 15 bridge demonstrates traceable change accounting.**[^3]
+# A real example of the problem
 
-For the Transportation Worker Identification Credential (TWIC) collection, the current statement identifies the new burden and component changes. The predecessor statement independently supports the prior baseline.[^4]
+## Pipeline cybersecurity: the method is coherent, but the published total does not reproduce
+
+One TSA Supporting Statement provides a clear example of the difference between a reasonable analytical method and a reconciled published output.[^1]
+
+For Federal review of pipeline cybersecurity plans, the statement displays:
+
+| Input | Published value |
+|---|---:|
+| Reviews | 100 |
+| Manager time per review | 8 hours |
+| Manager hourly rate | $122.27 |
+| Analyst time per review | 24 hours |
+| Analyst hourly rate | $104.17 |
+
+Using those displayed inputs:
+
+**100 × [(8 × $122.27) + (24 × $104.17)] = $347,824**
+
+The same Supporting Statement publishes the Federal cost as:
+
+**$290,825.84**
+
+The role-based structure itself is coherent: the work is separated between manager and analyst time, and each role has an identified hourly rate.
+
+The problem is that the published cost cannot be reproduced from the inputs presented to the reader.
+
+**This does not establish that $347,824 is the correct official estimate.** The public record does not establish whether another underlying input, recurrence convention, or other treatment should govern the official value.
+
+The point is narrower and more useful: **a reviewer should not have to discover this mismatch after publication.**
+
+If the calculation, table, footnote, and narrative all draw from the same reviewed model, the system can automatically identify when a displayed total no longer follows from the inputs that support it. The analyst still decides what the correct assumption or treatment should be; the control makes the disconnect visible before approval.
+
+[^1]: Transportation Security Administration. (2026, January 2). *Pipeline Corporate Security Reviews and TSA Security Directive Pipeline–2021–02 Series: Supporting Statement A* (OMB Control No. 1652-0056; ICR 202512-1652-001). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701), Item 14.
+
+---
+
+# A real example of what works
+
+## TWIC: the change from the prior estimate can be followed from beginning to end
+
+The Transportation Worker Identification Credential (TWIC) collection provides a positive example of the kind of analytical continuity we should preserve.
+
+The current Supporting Statement identifies a new annual burden of **510,471 hours** and displays six component changes from the prior estimate.[^2] The prior Supporting Statement independently supports the starting annual burden of **430,317 hours**.[^3]
+
+The bridge reconciles:
 
 | Reconciliation step | Annualized burden hours |
 |---|---:|
 | Prior baseline | 430,317 |
-| + Net of six displayed component changes | +80,154 |
-| = New burden | 510,471 |
-| Residual | **0** |
+| Net of six displayed changes | +80,154 |
+| New burden | 510,471 |
+| **Residual** | **0** |
 
-**Prior baseline + component changes = new burden.** A reviewer can follow the arithmetic from the identified starting point to the new total. (TSA, TWIC Supporting Statement A, 2025b, Item 15; Technical report, 2026, §7.10.)
+**430,317 + 80,154 = 510,471**
 
-This is a verified arithmetic/component bridge, **not a complete causal decomposition** of population, task time, pathway shares, or interactions. It does not validate other Item 15 baselines.
+A reviewer can identify the starting point, see the changes, and reproduce the new total.
 
-TSA also uses coherent recurring structures for documentation tasks, training activities, and review by staff role. Their continuity does not independently validate every coefficient for future use. (Technical report, 2026, §4.)
+This does not mean the bridge explains every underlying cause of every change. Population changes, task times, pathway shares, and interactions may still require separate analysis.
 
-> Preserve what works; systematize the controls around it.
+But the arithmetic relationship is clear and traceable.
 
-[^3]: Transportation Security Administration. (2025b). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202504-1652-008). U.S. Department of Homeland Security. [Registered Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403). Item 15.
-[^4]: Transportation Security Administration. (2025a). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202502-1652-004). U.S. Department of Homeland Security. [Registered Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901). Item 12; annualized baseline.
+That matters for a renewal because the next analyst does not have to guess which prior total was used or whether the displayed changes actually reach the new estimate.
+
+**This is the kind of continuity the mapping can help us preserve across the portfolio.**
+
+The same map that let me verify the TWIC bridge also retains the relationship between the prior and current versions. Going forward, that relationship can be available to the analyst at the beginning of the next renewal rather than reconstructed near the end.
+
+Pipeline and TWIC together illustrate the practical lesson:
+
+> **Preserve the analytical approaches that already work, and put stronger controls around how assumptions and calculations move from one version—and one output—to the next.**
+
+[^2]: Transportation Security Administration. (2025b). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202504-1652-008). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403), Item 15.
+
+[^3]: Transportation Security Administration. (2025a). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202502-1652-004). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901), Item 12.
 
 ---
 
-# What would change
-**One reviewed quantitative source of truth; multiple derived outputs.**
+# What the review means for EAB
 
-Sources → Reviewed inputs → Explicit assumptions
+The review points to a different kind of standardization than simply choosing one set of assumptions for every collection.
+
+The mapping shows that TSA already has recurring analytical practices and, where the underlying work is comparable, substantial consistency. It also shows why different numbers are sometimes appropriate.
+
+That suggests three things EAB can preserve and strengthen.
+
+## 1. Make prior analytical choices visible
+
+When an analyst begins a new ICR or a renewal, relevant precedent should be available at the point of analysis.
+
+For a renewal, that means seeing the prior collection's activities, assumptions, sources, formulas, and change history.
+
+For a new ICR, it means being able to see how TSA has estimated analogous work elsewhere: similar applications, reviews, recordkeeping activities, credentialing steps, training tasks, Federal review roles, or other comparable activities.
+
+The analyst should be able to ask:
+
+- Have we estimated comparable work before?
+- What assumption did we use?
+- What source supported it?
+- Under what conditions did it apply?
+- Is that still appropriate here?
+
+## 2. Preserve consistency deliberately rather than accidentally
+
+The goal is not for the system to tell the analyst that TSA used one hour before, so one hour must always be used again.
+
+The goal is to make the previous analytical choice visible enough that the analyst can make an explicit decision:
+
+**Carry it forward** because the task and evidence are still applicable.
+
+**Adapt it** because the task is similar but the circumstances have changed.
+
+**Replace it** because better evidence or a different activity requires a different assumption.
+
+In each case, the rationale can stay with the model.
+
+That makes consistency easier to maintain when consistency is justified—and makes differences easier to explain when they are not.
+
+## 3. Stop maintaining the same number in several independent places
+
+Once the analyst has reviewed the sources and assumptions, the quantitative model should become the source for the downstream numerical outputs.
+
+A simple flow is:
+
+**Sources → Activities and populations → Assumptions → Calculations → Checks → Tables → Items 12–15 numerical narrative**
+
+If an approved wage changes, the analyst changes the wage once.
+
+If a population changes, the analyst changes the population once.
+
+If an Item 15 baseline changes, the bridge updates from the same underlying record.
+
+The calculations, tables, and draft numerical statements then follow from the reviewed model rather than being updated independently.
+
+Human review remains essential. A calculation can reproduce perfectly and still rely on the wrong assumption. Analysts still decide whether the task, source, proxy, population, or interpretation is appropriate.
+
+The difference is that once the analytical decision is made, **the process helps preserve it consistently through the rest of the ICR.**
+
+---
+
+# What this could look like for the next analyst
+
+The research does not have to end as a report. The structured map created to evaluate TSA's existing ICRs can become part of the workflow for creating the next one.
+
+## Today
+
+A renewal can require an analyst to:
+
+**Open the prior Supporting Statement**
 ↓
-Calculations → Validation → Tables → Items 12–15 narrative
+**Find the prior spreadsheet or model**
+↓
+**Locate the supporting sources**
+↓
+**Work out which assumptions produced which numbers**
+↓
+**Determine what still applies**
+↓
+**Rebuild or update the calculations**
+↓
+**Update tables**
+↓
+**Update narrative and footnotes**
+↓
+**Check that every representation still agrees**
 
-This is the proposed workflow. Each downstream numerical statement derives from the same reviewed calculation, with its sources and applicable period retained. (Technical report, 2026, §§10–11.)
+A new collection can be harder because there may be no direct predecessor. The analyst has to know—or discover—whether TSA has already estimated analogous work somewhere else.
 
-### One approved change, consistently reflected
-If an approved wage changes, update that input once. The model recalculates the role cost, updates every dependent table, and refreshes the draft numerical statement. The same principle applies to an approved population or frequency change.
+## Future
 
-| Human analysts decide | Deterministic software handles |
-|---|---|
-| Task scope and assumption applicability | Reproduction of declared formulas |
-| Proxy selection and economic interpretation | Arithmetic and baseline reconciliation |
-| Unresolved inputs and issue disposition | Checks of declared units, periods, and population relationships |
-| Final narrative and publication approval | Generation of dependent tables and draft numerical language |
+The mapping gives us the foundation for a different starting point:
 
-### Review remains essential
-A calculation can reproduce exactly and still rely on an unsuitable assumption. Analysts establish the relationships, resolve missing evidence, and approve interpretation. Software checks whether the declared relationships reproduce and remain synchronized.
+**Start a new ICR or renewal**
+↓
+**See the relevant prior version and comparable TSA activities**
+↓
+**See the assumptions, sources, and context TSA used before**
+↓
+**Choose what to carry forward, adapt, or replace—and record why**
+↓
+**Build the reviewed quantitative model**
+↓
+**Generate the related tables and draft Items 12–15 numerical language**
+↓
+**Run automated checks for arithmetic, periods, populations, costs, and change bridges**
+↓
+**Have the analyst review, resolve, and approve**
 
-> Automate reproduction and reconciliation while retaining analytical judgment and approval.
+For a renewal, the analyst starts with structured institutional history instead of reconstructing that history from scattered artifacts.
+
+For a new ICR, the analyst starts with relevant TSA precedent instead of a blank page.
+
+That does not remove analytical judgment. It puts more useful information in front of the analyst when that judgment is being made.
+
+It also changes what the analyst spends time on.
+
+> **The analyst should spend time deciding what the estimate should be—not hunting for what TSA did last time or fixing places where the same estimate was copied differently.**
+
+For leadership, the payoff is broader than catching calculation errors. It is a more durable analytical process: easier handoffs, more consistent assumptions where consistency is justified, clearer explanations when assumptions change, more traceable renewals, and a record that can be reused for future economic and regulatory analysis.
+
+Those operational benefits still need to be tested rather than assumed. But the mapping gives us something concrete to test them with.
 
 ---
 
-# Pilot the approach
-**Use a small number of upcoming renewals or revisions to test reconstruction and controlled change.**
+# What I propose we do next
 
-### Select cases that exercise the key relationships
-Choose respondent burden with multiple respondent pathways, Federal cost by role, and an Item 15 baseline/change bridge. One collection may cover more than one need. Confirm access to underlying models and source inputs before fixing the scope. (Technical report, 2026, §12.)
+## Use the map we already built to test a better ICR development workflow
 
-### Produce a complete, reviewable pilot record
-- Record of sources and assumptions, including when each assumption applies.
-- Quantitative model retaining formulas and source assumptions; automated quality checks with documented issue status and decisions.
-- Item 15 baseline/change ledger where applicable.
-- Generated tables and draft numerical Supporting Statement language for Items 12–15.
-- Human analytical review and second-analyst reconstruction of material outputs.
+I recommend a small EAB pilot using a few upcoming ICR renewals or revisions, and—if a suitable case is available—a new collection.
 
-| Proposed responsibility | Pilot role |
-|---|---|
-| EAB | Define the model and checks; document assumptions and results |
-| Program partners | Clarify task scope, inputs, and assumption applicability |
-| PRA reviewers | Review Supporting Statement requirements and draft outputs |
-| Second analyst | Independently trace and reproduce key numbers; test supported changes |
-| Leadership | Confirm assignments and assess whether to revise, expand, or stop |
+The purpose is not to launch a large transformation effort. It is to test whether the analytical history we have already mapped can make real ICR work easier to build, review, and carry forward.
 
-### Establish acceptance measures before building
-Can a second analyst trace and reproduce material outputs? Does a supported input change reach every dependent table and numerical statement? Do checks flag deliberate mismatches while accepting justified differences and valid bridges?
+For each pilot case:
 
-The pilot tests feasibility and control quality. It claims no measured savings, staffing reductions, implementation ROI, or elimination of analytical judgment.
+1. **Start with the mapped evidence.**
+   Surface the prior control history and/or comparable TSA activities, assumptions, and sources.
 
----
+2. **Have the analyst make the substantive choices.**
+   Carry forward, adapt, or replace assumptions based on the actual collection and record why.
 
-# Decision and next move
-### Decision requested
-**Authorize the bounded EAB pilot of a single, traceable quantitative ICR model.**
+3. **Build the quantitative analysis once.**
+   Keep activities, populations, frequencies, task times, wages, Federal work, sources, formulas, and Item 15 changes in one reviewed model.
 
-Test whether the model reliably generates tables and draft Items 12–15 numerical language that another analyst can trace and reproduce. (Technical report, 2026, §12.5.)
+4. **Generate the downstream numerical outputs from that model.**
+   Use it to produce the relevant tables and draft numerical language for Items 12–15.
 
-### Immediate actions
-The following is a **proposed sequencing framework**, subject to case availability and confirmed responsibilities; these are not established program commitments.
+5. **Run automated reconciliation checks.**
+   Test whether declared inputs reproduce totals, pathways reconcile as intended, periods and units stay aligned, Federal costs reproduce, and Item 15 bridges connect the prior and new estimates.
 
-| Proposed timing | Action and review point |
-|---|---|
-| **0–30 days** | Select pilot ICR(s); confirm EAB, program, and PRA roles; identify available underlying models and source inputs; establish acceptance measures |
-| **30–60 days** | Build the common model; check sources and reconcile calculations with draft outputs; have a second analyst trace and reproduce key numbers |
-| **60–90 days** | Assess traceability, reproducibility, unresolved issues, and maintenance effort; decide whether to revise, expand, or stop |
+6. **Have a second analyst try to reconstruct the work.**
+   The test is whether another analyst can trace each key number to its source, understand the assumption, reproduce the calculation, and see why an assumption was retained or changed.
 
-### Return to leadership with evidence
-Report which key numbers another analyst could trace and reproduce, which changes failed to reach all outputs, which assumptions remain unresolved, and what maintaining the model required. Use those results to decide the next step; operational benefits remain to be measured.
+## What I would want to learn from the pilot
 
-> Authorize the pilot, assign responsibility, test traceability and controlled change, then decide whether to expand.
+Before deciding whether this should become a broader EAB capability, we should be able to answer practical questions:
+
+- Can an analyst find relevant TSA precedent without searching through multiple old Supporting Statements?
+- Does the mapped history make a renewal easier to pick up and understand?
+- Can a new ICR reuse analogous TSA assumptions without treating precedent as a mandatory rule?
+- Can a second analyst trace key numbers to sources and calculations?
+- When an approved assumption changes, does that change reach every affected calculation, table, and numerical statement?
+- Do the checks catch a Pipeline-type mismatch?
+- Can they accept a TWIC-type bridge that reconciles correctly?
+- Are justified differences preserved and documented rather than forced into uniformity?
+- What still requires manual work, and where does analyst judgment add the most value?
+
+## The decision I am asking for
+
+**Agree to test this approach with a small number of suitable EAB ICRs.**
+
+The review has already produced the map needed to begin. The pilot would tell us whether that map can become a useful part of the production process—not only identifying consistency after the fact, but helping analysts **preserve it by design going forward**.
+
+If the approach improves traceability, handoffs, renewal continuity, and controlled updating, we can then decide whether it is worth expanding.
+
+If it does not, we will have tested it on a bounded set of real work before making a larger commitment.
+
+The immediate next step is simply to select suitable pilot cases and confirm who should participate in the review.
 
 ---
 
 # References
-Only sources cited in this brief are listed. Public document links use the exact registered locators.
 
-*Consistency and defensibility of burden and cost estimation across TSA information collections*. (2026, September 9). [Technical analytical report, 55 pages].
+Transportation Security Administration. (2026, January 2). *Pipeline Corporate Security Reviews and TSA Security Directive Pipeline–2021–02 Series: Supporting Statement A* (OMB Control No. 1652-0056; ICR 202512-1652-001). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701).
 
-Transportation Security Administration. (2026, January 2). *Pipeline Corporate Security Reviews and TSA Security Directive Pipeline–2021–02 Series: Supporting Statement A* (OMB Control No. 1652-0056; ICR 202512-1652-001). U.S. Department of Homeland Security. [Registered Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701).
+Transportation Security Administration. (2025a). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202502-1652-004). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901).
 
-Transportation Security Administration. (2025a). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202502-1652-004). U.S. Department of Homeland Security. [Registered Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901).
-
-Transportation Security Administration. (2025b). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202504-1652-008). U.S. Department of Homeland Security. [Registered Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403).
+Transportation Security Administration. (2025b). *Transportation Worker Identification Credential: Supporting Statement A* (OMB Control No. 1652-0047; ICR 202504-1652-008). U.S. Department of Homeland Security. [Supporting Statement](https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403).

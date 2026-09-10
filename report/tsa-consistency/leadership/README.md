@@ -1,13 +1,13 @@
-# EAB leadership decision brief
+# EAB leadership brief — mapping and future workflow
 
-Status: COMPLETE — Mission 4.5 revision, September 10, 2026.
+Status: COMPLETE. The user-supplied narrative is the substantive editorial authority for this edition; wording and argument order are preserved without compression.
 
-Final PDF: `final/TSA-ICR-Consistency-and-Analytical-Controls-EAB-Brief.pdf` (9 pages; page 9 References).
+Final PDF: `final/TSA-ICR-Consistency-and-Analytical-Controls-EAB-Brief.pdf` (14 pages; References on page 14).
 
-Editable manuscript: `source/brief.md`. Citation identities, full notes, abbreviated forms, references, and exact registered URLs: `source/citation-registry.json` and `source/citation-support.md`.
+Manuscript: `source/brief.md`. Citation mapping: `source/citation-registry.json` and `source/citation-support.md`. Three named Supporting Statements have full same-page first-use notes and direct registered links; References includes only those three sources. The technical report is not cited or listed in the leadership brief.
 
-Rebuild with `python3 scripts/build.py`; validate with `python3 scripts/audit.py` from this directory (or use absolute script paths). Requires ReportLab, PyMuPDF, DejaVu Sans regular/bold, and Noto Sans italic. This revision used ReportLab 5.0.1 and PyMuPDF 1.28.2 in `/tmp/eab-brief-venv`. Rendered review images are regenerated in `/tmp/eab-brief-render`. Build uses explicit source page breaks and same-page full first-use notes; live links are embedded directly. Tables 01–07 are regenerated CSV exports. The diagram is rendered from the source sequence.
+Rebuild with `python3 scripts/build.py`; validate with `python3 scripts/audit.py` (or use absolute script paths). Requires ReportLab 5.0.1, PyMuPDF 1.28.2, DejaVu Sans regular/bold and Noto Sans italic. This session used `/tmp/eab-brief-venv/bin/python`. Review images are regenerated in `/tmp/eab-brief-render`. Page breaks follow the supplied narrative sections and selected existing subheadings. Tables 01–04 preserve source table contents as CSV; the rendered map is a definition list and the TWIC bridge is a horizontal exhibit. Three process flows are numbered visual sequences.
 
-Current acceptance records: `audit/revision-citation-layout-audit.json` and `audit/revision-analytical-editorial-audit.md`. `audit/plain-language-refinement-audit.json` records the final wording-only preservation checks. `REVISION-RECORD.md` records the changes. Other audit files are historical records of the prior eight-page edition and are superseded for current acceptance.
+Current acceptance: `audit/revision-citation-layout-audit.json` and `audit/mapping-production-review.md`. `REVISION-RECORD.md` records edition history. Other audit records describe earlier editions and are superseded for current acceptance.
 
-No new research or re-adjudication. The 55-page technical report is unchanged and remains authoritative. All mission changes are confined to this leadership directory.
+No new research or adjudication. The technical report and frozen evidence remain unchanged. Only this leadership directory is modified.

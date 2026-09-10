@@ -1,3 +1,10 @@
-Evidence base,Meaning for this decision
-90 recent TSA packages; 48 assigned control histories,"Includes historical versions, proposals, and pending submissions"
-341 quantitative checks across 40 versions,"Selected, heterogeneous checks; not complete model validation"
+What the map captures,Why it matters
+**Actor**,"Identifies who performs the work: applicant, employee, operator, manager, analyst, or another role"
+**Activity**,Identifies what the person or organization is actually doing
+**Population or event**,"Identifies what is being counted and prevents a person count from being confused with an operator, submission, review, or event count"
+**Frequency**,Identifies how often the activity occurs
+**Task time**,Records how long the activity is assumed to take
+**Wage or cost input**,Records how burden or Federal effort is valued
+**Period and unit**,"Distinguishes annual, one-time, three-year, per-person, per-event, and other measures"
+**Source**,Preserves where the input or assumption came from
+**Version / prior relationship**,Connects a renewal or revision to the estimate that came before it

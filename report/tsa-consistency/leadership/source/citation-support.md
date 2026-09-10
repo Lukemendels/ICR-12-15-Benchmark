@@ -1,14 +1,15 @@
-# Citation support — Mission 4.5 revision
+# Citation support — mapping and future workflow edition
 
-No new research. The completed technical report and frozen TSA sources govern the findings. Full first-use notes appear on the same page as the source’s first substantive use; References repeats the full entries. The machine-readable citation-registry.json supplies source identity, exact URL, claim locator, page, and abbreviated form.
+The user-supplied narrative is the substantive editorial authority. Production editing preserved all wording, sequence, numbers, and qualifications. No new research or analytical adjudication. No technical report citation or reference appears in the leadership manuscript.
 
-| Note | Source ID | Claims / brief pages | Later form |
+| Note | Source identity | Exact registered URL | Claims / brief pages |
 |---|---|---|---|
-| 1 | TECHNICAL-REPORT-2026 | Executive summary; §§1–8, 10–14; pages [1, 2, 3, 4, 5, 6, 7, 8] | Technical report, 2026 |
-| 2 | M3-SRC-202512-1652-001-e21e863d84c9cbf0 | Item 14; pages [4] | TSA, Pipeline Supporting Statement A, 2026 |
-| 3 | M3-SRC-202504-1652-008-ec91651842d62d7c | Item 15; pages [5] | TSA, TWIC Supporting Statement A, 2025b |
-| 4 | M3-SRC-202502-1652-004-4639c859f157e253 | Item 12; annualized baseline; pages [5] | TSA, TWIC Supporting Statement A, 2025a |
+| 1 | M3-SRC-202512-1652-001-e21e863d84c9cbf0 | https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701 | Item 14; pages [6, 7, 13]; first-use note p. 6 |
+| 2 | M3-SRC-202504-1652-008-ec91651842d62d7c | https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403 | Item 15; pages [7, 13]; first-use note p. 7 |
+| 3 | M3-SRC-202502-1652-004-4639c859f157e253 | https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901 | Item 12; pages [7]; first-use note p. 7 |
 
-Pipeline evidence: FIND-CYBER-COST and technical §7.9; current source Item 14. No predecessor lineage claim is retained. TWIC evidence: BASELINE-TWIC-2025 and technical §7.10; current Item 15 plus predecessor baseline. Broad recurring-method statements cite technical §4, without introducing further named document cases. No federal comparator is directly cited.
+Each entry in citation-registry.json maps the note, full citation, reserved abbreviated form, reference entry, source ID, original filename, frozen provenance path, exact URL, and claim pages. Subsequent narrative references to Pipeline/TWIC are unambiguous; no additional full footnotes or abbreviated parentheticals were added to the supplied narrative.
 
-The pipeline date is supported by the registered filename and receipt metadata (January 2, 2026). TWIC years follow registered package receipt metadata; a/b identify distinct 2025 packages. Collection titles follow the authoritative technical reference registry; original filenames are preserved in the machine registry. The technical report has no stated personal or organizational author, so its APA entry begins with the title. No public URL is invented for this local report.
+Verification: all three URLs, source IDs, collection titles, control numbers, and package identifiers match the existing technical reference registry and Mission 3 source records. Pipeline January 2, 2026 matches its registered filename and receipt date despite the 202512 package number. TWIC 2025 dates match receipt metadata (February 27 and May 5); a/b retain the established predecessor/current convention. No bibliographic correction was necessary. Pipeline Item 14 supplies the displayed inputs and published amount; TWIC current Item 15 and predecessor Item 12 support the bridge.
+
+The existing frozen analytical record remains the internal basis for the review’s aggregate findings; it is unchanged and is not cited or listed in the leadership PDF, as instructed. References contains only the three Supporting Statements actually cited. All public links were verified offline against registered records, without fetching destinations.

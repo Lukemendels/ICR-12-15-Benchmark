@@ -1,6 +1,5 @@
-Leadership need,What a connected analytical record enables
-Review and reproducibility,Trace each key number to its source and calculation; resolve discrepancies before approval
-Renewals and assumption reuse,"Identify the prior model, determine which assumptions still apply, and update supported inputs"
-Change accounting,"Connect the applicable baseline, component changes, and new total"
-Economic and regulatory reuse,"Retain task scope, population, period, and valuation context before adapting an estimate"
-Institutional memory,Preserve sources and analytical decisions so another analyst can reconstruct the work
+Conclusion,What it means
+**Consistent**,Comparable work uses the same or materially coherent approach
+**Different for an explainable reason**,"The numbers differ, but the work, pathway, source, population, or other context explains why"
+**Not truly comparable**,The activities look similar at a high level but do not represent the same underlying work
+**Still unresolved**,The public record does not contain enough information to determine whether the difference is justified
