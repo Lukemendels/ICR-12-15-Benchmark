@@ -1,0 +1,798 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PRA Q12-15 Table Checker</title>
+<style>
+:root {
+  --bg: #f5f7fb;
+  --panel: #ffffff;
+  --ink: #172033;
+  --muted: #5d667a;
+  --line: #d7ddea;
+  --primary: #005ea8;
+  --primary-dark: #1a4480;
+  --pass: #216e39;
+  --warning: #9c6422;
+  --issue: #b50909;
+  --info: #2f5d9b;
+  --soft-pass: #e7f4e4;
+  --soft-warning: #fff4d4;
+  --soft-issue: #fde7e7;
+  --soft-info: #e7f0fb;
+  --shadow: 0 10px 24px rgba(23, 32, 51, 0.08);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+.app-header {
+  background: linear-gradient(135deg, #102e4a, #005ea8);
+  color: #fff;
+  padding: 28px 32px;
+}
+
+.app-header h1 { margin: 0 0 8px; font-size: 28px; }
+.app-header p, .app-footer p, .panel-heading p { margin: 0; color: inherit; opacity: 0.86; }
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(360px, 0.88fr) minmax(560px, 1.12fr);
+  gap: 20px;
+  padding: 20px;
+}
+
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  padding: 18px;
+  min-width: 0;
+}
+
+.panel-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 14px;
+  margin-bottom: 14px;
+}
+
+.panel h2 { margin: 0 0 6px; font-size: 20px; }
+
+textarea {
+  width: 100%;
+  min-height: 560px;
+  resize: vertical;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 14px;
+  font-family: Consolas, Monaco, monospace;
+  font-size: 13px;
+  line-height: 1.45;
+  color: var(--ink);
+  background: #fbfcff;
+}
+
+.button-row { display: flex; gap: 10px; flex-wrap: wrap; }
+.run-row { margin-top: 14px; }
+button, select { font: inherit; }
+
+button {
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 10px 14px;
+  cursor: pointer;
+  font-weight: 700;
+}
+button:disabled { cursor: not-allowed; opacity: 0.55; }
+button.primary { background: var(--primary); color: #fff; }
+button.primary:hover:not(:disabled) { background: var(--primary-dark); }
+button.secondary { background: #eef2f8; color: var(--ink); border-color: var(--line); }
+
+.summary-cards {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(82px, 1fr));
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.card {
+  border-radius: 12px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  background: #fff;
+}
+.card .count { font-size: 25px; font-weight: 800; line-height: 1; }
+.card .label { margin-top: 6px; font-size: 12px; color: var(--muted); }
+.card.issue { background: var(--soft-issue); color: var(--issue); }
+.card.warning { background: var(--soft-warning); color: var(--warning); }
+.card.pass { background: var(--soft-pass); color: var(--pass); }
+.card.info { background: var(--soft-info); color: var(--info); }
+
+.numeric-conclusion {
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  padding: 12px;
+  margin-bottom: 14px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+.empty-conclusion { color: var(--muted); background: #f7f9fc; font-weight: 400; }
+.numeric-conclusion.pass { background: var(--soft-pass); color: var(--pass); }
+.numeric-conclusion.warning { background: var(--soft-warning); color: var(--warning); }
+.numeric-conclusion.issue { background: var(--soft-issue); color: var(--issue); }
+
+.report-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+  color: var(--muted);
+}
+select { border: 1px solid var(--line); border-radius: 8px; padding: 8px; background: #fff; }
+
+.result-section {
+  border-top: 1px solid var(--line);
+  padding-top: 14px;
+  margin-top: 16px;
+}
+.result-section h3 { margin: 0 0 4px; font-size: 18px; }
+.section-help { margin: 0 0 10px; color: var(--muted); font-size: 13px; }
+
+.table-wrap {
+  max-height: 420px;
+  overflow: auto;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+th, td { border-bottom: 1px solid var(--line); padding: 8px; text-align: left; vertical-align: top; }
+th { position: sticky; top: 0; background: #eef2f8; z-index: 1; }
+tr.issue { background: #fff8f8; }
+tr.warning { background: #fffaf0; }
+tr.pass { background: #fbfffb; }
+tr.info { background: #f7fbff; }
+
+.badge {
+  display: inline-block;
+  border-radius: 999px;
+  padding: 3px 7px;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.badge.issue { background: var(--issue); }
+.badge.warning { background: var(--warning); }
+.badge.pass { background: var(--pass); }
+.badge.info { background: var(--info); }
+
+.finding-list { display: grid; gap: 10px; max-height: 360px; overflow: auto; }
+.finding {
+  border: 1px solid var(--line);
+  border-left-width: 6px;
+  border-radius: 12px;
+  padding: 12px;
+  background: #fff;
+}
+.finding.issue { border-left-color: var(--issue); }
+.finding.warning { border-left-color: var(--warning); }
+.finding.pass { border-left-color: var(--pass); }
+.finding.info { border-left-color: var(--info); }
+.finding-header { display: flex; justify-content: space-between; gap: 10px; margin-bottom: 8px; }
+.finding h4 { margin: 0; font-size: 15px; }
+.finding p { margin: 6px 0; line-height: 1.42; }
+
+.meta {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 10px;
+}
+.meta div {
+  background: #f7f9fc;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 8px;
+  font-size: 13px;
+  overflow-wrap: anywhere;
+}
+.meta strong { display: block; color: var(--muted); margin-bottom: 4px; font-size: 12px; }
+
+.empty-state {
+  color: var(--muted);
+  border: 1px dashed var(--line);
+  border-radius: 12px;
+  padding: 18px;
+  text-align: center;
+}
+
+.app-footer { padding: 0 20px 22px; color: var(--muted); }
+
+@media (max-width: 1200px) {
+  .layout { grid-template-columns: 1fr; }
+  .summary-cards { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (max-width: 720px) {
+  .summary-cards { grid-template-columns: repeat(2, 1fr); }
+  .meta { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PRA Q12-15 Table Checker</title>
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <h1>PRA Q12-15 Table Checker</h1>
+      <p>Check table arithmetic, cross-table consistency, and prose-to-table consistency.</p>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="panel input-panel" aria-labelledby="input-heading">
+      <div class="panel-heading">
+        <div>
+          <h2 id="input-heading">Supporting statement text</h2>
+          <p>Paste Q12 through Q15 text, or the full supporting statement.</p>
+        </div>
+        <div class="button-row">
+          <button id="loadSampleBtn" type="button" class="secondary">Load sample</button>
+          <button id="clearBtn" type="button" class="secondary">Clear</button>
+        </div>
+      </div>
+      <textarea id="sourceText" spellcheck="false" placeholder="Paste supporting statement text here..."></textarea>
+      <div class="button-row run-row">
+        <button id="runBtn" type="button" class="primary">Run Q12-15 Check</button>
+        <button id="copyReportBtn" type="button" class="secondary" disabled>Copy Report</button>
+      </div>
+    </section>
+
+    <section class="panel results-panel" aria-labelledby="results-heading">
+      <div class="panel-heading">
+        <div>
+          <h2 id="results-heading">Results</h2>
+          <p id="resultSubtitle">Run a check to see findings.</p>
+        </div>
+      </div>
+
+      <div id="summaryCards" class="summary-cards" aria-live="polite"></div>
+      <div id="numericConclusion" class="numeric-conclusion empty-conclusion">Numeric review has not run yet.</div>
+
+      <div class="report-actions">
+        <label for="sectionFilter">Show:</label>
+        <select id="sectionFilter">
+          <option value="all">All sections</option>
+          <option value="calculation">Calculation audit trail</option>
+          <option value="crossTable">Cross-table consistency</option>
+          <option value="narrative">Narrative-to-table checks</option>
+          <option value="structure">Structure checks</option>
+          <option value="attention">Warnings and issues only</option>
+        </select>
+      </div>
+
+      <section id="calculationSection" class="result-section">
+        <h3>Calculation audit trail</h3>
+        <p class="section-help">Shows the arithmetic performed inside each table.</p>
+        <div id="calculationTableWrap" class="table-wrap empty-state">No calculation checks yet.</div>
+      </section>
+
+      <section id="crossTableSection" class="result-section">
+        <h3>Cross-table consistency</h3>
+        <p class="section-help">Shows whether values carried from one table to another match.</p>
+        <div id="crossTableWrap" class="table-wrap empty-state">No cross-table checks yet.</div>
+      </section>
+
+      <section id="narrativeSection" class="result-section">
+        <h3>Narrative-to-table checks</h3>
+        <p class="section-help">Compares prose values and prose formulas against table values.</p>
+        <div id="narrativeFindings" class="finding-list empty-state">No narrative checks yet.</div>
+      </section>
+
+      <section id="structureSection" class="result-section">
+        <h3>Structure checks</h3>
+        <p class="section-help">Shows table detection, duplicate numbering, and scope notes.</p>
+        <div id="structureFindings" class="finding-list empty-state">No structure checks yet.</div>
+      </section>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <p>Reviewer aid only. Confirm findings before editing official PRA submissions.</p>
+  </footer>
+</body>
+</html>
+<script id="tool-descriptor" type="application/json">{"schema":"paperclip-portable-tool","version":"1.0","file":"pra-q12-15-table-checker.html","skillSlug":"pra-q12-15-table-checker","title":"PRA Q12-15 Table Checker","projectVersion":"1.0.0","prompts":[],"capabilities":[]}</script>
+<script>window.STICKSHIFT_TOOL = {"file":"pra-q12-15-table-checker.html","skillSlug":"pra-q12-15-table-checker","title":"PRA Q12-15 Table Checker"};</script>
+<script type="text/markdown" id="stickshift-skill" data-skill-slug="pra-q12-15-table-checker" data-skill-kind="generated">
+---
+type: Skill
+title: PRA Q12-15 Table Checker
+description: Launch PRA Q12-15 Table Checker when the operator requests it.
+tags: [html-tool]
+---
+
+# PRA Q12-15 Table Checker
+
+Use this generated registration skill to launch the deterministic local tool.
+
+## Open this tool
+
+<HTML_OPEN>
+tool: pra-q12-15-table-checker.html
+include:
+- skills/pra-q12-15-table-checker.md
+</HTML_OPEN>
+</script>
+<script>
+"use strict";
+
+const $ = (id) => document.getElementById(id);
+
+const state = { checks: [], tables: {}, lastReportText: "" };
+
+const SAMPLE_TEXT = `Provide estimates of hour and cost burdens of the collection of information.
+Table 1: Form 413A Responses
+Year | % Increase | LEOs Flying Armed | % Using 413A | Number of 413A Responses
+1 | 25% | 104,686 | 50% | 52,343
+2 | 15% | 120,389 | 5% | 6,019
+3 | 10% | 132,428 | 5% | 6,621
+Average | 119,168 | 21,661
+Table 2: Form 413A Annual Hour Burden and Cost
+Year | Number of 413A Responses | Time Burden per Log In (Hours) | Annual 413A Hour Burden | Annual 413A Hour Burden Cost
+1 | 52,343 | 0.0667 | 3,491.3 | $217,717
+2 | 6,019 | 0.0667 | 401.5 | $25,038
+3 | 6,621 | 0.0667 | 441.6 | $27,538
+Average | 21,661 | 1,444.8 | $90,098
+Table 3: LEOFA Pass Occurrences
+Year | % of Respondents Using LEOFA Pass | LEOs Flying Armed | LEOFA Pass Occurrences
+1 | 50% | 104,686 | 52,343
+2 | 95% | 120,389 | 114,370
+3 | 95% | 132,428 | 125,807
+Average | 119,171 | 97,507
+Table 4: LEOFA Pass Registrations
+Year | Number of LEOFA Pass Occurrences | Registration Response Portion | Number of Registration Responses
+1 | 52,343 | 75% | 39,257
+2 | 114,370 | 25% | 28,593
+3 | 125,807 | 25% | 31,452
+Average | 97,507 | 33,101
+Table 5: LEOFA Pass Hour Burden
+Year | Number of Registration Responses | Annual Registration Hour Burden | Annual Registration Hour Burden Cost | Number of LEOFA Pass Occurrences | Annual Flight Information Hour Burden | Annual Flight Information Hour Burden Cost
+1 | 39,257 | 3,270.1 | $203,923 | 52,343 | 1,743 | $108,693
+2 | 28,593 | 2,381.8 | $148,529 | 114,370 | 3,809 | $237,529
+3 | 31,452 | 2,620.0 | $163,383 | 125,807 | 4,189 | $261,226
+Average | 33,101 | 2,757.3 | $171,945 | 97,507 | 3,247 | $202,483
+Table 4 TSA Hour Burden Cost for 413A
+Year | Number of Responses | Time Burden per Review (Hours) | Annual Hour Burden | Annual Hour Burden Cost
+1 | 52,343 | 0.0250 | 1,309 | $92,088
+2 | 6,019 | 0.0250 | 150 | $10,553
+3 | 6,621 | 0.0250 | 166 | $11,678
+Average | 21,661 | 542 | $38,130`;
+
+const TABLE_CONFIG = {
+  table1: { caption: "Table 1: Form 413A Responses" },
+  table2: { caption: "Table 2: Form 413A Annual Hour Burden and Cost" },
+  table3: { caption: "Table 3: LEOFA Pass Occurrences" },
+  table4: { caption: "Table 4: LEOFA Pass Registrations" },
+  table5: { caption: "Table 5: LEOFA Pass Hour Burden" },
+  federal: { caption: "Table 4 TSA Hour Burden Cost for 413A" }
+};
+
+function parseNumber(value) {
+  if (value === undefined || value === null) return NaN;
+  const cleaned = String(value).replaceAll("$", "").replaceAll(",", "").replaceAll("%", "").trim();
+  if (!cleaned || cleaned.toLowerCase() === "n/a") return NaN;
+  const parsed = Number(cleaned);
+  return Number.isFinite(parsed) ? parsed : NaN;
+}
+
+function roundForDisplay(value, decimals) {
+  if (!Number.isFinite(value)) return NaN;
+  const factor = Math.pow(10, Math.max(0, decimals || 0));
+  return Math.round((value + Number.EPSILON) * factor) / factor;
+}
+
+function fmtNumber(value, decimals = 0) {
+  return Number.isFinite(value) ? value.toLocaleString(undefined, { minimumFractionDigits: decimals, maximumFractionDigits: decimals }) : "n/a";
+}
+
+function fmtMoney(value) {
+  return Number.isFinite(value) ? "$" + fmtNumber(value, 0) : "n/a";
+}
+
+function fmtValue(value, kind, decimals) {
+  if (kind === "money") return fmtMoney(value);
+  if (kind === "percent") return fmtNumber(value, decimals || 0) + "%";
+  return fmtNumber(value, decimals || 0);
+}
+
+function splitPipeRow(line) {
+  let value = line.trim();
+  if (value.startsWith("|")) value = value.slice(1);
+  if (value.endsWith("|")) value = value.slice(0, -1);
+  return value.split("|").map(cell => cell.trim());
+}
+
+function isAlignmentRow(cells) {
+  return cells.length > 1 && cells.every(cell => cell.replaceAll(":", "").replaceAll("-", "").trim() === "");
+}
+
+function extractRows(text, caption) {
+  const start = text.indexOf(caption);
+  if (start < 0) return [];
+  const lines = text.slice(start + caption.length).split("\n");
+  const rows = [];
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    if (!line) {
+      if (rows.length) break;
+      continue;
+    }
+    if (rows.length && line.startsWith("Table ")) break;
+    if (!line.includes("|")) {
+      if (rows.length) break;
+      continue;
+    }
+    const cells = splitPipeRow(line);
+    if (!isAlignmentRow(cells)) rows.push(cells);
+  }
+  return rows;
+}
+
+function parseTable(text, caption) {
+  const rows = extractRows(text, caption);
+  if (!rows.length) return { caption, headers: [], rows: [], average: null };
+  const headers = rows[0];
+  const data = rows.slice(1).filter(row => row.length && ["1", "2", "3", "Average"].includes(row[0]));
+  return { caption, headers, rows: data.filter(row => row[0] !== "Average"), average: data.find(row => row[0] === "Average") || null };
+}
+
+function average(values) {
+  const nums = values.filter(Number.isFinite);
+  return nums.length ? nums.reduce((sum, value) => sum + value, 0) / nums.length : NaN;
+}
+
+function addCheck(category, severity, title, message, details = {}) {
+  state.checks.push({ category, severity, title, message, details });
+}
+
+function addStructure(severity, title, message, details = {}) {
+  addCheck("structure", severity, title, message, details);
+}
+
+function classify(observed, expected, tolerance, decimals) {
+  if (!Number.isFinite(observed) || !Number.isFinite(expected)) return "warning";
+  if (roundForDisplay(observed, decimals) === roundForDisplay(expected, decimals)) return "pass";
+  return Math.abs(observed - expected) <= tolerance ? "warning" : "issue";
+}
+
+function resultNote(severity, observed, expected) {
+  if (!Number.isFinite(observed) || !Number.isFinite(expected)) return "Could not parse one or more required values. Review table formatting or source text.";
+  if (severity === "pass" && observed === expected) return "Exact match.";
+  if (severity === "pass") return "Matches at displayed precision.";
+  if (severity === "warning") return "Visible values differ but are within rounding tolerance. Confirm rounding method.";
+  return "Visible values differ outside tolerance. Review and correct if appropriate.";
+}
+
+function diffText(observed, expected, kind, decimals) {
+  if (!Number.isFinite(observed) || !Number.isFinite(expected)) return "n/a";
+  if (roundForDisplay(observed, decimals) === roundForDisplay(expected, decimals)) return kind === "money" ? "$0" : fmtNumber(0, decimals);
+  const diff = observed - expected;
+  const shown = roundForDisplay(diff, decimals);
+  if (shown !== 0 && !Object.is(shown, -0)) {
+    const sign = shown < 0 ? "-" : "";
+    return kind === "money" ? sign + fmtMoney(Math.abs(shown)) : sign + fmtNumber(Math.abs(shown), decimals);
+  }
+  const expandedDecimals = kind === "money" ? 2 : Math.max((decimals || 0) + 2, 2);
+  const expanded = roundForDisplay(diff, expandedDecimals);
+  const sign = expanded < 0 ? "-" : "";
+  return sign + fmtNumber(Math.abs(expanded), expandedDecimals);
+}
+
+function addComparison(category, title, observed, expected, tolerance, kind = "number", decimals = 0, details = {}) {
+  const severity = classify(observed, expected, tolerance, decimals);
+  addCheck(category, severity, title, resultNote(severity, observed, expected), Object.assign({}, details, {
+    documentValue: fmtValue(observed, kind, decimals),
+    recalculatedValue: fmtValue(expected, kind, decimals),
+    difference: diffText(observed, expected, kind, decimals),
+    tolerance: kind === "money" ? fmtMoney(tolerance) : fmtNumber(tolerance, decimals)
+  }));
+}
+
+function getSection(text) {
+  const startPhrase = "Provide estimates of hour and cost burdens";
+  const endPhrase = "For collections of information whose results will be published";
+  const start = text.indexOf(startPhrase);
+  if (start < 0) return text;
+  const end = text.indexOf(endPhrase, start + startPhrase.length);
+  return text.slice(start, end > start ? end : text.length);
+}
+
+function buildTables(text) {
+  return {
+    table1: parseTable(text, TABLE_CONFIG.table1.caption),
+    table2: parseTable(text, TABLE_CONFIG.table2.caption),
+    table3: parseTable(text, TABLE_CONFIG.table3.caption),
+    table4: parseTable(text, TABLE_CONFIG.table4.caption),
+    table5: parseTable(text, TABLE_CONFIG.table5.caption),
+    federal: parseTable(text, TABLE_CONFIG.federal.caption)
+  };
+}
+
+function rowNumbers(table, indexes) {
+  return table.rows.map(row => indexes.map(index => parseNumber(row[index])));
+}
+
+function checkTablePresence(text) {
+  Object.values(TABLE_CONFIG).forEach(cfg => {
+    const found = text.includes(cfg.caption);
+    addStructure(found ? "pass" : "warning", cfg.caption + (found ? " found" : " not found"), found ? "The expected table caption was detected." : "The checker could not locate this expected table. If the document uses a different caption, review manually.");
+  });
+  const lines = text.split("\n").map(line => line.trim()).filter(line => line.startsWith("Table "));
+  const seen = new Map();
+  lines.forEach(line => {
+    const parts = line.split(" ");
+    const number = parts.length > 1 ? parts[1].replaceAll(":", "") : "";
+    if (number && seen.has(number)) addStructure("warning", "Duplicate Table " + number + " numbering", "The same table number appears more than once. Confirm numbering and narrative references.", { firstCaption: seen.get(number), duplicateCaption: line });
+    else if (number) seen.set(number, line);
+  });
+}
+
+function addParseDiagnostics(tables) {
+  Object.values(tables).forEach(table => {
+    addStructure("info", "Parser diagnostics: " + table.caption, "Parsed table rows for troubleshooting.", { annualRowsParsed: String(table.rows.length), averageRowParsed: table.average ? "yes" : "no" });
+  });
+}
+
+function checkInternalCalculations(t) {
+  let prior = 83749;
+  t.table1.rows.forEach(row => {
+    const year = row[0];
+    const pctIncrease = parseNumber(row[1]);
+    const leos = parseNumber(row[2]);
+    const pct413 = parseNumber(row[3]);
+    const responses = parseNumber(row[4]);
+    addComparison("calculation", "Table 1, Year " + year + ": LEOs Flying Armed", leos, Math.round(prior * (1 + pctIncrease / 100)), 1, "number", 0, { table: "Table 1", row: "Year " + year, field: "LEOs Flying Armed", formula: fmtNumber(prior) + " x (1 + " + pctIncrease + "%)" });
+    addComparison("calculation", "Table 1, Year " + year + ": Number of 413A Responses", responses, Math.round(leos * pct413 / 100), 1, "number", 0, { table: "Table 1", row: "Year " + year, field: "Number of 413A Responses", formula: fmtNumber(leos) + " x " + pct413 + "%" });
+    prior = leos;
+  });
+  if (t.table1.average) {
+    addComparison("calculation", "Table 1, Average: LEOs Flying Armed", parseNumber(t.table1.average[1]), average(rowNumbers(t.table1, [2]).map(v => v[0])), 1, "number", 0, { table: "Table 1", row: "Average", field: "LEOs Flying Armed", formula: "Average of Years 1-3" });
+    addComparison("calculation", "Table 1, Average: 413A Responses", parseNumber(t.table1.average[2]), average(rowNumbers(t.table1, [4]).map(v => v[0])), 1, "number", 0, { table: "Table 1", row: "Average", field: "413A Responses", formula: "Average of Years 1-3" });
+  }
+  t.table2.rows.forEach(row => {
+    const year = row[0];
+    const responses = parseNumber(row[1]);
+    const timeHours = parseNumber(row[2]);
+    const hours = parseNumber(row[3]);
+    const cost = parseNumber(row[4]);
+    addComparison("calculation", "Table 2, Year " + year + ": Annual 413A Hour Burden", hours, responses * timeHours, 0.15, "number", 1, { table: "Table 2", row: "Year " + year, field: "Annual 413A Hour Burden", formula: fmtNumber(responses) + " x " + timeHours + " hours" });
+    addComparison("calculation", "Table 2, Year " + year + ": Annual 413A Cost", cost, hours * 62.36, 2, "money", 0, { table: "Table 2", row: "Year " + year, field: "Annual 413A Cost", formula: fmtNumber(hours, 1) + " x $62.36" });
+  });
+  t.table3.rows.forEach(row => addComparison("calculation", "Table 3, Year " + row[0] + ": LEOFA Pass Occurrences", parseNumber(row[3]), Math.round(parseNumber(row[2]) * parseNumber(row[1]) / 100), 1, "number", 0, { table: "Table 3", row: "Year " + row[0], field: "LEOFA Pass Occurrences", formula: fmtNumber(parseNumber(row[2])) + " x " + parseNumber(row[1]) + "%" }));
+  t.table4.rows.forEach(row => addComparison("calculation", "Table 4, Year " + row[0] + ": Registration Responses", parseNumber(row[3]), Math.round(parseNumber(row[1]) * parseNumber(row[2]) / 100), 1, "number", 0, { table: "Table 4", row: "Year " + row[0], field: "Registration Responses", formula: fmtNumber(parseNumber(row[1])) + " x " + parseNumber(row[2]) + "%" }));
+  t.table5.rows.forEach(row => {
+    addComparison("calculation", "Table 5, Year " + row[0] + ": Registration Hours", parseNumber(row[2]), parseNumber(row[1]) * 0.0833, 0.2, "number", 1, { table: "Table 5", row: "Year " + row[0], field: "Registration Hours", formula: fmtNumber(parseNumber(row[1])) + " x 0.0833 hours" });
+    addComparison("calculation", "Table 5, Year " + row[0] + ": Registration Cost", parseNumber(row[3]), parseNumber(row[2]) * 62.36, 2, "money", 0, { table: "Table 5", row: "Year " + row[0], field: "Registration Cost", formula: fmtNumber(parseNumber(row[2]), 1) + " x $62.36" });
+    addComparison("calculation", "Table 5, Year " + row[0] + ": Flight Information Hours", parseNumber(row[5]), parseNumber(row[4]) * 0.0333, 1, "number", 1, { table: "Table 5", row: "Year " + row[0], field: "Flight Information Hours", formula: fmtNumber(parseNumber(row[4])) + " x 0.0333 hours" });
+    addComparison("calculation", "Table 5, Year " + row[0] + ": Flight Information Cost", parseNumber(row[6]), parseNumber(row[5]) * 62.36, 2, "money", 0, { table: "Table 5", row: "Year " + row[0], field: "Flight Information Cost", formula: fmtNumber(parseNumber(row[5]), 0) + " x $62.36" });
+  });
+  t.federal.rows.forEach(row => {
+    addComparison("calculation", "Federal Cost Table, Year " + row[0] + ": TSA Hour Burden", parseNumber(row[3]), parseNumber(row[1]) * parseNumber(row[2]), 1, "number", 0, { table: "Federal Cost Table", row: "Year " + row[0], field: "TSA Hour Burden", formula: fmtNumber(parseNumber(row[1])) + " x " + parseNumber(row[2]) + " hours" });
+    addComparison("calculation", "Federal Cost Table, Year " + row[0] + ": TSA Cost", parseNumber(row[4]), parseNumber(row[3]) * 70.35, 2, "money", 0, { table: "Federal Cost Table", row: "Year " + row[0], field: "TSA Cost", formula: fmtNumber(parseNumber(row[3]), 0) + " x $70.35" });
+  });
+}
+
+function compareRows(title, sourceLabel, sourceValue, targetLabel, targetValue) {
+  addComparison("crossTable", title, targetValue, sourceValue, 0, "number", 0, { source: sourceLabel, sourceValue: fmtNumber(sourceValue), comparedTo: targetLabel, comparedValue: fmtNumber(targetValue) });
+}
+
+function checkCrossTables(t) {
+  for (let i = 0; i < 3; i++) {
+    const y = String(i + 1);
+    compareRows("Year " + y + ": Table 1 LEOs to Table 3 LEOs", "Table 1 Year " + y + " LEOs", parseNumber(t.table1.rows[i] && t.table1.rows[i][2]), "Table 3 Year " + y + " LEOs", parseNumber(t.table3.rows[i] && t.table3.rows[i][2]));
+    compareRows("Year " + y + ": Table 1 413A Responses to Table 2", "Table 1 Year " + y + " 413A Responses", parseNumber(t.table1.rows[i] && t.table1.rows[i][4]), "Table 2 Year " + y + " 413A Responses", parseNumber(t.table2.rows[i] && t.table2.rows[i][1]));
+    compareRows("Year " + y + ": Table 3 Occurrences to Table 4", "Table 3 Year " + y + " Occurrences", parseNumber(t.table3.rows[i] && t.table3.rows[i][3]), "Table 4 Year " + y + " Occurrences", parseNumber(t.table4.rows[i] && t.table4.rows[i][1]));
+    compareRows("Year " + y + ": Table 4 Registrations to Table 5", "Table 4 Year " + y + " Registrations", parseNumber(t.table4.rows[i] && t.table4.rows[i][3]), "Table 5 Year " + y + " Registrations", parseNumber(t.table5.rows[i] && t.table5.rows[i][1]));
+  }
+}
+
+function checkNarrative(text) {
+  if (text.includes("1.6265") && text.includes("1.6266")) addCheck("narrative", "warning", "Compensation load factor inconsistency", "The text references both 1.6265 and 1.6266. Confirm the intended compensation load factor.");
+  if (text.includes("Table 4 summarizes these calculations") && text.includes("Table 4 TSA Hour Burden Cost")) addStructure("warning", "Narrative refers to federal cost table as Table 4", "Because Table 4 is already used for LEOFA Pass Registrations, the later federal cost table reference may need renumbering.");
+}
+
+function runChecks() {
+  state.checks = [];
+  state.tables = {};
+  const source = $("sourceText").value.trim();
+  if (!source) {
+    addStructure("warning", "No text provided", "Paste supporting statement text before running the check.");
+    render();
+    return;
+  }
+  const text = getSection(source);
+  addStructure("info", "Review scope", "The checker reviewed the pasted text, with emphasis on Q12 through Q15 burden and cost content.", { charactersReviewed: String(text.length) });
+  checkTablePresence(text);
+  state.tables = buildTables(text);
+  addParseDiagnostics(state.tables);
+  checkInternalCalculations(state.tables);
+  checkCrossTables(state.tables);
+  checkNarrative(text);
+  render();
+}
+
+function countBy(category, severity) {
+  return state.checks.filter(ch => ch.category === category && (!severity || ch.severity === severity)).length;
+}
+
+function counts() {
+  return {
+    calcIssues: countBy("calculation", "issue"),
+    crossIssues: countBy("crossTable", "issue"),
+    narrativeIssues: countBy("narrative", "issue"),
+    warnings: state.checks.filter(ch => ch.severity === "warning").length,
+    numericPasses: state.checks.filter(ch => (ch.category === "calculation" || ch.category === "crossTable" || ch.category === "narrative") && ch.severity === "pass").length,
+    tables: state.checks.filter(ch => ch.category === "structure" && ch.title.endsWith("found")).length
+  };
+}
+
+function render() {
+  const c = counts();
+  $("resultSubtitle").textContent = state.checks.length + " total checks generated.";
+  $("summaryCards").innerHTML = `<div class="card issue"><div class="count">${c.calcIssues}</div><div class="label">Table Calc Issues</div></div><div class="card issue"><div class="count">${c.crossIssues}</div><div class="label">Cross-table Issues</div></div><div class="card issue"><div class="count">${c.narrativeIssues}</div><div class="label">Narrative Issues</div></div><div class="card warning"><div class="count">${c.warnings}</div><div class="label">Warnings</div></div><div class="card pass"><div class="count">${c.numericPasses}</div><div class="label">Numeric Passes</div></div><div class="card info"><div class="count">${c.tables}</div><div class="label">Tables Detected</div></div>`;
+  renderConclusion(c);
+  renderSections();
+  state.lastReportText = buildPlainTextReport(c);
+  $("copyReportBtn").disabled = state.checks.length === 0;
+}
+
+function renderConclusion(c) {
+  const totalIssues = c.calcIssues + c.crossIssues + c.narrativeIssues;
+  const numericChecks = state.checks.filter(ch => ["calculation", "crossTable", "narrative"].includes(ch.category)).length;
+  const el = $("numericConclusion");
+  if (!state.checks.length) {
+    el.className = "numeric-conclusion empty-conclusion";
+    el.textContent = "Numeric review has not run yet.";
+  } else if (totalIssues) {
+    el.className = "numeric-conclusion issue";
+    el.textContent = `Numeric review completed. ${numericChecks} numeric/prose checks ran. Found ${c.calcIssues} table calculation issue(s), ${c.crossIssues} cross-table issue(s), and ${c.narrativeIssues} narrative issue(s).`;
+  } else if (c.warnings) {
+    el.className = "numeric-conclusion warning";
+    el.textContent = `Numeric review completed. ${numericChecks} numeric/prose checks ran with no issues, but ${c.warnings} warning(s) need review for visible rounding, formatting, or parsing.`;
+  } else {
+    el.className = "numeric-conclusion pass";
+    el.textContent = `Numeric review completed. ${numericChecks} numeric/prose checks ran with no issues.`;
+  }
+}
+
+function filterItems(category) {
+  const filter = $("sectionFilter").value;
+  return filter === "attention" ? state.checks.filter(ch => ch.category === category && ch.severity !== "pass") : state.checks.filter(ch => ch.category === category);
+}
+
+function setSectionVisibility(id, visible) {
+  $(id).style.display = visible ? "block" : "none";
+}
+
+function renderSections() {
+  const filter = $("sectionFilter").value;
+  const attention = filter === "attention";
+  setSectionVisibility("calculationSection", filter === "all" || filter === "calculation" || attention);
+  setSectionVisibility("crossTableSection", filter === "all" || filter === "crossTable" || attention);
+  setSectionVisibility("narrativeSection", filter === "all" || filter === "narrative" || attention);
+  setSectionVisibility("structureSection", filter === "all" || filter === "structure" || attention);
+  renderAuditTable("calculationTableWrap", filterItems("calculation"), "calculation");
+  renderAuditTable("crossTableWrap", filterItems("crossTable"), "crossTable");
+  renderFindingList("narrativeFindings", filterItems("narrative"));
+  renderFindingList("structureFindings", filterItems("structure"));
+}
+
+function escapeHtml(value) {
+  return String(value).replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll("\"", "&quot;").replaceAll("'", "&#039;");
+}
+
+function renderAuditTable(id, items, type) {
+  const wrap = $(id);
+  if (!items.length) {
+    wrap.className = "table-wrap empty-state";
+    wrap.textContent = "No checks match the selected filter.";
+    return;
+  }
+  wrap.className = "table-wrap";
+  const rows = items.map(ch => `<tr class="${ch.severity}"><td><span class="badge ${ch.severity}">${ch.severity}</span></td><td>${escapeHtml(ch.title)}</td><td>${escapeHtml(ch.details.formula || ch.details.source || "")}</td><td>${escapeHtml(ch.details.documentValue || ch.details.sourceValue || "")}</td><td>${escapeHtml(ch.details.recalculatedValue || ch.details.comparedValue || "")}</td><td>${escapeHtml(ch.details.difference || "")}</td><td>${escapeHtml(ch.message)}</td></tr>`).join("");
+  wrap.innerHTML = `<table><thead><tr><th>Result</th><th>Check</th><th>Formula or Source</th><th>Document value</th><th>Recalculated value</th><th>Difference</th><th>Note</th></tr></thead><tbody>${rows}</tbody></table>`;
+}
+
+function renderFindingList(id, items) {
+  const el = $(id);
+  if (!items.length) {
+    el.className = "finding-list empty-state";
+    el.textContent = "No checks match the selected filter.";
+    return;
+  }
+  el.className = "finding-list";
+  el.innerHTML = items.map(ch => `<article class="finding ${ch.severity}"><div class="finding-header"><h4>${escapeHtml(ch.title)}</h4><span class="badge ${ch.severity}">${escapeHtml(ch.severity)}</span></div><p>${escapeHtml(ch.message)}</p>${renderDetails(ch.details)}</article>`).join("");
+}
+
+function labelize(key) {
+  return key.replace(/([A-Z])/g, " $1").replace(/^./, c => c.toUpperCase());
+}
+
+function renderDetails(details) {
+  if (!details || Object.keys(details).length === 0) return "";
+  return `<div class="meta">${Object.entries(details).map(([k, v]) => `<div><strong>${escapeHtml(labelize(k))}</strong>${escapeHtml(String(v))}</div>`).join("")}</div>`;
+}
+
+function buildPlainTextReport(c) {
+  const lines = ["PRA Q12-15 Table Checker Report", `Table calculation issues: ${c.calcIssues}; Cross-table issues: ${c.crossIssues}; Narrative issues: ${c.narrativeIssues}; Warnings: ${c.warnings}; Numeric passes: ${c.numericPasses}; Tables detected: ${c.tables}`, ""];
+  state.checks.forEach((ch, i) => {
+    lines.push(`${i + 1}. [${ch.severity.toUpperCase()}] [${ch.category}] ${ch.title}`);
+    lines.push(`   ${ch.message}`);
+    if (ch.details && Object.keys(ch.details).length) Object.entries(ch.details).forEach(([k, v]) => lines.push(`   ${labelize(k)}: ${v}`));
+    lines.push("");
+  });
+  return lines.join("\n");
+}
+
+async function copyReport() {
+  if (!state.lastReportText) return;
+  try {
+    await navigator.clipboard.writeText(state.lastReportText);
+    $("copyReportBtn").textContent = "Copied";
+    setTimeout(() => { $("copyReportBtn").textContent = "Copy Report"; }, 1200);
+  } catch (err) {
+    window.prompt("Copy report text:", state.lastReportText);
+  }
+}
+
+function clearAll() {
+  $("sourceText").value = "";
+  state.checks = [];
+  state.tables = {};
+  state.lastReportText = "";
+  $("summaryCards").innerHTML = "";
+  $("numericConclusion").className = "numeric-conclusion empty-conclusion";
+  $("numericConclusion").textContent = "Numeric review has not run yet.";
+  $("calculationTableWrap").className = "table-wrap empty-state";
+  $("calculationTableWrap").textContent = "No calculation checks yet.";
+  $("crossTableWrap").className = "table-wrap empty-state";
+  $("crossTableWrap").textContent = "No cross-table checks yet.";
+  $("narrativeFindings").className = "finding-list empty-state";
+  $("narrativeFindings").textContent = "No narrative checks yet.";
+  $("structureFindings").className = "finding-list empty-state";
+  $("structureFindings").textContent = "No structure checks yet.";
+  $("resultSubtitle").textContent = "Run a check to see findings.";
+  $("copyReportBtn").disabled = true;
+}
+
+function init() {
+  $("runBtn").addEventListener("click", runChecks);
+  $("loadSampleBtn").addEventListener("click", () => { $("sourceText").value = SAMPLE_TEXT; });
+  $("clearBtn").addEventListener("click", clearAll);
+  $("copyReportBtn").addEventListener("click", copyReport);
+  $("sectionFilter").addEventListener("change", renderSections);
+}
+
+if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init); else init();
+</script>
+</body>
+</html>
