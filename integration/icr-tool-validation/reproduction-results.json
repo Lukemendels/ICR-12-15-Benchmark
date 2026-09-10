@@ -1,0 +1,1213 @@
+{
+  "database": {
+    "integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ],
+    "foreignKeys": [],
+    "version": {
+      "user_version": 1
+    },
+    "tables": [
+      {
+        "name": "sqlite_autoindex_icrs_1",
+        "sql": null
+      },
+      {
+        "name": "burden_records",
+        "sql": "CREATE TABLE burden_records (\n    id                    INTEGER PRIMARY KEY,\n    control_number        TEXT NOT NULL REFERENCES icrs(control_number),\n    ic_title              TEXT,                -- per-InformationCollection; NULL = ICR total\n    respondents           INTEGER,\n    total_responses       INTEGER,\n    burden_hours          INTEGER,\n    burden_cost           REAL,\n    annual_federal_cost   REAL,\n    hours_per_response    REAL,               -- derived: burden_hours / total_responses\n    reporting_frequency   TEXT,               -- from XML BurdenHourPerResponse/ReportingFrequencies\n    obligation_code       TEXT,\n    affected_public_code  TEXT,\n    xml_snapshot_date     TEXT NOT NULL        -- when the inventory XML was pulled\n)"
+      },
+      {
+        "name": "claim_passports",
+        "sql": "CREATE TABLE claim_passports (\n    id              INTEGER PRIMARY KEY,\n    run_id          INTEGER NOT NULL REFERENCES review_runs(id),\n    symbol          TEXT NOT NULL,             -- parameter/figure identifier\n    value           TEXT,\n    expected        TEXT,\n    match           TEXT,                      -- 'yes' | 'no' | 'explained'\n    source_location TEXT,\n    raw_quote       TEXT,\n    status          TEXT NOT NULL CHECK (status IN\n                    ('PASS', 'FAIL', 'STALE', 'UNVERIFIED', 'EXPLAINED'))\n)"
+      },
+      {
+        "name": "extracted_tables",
+        "sql": "CREATE TABLE extracted_tables (\n    id          INTEGER PRIMARY KEY,\n    section_id  INTEGER NOT NULL REFERENCES ss_sections(id),\n    table_index INTEGER NOT NULL,              -- 0-based within the section\n    caption     TEXT,\n    cells_json  TEXT NOT NULL,                 -- {headers: [...], rows: [[...]]}\n    numeric_ok  INTEGER NOT NULL DEFAULT 0     -- 1 = all numeric cells parsed cleanly\n)"
+      },
+      {
+        "name": "icr_documents",
+        "sql": "CREATE TABLE icr_documents (\n    id              INTEGER PRIMARY KEY,\n    control_number  TEXT NOT NULL REFERENCES icrs(control_number),\n    object_id       TEXT,                      -- reginfo DownloadDocument objectID\n    doc_type        TEXT,                      -- 'ss_part_a' | 'ss_part_b' | 'form' | 'notice' | 'other'\n    orig_format     TEXT,                      -- 'docx' | 'doc' | 'pdf'\n    filename        TEXT,\n    converted_path  TEXT,                      -- relative path under corpus/md\n    fidelity        TEXT NOT NULL DEFAULT 'high'\n                    CHECK (fidelity IN ('high', 'medium', 'low')),\n    converted_ok    INTEGER NOT NULL DEFAULT 0\n)"
+      },
+      {
+        "name": "icrs",
+        "sql": "CREATE TABLE icrs (\n    control_number  TEXT PRIMARY KEY,          -- '1652-0001'\n    ref_nbr         TEXT,                      -- latest ICR reference 'YYYYMM-1652-NNN'\n    title           TEXT,\n    abstract        TEXT,\n    agency_code     TEXT,                      -- '1652' for TSA; benchmarks differ\n    cfr_cites       TEXT,\n    affected_public TEXT,\n    icr_type        TEXT,                      -- e.g. 'Extension without change...'\n    icr_status      TEXT,                      -- 'Active' etc.\n    expiration_date TEXT,\n    is_benchmark    INTEGER NOT NULL DEFAULT 0, -- 1 = other-agency exemplar\n    latest          INTEGER NOT NULL DEFAULT 1\n)"
+      },
+      {
+        "name": "reference_series",
+        "sql": "CREATE TABLE reference_series (\n    id            INTEGER PRIMARY KEY,\n    series_kind   TEXT NOT NULL CHECK (series_kind IN\n                  ('oews_wage', 'ecec_factor', 'enplanements', 'gsa_perdiem',\n                   'irs_mileage', 'deflator', 'gs_wage', 'other')),\n    key1          TEXT,                        -- e.g. SOC code / airport code / GS grade\n    key2          TEXT,                        -- e.g. area / series qualifier\n    year          INTEGER NOT NULL,            -- data year\n    vintage       TEXT NOT NULL,               -- release identifier, e.g. 'OEWS May 2024'\n    value         REAL NOT NULL,\n    unit          TEXT,                        -- '$/hr' | 'ratio' | 'count' | '$/mi' | 'index'\n    source_id     INTEGER NOT NULL REFERENCES sources(id),\n    raw_quote     TEXT,                        -- verbatim published figure\n    superseded_by INTEGER REFERENCES reference_series(id)  -- newer vintage row\n)"
+      },
+      {
+        "name": "review_findings",
+        "sql": "CREATE TABLE review_findings (\n    id        INTEGER PRIMARY KEY,\n    run_id    INTEGER NOT NULL REFERENCES review_runs(id),\n    rule_id   TEXT NOT NULL,                   -- 'MATH-001'\n    severity  TEXT NOT NULL CHECK (severity IN ('critical', 'major', 'minor')),\n    status    TEXT NOT NULL CHECK (status IN\n              ('PASS', 'FAIL', 'STALE', 'UNVERIFIED', 'EXPLAINED')),\n    location  TEXT,                            -- 'Q12 table 1 row 3' + line numbers\n    message   TEXT NOT NULL,\n    expected  TEXT,\n    actual    TEXT\n)"
+      },
+      {
+        "name": "review_runs",
+        "sql": "CREATE TABLE review_runs (\n    id        INTEGER PRIMARY KEY,\n    doc_ref   TEXT NOT NULL,                   -- file path or control number reviewed\n    run_at    TEXT NOT NULL,\n    score     REAL,\n    verdict   TEXT,                            -- 'pass' | 'fail' | band label\n    override_reason TEXT                       -- non-null when a gate was overridden\n)"
+      },
+      {
+        "name": "source_edits",
+        "sql": "CREATE TABLE source_edits (\n    id          INTEGER PRIMARY KEY,\n    edited_at   TEXT NOT NULL,\n    table_name  TEXT NOT NULL,                 -- 'sources' | 'reference_series'\n    row_id      INTEGER NOT NULL,\n    field       TEXT,\n    old_value   TEXT,\n    new_value   TEXT,\n    reason      TEXT NOT NULL\n)"
+      },
+      {
+        "name": "source_locators",
+        "sql": "CREATE TABLE source_locators (\n    id          INTEGER PRIMARY KEY,\n    source_id   INTEGER NOT NULL REFERENCES sources(id),\n    locator     TEXT NOT NULL,                 -- 'Table 3, row 12' / 'p. 47' / cell ref\n    raw_quote   TEXT                           -- verbatim text or figure as published\n)"
+      },
+      {
+        "name": "sources",
+        "sql": "CREATE TABLE sources (\n    id              INTEGER PRIMARY KEY,\n    name            TEXT NOT NULL,\n    -- Controlled vocabulary (sibling-project convention):\n    -- 'Government primary' | 'Government memo' | 'Government AAR' | 'Peer-reviewed'\n    -- | 'Institutional research' | 'Working paper' | 'Industry standard'\n    -- | 'News (sourced to government)'\n    type            TEXT NOT NULL,\n    methodology     TEXT,                      -- how the source derives its data\n    data_extracted  TEXT,                      -- what we take from it\n    strengths       TEXT,\n    limitations     TEXT,                      -- limitations / biases\n    feeds           TEXT,                      -- back-pointers: e.g. 'Q12,Q14' or model section anchors\n    tier            INTEGER CHECK (tier IN (1, 2, 3)),\n    url             TEXT,\n    accessed_date   TEXT,                      -- ISO 8601\n    data_year       INTEGER,                   -- vintage of the data itself\n    publisher       TEXT,\n    status          TEXT NOT NULL DEFAULT 'UNVERIFIED'\n                    CHECK (status IN ('VERIFIED', 'UNVERIFIED', 'STALE')),\n    notes           TEXT\n)"
+      },
+      {
+        "name": "src_fts",
+        "sql": "CREATE VIRTUAL TABLE src_fts USING fts5(\n    name, data_extracted, methodology, content='sources', content_rowid='id'\n)"
+      },
+      {
+        "name": "src_fts_config",
+        "sql": "CREATE TABLE 'src_fts_config'(k PRIMARY KEY, v) WITHOUT ROWID"
+      },
+      {
+        "name": "src_fts_data",
+        "sql": "CREATE TABLE 'src_fts_data'(id INTEGER PRIMARY KEY, block BLOB)"
+      },
+      {
+        "name": "src_fts_docsize",
+        "sql": "CREATE TABLE 'src_fts_docsize'(id INTEGER PRIMARY KEY, sz BLOB)"
+      },
+      {
+        "name": "src_fts_idx",
+        "sql": "CREATE TABLE 'src_fts_idx'(segid, term, pgno, PRIMARY KEY(segid, term)) WITHOUT ROWID"
+      },
+      {
+        "name": "ss_fts",
+        "sql": "CREATE VIRTUAL TABLE ss_fts USING fts5(\n    md_text, content='ss_sections', content_rowid='id'\n)"
+      },
+      {
+        "name": "ss_fts_config",
+        "sql": "CREATE TABLE 'ss_fts_config'(k PRIMARY KEY, v) WITHOUT ROWID"
+      },
+      {
+        "name": "ss_fts_data",
+        "sql": "CREATE TABLE 'ss_fts_data'(id INTEGER PRIMARY KEY, block BLOB)"
+      },
+      {
+        "name": "ss_fts_docsize",
+        "sql": "CREATE TABLE 'ss_fts_docsize'(id INTEGER PRIMARY KEY, sz BLOB)"
+      },
+      {
+        "name": "ss_fts_idx",
+        "sql": "CREATE TABLE 'ss_fts_idx'(segid, term, pgno, PRIMARY KEY(segid, term)) WITHOUT ROWID"
+      },
+      {
+        "name": "ss_sections",
+        "sql": "CREATE TABLE ss_sections (\n    id                    INTEGER PRIMARY KEY,\n    document_id           INTEGER NOT NULL REFERENCES icr_documents(id),\n    question_no           INTEGER NOT NULL CHECK (question_no BETWEEN 0 AND 18), -- 0 = preamble\n    heading               TEXT,\n    md_text               TEXT,\n    start_line            INTEGER,\n    end_line              INTEGER,\n    extraction_confidence TEXT NOT NULL DEFAULT 'high'\n                          CHECK (extraction_confidence IN ('high', 'medium', 'low'))\n)"
+      }
+    ],
+    "counts": {
+      "sources": 7,
+      "source_locators": 0,
+      "icrs": 59,
+      "icr_documents": 473,
+      "ss_sections": 928,
+      "burden_records": 348,
+      "extracted_tables": 321,
+      "reference_series": 4479,
+      "ss_fts": 928,
+      "ss_fts_data": 192,
+      "ss_fts_idx": 190,
+      "ss_fts_docsize": 928,
+      "ss_fts_config": 1,
+      "src_fts": 7,
+      "src_fts_data": 9,
+      "src_fts_idx": 7,
+      "src_fts_docsize": 7,
+      "src_fts_config": 1,
+      "review_runs": 0,
+      "review_findings": 0,
+      "claim_passports": 0,
+      "source_edits": 0
+    },
+    "series": [
+      {
+        "series_kind": "ecec_factor",
+        "year": 2026,
+        "n": 140
+      },
+      {
+        "series_kind": "enplanements",
+        "year": 2024,
+        "n": 1699
+      },
+      {
+        "series_kind": "oews_wage",
+        "year": 2023,
+        "n": 1320
+      },
+      {
+        "series_kind": "oews_wage",
+        "year": 2024,
+        "n": 1320
+      }
+    ]
+  },
+  "search": {
+    "icrs": 59,
+    "sources": 7,
+    "sourceSearch": [
+      {
+        "id": 2,
+        "name": "May 2023 National Occupational Employment and Wage Estimates (OEWS)"
+      },
+      {
+        "id": 1,
+        "name": "May 2024 National Occupational Employment and Wage Estimates (OEWS)"
+      }
+    ],
+    "sections": 60,
+    "series": 4479,
+    "active": [
+      {
+        "id": 2,
+        "series_kind": "oews_wage",
+        "key1": "11-0000",
+        "key2": "Management Occupations",
+        "year": 2024,
+        "vintage": "OEWS May 2024",
+        "value": 68.15,
+        "unit": "$/hr",
+        "source_id": 1,
+        "raw_quote": "H_MEAN=68.15 (national cross-industry, 11-0000 Management Occupations)",
+        "superseded_by": null
+      }
+    ]
+  },
+  "roundtrip": {
+    "loadNotice": "Saved /tmp/icr-reproduce-smFxwP/saved.icrdraft.json",
+    "error": "",
+    "differences": [
+      {
+        "path": "/meta/createdDate",
+        "before": "2024-01-02",
+        "after": "2026-09-10"
+      },
+      {
+        "path": "/frozenParameters/0",
+        "before": {
+          "id": "p1",
+          "name": "Parameter",
+          "value": {
+            "value": 7,
+            "sourceId": 1,
+            "locator": "Table X row Y",
+            "rawQuote": "Fixture supporting quote"
+          },
+          "propagatesTo": [
+            "Q12"
+          ]
+        },
+        "after": null
+      },
+      {
+        "path": "/activities/0/respondents/rawQuote",
+        "before": "Fixture supporting quote",
+        "after": null
+      },
+      {
+        "path": "/activities/0/responsesPerRespondent/rawQuote",
+        "before": "Fixture supporting quote",
+        "after": null
+      },
+      {
+        "path": "/activities/0/minutesPerResponse/rawQuote",
+        "before": "Fixture supporting quote",
+        "after": null
+      },
+      {
+        "path": "/activities/0/wage/socCode",
+        "before": "11-0000",
+        "after": null
+      },
+      {
+        "path": "/activities/0/wage/base/rawQuote",
+        "before": "Fixture supporting quote",
+        "after": null
+      },
+      {
+        "path": "/activities/0/wage/loadFactor/rawQuote",
+        "before": "Fixture supporting quote",
+        "after": null
+      },
+      {
+        "path": "/activities/0/otherCostPerRespondent/rawQuote",
+        "before": "Fixture supporting quote",
+        "after": null
+      },
+      {
+        "path": "/activities/0/growth/kind",
+        "before": "fixedPct",
+        "after": "flat"
+      },
+      {
+        "path": "/activities/0/growth/annualPct",
+        "before": {
+          "value": 10,
+          "sourceId": 1,
+          "locator": "Table X row Y",
+          "rawQuote": "Fixture supporting quote"
+        },
+        "after": null
+      },
+      {
+        "path": "/activities/0/notes",
+        "before": "Keep activity note",
+        "after": ""
+      },
+      {
+        "path": "/capitalCosts/0",
+        "before": {
+          "id": "c1",
+          "name": "Setup",
+          "kind": "startup",
+          "annualCost": {
+            "value": 200,
+            "sourceId": 1,
+            "locator": "Table X row Y",
+            "rawQuote": "Fixture supporting quote"
+          }
+        },
+        "after": null
+      },
+      {
+        "path": "/capitalCosts/1",
+        "before": {
+          "id": "c2",
+          "name": "Maintenance",
+          "kind": "om",
+          "annualCost": {
+            "value": 100,
+            "sourceId": 1,
+            "locator": "Table X row Y",
+            "rawQuote": "Fixture supporting quote"
+          }
+        },
+        "after": null
+      },
+      {
+        "path": "/governmentCosts/0/annualCost/locator",
+        "before": "Table X row Y",
+        "after": null
+      },
+      {
+        "path": "/governmentCosts/0/annualCost/rawQuote",
+        "before": "Fixture supporting quote",
+        "after": null
+      },
+      {
+        "path": "/governmentCosts/1/annualHours/locator",
+        "before": "Table X row Y",
+        "after": null
+      },
+      {
+        "path": "/governmentCosts/1/annualHours/rawQuote",
+        "before": "Fixture supporting quote",
+        "after": null
+      },
+      {
+        "path": "/governmentCosts/1/hourlyWage/locator",
+        "before": "Table X row Y",
+        "after": null
+      },
+      {
+        "path": "/governmentCosts/1/hourlyWage/rawQuote",
+        "before": "Fixture supporting quote",
+        "after": null
+      },
+      {
+        "path": "/narrativeOverrides/q12",
+        "before": "KEEP Q12",
+        "after": ""
+      },
+      {
+        "path": "/narrativeOverrides/q13",
+        "before": "KEEP Q13",
+        "after": ""
+      },
+      {
+        "path": "/narrativeOverrides/q14",
+        "before": "KEEP Q14",
+        "after": ""
+      }
+    ],
+    "jsonOnlyLossless": true
+  },
+  "perResponse": {
+    "form": [
+      {
+        "id": "g3",
+        "name": "Federal responses",
+        "kind": "fixed",
+        "amount": "",
+        "amountSrc": 0,
+        "amountUnv": "",
+        "amountLoc": "",
+        "hours": "",
+        "hoursSrc": 0,
+        "hoursUnv": "",
+        "hoursLoc": "",
+        "wage": "",
+        "wageSrc": 0,
+        "wageUnv": "",
+        "wageLoc": ""
+      }
+    ],
+    "rebuilt": null,
+    "error": "Federal cost \"Federal responses\": value + source required."
+  },
+  "projection": {
+    "populations": [
+      100,
+      110.00000000000001,
+      121.00000000000001
+    ],
+    "expectedHoursAverage": {
+      "value": 110.33333333333333,
+      "formatted": "110",
+      "footnoteSourceIds": [],
+      "derived": true,
+      "formulaTrace": "(100 + 110 + 121) ÷ 3",
+      "unverified": false
+    },
+    "observedAnnualization": "\n\nAnnual burden of 100 hours over 2026–2028 ((100 + 100 + 100) ÷ 3).\n\n",
+    "twoYearAverage": {
+      "value": 150,
+      "formatted": "150",
+      "footnoteSourceIds": [],
+      "derived": true,
+      "formulaTrace": "(100 + 200) ÷ 2",
+      "unverified": false
+    },
+    "dollarHelper": {
+      "value": 3600,
+      "formatted": "$3,600.00",
+      "footnoteSourceIds": [
+        1,
+        1
+      ],
+      "derived": true,
+      "formulaTrace": "$3,000.00 (2026$) × 120 ÷ 100 = $3,600.00 (2028$)",
+      "unverified": false
+    },
+    "dollarYearOnlyChangesLabel": true
+  },
+  "xlsx": {
+    "Q12 Hour Burden": [
+      null,
+      [
+        null,
+        "Activity",
+        "Respondents",
+        "Responses/Respondent",
+        "Annual Responses",
+        "Hours/Response",
+        "Burden Hours",
+        "Source"
+      ],
+      [
+        null,
+        "Reporting",
+        100,
+        2,
+        200,
+        0.5,
+        100,
+        "May 2024 National Occupational Employment and Wage Estimates (OEWS); May 2024 National Occupational Employment and Wage Estimates (OEWS); May 2024 National Occupational Employment and Wage Estimates (OEWS)"
+      ],
+      [
+        null,
+        "Total",
+        100,
+        "",
+        200,
+        "",
+        100,
+        ""
+      ]
+    ],
+    "Q13 Cost Burden": [
+      null,
+      [
+        null,
+        "Activity",
+        "Burden Hours",
+        "Loaded Wage",
+        "Labor Cost",
+        "Other Cost",
+        "Total Cost",
+        "Wage Source"
+      ],
+      [
+        null,
+        "Reporting",
+        100,
+        30,
+        3000,
+        500,
+        3500,
+        "May 2024 National Occupational Employment and Wage Estimates (OEWS); May 2024 National Occupational Employment and Wage Estimates (OEWS)"
+      ],
+      [
+        null,
+        "Total",
+        "",
+        "",
+        "",
+        "",
+        3500,
+        ""
+      ],
+      null,
+      [
+        null,
+        "Capital / O&M Item",
+        "Kind",
+        "Annual Cost",
+        "",
+        "",
+        "",
+        "Source"
+      ],
+      [
+        null,
+        "Setup",
+        "startup",
+        200,
+        "",
+        "",
+        "",
+        "May 2024 National Occupational Employment and Wage Estimates (OEWS)"
+      ],
+      [
+        null,
+        "Maintenance",
+        "om",
+        100,
+        "",
+        "",
+        "",
+        "May 2024 National Occupational Employment and Wage Estimates (OEWS)"
+      ]
+    ],
+    "Q14 Federal Cost": [
+      null,
+      [
+        null,
+        "Item",
+        "Annual Cost",
+        "Derivation",
+        "Source"
+      ],
+      [
+        null,
+        "Federal fixed",
+        1000,
+        "",
+        "May 2024 National Occupational Employment and Wage Estimates (OEWS)"
+      ],
+      [
+        null,
+        "Federal labor",
+        400,
+        "10 hrs × $40.00",
+        "May 2024 National Occupational Employment and Wage Estimates (OEWS); May 2024 National Occupational Employment and Wage Estimates (OEWS)"
+      ],
+      [
+        null,
+        "Total",
+        1400,
+        "",
+        ""
+      ]
+    ],
+    "Parameters": [
+      null,
+      [
+        null,
+        "Parameter",
+        "Value",
+        "Source",
+        "Status"
+      ],
+      [
+        null,
+        "Parameter",
+        7,
+        "May 2024 National Occupational Employment and Wage Estimates (OEWS)",
+        "sourced"
+      ]
+    ],
+    "Sources": [
+      null,
+      [
+        null,
+        "ID",
+        "Name",
+        "Publisher",
+        "Data Year",
+        "URL",
+        "Accessed",
+        "Status"
+      ],
+      [
+        null,
+        1,
+        "May 2024 National Occupational Employment and Wage Estimates (OEWS)",
+        "Bureau of Labor Statistics",
+        2024,
+        "https://www.bls.gov/oes/special-requests/oesm24nat.zip",
+        "2026-08-31",
+        "VERIFIED"
+      ]
+    ]
+  },
+  "item13": {
+    "emptyCapitalStatement": " Provide an estimate for the total annual cost burden to respondents or record keepers resulting from the collection of information. (Do not include the cost of any hour burden already reflected on the burden worksheet).\n\nAnnualized cost to respondents (labor at fully loaded wage rates plus non-labor costs):\n\n| Activity | Burden Hours | Loaded Wage | Labor Cost | Other Cost | Total Cost |\n|---|---:|---:|---:|---:|---:|\n| Reporting | 100 | $30.00[^1][^1] | $3,000.00 | $500.00[^1] | $3,500.00 |\n| **Total** |  |  |  |  | **$3,500.00** |\n\nThere are no capital, start-up, operation, or maintenance costs beyond the hour burden reflected in Question 12.\n\nKEEP Q13\n\n",
+    "baseBurden": {
+      "name": "Reporting",
+      "mode": "roundLast",
+      "respondents": {
+        "value": 100,
+        "formatted": "100",
+        "footnoteSourceIds": [
+          1
+        ],
+        "derived": false,
+        "formulaTrace": "",
+        "unverified": false
+      },
+      "annualResponses": {
+        "value": 200,
+        "formatted": "200",
+        "footnoteSourceIds": [
+          1,
+          1
+        ],
+        "derived": true,
+        "formulaTrace": "100 respondents × 2/yr = 200",
+        "unverified": false
+      },
+      "hoursPerResponse": {
+        "value": 0.5,
+        "formatted": "0.50",
+        "footnoteSourceIds": [
+          1
+        ],
+        "derived": true,
+        "formulaTrace": "30 min ÷ 60",
+        "unverified": false
+      },
+      "burdenHours": {
+        "value": 100,
+        "formatted": "100",
+        "footnoteSourceIds": [],
+        "derived": true,
+        "formulaTrace": "200 responses × 0.5000 hr = 100.0000",
+        "unverified": false
+      },
+      "loadedWage": {
+        "value": 30,
+        "formatted": "$30.00",
+        "footnoteSourceIds": [
+          1,
+          1
+        ],
+        "derived": true,
+        "formulaTrace": "$20.00 × 1.5",
+        "unverified": false
+      },
+      "laborCost": {
+        "value": 3000,
+        "formatted": "$3,000.00",
+        "footnoteSourceIds": [],
+        "derived": true,
+        "formulaTrace": "100.0000 hrs × $30.00 = $3,000.00",
+        "unverified": false
+      },
+      "otherCost": {
+        "value": 500,
+        "formatted": "$500.00",
+        "footnoteSourceIds": [
+          1
+        ],
+        "derived": true,
+        "formulaTrace": "$5.00 × 100 respondents",
+        "unverified": false
+      },
+      "totalCost": {
+        "value": 3500,
+        "formatted": "$3,500.00",
+        "footnoteSourceIds": [],
+        "derived": true,
+        "formulaTrace": "labor $3,000.00 + other $500.00",
+        "unverified": false
+      },
+      "hasUnverifiedInputs": false
+    }
+  },
+  "sourceProof": {
+    "idOnlyAccepted": true,
+    "unverifiedCount": 0,
+    "locatorInMarkdown": false,
+    "quoteInMarkdown": false,
+    "sourcesSheet": [
+      null,
+      [
+        null,
+        "ID",
+        "Name",
+        "Publisher",
+        "Data Year",
+        "URL",
+        "Accessed",
+        "Status"
+      ],
+      [
+        null,
+        1,
+        "May 2024 National Occupational Employment and Wage Estimates (OEWS)",
+        "Bureau of Labor Statistics",
+        2024,
+        "https://www.bls.gov/oes/special-requests/oesm24nat.zip",
+        "2026-08-31",
+        "VERIFIED"
+      ]
+    ]
+  },
+  "portability": {
+    "idA": 8,
+    "idB": 8,
+    "nameB": "Context B source",
+    "nameA": "Context A source",
+    "exportA": "\n\n[^1]: Bureau of Labor Statistics, \"May 2024 National Occupational Employment and Wage Estimates (OEWS)\", 2024, <https://www.bls.gov/oes/special-requests/oesm24nat.zip>, accessed 2026-08-31.\n[^2]: \"Context A source\".\n",
+    "exportB": "\n\n[^1]: Bureau of Labor Statistics, \"May 2024 National Occupational Employment and Wage Estimates (OEWS)\", 2024, <https://www.bls.gov/oes/special-requests/oesm24nat.zip>, accessed 2026-08-31.\n[^2]: \"Context B source\".\n"
+  },
+  "vintage": {
+    "rows": [
+      {
+        "id": 4481,
+        "series_kind": "other",
+        "key1": "fixture",
+        "key2": null,
+        "year": 2027,
+        "vintage": "2027",
+        "value": 25,
+        "unit": null,
+        "source_id": 8,
+        "raw_quote": "new supporting quote",
+        "superseded_by": null
+      },
+      {
+        "id": 4480,
+        "series_kind": "other",
+        "key1": "fixture",
+        "key2": null,
+        "year": 2026,
+        "vintage": "2026",
+        "value": 20,
+        "unit": null,
+        "source_id": 8,
+        "raw_quote": "old quote",
+        "superseded_by": 4481
+      }
+    ],
+    "prompts": [
+      {
+        "actId": "a1",
+        "actName": "Reporting",
+        "field": "wage base",
+        "current": {
+          "seriesKind": "other",
+          "key1": "fixture",
+          "vintage": "2026",
+          "year": 2026
+        },
+        "latest": {
+          "id": 4481,
+          "series_kind": "other",
+          "key1": "fixture",
+          "key2": null,
+          "year": 2027,
+          "vintage": "2027",
+          "value": 25,
+          "unit": null,
+          "source_id": 8,
+          "raw_quote": "new supporting quote",
+          "superseded_by": null
+        }
+      }
+    ],
+    "before": {
+      "base": {
+        "value": 20,
+        "sourceId": 1,
+        "locator": "Table X row Y"
+      },
+      "baseSeries": {
+        "seriesKind": "other",
+        "key1": "fixture",
+        "vintage": "2026",
+        "year": 2026
+      },
+      "loadFactor": {
+        "value": 1.5,
+        "sourceId": 1,
+        "locator": "Table X row Y"
+      }
+    },
+    "after": {
+      "base": {
+        "value": 25,
+        "sourceId": 8,
+        "locator": "new supporting quote"
+      },
+      "baseSeries": {
+        "seriesKind": "other",
+        "key1": "fixture",
+        "vintage": "2027",
+        "year": 2027
+      },
+      "loadFactor": {
+        "value": 1.5,
+        "sourceId": 1,
+        "locator": "Table X row Y"
+      }
+    }
+  },
+  "workflow": {
+    "savedReloaded": true,
+    "markdownWritten": true,
+    "error": "",
+    "xlsxWritten": true,
+    "xlsxError": "",
+    "markdownFigures": true
+  },
+  "review": {
+    "score": 98,
+    "verdict": "excellent",
+    "autoFail": false,
+    "findings": [
+      {
+        "ruleId": "MATH-001",
+        "severity": "major",
+        "status": "PASS",
+        "location": "Q12 table 1, row 1 (line 13)",
+        "message": "row math checks out (100 × 1 hr × 4/yr = 400)",
+        "expected": "400",
+        "actual": "400"
+      },
+      {
+        "ruleId": "MATH-004",
+        "severity": "minor",
+        "status": "PASS",
+        "location": "Q12 prose (line 9)",
+        "message": "narrative figure 100 appears in a Q12 table",
+        "actual": "100"
+      },
+      {
+        "ruleId": "MATH-004",
+        "severity": "minor",
+        "status": "PASS",
+        "location": "Q12 prose (line 10)",
+        "message": "narrative figure 400 hours appears in a Q12 table",
+        "actual": "400 hours"
+      },
+      {
+        "ruleId": "MATH-004",
+        "severity": "minor",
+        "status": "PASS",
+        "location": "Q12 prose (line 11)",
+        "message": "narrative figure 400 appears in a Q12 table",
+        "actual": "400"
+      },
+      {
+        "ruleId": "MATH-006",
+        "severity": "minor",
+        "status": "PASS",
+        "location": "Q14",
+        "message": "an hours × rate product matches a stated aggregate cost"
+      },
+      {
+        "ruleId": "REQ-101",
+        "severity": "major",
+        "status": "PASS",
+        "location": "Q12 (line 6)",
+        "message": "respondent population stated with a count"
+      },
+      {
+        "ruleId": "REQ-102",
+        "severity": "major",
+        "status": "PASS",
+        "location": "Q12 (line 6)",
+        "message": "response frequency stated"
+      },
+      {
+        "ruleId": "REQ-103",
+        "severity": "major",
+        "status": "PASS",
+        "location": "Q12 (line 6)",
+        "message": "time per response stated"
+      },
+      {
+        "ruleId": "REQ-104",
+        "severity": "major",
+        "status": "PASS",
+        "location": "Q12 (line 6)",
+        "message": "hour-burden table present"
+      },
+      {
+        "ruleId": "REQ-105",
+        "severity": "major",
+        "status": "PASS",
+        "location": "Q12–Q13",
+        "message": "wage methodology mentioned"
+      },
+      {
+        "ruleId": "REQ-106",
+        "severity": "major",
+        "status": "PASS",
+        "location": "Q13 (line 18)",
+        "message": "capital/start-up vs O&M addressed"
+      },
+      {
+        "ruleId": "REQ-107",
+        "severity": "minor",
+        "status": "PASS",
+        "location": "Q13 (line 18)",
+        "message": "Q12/Q13 cost separation acknowledged"
+      },
+      {
+        "ruleId": "REQ-108",
+        "severity": "major",
+        "status": "PASS",
+        "location": "Q14 (line 32)",
+        "message": "federal cost quantified"
+      },
+      {
+        "ruleId": "REQ-109",
+        "severity": "minor",
+        "status": "PASS",
+        "location": "Q12–Q14",
+        "message": "dollar year stated"
+      },
+      {
+        "ruleId": "REQ-110",
+        "severity": "major",
+        "status": "PASS",
+        "location": "Q12 (line 6)",
+        "message": "estimation methodology language present"
+      },
+      {
+        "ruleId": "SRC-201",
+        "severity": "critical",
+        "status": "PASS",
+        "location": "Q13 prose (line 23)",
+        "message": "$100.00 is sourced or derived",
+        "actual": "$100.00"
+      },
+      {
+        "ruleId": "SRC-201",
+        "severity": "critical",
+        "status": "PASS",
+        "location": "Q13 prose (line 25)",
+        "message": "$40,000.00 is sourced or derived",
+        "actual": "$40,000.00"
+      },
+      {
+        "ruleId": "SRC-201",
+        "severity": "critical",
+        "status": "PASS",
+        "location": "Q14 prose (line 34)",
+        "message": "$80.00 is sourced or derived",
+        "actual": "$80.00"
+      },
+      {
+        "ruleId": "SRC-201",
+        "severity": "critical",
+        "status": "PASS",
+        "location": "Q14 prose (line 35)",
+        "message": "$40,000.00 is sourced or derived",
+        "actual": "$40,000.00"
+      },
+      {
+        "ruleId": "SRC-202",
+        "severity": "critical",
+        "status": "PASS",
+        "location": "Q13",
+        "message": "footnote [^1] resolves"
+      },
+      {
+        "ruleId": "SRC-202",
+        "severity": "critical",
+        "status": "PASS",
+        "location": "Q14",
+        "message": "footnote [^2] resolves"
+      },
+      {
+        "ruleId": "SRC-203",
+        "severity": "major",
+        "status": "PASS",
+        "location": "Q12–Q13 footnotes",
+        "message": "wage source named in footnotes"
+      },
+      {
+        "ruleId": "SRC-204",
+        "severity": "major",
+        "status": "PASS",
+        "location": "footnote [^1] (line 42)",
+        "message": "OEWS wage data year 2023 is current (3 yr old at doc date)",
+        "expected": "≤ 3 years old",
+        "actual": "3 years"
+      },
+      {
+        "ruleId": "SRC-204",
+        "severity": "minor",
+        "status": "STALE",
+        "location": "footnote [^1] (line 42)",
+        "message": "ECEC compensation data year 2023 is 3 years old at the document date — newer release available",
+        "expected": "≤ 2 years old",
+        "actual": "3 years"
+      },
+      {
+        "ruleId": "XCOMP-301",
+        "severity": "minor",
+        "status": "FAIL",
+        "location": "Q13 prose (line 24)",
+        "message": "load factor 1.42 differs from the corpus mode 1.4294 — most TSA ICRs use 1.4294; explain the deviation or align",
+        "expected": "1.4294",
+        "actual": "1.42"
+      },
+      {
+        "ruleId": "XCOMP-303",
+        "severity": "minor",
+        "status": "PASS",
+        "location": "Q12 (line 6)",
+        "message": "Q12 presents a burden table (corpus norm)"
+      }
+    ],
+    "passports": 8,
+    "saved": [
+      {
+        "id": 1,
+        "doc_ref": "/tmp/icr-reproduce-smFxwP/review.md",
+        "run_at": "2026-09-10T16:23:10.283Z",
+        "score": 98,
+        "verdict": "excellent",
+        "override_reason": null
+      }
+    ],
+    "savedFindings": {
+      "n": 26
+    }
+  },
+  "xcomp": {
+    "ui301": [
+      {
+        "ruleId": "XCOMP-301",
+        "severity": "minor",
+        "status": "FAIL",
+        "location": "Q13 prose (line 24)",
+        "message": "load factor 1.42 differs from the corpus mode 1.4294 — most TSA ICRs use 1.4294; explain the deviation or align",
+        "expected": "1.4294",
+        "actual": "1.42"
+      }
+    ],
+    "ui302": [],
+    "absent": [],
+    "provided": [
+      {
+        "ruleId": "XCOMP-301",
+        "severity": "minor",
+        "status": "PASS",
+        "location": "Q13 prose (line 24)",
+        "message": "load factor 1.42 matches corpus practice (1.42)",
+        "expected": "1.42",
+        "actual": "1.42"
+      },
+      {
+        "ruleId": "XCOMP-302",
+        "severity": "minor",
+        "status": "FAIL",
+        "location": "footnotes",
+        "message": "wage series NAICS 481100 is not used by any other TSA ICR in the corpus — verify it is the right series",
+        "actual": "NAICS 481100"
+      }
+    ]
+  },
+  "item15": {
+    "section": {
+      "questionNo": 15,
+      "heading": "Explain the reasons for any program changes or adjustments.",
+      "startLine": 38,
+      "endLine": 48,
+      "mdText": "15. ***Explain the reasons for any program changes or adjustments.***\nPrior baseline: 100 hours. Program change: 20 hours. Adjustment: -10 hours. New burden: 999 hours.\n\n[^1]: BLS, May 2023 National Occupational Employment and Wage Estimates,\n    OEWS, NAICS 481100, <https://www.bls.gov/oes/>. Accessed August 12,\n    2024. Load factor from BLS, Employer Costs for Employee Compensation,\n    March 2024 Data.\n\n[^2]: OPM, Salary Table 2024-DCB, GS-12 step 5, hourly rate. Accessed\n    August 12, 2024.\n",
+      "tables": [],
+      "figures": [
+        {
+          "value": 15,
+          "unit": "count",
+          "raw": "15",
+          "line": 38,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "15. ***Explain the reasons for any program changes or adjustments.*** Prior baseline: 100 hours. Program change: 20 hours. Adjustment: -10 hours. New burden: 999 hours."
+        },
+        {
+          "value": 100,
+          "unit": "hours",
+          "raw": "100 hours",
+          "line": 39,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "15. ***Explain the reasons for any program changes or adjustments.*** Prior baseline: 100 hours. Program change: 20 hours. Adjustment: -10 hours. New burden: 999 hours."
+        },
+        {
+          "value": 20,
+          "unit": "hours",
+          "raw": "20 hours",
+          "line": 39,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "15. ***Explain the reasons for any program changes or adjustments.*** Prior baseline: 100 hours. Program change: 20 hours. Adjustment: -10 hours. New burden: 999 hours."
+        },
+        {
+          "value": 10,
+          "unit": "hours",
+          "raw": "10 hours",
+          "line": 39,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "15. ***Explain the reasons for any program changes or adjustments.*** Prior baseline: 100 hours. Program change: 20 hours. Adjustment: -10 hours. New burden: 999 hours."
+        },
+        {
+          "value": 999,
+          "unit": "hours",
+          "raw": "999 hours",
+          "line": 39,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "15. ***Explain the reasons for any program changes or adjustments.*** Prior baseline: 100 hours. Program change: 20 hours. Adjustment: -10 hours. New burden: 999 hours."
+        },
+        {
+          "value": 481100,
+          "unit": "count",
+          "raw": "481100",
+          "line": 42,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "OEWS, NAICS 481100, <https://www.bls.gov/oes/>. Accessed August 12, 2024. Load factor from BLS, Employer Costs for Employee Compensation,"
+        },
+        {
+          "value": 12,
+          "unit": "count",
+          "raw": "12",
+          "line": 42,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "OEWS, NAICS 481100, <https://www.bls.gov/oes/>. Accessed August 12, 2024. Load factor from BLS, Employer Costs for Employee Compensation,"
+        },
+        {
+          "value": 12,
+          "unit": "count",
+          "raw": "12",
+          "line": 47,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "August 12, 2024."
+        }
+      ]
+    },
+    "findings": [],
+    "exportHas15": false,
+    "schemaRetainsBaseline": false,
+    "ruleCount": 25
+  },
+  "import": {
+    "oews": {
+      "kind": "oews_wage",
+      "rows": [
+        {
+          "socCode": "11-0000",
+          "title": "Management",
+          "hMean": 68.15
+        }
+      ],
+      "sheetName": "OEWS"
+    },
+    "ecec": {
+      "kind": "ecec_factor",
+      "release": "June 2026",
+      "groups": [
+        {
+          "name": "Private industry workers",
+          "totalComp": 46.6,
+          "wages": 32.6,
+          "factor": 1.4294
+        }
+      ]
+    },
+    "invalidRejected": "Error: not an OEWS national file: missing column OCC_CODE"
+  },
+  "xlsxMissingSources": {
+    "usedId": 8,
+    "sourcesRows": [
+      null,
+      [
+        null,
+        "ID",
+        "Name",
+        "Publisher",
+        "Data Year",
+        "URL",
+        "Accessed",
+        "Status"
+      ],
+      [
+        null,
+        1,
+        "May 2024 National Occupational Employment and Wage Estimates (OEWS)",
+        "Bureau of Labor Statistics",
+        2024,
+        "https://www.bls.gov/oes/special-requests/oesm24nat.zip",
+        "2026-08-31",
+        "VERIFIED"
+      ]
+    ]
+  },
+  "seeded": {
+    "detected": [
+      "MATH-001",
+      "MATH-003",
+      "MATH-004",
+      "MATH-005",
+      "MATH-002",
+      "MATH-006",
+      "MATH-007",
+      "REQ-106",
+      "REQ-107",
+      "REQ-109",
+      "SRC-202",
+      "SRC-204",
+      "SRC-201"
+    ],
+    "missed": [],
+    "score": 50,
+    "autoFail": true
+  },
+  "corpusReview": {
+    "input": "SQLite sectionsFor(1652-0001), not the absent external golden file",
+    "sections": 18,
+    "score": 62,
+    "autoFail": true,
+    "findings": 43,
+    "passports": 24
+  }
+}

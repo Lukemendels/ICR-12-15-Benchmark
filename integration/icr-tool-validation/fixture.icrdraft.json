@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "meta": {
+    "controlNumber": "1652-0001",
+    "title": "Validation fixture",
+    "dollarYear": 2026,
+    "baseYear": 2026,
+    "analysisYears": [
+      2026,
+      2027,
+      2028
+    ],
+    "roundingMode": "roundLast",
+    "createdDate": "2024-01-02"
+  },
+  "frozenParameters": [
+    {
+      "id": "p1",
+      "name": "Parameter",
+      "value": {
+        "value": 7,
+        "sourceId": 1,
+        "locator": "Table X row Y",
+        "rawQuote": "Fixture supporting quote"
+      },
+      "propagatesTo": [
+        "Q12"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "a1",
+      "name": "Reporting",
+      "respondents": {
+        "value": 100,
+        "sourceId": 1,
+        "locator": "Table X row Y",
+        "rawQuote": "Fixture supporting quote"
+      },
+      "responsesPerRespondent": {
+        "value": 2,
+        "sourceId": 1,
+        "locator": "Table X row Y",
+        "rawQuote": "Fixture supporting quote"
+      },
+      "minutesPerResponse": {
+        "value": 30,
+        "sourceId": 1,
+        "locator": "Table X row Y",
+        "rawQuote": "Fixture supporting quote"
+      },
+      "wage": {
+        "socCode": "11-0000",
+        "base": {
+          "value": 20,
+          "sourceId": 1,
+          "locator": "Table X row Y",
+          "rawQuote": "Fixture supporting quote"
+        },
+        "baseSeries": {
+          "seriesKind": "other",
+          "key1": "fixture",
+          "vintage": "2026",
+          "year": 2026
+        },
+        "loadFactor": {
+          "value": 1.5,
+          "sourceId": 1,
+          "locator": "Table X row Y",
+          "rawQuote": "Fixture supporting quote"
+        }
+      },
+      "otherCostPerRespondent": {
+        "value": 5,
+        "sourceId": 1,
+        "locator": "Table X row Y",
+        "rawQuote": "Fixture supporting quote"
+      },
+      "growth": {
+        "kind": "fixedPct",
+        "annualPct": {
+          "value": 10,
+          "sourceId": 1,
+          "locator": "Table X row Y",
+          "rawQuote": "Fixture supporting quote"
+        }
+      },
+      "notes": "Keep activity note"
+    }
+  ],
+  "capitalCosts": [
+    {
+      "id": "c1",
+      "name": "Setup",
+      "kind": "startup",
+      "annualCost": {
+        "value": 200,
+        "sourceId": 1,
+        "locator": "Table X row Y",
+        "rawQuote": "Fixture supporting quote"
+      }
+    },
+    {
+      "id": "c2",
+      "name": "Maintenance",
+      "kind": "om",
+      "annualCost": {
+        "value": 100,
+        "sourceId": 1,
+        "locator": "Table X row Y",
+        "rawQuote": "Fixture supporting quote"
+      }
+    }
+  ],
+  "governmentCosts": [
+    {
+      "kind": "fixed",
+      "id": "g1",
+      "name": "Federal fixed",
+      "annualCost": {
+        "value": 1000,
+        "sourceId": 1,
+        "locator": "Table X row Y",
+        "rawQuote": "Fixture supporting quote"
+      }
+    },
+    {
+      "kind": "labor",
+      "id": "g2",
+      "name": "Federal labor",
+      "annualHours": {
+        "value": 10,
+        "sourceId": 1,
+        "locator": "Table X row Y",
+        "rawQuote": "Fixture supporting quote"
+      },
+      "hourlyWage": {
+        "value": 40,
+        "sourceId": 1,
+        "locator": "Table X row Y",
+        "rawQuote": "Fixture supporting quote"
+      }
+    }
+  ],
+  "narrativeOverrides": {
+    "q12": "KEEP Q12",
+    "q13": "KEEP Q13",
+    "q14": "KEEP Q14"
+  }
+}

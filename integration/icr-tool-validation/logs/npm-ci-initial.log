@@ -1,0 +1,73 @@
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated rimraf@2.7.1: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated lodash.isequal@4.5.0: This package is deprecated. Use require('node:util').isDeepStrictEqual instead.
+npm warn deprecated glob@7.2.3: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+npm warn deprecated fstream@1.0.12: This package is no longer supported.
+npm warn deprecated uuid@8.3.2: uuid@10 and below is no longer supported.  For ESM codebases, update to uuid@latest.  For CommonJS codebases, use uuid@11 (but be aware this version will likely be deprecated in 2028).
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open '/home/luke/Projects/icr-tool/app/node_modules/@sveltejs/vite-plugin-svelte/src/types/plugin-api.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open '/home/luke/Projects/icr-tool/app/node_modules/@sveltejs/vite-plugin-svelte/src/public.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat '/home/luke/Projects/icr-tool/app/node_modules/@sveltejs/vite-plugin-svelte/src'
+npm warn cleanup Failed to remove some directories [
+npm warn cleanup   [
+npm warn cleanup     '/home/luke/Projects/icr-tool/app/node_modules/@jridgewell/sourcemap-codec',
+npm warn cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/home/luke/Projects/icr-tool/app/node_modules/@jridgewell/sourcemap-codec/types'] {
+npm warn cleanup       errno: -39,
+npm warn cleanup       code: 'ENOTEMPTY',
+npm warn cleanup       syscall: 'rmdir',
+npm warn cleanup       path: '/home/luke/Projects/icr-tool/app/node_modules/@jridgewell/sourcemap-codec/types'
+npm warn cleanup     }
+npm warn cleanup   ],
+npm warn cleanup   [
+npm warn cleanup     '/home/luke/Projects/icr-tool/app/node_modules/@jridgewell',
+npm warn cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/home/luke/Projects/icr-tool/app/node_modules/@jridgewell/sourcemap-codec/types'] {
+npm warn cleanup       errno: -39,
+npm warn cleanup       code: 'ENOTEMPTY',
+npm warn cleanup       syscall: 'rmdir',
+npm warn cleanup       path: '/home/luke/Projects/icr-tool/app/node_modules/@jridgewell/sourcemap-codec/types'
+npm warn cleanup     }
+npm warn cleanup   ],
+npm warn cleanup   [
+npm warn cleanup     '/home/luke/Projects/icr-tool/app/node_modules',
+npm warn cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/home/luke/Projects/icr-tool/app/node_modules/@jridgewell/sourcemap-codec'] {
+npm warn cleanup       errno: -39,
+npm warn cleanup       code: 'ENOTEMPTY',
+npm warn cleanup       syscall: 'rmdir',
+npm warn cleanup       path: '/home/luke/Projects/icr-tool/app/node_modules/@jridgewell/sourcemap-codec'
+npm warn cleanup     }
+npm warn cleanup   ],
+npm warn cleanup   [
+npm warn cleanup     '/home/luke/Projects/icr-tool/app/node_modules/aria-query',
+npm warn cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/home/luke/Projects/icr-tool/app/node_modules/aria-query/lib'] {
+npm warn cleanup       errno: -39,
+npm warn cleanup       code: 'ENOTEMPTY',
+npm warn cleanup       syscall: 'rmdir',
+npm warn cleanup       path: '/home/luke/Projects/icr-tool/app/node_modules/aria-query/lib'
+npm warn cleanup     }
+npm warn cleanup   ],
+npm warn cleanup   [
+npm warn cleanup     '/home/luke/Projects/icr-tool/app/node_modules/@sveltejs/kit',
+npm warn cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/home/luke/Projects/icr-tool/app/node_modules/@sveltejs/kit/src'] {
+npm warn cleanup       errno: -39,
+npm warn cleanup       code: 'ENOTEMPTY',
+npm warn cleanup       syscall: 'rmdir',
+npm warn cleanup       path: '/home/luke/Projects/icr-tool/app/node_modules/@sveltejs/kit/src'
+npm warn cleanup     }
+npm warn cleanup   ],
+npm warn cleanup   [
+npm warn cleanup     '/home/luke/Projects/icr-tool/app/node_modules/@sveltejs',
+npm warn cleanup     [Error: ENOTEMPTY: directory not empty, rmdir '/home/luke/Projects/icr-tool/app/node_modules/@sveltejs/kit/src'] {
+npm warn cleanup       errno: -39,
+npm warn cleanup       code: 'ENOTEMPTY',
+npm warn cleanup       syscall: 'rmdir',
+npm warn cleanup       path: '/home/luke/Projects/icr-tool/app/node_modules/@sveltejs/kit/src'
+npm warn cleanup     }
+npm warn cleanup   ]
+npm warn cleanup ]
+npm error code EROFS
+npm error syscall open
+npm error path /home/luke/.npm/_cacache/tmp/***
+npm error errno -30
+npm error rofs EROFS: read-only file system, open '/home/luke/.npm/_cacache/tmp/***'
+npm error rofs Often virtualized file systems, or other file systems that don't support symlinks, give this error.
+npm error Log files were not written due to an error writing to the directory: /home/luke/.npm/_logs
+npm error You can rerun the command with `--loglevel=verbose` to see the logs in your terminal

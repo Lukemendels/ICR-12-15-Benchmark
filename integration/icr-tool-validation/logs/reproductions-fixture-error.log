@@ -1,0 +1,16 @@
+file:///tmp/icr-reproduce-JTpyBO/run.mjs:2491
+  let r = s.run(p);
+            ^
+
+Error: CHECK constraint failed: series_kind IN
+                  ('oews_wage', 'ecec_factor', 'enplanements', 'gsa_perdiem',
+                   'irs_mileage', 'deflator', 'gs_wage', 'other')
+    at Object.execute (file:///tmp/icr-reproduce-JTpyBO/run.mjs:2491:13)
+    at insertSeriesVintage (file:///tmp/icr-reproduce-JTpyBO/run.mjs:2266:24)
+    at async file:///tmp/icr-reproduce-JTpyBO/run.mjs:2889:1 {
+  code: 'ERR_SQLITE_ERROR',
+  errcode: 275,
+  errstr: 'constraint failed'
+}
+
+Node.js v24.21.0

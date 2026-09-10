@@ -1,0 +1,22 @@
+{
+  "at": "2026-09-10T16:29:56.261197+00:00",
+  "icr_tool_head": "e72fae4b1d2a37d7a22aeb8ab5b3555f423af79e",
+  "icr_tool_tracked_diff": "",
+  "icr_tool_untracked_nonignored": "",
+  "icr_tool_ignored": [
+    "!! app/.svelte-kit/",
+    "!! app/build/",
+    "!! app/node_modules/"
+  ],
+  "baseline_hashes_unchanged": true,
+  "final_hashes": {
+    "app/package-lock.json": "6334fdba240bcbafee53e330e51837edb35b89bdc78003dedf527997718703c3",
+    "app/src-tauri/Cargo.lock": "6eab076ac787ea100e31464ab41f0e4238c4620d7cd4b6390d1da6007c149ac9",
+    "data/icr.db": "5a3c2bdb5b824b88f10fe21f23da5889fccf20944ca34977e6f9489e506ae50d"
+  },
+  "benchmark_baseline": "61879d1b8c017d71c1dd9ec382d3d8972a40621e",
+  "benchmark_changes_outside_validation": false,
+  "icr_tool_commits_or_pushes": false,
+  "frozen_evidence_unchanged": true,
+  "comparison_unchanged": true
+}

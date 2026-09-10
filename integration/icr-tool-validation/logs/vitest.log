@@ -1,0 +1,122 @@
+▲ [WARNING] Cannot find base config file "./.svelte-kit/tsconfig.json" [tsconfig.json]
+
+    tsconfig.json:2:13:
+      2 │   "extends": "./.svelte-kit/tsconfig.json",
+        ╵              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+ RUN  v4.1.11 /home/luke/Projects/icr-tool/app
+
+ ✓ src/lib/review/gate4.test.ts > Gate 4: seeded-defect detection > detects at least 12 of the 13 seeded defects by rule id 6ms
+ ✓ src/lib/review/gate4.test.ts > Gate 4: seeded-defect detection > auto-fails on the unsourced figure and dangling citation 1ms
+ ✓ src/lib/review/gate4.test.ts > Gate 4: seeded-defect detection > reports locations inside the right questions 5ms
+ ✓ src/lib/review/gate4.test.ts > Gate 4: clean fixture control > scores ≥95 with no critical failures 3ms
+ ✓ src/lib/review/rules.test.ts > MATH rules > MATH-001 passes on the clean fixture, fails on the broken row 22ms
+ ✓ src/lib/review/rules.test.ts > MATH rules > MATH-002 checks hours × wage = cost in simple tables 6ms
+ ✓ src/lib/review/rules.test.ts > MATH rules > MATH-003 verifies totals rows and detects rounding mode 4ms
+ ✓ src/lib/review/rules.test.ts > MATH rules > MATH-005 compares stated responses against the OMB record 4ms
+ ✓ src/lib/review/rules.test.ts > MATH rules > MATH-006 verifies Q14 hours × rate = aggregate 2ms
+ ✓ src/lib/review/rules.test.ts > MATH rules > MATH-007 recomputes percentage rows 2ms
+ ✓ src/lib/review/rules.test.ts > REQ rules > pass on the clean fixture 3ms
+ ✓ src/lib/review/rules.test.ts > REQ rules > REQ-108 fails when Q14 has neither figures nor justification 5ms
+ ✓ src/lib/review/rules.test.ts > SRC rules > SRC-201 passes on the clean fixture (derivations and footnotes) 3ms
+ ✓ src/lib/review/rules.test.ts > SRC rules > SRC-201 fails on an unsourced aggregate 2ms
+ ✓ src/lib/review/rules.test.ts > SRC rules > SRC-202 catches dangling footnote references 1ms
+ ✓ src/lib/review/rules.test.ts > SRC rules > SRC-203 requires a named wage source 2ms
+ ✓ src/lib/review/rules.test.ts > SRC rules > SRC-204 flags stale OEWS data by document date 2ms
+ ✓ src/lib/review/rules.test.ts > SRC rules > SRC-205 flags ambiguous $NNN,NNNM notation 1ms
+ ✓ src/lib/review/rules.test.ts > XCOMP rules > XCOMP-301 compares the load factor to the corpus mode 1ms
+ ✓ src/lib/review/rules.test.ts > XCOMP rules > XCOMP-303 wants a Q12 table 1ms
+ ✓ src/lib/review/rules.test.ts > scoring and orchestration > clean fixture reviews at excellent with no auto-fail 5ms
+ ✓ src/lib/review/rules.test.ts > scoring and orchestration > defective fixture auto-fails on the broken citation 5ms
+ ✓ src/lib/review/rules.test.ts > scoring and orchestration > builds passports for derivable table cells 15ms
+ ✓ src/lib/calc/regressions.test.ts > H2: roundHalfUp large-magnitude correctness > does not flip non-ties at large magnitude 14ms
+ ✓ src/lib/calc/regressions.test.ts > H2: roundHalfUp large-magnitude correctness > still rounds decimal ties up 3ms
+ ✓ src/lib/calc/regressions.test.ts > H2: roundHalfUp large-magnitude correctness > clamps pathological places 1ms
+ ✓ src/lib/calc/regressions.test.ts > H3: roundThenSum cascades rounded hours into labor > labor uses the ROUNDED hours like a published Excel chain 69ms
+ ✓ src/lib/calc/regressions.test.ts > H3: roundThenSum cascades rounded hours into labor > roundLast keeps full precision 12ms
+ ✓ src/lib/calc/regressions.test.ts > H1: zod rejects a sourceId+UNVERIFIED hybrid > refuses to strip the UNVERIFIED flag 17ms
+ ✓ src/lib/calc/regressions.test.ts > H1: zod rejects a sourceId+UNVERIFIED hybrid > accepts each branch cleanly 5ms
+ ✓ src/lib/calc/regressions.test.ts > M1: mode mismatch is rejected in totals > burdenTotals throws on mixed modes 4ms
+ ✓ src/lib/calc/regressions.test.ts > M1: mode mismatch is rejected in totals > govCostTotal throws on mixed modes 1ms
+ ✓ src/lib/calc/regressions.test.ts > M2: unverified propagation beyond burden rows > toDollarYear carries value provenance and unverified deflators 6ms
+ ✓ src/lib/calc/regressions.test.ts > M2: unverified propagation beyond burden rows > identity conversion keeps provenance 9ms
+ ✓ src/lib/calc/regressions.test.ts > M4: draft schema constraints > accepts a valid minimal draft 6ms
+ ✓ src/lib/calc/regressions.test.ts > M4: draft schema constraints > rejects duplicate/unordered analysis years 9ms
+ ✓ src/lib/calc/regressions.test.ts > M4: draft schema constraints > rejects impossible calendar dates 1ms
+ ✓ src/lib/calc/regressions.test.ts > M4: draft schema constraints > rejects negative respondents 7ms
+ ✓ src/lib/calc/regressions.test.ts > M4: draft schema constraints > rejects duplicate activity ids 6ms
+ ✓ src/lib/calc/calc.test.ts > projectPopulation > flat rule repeats the base 56ms
+ ✓ src/lib/calc/calc.test.ts > projectPopulation > fixedPct compounds from the base year 2ms
+ ✓ src/lib/calc/calc.test.ts > projectPopulation > series rule reads sourced values per year 1ms
+ ✓ src/lib/calc/calc.test.ts > projectPopulation > throws on a missing series year 2ms
+ ✓ src/lib/calc/calc.test.ts > threeYearAverage > averages per OMB convention 7ms
+ ✓ src/lib/calc/calc.test.ts > threeYearAverage > roundThenSum rounds terms and the result 1ms
+ ✓ src/lib/calc/calc.test.ts > threeYearAverage > rejects empty input 1ms
+ ✓ src/lib/calc/calc.test.ts > toDollarYear > converts with the deflator ratio 1ms
+ ✓ src/lib/calc/calc.test.ts > toDollarYear > is identity for the same year 1ms
+ ✓ src/lib/calc/calc.test.ts > toDollarYear > throws on a missing deflator year 1ms
+ ✓ src/lib/calc/calc.test.ts > UNVERIFIED propagation > flags rows with unverified inputs and keeps empty footnotes 9ms
+ ✓ src/lib/calc/calc.test.ts > UNVERIFIED propagation > govCostRow flags unverified fixed cost 1ms
+ ✓ src/lib/calc/calc.test.ts > loaded wage > applies the ECEC load factor with sources from both inputs 3ms
+ ✓ src/lib/calc/burden.golden.test.ts > golden 1652-0001 (roundThenSum, as published) > Q12 hour burden table 32ms
+ ✓ src/lib/calc/burden.golden.test.ts > golden 1652-0001 (roundThenSum, as published) > Q13 reporting cost 1ms
+ ✓ src/lib/calc/burden.golden.test.ts > golden 1652-0001 (roundThenSum, as published) > Q13 audit cost and 5% expected value 1ms
+ ✓ src/lib/calc/burden.golden.test.ts > golden 1652-0001 (roundThenSum, as published) > Q13 combined annual cost matches reginfo XML burden cost 0ms
+ ✓ src/lib/calc/burden.golden.test.ts > golden 1652-0001 (roundThenSum, as published) > Q14 federal cost 1ms
+ ✓ src/lib/calc/burden.golden.test.ts > golden 1652-0001 (roundThenSum, as published) > EXPLAINED: SS narrative says 301 annual responses; XML says 865 6ms
+ ✓ src/lib/calc/burden.golden.test.ts > determinism > same inputs give byte-identical serialized output 14ms
+ ✓ src/lib/cite/footnotes.test.ts > FootnoteRegistry > numbers by first appearance and reuses markers for repeats 32ms
+ ✓ src/lib/cite/footnotes.test.ts > FootnoteRegistry > refuses to fabricate citations for unknown ids 14ms
+ ✓ src/lib/cite/footnotes.test.ts > FootnoteRegistry > interleaves unverified disclosure notes without number collisions 17ms
+ ✓ src/lib/cite/footnotes.test.ts > FootnoteRegistry > marks stale sources in the note 1ms
+ ✓ src/lib/cite/footnotes.test.ts > FootnoteRegistry > multi-source cite emits multiple markers 0ms
+ ✓ src/lib/export/roundtrip.test.ts > draft → export → review round trip > export carries no unverified figures for a fully sourced draft 4ms
+ ✓ src/lib/export/roundtrip.test.ts > draft → export → review round trip > export is deterministic (byte-identical on repeat) 12ms
+ ✓ src/lib/export/roundtrip.test.ts > draft → export → review round trip > review mode scores the export ≥95 with no auto-fail 53ms
+ ✓ src/lib/export/roundtrip.test.ts > draft → export → review round trip > review parses the exported Q12 totals to the golden figures 16ms
+ ✓ src/lib/review/normalize.test.ts > normalizeToken > parses plain and comma-grouped counts 23ms
+ ✓ src/lib/review/normalize.test.ts > normalizeToken > parses dollars 2ms
+ ✓ src/lib/review/normalize.test.ts > normalizeToken > parses time units 1ms
+ ✓ src/lib/review/normalize.test.ts > normalizeToken > parses percent and magnitudes 1ms
+ ✓ src/lib/review/normalize.test.ts > normalizeToken > flags the ambiguous comma-grouped M notation 2ms
+ ✓ src/lib/review/normalize.test.ts > normalizeToken > reads small bare decimals as ratios 1ms
+ ✓ src/lib/review/normalize.test.ts > tokenizeFigures > extracts figures with lines and adjacent footnote refs 3ms
+ ✓ src/lib/review/normalize.test.ts > tokenizeFigures > marks wage rates and skips footnote definition lines and years 1ms
+ ✓ src/lib/review/parse.test.ts > parseSupportingStatement > finds the question sections 14ms
+ ✓ src/lib/review/parse.test.ts > parseSupportingStatement > extracts the Q12 pipe table with normalized cells 66ms
+ ✓ src/lib/review/parse.test.ts > parseSupportingStatement > extracts the Q13 HTML table 1ms
+ ✓ src/lib/review/parse.test.ts > parseSupportingStatement > collects footnotes with continuation lines 1ms
+ ✓ src/lib/review/parse.test.ts > parseSupportingStatement > excludes table regions from prose figures 3ms
+ ✓ src/lib/review/parse.test.ts > parseSupportingStatement > attaches footnote refs to adjacent figures 8ms
+ ✓ src/lib/calc/round.test.ts > roundHalfUp > rounds half away from zero 6ms
+ ✓ src/lib/calc/round.test.ts > roundHalfUp > handles decimal places including binary-tie cases 3ms
+ ✓ src/lib/calc/round.test.ts > roundHalfUp > is identity on already-rounded values 1ms
+ ✓ src/lib/calc/round.test.ts > sum > roundLast sums at full precision 1ms
+ ✓ src/lib/calc/round.test.ts > sum > roundThenSum rounds terms first 1ms
+ ✓ src/lib/calc/round.test.ts > formatting > formats with separators 75ms
+ ↓ src/lib/import/xlsximport.test.ts > ECEC import (real file) > parses Table 4 groups and computes factors
+ ↓ src/lib/import/xlsximport.test.ts > OEWS import (extracted xlsx) > parses SOC wage rows
+ ✓ src/lib/import/xlsximport.test.ts > OEWS import (extracted xlsx) > rejects a non-OEWS workbook 3ms
+
+⎯⎯⎯⎯⎯⎯ Failed Suites 1 ⎯⎯⎯⎯⎯⎯⎯
+
+ FAIL  src/lib/review/golden.test.ts [ src/lib/review/golden.test.ts ]
+Error: ENOENT: no such file or directory, open 'C:\Users\jpadd\Documents\Claude\ICR\corpus\md\1652-0001\1652-0001 911PassFee SS.md'
+ ❯ src/lib/review/golden.test.ts:10:12
+      8|   "C:\\Users\\jpadd\\Documents\\Claude\\ICR\\corpus\\md\\1652-0001\\16…
+      9|
+     10| const md = readFileSync(GOLDEN_PATH, "utf-8");
+       |            ^
+     11|
+     12| describe("golden 1652-0001 end-to-end review", () => {
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+Serialized Error: { errno: -2, code: 'ENOENT', syscall: 'open', path: 'C:\Users\jpadd\Documents\Claude\ICR\corpus\md\1652-0001\1652-0001 911PassFee SS.md' }
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯[1/1]⎯
+
+
+ Test Files  1 failed | 11 passed (12)
+      Tests  89 passed | 2 skipped (91)
+   Start at  12:19:26
+   Duration  4.30s (transform 2.24s, setup 0ms, import 4.77s, tests 885ms, environment 16ms)

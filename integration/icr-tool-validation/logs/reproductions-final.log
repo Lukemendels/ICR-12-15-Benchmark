@@ -1,0 +1,282 @@
+{
+  "output": "/home/luke/Projects/ICR-12-15-Benchmark/integration/icr-tool-validation/reproduction-results.json",
+  "temp": "/tmp/icr-reproduce-smFxwP",
+  "roundtripDifferences": [
+    {
+      "path": "/meta/createdDate",
+      "before": "2024-01-02",
+      "after": "2026-09-10"
+    },
+    {
+      "path": "/frozenParameters/0",
+      "before": {
+        "id": "p1",
+        "name": "Parameter",
+        "value": {
+          "value": 7,
+          "sourceId": 1,
+          "locator": "Table X row Y",
+          "rawQuote": "Fixture supporting quote"
+        },
+        "propagatesTo": [
+          "Q12"
+        ]
+      },
+      "after": null
+    },
+    {
+      "path": "/activities/0/respondents/rawQuote",
+      "before": "Fixture supporting quote",
+      "after": null
+    },
+    {
+      "path": "/activities/0/responsesPerRespondent/rawQuote",
+      "before": "Fixture supporting quote",
+      "after": null
+    },
+    {
+      "path": "/activities/0/minutesPerResponse/rawQuote",
+      "before": "Fixture supporting quote",
+      "after": null
+    },
+    {
+      "path": "/activities/0/wage/socCode",
+      "before": "11-0000",
+      "after": null
+    },
+    {
+      "path": "/activities/0/wage/base/rawQuote",
+      "before": "Fixture supporting quote",
+      "after": null
+    },
+    {
+      "path": "/activities/0/wage/loadFactor/rawQuote",
+      "before": "Fixture supporting quote",
+      "after": null
+    },
+    {
+      "path": "/activities/0/otherCostPerRespondent/rawQuote",
+      "before": "Fixture supporting quote",
+      "after": null
+    },
+    {
+      "path": "/activities/0/growth/kind",
+      "before": "fixedPct",
+      "after": "flat"
+    },
+    {
+      "path": "/activities/0/growth/annualPct",
+      "before": {
+        "value": 10,
+        "sourceId": 1,
+        "locator": "Table X row Y",
+        "rawQuote": "Fixture supporting quote"
+      },
+      "after": null
+    },
+    {
+      "path": "/activities/0/notes",
+      "before": "Keep activity note",
+      "after": ""
+    },
+    {
+      "path": "/capitalCosts/0",
+      "before": {
+        "id": "c1",
+        "name": "Setup",
+        "kind": "startup",
+        "annualCost": {
+          "value": 200,
+          "sourceId": 1,
+          "locator": "Table X row Y",
+          "rawQuote": "Fixture supporting quote"
+        }
+      },
+      "after": null
+    },
+    {
+      "path": "/capitalCosts/1",
+      "before": {
+        "id": "c2",
+        "name": "Maintenance",
+        "kind": "om",
+        "annualCost": {
+          "value": 100,
+          "sourceId": 1,
+          "locator": "Table X row Y",
+          "rawQuote": "Fixture supporting quote"
+        }
+      },
+      "after": null
+    },
+    {
+      "path": "/governmentCosts/0/annualCost/locator",
+      "before": "Table X row Y",
+      "after": null
+    },
+    {
+      "path": "/governmentCosts/0/annualCost/rawQuote",
+      "before": "Fixture supporting quote",
+      "after": null
+    },
+    {
+      "path": "/governmentCosts/1/annualHours/locator",
+      "before": "Table X row Y",
+      "after": null
+    },
+    {
+      "path": "/governmentCosts/1/annualHours/rawQuote",
+      "before": "Fixture supporting quote",
+      "after": null
+    },
+    {
+      "path": "/governmentCosts/1/hourlyWage/locator",
+      "before": "Table X row Y",
+      "after": null
+    },
+    {
+      "path": "/governmentCosts/1/hourlyWage/rawQuote",
+      "before": "Fixture supporting quote",
+      "after": null
+    },
+    {
+      "path": "/narrativeOverrides/q12",
+      "before": "KEEP Q12",
+      "after": ""
+    },
+    {
+      "path": "/narrativeOverrides/q13",
+      "before": "KEEP Q13",
+      "after": ""
+    },
+    {
+      "path": "/narrativeOverrides/q14",
+      "before": "KEEP Q14",
+      "after": ""
+    }
+  ],
+  "perResponse": {
+    "form": [
+      {
+        "id": "g3",
+        "name": "Federal responses",
+        "kind": "fixed",
+        "amount": "",
+        "amountSrc": 0,
+        "amountUnv": "",
+        "amountLoc": "",
+        "hours": "",
+        "hoursSrc": 0,
+        "hoursUnv": "",
+        "hoursLoc": "",
+        "wage": "",
+        "wageSrc": 0,
+        "wageUnv": "",
+        "wageLoc": ""
+      }
+    ],
+    "rebuilt": null,
+    "error": "Federal cost \"Federal responses\": value + source required."
+  },
+  "error": "",
+  "workflow": {
+    "savedReloaded": true,
+    "markdownWritten": true,
+    "error": "",
+    "xlsxWritten": true,
+    "xlsxError": "",
+    "markdownFigures": true
+  },
+  "review": {
+    "score": 98,
+    "verdict": "excellent"
+  },
+  "item15": {
+    "section": {
+      "questionNo": 15,
+      "heading": "Explain the reasons for any program changes or adjustments.",
+      "startLine": 38,
+      "endLine": 48,
+      "mdText": "15. ***Explain the reasons for any program changes or adjustments.***\nPrior baseline: 100 hours. Program change: 20 hours. Adjustment: -10 hours. New burden: 999 hours.\n\n[^1]: BLS, May 2023 National Occupational Employment and Wage Estimates,\n    OEWS, NAICS 481100, <https://www.bls.gov/oes/>. Accessed August 12,\n    2024. Load factor from BLS, Employer Costs for Employee Compensation,\n    March 2024 Data.\n\n[^2]: OPM, Salary Table 2024-DCB, GS-12 step 5, hourly rate. Accessed\n    August 12, 2024.\n",
+      "tables": [],
+      "figures": [
+        {
+          "value": 15,
+          "unit": "count",
+          "raw": "15",
+          "line": 38,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "15. ***Explain the reasons for any program changes or adjustments.*** Prior baseline: 100 hours. Program change: 20 hours. Adjustment: -10 hours. New burden: 999 hours."
+        },
+        {
+          "value": 100,
+          "unit": "hours",
+          "raw": "100 hours",
+          "line": 39,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "15. ***Explain the reasons for any program changes or adjustments.*** Prior baseline: 100 hours. Program change: 20 hours. Adjustment: -10 hours. New burden: 999 hours."
+        },
+        {
+          "value": 20,
+          "unit": "hours",
+          "raw": "20 hours",
+          "line": 39,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "15. ***Explain the reasons for any program changes or adjustments.*** Prior baseline: 100 hours. Program change: 20 hours. Adjustment: -10 hours. New burden: 999 hours."
+        },
+        {
+          "value": 10,
+          "unit": "hours",
+          "raw": "10 hours",
+          "line": 39,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "15. ***Explain the reasons for any program changes or adjustments.*** Prior baseline: 100 hours. Program change: 20 hours. Adjustment: -10 hours. New burden: 999 hours."
+        },
+        {
+          "value": 999,
+          "unit": "hours",
+          "raw": "999 hours",
+          "line": 39,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "15. ***Explain the reasons for any program changes or adjustments.*** Prior baseline: 100 hours. Program change: 20 hours. Adjustment: -10 hours. New burden: 999 hours."
+        },
+        {
+          "value": 481100,
+          "unit": "count",
+          "raw": "481100",
+          "line": 42,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "OEWS, NAICS 481100, <https://www.bls.gov/oes/>. Accessed August 12, 2024. Load factor from BLS, Employer Costs for Employee Compensation,"
+        },
+        {
+          "value": 12,
+          "unit": "count",
+          "raw": "12",
+          "line": 42,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "OEWS, NAICS 481100, <https://www.bls.gov/oes/>. Accessed August 12, 2024. Load factor from BLS, Employer Costs for Employee Compensation,"
+        },
+        {
+          "value": 12,
+          "unit": "count",
+          "raw": "12",
+          "line": 47,
+          "footnoteRefs": [],
+          "isWageRate": false,
+          "context": "August 12, 2024."
+        }
+      ]
+    },
+    "findings": [],
+    "exportHas15": false,
+    "schemaRetainsBaseline": false,
+    "ruleCount": 25
+  }
+}

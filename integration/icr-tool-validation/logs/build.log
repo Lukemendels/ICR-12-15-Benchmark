@@ -1,0 +1,105 @@
+
+> app@0.1.0 build
+> vite build
+
+▲ [WARNING] Cannot find base config file "./.svelte-kit/tsconfig.json" [tsconfig.json]
+
+    tsconfig.json:2:13:
+      2 │   "extends": "./.svelte-kit/tsconfig.json",
+        ╵              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+vite v6.4.3 building SSR bundle for production...
+transforming...
+✓ 184 modules transformed.
+rendering chunks...
+vite v6.4.3 building for production...
+transforming...
+node_modules/zod/v4/core/util.js (330:0): A comment
+
+"// Wrapped in a `@__PURE__` IIFE: esbuild never tree-shakes a top-level initializer that contains a member access on `Number`, so the bare object literal survived into every bundle."
+
+in "node_modules/zod/v4/core/util.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+node_modules/zod/v4/core/regexes.js (70:0): A comment
+
+"/** Anchors a pattern source. The interpolation lives here rather than at the call site because
+ * esbuild will not drop a `@__PURE__` call whose own argument interpolates a variable, but it
+ * will drop `anchor(dateSource)`. Keeping it inline pinned `date` into every bundle. */"
+
+in "node_modules/zod/v4/core/regexes.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+✓ 304 modules transformed.
+rendering chunks...
+computing gzip size...
+.svelte-kit/output/client/_app/version.json                         0.03 kB │ gzip:   0.05 kB
+.svelte-kit/output/client/.vite/manifest.json                       6.81 kB │ gzip:   1.01 kB
+.svelte-kit/output/client/_app/immutable/assets/2.a7XAoodS.css      0.08 kB │ gzip:   0.09 kB
+.svelte-kit/output/client/_app/immutable/assets/5.B4SZwkF2.css      0.27 kB │ gzip:   0.18 kB
+.svelte-kit/output/client/_app/immutable/assets/6.pEX79gJK.css      0.68 kB │ gzip:   0.25 kB
+.svelte-kit/output/client/_app/immutable/assets/4.CLvr8kz4.css      0.92 kB │ gzip:   0.36 kB
+.svelte-kit/output/client/_app/immutable/assets/3.BeGEHsP-.css      1.54 kB │ gzip:   0.58 kB
+.svelte-kit/output/client/_app/immutable/assets/0.4uQBDf7A.css      2.26 kB │ gzip:   0.89 kB
+.svelte-kit/output/client/_app/immutable/chunks/CMmkGo2O.js         0.15 kB │ gzip:   0.13 kB
+.svelte-kit/output/client/_app/immutable/chunks/A1cI5was.js         0.23 kB │ gzip:   0.19 kB
+.svelte-kit/output/client/_app/immutable/nodes/1.vAhbFVZj.js        0.38 kB │ gzip:   0.27 kB
+.svelte-kit/output/client/_app/immutable/chunks/CVpFJGbi.js         0.40 kB │ gzip:   0.29 kB
+.svelte-kit/output/client/_app/immutable/chunks/AQCjcZcP.js         0.42 kB │ gzip:   0.27 kB
+.svelte-kit/output/client/_app/immutable/chunks/B9QdAk5_.js         0.93 kB │ gzip:   0.57 kB
+.svelte-kit/output/client/_app/immutable/chunks/wbPk3Yxo.js         1.37 kB │ gzip:   0.66 kB
+.svelte-kit/output/client/_app/immutable/nodes/0.DZbwuS0L.js        1.40 kB │ gzip:   0.77 kB
+.svelte-kit/output/client/_app/immutable/chunks/CSIFMTMh.js         1.66 kB │ gzip:   0.92 kB
+.svelte-kit/output/client/_app/immutable/chunks/By18ZiWB.js         2.25 kB │ gzip:   0.99 kB
+.svelte-kit/output/client/_app/immutable/chunks/socIO-hu.js         2.30 kB │ gzip:   1.08 kB
+.svelte-kit/output/client/_app/immutable/nodes/2.FMr41SLu.js        2.94 kB │ gzip:   1.55 kB
+.svelte-kit/output/client/_app/immutable/chunks/DuvKGWbP.js         3.59 kB │ gzip:   1.32 kB
+.svelte-kit/output/client/_app/immutable/chunks/BBGLl7no.js         4.53 kB │ gzip:   2.10 kB
+.svelte-kit/output/client/_app/immutable/nodes/5.CWS0hSf2.js        4.76 kB │ gzip:   2.37 kB
+.svelte-kit/output/client/_app/immutable/chunks/Fm9f36LV.js         6.90 kB │ gzip:   3.13 kB
+.svelte-kit/output/client/_app/immutable/chunks/CzRA5vmo.js         7.47 kB │ gzip:   2.67 kB
+.svelte-kit/output/client/_app/immutable/entry/app.0qO-5opu.js      7.69 kB │ gzip:   3.39 kB
+.svelte-kit/output/client/_app/immutable/chunks/D3pwfw6x.js         9.97 kB │ gzip:   4.19 kB
+.svelte-kit/output/client/_app/immutable/nodes/6.DOi1Yy_8.js       17.72 kB │ gzip:   6.21 kB
+.svelte-kit/output/client/_app/immutable/entry/start.BrBimn2i.js   22.88 kB │ gzip:   8.86 kB
+.svelte-kit/output/client/_app/immutable/chunks/DzPtZFey.js        28.12 kB │ gzip:  10.72 kB
+.svelte-kit/output/client/_app/immutable/nodes/4.CYgOVLgF.js       34.29 kB │ gzip:  13.03 kB
+.svelte-kit/output/client/_app/immutable/nodes/3.CdjnVGkZ.js      132.26 kB │ gzip:  38.53 kB
+.svelte-kit/output/client/_app/immutable/chunks/C_SsdvM6.js       939.98 kB │ gzip: 271.18 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 9.49s
+.svelte-kit/output/server/.vite/manifest.json                           4.65 kB
+.svelte-kit/output/server/_app/immutable/assets/_page.a7XAoodS.css      0.08 kB
+.svelte-kit/output/server/_app/immutable/assets/_page.B4SZwkF2.css      0.27 kB
+.svelte-kit/output/server/_app/immutable/assets/_page.pEX79gJK.css      0.68 kB
+.svelte-kit/output/server/_app/immutable/assets/_page.CLvr8kz4.css      0.92 kB
+.svelte-kit/output/server/_app/immutable/assets/_page.BeGEHsP-.css      1.54 kB
+.svelte-kit/output/server/_app/immutable/assets/_layout.4uQBDf7A.css    2.26 kB
+.svelte-kit/output/server/entries/pages/_layout.ts.js                   0.04 kB
+.svelte-kit/output/server/env.js                                        0.23 kB
+.svelte-kit/output/server/internal.js                                   0.35 kB
+.svelte-kit/output/server/entries/fallbacks/error.svelte.js             0.35 kB
+.svelte-kit/output/server/chunks/server.js                              0.62 kB
+.svelte-kit/output/server/chunks/index.js                               0.84 kB
+.svelte-kit/output/server/chunks/utils2.js                              1.09 kB
+.svelte-kit/output/server/entries/pages/search/_page.svelte.js          1.26 kB
+.svelte-kit/output/server/entries/pages/_layout.svelte.js               1.39 kB
+.svelte-kit/output/server/entries/pages/review/_page.svelte.js          2.12 kB
+.svelte-kit/output/server/entries/pages/_page.svelte.js                 2.89 kB
+.svelte-kit/output/server/entries/pages/sources/_page.svelte.js         3.33 kB
+.svelte-kit/output/server/chunks/internal.js                            3.34 kB
+.svelte-kit/output/server/chunks/exports.js                             5.54 kB
+.svelte-kit/output/server/chunks/attributes.js                          5.99 kB
+.svelte-kit/output/server/chunks/utils.js                              34.22 kB
+.svelte-kit/output/server/entries/pages/draft/_page.svelte.js          35.12 kB
+.svelte-kit/output/server/chunks/index2.js                             35.84 kB
+.svelte-kit/output/server/remote-entry.js                              36.81 kB
+.svelte-kit/output/server/chunks/root.js                               88.80 kB
+.svelte-kit/output/server/index.js                                    132.26 kB
+✓ built in 17.32s
+
+Run npm run preview to preview your production build locally.
+
+> Using @sveltejs/adapter-static
+  Wrote site to "build"
+  ✔ done

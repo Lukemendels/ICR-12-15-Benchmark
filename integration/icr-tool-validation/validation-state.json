@@ -1,0 +1,176 @@
+{
+  "ICR_TOOL_VALIDATION_STATUS": "COMPLETE",
+  "started_at": "2026-09-10T16:18:39.047128+00:00",
+  "icr_tool": {
+    "sha": "e72fae4b1d2a37d7a22aeb8ab5b3555f423af79e",
+    "branch": "main",
+    "origin": "https://github.com/Jpatel3333/icr-tool.git",
+    "initial_status": "clean"
+  },
+  "benchmark": {
+    "sha": "61879d1b8c017d71c1dd9ec382d3d8972a40621e",
+    "branch": "main",
+    "origin": "https://github.com/Lukemendels/ICR-12-15-Benchmark.git",
+    "initial_status": "clean"
+  },
+  "versions": {
+    "node": "v24.21.0",
+    "npm": "11.19.0",
+    "rustc": "NOT_FOUND",
+    "cargo": "NOT_FOUND",
+    "python": "3.12.3",
+    "os": "Linux Mint 22.2 x86_64"
+  },
+  "baseline_hashes": {
+    "app/package-lock.json": "6334fdba240bcbafee53e330e51837edb35b89bdc78003dedf527997718703c3",
+    "app/src-tauri/Cargo.lock": "6eab076ac787ea100e31464ab41f0e4238c4620d7cd4b6390d1da6007c149ac9",
+    "data/icr.db": "5a3c2bdb5b824b88f10fe21f23da5889fccf20944ca34977e6f9489e506ae50d"
+  },
+  "loop_status": "COMPLETE",
+  "unresolved_blockers": [
+    "Host validation: Rust/Cargo and GTK3/WebKit2GTK development prerequisites unavailable",
+    "Baseline suite: external golden Markdown missing; import workbooks missing",
+    "Pre-integration: lossless supported draft persistence and portable source/observation identity"
+  ],
+  "dependency_install": {
+    "status": "PASS",
+    "command": "npm ci --cache /tmp/icr-validation-npm-cache",
+    "packages_added": 255,
+    "duration_seconds_reported": 6,
+    "initial_attempt": "EROFS default ~/.npm cache; exit 226",
+    "warnings": "5 audit entries (3 low, 2 moderate); deprecated transitives; esbuild postinstall not approved by npm policy, binary works",
+    "lockfiles_unchanged": true
+  },
+  "test_suite": {
+    "status": "FAIL",
+    "files_passed": 11,
+    "files_failed": 1,
+    "tests_passed": 89,
+    "tests_skipped": 2,
+    "registered_tests": 91,
+    "unregistered_golden_tests": 6,
+    "vacuous_passes": 1,
+    "reason": "Golden fixture hard-coded to absent Windows path"
+  },
+  "frontend_check": {
+    "status": "PASS",
+    "errors": 0,
+    "warnings": 0
+  },
+  "frontend_build": {
+    "status": "PASS"
+  },
+  "rust_cargo": {
+    "status": "PLATFORM_BLOCKED",
+    "fetch": "cargo not found",
+    "check": "cargo not found",
+    "test": "cargo not found"
+  },
+  "tauri": {
+    "status": "PLATFORM_BLOCKED",
+    "reason": "cargo metadata cannot launch; GTK3/WebKit2GTK development pkg-config entries also absent"
+  },
+  "database": {
+    "status": "PASS",
+    "integrity": "ok",
+    "foreign_key_violations": 0,
+    "user_version": 1,
+    "counts": {
+      "sources": 7,
+      "source_locators": 0,
+      "icrs": 59,
+      "icr_documents": 473,
+      "ss_sections": 928,
+      "burden_records": 348,
+      "extracted_tables": 321,
+      "reference_series": 4479,
+      "ss_fts": 928,
+      "ss_fts_data": 192,
+      "ss_fts_idx": 190,
+      "ss_fts_docsize": 928,
+      "ss_fts_config": 1,
+      "src_fts": 7,
+      "src_fts_data": 9,
+      "src_fts_idx": 7,
+      "src_fts_docsize": 7,
+      "src_fts_config": 1,
+      "review_runs": 0,
+      "review_findings": 0,
+      "claim_passports": 0,
+      "source_edits": 0
+    }
+  },
+  "reproductions": {
+    "A_UI_roundtrip": {
+      "status": "CONFIRMED",
+      "evidence": "reproduction-results.json#roundtrip"
+    },
+    "B_projection": {
+      "status": "CONFIRMED",
+      "evidence": "reproduction-results.json#projection"
+    },
+    "C_Item13": {
+      "status": "CONFIRMED",
+      "evidence": "reproduction-results.json#item13"
+    },
+    "D_source_proof": {
+      "status": "CONFIRMED",
+      "evidence": "reproduction-results.json#sourceProof"
+    },
+    "E_portability": {
+      "status": "CONFIRMED",
+      "evidence": "reproduction-results.json#portability"
+    },
+    "F_review_context": {
+      "status": "CONFIRMED",
+      "evidence": "reproduction-results.json#xcomp"
+    },
+    "G_Item15": {
+      "status": "CONFIRMED",
+      "evidence": "reproduction-results.json#item15"
+    }
+  },
+  "workflows": {
+    "draft": "PARTIAL: programmatic page functions, rich roundtrip fails",
+    "markdown": "PARTIAL: generated; semantic/provenance gaps",
+    "xlsx": "PARTIAL: written and reopened; semantic/provenance gaps",
+    "review": "PARTIAL: engine + page context + SQL save; no host/reload UI",
+    "source": "PARTIAL: actual DB functions through SQLite adapter; no host"
+  },
+  "integration_readiness": {
+    "status": "PRE_INTEGRATION_FIXES_REQUIRED",
+    "production_shell": "RECOMMENDED_CONDITIONALLY",
+    "draft_authority": "NOT_READY"
+  },
+  "windows_status": "WINDOWS_DEPLOYMENT_VALIDATION_PENDING",
+  "completed_date": "2026-09-10",
+  "cleanliness": {
+    "at": "2026-09-10T16:29:56.261197+00:00",
+    "icr_tool_head": "e72fae4b1d2a37d7a22aeb8ab5b3555f423af79e",
+    "icr_tool_tracked_diff": "",
+    "icr_tool_untracked_nonignored": "",
+    "icr_tool_ignored": [
+      "!! app/.svelte-kit/",
+      "!! app/build/",
+      "!! app/node_modules/"
+    ],
+    "baseline_hashes_unchanged": true,
+    "final_hashes": {
+      "app/package-lock.json": "6334fdba240bcbafee53e330e51837edb35b89bdc78003dedf527997718703c3",
+      "app/src-tauri/Cargo.lock": "6eab076ac787ea100e31464ab41f0e4238c4620d7cd4b6390d1da6007c149ac9",
+      "data/icr.db": "5a3c2bdb5b824b88f10fe21f23da5889fccf20944ca34977e6f9489e506ae50d"
+    },
+    "benchmark_baseline": "61879d1b8c017d71c1dd9ec382d3d8972a40621e",
+    "benchmark_changes_outside_validation": false,
+    "icr_tool_commits_or_pushes": false,
+    "frozen_evidence_unchanged": true,
+    "comparison_unchanged": true
+  },
+  "closeout": {
+    "allowed_path": "integration/icr-tool-validation/",
+    "commit_message": "Validate icr-tool executable baseline and integration readiness",
+    "publication_target": "Lukemendels/ICR-12-15-Benchmark origin/main",
+    "commit_reference": "git log -1 --format=%H -- integration/icr-tool-validation",
+    "no_ci_polling": true
+  }
+}
