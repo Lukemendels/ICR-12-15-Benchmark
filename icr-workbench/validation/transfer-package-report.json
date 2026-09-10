@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "path": "icr-workbench/dist/ICR-Workbench-Anvil-Project.zip",
+  "sha256": "730f4c825708e635f517c65c54cf3ae56fb38e1de05dbe6bc25bba8f6da0a459",
+  "entries": 121,
+  "zip_determinism": "PASS",
+  "required_files": "PASS",
+  "safe_extraction_paths": "PASS",
+  "source_authority": "modular icr-workbench/",
+  "excluded": [
+    "validation reports (avoid artifact digest cycles)",
+    "other dist outputs",
+    "caches",
+    "recovery artifacts",
+    "unselected capability versions"
+  ],
+  "capability": "icr-evidence-foundation@1.0.1",
+  "evidence_release_id": "ICR-EVIDENCE-1.0.0",
+  "manifest_sha256": "572e8a414c5867e75a5d24eb4d5e939a475969c92bb1d81b3f183f436b4663a9",
+  "all_archive_and_extracted_bytes_match": "PASS",
+  "frozen_evidence_byte_identity": "PASS",
+  "extracted_package_reproducibility": "PASS",
+  "standalone_sha256": "e862af4015bd2ea8ff5e3843444028eee185c987544236185780d540bc3ac6e3",
+  "anvil_paperclip_contract": "PASS"
+}

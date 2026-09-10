@@ -1,0 +1,215 @@
+{
+  "schema_version": "1.0.0",
+  "checkpoint": "C",
+  "overall_result": "PASS",
+  "criteria": [
+    {
+      "id": "frozen_loop_5_1_unchanged",
+      "status": "PASS",
+      "evidence": "Git comparison to frozen Loop 5.1 commit 007abaf; exact payload also verified by build and transfer"
+    },
+    {
+      "id": "checkpoint_a_architecture_preserved",
+      "status": "PASS",
+      "evidence": "Checkpoint A is ancestor of B; architecture/source/pins remain byte-unchanged from completed B"
+    },
+    {
+      "id": "checkpoint_b_working_shell_complete",
+      "status": "PASS",
+      "evidence": "validation/checkpoint-b.json unchanged"
+    },
+    {
+      "id": "modular_source_authoritative",
+      "status": "PASS",
+      "evidence": "paperclip.tool.json and build source validation"
+    },
+    {
+      "id": "ARCHITECTURE.md_exists",
+      "status": "PASS",
+      "evidence": "ARCHITECTURE.md"
+    },
+    {
+      "id": "SKILL.md_exists",
+      "status": "PASS",
+      "evidence": "SKILL.md"
+    },
+    {
+      "id": "paperclip_manifest_valid",
+      "status": "PASS",
+      "evidence": "Pinned upstream manifest and project closure validation"
+    },
+    {
+      "id": "evidence_release_pinned",
+      "status": "PASS",
+      "evidence": "assets/evidence-pin.json"
+    },
+    {
+      "id": "exact_manifest_digest_pinned",
+      "status": "PASS",
+      "evidence": "assets/evidence-pin.json"
+    },
+    {
+      "id": "correct_evidence_loads",
+      "status": "PASS",
+      "evidence": {
+        "report": "validation/foundation-tests.json",
+        "tests": [
+          "correct_release_and_exact_manifest_load"
+        ]
+      }
+    },
+    {
+      "id": "wrong_identity_digest_fails_closed",
+      "status": "PASS",
+      "evidence": {
+        "report": "validation/foundation-tests.json",
+        "tests": [
+          "wrong_manifest_hash_fails_closed",
+          "wrong_release_identity_fails_closed"
+        ]
+      }
+    },
+    {
+      "id": "public_base_deeply_immutable",
+      "status": "PASS",
+      "evidence": {
+        "report": "validation/foundation-tests.json",
+        "tests": [
+          "public_base_recursively_immutable",
+          "forged_base_rejected_by_provider_and_stores"
+        ]
+      }
+    },
+    {
+      "id": "tsa_overlay_separate",
+      "status": "PASS",
+      "evidence": {
+        "report": "validation/foundation-tests.json",
+        "tests": [
+          "independent_overlay_project_import_export_and_no_base_replacement",
+          "overlay_identity_collision_bad_pin_reference_and_duplicate_rejected"
+        ]
+      }
+    },
+    {
+      "id": "working_project_separate",
+      "status": "PASS",
+      "evidence": {
+        "report": "validation/foundation-tests.json",
+        "tests": [
+          "independent_overlay_project_import_export_and_no_base_replacement",
+          "project_rejects_base_identity_calculation_extra_keys_and_preserves_prior"
+        ]
+      }
+    },
+    {
+      "id": "bounded_provider",
+      "status": "PASS",
+      "evidence": {
+        "report": "validation/foundation-tests.json",
+        "tests": [
+          "bounded_exact_paging_and_unknown_operators",
+          "provenance_hydration_and_typed_neighbors"
+        ]
+      }
+    },
+    {
+      "id": "safe_rendering",
+      "status": "PASS",
+      "evidence": {
+        "report": "validation/foundation-tests.json",
+        "tests": [
+          "stored_text_and_source_links_safe_by_construction",
+          "source_validation_and_modular_navigation"
+        ]
+      }
+    },
+    {
+      "id": "foundation_tests",
+      "status": "PASS",
+      "evidence": "validation/foundation-tests.json: 26 tests"
+    },
+    {
+      "id": "deterministic_build",
+      "status": "PASS",
+      "evidence": {
+        "report": "validation/foundation-tests.json",
+        "tests": [
+          "clean_build_standalone_static_and_repeat_deterministic"
+        ]
+      }
+    },
+    {
+      "id": "standalone_exists",
+      "status": "PASS",
+      "evidence": "validation/build-report.json"
+    },
+    {
+      "id": "offline_core_no_cdn_server_package_manager_model_api",
+      "status": "PASS",
+      "evidence": {
+        "report": "validation/foundation-tests.json",
+        "tests": [
+          "clean_build_standalone_static_and_repeat_deterministic",
+          "source_validation_and_modular_navigation"
+        ]
+      }
+    },
+    {
+      "id": "transfer_zip_exists",
+      "status": "PASS",
+      "evidence": "validation/transfer-package-report.json"
+    },
+    {
+      "id": "transfer_zip_validates",
+      "status": "PASS",
+      "evidence": "validation/transfer-package-report.json"
+    },
+    {
+      "id": "transfer_frozen_identity",
+      "status": "PASS",
+      "evidence": "Every archive and extracted byte compared to canonical input; extracted build verifies pinned release"
+    },
+    {
+      "id": "extracted_transfer_reproduces_standalone",
+      "status": "PASS",
+      "evidence": "Extracted HTML deleted before ordinary rebuild; exact output SHA-256 matches"
+    },
+    {
+      "id": "anvil_paperclip_linux_contract",
+      "status": "PASS",
+      "evidence": {
+        "report": "validation/foundation-tests.json",
+        "tests": [
+          "upstream_anvil_closure_candidate_isolation_and_context"
+        ]
+      }
+    },
+    {
+      "id": "capability_pins_locks",
+      "status": "PASS",
+      "evidence": "Ordinary build validates source inputs, governed digests and capability set lock"
+    },
+    {
+      "id": "windows_pending_recorded",
+      "status": "PASS",
+      "evidence": "compatibility-report.json and loop-5.2-terminal.json; Linux cannot execute deployment host"
+    },
+    {
+      "id": "anvil_import_not_executed_recorded",
+      "status": "PASS",
+      "evidence": "No supported Anvil runtime exercised; upstream source-contract validation only"
+    },
+    {
+      "id": "loop_5_3_handoff_exists",
+      "status": "PASS",
+      "evidence": "LOOP-5.3-HANDOFF.md"
+    },
+    {
+      "id": "machine_readable_terminal_exists",
+      "status": "PASS",
+      "evidence": "validation/loop-5.2-terminal.json parsed and compared"
+    }
+  ],
+  "platform_deferrals_non_blocking": true
+}

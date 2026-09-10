@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "application_version": "0.1.0",
+  "foundation_capability_version": "1.0.1",
+  "foundation_capability": "icr-evidence-foundation@1.0.1",
+  "project_root": "icr-workbench",
+  "evidence_release_id": "ICR-EVIDENCE-1.0.0",
+  "evidence_manifest_sha256": "572e8a414c5867e75a5d24eb4d5e939a475969c92bb1d81b3f183f436b4663a9",
+  "standalone_html": {
+    "path": "icr-workbench/dist/icr-workbench.html",
+    "sha256": "e862af4015bd2ea8ff5e3843444028eee185c987544236185780d540bc3ac6e3",
+    "bytes": 3266692
+  },
+  "transfer_zip": {
+    "path": "icr-workbench/dist/ICR-Workbench-Anvil-Project.zip",
+    "sha256": "730f4c825708e635f517c65c54cf3ae56fb38e1de05dbe6bc25bba8f6da0a459"
+  },
+  "loop_5_3_handoff": "icr-workbench/LOOP-5.3-HANDOFF.md",
+  "linux_platform_independent_validation": "PASS",
+  "windows_webview2_status": "WINDOWS_WEBVIEW2_DEPLOYMENT_VALIDATION_PENDING",
+  "anvil_runtime_status": "ANVIL_RUNTIME_IMPORT_NOT_EXECUTED",
+  "remaining_non_blocking_limitations": [
+    "Windows/WebView2 deployment-device validation pending.",
+    "Actual Anvil runtime import not executed; Linux validation covers the shared compiler and project contract only.",
+    "No browser DOM execution; safe rendering validated by construction and foundation tests.",
+    "Modern Web Crypto and DecompressionStream required; opening external source links needs connectivity.",
+    "Overlay/project envelopes are in memory with independent JSON APIs; no durable persistence or calculation model.",
+    "Graph visualization, DHSChat bus, data packets, A2UI and later modeling/production workflows are not implemented."
+  ],
+  "foundation_test_status": "PASS",
+  "foundation_test_count": 26,
+  "deterministic_build_status": "PASS",
+  "transfer_package_validation": "PASS",
+  "extracted_package_reproducibility": "PASS",
+  "anvil_paperclip_project_contract": "PASS",
+  "capability_pins_locks": "PASS"
+}
