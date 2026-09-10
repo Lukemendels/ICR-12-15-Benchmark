@@ -1,0 +1,223 @@
+{
+  "comparison_status": "SATURATED",
+  "coverage": {
+    "structural": {
+      "status": "COMPLETE_FOR_ARCHITECTURAL_ASSESSMENT",
+      "examined": [
+        "icr-tool app/lib/routes/Tauri/data/docs/tests/config",
+        "benchmark research/raw/data/icrs/methodology/report/mission-3/analysis/evidence-graph/mission-4/loop-5/release/workbench/governed-library"
+      ]
+    },
+    "workflow": {
+      "status": "COMPLETE_FOR_ARCHITECTURAL_ASSESSMENT",
+      "examined": [
+        "Draft/source/import/preview/save/export/review/search traced",
+        "research extraction to adjudication/freeze/report/release traced",
+        "workbench verified-load/evidence inspection; placeholders distinguished"
+      ]
+    },
+    "domain_model": {
+      "status": "COMPLETE_FOR_ARCHITECTURAL_ASSESSMENT",
+      "examined": [
+        "activity population/frequency/time/wage/nonhour/Federal formulas and rounding",
+        "UI/schema/export divergence",
+        "canonical 27-entity specification, assumptions and Item15 limitations"
+      ]
+    },
+    "data_persistence": {
+      "status": "COMPLETE_FOR_ARCHITECTURAL_ASSESSMENT",
+      "examined": [
+        "SQLite schema/counts/integrity/first-copy/vintages/review storage",
+        "Zod draft schema/local integer source references",
+        "JSON release IDs/provenance/indexes/overlay/project separation"
+      ]
+    },
+    "build_runtime": {
+      "status": "COMPLETE_FOR_ARCHITECTURAL_ASSESSMENT",
+      "examined": [
+        "npm/Cargo/Tauri/Svelte static SPA/NSIS and external pipeline",
+        "Node/Python deterministic workbench/Anvil packaging",
+        "offline consumer and modern-browser runtime; no live app API/auth"
+      ]
+    },
+    "validation": {
+      "status": "COMPLETE_FOR_ARCHITECTURAL_ASSESSMENT",
+      "examined": [
+        "icr-tool test source inspected; dependencies absent, no suite/build run",
+        "historical research/release/workbench gates reused",
+        "fresh read-only SQLite integrity and consumer acceptance PASS",
+        "Windows/WebView2/Anvil/browser DOM unverified here"
+      ]
+    },
+    "evidence_institutional_knowledge": {
+      "status": "COMPLETE_FOR_ARCHITECTURAL_ASSESSMENT",
+      "examined": [
+        "M1 frozen federal evidence and completed reports",
+        "M3 frozen graph, assumption observations, comparability and unresolved findings",
+        "portable release contracts, limitations, source/claim registry, historical Item15 bridge"
+      ]
+    },
+    "integration_boundary": {
+      "status": "COMPLETE_FOR_ARCHITECTURAL_ASSESSMENT",
+      "examined": [
+        "all nine requested integration patterns evaluated",
+        "recommended immutable-release consumption, separate local/draft state",
+        "future versioned model/library candidate; no implementation"
+      ]
+    }
+  },
+  "passes": [
+    {
+      "pass": 1,
+      "scope": "Structure, entry points, release contracts, initial workflow and persistence",
+      "material_novelty": true,
+      "remaining": [
+        "Calculation/export detail",
+        "Actual SQLite schema and corpus",
+        "Review rules",
+        "Research provenance and checks",
+        "Boundary assessment"
+      ]
+    },
+    {
+      "pass": 2,
+      "scope": "Calculations, UI roundtrip, exports, review context, actual SQLite corpus, canonical semantics",
+      "material_novelty": true,
+      "remaining": [
+        "Research/validation implementation and test limits",
+        "Import/update path",
+        "Integration options and semantic mapping"
+      ]
+    },
+    {
+      "pass": 3,
+      "scope": "Import/update flow, research pipeline, quality controls and read-only release execution",
+      "material_novelty": true,
+      "remaining": [
+        "Counter-check candidate boundaries and documentation conflicts",
+        "Final semantic mapping and saturation confirmation"
+      ]
+    },
+    {
+      "pass": 4,
+      "scope": "Counter-check source UI, corpus search, overlay contract, assumption libraries and host boundaries",
+      "material_novelty": false,
+      "result": "No change to architecture recommendation; refined sourcing and fixture limitations",
+      "remaining": [
+        "Final evidence/claim reconciliation and closeout"
+      ]
+    },
+    {
+      "pass": 5,
+      "scope": "Evidence-to-report reconciliation, remaining boundary counter-check and clean Git/source verification",
+      "material_novelty": false,
+      "result": "No recommendation change; remaining questions require decisions or unavailable host validation; SATURATED"
+    }
+  ],
+  "unresolved_questions": [
+    "Which host is deployable and supported for intended users: Tauri desktop, standalone browser, Anvil, or more than one? Repository receipts do not establish production device suitability.",
+    "Who owns release publication, trusted digest distribution, source-license/redistribution decisions and long-term maintenance of any shared package?",
+    "Where is icr-tool's external database build pipeline, and how are provenance, input hashes and corpus version upgrades reproduced without losing local edits?",
+    "What global identity/locator format should make drafts portable across local source databases and evidence release versions? How should multiple series dimensions and competing updates be handled?",
+    "Which canonical-model subset is required first, and who adjudicates Item 12/13 boundaries, compensation denominators, overlap, annualization and Item 15 semantics before product acceptance?",
+    "What restrictions and persistence requirements apply to actual TSA-local material? Neither this public repository inspection nor an in-memory overlay establishes those requirements.",
+    "Which reviewed assumptions are approved for a particular new activity, with what owner and review date? Libraries contain evidence and methods, not an approved defaults list.",
+    "What UI/export validation standard is required beyond the existing unit and export-to-review fixtures? Full schema roundtrip and Windows/WebView2/Anvil behavior remain unverified here.",
+    "Frozen substantive questions remain: six unresolved task/method comparisons (CMP-04, 05, 09, 10, 14, 21), plus one unresolved within-ICR finding; seven reconstruction cases are potentially inconsistent, not official corrections. Their operational causes and task-scope ambiguities cannot be settled by code inspection. [E19, E23]"
+  ],
+  "saturation_assessment": {
+    "result": "SATURATED",
+    "structural_A": true,
+    "workflow_B": true,
+    "domain_C": true,
+    "data_D": true,
+    "integration_E": true,
+    "evidence_institutional_F": true,
+    "integration_G": true,
+    "novelty_H": "NO in passes 4 and 5",
+    "rationale": "All principal layers and flows inspected; two counter-check passes changed no architectural recommendation. Remaining gaps require decisions/host validation, not further enumeration."
+  },
+  "recommended_integration_direction": {
+    "near_term": "Keep repositories separate; icr-tool consumes exact pinned read-only portable JSON evidence via adapter; retain independent local reference/assumption state and drafts.",
+    "medium_term": "Define supported executable domain subset and source identity mapping; evaluate shared pure calculation/review library after UI/export semantics and parity validation.",
+    "remain_separate": [
+      "Frozen evidence and research audit/report pipelines",
+      "TSA-local overlays and access decisions",
+      "Working scenarios",
+      "Host-specific UI/packaging"
+    ],
+    "not_recommended_now": [
+      "Repository merge",
+      "Shared mutable evidence DB",
+      "Local service without demonstrated need",
+      "Automatic historical-assumption adoption"
+    ]
+  },
+  "benchmark_repository": {
+    "repository": "Lukemendels/ICR-12-15-Benchmark",
+    "local_path": "~/Projects/ICR-12-15-Benchmark",
+    "commit": "29af4a08f098ebd797f1449ca4fa3418afcaf10c",
+    "branch": "main",
+    "origin": "https://github.com/Lukemendels/ICR-12-15-Benchmark.git",
+    "initial_status": "clean"
+  },
+  "icr_tool_repository": {
+    "repository": "Jpatel3333/icr-tool",
+    "local_path": "~/Projects/icr-tool",
+    "commit": "e72fae4b1d2a37d7a22aeb8ab5b3555f423af79e",
+    "branch": "main",
+    "origin": "https://github.com/Jpatel3333/icr-tool.git",
+    "initial_status": "clean"
+  },
+  "COMPARISON_STATUS": "SATURATED",
+  "completed_date": "2026-09-10",
+  "validation": {
+    "fresh_checks": {
+      "sqlite_integrity": "ok",
+      "release_load": "PASS",
+      "release_acceptance_cases": 12,
+      "release_acceptance": "PASS",
+      "node": "v24.21.0",
+      "python": "3.12.3"
+    },
+    "historical_workbench_tests": {
+      "result": "PASS",
+      "count": 26,
+      "rerun": false
+    },
+    "icr_tool_test_suite": "NOT_RUN: dependencies absent; no installation for inspection",
+    "host_tests": "NOT_RUN; Windows/WebView2/Anvil/DOM limits explicitly retained"
+  },
+  "evidence_release": {
+    "release_id": "ICR-EVIDENCE-1.0.0",
+    "manifest_sha256": "572e8a414c5867e75a5d24eb4d5e939a475969c92bb1d81b3f183f436b4663a9",
+    "inventoried_artifacts": 87,
+    "nodes": 2546,
+    "edges": 4077,
+    "provenance_records": 1137
+  },
+  "repository_state_changes": [
+    {
+      "repository": "benchmark",
+      "change": "Only four comparison artifacts added by closeout commit; inspected baseline unchanged",
+      "closeout_commit_reference": "git log -1 --format=%H -- integration/icr-tool-comparison",
+      "self_reference_note": "The containing commit SHA cannot be embedded in its own contents; final response supplies it."
+    }
+  ],
+  "closeout": {
+    "allowed_paths": [
+      "integration/icr-tool-comparison/CODEBASE-COMPARISON-REPORT.md",
+      "integration/icr-tool-comparison/LOOP.md",
+      "integration/icr-tool-comparison/comparison-state.json",
+      "integration/icr-tool-comparison/evidence-log.md"
+    ],
+    "application_source_modified": false,
+    "frozen_evidence_modified": false,
+    "icr_tool_source_copied": false,
+    "icr_tool_clean": true,
+    "icr_tool_commit_or_push": false,
+    "publication_target": "Lukemendels/ICR-12-15-Benchmark origin/main",
+    "commit_message": "Complete icr-tool comparative architecture and integration assessment",
+    "post_push_ci_polling": false
+  }
+}
