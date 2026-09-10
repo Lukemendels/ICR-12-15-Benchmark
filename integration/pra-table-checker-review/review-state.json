@@ -1,0 +1,46 @@
+{
+  "TABLE_CHECKER_REVIEW_STATUS": "COMPLETE",
+  "benchmark_sha": "dc818c0a31177aed36ebd3881a559a113447bce5",
+  "checker_commit_sha": "dc818c0a31177aed36ebd3881a559a113447bce5",
+  "checker_sha256": "42ba241c72afe0887f838a01ed2865761798d2e28d19c6fb8de83a7f6bae7cdc",
+  "icr_tool_sha": "e72fae4b1d2a37d7a22aeb8ab5b3555f423af79e",
+  "static_inspection": "COMPLETE: all 798 lines and all named functions inventoried",
+  "execution": "COMPLETE: 44 full-run cases, 26 probes, 11 Jay comparisons; no browser/host claim",
+  "pipeline_fixture": "UNSUPPORTED: no meaningful reconstruction or mismatch finding; independent/Jay explicit control 347824, not official correction",
+  "twic_fixture": "UNSUPPORTED: no bridge recognition/reconciliation; independent signed component residual 0",
+  "logic_inventory": "COMPLETE",
+  "comparison": "COMPLETE: direct source/current execution plus same-SHA prior validation",
+  "reuse_matrix": "COMPLETE: no literal runtime migration recommended",
+  "recommended_pr_scope": "Lossless schema-v1 draft load/edit/save and supported SourcedValue/Federal variant preservation; no evidence integration or checker code",
+  "unresolved_questions": [
+    "Original sample source/version and rationale for fixed constants/tolerances",
+    "Portable source/observation identity and migration policy",
+    "Analyst-confirmed quantity/period binding and Item15 causal/decomposition policy",
+    "Windows/Anvil/browser host validation remains outside this Linux review"
+  ],
+  "terminal_status": "COMPLETE",
+  "completed_date": "2026-09-10",
+  "execution_results": "execution-results.json",
+  "reproduce": "reproduce.mjs",
+  "cleanliness": {
+    "benchmark_tracked_diff_before_review_commit": "empty",
+    "allowed_new_path": "integration/pra-table-checker-review/",
+    "icr_tool_status": "clean",
+    "icr_tool_baseline_hashes_unchanged": {
+      "app/package-lock.json": "6334fdba240bcbafee53e330e51837edb35b89bdc78003dedf527997718703c3",
+      "app/src-tauri/Cargo.lock": "6eab076ac787ea100e31464ab41f0e4238c4620d7cd4b6390d1da6007c149ac9",
+      "data/icr.db": "5a3c2bdb5b824b88f10fe21f23da5889fccf20944ca34977e6f9489e506ae50d"
+    },
+    "checker_hash_unchanged": true,
+    "frozen_evidence_unchanged": true,
+    "application_files_unchanged": true,
+    "no_pr_or_integration": true
+  },
+  "closeout": {
+    "commit_message": "Assess PRA table-checker logic for icr-tool reuse",
+    "publication_target": "benchmark origin/main",
+    "commit_reference": "git log -1 --format=%H -- integration/pra-table-checker-review/",
+    "no_ci_polling": true,
+    "publication_verification": "Compare final HEAD to origin/main remote after push; exact closeout SHA reported to user and discoverable via commit_reference."
+  }
+}
