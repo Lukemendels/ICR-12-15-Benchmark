@@ -1,0 +1,147 @@
+{
+  "result": "PASS",
+  "baseline_commit": "439ba34",
+  "pdf_sha256": "2f361d9cdc459672cfc27b43fa7c94f4569a4bd5dc97574e94559c61a7325dce",
+  "pages": 9,
+  "page_9_references": true,
+  "full_first_use_citations": 4,
+  "abbreviated_subsequent_citations": 11,
+  "supporting_statement_link_annotations": 8,
+  "supporting_statement_link_occurrences": 6,
+  "distinct_supporting_statement_urls": 3,
+  "links": [
+    {
+      "page": 4,
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701",
+      "rectangle": [
+        138.43060302734375,
+        642.7999877929688,
+        277.95001220703125,
+        652.760009765625
+      ]
+    },
+    {
+      "page": 5,
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403",
+      "rectangle": [
+        446.3208923339844,
+        599.4000244140625,
+        539.5256958007812,
+        609.3599853515625
+      ]
+    },
+    {
+      "page": 5,
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403",
+      "rectangle": [
+        54.0,
+        610.7999877929688,
+        97.67632293701172,
+        620.760009765625
+      ]
+    },
+    {
+      "page": 5,
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901",
+      "rectangle": [
+        446.3208923339844,
+        639.5999755859375,
+        539.5256958007812,
+        649.5599975585938
+      ]
+    },
+    {
+      "page": 5,
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901",
+      "rectangle": [
+        54.0,
+        651.0,
+        97.67632293701172,
+        660.9600219726562
+      ]
+    },
+    {
+      "page": 9,
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=164712701",
+      "rectangle": [
+        355.62109375,
+        230.0,
+        523.716796875,
+        242.0
+      ]
+    },
+    {
+      "page": 9,
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=152810901",
+      "rectangle": [
+        155.72360229492188,
+        295.0,
+        323.8193054199219,
+        307.0
+      ]
+    },
+    {
+      "page": 9,
+      "url": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=156989403",
+      "rectangle": [
+        155.72360229492188,
+        360.0,
+        323.8193054199219,
+        372.0
+      ]
+    }
+  ],
+  "geometry": [
+    {
+      "page": 1,
+      "characters": 1537,
+      "result": "PASS"
+    },
+    {
+      "page": 2,
+      "characters": 1730,
+      "result": "PASS"
+    },
+    {
+      "page": 3,
+      "characters": 1613,
+      "result": "PASS"
+    },
+    {
+      "page": 4,
+      "characters": 1484,
+      "result": "PASS"
+    },
+    {
+      "page": 5,
+      "characters": 1788,
+      "result": "PASS"
+    },
+    {
+      "page": 6,
+      "characters": 1560,
+      "result": "PASS"
+    },
+    {
+      "page": 7,
+      "characters": 1827,
+      "result": "PASS"
+    },
+    {
+      "page": 8,
+      "characters": 1454,
+      "result": "PASS"
+    },
+    {
+      "page": 9,
+      "characters": 1146,
+      "result": "PASS"
+    }
+  ],
+  "technical_report_pages": 55,
+  "technical_report_sha256": "f06b03b911c1beb829006f6e5a2d3cb6ebbab00fb068372aa782e1fc7b40c0b4",
+  "protected_state": "PASS: all tracked changes confined to leadership directory; technical PDF byte-identical",
+  "prior_manuscript_words": 2746,
+  "revised_main_brief_words": 1655,
+  "network_destination_checks": "Not performed: exact frozen locators validated offline as instructed"
+}

@@ -1,23 +1,14 @@
-# Internal citation and compression support
+# Citation support — Mission 4.5 revision
 
-Authoritative source: report/tsa-consistency/technical/source/report.md and corresponding completed 55-page PDF at commit 34d94576f95b3a780ea3ec869b7c9c4fb653baa6. No new public research.
+No new research. The completed technical report and frozen TSA sources govern the findings. Full first-use notes appear on the same page as the source’s first substantive use; References repeats the full entries. The machine-readable citation-registry.json supplies source identity, exact URL, claim locator, page, and abbreviated form.
 
-| Brief unit | Technical report support | Frozen locator keys retained for audit |
-|---|---|---|
-| Executive summary | Executive summary; sections 10, 14 | CMP-16; FIND-CYBER-COST |
-| Coverage and classifications | Sections 1–3, 13 | INVENTORY; complete comparison/finding registers |
-| Methods and open questions | Sections 4–6; unresolved.csv | CMP-01,02,03,16; CMP-04,05,09,10,14,21 |
-| Pipeline | Section 7.9 | CMP-16; FIND-CYBER-COST |
-| Counterevidence and TWIC | Section 7 and 7.10 | FIND-HME; FIND-LEO; FIND-PRECHECK; BASELINE-TWIC-2025 |
-| EAB relevance and recommendations | Sections 8,10–12 | Synthesis; no measured implementation benefit |
-| Architecture | Sections 10–11 | CANONICAL; proposed design |
-| Pilot | Section 12, particularly 12.5 | Recommendation; no new empirical claim |
+| Note | Source ID | Claims / brief pages | Later form |
+|---|---|---|---|
+| 1 | TECHNICAL-REPORT-2026 | Executive summary; §§1–8, 10–14; pages [1, 2, 3, 4, 5, 6, 7, 8] | Technical report, 2026 |
+| 2 | M3-SRC-202512-1652-001-e21e863d84c9cbf0 | Item 14; pages [4] | TSA, Pipeline Supporting Statement A, 2026 |
+| 3 | M3-SRC-202504-1652-008-ec91651842d62d7c | Item 15; pages [5] | TSA, TWIC Supporting Statement A, 2025b |
+| 4 | M3-SRC-202502-1652-004-4639c859f157e253 | Item 12; annualized baseline; pages [5] | TSA, TWIC Supporting Statement A, 2025a |
 
-Pipeline package: 202512-1652-001, control 1652-0056, active and approved with change at the evidence snapshot. Displayed 100 × [(8 × 122.27) + (24 × 104.17)] = 347824. Published 290825.84. Do not call recomputation an official corrected estimate.
+Pipeline evidence: FIND-CYBER-COST and technical §7.9; current source Item 14. No predecessor lineage claim is retained. TWIC evidence: BASELINE-TWIC-2025 and technical §7.10; current Item 15 plus predecessor baseline. Broad recurring-method statements cite technical §4, without introducing further named document cases. No federal comparator is directly cited.
 
-The six open questions are copied in compressed form from the completed unresolved-comparison table, not re-adjudicated.
-
-Editorial omissions: full portfolio/status tables, exhaustive case descriptions, assumption-family inventory, federal analogues, technical methodology detail and appendices. The brief directs the reader to the technical evidentiary record. No omitted material changes the central finding or its bounds.
-
-Final typeset citation review completed: all eight notes match the completed technical report sections. All eight brief pages visually inspected. No source evidence was modified.
-
+The pipeline date is supported by the registered filename and receipt metadata (January 2, 2026). TWIC years follow registered package receipt metadata; a/b identify distinct 2025 packages. Collection titles follow the authoritative technical reference registry; original filenames are preserved in the machine registry. The technical report has no stated personal or organizational author, so its APA entry begins with the title. No public URL is invented for this local report.

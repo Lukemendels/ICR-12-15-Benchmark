@@ -1,11 +1,13 @@
-# EAB leadership brief
+# EAB leadership decision brief
 
-Status: COMPLETE
+Status: COMPLETE — Mission 4.5 revision, September 10, 2026.
 
-Final PDF: `final/TSA-ICR-Consistency-and-Analytical-Controls-EAB-Brief.pdf` (8 pages).
+Final PDF: `final/TSA-ICR-Consistency-and-Analytical-Controls-EAB-Brief.pdf` (9 pages; page 9 References).
 
-Editable manuscript: `source/brief.md`. Rebuild with `python scripts/build.py` from any working directory. Requires ReportLab, PyMuPDF and DejaVu Sans fonts. Figures are vector PDF exhibit extracts; tables are CSV.
+Editable manuscript: `source/brief.md`. Citation identities, full notes, abbreviated forms, references, and exact registered URLs: `source/citation-registry.json` and `source/citation-support.md`.
 
-All eight final pages were rendered and visually inspected. Completion, evidence-compression, institutional-tone, causal-boundary and PDF visual audits pass. Earlier editorial-checkpoint.json records the resolved infrastructure interruption and is retained as history.
+Rebuild with `python3 scripts/build.py`; validate with `python3 scripts/audit.py` from this directory (or use absolute script paths). Requires ReportLab, PyMuPDF, DejaVu Sans regular/bold, and Noto Sans italic. This revision used ReportLab 5.0.1 and PyMuPDF 1.28.2 in `/tmp/eab-brief-venv`. Rendered review images are regenerated in `/tmp/eab-brief-render`. Build uses explicit source page breaks and same-page full first-use notes; live links are embedded directly. Tables 01–07 are regenerated CSV exports. The diagram is rendered from the source sequence.
 
-No new research or evidence adjudication. The completed technical report remains the evidentiary record. Protected content is unchanged; only this directory is included in the final commit.
+Current acceptance records: `audit/revision-citation-layout-audit.json` and `audit/revision-analytical-editorial-audit.md`. `REVISION-RECORD.md` records the changes. Other audit files are historical records of the prior eight-page edition and are superseded for current acceptance.
+
+No new research or re-adjudication. The 55-page technical report is unchanged and remains authoritative. All mission changes are confined to this leadership directory.

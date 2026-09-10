@@ -1,6 +1,3 @@
-Evidence coverage,Count,Interpretation
-Recent TSA ICR packages,90,"Includes historical versions, proposals, and pending submissions"
-Assigned control histories,48,Histories can contain multiple package versions
-Principal activity representations,468,Structured descriptions of source-defined tasks; representations can overlap
-Reviewed assumption observations,162,Includes repeated versions and formula-header coefficients
-Quantitative checks,341,Heterogeneous checks across 40 versions; not complete model validation
+Evidence base,Meaning for this decision
+90 recent TSA packages; 48 assigned control histories,"Includes historical versions, proposals, and pending submissions"
+341 quantitative checks across 40 versions,"Selected, heterogeneous checks; not complete model validation"
