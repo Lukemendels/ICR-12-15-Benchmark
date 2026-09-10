@@ -1,6 +1,28 @@
-# Mission 1 research protocol
-Read research/research-state.json at the start of each iteration, then methodology/rubric.md, methodology/canonical-model.md, research/open-questions.md, research/saturation-log.md and methodology/leaders.md.
-The user mission controls scope. Do not build the application or final publication report. Use only public material; distinguish current source evidence from user-reported internal history.
-Preserve retrieved evidence, extraction, scoring and inference separately. Stable source and claim IDs are append-only. No score from search snippets or package metadata alone. Count an ICR as reviewed only after model extraction and evidence-based dimension scoring. Record missing evidence explicitly; unobserved is not zero.
-Record versions, dates, units, source precision, assumptions, rounding and prior/current reconciliations. Do not infer agency-wide rank from a single collection. Distinguish family versions from independent collections.
-Freeze gates: >=40 unique recent ICR reviews, >=8 components, meaningful TSA and relevant archetype coverage, TWO consecutive fully saturated strategic batches after the minimum, subsequent adversarial round, consistency and provenance validation, unresolved limitations and Mission 2 handoff. Never relax these gates to finish a turn. If interrupted, keep IN_PROGRESS and commit exact continuation steps.
+# Repository operating instructions
+
+## Authority
+- This Git repository is the durable system of record.
+- Read existing repository state before acting.
+- Reuse completed checkpoints.
+- Do not repeat prior work unless a concrete defect requires it.
+
+## Autonomy
+- You are authorized to create, modify, move, and delete files inside this repository as needed to complete the active mission.
+- Run repository-local tests, builds, validation, packaging, Git operations, commits, and pushes without requesting routine confirmation.
+- Ask only when an action requires access outside this repository, elevated privileges, or could affect unrelated machine state.
+
+## Completion
+- Checkpoint commits are durability mechanisms, not reasons to redo work.
+- Complete the active mission's acceptance gate before stopping.
+- Persist substantial progress before risky or long-running operations.
+- Do not enter unnecessary post-completion CI or polling loops.
+
+## Platform testing
+- Linux is authoritative for platform-independent development tests.
+- Windows/WebView2/Anvil host integration may be recorded as pending when unavailable.
+- Lack of WebView2 on Linux is not a failure of portable functionality.
+
+## Boundaries
+- Do not modify frozen evidence releases unless the active mission explicitly authorizes a new release.
+- Keep frozen public evidence, TSA-local overlays, and working ICR project state separate.
+- Do not place credentials or restricted information into the repository.
