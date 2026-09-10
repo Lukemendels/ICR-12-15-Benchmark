@@ -8,10 +8,10 @@ TSA ICR Items 12–15 | EAB decision brief | September 10, 2026
 A reasonable method can still produce a Supporting Statement that is difficult to reproduce, review, renew, or reuse when calculations, tables, labels, footnotes, and prose are maintained separately. This creates an avoidable analytical-control problem.
 
 ### DECISION REQUESTED
-**Authorize EAB to pilot a common, source-bound quantitative ICR model on a small number of upcoming renewals or revisions.** Generate downstream Items 12–15 tables and draft numerical narrative from one reviewed quantitative source of truth, retaining human analytical judgment and approval.
+**Authorize EAB to pilot a single, traceable quantitative ICR model on a small number of upcoming renewals or revisions.** Generate Items 12–15 tables and draft numerical language from the same reviewed model, retaining human analytical judgment and approval.
 
 ### NEXT MOVE
-Select cases covering respondent burden and branching populations, Federal cost by role, and Item 15 baseline/change reconciliation. Test whether a second analyst can reconstruct material outputs and whether supported input changes propagate through calculations, tables, and narrative.
+Select cases covering respondent burden with multiple respondent pathways, Federal cost by role, and Item 15 changes from the prior baseline. Test whether a second analyst can trace each key number to its source and calculation, reproduce it, and confirm that supported changes reach calculations, tables, and narrative.
 
 > Standardize the controls connecting inputs to outputs while preserving justified analytical differences.
 
@@ -29,7 +29,7 @@ TSA shows substantial methodological coherence when genuinely comparable work is
 Six task/method questions remain unresolved from public evidence. They require analyst or program context and **are not classified as errors**. A missing public explanation does not establish that no internal rationale exists.
 
 ### The more actionable weakness is inside individual statements
-Inputs, calculations, tables, periods, labels, footnotes, and narrative can diverge even when the underlying method is reasonable. The evidence supports stronger source-bound modeling and deterministic reconciliation more directly than common numeric assumptions across unlike activities. (Technical report, 2026, §§4–7, 10, 14.)
+Inputs, calculations, tables, periods, labels, footnotes, and narrative can diverge even when the underlying method is reasonable. The evidence supports traceable models and automated reconciliation checks more directly than common numeric assumptions across unlike activities. (Technical report, 2026, §§4–7, 10, 14.)
 
 | Evidence base | Meaning for this decision |
 |---|---|
@@ -49,7 +49,7 @@ When several representations of an estimate must be maintained separately, a sup
 
 | Leadership need | What a connected analytical record enables |
 |---|---|
-| Review and reproducibility | Trace a material output to its inputs and formula; resolve discrepancies before approval |
+| Review and reproducibility | Trace each key number to its source and calculation; resolve discrepancies before approval |
 | Renewals and assumption reuse | Identify the prior model, determine which assumptions still apply, and update supported inputs |
 | Change accounting | Connect the applicable baseline, component changes, and new total |
 | Economic and regulatory reuse | Retain task scope, population, period, and valuation context before adapting an estimate |
@@ -82,7 +82,7 @@ The role-based method itself is coherent, but the displayed inputs do not reprod
 
 **$347,824 is not an official corrected estimate or an estimate of actual spending.** Public evidence does not establish which alternative underlying inputs or recurrence convention should govern. (Technical report, 2026, §7.9.)
 
-> This is exactly the class of problem a deterministic model-to-output reconciliation control should detect before publication.
+> This is exactly the class of problem an automated check connecting model calculations to published outputs should detect before publication.
 
 Analysts would still determine the appropriate assumptions and resolve the discrepancy. The control would make the mismatch visible before approval.
 
@@ -145,11 +145,11 @@ A calculation can reproduce exactly and still rely on an unsuitable assumption. 
 **Use a small number of upcoming renewals or revisions to test reconstruction and controlled change.**
 
 ### Select cases that exercise the key relationships
-Choose respondent burden with branching populations, Federal cost by role, and an Item 15 baseline/change bridge. One collection may cover more than one need. Confirm access to underlying models and source inputs before fixing the scope. (Technical report, 2026, §12.)
+Choose respondent burden with multiple respondent pathways, Federal cost by role, and an Item 15 baseline/change bridge. One collection may cover more than one need. Confirm access to underlying models and source inputs before fixing the scope. (Technical report, 2026, §12.)
 
 ### Produce a complete, reviewable pilot record
-- Source/provenance registry and explicit assumptions with applicability recorded.
-- Formula-preserving quantitative model and deterministic QA with visible issue dispositions.
+- Record of sources and assumptions, including when each assumption applies.
+- Quantitative model retaining formulas and source assumptions; automated quality checks with documented issue status and decisions.
 - Item 15 baseline/change ledger where applicable.
 - Generated tables and draft numerical Supporting Statement language for Items 12–15.
 - Human analytical review and second-analyst reconstruction of material outputs.
@@ -159,7 +159,7 @@ Choose respondent burden with branching populations, Federal cost by role, and a
 | EAB | Define the model and checks; document assumptions and results |
 | Program partners | Clarify task scope, inputs, and assumption applicability |
 | PRA reviewers | Review Supporting Statement requirements and draft outputs |
-| Second analyst | Independently reconstruct material outputs and test supported changes |
+| Second analyst | Independently trace and reproduce key numbers; test supported changes |
 | Leadership | Confirm assignments and assess whether to revise, expand, or stop |
 
 ### Establish acceptance measures before building
@@ -171,9 +171,9 @@ The pilot tests feasibility and control quality. It claims no measured savings, 
 
 # Decision and next move
 ### Decision requested
-**Authorize the bounded EAB pilot of a common, source-bound quantitative ICR model.**
+**Authorize the bounded EAB pilot of a single, traceable quantitative ICR model.**
 
-Use the pilot to establish whether a reviewed model can reliably generate tables and draft Items 12–15 numerical language while supporting independent reconstruction. (Technical report, 2026, §12.5.)
+Test whether the model reliably generates tables and draft Items 12–15 numerical language that another analyst can trace and reproduce. (Technical report, 2026, §12.5.)
 
 ### Immediate actions
 The following is a **proposed sequencing framework**, subject to case availability and confirmed responsibilities; these are not established program commitments.
@@ -181,13 +181,13 @@ The following is a **proposed sequencing framework**, subject to case availabili
 | Proposed timing | Action and review point |
 |---|---|
 | **0–30 days** | Select pilot ICR(s); confirm EAB, program, and PRA roles; identify available underlying models and source inputs; establish acceptance measures |
-| **30–60 days** | Construct the common quantitative model; run source/provenance and reconciliation controls; generate draft outputs; conduct second-analyst reconstruction |
-| **60–90 days** | Assess reconstruction quality, unresolved issues, and maintenance burden; determine whether to revise, expand, or stop |
+| **30–60 days** | Build the common model; check sources and reconcile calculations with draft outputs; have a second analyst trace and reproduce key numbers |
+| **60–90 days** | Assess traceability, reproducibility, unresolved issues, and maintenance effort; decide whether to revise, expand, or stop |
 
 ### Return to leadership with evidence
-Report what reconstructed successfully, what failed to propagate, which assumptions remain unresolved, and what maintaining the model required. Use those results to decide the next step; operational benefits remain to be measured.
+Report which key numbers another analyst could trace and reproduce, which changes failed to reach all outputs, which assumptions remain unresolved, and what maintaining the model required. Use those results to decide the next step; operational benefits remain to be measured.
 
-> Authorize the pilot, confirm accountable roles, and require a results-based decision on expansion.
+> Authorize the pilot, assign responsibility, test traceability and controlled change, then decide whether to expand.
 
 ---
 

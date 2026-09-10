@@ -1,4 +1,4 @@
 Proposed timing,Action and review point
 **0–30 days**,"Select pilot ICR(s); confirm EAB, program, and PRA roles; identify available underlying models and source inputs; establish acceptance measures"
-**30–60 days**,Construct the common quantitative model; run source/provenance and reconciliation controls; generate draft outputs; conduct second-analyst reconstruction
-**60–90 days**,"Assess reconstruction quality, unresolved issues, and maintenance burden; determine whether to revise, expand, or stop"
+**30–60 days**,Build the common model; check sources and reconcile calculations with draft outputs; have a second analyst trace and reproduce key numbers
+**60–90 days**,"Assess traceability, reproducibility, unresolved issues, and maintenance effort; decide whether to revise, expand, or stop"

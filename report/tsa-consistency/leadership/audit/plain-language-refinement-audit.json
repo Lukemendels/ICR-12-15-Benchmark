@@ -1,0 +1,17 @@
+{
+  "result": "PASS",
+  "baseline_commit": "8b85930a552f6bfee7698188fb6247c90400ebb3",
+  "pages": 9,
+  "page_9_references": true,
+  "first_use_notes_unchanged": true,
+  "citation_registry_byte_identical": true,
+  "references_source_and_pdf_text_unchanged": true,
+  "all_headings_and_page_structure_unchanged": true,
+  "link_annotation_targets_and_page_counts_unchanged": true,
+  "clickable_annotations": 8,
+  "distinct_supporting_statement_urls": 3,
+  "technical_and_frozen_evidence": "UNCHANGED: all tracked changes restricted to leadership directory; technical PDF byte equality also verified by citation/layout audit",
+  "visual_review": "Pages 1 and 8 inspected: readable spacing, no clipping or overflow",
+  "analytical_review": "PASS: wording-only comparison; numerical findings, qualifications, unresolved questions, prospective benefits and human approval preserved",
+  "new_research": false
+}

@@ -1,7 +1,7 @@
 {
   "result": "PASS",
   "baseline_commit": "439ba34",
-  "pdf_sha256": "2f361d9cdc459672cfc27b43fa7c94f4569a4bd5dc97574e94559c61a7325dce",
+  "pdf_sha256": "8cbfb2d671042176638cfc5e345f8f42494434914c57fd6c047b98361ae993bc",
   "pages": 9,
   "page_9_references": true,
   "full_first_use_citations": 4,
@@ -94,22 +94,22 @@
   "geometry": [
     {
       "page": 1,
-      "characters": 1537,
+      "characters": 1538,
       "result": "PASS"
     },
     {
       "page": 2,
-      "characters": 1730,
+      "characters": 1719,
       "result": "PASS"
     },
     {
       "page": 3,
-      "characters": 1613,
+      "characters": 1615,
       "result": "PASS"
     },
     {
       "page": 4,
-      "characters": 1484,
+      "characters": 1499,
       "result": "PASS"
     },
     {
@@ -124,12 +124,12 @@
     },
     {
       "page": 7,
-      "characters": 1827,
+      "characters": 1867,
       "result": "PASS"
     },
     {
       "page": 8,
-      "characters": 1454,
+      "characters": 1471,
       "result": "PASS"
     },
     {
@@ -142,6 +142,6 @@
   "technical_report_sha256": "f06b03b911c1beb829006f6e5a2d3cb6ebbab00fb068372aa782e1fc7b40c0b4",
   "protected_state": "PASS: all tracked changes confined to leadership directory; technical PDF byte-identical",
   "prior_manuscript_words": 2746,
-  "revised_main_brief_words": 1655,
+  "revised_main_brief_words": 1690,
   "network_destination_checks": "Not performed: exact frozen locators validated offline as instructed"
 }
