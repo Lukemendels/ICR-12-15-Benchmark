@@ -30,3 +30,20 @@ This study benchmarks observable federal Supporting Statement A methodology, wit
 The report finds strong TSA activity, occupation and cohort methods alongside distinct public reconstruction risks. Useful frontier practices are distributed across federal collections. No unique agency superiority or effect of recent internal TSA process changes is established.
 
 All Mission 1 evidence files remain unchanged. This README is the authorized navigation update; its historical frozen version remains accessible at the evidence commit. Mission 2 adds report artifacts and separately documents two frozen-record qualification issues without changing checks or scores. Null remains missing/not normalized, never an inferred zero.
+
+## License
+
+The original code, documentation, and project-authored data in this repository are
+licensed under the [MIT License](LICENSE). This grant includes the project-authored
+contents of the existing `ICR-EVIDENCE-1.0.0` release at
+`release/icr-evidence/v1.0.0`, including `runtime/consumer.mjs`, as frozen at commit
+`007abaf03e7bd950b2e8133ebd299c9f8b2f89de`. Applications may redistribute those
+materials with the copyright and license notice included.
+
+Archived or quoted third-party source documents and third-party dependencies retain
+their own copyright and licensing or public-domain status; this license does not
+relicense those materials. Preserve their existing notices and source attribution.
+
+This licensing notice does not change any frozen release file, manifest, or hash.
+Distributors should include the root `LICENSE` alongside the unchanged release
+folder or in the application's accompanying notices.
